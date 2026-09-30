@@ -1,0 +1,693 @@
+ 
+ Tayside Area Formulary Formulary 
+   [img: netFormulary] 
+ [img: NHS] 
+ Tayside Area Formulary 
+ Home 
+ About 
+ Admin 
+ netFormulary 
+ Chapters 
+ Medicines A-Z 
+ News 
+ Mobile 
+ Reports 
+ Contact Us 
+  Search 
+  Formulary Chapter 6: Endocrine system - Full Chapter 
+ Chapter Links... 
+ [img: Link ]    Tayside Endocrinology specialist list 
+ [img: Link ]    Society for Endocrinology 
+ [img: Link ]    You & Your Hormones (public/patient information website) 
+  Details... 
+ 06.01  
+ [img: Expand sub section]  
+ Drugs used in diabetes 
+ 06.01.01  
+ [img: Expand sub section]  
+ Insulins 
+ Insulins 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Insulin preparations recommended within Tayside are in the Tayside Diabetes MCN Handbook
+ Prescribe insulin by brand name 
+ High concentration insulins are initiated by specialists as they are not interchangeable without dose adjustment 
+ See section 06.01.03 for the management of diabetic ketoacidosis
+ [img: Link ]   Diabetes MCN Handbook - Diabetes and Driving 
+ [img: Link ]   Tayside Diabetes MCN Handbook � Basic Insulin Adjustment Guidelines 
+ [img: Link ]   Tayside Diabetes MCN Handbook - Treatment with Insulin 
+ [img: Link ]   MHRA Drug Safety Update. High strength, fixed combination and biosimilar insulin products: minimising the risk of medication error, April 2015 
+ [img: Link ]   MHRA Drug Safety Update. Insulins (all types): risk of cutaneous amyloidosis at injection site, September 2020 
+   [img: link] 
+ [img: Link ]   
+ HIS Diabetes Think Check Act - Treatment with Insulin 
+ 06.01.02  
+ [img: Expand sub section]  
+ Antidiabetic drugs 
+   [img: link] 
+ [img: Link ]   
+ Diabetes MCN Handbook - Diabetes and Driving 
+   [img: link] 
+ [img: Link ]   
+ SIGN 154: Pharmacological management of glycaemic control in people with type 2 diabetes, Nov 2017 
+   [img: link] 
+ [img: Link ]   
+ SIGN 172: Prevention and remission of type 2 diabetes, March 2025 
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: Pharmacological management of glycaemic control in people with Type 2 diabetes 
+ 06.01.02.01  
+ [img: Expand sub section]  
+ Biguanides 
+   [img: note]   
+ Metformin is the drug of first choice in individuals with type 2 diabetes with no osmotic symptoms
+ There is no evidence that metformin is ineffective in non-overweight individuals so it should be considered in this group
+ Metformin can be used alone or if necessary with any other diabetes therapy. It carries a low risk of hypoglycaemia.
+ GI side effects with metformin are experienced in up to 25% of patients, although only 5% cannot tolerate it. Modified release metformin can be trialled in these patients to see if tolerability improves.
+ Metformin should be started in low dose and built up gradually in 2 or 3 divided doses to a maximum dose of 1g twice daily with or after food
+ Metformin is renally excreted and accumulation may precipitate lactic acidosis. See Diabetes Handbook - Guidance on use of Metformin in Diabetic Patients with CKD for further information.
+ Metformin should be stopped in patients admitted to hospital with COVID-19 symptoms. This should be reviewed when blood lactate, renal function and hypoxic status are known. See ABCD guidance for further information.
+ Patients at home with COVID-19 symptoms should follow sick day rules and stop metformin accordingly. This should be re-started when well and eating and drinking normally.
+ Metformin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Tablets, M/R tablets, oral solution
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Gestational diabetes depending on fasting and postprandial targets [off-label]. If blood glucose levels are in the range for established diabetes, intensive specialist management and initial therapy with insulin is required. Initiate under the guidance of specialists.
+ See section 13.06.04 for use in hidradenitis suppurativa [off-label]
+ Polycystic ovary syndrome [off-label]
+ [img: Link ]   Joint Advisory Statement between The Royal College of Radiologists & Royal College Emergency Medicine regarding Emergency Computed Tomography scans and the use of Intravenous Iodinated Contrast Agents, June 2023 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   NHS Tayside - Hidradenitis treatment pathway 
+ [img: Link ]   NICE Evidence summary (unlicensed/off-label medicines): Polycystic ovary syndrome: metformin in women not planning pregnancy, Feb 2013 
+ [img: Link ]   Recommendations on metformin and contrast media in The Royal Australian and New Zealand College of Radiologists Iodinated Contrast Guidelines 2016 (endorsed by the Royal College of Radiologists) 
+ [img: Link ]   SPS - Metformin-for-hirsutism-and-acne-in-polycystic-ovary-syndrome-pcos 
+ [img: Link ]   Tayside Diabetes MCN Handbook � Screening and Management of Complications � Kidney Complications (including Metformin in diabetic CKD patients) 
+ 06.01.02.02  
+ [img: Expand sub section]  
+ Sodium-glucose co-transporter 2 inhibitors (SGLT2 inhibitors) 
+ [img: to top] 
+   [img: note]   
+ Sodium-glucose co-transporter-2 (SGLT2) inhibitors act primarily by inhibiting glucose re-absorption in the kidney resulting in glycosuria
+ Due to their mechanism of action patients will test positive for glucose in their urine and there is an increased incidence of genital candidiasis which once treated, does not usually recur. Patients may also notice an increase in urinary frequency, equivalent to one extra void per day
+ The SGLT2 inhibitors cause modest reductions in HbA1c, blood pressure and weight
+ Of the two available strengths of empagliflozin, there are no significant additional benefits in using 25mg compared with 10mg, so the 10mg daily dose is recommended in NHS Tayside
+ See  Diabetes Handbook  for further advice on place in therapy of SGLT2 inhibitors and  click here  for advice on risk of diabetic ketoacidosis (DKA) with SGLT2 inhibitors 
+ Hypovolaemia requires correction before initiation with an SGLT2 inhibitor and caution in patients for whom an SGLT2 inhibitor-induced drop in blood pressure could pose a risk
+ SGLT2 inhibitors should be withheld prior to surgery - please see  local guidance  for more information
+ Patients that are admitted to hospital with  any  acute illness should have their SGLT2 inhibitor withheld for the duration of the illness / admission
+ SGLT2 inhibitor therapy  should be temporarily discontinued in conditions that may lead to fluid loss e.g. GI illness, in particular those on concomitant diuretic therapy 
+ SGLT2 inhibitors should be withheld in all patients admitted with COVID-19 symptoms due to the increased risk of diabetic ketoacidosis (DKA) & hyperosmolar hyperglycaemic state (HHS). See  ABCD guidance  for further information.
+ Patients at home with COVID-19 symptoms should also stop SGTL2 inhibitors. These should only be re-started after review by GP.
+ NICE Multiple Technology Appraisal 390  recommends that dapagliflozin and empagliflozin are suitable for monotherapy. Healthcare Improvement Scotland notes that NICE MTA 390 superseded previous SMC advice not recommending empagliflozin for monotherapy. SGLT-2 inhibitors can be used when metformin is contraindicated or not tolerated and a sulphonylurea is not appropriate
+ Empagliflozin and dapagliflozin are also approved by SMC as dual therapy in combination with metformin when a sulphonylurea is inappropriate, as triple therapy in combination with metformin plus standard of care, and as add-on to insulin therapy.
+ For information on the use of dapagliflozin in chronic heart failure, see formulary  section 02.05.06 .
+ Dapagliflozin has recently come off-patent making it the most cost effective SGLT2 inhibitor medication that we have on formulary. Patients requiring a supply of their empagliflozin whilst in hospital should have this changed to dapagliflozin 10mg daily. This applies across all indications and has been discussed and approved with the diabetes, heart failure and renal teams. Please ensure the patient does not have a history of intolerance to dapagliflozin prior to prescribing. 
+ Dapagliflozin 
+(Diabetes & CKD)
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Tablets
+ In combination with insulin in type 2 diabetes mellitus (plus standard of care) (dose of concomitant insulin may need to be reduced)
+ Caution in patients for whom a drop in blood pressure could pose a risk such as patients taking anti-hypertensive therapy, those at risk of volume depletion, those with a history of hypotension and older people
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Patients that are admitted to hospital with an acute illness should have their SGLT-2 inhibitor withheld. They should be re-started when the patient is recovered from the acute illness / eating & drinking normally again. 
+ See full advice below on stopping during acute illness or prior to surgery
+ No longer licensed for treatment of type 1 diabetes mellitus 
+ [img: Green] In chronic kidney disease (CKD), depending on eGFR and urinary albumin: creatinine ratio (ACR) with or without type 2 diabetes mellitus - see local guidance below for more detail
+ [img: Link ]   Local guidance - SGLT2 inhibitor use in chronic kidney disease 
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier’s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update. Dapagliflozin (Forxiga): no longer authorised for treatment of type 1 diabetes mellitus, December 2021 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Empagliflozin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Second Choice 
+ Tablets
+ Dapagliflozin has recently come off-patent making it the most cost effective SGLT2 inhibitor medication that we have on formulary. Patients requiring a supply of their empagliflozin whilst in hospital should have this changed to dapagliflozin 10mg daily. This applies across all indications and has been discussed and approved with the diabetes, heart failure and renal teams. Please ensure the patient does not have a history of intolerance to dapagliflozin prior to prescribing. 
+ [img: Restricted Item] Dose restricted to 10mg daily (local restriction)
+ In combination with insulin in type 2 diabetes mellitus (plus standard of care) (dose of concomitant insulin may need to be reduced)
+ Caution in patients for whom a drop in blood pressure could pose a risk such as patients taking anti-hypertensive therapy, those at risk of volume depletion, those with a history of hypotension and older people
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Patients that are admitted to hospital with an acute illness should have their SGLT-2 inhibitor withheld. They should be re-started when the patient is recovered from the acute illness / eating & drinking normally again. 
+ See full advice below on stopping during acute illness or prior to surgery
+ [img: Green] In chronic kidney disease (CKD), depending on eGFR and urinary albumin: creatinine ratio (ACR) with or without type 2 diabetes mellitus - see local guidance below for more detail
+ [img: Link ]   Local guidance - SGLT2 inhibitor use in chronic kidney disease 
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier�s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Dapagliflozin and metformin  (Xigduo � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ In combination with insulin in type 2 diabetes mellitus (plus standard of care) (dose of concomitant insulin may need to be reduced)
+ Caution in patients for whom a drop in blood pressure could pose a risk such as patients taking anti-hypertensive therapy, those at risk of volume depletion, those with a history of hypotension and older people
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Patients that are admitted to hospital with an acute illness should have their SGLT-2 inhibitor withheld. They should be re-started when the patient is recovered from the acute illness / eating & drinking normally again. 
+ See full advice below on stopping during acute illness or prior to surgery
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier’s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Empagliflozin and metformin  (Synjardy � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ [img: Restricted Item]  Maximum daily dose of empagliflozin 10mg (locally recommended)
+ In combination with insulin in type 2 diabetes mellitus (plus standard of care) (dose of concomitant insulin may need to be reduced)
+ Caution in patients for whom a drop in blood pressure could pose a risk such as patients taking anti-hypertensive therapy, those at risk of volume depletion, those with a history of hypotension and older people
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Patients that are admitted to hospital with an acute illness should have their SGLT-2 inhibitor withheld. They should be re-started when the patient is recovered from the acute illness / eating & drinking normally again. 
+ See full advice below on stopping during acute illness or prior to surgery
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier’s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ 06.01.02.03  
+ [img: Expand sub section]  
+ GLP-1 receptor agonists and GIP/GLP-1 receptor agonist 
+   [img: note]   
+ The incretin hormones (GLP-1, GIP) are produced by the small intestine in response to a nutrient stimulus (meal). They act on the pancreas to promote insulin secretion in a glucose-regulated manner. The incretins also act centrally to decrease appetite, and they slow gastric emptying causing early satiety
+ GLP-1 RA therapy should be avoided in severe gastrointestinal disease such as gastroparesis or pancreatitis
+ For GLP-1 RA place in therapy, please see the  Tayside Diabetes MCN Handbook 
+ If GLP-1 RA therapy is being used solely for glycaemia, they should only be continued if there is a beneficial metabolic response (a reduction of HbA1c by at least 11mmol/mol and/or a weight loss of at least 3% of initial body weight in 6 months)
+ If there is underlying atherosclerotic cardiovascular disease, GLP-1 RA therapy should be continued irrespective of the drop in HbA1c or weight
+ For GIP/GLP-1 receptor agonist (tirzepatide), treatment should only be continued at 6 months if there has been a 5mmol/mol HbA1c reduction and/or 5% weight loss. Tirzepatide should only be continued at 1 year if HbA1c reduction > 22mmol/mol if not insulin treated OR HbA1c no worse AND total daily insulin dose reduced by > 50% if insulin treated OR Weight reduction > 8%
+ See  Diabetes MCN Handbook - Diabetes and Driving  for further information for drivers who are treated with non-insulin injections
+ 06.01.02.03  
+ [img: Expand sub section]  
+ Glucagon-like peptide-1 receptor agonists (GLP-1 RA) - oral once daily 
+ Semaglutide  (Rybelsus � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Tablets
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24 - 48 hours of eating and drinking normally
+ Please refer to local guidance on primary care initiation below
+ SMC has not reviewed oral semaglutide as monotherapy therefore cannot recommend its use as monotherapy within NHS Scotland
+ The formulation of Rybelsus is changing and there will be a change to the tablet strengths - please see MHRA Drug Safety Update link below and local guidance below for further information (top 2 links)
+ [img: Link ]   MHRA Drug Safety Update, February 2026. Semaglutide (Wegovy, Ozempic and Rybelsus): risk of Non-arteritic Anterior Ischemic Optic Neuropathy (NAION) 
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   MHRA Drug Safety Update - Rybelsus � (semaglutide tablets): transition to new formulation and risk of medication error, December 2025 
+ [img: Link ]   Semaglutide Tablets (Rybelsus) - Change in Formulation, Dosing and Tablet Size (October 2025) 
+ [img: Link ]   FSRH statement: Glucagon-like peptide-1 (GLP-1) agonists and oral contraception, Jan 2025 
+ [img: Link ]   GLP-1 agonists and contraception - Patient information leaflet 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ [img: Link ]   NHS Tayside Diabetes MCN guidance Semaglutide and Tirzepatide initiation 
+ [img: Link ]   Primary Care Initiation of oral GLP-1 RA therapy in patients with Type 2 diabetes 
+ 06.01.02.03  
+ [img: Expand sub section]  
+ Glucagon-like peptide-1 receptor agonists (GLP-1 RA) - subcutaneous once weekly 
+ Semaglutide  (Ozempic � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Once weekly injection
+ Miss weekly dose if due during diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24 - 48 hours of eating and drinking normally
+ SMC has not reviewed semaglutide as monotherapy therefore cannot recommend its use as monotherapy within NHS Scotland
+ Note: as per local recommendation the maximum dosing for treatment of diabetes should be 1mg weekly 
+ [img: Link ]   MHRA Drug Safety Update, February 2026. Semaglutide (Wegovy, Ozempic and Rybelsus): risk of Non-arteritic Anterior Ischemic Optic Neuropathy (NAION) 
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   FSRH statement: Glucagon-like peptide-1 (GLP-1) agonists and oral contraception, Jan 2025 
+ [img: Link ]   GLP-1 agonists and contraception - Patient information leaflet 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ [img: Link ]   NHS Tayside Diabetes MCN guidance Semaglutide and Tirzepatide initiation 
+ Dulaglutide  (Trulicity � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Second Choice 
+ Once weekly injection
+ Miss weekly dose if due during diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24 - 48 hours of eating and drinking normally
+ SMC has not reviewed dulaglutide as monotherapy therefore cannot recommend its use as monotherapy within NHS Scotland
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   FSRH statement: Glucagon-like peptide-1 (GLP-1) agonists and oral contraception, Jan 2025 
+ [img: Link ]   GLP-1 agonists and contraception - Patient information leaflet 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ 06.01.02.03  
+ [img: Expand sub section]  
+ Glucagon-like peptide-1 receptor agonists (GLP-1 RA) - subcutaneous once daily 
+ Liraglutide  (Diavic � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Pre-filled pen injection 
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24 - 48 hours of eating and drinking normally
+ Available as a combination product with insulin degludec (Xultophy ® ) for use where the combination of basal insulin and GLP-1 receptor agonist is appropriate as directed by the specialist Diabetic team/Diabetes clinic.
+ Note: Xultophy ® is administered as dose steps. One dose step contains 1 unit of insulin degludec and 0.036 mg of liraglutide.
+ SMC has not reviewed liraglutide as monotherapy therefore cannot recommend its use as monotherapy within NHS Scotland
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   FSRH statement: Glucagon-like peptide-1 (GLP-1) agonists and oral contraception, Jan 2025 
+ [img: Link ]   GLP-1 agonists and contraception - Patient information leaflet 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ 06.01.02.03  
+ [img: Expand sub section]  
+ Glucose dependent insulintropic polypeptide (GIP) + glucagon-like peptide-1 (GLP-1) receptor agonist 
+ [img: to top] 
+ Tirzepatide  (Mounjaro � )
+(Type 2 Diabetes)
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ [img: Restricted Drug]   Restricted 
+ Once weekly injection
+ For patients with a BMI>38 kg/m2 (or >35kg/m2 and non-white ethnicity) OR ((BMI >35kg/m2 (32 kg/m2 non-white) AND HbA1c not at target) despite max tolerated Semaglutide)
+ Review monthly for tolerability and dose titration for first 6 months, review for tolerability and benefit at 6 months (discontinue if no evidence of treatment benefit)
+ Must only be continued after 52 weeks if continuation criteria is met - see guidance below on semaglutide and tirzepatide initiation
+ Non-formulary for weight management indication 
+ Miss weekly dose if due during diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24 - 48 hours of eating and drinking normally
+ SMC has not reviewed tirzepatide as monotherapy therefore cannot recommend its use as monotherapy within NHS Scotland
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   NHS Tayside Diabetes MCN guidance Semaglutide and Tirzepatide initiation 
+ 06.01.02.04  
+ [img: Expand sub section]  
+ Dipeptidylpeptidase-4 inhibitors 
+   [img: note]   
+ DPP-4 inhibitors enhance the effect of naturally produced glucagon-like peptide-1 (GLP-1)
+ Their advantage over GLP-1 receptor agonists is their oral bioavailability; however they are less potent at lowering glucose and do not have the beneficial weight effects or cardiovascular benefits seen with GLP-1 receptor agonists, although they are weight neutral and do not cause hypoglycaemia
+ DPP-4 inhibitors can be useful in frail older patients where a modest reduction in hyperglycaemia may improve osmotic symptoms
+ DPP-4 inhibitors should be avoided in acute pancreatitis and used with caution in patients with history of pancreatitis
+ There is limited experience with use of DPP-4 inhibitors in patients with moderate or severe heart failure therefore use with caution is recommended in these patients
+ Alogliptin has SMC approval for dual therapy with either metformin or sulphonylurea when either alternative is inappropriate. It is licensed for use in combination with other glucose lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control
+ Sitagliptin has SMC approval for monotherapy (when both metformin or sulphonylureas are not tolerated or contraindicated), dual therapy (with insulin or metformin or sulphonylureas) or triple therapy (with insulin and metformin or metformin and a sulphonylurea)
+ Sitagliptin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Tablets
+ In combination with insulin (dose of concomitant insulin may need to be reduced)
+ Preferred Gliptin (DPP-4 inhibitor) in patients with end-stage renal disease (ESRD) requiring haemodialysis or peritoneal dialysis (dose reduction necessary)
+ [img: Link ]   MHRA Drug safety update: Risk of acute pancreatitis Sept 12 
+ Alogliptin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Second Choice 
+ Tablets
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Sitagliptin and Metformin  (Janumet � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Restricted to patients for whom the addition of a sulphonylurea to metformin monotherapy is not appropriate; or in combination with a sulphonylurea (triple therapy).
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Alogliptin and metformin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Restricted to patients for whom the addition of a sulphonylurea to metformin monotherapy is not appropriate
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ 06.01.02.05  
+ [img: Expand sub section]  
+ Sulphonylureas 
+   [img: note]   
+ Sulphonylureas act by augmenting insulin release by the pancreas, so some capacity to produce insulin must be retained
+ Sulphonylureas are associated with a significant risk of hypoglycaemia and are associated with on average a 1-2kg weight gain
+ Sulphonylureas do not confer any cardiovascular protection
+ Sulphonylureas are generally no longer considered second line medications in most patients, but may be useful in certain situations such as:
+ BMI <25kg/m 2  (providing type 1 diabetes has been excluded)
+ significant hyperglycaemia at diagnosis of type 2 diabetes (providing type 1 diabetes has been excluded)
+ steroid-induced diabetes or where pre-existing diabetes has been worsened by steroids
+ certain rare genetic forms of diabetes
+ Sulphonylureas are principally metabolised in the liver and therefore must be avoided in hepatic impairment
+ Sulphonylureas may be used in mild to moderate renal impairment but must be avoided in severe renal impairment and used with caution in older people due to risk of hypoglycaemia
+ See  Diabetes MCN Handbook - Diabetes and Driving  for further information for drivers treated with a sulphonylurea
+ Gliclazide 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Tablets, M/R tablets
+ Glipizide 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Second Choice 
+ Tablets
+ 06.01.02.06  
+ [img: Expand sub section]  
+ Thiazolidinediones 
+   [img: note]   
+ In light of age related risks with thiazolidinediones (fractures, heart failure, small increased risk of bladder cancer with pioglitazone), the balance of risks and benefits should be considered carefully both before and during treatment in those aged over 65
+ Pioglitazone should be avoided in hepatic impairment, heart failure (class I-IV), active or history of bladder cancer, uninvestigated macroscopic haematuria, older people, or high fracture risk
+ Prior to initiation with pioglitazone, urine should be checked for presence of haematuria (do not prescribe if present) and LFTs should be checked and monitored periodically based on clinical judgement
+ Pioglitazone may be prescribed as dual or triple therapy with metformin/sulphonylurea or monotherapy for patients in whom metformin and sulphonylureas are contraindicated or not tolerated
+ Pioglitazone 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ In combination with insulin under close specialist supervision 
+ Risk of fracture should be considered in female patients 
+ [img: Link ]   MHRA Drug safety update - Pioglitazone: risk of bladder cancer 2011 
+ [img: Link ]   MHRA Drug safety update: Risk of cardiac failure when combined with insulin 2011 
+ Pioglitazone and Metformin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Tablets
+ Stop if diarrhoea & vomiting / flu (any dehydrating illness) - restart after 24-48 hours of eating and drinking normally
+ Use is restricted to patients who cannot be treated with a sulphonylurea in combination with metformin
+ [img: Link ]   MHRA Drug safety update - Pioglitazone: risk of bladder cancer 2011 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug safety update: Risk of cardiac failure when combined with insulin 2011 
+ 06.01.02.07  
+ [img: Expand sub section]  
+ Other antidiabetic drugs 
+ Acarbose 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+Tablets
+ When other oral antidiabetic drugs are not tolerated or are contra-indicated 
+ 06.01.03  
+ [img: Expand sub section]  
+ Diabetic ketoacidosis 
+ [img: to top] 
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: DKA pathway 0-4 hours 
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: DKA pathway 4 hours to discharge 
+ 06.01.04  
+ [img: Expand sub section]  
+ Treatment of hypoglycaemia 
+ Glucagon  (GlucaGen � HypoKit)
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+Injection, hypoglycaemic kit 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia in hospital 
+ GlucoGel � 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+ Note: SPC link not relevant for this product (classed as food supplement) 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia in hospital 
+ Glucose 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Formulary 
+Intravenous infusion
+ Care irritant 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia 
+ [img: Link ]   Tayside Diabetes MCN Handbook: Hypoglycaemia in hospital 
+ 06.01.06  
+ [img: Expand sub section]  
+ Diagnostic and monitoring agents for diabetes mellitus 
+ 06.01.06  
+ [img: Expand sub section]  
+ Blood glucose monitoring 
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: Diabetes Consumables 
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: Guidelines for self monitoring of blood or urine glucose in diabetes 
+ 06.01.06  
+ [img: Expand sub section]  
+ Oral glucose tolerance test 
+ Polycal � 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ First Choice 
+ Liquid (neutral or orange)
+ 113mL with extra fluid to administer a total volume of 200-300mL
+ Note: SPC link not relevant for this product (classed as food supplement)
+ Glucose  (Rapilose � OGTT)
+ [img: View adult BNF] 
+ [img: View SPC online] 
+   [img: Track Changes] 
+ Second Choice 
+ Oral Solution
+ Note: SPC link not relevant for this product (classed as food supplement)
+   [img: link] 
+ [img: Link ]   
+ Tayside Diabetes MCN Handbook: Diagnosis of Diabetes 
+  .... 
+  Non Formulary Items 
+ Canagliflozin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ Increases plasma concentration of digoxin, and dabigatran concentration may be increased - see SPC 
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier’s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Canagliflozin and metformin  (Vokanamet � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ Increases plasma concentration of digoxin, and dabigatran concentration may be increased - see SPC 
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier’s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on increased risk of lower-limb amputation (mainly toes), March 2017 
+ [img: Link ]   MHRA Drug Safety Update: SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis, April 2016 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Empagliflozin and linagliptin  (Glyxambi � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier�s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Ertugliflozin  (Steglatro � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   Local guidance - Stopping SGLT2 inhibitors during periods of acute illness / surgery 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness, March 2020. 
+ [img: Link ]   MHRA Drug Safety Update. SGLT2 inhibitors: reports of fournier�s gangrene (necrotising fasciitis of the genitalia or perineum), February 2019 
+ [img: Link ]   Patient Information Leaflet - SGLT2 inhibitor medicines 
+ Exenatide  (Bydureon � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Once weekly M/R injection
+ Discontinued October 2025
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ Liraglutide  (Saxenda � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Pre-filled pen injection
+ Discontinued - replaced by Diavic®
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ Lixisenatide  (Lyxumia � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Pre-filled pen injection
+ Discontinued September 2023
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reminder of the potential side effects and to be aware of the potential for misuse. Drug Safety Update, Oct 2024 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ Exenatide  (Byetta � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Twice daily injection
+ Due to be discontinued in March 2024
+ [img: Link ]   MHRA Drug Safety Update, January 2026. GLP-1 receptor agonists and dual GLP-1/GIP receptor agonists: strengthened warnings on acute pancreatitis, including necrotising and fatal cases 
+ [img: Link ]   GLP-1 and dual GIP/GLP-1 receptor agonists: potential risk of pulmonary aspiration during general anaesthesia or deep sedation. MHRA Drug Safety Update, Jan 2025 
+ [img: Link ]   GLP-1 receptor agonists: reports of diabetic ketoacidosis when concomitant insulin was rapidly reduced or discontinued. Drug Safety Update volume 12, issue 11: June 2019:2 
+ [img: Link ]   MHRA Drug Safety Update 2009: Risk of severe pancreatitis and renal failure 
+ Saxagliptin and metformin  (Komboglyze � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Saxagliptin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Linagliptin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Linagliptin and metformin  (Jentadueto � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets 
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Saxagliptin and dapagliflozin  (Qtern � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Vildagliptin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Vildagliptin and metformin 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ [img: Link ]   MHRA Drug Safety Update. Metformin and reduced vitamin B12 levels: new advice for monitoring patients at risk, June 2022. 
+ [img: Link ]   MHRA Drug Safety Update: Risk of acute pancreatitis Sept 12 
+ Glimepiride 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tolbutamide 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Repaglinide 
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Tablets
+ Alternative to sulphonylureas in patients with problematic hypoglycaemia 
+ Teriparatide  (Forsteo � )
+ [img: View adult BNF] 
+ [img: View SPC online] 
+ [img: Track Changes] 
+ Non Formulary 
+ Injection
+ Brand name must be stated on prescriptions for teriparatide
+ New patients should be initiated on the biosimilar teriparatide (Terrosa®)
+ Teriparatide (Forsteo®) may be continued in existing patients until their next clinical review
+ [img: Link ]   Tayside New Medicines Treatment Protocol: Teriparatide 
+ Key 
+ [img: Restricted Drug] 
+ Restricted Drug 
+ [img: Unlicensed Drug] 
+ Unlicensed 
+ [img: click to search medicines.org.uk] 
+ Link to adult BNF 
+ [img: click to search medicines.org.uk] 
+ Link to children's BNF 
+ [img: click to search medicines.org.uk] 
+ Link to SPCs 
+ [img: SMC] 
+ Scottish Medicines Consortium 
+ [img: Cytotoxic Drug] 
+ Cytotoxic Drug 
+ [img: CD] 
+ Controlled Drug 
+ [img: High Cost Medicine] 
+ High Cost Medicine 
+ [img: Homecare] 
+ Homecare 
+ [img: ICB] 
+ ICB Commissioned 
+ [img: Green Low Carbon] 
+ Low carbon footprint
+ [img: Amber Medium Carbon] 
+ Medium carbon footprint
+ [img: Red High carbon footprint] 
+ High carbon footprint
+ Status 
+ Description 
+ [img: Green] 
+ General Use. May be initiated by primary or secondary care. Suitable for non specialist prescribing.   
+ [img: Amber] 
+ Can be prescribed in General Practice under the direction of a Specialist   
+ [img: Red] 
+ To be prescribed by Hospital Specialists Only   
+ [img: Black] 
+ SMC not accepted. SMC not recommended medicines must go through the non-formulary medicines process, this includes PACS Tier One & Two, as outlined in the NHS Tayside Policy on Prescribing of Non-Formulary Medicines (including Peer Approved Clinical System (PACS) Tier One & Two)    
+ [img: Grey] 
+ Medicines which NHS Tayside ADTC does not recommend for use at present due to limited clinical and/or cost effective data   
+ [img: netFormulary] 

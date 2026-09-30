@@ -1,0 +1,1174 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta http-equiv="Content-Language" content="en" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Formulary
+</title>
+
+    <script src="Javascript/jquery-1.4.4.min.js" type="text/javascript"></script>
+    <script src="Javascript/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+    <link href="includes/css/jquery-ui-1.8.17.custom.css" rel="stylesheet" type="text/css" />
+    <script src="Javascript/splitter.js" type="text/javascript"></script>
+
+    <!-- General page styles (not critical to the demos) -->
+    <link rel="stylesheet" type="text/css" href="includes/css/InformNew.css" />
+    <style type="text/css" media="all">
+        html, body
+        {
+            margin: 0; /* Remove body margin/padding */
+            padding: 0;
+            /* overflow:auto; Remove scroll bars on browser window */
+        }
+        #header
+        {
+            padding: 2px;
+        }
+        #MySplitter
+        {
+            border: 1px solid silver;            
+            min-width: 500px; /* Splitter can't be too thin ... */
+            min-height: 300px; /* ... or too flat */
+            height: 100%;
+            margin: 4px;
+            width: 100%;
+            padding: 0px;
+        }
+        #MySplitter .Pane
+        {
+            overflow: auto;
+        }
+
+        /* Splitbar styles; these are the default class names */
+        .vsplitbar
+        {
+            width: 3px;
+            background: lightgrey url(includes/images/vgrabber.gif) no-repeat center;
+        }
+        .vsplitbar:hover, .vsplitbar.active
+        {
+            background: silver url(includes/images/vgrabber.gif) no-repeat center;
+        }
+        .hsplitbar
+        {
+            height: 0px;
+            background: silver;
+            cursor: auto;
+        }
+        .highlight 
+        {
+            text-decoration: none;
+            /*color:rgb(54, 49, 49);*/
+            font-weight:bolder;
+            font-size:122%;
+        }   
+        .wordWrapper 
+        {
+            font: 11px/15px Verdana, Arial, Helvetica, sans-serif;
+            padding: 0 0.3em;
+        } 
+        .ribbon {
+	        overflow: hidden;
+	        position: relative;
+        }
+
+        .cr {
+	        width: 200px;
+	        padding: 16px;
+	        text-align: center;
+	        color: #f0f0f0;
+	        text-shadow: 0 1px 1px rgba(0,0,0,.2);
+	        font: 500 14px/1 'Lato', sans-serif;
+        }
+
+        .cr-sticky {
+	        position: fixed;
+        }
+
+        .cr-top {
+	        top: 25px;
+        }
+
+        .cr-left {
+	        transform: rotate(-45deg);
+	        left: -50px;
+        }
+
+        .cr-blue {
+	        background: rgba(51,153,221,0.89);
+        }
+
+        .cr-green {
+	        background: rgba(34,204,119,0.89);
+        }
+
+        .cr-red {
+	        background: rgba(238,68,51,0.89);
+        }
+    </style>
+
+    <script type="text/javascript">
+        //$().ready(function() {
+        //    // Vertical splitter. Set min/max/starting sizes for the left pane.
+        //    $("#MySplitter").splitter({
+        //        splitHorizontal: true,
+        //        outline: true,
+        //        //sizeTop: 100, minTop: 50, maxTop: 200,
+        //        sizeBottom: 100,
+        //        minBottom: 100,
+        //        maxBottom: 100,
+        //        //sizeLeft: 150, minLeft: 100, maxLeft: 200,
+        //        anchorToWindow: true, 
+        //        accessKey: "L"
+        //    });
+        //    // First horizontal splitters, nested in the right pane of the vertical splitter.
+        //    $("#TopSplitter").splitter({
+        //        splitVertical: true,
+        //        outline: true,
+        //        sizeLeft: $(window).width() * 0.28, 
+        //        minLeft: $(window).width() * 0.2, 
+        //        maxLeft: $(window).width() * 0.4,
+        //        //sizeTop: 100, minTop: 50, maxTop: 200,
+        //        accessKey: "V"
+        //    });
+            
+        //    // Second horizontal splitter, nested in bottom pane of first horizontal splitter
+        //    $("#BottomSplitter").splitter({
+        //        splitHorizontal: true,
+        //        outline: true,
+        //        //sizeBottom: 150, minTop: 50,
+        //        //sizeTop: 84, minTop: 84, maxTop: 84,
+        //        //sizeTop: 67, minTop: 67, maxTop: 67,
+        //        sizeTop: 70, minTop: 70, maxTop: 70,   
+        //        accessKey: "J"
+        //    });
+        //});            
+
+// =================================================  Accessing Session from Javascript using JQuery, AJAX in ASP.Net ========================================================
+
+        var webMethod_result;
+        function WebMethod_OnError(result, response) {
+            //debugger
+            //Dummy function for page method ajax call
+        }
+        function WebMethod_OnSuccess(result, response) {
+            //Dummy function for page method ajax call
+            webMethod_result = result.d;
+        }
+
+        function CallWebMethod(MethodName, ObjParams, isAsync, OnSuccessHandler, OnErrorHandler) {
+            try {
+                //Set the callback methods for success and error
+                if (OnSuccessHandler == undefined || typeof (OnSuccessHandler) == 'undefined') {
+                    OnSuccessHandler = WebMethod_OnSuccess
+                }
+
+                if (OnErrorHandler == undefined || typeof (OnErrorHandler) == 'undefined') {
+                    OnErrorHandler = WebMethod_OnError
+                }
+
+                //Serialize the webmethod function parameters
+                var serializedParams = '';
+                //using Json2.js; 
+
+                //you can download the file from the location mentioned in the references
+                serializedParams = JSON.stringify(ObjParams);
+
+                //Make the ajax calls
+                return $.ajax({
+                    type: 'POST',
+                    async: isAsync,
+                    url: 'WebSession.asmx/' + MethodName,
+                    data: serializedParams,
+                    dataType: 'json',
+                    contentType: 'application/json; charset=utf-8',
+                    success: OnSuccessHandler,
+                    error: OnErrorHandler
+                });
+            }
+            catch (e) {
+                //suppress error
+            }
+            return;
+        }
+
+        //Proxy method for getting the Session value for a given name 
+        function GetSessionValue(SessionName, OnSuccessHandler, OnErrorHandler) {
+            //set web method parameters; should be same as parameter name else the web 
+
+            //method wont be called
+            var methodParams = new Object();
+            methodParams.Name = SessionName;
+
+            CallWebMethod('GetSessionValue', methodParams, false, OnSuccessHandler, OnErrorHandler);
+            //get the response
+            return webMethod_result;
+        }
+
+        function SetSessionValue(SessionName, SessionValue, OnSuccessHandler, OnErrorHandler){
+            //set web method parameters; should be same as parameter name else the web method wont be called
+            var methodParams = new Object();
+ 
+            methodParams.Name = SessionName;
+            methodParams.Value = SessionValue;
+ 
+            CallWebMethod('SetSessionValue', methodParams, false, OnSuccessHandler, OnErrorHandler);
+        }
+
+// =================================================  Accessing Session from Javascript using JQuery, AJAX in ASP.Net ========================================================
+
+        function btnBNFPrint_onclick() {
+
+            // Update Session variables
+            SetSessionValue('MainInstance', ' 1');
+            SetSessionValue('MainSessionId', 'Mainf23b3020d1034d0aadc40cf4ef7df2dc|1');
+
+            //Open new web browser
+            window.open('PrintBNF.aspx', '_blank', 'toolbar=yes,menubar=yes,scrollbars=yes,resizable=no,width=' + screen.width + ',height=' + screen.height + ',top=0,left=0', true);
+        }
+    </script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!-- =========================================================New Code=========================================================-->
+
+   <script type="text/javascript">
+
+       var showAlert;
+       
+       var UpdateContentSize;
+       var UpdateContentSize2;
+       var UpdateContentHeight;
+
+       $(function () {
+
+           showAlert =
+           function () {
+               var container = $('#container').width();
+
+               var mainpadding = ($("#mainpanel").outerWidth(true) - $("#mainpanel").width());
+               var contentpadding = ($("#contentcolumn").outerWidth(true) - $("#contentcolumn").width()) + 2;
+               var leftpadding = ($("#leftcolumn").outerWidth(true) - $("#leftcolumn").width());
+
+               var main = $("#mainpanel").width() - mainpadding;
+               if (main <= 976) { main = 976; }
+               main = main - 2;
+               var contentWidth = main - ($("#leftcolumn").outerWidth(true));
+               var leftColumnWidth = main - contentWidth;
+
+               contentWidth = contentWidth - contentpadding;
+               leftColumnWidth = leftColumnWidth - leftpadding;
+
+               alert("container width:" + container +
+                   "\n  wrapper width(true):" + $("#wrapper").outerWidth(true) +
+                   "\n  MainPanel width(true):" + $("#mainpanel").outerWidth(true) +
+                   "\n  MainPanel width:" + $("#mainpanel").width() +
+                   "\n  sidebar width(true):" + $("#leftcolumn").outerWidth(true) +
+                   "\n  sidebar width:" + leftColumnWidth +
+                   "\n  contentcolumn width(true):" + $("#contentcolumn").outerWidth(true) +
+                   "\n  contentcolumn width:" + contentWidth +
+                   "\n  New contentcolumn Width:" + contentWidth +
+                   "\n  New leftcolumn width:" + leftColumnWidth);
+                     
+               alert($('#KeyPanel').width());
+           }
+
+
+           UpdateContentSize = function () {
+
+               //$('#').resize();              
+               if ($('#leftcolumn').is(':visible')) {
+
+
+
+                   var mainpadding = ($("#mainpanel").outerWidth(true) - $("#mainpanel").width());
+                   var contentpadding = ($("#contentcolumn").outerWidth(true) - $("#contentcolumn").width());
+                   var leftpadding = ($("#leftcolumn").outerWidth(true) - $("#leftcolumn").width());
+
+                   var main = $("#mainpanel").outerWidth(true) -  mainpadding;
+                   if (main <= 976) { main = 976; }
+                   main = main - 1;
+                   var leftColumnWidth = ($("#leftcolumn").width() + leftpadding);
+                   var contentWidth = main - leftColumnWidth;
+   
+                   contentWidth = contentWidth  - contentpadding;
+                   leftColumnWidth = leftColumnWidth - leftpadding;
+                   
+            //$('#DisplayTest').html('window width: ' + $(window).width() +
+            //                          '<br/>body:' + $('body').width() +
+            //                          '<br/>container:' + $('#container').width() +
+            //                          '<br/>main panel:' +main +
+            //                                    '<br/>Current left panel:' + $("#leftcolumn").outerWidth(true) + ', left padding:' + leftpadding +
+            //                                    '<br/>Current content panel:' + $("#contentcolumn").width() + ', content padding:' + contentpadding +
+            //                                    '<br/>Current content panel(true):' + $("#contentcolumn").outerWidth(true) + ', content padding:' + contentpadding +
+            //                                    '<br/>new left panel:' + leftColumnWidth +
+            //                                    '<br/> new content panel:' + contentWidth+
+            //                                    '<br/>Total:' + (contentWidth + $('#leftcolumn').outerWidth(true)) +
+            //                                    '<br/>Main:' + main);
+
+                   $("#leftcolumn").css("width", leftColumnWidth +'px');
+                   $("#contentcolumn").css("width", contentWidth + 'px');
+
+
+               }
+           }
+         
+
+           UpdateContentHeight = function (fullHeight, news, keyh) {
+               news = 0;
+               fullHeight = (fullHeight < 450) ? 450 : fullHeight;
+               fullHeight = fullHeight - $('#navbar').outerHeight(true) - news - keyh - ($('#container').outerHeight(true) - $('#container').height());
+               $('#contentcolumn').css({ 'height': fullHeight + 'px' });
+               $('#leftcolumn').css({ 'height': fullHeight + 'px' });
+           }
+
+           var fullHeight = $(window).height();
+           UpdateContentHeight(fullHeight, $('#NewsPanel').outerHeight(true), $('#KeyPanel').outerHeight(true));
+           UpdateContentSize();
+
+           // Makes left pane to be resizable
+           $("#leftcolumn").resizable({
+               start: function() {
+                   UpdateContentSize();
+               },
+               resize: function() {
+                   UpdateContentSize();
+               },
+               stop: function() {
+                   UpdateContentSize();
+               }
+           });
+           $("#leftcolumn").resizable({ handles: { 'e': '#handle' } });
+
+           // Detects left pane width change and updates right pane width to ensure both elements stay inside the container.  
+           $(window).bind('resize', function() {
+
+               fullHeight = $(window).height();
+               var newsVisible = $('#NewsPanel').is(":hidden");
+               var keyVisible = $('#KeyPanel').is(":hidden");
+               var newsh = $('#NewsPanel').outerHeight(true);
+               var keyh = $('#KeyPanel').outerHeight(true);
+               if (newsVisible === true) {
+                   newsh = 0;
+               }
+               if (keyVisible === true) {
+                   keyh = 0;
+               }
+
+               UpdateContentHeight(fullHeight, newsh, keyh);
+               UpdateContentSize();
+               UpdateContentSize();  // Calls twice to retrieve the true width value for the div container 
+           });
+
+
+           /* The functions below make the web page to change its column layout visibility*/
+           $("#HideMenu").click(function () {
+               $("#leftcolumn").hide();
+               $("#contentcolumn").css("width", "99.5%");
+               $("#ShowMenu").css("Display", "inline-block");
+               $("#ShowMenu").css("Display", "-moz-inline-stack");
+               $("#ShowMenu").show();
+           });
+           $("#ShowMenu").click(function () {
+               $("#leftcolumn").show();
+               UpdateContentSize();
+               $("#ShowMenu").hide();
+           });
+           $("#News").click(function () {
+               $("#NewsPanel").slideToggle('slow', function() {
+                   //var newsHidden = $(this).is(":hidden");
+                   //var keyHidden = $('#KeyPanel').is(":hidden");
+                   //var newsh = $('#NewsPanel').outerHeight(true);
+                   //var keyh = $('#KeyPanel').outerHeight(true);
+
+                   //if (newsHidden === true) {
+                   //    newsh = 0;
+                   //}
+                   //if (keyHidden === true) {
+                   //    keyh = 0;
+                   //}
+                   //UpdateContentHeight(fullHeight, newsh, keyh);
+                   UpdateContentSize();
+               });
+   
+           });
+
+           $("#NewsPanel").click(function ()
+           {
+               $("#NewsPanel").slideToggle('slow', function () {
+                   //var newsHidden = $(this).is(":hidden");
+                   //var keyHidden = $('#KeyPanel').is(":hidden");
+                   //var newsh = $('#NewsPanel').outerHeight(true);
+                   //var keyh = $('#KeyPanel').outerHeight(true);
+
+                   //if (newsHidden === true) {
+                   //    newsh = 0;
+                   //}
+                   //if (keyHidden === true) {
+                   //    keyh = 0;
+                   //}
+                   //UpdateContentHeight(fullHeight, newsh, keyh);
+                   UpdateContentSize();
+               });
+               
+           });
+
+           $("#Keys").click(function () {
+               $("#KeyPanel").slideToggle('slow', function () {
+                   var keyHidden = $(this).is(":hidden");
+                   var newsHidden = $('#NewsPanel').is(":hidden");
+                   var newsh = $('#NewsPanel').outerHeight(true);
+                   var keyh = $('#KeyPanel').outerHeight(true);
+
+                   if (keyHidden === true) {
+                       keyh = 0;
+                   }
+                   if (newsHidden === true) {
+                       newsh = 0;
+                   }
+                   UpdateContentHeight(fullHeight, newsh, keyh);
+               });
+           });
+
+           $("#KeyPanel").click(function () {
+               $("#KeyPanel").slideToggle('slow', function () {
+                   var keyHidden = $(this).is(":hidden");
+                   var newsHidden = $('#NewsPanel').is(":hidden");
+                   var newsh = $('#NewsPanel').outerHeight(true);
+                   var keyh = $('#KeyPanel').outerHeight(true);
+
+                   if (keyHidden === true) {
+                       keyh = 0;
+                   }
+                   if (newsHidden === true) {
+                       newsh = 0;
+                   }
+                   UpdateContentHeight(fullHeight, newsh, keyh);
+               });
+           });
+
+           /* Page Width*/
+           $("#normal").click(function () {
+
+               var width = 0.85 * $("#container").width();
+               if (width > 1000) {
+                   $("#container").css("width", width);
+               }
+               else {
+                   $("#container").css("width", "1000px");
+               }
+
+               UpdateContentSize();
+           });
+           $("#wide").click(function () {
+               $("#container").css("width", "100%");
+               UpdateContentSize();
+           });
+
+       });
+
+  </script>
+
+
+      
+<!-- =========================================================New Code=========================================================-->
+<style type="text/css">
+	.bnfTree_0 { text-decoration:none; }
+
+</style></head>
+    
+
+<body>
+    <form name="form1" method="post" action="./indexNew.aspx?prefixUrl=bcuformulary" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="bnfTree_ExpandState" id="bnfTree_ExpandState" value="ncccccccccccccccccccccccc" />
+<input type="hidden" name="bnfTree_SelectedNode" id="bnfTree_SelectedNode" value="" />
+<input type="hidden" name="bnfTree_PopulateLog" id="bnfTree_PopulateLog" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjIyNTA1NzEyD2QWAgIDD2QWEAICDw8WBB4ISW1hZ2VVcmwFKn4vaW5jbHVkZXMvaW1hZ2VzL0luRm9ybV9JSV9sb2dvMnRyYW5zLnBuZx4LTmF2aWdhdGVVcmwFAX5kZAIDD2QWBAIBDw9kFgQeCW9ua2V5ZG93bgWlAWlmKGV2ZW50LndoaWNoIHx8IGV2ZW50LmtleUNvZGUpe2lmICgoZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlID09IDEzKSkge2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdidG5TZWFyY2gnKS5jbGljaygpO3JldHVybiBmYWxzZTt9fSBlbHNlIHtyZXR1cm4gdHJ1ZX07IB4Kb25LZXlQcmVzcwVAamF2YXNjcmlwdDppZiAoZXZlbnQua2V5Q29kZSA9PSAxMykgX19kb1Bvc3RCYWNrKCdidG5TZWFyY2gnLCcnKWQCBQ8PFgIeBFRleHQFJ0JldHNpIENhZHdhbGFkciBVbml2ZXJzaXR5IEhlYWx0aCBCb2FyZGRkAgQPDxYCHwEFAX5kZAIFDw8WAh4HVmlzaWJsZWhkZAIIDw8WAh8FaGRkAgoPZBYCZg9kFgICAQ88KwAJAgAPFgYeDU5ldmVyRXhwYW5kZWRkHgxTZWxlY3RlZE5vZGVkHglMYXN0SW5kZXgCGWQIFCsAGgVyMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgsMDo5LDA6MTAsMDoxMSwwOjEyLDA6MTMsMDoxNCwwOjE1LDA6MTYsMDoxNywwOjE4LDA6MTksMDoyMCwwOjIxLDA6MjIsMDoyMywwOjI0FCsAAhYGHwQFCFNob3cgQWxsHgVWYWx1ZQUKUHxTaG93IEFsbB4IRXhwYW5kZWRoZBQrAAIWCh8EBSUwMCAtIEVtZXJnZW5jeSB0cmVhdG1lbnQgb2YgcG9pc29uaW5nHwkFBE58MDAeDFNlbGVjdEFjdGlvbgsqLlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuVHJlZU5vZGVTZWxlY3RBY3Rpb24AHhBQb3B1bGF0ZU9uRGVtYW5kZx8KaGQUKwACFgofBAUdMDEgLSBHYXN0cm8taW50ZXN0aW5hbCBzeXN0ZW0fCQUETnwwMR8LCysEAB8MZx8KaGQUKwACFgofBAUaMDIgLSBDYXJkaW92YXNjdWxhciBzeXN0ZW0fCQUETnwwMh8LCysEAB8MZx8KaGQUKwACFgofBAUXMDMgLSBSZXNwaXJhdG9yeSBzeXN0ZW0fCQUETnwwMx8LCysEAB8MZx8KaGQUKwACFgofBAUbMDQgLSBDZW50cmFsIE5lcnZvdXMgU3lzdGVtHwkFBE58MDQfCwsrBAAfDGcfCmhkFCsAAhYKHwQFDzA1IC0gSW5mZWN0aW9ucx8JBQROfDA1HwsLKwQAHwxnHwpoZBQrAAIWCh8EBRUwNiAtIEVuZG9jcmluZSBzeXN0ZW0fCQUETnwwNh8LCysEAB8MZx8KaGQUKwACFgofBAU4MDcgLSBPYnN0ZXRyaWNzLCBneW5hZWNvbG9neSBhbmQgdXJpbmFyeS10cmFjdCBkaXNvcmRlcnMfCQUETnwwNx8LCysEAB8MZx8KaGQUKwACFgofBAUsMDggLSBNYWxpZ25hbnQgZGlzZWFzZSBhbmQgaW1tdW5vc3VwcHJlc3Npb24fCQUETnwwOB8LCysEAB8MZx8KaGQUKwACFgofBAUYMDkgLSBOdXRyaXRpb24gYW5kIGJsb29kHwkFBE58MDkfCwsrBAAfDGcfCmhkFCsAAhYKHwQFJzEwIC0gTXVzY3Vsb3NrZWxldGFsIGFuZCBqb2ludCBkaXNlYXNlcx8JBQROfDEwHwsLKwQAHwxnHwpoZBQrAAIWCh8EBQgxMSAtIEV5ZR8JBQROfDExHwsLKwQAHwxnHwpoZBQrAAIWCh8EBR0xMiAtIEVhciwgbm9zZSBhbmQgb3JvcGhhcnlueB8JBQROfDEyHwsLKwQAHwxnHwpoZBQrAAIWCh8EBQkxMyAtIFNraW4fCQUETnwxMx8LCysEAB8MZx8KaGQUKwACFgofBAUoMTQgLSBJbW11bm9sb2dpY2FsIHByb2R1Y3RzIGFuZCB2YWNjaW5lcx8JBQROfDE0HwsLKwQAHwxnHwpoZBQrAAIWCh8EBRAxNSAtIEFuYWVzdGhlc2lhHwkFBE58MTUfCwsrBAAfDGcfCmhkFCsAAhYKHwQFITk5IC0gT3RoZXIgZHJ1Z3Mgbm90IGNsYXNzaWZpYWJsZR8JBQROfDk5HwsLKwQAHwxnHwpoZBQrAAIWCh8EBRFBMSAtIE90aGVyIGFnZW50cx8JBQROfEExHwsLKwQAHwxnHwpoZBQrAAIWCh8EBRpBMiAtIEJvcmRlcmxpbmUgc3Vic3RhbmNlcx8JBQROfEEyHwsLKwQAHwxnHwpoZBQrAAIWCh8EBSNBMyAtIENhdXRpb25hcnkgYW5kIGFkdmlzb3J5IGxhYmVscx8JBQROfEEzHwsLKwQAHwxnHwpoZBQrAAIWCh8EBRpBNCAtIEludHJhdmVub3VzIGFkZGl0aXZlcx8JBQROfEE0HwsLKwQAHwxnHwpoZBQrAAIWCh8EBRVBNSAtIFdvdW5kIG1hbmFnZW1lbnQfCQUETnxBNR8LCysEAB8MZx8KaGQUKwACFgofBAUaQjIgLSBCb3JkZXJsaW5lIHN1YnN0YW5jZXMfCQUETnxCMh8LCysEAB8MZx8KaGQUKwACFgofBAUbUCAtIFByZXNjcmliaW5nIGluZm9ybWF0aW9uHwkFA058UB8LCysEAB8MZx8KaGRkAgsPZBYGAgEPZBYCAgEPDxYCHwQFiwM8c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4Ij48c3Ryb25nPkZvciB0aGUgbGF0ZXN0IGluZm9ybWF0aW9uLCBzZWU6IDxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIGhyZWY9Imh0dHBzOi8vbmhzd2FsZXMzNjUuc2hhcmVwb2ludC5jb20vOmI6L3Ivc2l0ZXMvQkNVX1ByZXNjcmliaW5nTWF0dGVycy9TaGFyZWQlMjBEb2N1bWVudHMvMjAyNiUyMERURyUyME5ld3NsZXR0ZXJzL0RURyUyME5ld3NsZXR0ZXIlMjBTZXB0ZW1iZXIlMjAyMDI2LnBkZj9kPXdkMTIzM2I0ODYwZTg0MWI5OWJmNDE2YjI1ZmEzZmNkYSZhbXA7Y3NmPTEmYW1wO3dlYj0xJmFtcDtlPW9jNG5uUCI+U2VwdGVtYmVyIDIwMjYgRFRHIE5ld3NsZXR0ZXI8L2E+PC9zdHJvbmc+PC9zcGFuPmRkAgMPZBYCZg9kFg4CAQ8PFgQfBAURTm8gcmVzdWx0cyBmb3VuZCEfBWhkZAIDDw8WAh8FaGQWCgIBDw8WAh8FZ2RkAgMPFgIeC18hSXRlbUNvdW50AgIWBAIBD2QWAgIBDw8WAh4PQ29tbWFuZEFyZ3VtZW50BQUyNDQwMmQWAmYPFQGbATxzcGFuIGNsYXNzPSd3b3JkV3JhcHBlcic+WzxzcGFuIGNsYXNzPWhpZ2hsaWdodD5JbnN1bGluIGxpc3Bybzwvc3Bhbj5dPC9zcGFuPjxzcGFuIGNsYXNzPSd3b3JkV3JhcHBlcic+LSAmbmJzcCgwNi4wMS4wMS4wMSAtIFNob3J0LWFjdGluZyBpbnN1bGlucyk8L3NwYW4+ZAICD2QWAgIBDw8WAh8OBQUyNDQxMGQWAmYPFQHqATxzcGFuIGNsYXNzPSd3b3JkV3JhcHBlcic+WzxzcGFuIGNsYXNzPWhpZ2hsaWdodD5JbnN1bGluIGxpc3Bybzwvc3Bhbj4gYmlwaGFzaWMgSHVtYWxvLi4uXTwvc3Bhbj48c3BhbiBjbGFzcz0nd29yZFdyYXBwZXInPihCaXBoYXNpYyBJbnN1bGlucyk8L3NwYW4+PHNwYW4gY2xhc3M9J3dvcmRXcmFwcGVyJz4tICZuYnNwKDA2LjAxLjAxLjAyIC0gSW50ZXJtZWRpYXRlLSBhbmQgbG9uZy1hY3QuLi4pPC9zcGFuPmQCBw8WBB8NZh8FaGQCCw8WBB8NZh8FaGQCDw8WBB8NZh8FaGQCBQ8PFgIfBWhkFgICAw8PFgIfBAWVUzxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDAsIDAsIDEpIj48c3Ryb25nPioqUmVtaW5kZXIgKio8L3N0cm9uZz4gLSA8dT5BcGl4YWJhbjwvdT4gYW5kIDx1PlJpdmFyb3hhYmFuPC91PiBhcmUgdGhlIGRpcmVjdCBvcmFsIGFudGljb2FndWxhbnRzIChET0FDcykgb2YgY2hvaWNlIGZvciBwcmVzY3JpYmluZyBpbiBCQ1VIQjxicj4KJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgLSA8dT5EYXBhZ2xpZmxvemluPC91PiBpcyB0aGUgU0dMVC0yIGluaGliaXRvciBvZiBjaG9pY2UgZm9yIHByZXNjcmliaW5nIGluIEJDVUhCPC9zcGFuPjxicj4KPGJyPgo8c3Ryb25nPlBsZWFzZSBub3RlIHRoZSBCQ1VIQiBXb3VuZCBDYXJlIEZvcm11bGFyeSBpcyBhdmFpbGFibGUgdmlhIDxhIGhyZWY9Imh0dHBzOi8vYXBwLmVvbGFzbWVkaWNhbC5jb20vb3JnYW5pc2F0aW9uL0JldHNpJTIwQ2Fkd2FsYWRyJTIwVW5pdmVyc2l0eSUyMEhlYWx0aCUyMEJvYXJkL2NvbnRlbnQtcmVwb3NpdG9yeS8yMmE2ODZmNC1iYTRjLTQ0ZmEtODQ5Mi1jMzg2YWEyNWQzNjgvNmM5MWZhOGMtYTVhZS00Y2FhLWExYmUtODI4ODMwMTYxNDk5IiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5Fb2xhczwvYT48L3N0cm9uZz48YnI+Cjxicj4KPHU+PHN0cm9uZz5CZXRzaSBDYWR3YWxhZHIgVW5pdmVyc2l0eSBMb2NhbCBIZWFsdGggQm9hcmQ8L3N0cm9uZz48L3U+Cjx1bD4KCTxsaT5UaGUgRm9ybXVsYXJ5IGxpc3RzIGFsbCB0aGUgbWVkaWNpbmVzIGFwcHJvdmVkIGZvciB1c2UgaW4gYm90aCBwcmltYXJ5IGFuZCBzZWNvbmRhcnkgY2FyZSBvZiBCQ1VIQi48L2xpPgoJPGxpPlRoZXJlIGlzIGFuIGV4cGVjdGF0aW9uIHRoYXQgcHJlc2NyaWJlcnMmbmJzcDt3aWxsIHVzZSZuYnNwO3RoZSZuYnNwO21lZGljaW5lcyBpbmNsdWRlZCBpbiB0aGVzZSBsaXN0cyB3aGVuIHRyZWF0aW5nJm5ic3A7dGhlaXIgcGF0aWVudHMuPC9saT4KCTxsaT5EcnVncyBhcmUgbGlzdGVkIGluIGEgY29sb3VyIGNvZGUgd2hpY2ggaW5kaWNhdGVzJm5ic3A7dGhlIHBsYWNlJm5ic3A7b2YgaW5pdGlhdGlvbiBvZiB0aGVyYXB5LiBGb3IgZnV0aGVyIGluZm9ybWF0aW9uIG9uIHRoZSBkZWZpbml0aW9uIG9mIGVhY2ggYWxsb2NhdGVkIGNvbG91ciwgcGxlYXNlIHNlZSB0aGUgPGEgaHJlZj0iaHR0cHM6Ly9uaHN3YWxlczM2NS5zaGFyZXBvaW50LmNvbS86Yjovci9zaXRlcy9CQ1VfUHJlc2NyaWJpbmdNYXR0ZXJzL1NoYXJlZCUyMERvY3VtZW50cy9CUkFHJTIwTGlzdC9CUkFHJTIwTElTVCUyMGZvcmV3b3JkJTIwTWFyY2glMjAyMDE4JTIwcmV2aXNlZCUyMEF1Z3VzdCUyMDIwMjQucGRmP2NzZj0xJmFtcDt3ZWI9MSZhbXA7ZT12T05uSnQiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPkJSQUcmbmJzcDtsaXN0IGZvcmV3YXJkPC9hPjwvbGk+CjwvdWw+Cgo8dGFibGUgYm9yZGVyPSIxIiBjZWxscGFkZGluZz0iMCI+Cgk8dGJvZHk+CgkJPHRyPgoJCQk8dGQgY29sc3Bhbj0iMiIgc3R5bGU9IndpZHRoOiAxNjhweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3Ryb25nPlRSQUZGSUMgTElHSFQgREVTSUdOQVRJT048L3N0cm9uZz48L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyMzZweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3Ryb25nPklOSVRJQVRJT048L3N0cm9uZz48L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNzBweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3Ryb25nPlJFUEVBVCBQUkVTQ1JJQklORzwvc3Ryb25nPjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE0MnB4OyB0ZXh0LWFsaWduOiBjZW50ZXIiPjxzdHJvbmc+TU9OSVRPUklORzwvc3Ryb25nPjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4OyB0ZXh0LWFsaWduOiBjZW50ZXIiPjxzdHJvbmc+Q09NTUVOVDwvc3Ryb25nPjwvdGQ+CgkJPC90cj4KCQk8dHI+CgkJCTx0ZCBjb2xzcGFuPSIyIiBzdHlsZT0id2lkdGg6IDE2OHB4Ij4KCQkJPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyIj48YnI+CgkJCTxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgwLCAxMDAsIDAsIDEpIj48c3Ryb25nPkdSRUVOPC9zdHJvbmc+PC9zcGFuPjwvZGl2PgoJCQk8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyMzZweCI+UHJpbWFyeSBDYXJlIFByZXNjcmliZXIgb3IgUHJlc2NyaWJlciBpbiBDb25zdWx0YW50IFNwZWNpYWxpc3QgVGVhbTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE3MHB4Ij5QcmltYXJ5IENhcmUgUHJlc2NyaWJlcjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE0MnB4Ij5QcmltYXJ5IENhcmUgUHJlc2NyaWJlcjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4Ij5TdWl0YWJsZSBmb3Igbm9uLXNwZWNpYWxpc3QgcHJlc2NyaWJpbmcuPC90ZD4KCQk8L3RyPgoJCTx0cj4KCQkJPHRkIHJvd3NwYW49IjMiIHN0eWxlPSJ3aWR0aDogODNweCI+CgkJCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlciI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDI1NSwgMTQwLCAwLCAxKSI+PHN0cm9uZz5BTUJFUiA8dT53aXRob3V0PC91Pjwvc3Ryb25nPjwvc3Bhbj48L2Rpdj4KCgkJCTxkaXYgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlciI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDI1NSwgMTQwLCAwLCAxKSI+PHN0cm9uZz5TSEFSRUQgQ0FSRTwvc3Ryb25nPjwvc3Bhbj48L2Rpdj4KCQkJPC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogODVweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6IHJnYmEoMjU1LCAxNDAsIDAsIDEpIj48c3Ryb25nPkFkdmlzZTwvc3Ryb25nPjwvc3Bhbj48L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyMzZweCI+UHJlc2NyaWJlciBpbiBDb25zdWx0YW50IFNwZWNpYWxpc3QgVGVhbSBvciBHUCBvbiByZWNvbW1lbmRhdGlvbiBvZiBzcGVjaWFsaXN0IG9yIEdQIGNvbXBldGVudCB3aXRoaW4gdGhlIHNwZWNpYWxpdHkgb3IgUHJpbWFyeSBDYXJlIE5vbiBNZWRpY2FsIFByZXNjcmliZXIgd29ya2luZyB3aXRoaW4gdGhlaXIgc3BlY2lhbGlzdCBhcmVhIG9mIGNvbXBldGVuY3k8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNzBweCI+UHJpbWFyeSBDYXJlIFByZXNjcmliZXI8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNDJweCI+UHJpbWFyeSBDYXJlIFByZXNjcmliZXI8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyNTVweCI+TW9uaXRvcmluZyBvZiBlaXRoZXIgbWVkaWNpbmUgb3IgZGlzZWFzZSBkb2VzIG5vdCByZXF1aXJlIHNwZWNpYWxpc3Qgc2tpbGxzIG9yIGVxdWlwbWVudC48L3RkPgoJCTwvdHI+CgkJPHRyPgoJCQk8dGQgc3R5bGU9IndpZHRoOiA4NXB4OyB0ZXh0LWFsaWduOiBjZW50ZXIiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDE0MCwgMCwgMSkiPjxzdHJvbmc+SW5pdGlhdGU8L3N0cm9uZz48L3NwYW4+PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMjM2cHgiPlByZXNjcmliZXIgaW4gQ29uc3VsdGFudCBTcGVjaWFsaXN0IFRlYW0gb3IgR1AgY29tcGV0ZW50IHdpdGhpbiB0aGUgc3BlY2lhbGl0eSBvciBQcmltYXJ5IENhcmUgTm9uIE1lZGljYWwgUHJlc2NyaWJlciB3b3JraW5nIHdpdGhpbiB0aGVpciBzcGVjaWFsaXN0IGFyZWEgb2YgY29tcGV0ZW5jeTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE3MHB4Ij5QcmltYXJ5IENhcmUgUHJlc2NyaWJlcjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE0MnB4Ij5QcmltYXJ5IENhcmUgUHJlc2NyaWJlcjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4Ij5PbmNlIHBhdGllbnQgaXMg4oCYc3RhYmxl4oCZIG9uZ29pbmcgbWFuYWdlbWVudCBjYW4gYmUgY2FycmllZCBvdXQgYnkgR1AuPC90ZD4KCQk8L3RyPgoJCTx0cj4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogODVweDsgaGVpZ2h0OiAyM3B4OyB0ZXh0LWFsaWduOiBjZW50ZXIiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDE0MCwgMCwgMSkiPjxzdHJvbmc+UmV0YWluPC9zdHJvbmc+PC9zcGFuPjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDIzNnB4OyBoZWlnaHQ6IDIzcHgiPlByZXNjcmliZXIgaW4gQ29uc3VsdGFudCBTcGVjaWFsaXN0IFRlYW0gb25seTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE3MHB4OyBoZWlnaHQ6IDIzcHgiPlByaW1hcnkgQ2FyZSBQcmVzY3JpYmVyPC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMTQycHg7IGhlaWdodDogMjNweCI+Q29uc3VsdGFudCBTcGVjaWFsaXN0IFRlYW0gb25seTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4OyBoZWlnaHQ6IDIzcHgiPlNwZWNpYWxpc3QgdG8gc2hhcmUgPGk+PGEgaHJlZj0iaHR0cHM6Ly9uaHN3YWxlczM2NS5zaGFyZXBvaW50LmNvbS86Yjovci9zaXRlcy9CQ1VfUHJlc2NyaWJpbmdNYXR0ZXJzL1NoYXJlZCUyMERvY3VtZW50cy9CUkFHJTIwTGlzdC9BbWJlciUyMFBhdGllbnQlMjBSZXRhaW5lZCUyMEFncmVlbWVudCUyMEZvcm0lMjAoMjAyNCkucGRmP2NzZj0xJmFtcDt3ZWI9MSZhbXA7ZT1MUGNXYmMiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPkFtYmVyIFJldGFpbmVkIGZvcm08L2E+PC9pPiB3aXRoIEdQLjwvdGQ+CgkJPC90cj4KCQk8dHI+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDgzcHg7IGhlaWdodDogODhweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6IHJnYmEoMjU1LCAxNDAsIDAsIDEpIj48c3Ryb25nPkFNQkVSIFdJVEggU0hBUkVEIENBUkU8L3N0cm9uZz48L3NwYW4+PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogODVweDsgaGVpZ2h0OiA4OHB4Ij48c3BhbiBzdHlsZT0iY29sb3I6IHJnYmEoMjU1LCAxNDAsIDAsIDEpIj48c3Ryb25nPkZ1bmRlZDwvc3Ryb25nPjxicj4KCQkJPHN0cm9uZz5OZWFyIFBhdGllbnQgVGVzdGluZy9MRVM8L3N0cm9uZz48L3NwYW4+PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMjM2cHg7IGhlaWdodDogODhweCI+UHJlc2NyaWJlciBpbiBDb25zdWx0YW50IFNwZWNpYWxpc3QgVGVhbSBvbmx5PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMTcwcHg7IGhlaWdodDogODhweCI+UHJpbWFyeSBDYXJlIFByZXNjcmliZXI8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNDJweDsgaGVpZ2h0OiA4OHB4Ij5QcmltYXJ5IENhcmUgUHJlc2NyaWJlcjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4OyBoZWlnaHQ6IDg4cHgiPk1vbml0b3JpbmcgYnkgYWNjcmVkaXRlZCBHUCBhY2NvcmRpbmcgdG8gcHJvdG9jb2wuIEdQIGFncmVlbWVudCAoZm9yIHByZXNjcmliaW5nIGFuZCBtb25pdG9yaW5nKSBzaG91bGQgYmUgcmVxdWVzdGVkIGJ5IHNwZWNpYWxpc3QuIEhCIHRvIGNvbW1pc3Npb24gbW9uaXRvcmluZy48L3RkPgoJCTwvdHI+CgkJPHRyPgoJCQk8dGQgY29sc3Bhbj0iMiIgc3R5bGU9IndpZHRoOiAxNjhweDsgdGV4dC1hbGlnbjogY2VudGVyIj48c3BhbiBzdHlsZT0iY29sb3I6IHJnYmEoMjU1LCAwLCAwLCAxKSI+PHN0cm9uZz5SRUQ8L3N0cm9uZz48L3NwYW4+PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMjM2cHgiPlByZXNjcmliZXIgaW4gQ29uc3VsdGFudCBTcGVjaWFsaXN0IFRlYW0gb25seTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDE3MHB4Ij5QcmVzY3JpYmVyIGluIENvbnN1bHRhbnQgU3BlY2lhbGlzdCBUZWFtIG9ubHk8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNDJweCI+Q29uc3VsdGFudCBTcGVjaWFsaXN0IFRlYW0gb25seTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4Ij5UbyBiZSBwcmVzY3JpYmVkIGJ5IHNwZWNpYWxpc3QgYW5kIHN1cHBsaWVkIHZpYSBob3NwaXRhbCBwaGFybWFjeSwgdmlhIFdQMTBIUCBhbmQgY29tbXVuaXR5IHBoYXJtYWN5LCBvciB2aWEgaG9tZWNhcmUuPC90ZD4KCQk8L3RyPgoJCTx0cj4KCQkJPHRkIGNvbHNwYW49IjIiIHN0eWxlPSJ3aWR0aDogMTY4cHg7IHRleHQtYWxpZ246IGNlbnRlciI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDEyOCwgMCwgMTI4LCAxKSI+PHN0cm9uZz5QVVJQTEU8L3N0cm9uZz48L3NwYW4+PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMjM2cHgiPkZvcm11bGFyeSBwZW5kaW5nIHBhdGh3YXkgZGV2ZWxvcG1lbnQuPGJyPgoJCQlOb3QgZm9yIGluaXRpYXRpb24gd2l0aG91dCBwcmlvciBhcHByb3ZhbCBmb3IgdXNlIG9uIGFuIGluZGl2aWR1YWwgYmFzaXMuPC90ZD4KCQkJPHRkIGNvbHNwYW49IjIiIHN0eWxlPSJ3aWR0aDogMzEycHgiPlJlbWFpbnMgdGhlIHJlc3BvbnNpYmlsaXR5IG9mIHRoZSBhcHBsaWNhbnQgd2hvIHN1Y2Nlc3NmdWxseSBnYWluZWQgYXBwcm92YWwgdmlhIHN1Ym1pc3Npb24gb2YgYSBwdXJwbGUgYXBwbGljYXRpb24uPGJyPgoJCQkmbmJzcDs8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyNTVweCI+QXBwcm92ZWQgYnkgTklDRSBvciBBV01TRy4gSWYgYSBwYXRpZW50IGlzIGRlZW1lZCBzdWl0YWJsZSBmb3IgdGhpcyBkcnVnLCB0aGVuIGEgPGEgaHJlZj0iaHR0cHM6Ly9uaHN3YWxlczM2NS5zaGFyZXBvaW50LmNvbS9zaXRlcy9CQ1VfUHJlc2NyaWJpbmdNYXR0ZXJzL19sYXlvdXRzL2Rvd25sb2FkLmFzcHg/U291cmNlVVJMPWh0dHBzOi8vbmhzd2FsZXMzNjUuc2hhcmVwb2ludC5jb20vc2l0ZXMvQkNVX1ByZXNjcmliaW5nTWF0dGVycy9Ob25zZWFyY2glMjBsaWJyYXJ5L0lQRlIlMjBhbmQlMjBQdXJwbGUvUHVycGxlX0RydWdfQXBwbGljYXRpb24tRm9ybS5kb2MiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPlB1cnBsZSBhcHBsaWNhdGlvbiA8L2E+bWF5IGJlIG1hZGUgd2hpbHN0IGF3YWl0aW5nIGl0cyBwbGFjZSBpbiB0aGUgZm9ybXVsYXJ5IGlzIGRldGVybWluZWQuPC90ZD4KCQk8L3RyPgoJCTx0cj4KCQkJPHRkIGNvbHNwYW49IjIiIHN0eWxlPSJ3aWR0aDogMTY4cHg7IHRleHQtYWxpZ246IGNlbnRlciI+PHN0cm9uZz5CTEFDSzwvc3Ryb25nPjwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDIzNnB4Ij5UZXJ0aWFyeSBDYXJlIFNwZWNpYWxpc3QgUHJlc2NyaWJlciBvbmx5PC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMTcwcHgiPlRlcnRpYXJ5IENhcmUgU3BlY2lhbGlzdCBQcmVzY3JpYmVyIG9ubHk8L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAxNDJweCI+VGVydGlhcnkgQ2FyZSBTcGVjaWFsaXN0IFByZXNjcmliZXIgb25seTwvdGQ+CgkJCTx0ZCBzdHlsZT0id2lkdGg6IDI1NXB4Ij5BcHByb3ZlZCBieSBOSUNFIG9yIEFXTVNHPGJyPgoJCQlKQ0Mgb3IgQkNVIGNvbW1pc3Npb25lZCBzZXJ2aWNlPC90ZD4KCQk8L3RyPgoJCTx0cj4KCQkJPHRkIGNvbHNwYW49IjIiIHN0eWxlPSJ3aWR0aDogMTY4cHg7IHRleHQtYWxpZ246IGNlbnRlciI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDAsIDAsIDIwNSwgMSkiPjxzdHJvbmc+QkxVRTwvc3Ryb25nPjwvc3Bhbj48L3RkPgoJCQk8dGQgc3R5bGU9IndpZHRoOiAyMzZweCI+Q3VycmVudGx5IE5vdCBsaXN0ZWQgb24gQkNVSEIgZm9ybXVsYXJ5LCB0aGVyZWZvcmUgbm90IGZvciBpbml0aWF0aW9uPC90ZD4KCQkJPHRkIGNvbHNwYW49IjIiIHN0eWxlPSJ3aWR0aDogMzEycHgiPkN1cnJlbnRseSBOb3QgbGlzdGVkIG9uIEJDVUhCIGZvcm11bGFyeSwgdGhlcmVmb3JlIG5vdCBmb3IgcmVwZWF0IHByZXNjcmliaW5nPC90ZD4KCQkJPHRkIHN0eWxlPSJ3aWR0aDogMjU1cHgiPk5vdCBzdWl0YWJsZSBmb3IgcHJlc2NyaWJpbmcgaW4gcHJpbWFyeSBvciBzZWNvbmRhcnkgY2FyZTwvdGQ+CgkJPC90cj4KCTwvdGJvZHk+CjwvdGFibGU+Cgo8dWw+Cgk8bGk+RHJ1Z3MgYXJlIGxpc3RlZCBnZW5lcmljYWxseSwgYXBhcnQgZnJvbSBjb21wb3VuZCBwcmVwYXJhdGlvbnMgd2hlcmUgaXQgaXMgZWFzaWVyIHRvIHVzZSBhICZuYnNwOyJ0cmFkZSBuYW1lIiBpbiB0aGUgbGlzdC48L2xpPgoJPGxpPlRoZSBDaGFwdGVyIHN0cnVjdHVyZSByZWZsZWN0cyB0aGF0IG9mIHRoZSBCTkYuPC9saT4KCTxsaT5UaGUgQkNVSEIgRHJ1ZyBhbmQgVGhlcmFwZXV0aWNzIEdyb3VwIGRlY2lkZXMgdGhlIEZvcm11bGFyeSBjb250ZW50LiBUbyBzdWJtaXQgYSByZXF1ZXN0IGZvciBhIG1lZGljaW5lIHRvIGJlIGluY2x1ZGVkIG9udG8gdGhlIEZvcm11bGFyeSwgcGxlYXNlIHNlZSB0aGUgYXBwbGljYXRpb24gZm9ybSBvbiB0aGUgRHJ1ZyBhbmQgVGhlcmFwZXV0aWNzIDxhIGhyZWY9Imh0dHBzOi8vbmhzd2FsZXMzNjUuc2hhcmVwb2ludC5jb20vc2l0ZXMvQkNVX1ByZXNjcmliaW5nTWF0dGVycy9TaXRlUGFnZXMvRHJ1Z3MtYW5kLVRoZXJhcGV1dGljcy0oRm9ybXVsYXJ5LUJSQUctLmFzcHgiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPkFwcGxpY2F0aW9uIHdlYnBhZ2U8L2E+LjwvbGk+Cgk8bGk+UGxlYXNlIG5vdGUgdGhhdCB0aGUgRm9ybXVsYXJ5IGNvbnRhaW5zIGxpbmtzIHRvIG90aGVyIGRvY3VtZW50cyAoZWcgQk5GKSB3aGljaCZuYnNwO3Byb3ZpZGUmbmJzcDtiYWNrZ3JvdW5kIGluZm9ybWF0aW9uIG9ubHkuJm5ic3A7IEJDVUhCJm5ic3A7cG9saWN5Jm5ic3A7YXMgaW5jbHVkZWQgaW4gdGhlIEZvcm11bGFyeSBtb25vZ3JhcGhzICZuYnNwO3Rha2VzIHByZWNlZGVuY2Ugb3ZlciBpbmZvcm1hdGlvbiBpbiB0aGUgbGlua3MuPC9saT4KPC91bD4KCjxkaXY+PGJyPgo8c3Ryb25nPjx1PkhlbHAgd2l0aCBzZWFyY2hpbmcmbmJzcDt0aGUgRm9ybXVsYXJ5PC91Pjwvc3Ryb25nPjxicj4KRW50ZXIgdGhlIGdlbmVyaWMgbmFtZSBvZiB0aGUgbWVkaWNpbmUgeW91IHJlcXVpcmUgaW4gdGhlIHNlYXJjaCBib3guJm5ic3A7IENsaWNrIG9uICJTZWFyY2giIHRvIHNlZSBhIGxpc3Qgb2YgcHJvZHVjdHMgbGlzdGVkJm5ic3A7YXMgZm9sbG93czo8YnI+CjxzdHJvbmc+Rm9ybXVsYXJ5IHJlc3VsdHMuJm5ic3A7IDwvc3Ryb25nPk1lZGljaW5lcyZuYnNwO2luY2x1ZGVkIGluIHRoZSBCQ1VIQiZuYnNwO0Zvcm11bGFyeSB3aWxsIGJlIGxpc3RlZCBmaXJzdC4mbmJzcDsgJm5ic3A7Q2xpY2tpbmcgb24gdGhlIGhpZ2hsaWdodGVkIGRydWcgbmFtZSZuYnNwO3dpbGwgdGFrZSB5b3UgdG8gdGhlIHJlbGV2YW50Jm5ic3A7QkNVSEImbmJzcDtGb3JtdWxhcnkgcGFnZS4mbmJzcDsgPHU+Tm8gZW50cnkgaW4gdGhpcyBzZWN0aW9uIG1lYW5zIHRoZSBkcnVnIGlzIG5vdCBpbiB0aGUgQkNVSEImbmJzcDtGb3JtdWxhcnkgYW5kIHNob3VsZCBub3QgYmUgdXNlZDwvdT4uJm5ic3A7PGJyPgo8c3Ryb25nPk5vbi1Gb3JtdWxhcnkgcmVzdWx0cy4mbmJzcDsgPC9zdHJvbmc+QW55IGVudHJ5IGhlcmUgaW5kaWNhdGVzIGEgZHJ1ZyBpbmNsdWRlZCBpbiB0aGUgQk5GIChpbiB0aGUgc2VjdGlvbiBxdW90ZWQpLCBidXQgbm90IGluIHRoZSBCQ1VIQiZuYnNwO0Zvcm11bGFyeS4mbmJzcDs8YnI+CjxzdHJvbmc+RG9jdW1lbnQgcmVzdWx0czwvc3Ryb25nPi4mbmJzcDsgUmVsZXZhbnQgbmF0aW9uYWwgZ3VpZGVsaW5lcyAoZWcgdGhvc2UgcHJvZHVjZWQgYnkgTklDRSkgYXJlIGxpc3RlZCBoZXJlLiZuYnNwOyBDbGlja2luZyBvbiB0aGUgZG9jdW1lbnQgbmFtZSB3aWxsIHRha2UgeW91IHRvIHRoZSBkb2N1bWVudC48YnI+ClRvIHNlZSB0aGUgcmFuZ2Ugb2YgbWVkaWNpbmVzIGluIGEgcGFydGljdWxhciBjbGFzcywgdXNlIHRoZSBjaGFwdGVyIGhlYWRpbmdzJm5ic3A7b24gdGhlIGxlZnQgb2YgdGhlIHNjcmVlbiBhbmQgY2xpY2sgb24gdGhlICIrIiBzaWducyB0byBvcGVuIHRoZSByZWxldmFudCBzZWN0aW9uLjxicj4KPGJyPgo8c3Ryb25nPkZvcm11bGFyeSBVcGRhdGVzPC9zdHJvbmc+PGJyPgpUaGUgRm9ybXVsYXJ5IGlzIHVwZGF0ZWQgY29udGludWFsbHkgYW5kIHRoZSBjb250ZW50cyB5b3Ugc2VlIGFyZSB0aGUgcmVzdWx0cyBvZiBpbnB1dHMgZnJvbSBhIHZhcmlldHkgb2YgaGVhbHRoY2FyZSBwcm9mZXNzaW9uYWxzLiZuYnNwOyBHcmF0ZWZ1bCB0aGFua3MgYXJlJm5ic3A7b2ZmZXJlZCB0byBhbGwgd2hvIGhhdmUgY29udHJpYnV0ZWQuPGJyPgombmJzcDs8YnI+Cjx1PkZ1cnRoZXIgTWVkaWNpbmVzJm5ic3A7QWR2aWNlPC91Pjxicj4KQ29udGFjdCB0aGUmbmJzcDtQaGFybWFjeSBNZWRpY2luZXMgQWR2aWNlIFRlYW06Jm5ic3A7PHN0cm9uZz4wMjkgMjAwMyAyMDEwPC9zdHJvbmc+PGJyPgpPciB0byBzdWJtaXQgYSBub24tdXJnZW50IGVucXVpcnkgZW1haWw6Jm5ic3A7PGE+PHN0cm9uZz5CQ1UuTWVkaWNpbmVzQWR2aWNlQHdhbGVzLm5ocy51azwvc3Ryb25nPiZuYnNwOzwvYT48YnI+CiZuYnNwOzxicj4KSWYgeW91IGhhdmUgYW55IGNvbW1lbnRzIG9yIHN1Z2dlc3Rpb25zIHJlZ2FyZGluZyB0aGUgY29udGVudCBvZiB0aGlzIHNpdGUsIHBsZWFzZSBjb250YWN0Jm5ic3A7RWxlcmkgUGhpbGxpcHMsIEZvcm11bGFyeSBQaGFybWFjaXN0ICg8YT5FbGVyaS5QaGlsbGlwc0B3YWxlcy5uaHMudWs8L2E+KSZuYnNwO29yIFNhcmFoIEV2YW5zLCBNZWRpY2luZXMgR292ZXJuYW5jZSBPZmZpY2VyICg8YT5TYXJhaC5FLkV2YW5zQHdhbGVzLm5ocy51azwvYT4pLjwvZGl2PgpkZAIHDw8WAh8FZ2QWFAIBDw8WAh8EBQ5JbnN1bGluIGxpc3Byb2RkAgMPDxYCHwQFIzA2LjAxLjAxLjAxIChTaG9ydC1hY3RpbmcgaW5zdWxpbnMpZGQCBQ8PFgIfBAUKMjktMTItMjAxNmRkAgcPDxYCHwQFhAE8Zm9udCBjb2xvcj1ncmVlbj5HPC9mb250PiZuYnNwOzxmb250IGNvbG9yPWJsYWNrPjwvZm9udD4mbmJzcDstJm5ic3A7PGZvbnQgY29sb3I9Z3JlZW4+R3JlZW48L2ZvbnQ+Jm5ic3A7PGZvbnQgY29sb3I9YmxhY2s+PC9mb250PiBkZAIJD2QWBgIFDw8WCB4LQ2VsbFBhZGRpbmcCAR4LQ2VsbFNwYWNpbmcCAR4JR3JpZExpbmVzCyojU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5HcmlkTGluZXMAHgRfIVNCAoCAOGRkAgcPDxYCHwVoZGQCCQ8PFgQfEQsrBQAfEgKAgCBkZAINDw8WAh8BBTBodHRwczovL2JuZi5uaWNlLm9yZy51ay9zZWFyY2gvP3E9SW5zdWxpbi1saXNwcm9kZAIPDw8WAh8BBThodHRwczovL3d3dy5tZWRpY2luZXMub3JnLnVrL2VtYy9zZWFyY2g/cT1JbnN1bGluIGxpc3Byb2RkAhEPDxYCHwEFLWh0dHBzOi8vYm5mYy5uaWNlLm9yZy51ay9kcnVncy9JbnN1bGluLWxpc3Byb2RkAhMPDxYCHwEFL2h0dHBzOi8vd3d3Lm5pY2Uub3JnLnVrL3NlYXJjaD9xPUluc3VsaW4gbGlzcHJvZGQCFw8PFgIfBWhkZAIJDw8WAh8FaGQWAgIFD2QWAgIFDzwrABECARAWABYAFgAMFCsAAGQCCw8PFgIfBWhkFgICBw9kFgICAw88KwARAgEQFgAWABYADBQrAABkAg0PDxYCHwVoZGQCBQ8PFgIfBAVpUGxlYXNlIGVtYWlsIGRldGFpbHMgb2YgYW55IHByb2JsZW1zIG9yIGNvbW1lbnRzIG9uIHRoZSB3ZWJzaXRlIHRvIDxhPnBoYXJtYWN5LnN1cHBvcnRAd2FsZXMubmhzLnVrPC9hPiAuZGQCDA8PFgIfBAXZBzxiPktleSB0byBTeW1ib2xzOjxicj4KPHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTRweCI+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDAsIDEyOCwgMCwgMSkiPkcgPSBHcmVlbjwvc3Bhbj4mbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7IDxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDE0MCwgMCwgMSkiPkFtYmVyQSA9IEFtYmVyIEFkdmlzZSZuYnNwOyAmbmJzcDsgQW1iZXJJPUFtYmVyIEluaXRpYXRlJm5ic3A7ICZuYnNwO0FtYmVyUkVUPUFtYmVyIFJldGFpbiZuYnNwOyZuYnNwOzwvc3Bhbj4mbmJzcDsgJm5ic3A7PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDI1NSwgMTQwLCAwLCAxKSI+QTwvc3Bhbj48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDE0cHgiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDE0MCwgMCwgMSkiPnNjPC9zcGFuPjxiPjxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDE0MCwgMCwgMSkiPiA9IEFtYmVyIHdpdGggc2hhcmVkIGNhcmUmbmJzcDs8L3NwYW4+Jm5ic3A7Jm5ic3A7ICZuYnNwOzxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDAsIDAsIDEpIj5SID0gUmVkPC9zcGFuPiZuYnNwOyZuYnNwOyZuYnNwOzxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgxNTMsIDAsIDE1MywgMSkiPiA8L3NwYW4+PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2JhKDEyOCwgMCwgMTI4LCAxKSI+UCA9IFB1cnBsZSAoUGVuZGluZyBwYXRod2F5KTwvc3Bhbj4mbmJzcDsgJm5ic3A7QkwgPSZuYnNwO0JsYWNrIChUcmVhdG1lbnQgcHJvdmlkZWQgYnkgVGVydGlhcnkgQ2VudHJlKSZuYnNwOzxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgyNTUsIDAsIDIwNCwgMSkiPkhPID0gSG9zcGl0YWwgc3VwcGx5IG9ubHk8L3NwYW4+Jm5ic3A7ICZuYnNwOzxzcGFuIHN0eWxlPSJjb2xvcjogcmdiYSgwLCAwLCAyNTUsIDEpIj5CID0gQmx1ZSAoTm9uLWZvcm11bGFyeSk8L3NwYW4+PC9iPjwvc3Bhbj5kZBgDBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUHYm5mVHJlZQUVZHJ1Z0dyb3VwSW5mb0dyaWRWaWV3D2dkBRJibmZTZWNJbmZvR3JpZFZpZXcPZ2Sa/q1sj4JKN2m1f4+F2DTvA5ajumjnAwFiIX3rZXGQtg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pENuu5ch3NhE1ovxCVyOpI5O1mpwgn_nSSwr-MzVLAB07ie4OPfMv5hoUdSvZ8IUTZJ-JWzsj_3uOABQ6L1o6Xoa1-SEK3c9yJJ2tIvbbxg1&amp;t=639190869332169432" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=Hhlv6QIGLpujVb6LAWyi2H_QzJFF1tOav4S59tTSGHsQG21kFILmeDwlj2kDQDviO2t_zlP95ZuzZb2OsoT5_HHTznfN4-5pYaP2sfgjOMUHM40Md6TkrIR5rPI7oA7oCuJWsJLhb0RWnu5S8YIxmKwRScESzgUDpHQ4Mlz8hlw1&amp;t=ffffffffa5405632" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hEdu70b3LhS9htMEn6uBl480sxuLOe8lLeUrdsgY1bJbHOoJcdgp8pO2wdeureGqr1sPEiuIg-LNm_b_UE_uz_BsaDSEeaGFgJG_82A9GxHoofmocNB7d1pAbTiSodSJnYyLKWre6IxBbbEwwY0xqQ2&amp;t=ffffffffa5405632" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+    function TreeView_PopulateNodeDoCallBack(context,param) {
+        WebForm_DoCallback(context.data.treeViewID,param,TreeView_ProcessNodeData,context,TreeView_ProcessNodeData,false);
+    }
+var bnfTree_Data = null;//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=7KIonENH-I9DqMcy7W-EnbdN4zhwznxRS4cb5tUyCd236PSJQxAnSlsCEiDlZXIIrdQ19eeD-bqve7noH7YM1x9BvCFbqyyD4E50CFLN3mwUlJYzKi6S6ODM44R5bxuRKKy8MtLeLmeH2cFpPy_0Fg2&amp;t=f2cd5c5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=A5DnlcpqESARne8rucQKotRwVhCsZLXm9HIh7BEXi1RJiI7n-K00-97vZ-Gw7w0TERX3mWqccaU5cjTQGdcJWcACTsPcRx6L7jRtIqTnPujVJeiVDhk8hqXfsY7nm4wAaHC3Oe8pSDAXrN1vVktlZw2&amp;t=f2cd5c5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A3488034" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', ['tleftUpdatePanel','','trightUpdatePanel',''], ['resetTreeLinkButton','','btnSearch','','bnfTree',''], [], 90, '');
+//]]>
+</script>
+
+        <div id="container">
+            <div id="wrapper">
+                <div id="wrapper2">
+                <div class="ribbon">
+                   
+                </div>
+                    <!-- Navigation Bar -->
+                    <div id="navbar" style="padding-bottom: 1px;">
+                        <div id="righth" style="border: red 0px solid; margin: 0px; padding: 0px;">
+                            <a id="startHyperLink" href="https://dhcw.nhs.wales/" target="_blank"><img id="DHCWLogo" class="start_link" src="includes/images/DHCW-logo-RGB-Blue_small.png" style="border-width:0px;" /></a>
+                        </div>  
+                        <div id="lefth" style="border: #336699 0px solid;  margin: 0px; padding: 0px;">
+                            <a id="informImage" title="Home" href="./"><img title="Home" src="includes/images/InForm_II_logo2trans.png" alt="Home" style="border-width:0px;" /></a>
+                        </div>
+                        
+
+
+                        <div id="middleh" style="position: relative;  border: blue 0px solid;" >
+                            
+        
+
+
+                            <div style="width: 280px;  line-height:2.6em; float: right; margin-top: 25px;  border: orange 0px solid; text-align: left;">
+                                <div id="searchPanel">
+	
+                                    <div style="height: 20px; margin: 0; padding: 0;">
+                                        <input name="txtSearch" type="text" id="txtSearch" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;btnSearch&#39;).click();return false;}} else {return true}; " onKeyPress="javascript:if (event.keyCode == 13) __doPostBack(&#39;btnSearch&#39;,&#39;&#39;)" />
+                                        <input type="submit" name="btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="btnSearch" />
+                                    </div>
+                                    <div style="height: 30px; margin: 0; padding: 0;">
+                                        <span id="formularyLabel" style="font-size:10px;">Betsi Cadwaladr University Health Board</span>
+
+                                    </div>
+                                    <span id="RequiredFieldValidator1" class="cssTest" style="color:Red;">No text entered. Enter at least 3 characters</span>  
+                                    <span id="RegularExpressionValidator1" class="cssTest" style="color:Red;display:none;">Enter at least 3 characters</span>
+                                    <span class="progress" class ="cssTest">
+                                        <div id="UpdateProgress1" style="display:none;">
+		
+                                                <img id="waitingImage" src="includes/images/waiting2.gif" style="border-width:0px;" />
+                                                Searching...
+	</div>
+                                    </span>
+                                    <div style="clear: both;"></div>
+                                
+</div>
+                            </div> 
+                            
+
+                            <div style="line-height:2.6em; float: left; margin-top: 25px;">
+                                <ul class="nav">
+                                    <li><a id="homeHyperLink" href="./">Home</a></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                     <li></li>
+                                    
+                                </ul>
+                            </div>
+                            <div style="clear: both;"></div>
+
+                        </div>
+<!--						
+<div id="AlertMessge">                      
+    <div style="clear:both;"></div>
+                        	    <div style="background-color:#ffcc99; line-height: 1.2; padding:15px; margin:0px; color:#804000; font-weight:580; font-family: Arial, Times, serif; font-size:12px;">
+            <div style='padding-bottom:7px;'><b>Attention!</b></div>
+            Firewall maintenance has been scheduled for 1900hrs on Monday 23rd October 2017.  The upgrade process will take about 10 minutes to complete and you might experience temporary intermittent issue after the upgrade.  Sorry for the inconvenience this may cause and thank you for your patience.
+            <span style="text-align: right; font-weight: bold; font-size: 14px;">Please click here to hide</span>
+    </div>
+</div>    -->
+
+<!--
+<div id="AlertMessge">                      
+    <div style="clear:both;"></div>
+	<div style="background-color:#ffcc99; line-height: 1.2; padding:15px; margin:0px; color:#804000; font-weight:580; font-family: Arial, Times, serif; font-size:12px;">
+		<div style='padding-bottom:7px;'><b>Attention!</b></div>
+		<ul>
+			<li>
+				Please note that due to essential maintenance in the data centres, there could be disruption to the availability of our services for <b>Sunday 29th April morning.</b>.
+				<br/>
+	
+				<span style="font-weight: bold; font-size: 14px;">Please click here to hide</span>
+			</li>
+			<li>
+				 DHCW is implementing an upgrade to our internet infrastructure at <b>18:00 on Tuesday 1/05/2018</b>.  We anticipate that the upgrade will be completed at around 20:00 of the same evening. Sorry for the inconvenience this may cause and thank you for your patience.
+			</li> 
+		</ul>
+		
+    </div>
+</div>  -->
+
+
+                    </div>           
+
+                    <noscript>
+                        <div style="border: 1px solid red;">
+                            For full functionality of this page it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions how to enable JavaScript in your web browser</a>
+                        </div>
+                    </noscript>
+                                                                                 
+                    <!--MainPanel"-->
+                    <div id="mainpanel">
+                        <div id="leftcolumn" class="box">  
+                            <div id="menuwrapper" >
+                                <div class="title">
+                                    <span style="float: right; ">
+                                        &nbsp;
+                                        <a id="resetTreeLinkButton" href="javascript:__doPostBack(&#39;resetTreeLinkButton&#39;,&#39;&#39;)">Refresh</a>
+                                    </span>
+                                    <span id ="HideMenu">
+                                        <img style="vertical-align: middle; height: 15px; width: 16px;" src="includes/images/glyphicons-114-justify.png"/>
+                                        <span>Hide Sections</span>
+                                    </span>
+    
+                                </div>   
+                                <div class="content">
+                                        <div id="leftUpdatePanel">
+	
+                                                <div class="boxBg">
+                                                    <a href="#bnfTree_SkipLink"><img alt="Skip Navigation Links." src="/WebResource.axd?d=cPEOxzG6xrNEAulrV-rWxidp22wtsPg1z85kXP6OhzDU67puV6rotrfyhkw8QYHTb3eFTViMfcwMqhJryFVunQlPhNhZKpy7GM6C1py---I1&amp;t=639190869332169432" width="0" height="0" style="border-width:0px;" /></a><div id="bnfTree">
+		<table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><img src="/WebResource.axd?d=XElWO92e3tPeeDt6vk6cjtImKdpFzmZH1pCo05XTPLCnSVb7dZ6ZyAvisjd_fdnlUsb3SfQ8RyiKnR0O3cR-2hZEDcV3sRPXQjxDEOfjYI3kHYCTK5SAgVlyCKCGh9Gt0&amp;t=639190869332169432" alt="" /></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sP||Show All&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet0&#39;);" id="bnfTreet0">Show All</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen1" href="javascript:TreeView_PopulateNode(bnfTree_Data,1,document.getElementById(&#39;bnfTreen1&#39;),document.getElementById(&#39;bnfTreet1&#39;),null,&#39; &#39;,&#39;00 - Emergency treatment of poisoning&#39;,&#39;N||00&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 00 - Emergency treatment of poisoning" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||00&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet1&#39;);" id="bnfTreet1">00 - Emergency treatment of poisoning</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen2" href="javascript:TreeView_PopulateNode(bnfTree_Data,2,document.getElementById(&#39;bnfTreen2&#39;),document.getElementById(&#39;bnfTreet2&#39;),null,&#39; &#39;,&#39;01 - Gastro-intestinal system&#39;,&#39;N||01&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 01 - Gastro-intestinal system" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||01&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet2&#39;);" id="bnfTreet2">01 - Gastro-intestinal system</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen3" href="javascript:TreeView_PopulateNode(bnfTree_Data,3,document.getElementById(&#39;bnfTreen3&#39;),document.getElementById(&#39;bnfTreet3&#39;),null,&#39; &#39;,&#39;02 - Cardiovascular system&#39;,&#39;N||02&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 02 - Cardiovascular system" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||02&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet3&#39;);" id="bnfTreet3">02 - Cardiovascular system</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen4" href="javascript:TreeView_PopulateNode(bnfTree_Data,4,document.getElementById(&#39;bnfTreen4&#39;),document.getElementById(&#39;bnfTreet4&#39;),null,&#39; &#39;,&#39;03 - Respiratory system&#39;,&#39;N||03&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 03 - Respiratory system" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||03&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet4&#39;);" id="bnfTreet4">03 - Respiratory system</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen5" href="javascript:TreeView_PopulateNode(bnfTree_Data,5,document.getElementById(&#39;bnfTreen5&#39;),document.getElementById(&#39;bnfTreet5&#39;),null,&#39; &#39;,&#39;04 - Central Nervous System&#39;,&#39;N||04&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 04 - Central Nervous System" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||04&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet5&#39;);" id="bnfTreet5">04 - Central Nervous System</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen6" href="javascript:TreeView_PopulateNode(bnfTree_Data,6,document.getElementById(&#39;bnfTreen6&#39;),document.getElementById(&#39;bnfTreet6&#39;),null,&#39; &#39;,&#39;05 - Infections&#39;,&#39;N||05&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 05 - Infections" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||05&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet6&#39;);" id="bnfTreet6">05 - Infections</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen7" href="javascript:TreeView_PopulateNode(bnfTree_Data,7,document.getElementById(&#39;bnfTreen7&#39;),document.getElementById(&#39;bnfTreet7&#39;),null,&#39; &#39;,&#39;06 - Endocrine system&#39;,&#39;N||06&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 06 - Endocrine system" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||06&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet7&#39;);" id="bnfTreet7">06 - Endocrine system</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen8" href="javascript:TreeView_PopulateNode(bnfTree_Data,8,document.getElementById(&#39;bnfTreen8&#39;),document.getElementById(&#39;bnfTreet8&#39;),null,&#39; &#39;,&#39;07 - Obstetrics, gynaecology and urinary-tract disorders&#39;,&#39;N||07&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 07 - Obstetrics, gynaecology and urinary-tract disorders" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||07&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet8&#39;);" id="bnfTreet8">07 - Obstetrics, gynaecology and urinary-tract disorders</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen9" href="javascript:TreeView_PopulateNode(bnfTree_Data,9,document.getElementById(&#39;bnfTreen9&#39;),document.getElementById(&#39;bnfTreet9&#39;),null,&#39; &#39;,&#39;08 - Malignant disease and immunosuppression&#39;,&#39;N||08&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 08 - Malignant disease and immunosuppression" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||08&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet9&#39;);" id="bnfTreet9">08 - Malignant disease and immunosuppression</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen10" href="javascript:TreeView_PopulateNode(bnfTree_Data,10,document.getElementById(&#39;bnfTreen10&#39;),document.getElementById(&#39;bnfTreet10&#39;),null,&#39; &#39;,&#39;09 - Nutrition and blood&#39;,&#39;N||09&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 09 - Nutrition and blood" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||09&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet10&#39;);" id="bnfTreet10">09 - Nutrition and blood</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen11" href="javascript:TreeView_PopulateNode(bnfTree_Data,11,document.getElementById(&#39;bnfTreen11&#39;),document.getElementById(&#39;bnfTreet11&#39;),null,&#39; &#39;,&#39;10 - Musculoskeletal and joint diseases&#39;,&#39;N||10&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 10 - Musculoskeletal and joint diseases" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||10&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet11&#39;);" id="bnfTreet11">10 - Musculoskeletal and joint diseases</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen12" href="javascript:TreeView_PopulateNode(bnfTree_Data,12,document.getElementById(&#39;bnfTreen12&#39;),document.getElementById(&#39;bnfTreet12&#39;),null,&#39; &#39;,&#39;11 - Eye&#39;,&#39;N||11&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 11 - Eye" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||11&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet12&#39;);" id="bnfTreet12">11 - Eye</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen13" href="javascript:TreeView_PopulateNode(bnfTree_Data,13,document.getElementById(&#39;bnfTreen13&#39;),document.getElementById(&#39;bnfTreet13&#39;),null,&#39; &#39;,&#39;12 - Ear, nose and oropharynx&#39;,&#39;N||12&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 12 - Ear, nose and oropharynx" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||12&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet13&#39;);" id="bnfTreet13">12 - Ear, nose and oropharynx</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen14" href="javascript:TreeView_PopulateNode(bnfTree_Data,14,document.getElementById(&#39;bnfTreen14&#39;),document.getElementById(&#39;bnfTreet14&#39;),null,&#39; &#39;,&#39;13 - Skin&#39;,&#39;N||13&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 13 - Skin" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||13&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet14&#39;);" id="bnfTreet14">13 - Skin</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen15" href="javascript:TreeView_PopulateNode(bnfTree_Data,15,document.getElementById(&#39;bnfTreen15&#39;),document.getElementById(&#39;bnfTreet15&#39;),null,&#39; &#39;,&#39;14 - Immunological products and vaccines&#39;,&#39;N||14&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 14 - Immunological products and vaccines" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||14&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet15&#39;);" id="bnfTreet15">14 - Immunological products and vaccines</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen16" href="javascript:TreeView_PopulateNode(bnfTree_Data,16,document.getElementById(&#39;bnfTreen16&#39;),document.getElementById(&#39;bnfTreet16&#39;),null,&#39; &#39;,&#39;15 - Anaesthesia&#39;,&#39;N||15&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 15 - Anaesthesia" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||15&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet16&#39;);" id="bnfTreet16">15 - Anaesthesia</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen17" href="javascript:TreeView_PopulateNode(bnfTree_Data,17,document.getElementById(&#39;bnfTreen17&#39;),document.getElementById(&#39;bnfTreet17&#39;),null,&#39; &#39;,&#39;99 - Other drugs not classifiable&#39;,&#39;N||99&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand 99 - Other drugs not classifiable" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||99&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet17&#39;);" id="bnfTreet17">99 - Other drugs not classifiable</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen18" href="javascript:TreeView_PopulateNode(bnfTree_Data,18,document.getElementById(&#39;bnfTreen18&#39;),document.getElementById(&#39;bnfTreet18&#39;),null,&#39; &#39;,&#39;A1 - Other agents&#39;,&#39;N||A1&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand A1 - Other agents" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||A1&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet18&#39;);" id="bnfTreet18">A1 - Other agents</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen19" href="javascript:TreeView_PopulateNode(bnfTree_Data,19,document.getElementById(&#39;bnfTreen19&#39;),document.getElementById(&#39;bnfTreet19&#39;),null,&#39; &#39;,&#39;A2 - Borderline substances&#39;,&#39;N||A2&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand A2 - Borderline substances" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||A2&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet19&#39;);" id="bnfTreet19">A2 - Borderline substances</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen20" href="javascript:TreeView_PopulateNode(bnfTree_Data,20,document.getElementById(&#39;bnfTreen20&#39;),document.getElementById(&#39;bnfTreet20&#39;),null,&#39; &#39;,&#39;A3 - Cautionary and advisory labels&#39;,&#39;N||A3&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand A3 - Cautionary and advisory labels" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||A3&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet20&#39;);" id="bnfTreet20">A3 - Cautionary and advisory labels</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen21" href="javascript:TreeView_PopulateNode(bnfTree_Data,21,document.getElementById(&#39;bnfTreen21&#39;),document.getElementById(&#39;bnfTreet21&#39;),null,&#39; &#39;,&#39;A4 - Intravenous additives&#39;,&#39;N||A4&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand A4 - Intravenous additives" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||A4&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet21&#39;);" id="bnfTreet21">A4 - Intravenous additives</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen22" href="javascript:TreeView_PopulateNode(bnfTree_Data,22,document.getElementById(&#39;bnfTreen22&#39;),document.getElementById(&#39;bnfTreet22&#39;),null,&#39; &#39;,&#39;A5 - Wound management&#39;,&#39;N||A5&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand A5 - Wound management" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||A5&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet22&#39;);" id="bnfTreet22">A5 - Wound management</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen23" href="javascript:TreeView_PopulateNode(bnfTree_Data,23,document.getElementById(&#39;bnfTreen23&#39;),document.getElementById(&#39;bnfTreet23&#39;),null,&#39; &#39;,&#39;B2 - Borderline substances&#39;,&#39;N||B2&#39;,&#39;f&#39;,&#39;&#39;,&#39;f&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand B2 - Borderline substances" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||B2&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet23&#39;);" id="bnfTreet23">B2 - Borderline substances</a></td>
+			</tr>
+		</table><table cellpadding="0" cellspacing="0" style="border-width:0;">
+			<tr>
+				<td><a id="bnfTreen24" href="javascript:TreeView_PopulateNode(bnfTree_Data,24,document.getElementById(&#39;bnfTreen24&#39;),document.getElementById(&#39;bnfTreet24&#39;),null,&#39; &#39;,&#39;P - Prescribing information&#39;,&#39;N||P&#39;,&#39;f&#39;,&#39;&#39;,&#39;t&#39;)"><img src="/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&amp;t=639190869332169432" alt="Expand P - Prescribing information" style="border-width:0;" /></a></td><td style="white-space:nowrap;"><a class="bnfTree_0" href="javascript:__doPostBack(&#39;bnfTree&#39;,&#39;sN||P&#39;)" onclick="TreeView_SelectNode(bnfTree_Data, this,&#39;bnfTreet24&#39;);" id="bnfTreet24">P - Prescribing information</a></td>
+			</tr>
+		</table>
+	</div><a id="bnfTree_SkipLink"></a>
+                                                </div>
+                                            
+</div>
+                                </div>         
+                            </div>
+                            <div id='handle' class="ui-resizable-handle ui-resizable-e"></div>
+                        </div>                 
+                        <div id="contentcolumn" style="width: 100%; margin: 0; padding: 0;">   
+                            <div id="middlePane">
+                                <div class="box">
+                                    <div class="title">
+                                        <div style="float: right;">
+                                            <a id ="Keys" class="" onclick="UpdateContentSize();" href="#">Show/Hide Keys To Symbols</a>
+                                            <a id ="News" class="" onclick="UpdateContentSize();" href="#">Latest News</a>
+                                        </div> 
+                                        <span id="ShowMenu" style="padding: 1px; margin-right: 10px; display:none;">
+                                            <img style="vertical-align: middle; height: 15px; width: 16px;" src="includes/images/glyphicons-114-justify.png"/>
+                                            <span>Show Sections</span>                                 
+                                        </span>
+                                        <div style="clear: both;"></div>
+                                      
+                                    </div>   
+                                    <div class="content">    
+                                        <!-- Latest News --> 
+                                        <div id="NewsPanel" class="box" style="margin: 0 0 0 0 ; padding: 0; width: 100%;">
+                                            <div class="title2">
+                                                Latest News
+                                            </div>
+                                            <div class="content2">       
+                                                <div id="LatestNewsPanel" class="newsPnl">
+	    
+                                                    <span id="labelLatestNews"><span style="font-size: 14px"><strong>For the latest information, see: <a target="_blank" rel="noopener noreferrer" href="https://nhswales365.sharepoint.com/:b:/r/sites/BCU_PrescribingMatters/Shared%20Documents/2026%20DTG%20Newsletters/DTG%20Newsletter%20September%202026.pdf?d=wd1233b4860e841b99bf416b25fa3fcda&amp;csf=1&amp;web=1&amp;e=oc4nnP">September 2026 DTG Newsletter</a></strong></span></span>  
+                                                
+</div>                 
+                                            </div>       
+                                        </div>
+                                        
+                                        <!-- Update Panel -->
+                                        <div id="rightUpdatePanel">
+	
+                                                
+                                                <!-- Search Panel -->
+                                                
+                                                <!-- Welcome Panel -->
+                                                
+                                                <!-- Drug Panel -->
+                                                <div id="drugPanel">
+		
+                                                    <div style="text-align: center; padding-left: 10px; padding-right: 10px;">
+                                                        <div style="text-align: left">
+                                                            <br />
+                                                            
+                                                            <table class="drugView">
+                                                                <tr>
+                                                                    <td class="std drugName">
+                                                                        <table class="drugView">
+                                                                            <tr>
+                                                                                <td  class="std drugName">
+                                                                                    <span id="lblDrugName" class="normalLineHeight" style="font-size:X-Large;font-weight:bold;">Insulin lispro</span>
+                                                                                    <strong></strong>
+                                                                                </td>
+                                                                                <td  class="std drugName" style="vertical-align: top; text-align: right">
+                                                                                    <input id="btnPrintDrug" type="button" value="Print Drug" onclick="return btnBNFPrint_onclick()" />
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td class="std drugName">
+                                                                                    <span id="breadcrumbLabel" style="font-weight:bold;">06.01.01.01 (Short-acting insulins)</span>
+                                                                                </td>
+                                                                                <td style="text-align: right;">
+                                                                                    <span style="font-weight: bold">Date added to formulary :</span> <span id="lblCreatedTime">29-12-2016</span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td class="std drugName">
+                                                                        <strong>Formulary Status:
+                                                                            <span id="labelFormularyNote"><font color=green>G</font>&nbsp;<font color=black></font>&nbsp;-&nbsp;<font color=green>Green</font>&nbsp;<font color=black></font> </span></strong>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <br />
+                                        
+                                                            <style>
+                                                                .cssTest {
+                                                                    width: 100%;
+                                                                    table-layout: fixed;
+                                                                }
+                                            
+                                                            </style>
+ 
+                                                            <div id="productPanel">
+			
+                                                                <table class="drugViewL">
+                                                                    <tr>
+                                                                        <td class="std drugName">
+                                                                            <span id="Label22" style="font-size:Larger;font-weight:bold;text-decoration:none;">Medicines Available</span><strong>:
+                <span id="labelControl"></span></strong>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            
+                                                                            <table id="productTable" class="cssTest" cellspacing="1" cellpadding="1" border="0">
+				<tr>
+					<td colspan="1" style="">Insulin lispro</td>
+				</tr><tr>
+					<td colspan="1" style="width:auto; padding: 0px 0px 10px 0px;"><span style="color: #ff8c00"><u><strong>Lyumjev®</strong></u><br />
+In adults with type 1 diabetes, as a second-line choice, where patients have failed to achieve adequate control with standard short/long acting insulin combinations<br />
+<i>DTG 12/20</i></span></td>
+				</tr><tr>
+					<td colspan="1" style="width:auto; padding: 0px 0px 10px 0px;">Humalog</td>
+				</tr><tr>
+					<td colspan="1" style="vertical-align:text-top; text-align:left; padding: 0px 0px 10px 0px;"><table border="0">
+						<tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Humalog 100units/ml solution for injection 10ml vials</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Humalog 100units/ml solution for injection 3ml cartridges</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Lyumjev 100units/ml solution for injection 3ml cartridges</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Lyumjev 100units/ml solution for injection 10ml vials</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Lyumjev Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Lyumjev KwikPen 100units/ml solution for injection 3ml pre-filled pens</td>
+						</tr><tr>
+							<td colspan="1" style="width:3%; vertical-align:text-top; text-align:center;">&nbsp;</td><td colspan="1" style="width:3%; vertical-align:text-top; text-align:center; color:darkslategrey;">&bull;</td><td colspan="1" style="vertical-align:text-top; color:darkslategrey;">Lyumjev KwikPen 200units/ml solution for injection 3ml pre-filled pens</td>
+						</tr>
+					</table></td>
+				</tr>
+			</table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td class="std drugName">
+                                                                            
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                            <table id="prescNotesTable" border="0">
+				<tr>
+					<td colspan="2" style="width: auto;  padding: 0px 0px 10px 0px;"></td>
+				</tr><tr>
+					<td colspan="2" style="width: auto;  padding: 0px 0px 10px 0px;"></td>
+				</tr>
+			</table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            
+		</div>
+                                                            <br />
+                                                            <table class="drugView" border="0">
+                                                                <tr>
+                                                                    <td colspan="3" class="std drugName">
+                                                                        <span id="Label2" style="font-size:Larger;font-weight:bold;text-decoration:none;">Search External Sites</span>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="width: 33%; padding-top: 8px;">
+                                                                        <a id="hlSearchCurrentBnf" href="https://bnf.nice.org.uk/search/?q=Insulin-lispro" target="_blank">
+                                                                            <div>
+                                                                                <img src="includes/images/SearchGreyR.png" style="vertical-align: middle;">
+                                                                                <span class="searchExternalSiteText">Search in BNF (NICE NHS Evidence)</span>
+                                                                            </div>
+                                                                        </a>
+                                                                        
+                                                                    </td>
+                                                                    <td style="width: 33%; padding-top: 8px;">
+                                                                        <a id="hlSearcheMC" href="https://www.medicines.org.uk/emc/search?q=Insulin lispro" target="_blank">                                                                            
+                                                                            <div>
+                                                                                <img src="includes/images/SearchGreyR.png" style="vertical-align: middle;">
+                                                                                <span class="searchExternalSiteText">Search in eMC</span>
+                                                                            </div>
+                                                                        </a>
+                                                                        
+                                                                    </td>
+                                                                    <td style="width: 33%; padding-top: 10px;">
+                                                                        <a id="hlSearchCurrentBnfCh" href="https://bnfc.nice.org.uk/drugs/Insulin-lispro" target="_blank">
+                                                                            <div>
+                                                                                <img src="includes/images/SearchGreyR.png" style="vertical-align: middle;">
+                                                                                <span class="searchExternalSiteText" >Search in BNFc (NICE NHS Evidence)</span>
+                                                                            </div>
+                                                                        </a>
+                                                                        
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    
+                                                                        
+                                                                    
+                                                                    <td style="width: 33%; padding-top: 10px;">
+                                                                        <a id="hlSearchInternetBnf" href="https://www.nice.org.uk/search?q=Insulin lispro" target="_blank">
+                                                                            <div>
+                                                                                <img src="includes/images/SearchGreyR.png" style="vertical-align: middle;">
+                                                                                <span class="searchExternalSiteText" >Search in NICE (internet) (includes BNF and BNFc)</span>
+                                                                            </div>
+                                                                        </a>
+                                                                        
+                                                                        
+
+                                                                    
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3">
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3" class="std drugName">
+                                                                        <span id="Label7" style="font-size:Larger;font-weight:bold;text-decoration:none;">Related Documents</span>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td colspan="3">
+                                                                        
+                                                                        <table id="relDocsTable" border="0">
+			<tr>
+				<td><a href="http://guidance.nice.org.uk/NG28" target="_blank">NICE clinical guideline NG28 - Type 2 diabetes in adults: management - Jun 2022</a></td>
+			</tr><tr>
+				<td colspan="1" style="padding-left:8px;"></td>
+			</tr><tr>
+				<td><a href="http://guidance.nice.org.uk/NG17" target="_blank">NICE clinical guideline NG17 - Type 1 diabetes in adults: diagnosis and management - Aug 2022</a></td>
+			</tr><tr>
+				<td colspan="1" style="padding-left:8px;"></td>
+			</tr><tr>
+				<td><a href="http://guidance.nice.org.uk/NG18" target="_blank">NICE clinical guideline NG18 - Diabetes (type 1 and type 2) in children and young people: diagnosis and management - May 2023</a></td>
+			</tr><tr>
+				<td colspan="1" style="padding-left:8px;"></td>
+			</tr><tr>
+				<td><a href="http://guidance.nice.org.uk/NG19" target="_blank">NICE clinical guideline NG19 - Diabetic foot problems: prevention and management - Oct 2019</a></td>
+			</tr><tr>
+				<td colspan="1" style="padding-left:8px;"></td>
+			</tr><tr>
+				<td><a href="http://guidance.nice.org.uk/NG3" target="_blank">NICE clinical guideline NG3 - Diabetes in pregnancy: management of diabetes and its complications from preconception to the postnatal period - Dec 2020</a></td>
+			</tr><tr>
+				<td colspan="1" style="padding-left:8px;"></td>
+			</tr><tr>
+				<td><a href="http://guidance.nice.org.uk/TA151" target="_blank">NICE Technology appraisal TA151 - Diabetes - insulin pump therapy - Jul 2008</a></td>
+			</tr>
+		</table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <br />
+                                                            <br />
+                                                        </div>
+                                                    </div>
+                                                
+	</div>
+                                                <!-- BNF Panel -->
+                                                
+                                                <!-- Drug Group Panel -->
+                                                
+                                                <!-- Print Panel -->
+                                                
+                                            
+</div>
+                                        
+                                        <!-- Contact Table -->
+                                        <table style="width: 100%; padding-top: 10px;">
+                                            <tr>
+                                                <td>
+                                                    <div style="text-align: center; font-size: 12px; font-weight:bold; padding-top: 10px; padding-bottom: 12px; background-color:#F0F0F0; width:100%; margin-top: 1px;">
+                                                        <span id="contactLabel" class="contact">Please email details of any problems or comments on the website to <a>pharmacy.support@wales.nhs.uk</a> .</span>  
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                    </div> 
+                                </div>
+                                                       
+
+                            </div>
+                        </div> <!-- Ends Content Column -->
+                          
+                        <div style="clear: both;"></div> 
+                    </div> <!-- Ends MainPanel -->
+                    
+                    <!-- Footer -->
+     
+                    
+                    <!-- KeyPanel -->
+                    <div id="KeyPanel" class="box" style="border-top: 1px solid #336699;  width: 100%;">
+             
+                        <div class="content2" style="padding-top: 6px;">
+                                <span id="labelFooter"><b>Key to Symbols:<br>
+<span style="font-size: 14px"><span style="color: rgba(0, 128, 0, 1)">G = Green</span>&nbsp;&nbsp;&nbsp; &nbsp; <span style="color: rgba(255, 140, 0, 1)">AmberA = Amber Advise&nbsp; &nbsp; AmberI=Amber Initiate&nbsp; &nbsp;AmberRET=Amber Retain&nbsp;&nbsp;</span>&nbsp; &nbsp;<span style="color: rgba(255, 140, 0, 1)">A</span></span></b><span style="font-size: 14px"><span style="color: rgba(255, 140, 0, 1)">sc</span><b><span style="color: rgba(255, 140, 0, 1)"> = Amber with shared care&nbsp;</span>&nbsp;&nbsp; &nbsp;<span style="color: rgba(255, 0, 0, 1)">R = Red</span>&nbsp;&nbsp;&nbsp;<span style="color: rgba(153, 0, 153, 1)"> </span><span style="color: rgba(128, 0, 128, 1)">P = Purple (Pending pathway)</span>&nbsp; &nbsp;BL =&nbsp;Black (Treatment provided by Tertiary Centre)&nbsp;<span style="color: rgba(255, 0, 204, 1)">HO = Hospital supply only</span>&nbsp; &nbsp;<span style="color: rgba(0, 0, 255, 1)">B = Blue (Non-formulary)</span></b></span></span>
+                        </div>       
+                    </div>  
+                       
+  <span id="DisplayTest1" style="display: none;" ></span>       
+        <!--The NHS Wales online Formulary management system (InForm) is produced and maintained by Digitl Health and Care Wales (DHCW)/>-->
+        <input type="hidden" name="hfScrollPosition" id="hfScrollPosition" />
+        <input type="hidden" name="lastSelectedNode" id="lastSelectedNode" />
+        <input type="hidden" name="HiddenFields1$hdMainInstance" id="HiddenFields1_hdMainInstance" value="1" />
+<input type="hidden" name="HiddenFields1$hdMainSessionId" id="HiddenFields1_hdMainSessionId" value="Mainf23b3020d1034d0aadc40cf4ef7df2dc|1" />
+
+                </div> <!-- Ends Wrapper2 -->
+            </div>  
+            
+
+            
+            
+
+
+     
+
+        </div>  <!-- Ends Container --> 
+
+    
+    
+<script type="text/javascript">
+//<![CDATA[
+var bnfTree_ImageArray =  new Array('', '', '', '/WebResource.axd?d=XElWO92e3tPeeDt6vk6cjtImKdpFzmZH1pCo05XTPLCnSVb7dZ6ZyAvisjd_fdnlUsb3SfQ8RyiKnR0O3cR-2hZEDcV3sRPXQjxDEOfjYI3kHYCTK5SAgVlyCKCGh9Gt0&t=639190869332169432', '/WebResource.axd?d=wOtl-KW9zvwJkb8Y6-dl9OUnSnn4XjW_7K7D54tmE2psXCI-lYmce-zb-XnuVXhnk6HFKlHYXKQ161RHnpYtd0jNJI6-H2-n6LTO59-Z9zxNEg-xE0W1Y9LeDPqtVAcf0&t=639190869332169432', '/WebResource.axd?d=Ot2p58-J8ES8wyPDA8OmOTouKzFYTc568xMSXiSisee800dov1Xr-VlSdYtTMdGKTbPEcwpLStJoO8ON9ZNK8Bgm4g-nUPtNEaTWlkglHVje8h8hGdPfwPz7bsW6poN90&t=639190869332169432');
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"), document.getElementById("RegularExpressionValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "txtSearch";
+RequiredFieldValidator1.display = "Dynamic";
+RequiredFieldValidator1.isvalid = "False";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+var RegularExpressionValidator1 = document.all ? document.all["RegularExpressionValidator1"] : document.getElementById("RegularExpressionValidator1");
+RegularExpressionValidator1.controltovalidate = "txtSearch";
+RegularExpressionValidator1.display = "Dynamic";
+RegularExpressionValidator1.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+RegularExpressionValidator1.validationexpression = "^.{3,}$";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+WebForm_InitCallback();var bnfTree_Data = new Object();
+bnfTree_Data.images = bnfTree_ImageArray;
+bnfTree_Data.collapseToolTip = "Collapse {0}";
+bnfTree_Data.expandToolTip = "Expand {0}";
+bnfTree_Data.expandState = theForm.elements['bnfTree_ExpandState'];
+bnfTree_Data.selectedNodeID = theForm.elements['bnfTree_SelectedNode'];
+(function() {
+  for (var i=0;i<6;i++) {
+  var preLoad = new Image();
+  if (bnfTree_ImageArray[i].length > 0)
+    preLoad.src = bnfTree_ImageArray[i];
+  }
+})();
+bnfTree_Data.lastIndex = 25;
+bnfTree_Data.populateLog = theForm.elements['bnfTree_PopulateLog'];
+bnfTree_Data.treeViewID = 'bnfTree';
+bnfTree_Data.name = 'bnfTree_Data';
+Sys.WebForms.PageRequestManager.getInstance()._registerDisposeScript("leftUpdatePanel", "bnfTree_ImageArray.length = 0;\r\nbnfTree_Data = null;");
+
+document.getElementById('RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator1'));
+}
+
+document.getElementById('RegularExpressionValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RegularExpressionValidator1'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":600,"dynamicLayout":true}, null, null, $get("UpdateProgress1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

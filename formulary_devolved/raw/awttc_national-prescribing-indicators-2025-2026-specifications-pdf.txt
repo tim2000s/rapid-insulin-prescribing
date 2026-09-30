@@ -1,0 +1,1383 @@
+National Prescribing Indicators 2025–2026
+Specifications
+
+
+
+
+   April 2025
+   Updated to include targets for total antimicrobial items and
+   DDDs for March 2026
+This report has been prepared by the Welsh Analytical Prescribing Support Unit
+(WAPSU), part of the All Wales Therapeutics and Toxicology Centre (AWTTC).
+
+Please direct any queries to AWTTC:
+
+All Wales Therapeutics and Toxicology Centre (AWTTC)
+The Routledge Academic Centre
+University Hospital Llandough
+Penlan Road
+Llandough
+Vale of Glamorgan
+CF64 2XX
+
+awttc@wales.nhs.uk
+029 2182 6900
+
+The information in this document is subject to review and may be updated or withdrawn
+at any time. AWTTC accepts no liability in association with the use of its content.
+Information presented in this document can be reproduced using the following citation:
+Welsh Analytical Prescribing Support Unit, All Wales Therapeutics and Toxicology
+Centre. National Prescribing Indicators 2025–2026 Specifications. April 2025.
+
+Copyright AWTTC 2025. All rights reserved.
+Contents
+
+Introduction ................................................................................................................. 2
+1.0 Priority areas ........................................................................................................ 3
+   1.1 Analgesics......................................................................................................... 3
+      1.1.1 Opioid burden ............................................................................................. 3
+      1.1.2 Tramadol .................................................................................................... 5
+      1.1.3 Gabapentin and pregabalin ........................................................................ 5
+   1.2 Antimicrobial stewardship ................................................................................. 6
+      1.2.1 Total antibacterial items .............................................................................. 6
+      1.2.2 Total antibacterial DDDs ............................................................................. 6
+      1.2.3 4C antimicrobials items .............................................................................. 7
+      1.2.4 4C antimicrobials DDDs ............................................................................. 8
+      1.2.3 Course duration for respiratory tract infection (RTI) antibiotics ................... 9
+   1.3 Respiratory...................................................................................................... 11
+      1.3.1 Decarbonisation of inhalers ...................................................................... 11
+      1.3.2 Short Acting Beta Agonist (SABA) inhalers .............................................. 21
+   1.4 SGLT-2 inhibitors ............................................................................................ 22
+      1.4.1 Patients with type 2 diabetes and chronic heart failure............................. 22
+      1.4.2 Patients with type 2 diabetes and chronic kidney disease ........................ 22
+      1.4.3 Patients with non-diabetic chronic kidney disease.................................... 22
+2.0 Supporting domains ............................................................................................ 24
+   2.1 Safety .............................................................................................................. 24
+      2.1.1 Prescribing Safety Indicators .................................................................... 24
+      2.1.2 Hypnotics and anxiolytics ......................................................................... 25
+      2.1.3 Yellow cards ............................................................................................. 26
+   2.2 Efficiencies ...................................................................................................... 26
+      2.2.1 Best value biological medicines ................................................................ 26
+      2.2.2 Low value for prescribing .......................................................................... 27
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications                                           Page 1 of 29
+Introduction
+
+The National Prescribing Indicators (NPIs) 2025-2028 were developed by the All
+Wales Prescribing Advisory Group (AWPAG), and underwent a period of consultation
+prior to their endorsement by the All Wales Medicines Strategy Group (AWMSG). In
+September 2022, it was agreed by AWMSG that the NPIs should be updated and
+reviewed every 3 years, with updates made to targets and thresholds annually.
+
+This supplementary document details the specifications of each NPI including data
+source, drug baskets and targets/thresholds as appropriate for 2025–2026.
+
+Unless otherwise stated, for each NPI with a threshold, this is usually set at the 75th
+percentile (i.e. the prescribing rate of the best performing 25% of practices) for the
+quarter ending 31st December 2024, and is based on prescribing data for all general
+practices in Wales.
+
+For those NPIs with a drug basket, the British National Formulary (BNF) medicine
+name and associated BNF coding structure within the Comparative Analysis System
+for Prescribing Audit (CASPA) have been listed for each medicine.
+
+It should be noted that some of the drug baskets may contain medicines that have
+been discontinued. These are kept in the drug baskets for purposes of historic
+reporting and also to identify any prescribing of discontinued medicines.
+
+NPI quarterly reports detailing health board values will be produced for quarters
+ending June 2025, September 2025, December 2025 and March 2026.
+
+NPI data for GP practices, primary care clusters and health boards are available on
+the Server for Prescribing Information Reporting and Analysis (SPIRA).
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications            Page 2 of 29
+1.0 Priority areas
+
+1.1 Analgesics
+
+1.1.1 Opioid burden
+
+Data source: NHS Wales Shared Services Partnership (NWSSP)
+
+Units of measure:
+   1. Opioid burden user-defined group (UDG) total oral morphine equivalence
+       (OME) per 1,000 patients.
+   2. High strength opioids UDG with a likely daily dose of ≥120mg oral morphine
+       equivalence (OME) per 1,000 patients.
+
+Targets for 2025–2026:
+   1. Opioid burden – Maintain performance levels within the lower quartile
+      (threshold: 87,366mg OME per 1,000 patients), or show a reduction towards
+      the quartile below.
+   2. High strength opioids – Maintain performance levels within the lower quartile
+      (threshold: 7,627mg OME per 1,000 patients), or show a reduction towards
+      the quartile below.
+
+Numerators1
+  1. Opioid burden – OME of a UDG of opioid medicines.
+ BNF Code                        BNF Level      BNF Name
+ 0407020                         BNF sub-       Opioid Analgesics
+                                 section
+ 0407010F0                       BNF            Co-codamol (codeine
+                                 chemical       phos/paracetamol)
+ 0407010N0                       BNF            Co-dydramol
+                                 chemical       (dihydrocodeine/paracetamol)
+ 0407010X0                       0407010X0 includes some OTC paracetamol
+                                 combination preparations. The preparations listed
+                                 below are the ones that contain an opioid and have
+                                 been prescribed at least once since 2020
+ 0407010X0AAAIAI                 Preparation    Paracet/dihydrocodeine_Tab
+                                                500mg/30mg
+ 0407010X0AAAHAH                 Preparation    Paracet/dihydrocodeine_Tab
+                                                500mg/20mg
+ 0407010X0BIABAI                 Preparation    Remedeine Fte_Tab
+ 0407010X0BIAAAH                 Preparation    Remedeine_Tab
+ 0407010X0BMABA0                 Preparation    Solpadeine Plus_Tab Solb
+ 0407010X0AABFBF                 Preparation    Paracet/dihydrocodeine_Tab
+                                                500mg/7.46mg
+ 0407010X0BMADA0                 Preparation    Solpadeine Max Solb_Tab
+ 0407010X0BMACA0                 Preparation    Solpadeine Plus_Cap
+
+1 All injectable preparations have been excluded from both the opioid burden basket
+
+and the high strength opioids basket
+National Prescribing Indicators 2025–2026 Specifications           Page 3 of 29
+ 0407010X0BEACAJ                  Preparation     Syndol_Head Relief Tab
+ 0407010X0BMAAAJ                  Preparation     Solpadeine Plus_Tab
+ 0407010X0DFAABN                  Preparation     Codasolve 8mg/500mg/30mg
+                                                  effervescent tablets
+
+   2. High strength opioids – OME of a UDG of opioid medicines.
+
+Lower thresholds for inclusion in high strength basket
+
+ BNF Chemical Substance Name                       Lower threshold for inclusion
+ Buprenorphine transdermal patch                   ≥52.5mcg/hr
+ Diamorphine tablet                                ≥20mg
+ Diamorphine oral solution                         ≥20mg/5ml
+ Fentanyl transdermal patch                        ≥50mcg/hr
+ Fentanyl buccal lozenge                           ≥400mcg
+ Fentanyl sublingual tablet                        ≥300mcg
+ Fentanyl intra-nasal spray                        ≥100mcg
+ Fentanyl buccal film                              ≥200mcg
+ Hydromorphone hydrochloride M/R tablet            ≥16mg
+ Morphine hydrochloride oral solution              ≥20mg/5ml
+ Morphine hydrochloride suppository                ≥30mg
+ Morphine sulfate immediate tablet                 ≥30mg
+ Morphine sulfate M/R tablet                       ≥60mg
+ Morphine sulfate once daily tablet                120mg
+ Morphine sulfate oral solution                    ≥20mg/5ml
+ Morphine sulfate granules                         ≥60mg
+ Morphine sulfate suppository                      ≥30mg
+ Nalbuphine                                        ≥10mg/ml
+ Oxycodone hydrochloride oral solution             ≥50mg/5ml
+ Oxycodone hydrochloride tablets                   ≥20mg
+ Oxycodone hydrochloride MR tablets                ≥40mg
+ Oxycodone and naloxone oral solution              40mg/20mg/5ml
+ Oxycodone and naloxone MR tablets                 40mg/20mg
+ Papaveretum                                       ≥15mg/ml
+ Tapentadol immediate tablets                      ≥75mg
+ Tapentadol M/R tablets                            ≥150mg
+ Tapentadol oral solution                          ≥100mg/5ml
+
+A full list of included preparations is available on request.
+
+Denominators
+1,000 patients.
+
+National Prescribing Indicators 2025–2026 Specifications            Page 4 of 29
+1.1.2 Tramadol
+
+Data source: NWSSP
+
+Unit of measure: Tramadol DDDs per 1,000 patients.
+
+Target for 2025–2026: Maintain performance levels within lower quartile (threshold:
+225 DDDs per 1,000 patients), or show a reduction towards the quartile below.
+
+Numerator
+DDDs of tramadol.
+
+ BNF Code             BNF Level                    BNF Name
+ 040702040            BNF chemical                 Tramadol Hydrochloride
+
+Denominator
+1,000 patients.
+
+
+1.1.3 Gabapentin and pregabalin
+
+Data source: NWSSP
+
+Unit of measure: Gabapentin and pregabalin DDDs per 1,000 patients.
+
+Target for 2025–2026: Maintain performance levels within lower quartile (threshold:
+1,203 DDDs per 1,000 patients), or show a reduction towards the quartile below.
+
+Numerator
+DDDs of gabapentin and pregabalin.
+
+ BNF Code             BNF Level                    BNF Name
+ 0408010G0            BNF chemical                 Gabapentin
+ 0408010AE            BNF chemical                 Pregabalin
+ 0407030AA            BNF chemical                 Pregabalin
+
+Denominator
+1,000 patients.
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications           Page 5 of 29
+1.2 Antimicrobial stewardship
+
+1.2.1 Total antibacterial items
+
+Data source: NWSSP
+
+Units of measure: Total antibacterial items per 1,000 specific therapeutic group
+age–sex related prescribing units (STAR-PUs).
+
+Target for 2025–2026: Maintain performance levels within lower quartile, or show a
+reduction towards the quartile below, based on quarterly data from April 2024–March
+2025.
+
+                              Quarter        Quarter         Quarter        Quarter
+                              ending          ending         ending         ending
+                               June         September       December        March
+ Threshold (items per
+                                 222             198           238            216
+ 1,000 STAR-PUs)
+
+Numerator
+All antibacterial items
+
+ BNF Code           BNF Level                      BNF Name
+ 0501               BNF section                    Antibacterial drugs
+
+Denominator
+1,000 STAR-PUs.
+
+
+1.2.2 Total antibacterial DDDs
+
+Data source: NWSSP
+
+Units of measure: Total antibacterial DDDs per 1,000 specific therapeutic group
+age–sex related prescribing units (STAR-PUs).
+
+Target for 2025–2026:
+Health board target: a quarterly reduction of 6% against a baseline of data from April
+2019–March 2020.
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications             Page 6 of 29
+                         Quarter          Quarter            Quarter             Quarter
+                         ending            ending            ending              ending
+                          June           September          December             March
+                       2019     2025    2019     2025      2019      2025      2020    2026
+                       data    target   Data    target     data     target     data   target
+Aneurin Bevan         2,561    2,407    2,471   2,323      2,795    2,628     2,739       2,574
+Betsi Cadwaladr       2,421    2,276    2,386   2,243      2,663    2,504     2,530       2,379
+Cardiff and Vale      2,423    2,278    2,388   2,244      2,674    2,513     2,577       2,422
+Cwm Taf               2,856    2,684    2,753   2,588      3,056    2,873     2,987       2,807
+Morgannwg
+Hywel Dda             2,563    2,409    2,452   2,305      2,723    2,560     2,668       2,508
+Powys                 2,196    2,064    2,206   2,074      2,422    2,277     2,373       2,231
+Swansea Bay           2,651    2,492    2,543   2,390      2,826    2,657     2,719       2,556
+
+GP practice target: maintain performance levels within lower quartile, or show a
+reduction towards the quartile below, based on quarterly data from April 2024–March
+2025.
+
+                              Quarter        Quarter           Quarter            Quarter
+                              ending          ending           ending             ending
+                               June         September         December            March
+ Threshold (DDDs per
+                                2,017           1,835              2,050           1,928
+ 1,000 STAR-PUs)
+
+Numerator
+DDDs of all antibacterial items
+
+ BNF Code           BNF Level                      BNF Name
+ 0501               BNF section                    Antibacterial drugs
+
+Denominator
+1,000 STAR-PUs.
+
+1.2.3 4C antimicrobials items
+
+Data source: NWSSP
+
+Unit of measure: Co-amoxiclav, cephalosporin, fluoroquinolone and clindamycin (4C
+antimicrobials) items combined, per 1,000 patients.
+
+Target for 2025–2026: Maintain performance levels within the lower quartile
+(threshold: 5.03 items per 1,000 patients), or show a reduction towards the quartile
+below.
+
+
+
+National Prescribing Indicators 2025–2026 Specifications                   Page 7 of 29
+Numerator
+Items of co-amoxiclav, cephalosporins, fluoroquinolones and clindamycin.
+
+ BNF Code           BNF Level                   BNF Name
+ 0501013K0          BNF chemical                Co-Amoxiclav (amoxicillin/clavul Acid)
+ 0501020B0          BNF chemical                Cefaclor
+ 0501020D0          BNF chemical                Cefadroxil
+ 0501020E0          BNF chemical                Cefixime
+ 0501020F0          BNF chemical                Cefotaxime sodium
+ 0501020I0          BNF chemical                Cefpodoxime
+ 0501020K0          BNF chemical                Ceftriaxone sodium
+ 0501020L0          BNF chemical                Ceftazidime Pentahydrate
+ 0501020P0          BNF chemical                Cefuroxime sodium
+ 0501020Q0          BNF chemical                Cefuroxime axetil
+ 0501020R0          BNF chemical                Cefalexin
+ 0501020W0          BNF chemical                Cefradine
+ 0501021            BNF sub section             Cephalosporins
+ 0501120            BNF sub section             Quinolones
+ 0501060            BNF sub section             Clindamycin
+
+Denominator
+1,000 patients.
+
+1.2.4 4C antimicrobials DDDs
+
+Data source: NWSSP
+
+Unit of measure: Co-amoxiclav, cephalosporin, fluoroquinolone and clindamycin (4C
+antimicrobials) DDDs combined, per 1,000 patients.
+
+Target for 2025–2026: Maintain performance levels within the lower quartile
+(threshold: 34.9 DDDs per 1,000 patients), or show a reduction towards the quartile
+below.
+
+Numerator
+DDDs of co-amoxiclav, cephalosporins, fluoroquinolones and clindamycin.
+
+ BNF Code           BNF Level                   BNF Name
+ 0501013K0          BNF chemical                Co-Amoxiclav (amoxicillin/clavul Acid)
+ 0501020B0          BNF chemical                Cefaclor
+ 0501020D0          BNF chemical                Cefadroxil
+ 0501020E0          BNF chemical                Cefixime
+ 0501020F0          BNF chemical                Cefotaxime sodium
+ 0501020I0          BNF chemical                Cefpodoxime
+ 0501020K0          BNF chemical                Ceftriaxone sodium
+ 0501020L0          BNF chemical                Ceftazidime Pentahydrate
+
+National Prescribing Indicators 2025–2026 Specifications             Page 8 of 29
+ BNF Code           BNF Level                   BNF Name
+ 0501020P0          BNF chemical                Cefuroxime sodium
+ 0501020Q0          BNF chemical                Cefuroxime axetil
+ 0501020R0          BNF chemical                Cefalexin
+ 0501020W0          BNF chemical                Cefradine
+ 0501021            BNF sub section             Cephalosporins
+ 0501120            BNF sub section             Quinolones
+ 0501060            BNF sub section             Clindamycin
+
+Denominator
+1,000 patients.
+
+1.2.3 Course duration for respiratory tract infection (RTI) antibiotics
+
+Data source: NWSSP
+
+Unit of measure:
+Proportion of amoxicillin 500 mg capsules prescribed for 5-day course duration
+versus 5+7-day course duration.
+Proportion of doxycycline 100 mg capsules prescribed for 5-day course duration
+versus 5+7-day course duration.
+Proportion of clarithromycin 500 mg tablets prescribed for 5-day course duration
+versus 5+7-day course duration.
+
+Target for 2025–2026:
+75% of amoxicillin prescriptions issued as a 5-day course duration versus 5+7-day
+course duration.
+75% of doxycycline prescriptions issued as a 5-day course duration versus 5+7-day
+course duration.
+75% of clarithromycin prescriptions issued as a 5-day course duration versus 5+7-
+day course duration.
+
+Numerator
+Amoxicillin 500 mg capsules items prescribed with a 5-day course duration (quantity
+of 15).
+Doxycycline 100 mg capsules items prescribed with a 5-day course duration (quantity
+of 6).
+Clarithromycin 500 mg tablets items prescribed with a 5-day course duration
+(quantity of 10).
+
+ BNF Code                BNF Level      BNF Name
+ 0501013B0AAABAB         Preparation    Amoxicillin_Cap 500mg
+ 0501030I0AAABAB         Preparation    Doxycycline Hyclate_Cap 100mg
+ 050105B0AAADAD          Preparation    Clarithromycin_Tab 500mg
+
+
+Denominator
+Amoxicillin 500 mg capsules items prescribed with a 5-day course duration (quantity
+of 15) and a 7-day course duration (quantity of 21).
+
+
+National Prescribing Indicators 2025–2026 Specifications            Page 9 of 29
+Doxycycline 100 mg capsules items prescribed with a 5-day course duration (quantity
+of 6) and a 7-day course duration (quantity of 8).
+Clarithromycin 500 mg tablets items prescribed with a 5-day course duration
+(quantity of 10) and a 7-day course duration (quantity of 14).
+
+ BNF Code                BNF Level      BNF Name
+ 0501013B0AAABAB         Preparation    Amoxicillin_Cap 500mg
+ 0501030I0AAABAB         Preparation    Doxycycline Hyclate_Cap 100mg
+ 050105B0AAADAD          Preparation    Clarithromycin_Tab 500mg
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications        Page 10 of 29
+1.3 Respiratory
+
+1.3.1 Decarbonisation of inhalers
+
+Data source: NWSSP
+
+Unit of measure: Number of DPIs and SMIs as a percentage of all inhalers
+prescribed.
+
+Target for 2025–2026: 80% of inhalers prescribed to be DPIs or SMIs, or show an
+increase towards the quartile above.
+
+Numerator
+DPI and SMI items.
+
+ BNF Code                 BNF Level       BNF Name
+ 0301011AAAAAAAA          Preparation     Indacaterol/glycopy_Pdr Inh Cap 85/54mcg
+ 0301011AABBAAAA          Preparation     Ultibro Breezhaler_Pdr Inh Cap 85/54mcg
+                                          Trimbow NEXThaler
+ 0301011ABBBABAA          Preparation
+                                          88microg/5microg/9microg/dose dry pdr inh
+ 0301011E0AAAAAA          Preparation     Formoterol Fumar_Pdr Inh Cap 12mcg +dev
+ 0301011E0AAABAB          Preparation     Formoterol Fumar_Pdr For Inh 6mcg (60 D)
+ 0301011E0AAACAC          Preparation     Formoterol Fumar_Pdr For Inh 12mcg(60 D)
+ 0301011E0AAAEAE          Preparation     Formoterol Fumar_Pdr For Inh 12mcg(120d)
+ 0301011E0BBAAAA          Preparation     Foradil_Inh Cap 12mcg + Inha
+ 0301011E0BCAAAB          Preparation     Oxis 6_Turbohaler 6mcg (60 D)
+ 0301011E0BCABAC          Preparation     Oxis 12_Turbohaler 12mcg (60 D)
+ 0301011E0BEAAAE          Preparation     Easyhaler_Formoterol 12mcg (120 D)
+ 0301011R0AAAQAQ          Preparation     Salbutamol_Pdr For Inh 200mcg (60 D)
+ 0301011R0AABZBZ          Preparation     Salbutamol_Pdr For Inh 100mcg (200 D)
+ 0301011R0AACACA          Preparation     Salbutamol_Pdr For Inh 200mcg (200 D)
+ 0301011R0AACBCB          Preparation     Salbutamol_Pdr For Inh 100mcg (200d)+dev
+ 0301011R0AACCCC          Preparation     Salbutamol_Pdr For Inh 100mcg (200d) Ref
+ 0301011R0BEAHAQ          Preparation     Ventolin_Accuhaler 200mcg (60 D)
+ 0301011R0BWAABZ          Preparation     Easyhaler_Salbutamol Sulph 100mcg (200d)
+ 0301011R0BWABCA          Preparation     Easyhaler_Salbutamol Sulph 200mcg (200d)
+ 0301011R0BXAACB          Preparation     Novolizer_Salbulin Inh 100mcg (200d)+dev
+ 0301011R0BXABCC          Preparation     Novolizer_Salbulin Inh 100mcg (200d) Ref
+ 0301011U0AAAEAE          Preparation     Salmeterol_Pdr For Inh 50mcg (60 D)
+ 0301011U0BBAEAE          Preparation     Serevent_Accuhaler 50mcg (60 D)
+ 0301011V0AABBBB          Preparation     Terbut Sulf_B/a Inha 500mcg (120 D)
+ 0301011V0BBARBB          Preparation     Bricanyl_Turbohaler 500mcg (120 D)
+ 0301011X0AAAAAA          Preparation     Indacaterol Mal_Pdr Inh Cap 150mcg + Dev
+ 0301011X0AAABAB          Preparation     Indacaterol Mal_Pdr Inh Cap 300mcg + Dev
+ 0301011X0BBAAAA          Preparation     Onbrez Breezhaler_Pdr Inh Cap 150mcg+dev
+ 0301011X0BBABAB          Preparation     Onbrez Breezhaler_Pdr Inh Cap 300mcg+dev
+ 0301011Y0AAAAAA          Preparation     Fluticasone/vilanterol_Inha 184/22mcg30d
+ 0301011Y0AAABAB          Preparation     Fluticasone/vilanterol_Inha 92/22mcg 30d
+
+National Prescribing Indicators 2025–2026 Specifications        Page 11 of 29
+ 0301011Y0BBAAAA          Preparation     Relvar Ellipta_Inha 184mcg/22mcg (30 D)
+ 0301011Y0BBABAB          Preparation     Relvar Ellipta_Inha 92mcg/22mcg (30 D)
+ 0301011Z0AAAAAA          Preparation     Olodaterol_Inha 2.5mcg (60d) Cff + Dev
+ 0301011Z0AAABAB          Preparation     Olodaterol_Inh Soln 2.5mcg (60d) Ref Cff
+ 0301011Z0BBAAAA          Preparation     Striverdi Respimat_Inha 2.5mcg (60d)+dev
+ 0301011Z0BBABAB          Preparation     Striverdi Respimat_Inh 2.5mcg (60d) Ref
+ 0301020Q0AAAAAA          Preparation     Tiotropium_Pdr For Inh Cap 18mcg + Dev
+ 0301020Q0AAABAB          Preparation     Tiotropium_Pdr For Inh Cap 18mcg
+ 0301020Q0AAACAC          Preparation     Tiotropium_Inha 2.5mcg (60d) Cff + Dev
+ 0301020Q0AAADAD          Preparation     Tiotropium_Pdr For Inh Cap 10mcg + Dev
+ 0301020Q0AAAEAE          Preparation     Tiotropium_Inh Soln 2.5mcg (60d) Ref Cff
+ 0301020Q0BBAAAA          Preparation     Spiriva_Pdr For Inh Cap 18mcg+handihaler
+ 0301020Q0BBABAB          Preparation     Spiriva_Pdr For Inh Cap 18mcg Ref
+ 0301020Q0BBACAC          Preparation     Spiriva Respimat_Inha 2.5mcg (60d) + Dev
+ 0301020Q0BBADAE          Preparation     Spiriva Respimat_Inhsoln 2.5mcg (60d)ref
+ 0301020Q0BCAAAD          Preparation     Braltus_Pdr For Inh Cap 10mcg+zonda Inh
+                                          Acopair 18microgram inhalation pdr caps with
+ 0301020Q0BDAAAA          Preparation
+                                          NeumoHaler
+                                          Tiogiva 18microgram inhalation powder
+ 0301020Q0BEAAAA          Preparation
+                                          capsules with device
+                                          Tiogiva 18microgram inhalation powder
+ 0301020Q0BEABAB          Preparation
+                                          capsules
+ 0301020R0AAAAAA          Preparation     Aclidinium Brom_Pdr For Inh 375mcg (60d)
+ 0301020R0BBAAAA          Preparation     Eklira_Inh 322mcg (60d) (genuair)
+ 0301020S0AAAAAA          Preparation     Glycopyrronium Brom_Inh Cap 55mcg + Dev
+ 0301020S0BBAAAA          Preparation     Seebri_Breezhaler Inh Cap 55mcg + Dev
+ 0301040U0AAAAAA          Preparation     Umeclidinium Brom_Inha 65mcg/22mcg (30d)
+ 0301040U0AAABAB          Preparation     Umeclidinium Brom_Inh 65mcg (30d)
+ 0301040U0BBAAAA          Preparation     Anoro Ellipta_Inha 65mcg/22mcg (30d)
+ 0301040U0BCAAAB          Preparation     Incruse Ellipta_Inh 55mcg (30d)
+ 0301040V0AAAAAA          Preparation     Aclid/formot_Pdrfor Inh 396/11.8mcg(60d)
+ 0301040V0BBAAAA          Preparation     Duaklir Genuair_340mcg/12mcg (60d)
+ 0301040X0AAAAAA          Preparation     Tiotropium/olodaterol_Inha2.5/2.5mcg+dev
+ 0301040X0AAABAB          Preparation     Tiotropium/olodat_Inh 2.5/2.5mcg(60d)ref
+ 0301040X0BBAAAA          Preparation     Spiolto Respimat_Inha2.5/2.5mcg(60d)+dev
+ 0301040X0BBABAB          Preparation     Spiolto Respimat_Inh 2.5/2.5mcg (60d)ref
+ 0301040X0BCAAAA          Preparation     Yanimo Respimat_Inha2.5/2.5mcg(60d)+dev
+                                          Indacaterol 125microg/Mometasone
+ 0301040Z0AAAAAA          Preparation
+                                          62.5microg/dose pdr caps
+                                          Indacaterol 125microg/Mometasone
+ 0301040Z0AAABAB          Preparation
+                                          127.5microg/dose pdr caps
+                                          Atectura Breezhaler 125microg/62.5microg
+ 0301040Z0BBAAAA          Preparation
+                                          inhalation pdr caps
+                                          Atectura Breezhaler 125microg/127.5microg
+ 0301040Z0BBABAB          Preparation
+                                          pdr caps
+                                          Atectura Breezhaler 125microg/260microg
+ 0301040Z0BBACAC          Preparation
+                                          inhalation pdr caps
+ 0302000C0AABUBU          Preparation     Beclomet Diprop_Pdr For Inh 200mcg(200 D
+
+National Prescribing Indicators 2025–2026 Specifications          Page 12 of 29
+ 0302000C0AABYBY          Preparation     Beclomet/formoterol_Inh 100/6 (120d) Dry
+ 0302000C0AACACA          Preparation     Beclomet/formoterol_Inh 200/6 (120d) Dry
+ 0302000C0BNAABU          Preparation     Easyhaler_Beclomet 200mcg (200 D)
+ 0302000C0BRAABY          Preparation     Fostair Nexthaler_Inh 100mcg/6mcg (120d)
+ 0302000C0BRABCA          Preparation     Fostair Nexthaler_Inh 200mcg/6mcg (120d)
+ 0302000K0AAAGAG          Preparation     Budesonide_Pdr For Inh 200mcg (100 D)
+ 0302000K0AAAHAH          Preparation     Budesonide_Pdr For Inh 400mcg (50 D)
+ 0302000K0AAAKAK          Preparation     Budesonide_Pdr For Inh 100mcg (200 D)
+ 0302000K0AAALAL          Preparation     Gppe Pdr For Inhb/a_Symbicort 100/6(120d
+ 0302000K0AAAMAM          Preparation     Gppe Pdr For Inhb/a_Symbicort 200/6(120d
+ 0302000K0AAAUAU          Preparation     Gppe Pdr For Inhb/a_Symbicort 400/12(60d
+ 0302000K0AAAVAV          Preparation     Budesonide_Pdr For Inh 200mcg (100d)+dev
+ 0302000K0AAAWAW          Preparation     Budesonide_Pdr For Inh 200mcg (100d) Ref
+ 0302000K0BBAHAG          Preparation     Pulmicort_Turbohaler 200mcg (100 D)
+ 0302000K0BBAIAH          Preparation     Pulmicort_Turbohaler 400mcg (50 D)
+ 0302000K0BBAKAK          Preparation     Pulmicort_Turbohaler 100mcg (200 D)
+ 0302000K0BDAAAL          Preparation     Symbicort_Turbohaler 100mcg/6mcg (120 D)
+ 0302000K0BDABAM          Preparation     Symbicort_Turbohaler 200mcg/6mcg (120 D)
+ 0302000K0BDACAU          Preparation     Symbicort_Turbohaler 400mcg/12mcg (60 D)
+ 0302000K0BFAAAV          Preparation     Novolizer_Budesonide Inh 200mcg (100 D)
+ 0302000K0BFABAC          Preparation     Novolizer_Budesonide Inh 200mcg 100d Ref
+ 0302000K0BGAAAK          Preparation     Easyhaler_Budesonide 100mcg (200 D)
+ 0302000K0BGABAX          Preparation     Easyhaler_Budesonide 200mcg (200 D)
+ 0302000K0BGACAY          Preparation     Easyhaler_Budesonide 400mcg (100 D)
+ 0302000K0BHAAAM          Preparation     Duoresp Spiromax_Inh160mcg/4.5mcg(120d)
+ 0302000K0BHABAU          Preparation     Duoresp Spiromax_Inh 320mcg/9mcg (60 D)
+ 0302000K0BIAAAU          Preparation     Fobumix_Easyhaler 320mcg/9mcg (60 D)
+ 0302000K0BIABBC          Preparation     Fobumix_Easyhaler 160mcg/4.5mcg (60 D)
+ 0302000K0BIACAM          Preparation     Fobumix_Easyhaler 160mcg/4.5mcg (120 D)
+ 0302000K0BIADAL          Preparation     Fobumix_Easyhaler 80mcg/4.5mcg (120 D)
+                                          WockAIR 160micrograms/dose /
+ 0302000K0BJAAAM          Preparation
+                                          4.5micrograms/dose dry pdr inh
+                                          WockAIR 320micrograms/dose /
+ 0302000K0BJABAU          Preparation
+                                          9micrograms/dose dry pdr inh
+ 0302000N0AAARAR          Preparation     Fluticasone Prop_Pdr For Inh 50mcg (60d)
+ 0302000N0AAASAS          Preparation     Fluticasone Prop_Pdr For Inh 100mcg(60d)
+ 0302000N0AAATAT          Preparation     Fluticasone Prop_Pdr For Inh 250mcg(60d)
+ 0302000N0AAAUAU          Preparation     Fluticasone Prop_Pdr For Inh 500mcg(60d)
+ 0302000N0AAAXAX          Preparation     Gppe Pdr For Inh_Seretide 100 (60 D)
+ 0302000N0AAAYAY          Preparation     Gppe Pdr For Inh_Seretide 250 (60 D)
+ 0302000N0AAAZAZ          Preparation     Gppe Pdr For Inh_Seretide 500 (60 D)
+ 0302000N0AABNBN          Preparation     Fluticasone/vilanterol_Inha 92/22mcg 30d
+                                          Fluticasone propionate 100microg/Salmeterol
+ 0302000N0AABRBR          Preparation
+                                          12.75microg/dose
+                                          Fluticasone propionate 202microg/Salmeterol
+ 0302000N0AABSBS          Preparation
+                                          12.75microg/dose
+ 0302000N0BBARAR          Preparation     Flixotide_Accuhaler 50mcg (60 D)
+
+National Prescribing Indicators 2025–2026 Specifications          Page 13 of 29
+ 0302000N0BBASAS          Preparation     Flixotide_Accuhaler 100mcg (60 D)
+ 0302000N0BBATAT          Preparation     Flixotide_Accuhaler 250mcg (60 D)
+ 0302000N0BBAUAU          Preparation     Flixotide_Accuhaler 500mcg (60 D)
+ 0302000N0BCAAAX          Preparation     Seretide 100_Accuhaler 100mcg/50mcg(60d)
+ 0302000N0BCABAY          Preparation     Seretide 250_Accuhaler 250mcg/50mcg(60d)
+ 0302000N0BCACAZ          Preparation     Seretide 500_Accuhaler 500mcg/50mcg(60d)
+ 0302000N0BGAAAZ          Preparation     Airflusal Forspiro_Inh 500/50mcg (60d)
+ 0302000N0BHAAAZ          Preparation     Aerivio Spiromax_Inh 500/50mcg (60d)
+                          Preparation     Sereflo Ciphaler 50microg / 250microg/dose
+ 0302000N0BIACAY
+                                          dry pdr inh
+                                          Sereflo Ciphaler 50microg / 500microg/dose
+ 0302000N0BIADAZ          Preparation
+                                          dry pdr inh
+ 0302000N0BKAAAY          Preparation     Fusacomb Easyhaler_Inha 250/50mcg (60 D)
+ 0302000N0BKABAZ          Preparation     Fusacomb Easyhaler_Inha 500/50mcg (60 D)
+ 0302000N0BMAAAZ          Preparation     Stalpex_Inha 500/50mcg (60 D)
+                                          Fixkoh Airmaster 50microg/dose /
+ 0302000N0BNAAAZ          Preparation
+                                          500microg/dose dry pdr inh
+                                          Fixkoh Airmaster 50microg/dose /
+ 0302000N0BNABAY          Preparation
+                                          250microg/dose Dry Pdr Inh
+                                          Fixkoh Airmaster 50microg/dose /
+ 0302000N0BNACAX          Preparation
+                                          100microg/dose Dry Pdr Inh
+                          Preparation     Seffalair Spiromax 12.75microg /
+ 0302000N0BQAABR
+                                          100microg/dose dry pdr inh
+                          Preparation     Seffalair Spiromax 12.75microg /
+ 0302000N0BQABBS
+                                          202microg/dose dry pdr inh
+                          Preparation     Campona Airmaster 50microg/dose /
+ 0302000N0BRAAAX
+                                          100microg/dose dry pdr inh
+                          Preparation     Campona Airmaster 50microg/dose /
+ 0302000N0BRABAY
+                                          250microg/dose dry pdr inh
+ 0302000R0AAAAAA          Preparation     Mometasone Fur_Pdr For Inh 200mcg (30 D)
+ 0302000R0AAABAB          Preparation     Mometasone Fur_Pdr For Inh 200mcg (60 D)
+ 0302000R0AAACAC          Preparation     Mometasone Fur_Pdr For Inh 400mcg (30 D)
+ 0302000R0AAADAD          Preparation     Mometasone Fur_Pdr For Inh 400mcg (60 D)
+ 0302000R0BBAAAA          Preparation     Asmanex Twisthaler_D/p Inh 200mcg (30 D)
+ 0302000R0BBABAB          Preparation     Asmanex Twisthaler_D/p Inh 200mcg (60 D)
+ 0302000R0BBACAC          Preparation     Asmanex Twisthaler_D/p Inh 400mcg (30 D)
+ 0302000R0BBADAD          Preparation     Asmanex Twisthaler_D/p Inh 400mcg (60 D)
+ 0302000V0BCAAA0          Preparation     Trelegy Ellipta_Inha 92/55/22mcg (30 D)
+                                          Enerzair Breezhaler 114microg / 46microg /
+ 0302000W0BBAAAA          Preparation
+                                          136microg/dose
+                                          Generic Trelegy Ellipta
+ 0302000Z0AAAAAA          Preparation
+                                          92microg/55microg/22microg/dose inh
+ 0307000R0AAAAAA          Preparation     Mannitol_Pdr Inh Cap 40mg + 2 Dev
+ 0307000R0BBAAAA          Preparation     Bronchitol_Pdr Inh Cap 40mg + 2 Dev
+
+Denominator
+All inhaler items.
+
+BNF Code                  BNF Level       BNF Name
+
+National Prescribing Indicators 2025–2026 Specifications         Page 14 of 29
+0301011AAAAAAAA           Preparation     Indacaterol/glycopy_Pdr Inh Cap 85/54mcg
+0301011AABBAAAA           Preparation     Ultibro Breezhaler_Pdr Inh Cap 85/54mcg
+0301011ABBBAAA0           Preparation     Trimbow_Inh 87mcg/5mcg/9mcg (120 D)
+0301011ABBBABAA           Preparation     Trimbow NEXThaler
+                                          88microg/5microg/9microg/dose dry pdr inh
+0301011ABBBACAB           Preparation     Trimbow 172microg/dose / 5microg/dose /
+                                          9microg/dose inh
+0301011E0AAAAAA           Preparation     Formoterol Fumar_Pdr Inh Cap 12mcg +dev
+0301011E0AAABAB           Preparation     Formoterol Fumar_Pdr For Inh 6mcg (60 D)
+0301011E0AAACAC           Preparation     Formoterol Fumar_Pdr For Inh 12mcg(60 D)
+0301011E0AAADAD           Preparation     Formoterol Fumar_Inh 12mcg (100d)
+0301011E0AAAEAE           Preparation     Formoterol Fumar_Pdr For Inh 12mcg(120d)
+0301011E0BBAAAA           Preparation     Foradil_Inh Cap 12mcg + Inha
+0301011E0BCAAAB           Preparation     Oxis 6_Turbohaler 6mcg (60 D)
+0301011E0BCABAC           Preparation     Oxis 12_Turbohaler 12mcg (60 D)
+0301011E0BDAAAD           Preparation     Atimos Modulite_Inh 12mcg (100d)
+0301011E0BEAAAE           Preparation     Easyhaler_Formoterol 12mcg (120 D)
+0301011R0AAAAAA           Preparation     Salbutamol_Inha 100mcg (200 D)
+0301011R0AAAPAP           Preparation     Salbutamol_Inha 100mcg (200 D) Cff
+0301011R0AAAQAQ           Preparation     Salbutamol_Pdr For Inh 200mcg (60 D)
+0301011R0AABUBU           Preparation     Salbutamol_Inha B/a 100mcg (200 D) Cff
+0301011R0AABZBZ           Preparation     Salbutamol_Pdr For Inh 100mcg (200 D)
+0301011R0AACACA           Preparation     Salbutamol_Pdr For Inh 200mcg (200 D)
+0301011R0AACBCB           Preparation     Salbutamol_Pdr For Inh 100mcg (200d)+dev
+0301011R0AACCCC           Preparation     Salbutamol_Pdr For Inh 100mcg (200d) Ref
+0301011R0BEAHAQ           Preparation     Ventolin_Accuhaler 200mcg (60 D)
+0301011R0BEAIAP           Preparation     Ventolin_Evohaler 100mcg (200 D)
+0301011R0BIABAD           Preparation     Salamol E-Breathe_Inha 100mcg (200 D)
+0301011R0BIAFAP           Preparation     Salamol_Inha 100mcg (200 D) Cff
+0301011R0BIAGBU           Preparation     Salamol E-Breathe_Inh 100mcg (200 D) Cff
+0301011R0BIAHAP           Preparation     Salamol_Inha 100mcg (200D) CFF (Arrow)
+0301011R0BMAAAP           Preparation     Airomir_Inha 100mcg (200 D)
+0301011R0BMABBU           Preparation     Airomir_Autohaler 100mcg (200 D) Cff
+0301011R0BWAABZ           Preparation     Easyhaler_Salbutamol Sulph 100mcg (200d)
+0301011R0BWABCA           Preparation     Easyhaler_Salbutamol Sulph 200mcg (200d)
+0301011R0BXAACB           Preparation     Novolizer_Salbulin Inh 100mcg (200d)+dev
+0301011R0BXABCC           Preparation     Novolizer_Salbulin Inh 100mcg (200d) Ref
+0301011U0AAAEAE           Preparation     Salmeterol_Pdr For Inh 50mcg (60 D)
+0301011U0AAAHAH           Preparation     Salmeterol_Inha 25mcg (120 D) Cff
+0301011U0BBAEAE           Preparation     Serevent_Accuhaler 50mcg (60 D)
+0301011U0BBAFAH           Preparation     Serevent_Evohaler 25mcg (120 D)
+0301011U0BDAAAH           Preparation     Neovent_Inha 25mcg (120 D) Cff
+0301011U0BEAAAH           Preparation     Neovent_Inha 25mcg (120 D) Cff
+0301011U0BGAAAH           Preparation     Soltel_Inha 25mcg (120d) Cff
+0301011V0AABBBB           Preparation     Terbut Sulf_B/a Inha 500mcg (120 D)
+0301011V0BBARBB           Preparation     Bricanyl_Turbohaler 500mcg (120 D)
+0301011X0AAAAAA           Preparation     Indacaterol Mal_Pdr Inh Cap 150mcg + Dev
+
+National Prescribing Indicators 2025–2026 Specifications         Page 15 of 29
+0301011X0AAABAB           Preparation     Indacaterol Mal_Pdr Inh Cap 300mcg + Dev
+0301011X0BBAAAA           Preparation     Onbrez Breezhaler_Pdr Inh Cap 150mcg+dev
+0301011X0BBABAB           Preparation     Onbrez Breezhaler_Pdr Inh Cap 300mcg+dev
+0301011Y0AAAAAA           Preparation     Fluticasone/vilanterol_Inha 184/22mcg30d
+0301011Y0AAABAB           Preparation     Fluticasone/vilanterol_Inha 92/22mcg 30d
+0301011Y0BBAAAA           Preparation     Relvar Ellipta_Inha 184mcg/22mcg (30 D)
+0301011Y0BBABAB           Preparation     Relvar Ellipta_Inha 92mcg/22mcg (30 D)
+0301011Z0AAAAAA           Preparation     Olodaterol_Inha 2.5mcg (60d) Cff + Dev
+0301011Z0AAABAB           Preparation     Olodaterol_Inh Soln 2.5mcg (60d) Ref Cff
+0301011Z0BBAAAA           Preparation     Striverdi Respimat_Inha 2.5mcg (60d)+dev
+0301011Z0BBABAB           Preparation     Striverdi Respimat_Inh 2.5mcg (60d) Ref
+0301020I0AAANAN           Preparation     Ipratrop Brom_Inha 20mcg (200 D) Cff
+0301020I0BBAJAN           Preparation     Atrovent_Inha 20mcg (200 D) Cff
+0301020I0BIAAAN           Preparation     Inhalvent_Inha 20mcg (200d)
+0301020Q0AAAAAA           Preparation     Tiotropium_Pdr For Inh Cap 18mcg + Dev
+0301020Q0AAABAB           Preparation     Tiotropium_Pdr For Inh Cap 18mcg
+0301020Q0AAACAC           Preparation     Tiotropium_Inha 2.5mcg (60d) Cff + Dev
+0301020Q0AAADAD           Preparation     Tiotropium_Pdr For Inh Cap 10mcg + Dev
+0301020Q0AAAEAE           Preparation     Tiotropium_Inh Soln 2.5mcg (60d) Ref Cff
+0301020Q0BBAAAA           Preparation     Spiriva_Pdr For Inh Cap 18mcg+handihaler
+0301020Q0BBABAB           Preparation     Spiriva_Pdr For Inh Cap 18mcg Ref
+0301020Q0BBACAC           Preparation     Spiriva Respimat_Inha 2.5mcg (60d) + Dev
+0301020Q0BBADAE           Preparation     Spiriva Respimat_Inhsoln 2.5mcg (60d)ref
+0301020Q0BCAAAD           Preparation     Braltus_Pdr For Inh Cap 10mcg+zonda Inh
+0301020Q0BDAAAA           Preparation     Acopair 18microgram inhalation pdr caps with
+                                          NeumoHaler
+0301020Q0BEAAAA           Preparation     Tiogiva 18microgram inhalation powder
+                                          capsules with device
+0301020Q0BEABAB           Preparation     Tiogiva 18microgram inhalation powder
+                                          capsules
+0301020R0AAAAAA           Preparation     Aclidinium Brom_Pdr For Inh 375mcg (60d)
+0301020R0BBAAAA           Preparation     Eklira_Inh 322mcg (60d) (genuair)
+0301020S0AAAAAA           Preparation     Glycopyrronium Brom_Inh Cap 55mcg + Dev
+0301020S0BBAAAA           Preparation     Seebri_Breezhaler Inh Cap 55mcg + Dev
+0301040AAAAAAAA           Preparation     Glycopyrronium 7.2microg/Formoterol
+                                          5microg/dose inh CFCfree
+0301040AABBAAAA           Preparation     Bevespi Aerosphere 7.2microg /
+                                          5microg/dose Pressurised Inh
+0301040U0AAAAAA           Preparation     Umeclidinium Brom_Inha 65mcg/22mcg (30d)
+0301040U0AAABAB           Preparation     Umeclidinium Brom_Inh 65mcg (30d)
+0301040U0BBAAAA           Preparation     Anoro Ellipta_Inha 65mcg/22mcg (30d)
+0301040U0BCAAAB           Preparation     Incruse Ellipta_Inh 55mcg (30d)
+0301040V0AAAAAA           Preparation     Aclid/formot_Pdrfor Inh 396/11.8mcg(60d)
+0301040V0BBAAAA           Preparation     Duaklir Genuair_340mcg/12mcg (60d)
+0301040X0AAAAAA           Preparation     Tiotropium/olodaterol_Inha2.5/2.5mcg+dev
+0301040X0AAABAB           Preparation     Tiotropium/olodat_Inh 2.5/2.5mcg(60d)ref
+0301040X0BBAAAA           Preparation     Spiolto Respimat_Inha2.5/2.5mcg(60d)+dev
+
+
+National Prescribing Indicators 2025–2026 Specifications          Page 16 of 29
+0301040X0BBABAB           Preparation     Spiolto Respimat_Inh 2.5/2.5mcg (60d)ref
+0301040X0BCAAAA           Preparation     Yanimo Respimat_Inha2.5/2.5mcg(60d)+dev
+0301040Z0AAAAAA           Preparation     Indacaterol 125microg/Mometasone
+                                          62.5microg/dose pdr caps
+0301040Z0AAABAB           Preparation     Indacaterol 125microg/Mometasone
+                                          127.5microg/dose pdr caps
+0301040Z0BBAAAA           Preparation     Atectura Breezhaler 125microg/62.5microg
+                                          inhalation pdr caps
+0301040Z0BBABAB           Preparation     Atectura Breezhaler 125microg/127.5microg
+                                          pdr caps
+0301040Z0BBACAC           Preparation     Atectura Breezhaler 125microg/260microg
+                                          inhalation pdr caps
+0302000C0AAAAAA           Preparation     Beclomet Diprop_Inha 50mcg (200d)
+0302000C0AABEBE           Preparation     Beclomet Diprop_Inha 50mcg (200 D) Cff
+0302000C0AABFBF           Preparation     Beclomet Diprop_Inha 100mcg (200 D) Cff
+0302000C0AABGBG           Preparation     Beclomet Diprop_Inha B/a 50mcg(200 D)cff
+0302000C0AABHBH           Preparation     Beclomet Diprop_Inha B/a100mcg(200 D)cff
+0302000C0AABUBU           Preparation     Beclomet Diprop_Pdr For Inh 200mcg(200 D
+0302000C0AABVBV           Preparation     Beclomet Diprop_Inha 200mcg (200 D) Cff
+0302000C0AABWBW           Preparation     Beclomet Diprop_Inha 250mcg (200 D) Cff
+0302000C0AABXBX           Preparation     Beclomet Diprop/formoterol_Inh100/6(120d
+0302000C0AABYBY           Preparation     Beclomet/formoterol_Inh 100/6 (120d) Dry
+0302000C0AABZBZ           Preparation     Beclomet Diprop/formoterol_Inh200/6(120d
+0302000C0AACACA           Preparation     Beclomet/formoterol_Inh 200/6 (120d) Dry
+0302000C0BJAABE           Preparation     Qvar 50_Inha 50mcg (200 D)
+0302000C0BJABBF           Preparation     Qvar 100_Inha 100mcg (200 D)
+0302000C0BJACBG           Preparation     Qvar 50_Autohaler 50mcg (200 D)
+0302000C0BJADBH           Preparation     Qvar 100_Autohaler 100mcg (200 D)
+0302000C0BJAEBG           Preparation     Qvar 50 E-Breathe_Inha 50mcg (200 D)
+0302000C0BJAFBH           Preparation     Qvar 100 E-Breathe_Inha 100mcg (200 D)
+0302000C0BNAABU           Preparation     Easyhaler_Beclomet 200mcg (200 D)
+0302000C0BPAABE           Preparation     Clenil Modulite_Inha 50mcg (200d)
+0302000C0BPABBF           Preparation     Clenil Modulite_Inha 100mcg (200d)
+0302000C0BPACBV           Preparation     Clenil Modulite_Inha 200mcg (200d)
+0302000C0BPADBW           Preparation     Clenil Modulite_Inha 250mcg (200d)
+0302000C0BQAABX           Preparation     Fostair_Inh 100mcg/6mcg (120d) Cff
+0302000C0BQABBZ           Preparation     Fostair_Inh 200mcg/6mcg (120d) Cff
+0302000C0BRAABY           Preparation     Fostair Nexthaler_Inh 100mcg/6mcg (120d)
+0302000C0BRABCA           Preparation     Fostair Nexthaler_Inh 200mcg/6mcg (120d)
+0302000C0BSAABE           Preparation     Kelhale_Inha 50mcg (200 D)
+0302000C0BSABBF           Preparation     Kelhale_Inha 100mcg (200 D)
+0302000C0BTAABE           Preparation     Soprobec_Inha 50mcg (200 D)
+0302000C0BTABBV           Preparation     Soprobec_Inha 200mcg (200 D)
+0302000C0BTACBF           Preparation     Soprobec_Inha 100mcg (200 D)
+0302000C0BTADBW           Preparation     Soprobec_Inha 250mcg (200 D)
+0302000C0BUAABX           Preparation     Luforbec 100micrograms/dose /
+                                          6micrograms/dose Inhaler
+
+
+National Prescribing Indicators 2025–2026 Specifications         Page 17 of 29
+0302000C0BUABBZ           Preparation     Luforbec 200micrograms/dose /
+                                          6micrograms/dose inhaler
+0302000C0BVAABF           Preparation     Beclu 100micrograms/dose inhaler
+0302000C0BVABBV           Preparation     Beclu 200micrograms/dose inhaler
+0302000C0BWAABX           Preparation     Bibecfo 100micrograms/dose /
+                                          6micrograms/dose inhaler
+0302000C0BWABBZ           Preparation     Bibecfo 200micrograms/dose /
+                                          6micrograms/dose inhaler
+0302000K0AAAGAG           Preparation     Budesonide_Pdr For Inh 200mcg (100 D)
+0302000K0AAAHAH           Preparation     Budesonide_Pdr For Inh 400mcg (50 D)
+0302000K0AAAKAK           Preparation     Budesonide_Pdr For Inh 100mcg (200 D)
+0302000K0AAALAL           Preparation     Gppe Pdr For Inhb/a_Symbicort 100/6(120d
+0302000K0AAAMAM           Preparation     Gppe Pdr For Inhb/a_Symbicort 200/6(120d
+0302000K0AAAUAU           Preparation     Gppe Pdr For Inhb/a_Symbicort 400/12(60d
+0302000K0AAAVAV           Preparation     Budesonide_Pdr For Inh 200mcg (100d)+dev
+0302000K0AAAWAW           Preparation     Budesonide_Pdr For Inh 200mcg (100d) Ref
+0302000K0AABBBB           Preparation     Budesonide/formoterol Inh 200/6 (120d)
+0302000K0AABCBC           Preparation     Budesonide 100microg / Formoterol
+                                          3microg/dose inh CFC free
+0302000K0BBAHAG           Preparation     Pulmicort_Turbohaler 200mcg (100 D)
+0302000K0BBAIAH           Preparation     Pulmicort_Turbohaler 400mcg (50 D)
+0302000K0BBAKAK           Preparation     Pulmicort_Turbohaler 100mcg (200 D)
+0302000K0BDAAAL           Preparation     Symbicort_Turbohaler 100mcg/6mcg (120 D)
+0302000K0BDABAM           Preparation     Symbicort_Turbohaler 200mcg/6mcg (120 D)
+0302000K0BDACAU           Preparation     Symbicort_Turbohaler 400mcg/12mcg (60 D)
+0302000K0BDADBB           Preparation     Symbicort_Inh 200mcg/6mcg (120 D)
+0302000K0BDAEBC           Preparation     Symbicort 100microg/dose / 3microg/dose
+                                          Pressurised Inh
+0302000K0BFAAAV           Preparation     Novolizer_Budesonide Inh 200mcg (100 D)
+0302000K0BFABAC           Preparation     Novolizer_Budesonide Inh 200mcg 100d Ref
+0302000K0BGAAAK           Preparation     Easyhaler_Budesonide 100mcg (200 D)
+0302000K0BGABAX           Preparation     Easyhaler_Budesonide 200mcg (200 D)
+0302000K0BGACAY           Preparation     Easyhaler_Budesonide 400mcg (100 D)
+0302000K0BHAAAM           Preparation     Duoresp Spiromax_Inh
+                                          160mcg/4.5mcg(120d)
+0302000K0BHABAU           Preparation     Duoresp Spiromax_Inh 320mcg/9mcg (60 D)
+0302000K0BIAAAU           Preparation     Fobumix_Easyhaler 320mcg/9mcg (60 D)
+0302000K0BIABBC           Preparation     Fobumix_Easyhaler 160mcg/4.5mcg (60 D)
+0302000K0BIACAM           Preparation     Fobumix_Easyhaler 160mcg/4.5mcg (120 D)
+0302000K0BIADAL           Preparation     Fobumix_Easyhaler 80mcg/4.5mcg (120 D)
+0302000K0BJAAAM           Preparation     WockAIR 160micrograms/dose /
+                                          4.5micrograms/dose dry pdr inh
+0302000K0BJABAU           Preparation     WockAIR 320micrograms/dose /
+                                          9micrograms/dose dry pdr inh
+0302000N0AAARAR           Preparation     Fluticasone Prop_Pdr For Inh 50mcg (60d)
+0302000N0AAASAS           Preparation     Fluticasone Prop_Pdr For Inh 100mcg(60d)
+0302000N0AAATAT           Preparation     Fluticasone Prop_Pdr For Inh 250mcg(60d)
+0302000N0AAAUAU           Preparation     Fluticasone Prop_Pdr For Inh 500mcg(60d)
+
+National Prescribing Indicators 2025–2026 Specifications        Page 18 of 29
+0302000N0AAAXAX           Preparation     Gppe Pdr For Inh_Seretide 100 (60 D)
+0302000N0AAAYAY           Preparation     Gppe Pdr For Inh_Seretide 250 (60 D)
+0302000N0AAAZAZ           Preparation     Gppe Pdr For Inh_Seretide 500 (60 D)
+0302000N0AABABA           Preparation     Fluticasone Prop_Inha 125mcg (120 D) Cff
+0302000N0AABCBC           Preparation     Fluticasone Prop_Inha 250mcg (120 D) Cff
+0302000N0AABEBE           Preparation     Gppe Inha_Seretide 50 Evohaler (120d)cff
+0302000N0AABFBF           Preparation     Gppe Inha_Seretide 125 Evohaler (120d)cff
+0302000N0AABGBG           Preparation     Gppe Inha_Seretide 250 Evohaler (120d)cff
+0302000N0AABHBH           Preparation     Fluticasone Prop_Inha 50mcg (120 D) Cff
+0302000N0AABJBJ           Preparation     Fluticasone/formoterol_Inh 125/5mcg 120d
+0302000N0AABKBK           Preparation     Fluticasone/formoterol_Inh 250/10mcg120d
+0302000N0AABLBL           Preparation     Fluticasone/formoterol_Inh 50/5mcg 120 D
+0302000N0AABNBN           Preparation     Fluticasone/vilanterol_Inha 92/22mcg 30d
+0302000N0AABPBP           Preparation     Fluticasone/formoterol_Inhba125/5mcg120d
+0302000N0AABQBQ           Preparation     Fluticasone/formoterol_Inh Ba50/5mcg120d
+0302000N0AABRBR           Preparation     Fluticasone propionate 100microg/Salmeterol
+                                          12.75microg/dose
+0302000N0AABSBS           Preparation     Fluticasone propionate 202microg/Salmeterol
+                                          12.75microg/dose
+0302000N0BBARAR           Preparation     Flixotide_Accuhaler 50mcg (60 D)
+0302000N0BBASAS           Preparation     Flixotide_Accuhaler 100mcg (60 D)
+0302000N0BBATAT           Preparation     Flixotide_Accuhaler 250mcg (60 D)
+0302000N0BBAUAU           Preparation     Flixotide_Accuhaler 500mcg (60 D)
+0302000N0BBAXBA           Preparation     Flixotide_Evohaler 125mcg (120 D)
+0302000N0BBAYBB           Preparation     Flixotide_Evohaler 125mcg (60 D)
+0302000N0BBAZBC           Preparation     Flixotide_Evohaler 250mcg (120 D)
+0302000N0BBBBBH           Preparation     Flixotide_Evohaler 50mcg (120 D)
+0302000N0BCAAAX           Preparation     Seretide 100_Accuhaler 100mcg/50mcg(60d)
+0302000N0BCABAY           Preparation     Seretide 250_Accuhaler 250mcg/50mcg(60d)
+0302000N0BCACAZ           Preparation     Seretide 500_Accuhaler 500mcg/50mcg(60d)
+0302000N0BCADBE           Preparation     Seretide 50_Evohaler 50mcg/25mcg (120 D)
+0302000N0BCAEBF           Preparation     Seretide 125_Evohaler 125mcg/25mcg(120d)
+0302000N0BCAFBG           Preparation     Seretide 250_Evohaler 250mcg/25mcg(120d)
+0302000N0BDAABJ           Preparation     Flutiform_Inha 125/5mcg (120 D)
+0302000N0BDABBK           Preparation     Flutiform_Inha 250/10mcg (120 D)
+0302000N0BDACBL           Preparation     Flutiform_Inha 50/5mcg (120 D)
+0302000N0BDADBP           Preparation     Flutiform_K-Haler 125/5mcg (120 D)
+0302000N0BDAEBQ           Preparation     Flutiform_K-Haler 50/5mcg (120 D)
+0302000N0BFAABF           Preparation     Sirdupla_Inh 125mcg/25mcg (120d)
+0302000N0BFABBG           Preparation     Sirdupla_Inh 250mcg/25mcg (120d)
+0302000N0BGAAAZ           Preparation     Airflusal Forspiro_Inh 500/50mcg (60d)
+0302000N0BGABBF           Preparation     Airflusal_Inh 125mcg/25mcg (120d)
+0302000N0BGACBG           Preparation     Airflusal_Inh 250mcg/25mcg (120d)
+0302000N0BHAAAZ           Preparation     Aerivio Spiromax_Inh 500/50mcg (60d)
+0302000N0BIAABF           Preparation     Sereflo_Inh 125mcg/25mcg (120d)
+0302000N0BIABBG           Preparation     Sereflo_Inh 250mcg/25mcg (120d)
+
+
+National Prescribing Indicators 2025–2026 Specifications          Page 19 of 29
+                          Preparation     Sereflo Ciphaler 50microg / 250microg/dose
+0302000N0BIACAY
+                                          dry pdr inh
+0302000N0BIADAZ           Preparation     Sereflo Ciphaler 50microg / 500microg/dose
+                                          dry pdr inh
+0302000N0BJAABF           Preparation     Aloflute_Inh 125mcg/25mcg (120d)
+0302000N0BJABBG           Preparation     Aloflute_Inh 250mcg/25mcg (120d)
+0302000N0BKAAAY           Preparation     Fusacomb Easyhaler_Inha 250/50mcg (60 D)
+0302000N0BKABAZ           Preparation     Fusacomb Easyhaler_Inha 500/50mcg (60 D)
+0302000N0BLAABE           Preparation     Combisal_Inha 50mcg/25mcg (120 D)
+0302000N0BLABBF           Preparation     Combisal_Inha 125mcg/25mcg (120 D)
+0302000N0BLACBG           Preparation     Combisal_Inha 250mcg/25mcg (120 D)
+0302000N0BMAAAZ           Preparation     Stalpex_Inha 500/50mcg (60 D)
+0302000N0BNAAAZ           Preparation     Fixkoh Airmaster 50microg/dose /
+                                          500microg/dose dry pdr inh
+0302000N0BNABAY           Preparation     Fixkoh Airmaster 50microg/dose /
+                                          250microg/dose Dry Pdr Inh
+0302000N0BNACAX           Preparation     Fixkoh Airmaster 50microg/dose /
+                                          100microg/dose Dry Pdr Inh
+0302000N0BPAABE           Preparation     Avenor 25micrograms/dose /
+                                          50micrograms/dose inhaler
+0302000N0BPABBF           Preparation     Avenor 25micrograms/dose /
+                                          125micrograms/dose inhaler
+0302000N0BPACBG           Preparation     Avenor 25micrograms/dose /
+                                          250micrograms/dose inhaler
+                                          Seffalair Spiromax 12.75microg /
+0302000N0BQAABR           Preparation
+                                          100microg/dose dry pdr inh
+                                          Seffalair Spiromax 12.75microg /
+0302000N0BQABBS           Preparation
+                                          202microg/dose dry pdr inh
+                                          Campona Airmaster 50microg/dose /
+0302000N0BRABAY           Preparation
+                                          250microg/dose dry pdr inh
+                                          Campona Airmaster 50microg/dose /
+0302000N0BRAAAX           Preparation
+                                          100microg/dose dry pdr inh
+0302000R0AAAAAA           Preparation     Mometasone Fur_Pdr For Inh 200mcg (30 D)
+0302000R0AAABAB           Preparation     Mometasone Fur_Pdr For Inh 200mcg (60 D)
+0302000R0AAACAC           Preparation     Mometasone Fur_Pdr For Inh 400mcg (30 D)
+0302000R0AAADAD           Preparation     Mometasone Fur_Pdr For Inh 400mcg (60 D)
+0302000R0BBAAAA           Preparation     Asmanex Twisthaler_D/p Inh 200mcg (30 D)
+0302000R0BBABAB           Preparation     Asmanex Twisthaler_D/p Inh 200mcg (60 D)
+0302000R0BBACAC           Preparation     Asmanex Twisthaler_D/p Inh 400mcg (30 D)
+0302000R0BBADAD           Preparation     Asmanex Twisthaler_D/p Inh 400mcg (60 D)
+0302000U0AAAAAA           Preparation     Ciclesonide_Inh 80mcg (120 D) Cff
+0302000U0AAABAB           Preparation     Ciclesonide_Inh 160mcg (120 D) Cff
+0302000U0AAACAC           Preparation     Ciclesonide_Inh 160mcg (60 D) Cff
+0302000U0BBAAAA           Preparation     Alvesco 80_Inh 80mcg (120 D) Cff
+0302000U0BBABAB           Preparation     Alvesco 160_Inh 160mcg (120 D) Cff
+0302000U0BBACAC           Preparation     Alvesco 160_Inh 160mcg (60 D) Cff
+0302000V0BCAAA0           Preparation     Trelegy Ellipta_Inha 92/55/22mcg (30 D)
+0302000W0BBAAAA           Preparation     Enerzair Breezhaler 114microg / 46microg /
+                                          136microg/dose
+
+National Prescribing Indicators 2025–2026 Specifications         Page 20 of 29
+0302000Y0BBAAAA           Preparation     Trixeo Aerosphere 5microg / 7.2microg /
+                                          160microg/dose Inh
+0302000Z0AAAAAA           Preparation     Generic Trelegy Ellipta
+                                          92microg/55microg/22microg/dose inh
+0303010J0AAADAD           Preparation     Nedocromil Sod_Inha 2mg (112 D) Cff
+0303010J0BBAFAD           Preparation     Tilade_Inha 2mg (112 D) Cff
+0303010Q0AAABAB           Preparation     Sod Cromoglicate_Inha 5mg (112 D)
+0303010Q0AAANAN           Preparation     Sod Cromoglicate_Inha 5mg (112 D) CFF
+0303010Q0BBAFAB           Preparation     Intal_Inha 5mg (112 D)
+0303010Q0BBALAN           Preparation     Intal_Inha 5mg (112 D) Cff
+0307000R0AAAAAA           Preparation     Mannitol_Pdr Inh Cap 40mg + 2 Dev
+0307000R0BBAAAA           Preparation     Bronchitol_Pdr Inh Cap 40mg + 2 Dev
+
+1.3.2 Short Acting Beta Agonist (SABA) inhalers
+
+Data source: NWSSP
+
+Unit of measure: Number of short acting beta agonist (SABA) inhalers as a
+percentage of all inhalers prescribed.
+
+Target for 2025–2026: Maintain performance levels within lower quartile (threshold:
+28.9%), or show a decrease towards the quartile below.
+
+Numerator
+SABA items.
+
+ BNF Code                 BNF Level       BNF Name
+ 0301011R0AAAAAA          Preparation     Salbutamol_Inha 100mcg (200 D)
+ 0301011R0AAAPAP          Preparation     Salbutamol_Inha 100mcg (200 D) Cff
+ 0301011R0AAAQAQ          Preparation     Salbutamol_Pdr For Inh 200mcg (60 D)
+ 0301011R0AABUBU          Preparation     Salbutamol_Inha B/a 100mcg (200 D) Cff
+ 0301011R0AABZBZ          Preparation     Salbutamol_Pdr For Inh 100mcg (200 D)
+ 0301011R0AACACA          Preparation     Salbutamol_Pdr For Inh 200mcg (200 D)
+ 0301011R0AACBCB          Preparation     Salbutamol_Pdr For Inh 100mcg (200D)+Dev
+ 0301011R0AACCCC          Preparation     Salbutamol_Pdr For Inh 100mcg (200D) Ref
+ 0301011R0BEAHAQ          Preparation     Ventolin_Accuhaler 200mcg (60 D)
+ 0301011R0BEAIAP          Preparation     Ventolin_Evohaler 100mcg (200 D)
+ 0301011R0BIABAD          Preparation     Salamol E-Breathe_Inha 100mcg (200 D)
+ 0301011R0BIAFAP          Preparation     Salamol_Inha 100mcg (200 D) Cff
+ 0301011R0BIAGBU          Preparation     Salamol E-Breathe_Inh 100mcg (200 D) Cff
+ 0301011R0BIAHAP          Preparation     Salamol_Inha 100mcg (200D) CFF (Arrow)
+ 0301011R0BMAAAP          Preparation     Airomir_Inha 100mcg (200 D)
+ 0301011R0BMABBU          Preparation     Airomir_Autohaler 100mcg (200 D) Cff
+ 0301011R0BWAABZ          Preparation     Easyhaler_Salbutamol Sulph 100mcg (200D)
+ 0301011R0BWABCA          Preparation     Easyhaler_Salbutamol Sulph 200mcg (200D)
+ 0301011R0BXAACB          Preparation     Novolizer_Salbulin Inh 100mcg (200D)+Dev
+ 0301011R0BXABCC          Preparation     Novolizer_Salbulin Inh 100mcg (200D) Ref
+ 0301011V0AABBBB          Preparation     Terbut Sulf_B/A Inha 500mcg (120 D)
+ 0301011V0BBARBB          Preparation     Bricanyl_Turbohaler 500mcg (120 D)
+
+Denominator
+All inhaler items.
+National Prescribing Indicators 2025–2026 Specifications         Page 21 of 29
+1.4 SGLT-2 inhibitors
+
+1.4.1 Patients with type 2 diabetes and chronic heart failure
+
+Data source: DHCW
+
+Unit of measure: Number of patients with type 2 diabetes and chronic heart failure
+who are prescribed an SGLT-2 inhibitor.
+
+Target for 2025–2026: To increase the number of patients with type 2 diabetes and
+chronic heart failure prescribed an SGLT-2 inhibitor.
+
+Numerator
+Patients with type 2 diabetes and chronic heart failure prescribed an SGLT-2
+inhibitor.
+
+Denominator
+Patients with type 2 diabetes and chronic heart failure.
+
+1.4.2 Patients with type 2 diabetes and chronic kidney disease
+
+Data source: DHCW
+
+Unit of measure: Number of patients with type 2 diabetes and chronic kidney
+disease who are currently treated with an angiotensin-receptor blocker (ARB) or an
+angiotensin-converting enzyme (ACE) inhibitor prescribed an SGLT-2 inhibitor.
+
+Target for 2025–2026: To increase the number of patients with type 2 diabetes and
+chronic kidney disease who are currently treated with an ARB or ACE inhibitor
+prescribed an SGLT-2 inhibitor.
+
+Numerator
+Patients with type 2 diabetes and chronic kidney disease who are currently treated
+with an ARB or ACE inhibitor prescribed an SGLT-2 inhibitor.
+
+Denominator
+Patients with type 2 diabetes and chronic kidney disease who are currently treated
+with an ARB or ACE inhibitor.
+
+1.4.3 Patients with non-diabetic chronic kidney disease
+
+Data source: DHCW
+
+Unit of measure: Number of patients with non-diabetic chronic kidney disease who
+are currently treated with an ARB or an ACE inhibitor and have an albumin creatinine
+ratio (ACR) ≥ 22.6 mg/mmol prescribed an SGLT-2 inhibitor.
+
+Target for 2025–2026: To increase the number of patients with non-diabetic chronic
+kidney disease who are currently treated with an ARB or an ACE inhibitor and have
+an ACR ≥ 22.6 mg/mmol prescribed an SGLT-2 inhibitor.
+
+Numerator
+
+National Prescribing Indicators 2025–2026 Specifications         Page 22 of 29
+Patients with non-diabetic chronic kidney disease who are currently treated with an
+ARB or an ACE inhibitor and have an ACR ≥ 22.6 mg/mmol prescribed an SGLT-2
+inhibitor.
+
+Denominator
+Patients with non-diabetic chronic kidney disease who are currently treated with an
+ARB or an ACE inhibitor and have an ACR ≥ 22.6 mg/mmol
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications         Page 23 of 29
+2.0 Supporting domains
+
+2.1 Safety
+
+2.1.1 Prescribing Safety Indicators
+
+Data source: DHCW
+
+Units of measure:
+
+• Prescribing Safety Indicators related to AKI
+   o Number of patients on the CKD register (CKD stage 3–5) who have received a
+     repeat prescription for an NSAID within the last 3 months.
+   o Number of patients who are not on the CKD register but have an eGFR of
+     < 59 ml/min and have received a repeat prescription for an NSAID within the
+     last 3 months.
+   o Number of patients with concurrent prescriptions of an NSAID,
+     renin-angiotensin system (RAS) drug and a diuretic.
+   o Number of patients aged 75 and over with a current prescription for an ACE
+     Inhibitor or loop diuretic without a check of renal function and electrolytes in
+     the previous 15 months.
+
+• Prescribing Safety Indicators related to antimicrobial stewardship
+   o Number of patients with recurrent prescriptions for nitrofurantoin, with an
+     eGFR of < 45 ml/min.
+   o Number of trimethoprim items prescribed to patients aged ≥ 65 years, per
+     1,000 patient list size aged ≥ 65 years.
+
+• Prescribing Safety Indicators related to bleeds
+   o Number of patients with a peptic ulcer who have been prescribed NSAIDs
+     without a PPI.
+   o Number of patients with concurrent prescriptions of warfarin and an oral
+     NSAID.
+   o Number of patients with concurrent prescriptions for a DOAC and an oral
+     NSAID.
+   o Number of patients aged 65 years or over prescribed an NSAID plus aspirin
+     and/or clopidogrel but without gastroprotection (PPI or H2 receptor antagonist).
+   o Number of patients with concurrent prescriptions of an oral anticoagulant
+     (warfarin or DOAC) and an SSRI.
+
+• Prescribing Safety Indicators related to cognition
+   o Number of patients aged 65 years or over prescribed an antipsychotic.
+   o Number of patients aged 75 and over with an Anticholinergic Effect on
+     Cognition (AEC) score of 3 or more for items on active repeat.
+
+• Prescribing Safety Indicators specific to females
+   o Number of female patients with a past medical history of venous or arterial
+     thrombosis who have been prescribed combined hormonal contraceptives.
+   o Number of female patients aged 14–55 with a prescription for oral retinoids.
+   o Number of female patients aged 14–55 with a prescription for topiramate.
+
+
+
+National Prescribing Indicators 2025–2026 Specifications         Page 24 of 29
+• Prescribing Safety Indicators related to ‘other’
+   o Number of patients under 16 with a current prescription of aspirin.
+   o Number of patients with asthma who have been prescribed a non-
+     cardioselective beta-blocker.
+   o Number of patients with concurrent prescriptions of verapamil and a
+     beta-blocker.
+   o Number of female patients aged ≤55 with a prescription for sodium valproate.
+   o Number of male patients who have been prescribed sodium valproate
+
+Target for 2025–2026: No target set.
+
+Numerators and denominators: As per individual Prescribing Safety Indicator.
+READ codes for medicines used in searches are available on request.
+
+
+2.1.2 Hypnotics and anxiolytics
+
+Data source: NWSSP
+
+Unit of measure: Hypnotic and anxiolytic ADQs per 1,000 STAR-PUs.
+
+Target for 2025–2026: Maintain performance levels within the lower quartile
+(threshold: 1,165 ADQs per 1,000 STAR-PUs), or show a reduction towards the
+quartile below.
+
+Numerator
+ADQs of a UDG of hypnotic and anxiolytic medicines.
+
+ BNF Code           BNF Level                   BNF Name
+ 0401010L0          BNF chemical                Flurazepam Hydrochloride
+ 0401010N0          BNF chemical                Loprazolam Mesilate
+ 0401010P0          BNF chemical                Lormetazepam
+ 0401010R0          BNF chemical                Nitrazepam
+ 0401010T0          BNF chemical                Temazepam
+ 0401010W0          BNF chemical                Zaleplon
+ 0401010Y0          BNF chemical                Zolpidem Tartrate
+ 0401010Z0          BNF chemical                Zopiclone
+ 0401020D0          BNF chemical                Chlordiazepoxide
+ 0401020E0          BNF chemical                Chlordiazepoxide Hydrochloride
+ 0401020K0          BNF chemical                Diazepam
+ 0401020P0          BNF chemical                Lorazepam
+ 0401020T0          BNF chemical                Oxazepam
+
+Denominator
+1,000 STAR-PUs.
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications          Page 25 of 29
+2.1.3 Yellow cards
+
+Data source: Medicines and Healthcare products Regulatory Agency (MHRA)
+
+Units of measure: Number of Yellow Cards submitted, per GP practice, per health
+board and per hospital.
+Number of Yellow Cards submitted by Community Pharmacies, per health board.
+
+Target for 2025–2026:
+   • GP practices: Submit one Yellow Card per 2,000 GP practice population.
+   • Health boards:
+      – Submit one Yellow Card per 2,000 health board population.
+      – Demonstrate a 10%, or greater, increase from baseline (2024–2025), for
+          Yellow Cards submitted by secondary care.
+      – Demonstrate a 25%, or greater, increase from baseline (2024–2025), for
+          Yellow Cards submitted by members of the public.
+   • Community pharmacy: no target set.
+
+
+2.2 Efficiencies
+
+2.2.1 Best value biological medicines
+
+Data source: NWSSP and DHCW
+
+Unit of measure: Quantity of best value biological medicines prescribed as a
+percentage of total ‘biosimilar’ plus ‘reference’ product.
+
+Target for 2025–2026: Increase the appropriate use of cost-efficient biological
+medicines, including biosimilar medicines.
+
+The list of biological medicines being reported on will be determined by the
+requirements of the service. For 2025–2026 this will be focused on the biological
+medicines where a biosimilar version has recently become available. However, there
+will continue to be monitoring of an overall basket of biological medicines which will
+include:
+        • Infliximab – Flixabi®, Inflectra®, Remsima®, Zessly®
+        • Etanercept – Benepali®, Erelzi®
+        • Rituximab – Rixathon®, Ruxience®, Truxima®
+        • Trastuzumab – Herzuma®, Ontruzant®, Trazimera®, Zercepac®
+        • Adalimumab – Amgevita®, Hyrimoz®, Idacio®, Imraldi®, Yuflyma®
+        • Ranibizumab – Ongavia®
+        • Ustekinumab – Pyzchiva®, Steqeyma®, Wezenla®, Uzpruvo®
+
+Excluding adalimumab and etanercept, for the current basket of biological medicines
+used in the best value biological medicines NPI (infliximab, ranibizumab, rituximab,
+trastuzumab and ustekinumab) only secondary care data, accessed via the Medusa
+data warehouse, are required. It is essential that the brand name of the biological
+medicine being supplied is clearly described on data entry to facilitate the data
+extraction to the Medusa data warehouse. Where ‘home’ appears within the
+description name this will be assumed to imply the supply is through Homecare
+delivery. Adalimumab and etanercept as well as being supplied through secondary
+
+National Prescribing Indicators 2025–2026 Specifications          Page 26 of 29
+care also have a supply within primary care, and likewise must be prescribed by
+brand name.
+
+Numerator
+For each biological medicine:
+Quantity of biosimilar biological product(s).
+
+   •  In addition for adalimumab:
+      Items prescribed of a UDG of adalimumab biological medicines.
+ BNF Code           BNF Level         BNF Name
+ 1001030S0BF        BNF product       Imraldi
+ 1001030S0BG        BNF product       Idacio
+   • In addition for etanercept:
+      Items prescribed of a UDG of etanercept biological medicines.
+ BNF Code           BNF Level         BNF Name
+ 1001030D0BC        BNF product       Benepali
+
+Denominator
+For each biological medicine:
+Total quantity of biosimilar product(s) plus ‘reference’ product.
+
+   •  In addition for adalimumab:
+     Items prescribed of a UDG of adalimumab biological medicines.
+ BNF Code           BNF Level        BNF Name
+ 1001030S0          BNF chemical     Adalimumab
+
+   •  In addition for etanercept:
+      Items prescribed of a UDG of etanercept biological medicines.
+ BNF Code           BNF Level         BNF Name
+ 1001030D0          BNF chemical      Etanercept
+
+2.2.2 Low value for prescribing
+
+Data source: NWSSP
+
+Unit of measure: Low value for prescribing UDG spend per 1,000 patients (selection
+of items from phase 1, phase 2 and phase 3)
+
+Target for 2025–2026: Maintain performance levels within the lower quartile
+(threshold: £127.14 per 1,000 patients), or show a reduction towards the quartile
+below.
+
+Numerator
+Overall spend on a UDG of Low value for prescribing NPI items (selection of items
+from phase 1, phase 2 and phase 3).
+
+ BNF Code                 BNF Level         BNF Name
+ 0407010Q0                Preparation       Co-Proxamol (dextroprop Hcl/paracet)
+ 0205040D0BBADAQ          Preparation       Cardura Xl_Tab 4mg
+
+National Prescribing Indicators 2025–2026 Specifications            Page 27 of 29
+ BNF Code                 BNF Level         BNF Name
+ 0205040D0BBAEAR          Preparation       Cardura Xl_Tab 8mg
+ 0205040D0BDADAQ          Preparation       Doxadura_Xl Tab 4mg
+ 0205040D0AAAQAQ          Preparation       Doxazosin Mesil_Tab 4mg M/r
+ 0205040D0AAARAR          Preparation       Doxazosin Mesil_Tab 8mg M/r
+ 0205040D0BJAAAQ          Preparation       Larbex Xl_Tab 4mg
+ 0205040D0BKAAAQ          Preparation       Raporsin Xl_Tab 4mg
+ 0407030ACAAAAAA          Preparation       Lido_Medic Plastr 5%
+ 1502010I0AAAGAG          Preparation       Lido_Skin Patch 5%
+ 1502010J0AAELEL          Preparation       Lido_Medic Plastr 5%
+ 1502010J0BWAAEL          Preparation       Ralvo_Medic Plastr 700mg
+ 0407030ACBB              Preparation       Versatis
+ 1502010J0BS              Preparation       Versatis
+ 0602010M0                Preparation       Liothyronine Sodium
+ 090607000BBBAA0          Preparation       Omega-H3 _Geriatric Cap
+ 090607000BBDWA0          Preparation       Solgar_Omega-3 700 Soft Gel
+ 090607000BBFBA0          Preparation       Omega-3 Fish Oil_Cap
+ 090607000BBLAA0          Preparation       VegEpa_Cap
+ 090607000BBJGA0          Preparation       Health Aid_Hartgard Epa Cap 1g
+ 091200000BFTNA0          Preparation       Health Plus_High Poty Omega-3 EPA Cap
+ 091200000BFTYA0          Preparation       Fsc_Fish Oil Cap 1000mg
+ 091200000BFUEA0          Preparation       Premier_Omega 3 Fish Oil Cap 1000mg
+ 0212000V0                Preparation       Omega-3 marine triglycerides
+ 0212000AB                Preparation       Omega-3-Acid Ethyl Esters
+ 0407020AF                Preparation       Oxycodone Hcl/naloxone Hcl
+ 040702040BF              Preparation       Tramacet
+ 040702040AAAUAU          Preparation       Tramadol Hcl/paracet_Tab 37.5mg/325mg
+ 040702040AABABA          Preparation       Tramadol/paracet_Tab Eff 37.5/325mg S/f
+ 0205051Y0                Preparation       Perindopril Arginine
+ 0401010B0AAAFAF          Preparation       Chloral hydrate 143.3mg/5ml oral solution
+                                            BP
+ 0401010B0AAAVAV          Preparation       Chloral Hydrate_Liq Spec 5g/5ml
+ 0401010B0AABQBQ          Preparation       Chloral Hydrate_Liq Spec 50mg/5ml
+ 0401010B0AABGBG          Preparation       Chloral Hydrate_Liq Spec 200mg/5ml
+ 0401010B0AABEBE          Preparation       Chloral Hydrate_Liq Spec 250mg/5ml
+ 0401010B0AAASAS          Preparation       Chloral Hydrate_Liq Spec 300mg/5ml
+ 0401010B0AABIBI          Preparation       Chloral Hydrate_Liq Spec 400mg/5ml
+ 0401010B0AABTBT          Preparation       Chloral Hydrate_Liq Spec 500mg/5ml S/f
+ 0401010B0AABSBS          Preparation       Chloral Hydrate_Mix 500mg/5ml
+ 0401010B0AABWBW          Preparation       Chloral Hydrate_Oral Soln 1g/5ml BP
+ 0401010B0AABUBU          Preparation       Chloral Hydrate_Oral Soln 200mg/5ml
+ 0401010C0AAAAAA          Preparation       Cloral Betaine 707mg Tablets
+
+
+National Prescribing Indicators 2025–2026 Specifications          Page 28 of 29
+ BNF Code                 BNF Level         BNF Name
+ 1003020I0BBAAAA          Preparation       Algesal_Crm 10%
+ 1003020ADAAAAAA          Preparation       Arnica Montana_Gel
+ 1003020N0BDAAAK          Preparation       Balmosa_Crm
+ 1003020N0BIAJA0          Preparation       Deep Heat_Pain Relief A/Spy 150ml
+ 1003020I0AAAAAA          Preparation       Diethylamine Sal_Crm 10% Bp
+ 1003020W0AAABAB          Preparation       Gppe Crm_Movelat
+ 1003020W0AAAAAA          Preparation       Gppe Gel_Movelat
+ 1003020N0BIAHBA          Preparation       Mentholatum_Deep Heat Max Strgh Crm
+ 1003020N0BIAIA0          Preparation       Mentholatum_Vapour Rub
+ 1003020N0AAABAB          Preparation       Methyl Sal_Oint
+ 1003020N0AABABA          Preparation       Methyl Sal/Menthol_Crm 30%/8%
+ 1003020W0BBACAB          Preparation       Movelat Relief_Crm
+ 1003020W0BBADAA          Preparation       Movelat Relief_Gel
+ 1003020W0BBAAAB          Preparation       Movelat_Crm
+ 1003020W0BBABAA          Preparation       Movelat_Gel
+ 1003020N0BFAFAY          Preparation       Radian-B_Heat P/spy 100ml
+ 1003020T0BBAAAA          Preparation       Transvasin_Heat Rub
+ 1003020Y0AAACAC          Preparation       Menthol_Gel 2%
+ 0304010Y0AABCBC          Preparation       Alimemazine 7.5mg/5ml oral solution
+                                            sugar free
+ 0304010Y0AABDBD          Preparation       Alimemazine 10mg/5ml Oral Solution
+                                            Sugar Free
+ 0304010Y0AABBBB          Preparation       Alimemazine 30mg/5ml oral solution sugar
+                                            free
+ 0304010Y0AAABAB          Preparation       Alimemazine Tart_Oral Soln 7.5mg/5ml
+ 0304010Y0AAACAC          Preparation       Alimemazine Tart_Oral Soln 30mg/5ml
+ 0304010Y0AAADAD          Preparation       Alimemazine Tart_Tab 10mg
+
+Denominator
+1,000 patients.
+
+
+
+
+National Prescribing Indicators 2025–2026 Specifications          Page 29 of 29
+

@@ -1,0 +1,392 @@
+6 Endocrine
+
+Comment: For further information refer to
+Further Guidance on Hypoglycaemic Agents (Appendix 6a)
+Recommendation for Blood Glucose Monitoring (Appendix 6b)
+Blood Glucose Meter Recommendations (Appendix 6c)
+
+
+
+                                                                                           Primary         Acute/
+6.1 Drugs used in Diabetes                                                                  Care          Specialist
+                                                                                                          Services
+
+
+6.1.1 Insulins
+
+              Insulin                                                                                      
+Comment: For all insulins recommendation by practitioner experienced in the management of diabetes
+         All prescriptions for insulin should be written by brand name only
+
+
+
+                                                                                           Primary         Acute/
+6.1.2 Oral Antidiabetic Drugs                                                               Care          Specialist
+                                                                                                          Services
+
+
+Biguanides
+
+              Metformin                                                                                    
+Comment: Metformin M/R may be prescribed in patients who are intolerant of metformin standard tablets due to GI
+intolerance
+Sulphonylureas
+                             st
+              Gliclazide (1 line)                                                                          
+                                                                   nd
+              Glimepiride (only if problems with compliance) (2         line)                              
+Comment: For once daily dosing, glimepiride is preferred to gliclazide M/R as it more cost-effective
+Glitazones (Thiazolidinediones)
+              Pioglitazone                                                                                  
+              (Dual or Triple Therapy with metformin/sulphonylureas)
+Gliptins (Dipeptidylpeptidase-IV (DPP4) inhibitors)
+                          st
+              Alogliptin (1 line)                                                                       
+                               st
+              Linagliptin (1        line in renal impairment)                                           
+Gliflozins (Sodium glucose co-transporter-2 (SGLT2) inhibitors)
+              Dapagliflozin                                                                              
+              Empagliflozin                                                                             
+              Canagliflozin (restricted use as below)                                                    
+Comment: Dapagliflozin is also approved for use in chronic heart failure (see Chapter 2) and for use in patients with
+chronic kidney disease in patients with an eGFR ≥25ml/min to ≤ 75ml/min at treatment initiation and who are already
+receiving a ACE inhibitor or ARB (unless not tolerated or contra-indicated) and have a urine albumin creatinine ratio
+of at least 23mg/mmol or type 2 diabetes or both.
+Canagliflozin is approved for restricted use to improve renal outcome in patients with Type 2 Diabetes with evidence
+of diabetic kidney disease (ACR > 30mg/mmol) for those who have suboptimal glycaemic control, BMI of ≥ 30, and
+an HbA1c of < 75mmol/mol. Can be started down to eGFR of ≥ 30ml/min
+Glucagon-like peptide-1 receptor agonists (GLP1-RAs)
+
+
+                        Key  Initiate and continue Continue where appropriate.
+                                        Forth Valley Formulary Last amended December 22
+6 Endocrine
+
+                                         ®
+               Liraglutide (Victoza )                                                                         
+               Semaglutide (s.c. inj. only, tablets are non-Formulary)                                         
+                                                       ®
+               Liraglutide + Degludec (Xultophy )                                                             
+Comment: For GLP1-RAs recommendation by Practitioner experienced in the management of diabetes
+
+6.1.4 Treatment of Hypoglycaemia
+                                             ®
+               Glucagon (Glucagen Hypokit)                                                                       
+                                         ®         ®
+               Glucogel (Glucogel , GlucoRx )                                                                    
+               Glucose IV 20%                                                                                     
+
+
+
+                                                                                                Primary         Acute/
+6.2 Thyroid and Antithyroid Drugs                                                                Care          Specialist
+                                                                                                               Services
+
+
+6.2.1 Thyroid Hormones
+                                    st
+               Levothyroxine (1 line)                                                                            
+               Liothyronine                                                                                      
+
+Comment: Prescribing of Armour Thyroid (dessicated porcine thyroid glands) is not recommended by FV
+endocrinologists. It is an unlicensed medicine, there is considerable variability in formulations and there is no clinical
+evidence that it is more effective than levothyroxine
+
+6.2.2 Antithyroid Drugs
+                               st
+               Carbimazole (1 line)                                                                              
+               Propylthiouracil                                                                                  
+               Potassium iodide                                                                                   
+               Propranolol (standard tablets)                                                                    
+
+
+
+                                                                                                Primary         Acute/
+6.3.1 Corticosteroids                                                                            Care          Specialist
+                                                                                                               Services
+
+
+6.3.1 Replacement Therapy
+
+               Fludrocortisone Acetate                                                                           
+
+6.3.2 Glucocorticoid Therapy
+
+               Hydrocortisone Tablets                                                                    
+               Hydrocortisone Injection                                                                  
+               Dexamethasone                                                                             
+               Methylprednisolone                                                                        
+               Prednisolone (standard tablets)                                                           
+Comment: Prednisolone enteric coated (e/c) tablets are non-formulary. There is no evidence that prednisolone e/c
+reduces the risk of GI ulceration, it is more expensive than std. tablets and may cause erratic absorption from the GI
+tract.
+
+
+                         Key  Initiate and continue Continue where appropriate.
+                                         Forth Valley Formulary Last amended December 22
+6 Endocrine
+
+Consider osteoporosis prevention treatment if corticosteroids used long term.
+
+
+
+                                                                                                           Acute/
+                                                                                                Primary
+6.4 Sex Hormones                                                                                          Specialist
+                                                                                                 Care
+                                                                                                          Services
+
+
+6.4.1 Female Sex Hormones
+
+6.4.1.1 Oestrogens and HRT
+
+For further information on the use of HRT see the
+British Menopause Society Tool for Clinicians – HRT Guide
+
+Combination Products (for use in women with an intact uterus)
+
+Sequential Combined Therapy (Cyclical) (Last menstrual period <1 year ago)
+Tablets
+    st                        ®
+1 line          Femoston (estradiol 1mg or 2mg/dydrogesterone 10mg)                                         
+    nd                            ®
+2        line   Elleste Duet (estradiol 1mg or 2mg/norethisterone 1mg)                                      
+Patches
+    st                            ®
+1 line          Evorel Sequi (estradiol 50mcg/24hrs, norethisterone 170mcg/24hrs)                           
+    nd                                    ®
+2        line   FemSeven Sequi                                                                              
+                (estradiol 50mcg/24hrs, levonorgestrel 10mcg/24hrs)
+Continuous Combined Therapy (Last menstrual period >1 year ago)
+Tablets
+    st                                ®
+1 line          Femoston Conti (estradiol 500mcg or 1mg/dydrogesterone 2.5mg or                             
+                5mg)
+    nd                        ®
+2        line   Kliovance         (estradiol 1mg/norethisterone 500mcg)                                     
+    nd                    ®
+2        line   Kliofem (estradiol 2mg/noerethisterone1mg)                                                  
+Patches
+    st                            ®
+1 line          Evorel Conti (estradiol 50mcg/24hrs, norethisterone 170mcg/24hrs)                           
+    nd                                ®
+2        line   FemSeven Conti                                                                              
+                (estradiol 50mcg/24hrs, levonorgestrel 7mcg/24hrs)
+Oestrogen only (for use in women with no uterus or using an alternative progesterone)
+Tablets
+                                                                          ®
+                Estradiol hemihydrates 1mg or 2mg (Elleste-Solo )                                           
+Patches
+    st                ®
+1 line          Evorel (25mcg-100mcg)                                                                       
+    nd                    ®
+2        line   Estradot (25mcg-100mcg)                                                                     
+Transdermal Gel
+                              ®
+                Oestrogel (estradiol 0.06%)                                                                 
+                      ®
+Comment: Oestrogel for restricted use when patch formulations are considered inappropriate
+Gonadomimetic
+                Tibolone                                                                                    
+
+
+
+
+                              Key  Initiate and continue Continue where appropriate.
+                                              Forth Valley Formulary Last amended December 22
+6 Endocrine
+
+6.4.1.2 Progestogens
+                                                            ®
+1st line        Medroxyprogesterone acetate (Provera )                                                   
+2nd line        Norethisterone                                                                           
+Comment: Norethisterone should be avoided in patients at risk of venous thromboembolism or who have a history of
+migraine with aura
+                                      ®
+               Progesterone (Cyclogest for subfertility)                                               
+                        ®
+Comment: Cyclogest should only be prescribed by a Specialist Tertiary Centre
+
+6.4.2      Male Sex Hormones & Antagonists
+                                                ®       ®
+                Testosterone (Testavan , Testogel )                                                      
+                Cyproterone Acetate                                                                      
+                Finasteride                                                                              
+
+
+
+                                                                                                         Acute/
+                                                                                         Primary
+6.5 Hypothalamic and pituitary hormones and anti-oestrogens                                             Specialist
+                                                                                          Care
+                                                                                                        Services
+
+
+Anti-oestrogens
+                                  st
+            Clomifene Citrate (1 line)                                                                   
+                                           nd
+            Letrozole (off-label use) (2        line)                                                     
+Comment: Products for assisted conception, excluding clomifene, letrozole are funded centrally and are available
+through the tertiary infertility centre. GPs should not prescribe.
+Human Growth Hormone
+
+            Human Growth Hormone                                                                          
+                                                         ®         ®
+            (preferred brands in new patients are FlexPro , SurePal )
+6.5.2 Posterior Pituitary Hormones and Antagonists
+
+            Desmopressin                                                                                 
+Comment: Desmopressin Spray is no longer indicated for nocturnal enuresis unless treatment is associated with
+multiple sclerosis
+            Terlipressin (oesophageal varices)                                                            
+                              ®
+            Tolvaptan (Jinarc )                                                                           
+
+
+
+
+                            Key  Initiate and continue Continue where appropriate.
+                                       Forth Valley Formulary Last amended December 22
+6 Endocrine
+
+
+                                                                                                           Acute/
+                                                                                           Primary
+Disorders of bone metabolism                                                                              Specialist
+                                                                                            Care
+                                                                                                          Services
+
+Comment: For further information, also refer to -
+Guidelines for the Management of Osteoporosis in Patients aged 50 or over presenting with a Fragility Fracture, and
+in Patients on Aromatase Inhibitors (intranet only)
+SIGN 142 - Management of Osteoporosis and the Prevention of Fragility Fractures – January 21
+Hypercalcaemia of Malignancy Treatment Guideline & Suspected Hypercalcaemia of Malignancy Guideline for
+Primary Care (intranet only)
+
+
+
+Bisphosphonates
+
+Comment: To aid compliance once weekly alendronic acid/risedronate is the preferred formulation for all indications.
+For some indications the once weekly formulation will be an off-label use (See BNF/SPC for further details)
+Oral bisphosphonates are unsuitable for use in patients with moderate-severe renal impairment. Alendronic acid
+                                                           2
+should be avoided in patients with eGFR <35ml/min./1.73m . Ibandronic acid (when used for postmenopausal
+                                                                             2
+osteoporosis) and risedronate should be avoided if eGFR <30ml/min./1.73m
+Oral bisphosphonates should always be co-prescribed with Calcium & vitamin D or if patient has sufficient dietary
+intake of calcium with vitamin D only.
+  Oral                                                                                                        
+                               st
+            Alendronic Acid (1 line) + calcium & Vit. D/ Vit. D                                           
+                   ®
+Comment: Binosto (70mg once weekly alendronic acid effervescent tablets can be used in patients who are unable
+to swallow alendronic acid tablets.
+                                     nd
+            Risedronate Sodium (2         line) + calcium & Vit. D/ Vit. D                                
+                                                                              rd
+            Ibandronic acid 150mg tablets (postmenopausal osteoporosis) (3 line) +                         
+            calcium & Vit. D/ Vit. D
+            Ibandronic acid 50mg tablets (as adjuvant treatment in early breast                            
+            cancer)
+Infusion                                                                                                      
+
+Comment: For the management of hypercalcaemia refer to the Scottish Palliative Care Guidelines
+For prevention of skeletal related events in patients with bone metastases. Refer to Woscan Guideline (intranet only)
+For adjuvant treatment of early breast cancer. Refer to Woscan Guideline (intranet only)
+For prevention of osteoporosis in patients on long term androgen deprivation therapy. Refer to WOSCAN guideline
+(intranet only)
+            Pamidronate disodium                                                                            
+            Zoledronic Acid                                                                                 
+
+Calcium Regulating Drugs
+
+Parathyroid Hormones and Analogues
+
+            Teriparatide (preferred brand in new patients - Movymia®)                                        
+Comment: Teriparatide is a biological medicine. Must be prescribed by brand name.
+Teriparatide is approved by the SMC for the treatment of severe osteoporosis in post-menopausal women. Not SMC
+approved for use in men or steroid induced osteoporosis.
+
+Drugs Affecting Bone Structure and Mineralisation
+
+Monoclonal Antibodies
+
+                        Key  Initiate and continue Continue where appropriate.
+                                    Forth Valley Formulary Last amended December 22
+6 Endocrine
+
+                                                     ®
+            Denosumab (60mg/ml Prolia ) + calcium & Vit. D/ Vit. D                                                       
+                 ®
+Comment: Prolia - is approved by the SMC for the treatment of postmenopausal osteoporosis in women at
+increased risk of fractures for whom oral bisphosphonates are unsuitable. Not SMC approved for use in men or
+steroid induced osteoporosis.
+                                                     ®
+            Denosumab (70mg/ml Xgeva )                                                                          
+                     ®
+Comment: Xgeva - available in line with West of Scotland Cancer Network Protocols
+                                           ®
+            Romoszumab (Evenity ) + calcium & Vit. D/ Vit. D                                                   
+Comment : Romoszumab is approved for the treatment of severe osteoporosis in post-menopausal women who have
+experienced a fragility fracture and are at imminent risk of another fracture within 24 months. Duration of treatment is
+for a maximum of 12 months.
+Calcium + Vitamin D/Vitamin D
+Comment: For further information, also refer to Guidelines for the Management of Osteoporosis in Patients aged 50
+or over presenting with a Fragility Fracture, and in Patients on Aromatase Inhibitors (intranet only)
+Investigation and Treatment of Vitamin D Deficiency in Adults (intranet only)
+Calcium + Vitamin D
+                                                         st
+            Adcal D3 (caplets, chewable tablets) (1 line)                                                      
+                                      nd
+            Calfovit D3 sachet (2          line)                                                               
+Vitamin D
+            Colecalciferol 800 IU (20mcg)                                                                      
+Comment: Vitamin D alone (colecalciferol) should be considered in patients with adequate dietary calcium intake
+
+
+
+                                                                                                            Acute/
+                                                                                            Primary
+5 Dopamine responsive conditions                                                                           Specialist
+                                                                                             Care
+                                                                                                           Services
+
+
+Dopamine-receptor agonists
+
+            Cabergoline                                                                                      
+
+Drugs affecting gonadotrophins
+                              ®
+            Naferelin (Synarel )                                                                             
+                                  ®        st
+            Leuporelin (Prostap ) (1 Line)                                                                    
+                               ®
+            Goserelin (Zoladex )                                                                              
+                                       ®
+            Triptorelin (Decapeptyl )                                                                         
+
+Uterine Fibroids
+
+            Relugolix, estradiol hemihydrates, norethisterone acetate combination                             
+                           ®
+            tablets (Ryeqo )
+                  ®                             nd
+Comment: Ryeqo is approved as a 2 line treatment option for the management of moderate to severe uterine
+fibroids in line with SMC restrictions. Specialist will undertake a baseline DEXA scan and then repeat after 12 months
+to confirm that there has not been an unwanted degree of BMD loss that exceeds the benefit of treatment with
+       ®
+Ryeqo . Specialist will also undertake ongoing patient reviews
+Adrenocorticol function testing
+
+                                                ®
+            Tetracosactide (Synacthen )                                                                        
+
+
+
+                         Key  Initiate and continue Continue where appropriate.
+                                       Forth Valley Formulary Last amended December 22
+

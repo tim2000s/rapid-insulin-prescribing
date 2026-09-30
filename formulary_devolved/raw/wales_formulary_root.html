@@ -1,0 +1,273 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="X-UA-Compatible" content="IE=8;" /><title>
+	Inform Formulary
+</title>
+    <script src="/includes/javascript/inform.js" type="text/javascript"></script>
+    <link href="includes/css/inform.css" rel="stylesheet" /><link href="includes/css/LocalDrug.css" rel="stylesheet" type="text/css" />
+    
+     <!-- Import JQuery + JQueryUI -->
+    <link href="includes/css/jquery-ui-1.8.17.custom.css" rel="stylesheet" type="text/css" />
+    <script src="/includes/javascript/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="/includes/javascript/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        function goBack() {
+            window.history.back();
+        }
+    </script> 
+
+  	
+ <style type="text/css">
+.ribbon {
+  overflow: hidden; 
+  position: relative; 
+}
+.cr {
+	width: 200px;
+	padding: 16px;
+	text-align: center;
+	color: #f0f0f0;
+	text-shadow: 0 1px 1px rgba(0,0,0,.2);
+	font: 500 14px/1 'Lato', sans-serif;
+}
+.cr-sticky {
+	position: fixed;
+}
+
+.cr-top {
+	top: 25px;
+}
+.cr-left{
+    transform: rotate(-45deg);
+    left: -50px;
+}
+.cr-blue {
+	background: rgba(51,153,221,0.89);
+}
+
+.cr-green {
+	background: rgba(34,204,119,0.89);
+}
+
+.cr-red {
+	background: rgba(238,68,51,0.89);
+}
+</style>
+</head>
+
+<body>
+    <form name="aspnetForm" method="post" action="Start.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk0ODY3MDcyMg9kFgJmD2QWAgIDD2QWCAIBDw8WAh4EVGV4dAUWVmlld2luZyB0aGUgIEZvcm11bGFyeWRkAgUPFgIeB1Zpc2libGVoZAIGD2QWAgIDDxYCHgtfIUl0ZW1Db3VudAIJFhICAQ9kFgICAQ8PFgQfAAUoQ2FyZGlmZiBhbmQgVmFsZSBVbml2ZXJzaXR5IEhlYWx0aCBCb2FyZB4PQ29tbWFuZEFyZ3VtZW50BSwxfDF8Q2FyZGlmZiBhbmQgVmFsZSBVbml2ZXJzaXR5IEhlYWx0aCBCb2FyZGRkAgIPZBYCAgEPDxYEHwAFKUN3bSBUYWYgTW9yZ2FubndnIFVuaXZlcnNpdHkgSGVhbHRoIEJvYXJkHwMFLTJ8MnxDd20gVGFmIE1vcmdhbm53ZyBVbml2ZXJzaXR5IEhlYWx0aCBCb2FyZGRkAgMPZBYCAgEPDxYEHwAFJUFuZXVyaW4gQmV2YW4gVW5pdmVyc2l0eSBIZWFsdGggQm9hcmQfAwUpNHwzfEFuZXVyaW4gQmV2YW4gVW5pdmVyc2l0eSBIZWFsdGggQm9hcmRkZAIED2QWAgIBDw8WBB8ABRZIeXdlbCBEZGEgSGVhbHRoIEJvYXJkHwMFGjN8NHxIeXdlbCBEZGEgSGVhbHRoIEJvYXJkZGQCBQ9kFgICAQ8PFgQfAAUnQmV0c2kgQ2Fkd2FsYWRyIFVuaXZlcnNpdHkgSGVhbHRoIEJvYXJkHwMFKzV8NXxCZXRzaSBDYWR3YWxhZHIgVW5pdmVyc2l0eSBIZWFsdGggQm9hcmRkZAIGD2QWAgIBDw8WBB8ABSNTd2Fuc2VhIEJheSBVbml2ZXJzaXR5IEhlYWx0aCBCb2FyZB8DBSc2fDZ8U3dhbnNlYSBCYXkgVW5pdmVyc2l0eSBIZWFsdGggQm9hcmRkZAIHD2QWAgIBDw8WBB8ABQVQb3d5cx8DBQk3fDd8UG93eXNkZAIID2QWAgIBDw8WBB8ABRdDb21tb24gQWlsbWVudHMgU2VydmljZR8DBR0yMHwyMHxDb21tb24gQWlsbWVudHMgU2VydmljZWRkAgkPZBYCAgEPDxYEHwAFHVdlbHNoIEFtYnVsYW5jZSBTZXJ2aWNlIFRydXN0HwMFIzIyfDIyfFdlbHNoIEFtYnVsYW5jZSBTZXJ2aWNlIFRydXN0ZGQCCw8PFgQeC05hdmlnYXRlVXJsBRd+L0J1aWxkL0J1aWxkU3RhcnQuYXNweB8BaGRkZB9PO7SZBZLKsRMFIB3BkgR312ND7Ey50ZpSCEth2T6f" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5EA338BD" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAro0WtYufJlxt3yXm1ZLsPvzsUAIw0ldpUEVmRPGyq7CdUxPlw7gLL64tfCW2kW4llS/hb7Kj2eJFdzYQf7IwcJS/LwxNuVVoPtN9skybdTCsz2BGxcVwKkBx/tmpG+YEa1lWISNTiztLYFk6BvhXOY9U/MlyR5utpiMne4SSHqy5ZLXzUdxQZBweP34Zj3IoL6afKCqVWK2NXGB2F9cN608wPuZfILsenk9a6xdDrapsmUzxFImDQVIw/elt+wy1g=" />
+</div>
+      
+        <div id="frame" style="width: 978px">
+            
+            <span id="ctl00_labelSite" style="font-size:Large;font-weight:bold;">Viewing the  Formulary</span>            
+            <div id="header">
+                <div class="ribbon">
+                   
+                </div>
+                <div id="lefth">
+                    
+                    <a id="ctl00_informHyperLink"><img src="includes/images/InForm_II_logo.png" alt="Inform" style="border-width:0px;" /></a></div>
+                <div id="righth">
+                    
+
+
+            
+
+                      <a id="ctl00_startHyperLink" href="https://dhcw.nhs.wales/" target="_blank"><img id="ctl00_DHCWLogo" class="start_link" src="includes/images/DHCW-logo-RGB-Blue_small.png" style="border-width:0px;" /></a>
+
+
+                </div>
+                <div style="float:right">
+                
+               
+                </div>
+            </div>
+            <hr />
+<!--		
+<div id="AlertMessge">                      
+    <div style="clear:both;"></div>
+                        	    <div style="background-color:#ffcc99; line-height: 1.2; padding:15px; margin:0px; color:#804000; font-weight:580; font-family: Arial, Times, serif; font-size:12px;">
+            <div style='padding-bottom:7px;'><b>Attention!</b></div>
+            Firewall maintenance has been scheduled for 1900hrs on Monday 23rd October 2017.  The upgrade process will take about 10 minutes to complete and you might experience temporary intermittent issue after the upgrade.  Sorry for the inconvenience this may cause and thank you for your patience.
+    </div>
+</div>  -->  		
+            <div id="main">
+                
+                
+    <div id="searchBox">
+        <table style="white-space: nowrap">
+            <tr>
+                <td colspan="2">
+                    <span id="ctl00_ContentPlaceHolder1_labelTitle" style="color:Green;font-size:Larger;font-weight:bold;">Please select the site you require</span><br />
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    
+                            <table>
+                            <col width="100%" />
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl01_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl01$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Cardiff and Vale University Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl02_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl02$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Cwm Taf Morgannwg University Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl03_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl03$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Aneurin Bevan University Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl04_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl04$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Hywel Dda Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl05_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl05$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Betsi Cadwaladr University Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl06_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl06$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Swansea Bay University Health Board</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl07_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl07$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Powys</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl08_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl08$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Common Ailments Service</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td width="35">
+                                </td>
+                                <td>
+                                    <li>
+
+                                        <a id="ctl00_ContentPlaceHolder1_mainMenu_ctl09_menuLinkButton" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$mainMenu$ctl09$menuLinkButton&#39;,&#39;&#39;)" style="font-size:Medium;font-weight:bold;">Welsh Ambulance Service Trust</a>
+                                    </li>
+                                </td>
+                            </tr>
+                        
+                            </table>
+                        
+                </td>
+            </tr>
+        </table>
+    </div>
+
+            </div>
+            <table style="width: 100%;">
+                <tr>
+                    <td colspan="3">
+                        <hr />
+                        <span class="contact">Please email details of any problems or comments to <a href="mailto:pharmacy.support@wales.nhs.uk">
+                            Pharmacy&nbsp;Support</a> at DHCW</span>
+                        <hr />
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 30%; text-align: left; vertical-align: text-top;">
+                        The NHS Wales online Formulary (InForm) is produced and maintained by Digital Health and Care Wales (DHCW) on behalf of the NHS <span id="ctl00_testLabel"></span>
+                    </td>
+                    <td style="vertical-align: text-top; width: 39%; text-align: center;">
+                        <span id="ctl00_labelFooter"></span></td>
+                    <td style="width: 30%; text-align: right; vertical-align: text-top;">
+                        
+                        &nbsp;&nbsp;
+                        </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

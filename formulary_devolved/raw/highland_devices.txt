@@ -1,0 +1,288 @@
+ 
+ Devices for diabetes (Formulary: Endocrine) | Right Decisions 
+ Skip to main content
+ [img: NHS Scotland Logo] 
+ Right Decision Service: supporting decisions for Scotland's health and care
+ [img: Healthcare Improvement Scotland Logo] 
+ Right Decisions 
+ All resources 
+ Organisations 
+ Topics 
+ Learning & support 
+ How to deliver RDS tools 
+ Feedback 
+ Menu 
+ Search 
+ Search for toolkits, guidelines and other information: 
+ Search
+ Right Decisions
+ TAM (Treatments and Medicines) NHS Highland
+ FORMULARIES
+ HIGHLAND FORMULARY
+ ENDOCRINE SYSTEM (Formulary)
+ Back
+ Diabetes (Formulary: Endocrine)
+ Devices for diabetes (Formulary: Endocrine)
+ Print this page
+ Devices for diabetes (Formulary: Endocrine)
+ TAM (Treatments and Medicines) NHS Highland
+ NHS Highland
+ ! 
+ Warning 
+ What's new / Latest updates
+ 25/08/26 (v1.12): 
+ Removed 'BD' from BD Micro-Fine Ultra 4mm/32 gauge and BD AutoShield Duo 5mm/30 gauge.
+ 08/07/26 (v1.11): 
+ Updated the Insulin / pen compatibility charts to the latest versions.
+ 01/06/26 (v1.10): 
+ Changed Freestyle Libre 3 to Freestyle Libre 3 Plus.
+ Amended: 'Can be used for up to 14 days' to 15 days.
+ Added: 'Has improved Bluetooth to enable linking to insulin pump Apps'.
+ Removed: 'When a new ‘reader’ is ordered an envelope will be sent to return the old reader/meter to Abbot for recycling.  For further information, see:  website '.
+ 07/05/26 (v1.9): Changed BD Viva needles to Viva needles.
+ 13/04/26 (v1.8): Removed: Dexcom ONE (discontinued)
+ 22/01/26 (v1.7): 
+ Reusable cartridge pens table added. 
+ Added 'For further information on insulin types and compatible devices, see: Insulin, Devices & Profiles V5 '.
+ 05/12/25: (v1.6)  Removed from Accu-Chek Instant meter: Children with diabetes
+ 18/11/25 (v1.5) Added: FastClix finger prickers to be used with CareSens Dual meters for children.
+ 29/09/25 (v1.4):  Added new section 'Insulin pens' with Lilly pen compatibility chart.
+ 17/09/25 (v1.3): Added: Meter 'Supplied by company. GP practices to keep a stock of Accu-chek and CareSens meters.' Strips and lancets 'To be prescribed.' 
+ 24/07/25:  FreeStyle Libre 3 and FreeStyle Libre 3 PLUS sensor kits added.
+ 06/08/25:  Dexcom ONE CGM system: added text 'This product is now discontinued'.
+ Different meters on the market all require different testing strips/devices. Stocking many types of meter is potentially wasteful and can be confusing for patients and health-care professionals. The guidance given below is intended to help match glucose meters to individual requirements, bearing in mind that many of the type 2 diabetes population DO NOT require a multi-function meter. Therefore it is recommended that the  meters listed below are used in NHS Highland.
+  All meters are subject to inaccuracies arising from:
+ Poor technique:  lack of hand washing can lead to contaminated samples giving an inaccurate result.  Wash hands with soap and water before taking a sample. Using just hand sanitiser may alter the blood glucose result. 
+ Insufficient blood on the test strip: all of the advised meters use a capillary fill system so the strip ‘sucks up’ the blood rather than it being applied to the top of the strip. If the blood is incorrectly applied the meter will not work.
+ Temperature: meters and strips are designed to be most accurate at room temperature. If the meter is too cold it may not function.
+ Humidity will also affect test strips. They should be stored in the container with the top closed and used within manufacturers’ recommended time after opening.
+ Disposal of blood glucose meters  Spirit Healthcare are able to collect old blood glucose meters (both their own meters and other companies' meters).  They recycle the meters and ensure none go to landfill.  The email address to contact is:  cs@spirit-healthcare.co.uk 
+ Avoid comparing results from different meters as different meters will provide varying readings leading to confusion. 
+Which patients should have glucose monitoring? 
+ Patients who SHOULD monitor glucose 
+ Patients who should be CONSIDERED for glucose monitoring 
+ Patients who do NOT need to monitor glucose 
+ Individuals with insulin treated diabetes or being considered for insulin
+ Individuals with type 2 diabetes at risk of hypoglycaemia
+ Individuals who require to undertake blood glucose monitoring under DVLA regulations ( www.gov.uk/diabetes-driving) 
+ Pregnant women with diabetes
+ On steroids
+ At risk of hypoglycaemia
+ Elderly on sulfonylurea
+ At initiation of therapy
+ Renal impairment
+ High alcohol intake
+ Agreed management plan
+ Patients with type 2 diabetes managed with:
+ Diet and exercise
+ Combinations of:
+metformin, pioglitazone, SGLT2 inhibitors (dapagliflozin, empagliflozin) DPP-4 inhibitors (sitagliptin, linagliptin) and GLP-1 analogues (liraglutide, exenatide) in the absence of medication known to cause hypoglycaemia, ie sulfonylureas and insulin
+ Inappropriate glucose monitoring should be changed and stopped, if it is not required. 
+How often to test? 
+ Testing UPTO 4 times per day   
+ Testing MORE THAN 4 times per day 
+ Is appropriate for: 
+ Patients with type 2 diabetes using or being considered for insulin injectable therapy
+ Patients advised on an individual basis by an appropriate health care professional
+ Patients requiring short-term glucose testing.
+ May be required for:  
+ Patients with type 1 diabetes
+ Children
+ Evidence of impaired hypoglycaemia awareness
+ During pregnancy (including gestational diabetes)
+ Patients managed with a continuous subcutaneous insulin infusion (CSII by pump)
+ Control is poor or unstable; reduce testing frequency again when control is improved
+ Specific patients as advised by the specialist team
+ Patients who are carbohydrate counting
+ Other selected circumstances, eg for occupational reasons.
+Capillary blood glucose monitoring (BGM) 
+ For patients with type 1 or type 2 diabetes NOT on an insulin pump 
+ Meter
+ Supplied by company. 
+GP practices to keep a stock of Accu-chek and CareSens meters.  
+ Indication 
+ Strips & lancets
+ To be prescribed
+ Accu-Chek Instant 
+ Best for a basic economical blood glucose meter. 
+ Can be linked to MySugr app to support review of blood glucose levels remotely by healthcare professionals. 
+ Colour grading on meter to support patient knowledge of target range of glucose levels.
+ Includes FastClix finger-pricker for FastClix lancets. 
+ Adults with type 2 diabetes 
+ Gestational diabetes 
+ If patients are unable to use, eg visual problems, contact specialist services for an alternative. 
+ Accu-Chek Instant glucose strips 
+ FastClix lancets 
+ Enclosed in drum to minimise sharps injury. No need for separate sharps container.
+ Sharps container only required if prescribed non-safety needles for insulin.
+ CareSens Dual Meter 
+ Tests blood glucose & ketones
+ Adults with type 1 diabetes 
+ Children with diabetes 
+ NOT for use in neonates 
+ If patients are unable to use, contact specialist services for an alternative.
+ CareSens PRO strips 
+ KetoSens strips 
+ Adults: supply CareSens lancets 
+ Children: supply (reusable) FastClix finger pricker and FastClix lancets  
+ Lancets are enclosed in drum to minimise sharps injury. No need for separate sharps container.
+ Sharps container only required if prescribed non-safety needles for insulin.
+ FreeStyle Precision Pro meter 
+ Blood glucose monitoring: all hospital locations
+ Blood ketone monitoring: specialist areas only.
+ Hospital inpatients 
+ FreeStyle Precision Pro glucose strips 
+ FreeStyle Precision Pro ketone strips 
+ Only as directed by Biochemistry
+ Vitrex sterile safety lancet 
+Continuous glucose monitoring (CGM) systems 
+ MHRA advice:  Insulin pumps and continuous glucose monitoring (CGM) equipment: guidance for users on reporting suspected adverse incidents and safety concerns to the MHRA’s Yellow Card scheme (October 2024) ( www.gov.uk ).
+ Continuous glucose monitoring measures real-time interstitial glucose levels. 
+ CGMs are Specialist recommendation only, as per the eligibility criteria below. 
+ Adults: 
+ GPs can ONLY prescribe CGM for individuals identified by the Adult Diabetes Team who are eligible based on clinical need and the eligibility criteria below
+ Adult eligibility criteria: 
+ Individuals with diabetes who are attending diabetes specialist services and treated with intensive insulin therapy, with multiple daily insulin injections, or insulin pump therapy, who are already performing multiple (5 or more) fingerprick blood glucose tests per day.
+ Individuals with recently developed impaired awareness of hypoglycaemia who are not yet candidates for (more costly) continuous glucose monitoring systems.
+ Women planning pregnancy.
+ Those who required a third party to perform monitoring, or where dexterity or disability denote that conventional testing is difficult or impossible.
+ Other criteria:  
+ Deemed by the team to have the required knowledge and skills to effectively self-manage their diabetes. This may include having undertaken a recognised diabetes structured education programme (eg HEIDI), and/or 1 to 1 carbohydrate counting.
+ Completion of the on-line Libre Academy modules at:  https://freestylediabetes.co.uk/freestyle-libre/academy . Agreement to attend a locally provided flash glucose monitoring education session, or an on-line equivalent, if appropriate.
+ To agree to review glucose a minimum of six times per day.
+ To use sensors as recommended.
+ To agree to share glucose monitoring data with the diabetes clinic and complete any associated clinical questionnaires.
+ Ongoing prescription:  
+ Determined by the specialist diabetes team at review appointments.
+ Requires effective use of the technology to improve self-management, eg, reduction in hypoglycaemia, improvement in HbA1c, reduction in hospital admissions.
+ Paediatric patients: 
+ GPs will be notified by letter by the Paediatric Diabetes Team if a specific patient has met all the requirements for these to be safely prescribed as per NICE NG18 
+ Tel: 01463 701321 or email:  nhshighland.childdiabetes@nhs.scot  for any enquiries. 
+ Offer real-time continuous glucose monitoring (rtCGM) to all children and young people with type 1 diabetes, alongside education to support children and young people, and their families and carers, to use it.
+ Monitor and review the child or young person's use of CGM as part of reviewing their diabetes care plan, and explain to them the importance of continuously wearing the device. 
+ If the child or young person is not using their CGM device at least 70% of the time
+ ask if they are having problems with their device.
+ look at ways to address any problems or concerns to improve their use of the device, including further education and emotional and psychological support. 
+ Commissioners, providers and healthcare professionals should address inequalities in CGM access and uptake by:
+ monitoring who is using CGM
+ identifying groups who are eligible but who have a lower uptake
+ making plans to engage with these groups to encourage them to consider CGM.
+ When prescribing CGMs, continue to supply blood glucose monitoring strips (on repeat or acute prescription) for the patient to order when needed, as the patient will still need to perform finger prick testing of blood glucose levels. 
+ Patients with type 1 diabetes, or who require to ketone test, will still require a supply of blood ketone testing strips.  
+ CGM system 
+ Device is based on patient choice. The devices use different adhesives and therefore patients may find one device sticks better than another.
+ All CGM devices are water resistant (eg shower, swimming)
+ FreeStyle Libre 2 PLUS is licensed for use on the back of the arm only.
+ Dexcom ONE+ is approved for use on arm and abdomen (all ages) and the upper buttock (2 to 17 years).
+ FreeStyle Libre 2 system 
+ 2-month supply:  2 x 2 FreeStyle Libre 2 PLUS sensors
+ Can be used for up to 15 days
+ Most patients will not require a 'reader' as monitoring can be done via mobile phone. Readers can be ordered for those patients who do not have a compatible mobile phone.
+ When a new ‘reader’ is ordered an envelope will be sent to return the old reader/ meter to Abbot for recycling. For further information, see: website .
+ Dexcom ONE+ system 
+ 2-month supply:  6 x Dexcom One+ sensors
+ All-in-one sensor/ transmitter. No need for a separate transmitter 
+ Can be used for up to 10 days, with 12 hour grace period for sensor replacement
+ Info: 
+ Dexcom: Pharmacy pages & FAQs 
+ Dexcom: Learn the basics 
+ Note: 
+ Dexcom ONE CGM system is discontinued.  If changing to Decom ONE+ patient will need to download the relevant app.
+Patient with type 1 diabetes on insulin pump 
+ For paediatric patient enquiries: contact the Paediatric Diabetes Team directly.
+ Tel: 01463 701321 or email: nhshighland.childdiabetes@nhs.scot   
+ Pump 
+ Indication 
+ Strips & Lancets 
+ Medtronic 780G insulin pump 
+ Adults with type 1 diabetes 
+ Children as advised by the Paediatric Diabetes Team
+ Accu-Chek Guide Link meter 
+ AccuChek Guide strips 
+ FastClix lancets 
+ Enclosed in drum to minimise sharps injury. No need for separate sharps container.
+ Ypsomed insulin pump 
+ Adults with type 1 diabetes 
+ No specific meter linked to pump 
+ Medtrum insulin pump  
+ Adults with type 1 diabetes 
+ No specific meter linked to pump 
+ Medtronic 640G insulin pump  
+ Adults with type 1 diabetes 
+ For existing patients only. NOT for new patients
+ Contour Next Link USB meter  
+ Contour Next strips 
+ Contour lancets 
+ Omnipod insulin pump 
+ Adults with type 1 diabetes 
+ For existing patients only. NOT for new patients
+ Omnipod handset 
+ FreeStyle Lite strips 
+ FreeStyle lancets 
+ FreeStyle Libre 3 PLUS CGM system 
+ For individuals using a compatible insulin pump with hybrid closed loop functionality eg Ypsomed / CamAPS FX.
+ 2-month supply: 2 x 2 FreeStyle Libre 3 PLUS sensor kits
+ Sensor kit 
+ Can be used for up to 15 days
+ Is water-resistant (eg shower, swimming)
+Adults with type 1 diabetes who use carb advisor 
+ There is no longer a specific device for those 'carb counting'. Consideration can be given to mobile apps eg. My Sugr app and MyLife app.
+Urinalysis 
+ Ketostix test strips 
+ for detection of ketones in urine 
+Insulin / pen compatibility chart 
+ For information on insulin types and compatible devices, see Diabetes Specialist Nurse Forum table: Insulin, Devices & Profiles V5 . 
+ Below is an extract showing the reusable pens (penfill) and the insulins that are compatible with them. 
+ * Re-usable cartridge pens can only be used with company specific insulin 3ml cartridges
+Needles for pre-filled and reusable pen injectors 
+ Place in therapy 
+ Needles 
+ Notes 
+ FIRST LINE
+ Most cost effective
+ Viva 4mm/32 gauge 
+ Pack of 90
+ For adults who self-administer their own insulin.
+ For individual paediatric cases as determined by the paediatric team.
+ SECOND LINE 
+ Those unable to use first line option
+ Micro-Fine Ultra 4mm/32 gauge 
+ Pack of 100
+ specialist recommendation only
+ Diabetic team recommendation only for those patients who are unable to use Viva needles. 
+ ALTERNATIVE  
+ Less cost-effective 
+ AutoShield Duo 5mm/30 gauge  
+ Pack of 100
+ Only to be used: 
+ In settings where third-party administration is required, eg, administration by district nursing or family member. 
+ For paediatric use where safety of exposed needles are a concern, eg, school environments. 
+ Where dexterity issues or fear of needles makes injecting difficult with standard needles. 
+ Editorial Information 
+ Last reviewed: 
+ 24/04/2025
+ Next review date: 
+ 30/04/2028
+ Author(s): 
+ Endocrinology, Paediatrics.
+ Version: 
+ 1.12
+ Approved By: 
+ TAM Subgroup of the ADTC
+ Reviewer name(s): 
+ F Wilson, Diabetes Specialist Nurse, Community, M Sutherland, Diabetes Specialist Nurse, Community, F Ballantyne, Diabetes Specialist Nurse, Paediatrics, H Peel, Diabetic Nurse, Secondary Care, A Delaye, Diabetes Specialist Nurse, Pumps, K Maclean, Health Protection Nurse Specialist, Gestational Diabetes.
+ Document Id: 
+ F395
+ Right Decision Service: supporting decisions for Scotland's health and care
+ The Right Decision Service: Scotland's national decision support platform
+ Terms and conditions of your use of the Right Decisions Platform (RDP)
+ Content provider terms and conditions of use of the Right Decisions Platform (RDP)
+ Accessibility & browser/device compatibility
+ Using screen readers
+ Equality and Human Rights Impact Assessment (EQIA)
+ Downloads
+ Download the app on the Apple store 
+ Download the app on the Google Play store 
+ Powered by
+ QURIS v7.30.3 © 2026.
+ Back to the top 

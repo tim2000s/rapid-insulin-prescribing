@@ -1,0 +1,1102 @@
+National Prescribing
+Indicators
+2025–2028
+Supporting Information for
+Prescribers and Healthcare
+Professionals
+
+
+
+
+December 2024
+This document has been prepared by the All Wales Prescribing Advisory Group
+(AWPAG) with support from the All Wales Therapeutics and Toxicology Centre
+(AWTTC) and has subsequently been endorsed by the All Wales Medicines
+Strategy Group (AWMSG).
+
+Please direct any queries to AWTTC:
+
+All Wales Therapeutics and Toxicology Centre
+The Routledge Academic Centre
+University Hospital Llandough
+Penlan Road
+Llandough
+Vale of Glamorgan
+CF64 2XX
+
+awttc@wales.nhs.uk
+029 218 26900
+
+The information in this document is intended to help healthcare providers make
+an informed decision. This document should not be used as a substitute for
+professional medical advice and although care has been taken to ensure the
+information is accurate and complete at the time of publication, the All Wales
+Therapeutics and Toxicology Centre (AWTTC) and All Wales Medicines
+Strategy Group (AWMSG) do not make any guarantees to that effect. The
+information in this document is subject to review and may be updated or
+withdrawn at any time. AWTTC and AWMSG accept no liability in association
+with the use of its content.
+
+Information presented in this document can be reproduced using the following
+citation:
+All Wales Medicines Strategy Group. National Prescribing Indicators 2025–
+2028: Supporting Information for Prescribers and Healthcare Professionals.
+December 2024.
+
+Copyright AWTTC 2024. All rights reserved.
+                                               National prescribing indicators 2025-2028:
+                     Supporting Information for Prescribers and Healthcare Professionals
+Contents
+
+Glossary .......................................................................................................................... 2
+
+   Notes............................................................................................................................ 2
+
+1.0 Priority areas ............................................................................................................. 3
+
+   1.1 Analgesics .............................................................................................................. 3
+
+      1.1.1 Opioid burden .................................................................................................. 3
+
+      1.1.2 Tramadol ......................................................................................................... 5
+
+      1.1.3 Gabapentin and pregabalin ............................................................................. 7
+
+   1.2 Antimicrobial stewardship ...................................................................................... 9
+
+      1.2.1 Total antibacterial prescribing .......................................................................... 9
+
+      1.2.2 4C antimicrobials ........................................................................................... 10
+
+      1.2.3 Course duration for respiratory tract infection (RTI) antibiotics ...................... 11
+
+   1.3 Respiratory ........................................................................................................... 12
+
+      1.3.1 Decarbonisation of inhalers ........................................................................... 12
+
+      1.3.2 Short Acting Beta Agonist (SABA) inhalers ................................................... 13
+
+   1.4 SGLT-2 Inhibitors ................................................................................................. 15
+
+      1.4.1 Patients with type 2 diabetes and chronic heart failure.................................. 15
+
+      1.4.2 Patients with type 2 diabetes and chronic kidney disease ............................. 16
+
+      1.4.3 Patients with non-diabetic chronic kidney disease......................................... 17
+
+2.0 Supporting domains ................................................................................................. 18
+
+   2.1 Safety ................................................................................................................... 18
+
+      2.1.1 Prescribing Safety Indicators ......................................................................... 18
+
+      2.1.2 Hypnotics and anxiolytics .............................................................................. 20
+
+      2.1.3 Yellow Cards ................................................................................................. 21
+
+   2.2 Efficiencies ........................................................................................................... 23
+
+      2.2.1 Best value biological medicines ..................................................................... 23
+
+      2.2.2 Low value for prescribing ............................................................................... 24
+
+Appendix 1. Oral Morphine Equivalence (OME) ............................................................ 25
+
+
+                                                                                                                     Page 1 of 25
+All Wales Medicines Strategy Group
+
+Glossary
+
+ ADQ           Average Daily Quantity
+ ADRs          Adverse Drug Reactions
+ AKI           Acute Kidney Injury
+ AWMSG         All Wales Medicines Strategy Group
+ AWTTC         All Wales Therapeutics and Toxicology Centre
+ CEPP          Clinical Effectiveness Prescribing Programme
+ COPD          Chronic Obstructive Pulmonary Disease
+ CKD           Chronic Kidney Disease
+ DDD           Defined daily dose
+ eGFR          Estimated glomerular filtration rate
+ HCAI          Healthcare associated infection
+ MHRA          Medicines and Healthcare products Regulatory Agency
+ MRSA          Methicillin-resistant Staphylococcus aureus
+ NICE          National Institute for Health and Care Excellence
+ NPH           Neutral protamine Hagedorn
+ NPIs          National Prescribing Indicators
+ NSAIDs        Non-steroidal anti-inflammatory drugs
+ OME           Oral Morphine Equivalence
+ PHE           Public Health England
+ PU            Prescribing unit
+ RCoA          Royal College of Anaesthetists
+ RCGP          Royal College of General Practitioners
+ SABA          Short Acting Beta Agonist
+ SSRIs         Selective serotonin reuptake inhibitors
+ STAR-PU       Specific therapeutic group age-sex related prescribing unit
+ UDG           User-defined group
+ YCC           Yellow Card Centre
+
+Notes
+Implementation of the NPIs does not override the individual responsibility of healthcare
+professionals to make decisions appropriate to the circumstances of the individual
+patient, in consultation with the patient and/or guardian or carer.
+
+
+
+
+Page 2 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+1.0 Priority areas
+1.1 Analgesics
+
+1.1.1 Opioid burden
+
+Purpose: To encourage the appropriate use and review of all opioids in primary care,
+minimising the potential for dependence, diversion, misuse and ADRs.
+
+Units of measure:
+   • Opioid burden UDG total OME per 1,000 patients
+   • High strength opioids UDG with a likely daily dose of ≥ 120 mg OME per 1,000
+      patients
+
+Why is this important?
+   •   Due to a lack of evidence of effectiveness, opioids are not recommended as a
+       treatment option for the management of chronic primary pain (NICE guideline
+       NG193, Chronic pain (primary and secondary) in over 16s: assessment of all
+       chronic pain and management of chronic primary pain).
+   •   Opioid analgesics have well established side effects including constipation,
+       nausea and vomiting, and respiratory depression, and repeated administration
+       may cause tolerance and dependence.
+   •   Concerns have been raised about the prescribing rates of opioids in the UK and
+       the awareness of healthcare professionals and patients have about the risks of
+       dependence and addiction.
+How can changes be made?
+   •   NICE guidance (NG193) states that opioids should not be initiated for the
+       management of chronic primary pain.
+   •   Discuss with patients that prolonged use of opioids may lead to drug
+       dependence and addiction, even at therapeutic doses. Counsel patients and
+       caregivers on signs and symptoms of opioid overdose to be aware of. (See
+       MHRA’s Opioid medicines and the risk of addiction safety leaflet)
+   •   Before starting treatment with opioids, agree with the patient a treatment
+       strategy and plan for end of treatment.
+   •   Ensure that when prescribing opioids, consideration is given to: the benefits of
+       treatment; the risks of prescribing, including dependency, overdose and
+       diversion; all prescribed and non-prescribed medicines the person is taking, and
+       whether the person may be opioid naïve.
+   •   If it is thought opioid therapy may play a role in a patient’s pain management, a
+       trial should be initiated to establish whether the patient achieves a reduction in
+       pain with the use of opioids – if not they should be carefully reduced and
+       stopped.
+   •   Patients prescribed opioids for chronic primary pain should be reviewed as part
+       of shared decision making.
+   •   Provide regular monitoring and support especially to individuals at increased
+       risk, such as those with current or past history of substance use disorder
+       (including alcohol misuse) or mental health disorder.
+   •   Dose escalation should be limited as risk of harm rises as dose increases,
+       especially if there is inadequate relief of pain. Above an oral morphine
+       equivalent daily dose of 120 mg, further benefit is unlikely.
+
+                                                                              Page 3 of 25
+All Wales Medicines Strategy Group
+
+    •   At the end of treatment, taper dosage slowly to reduce the risk of withdrawal
+        effects associated with sudden cessation of opioids; tapering from a high dose
+        may take weeks or months.
+    •   Consider the possibility of hyperalgesia if a patient on long-term opioid therapy
+        presents with increased sensitivity to pain.
+    •   Use the RCoA Faculty of Pain Medicine checklist to aid discussions regarding
+        opioid treatment with patients.
+    •   Conduct a search to identify patients on an oral morphine equivalent daily dose
+        of ≥ 120 mg in order to undertake reviews.
+    •   Encourage other elements of pain management to support patients move to a
+        better quality of life.
+    What resources are available?
+    •   AWMSG (2023) Resources for pharmacological management of pain including
+            o All Wales Analgesic Stewardship Guidance
+            o All Wales Pharmacological Management of Pain Guidance
+    •   Live Well with Pain (2024) Living Well with Pain resources and training for
+        social prescribers, clinicians and other practitioners in supporting pain
+        self-management
+    •   PrescQIPP (2023) Bulletin 336: Reducing opioid prescribing in chronic pain (log
+        in required for access)
+    •   PrescQIPP (2022) Bulletin 284: Chronic pain (log in required for access)
+    •   RCoA Faculty of Pain Medicine (2022) Opioids Aware
+    •   NICE (2021) NG193: Chronic pain (primary and secondary) in over 16s:
+        assessment of all chronic pain and management of chronic primary pain.
+    •   RCoA Faculty of Pain Medicine (2019) Opioids Aware: Tapering and stopping
+        opioids
+    •   RCoA Faculty of Pain Medicine (2019) Checklist for Prescribers
+    •   MHRA Opioids e-learning module
+    •   Health Education and Improvement Wales (undated) Analgesic Stewardship
+        and Pain Management
+
+
+
+
+Page 4 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+
+1.1.2 Tramadol
+
+Purpose: To encourage appropriate use and review of tramadol in primary care,
+minimising the potential for dependence, diversion, misuse and ADRs.
+
+Unit of measure: Tramadol DDDs per 1,000 patients
+
+Why is this important?
+   •   Tramadol is licensed for the treatment of moderate to severe pain. However,
+       NICE guideline NG193, Chronic pain (primary and secondary) in over 16s:
+       assessment of all chronic pain and management of chronic primary pain,
+       recommends that opioids, including tramadol, are not initiated for chronic
+       primary pain.
+   •   Tramadol produces analgesia by two mechanisms: an opioid effect and an
+       enhancement of the serotonergic and adrenergic pathways. This unique
+       dual-action pharmacological profile of tramadol increases the risk of adverse
+       effects seen in overdose.
+   •   Hallucinations, confusion and convulsions, as well as rare cases of dependence
+       and withdrawal symptoms, have been reported with tramadol at therapeutic
+       doses.
+   •   Tramadol should be used with caution in patients taking concomitant medicines
+       that can lower the seizure threshold, such as tricyclic antidepressants or SSRIs.
+       The use of tramadol is contraindicated in uncontrolled epilepsy and in patients
+       receiving, or who have recently discontinued (within the previous two weeks)
+       monoamine oxidase inhibitors.
+How can changes be made?
+   •   Before prescribing tramadol, discuss the risks and features of tolerance,
+       dependence and addiction with the patient, and agree a treatment strategy for
+       the end of treatment.
+   •   Provide regular monitoring and support especially to individuals at increased
+       risk, such as those with current or past history of substance use disorder
+       (including alcohol misuse) or mental health disorder.
+   •   If it is appropriate for a patient’s tramadol to be stepped down or stopped,
+       reduce the dose slowly to ensure the patient’s safety and to minimise the risk of
+       withdrawal symptoms and/or ADRs. Where physical dependence to tramadol
+       develops, the withdrawal syndrome can be severe, with symptoms typical of
+       opiate withdrawal sometimes accompanied by seizures, hallucinations and
+       anxiety.
+   •   To encourage patient engagement and concordance, a suggested approach
+       would be to reduce the dose at each reduction step, e.g. by one 50 mg dose,
+       and to titrate according to how the patient manages, rather than by setting time
+       limits for the next reduction.
+   •   Conduct an audit using the ‘Primary care tramadol audit’ resource (Appendix 1)
+       as part of the AWMSG Tramadol educational resources package.
+
+
+
+
+                                                                              Page 5 of 25
+All Wales Medicines Strategy Group
+
+What resources are available?
+    •    AWMSG (2023) Resources for pharmacological management of pain including
+          o All Wales Analgesic Stewardship Guidance
+          o All Wales Pharmacological Management of Pain Guidance
+    •   AWMSG (2021) Tramadol educational resources
+
+
+
+
+Page 6 of 25
+                                      National prescribing indicators 2025-2028:
+            Supporting Information for Prescribers and Healthcare Professionals
+1.1.3 Gabapentin and pregabalin
+
+Purpose: To encourage the appropriate use and review of gabapentin and pregabalin
+in primary care, minimising the potential for dependence, diversion, misuse and ADRs.
+
+Unit of measure: Gabapentin and pregabalin DDDs per 1,000 patients
+
+Why is this important?
+   •   While there is a recognised place in pain management for gabapentin and
+       pregabalin, there are concerns regarding the risks associated with dependence,
+       diversion and misuse.
+   •   Gabapentin and pregabalin have the propensity to cause depression of the
+       central nervous system, resulting in drowsiness, headache, sedation,
+       respiratory depression and in extreme circumstances, death.
+   •   There has been an increase in the number of deaths where pregabalin was
+       mentioned on the death certificate in Wales, from 10 deaths registered in 2019
+       to 30 deaths registered in 2022.
+How can changes be made?
+   •   Review patients prescribed gabapentin and pregabalin with a view to dose
+       reduction/treatment cessation where appropriate via shared decision making.
+   •   Use a pain scale (for example, the Leeds assessment of neuropathic symptoms
+       and signs [LANSS Pain Scale]) to assess whether the patient’s pain is
+       neuropathic in nature. This will also assist in determining response to treatment.
+   •   Inform patients that response to drug treatment in neuropathic pain is often
+       inadequate, with no more than 40–60% of people obtaining partial pain relief.
+   •   Once treatment has commenced, NICE recommends early assessment
+       followed by regular reviews to assess and monitor effectiveness including pain
+       control, adverse effects and continued need.
+   •   Reduce and stop the gabapentin or pregabalin if the patient has not shown
+       sufficient benefit within eight weeks of reaching the maximum tolerated dose.
+       - Gabapentin can be reduced over a minimum of one week; however, a more
+           gradual dose taper which reduces the daily dose by a maximum of 300 mg
+           every four days allows for observation of emergent symptoms that may have
+           been controlled by gabapentin.
+       - Pregabalin can be reduced over a minimum of one week; however, a more
+           gradual dose taper which reduces the daily dose by a maximum of
+           50–100 mg per week allows for observation of emergent symptoms that may
+           have been controlled by pregabalin.
+   •   Exercise caution in prescribing gabapentin or pregabalin for patients with COPD
+       or a history of substance abuse.
+   •   Morphine can increase the bioavailability of gabapentin. Review co-prescribing
+       of gabapentin or pregabalin with opioids.
+   •   Encourage other elements of pain management to support patients move to a
+       better quality of life.
+
+
+
+
+                                                                              Page 7 of 25
+All Wales Medicines Strategy Group
+
+What resources are available?
+    •   AWMSG (2023) Resources for pharmacological management of pain
+    •   The Leeds Assessment of Neuropathic Symptoms and Signs (LANSS) Pain
+        Scale
+    •    PrescQIPP (2022) Bulletin 216: Neuropathic pain (log in required for access)
+    •   Public Health England (2014) Advice for prescribers on the risk of the misuse of
+        pregabalin and gabapentin
+    •   SIGN (2019) SIGN 136. Management of chronic pain
+
+
+
+
+Page 8 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+1.2 Antimicrobial stewardship
+
+1.2.1 Total antibacterial prescribing
+
+Purpose: To encourage the appropriate prescribing of all antibiotics in primary care.
+
+Units of measure:
+   • Total antibacterial DDDs per 1,000 STAR-PUs
+   • Total antibacterial items per 1,000 STAR-PUs
+
+Why is this important?
+    •   The widespread and often excessive usage of antimicrobials is one of the main
+        factors contributing to the increasing emergence of antimicrobial resistance.
+    •   Optimising antimicrobial prescribing will reduce the risk of acquiring an
+        antimicrobial resistant organism and healthcare associated infections.
+How can changes be made?
+    •   Follow local or national guidelines, prescribing antibiotics for the shortest effective
+        course at the most appropriate dose.
+    •   Consider the risk of antimicrobial resistance for individual patients and the
+        population as a whole.
+    •   Document the clinical diagnosis (READ/SNOMED code to aid audit) and reason
+        for prescribing, or not prescribing, an antimicrobial.
+    •   Where appropriate, consider a back-up prescription.
+    •   Provide patients with leaflets/resources so they are aware of how long they can
+        expect their condition to last and how they can self-care. Resources, including
+        the ‘Managing common infection (self-care) leaflet’ for patients, are available in
+        the TARGET Antibiotics toolkit.
+    •   Carry out the AWMSG CEPP National Audit: Focus on Antibiotic Prescribing.
+What resources are available?
+    •   AWMSG (2024) Primary Care Antimicrobial Guidelines
+    •   AWMSG (2024) Back-up antibiotic prescribing: Good practice guide
+    •   AWMSG (2023) CEPP National Audit: Focus on Antibiotic Prescribing
+    •   RCGP TARGET Antibiotics toolkit
+
+
+
+
+                                                                                  Page 9 of 25
+All Wales Medicines Strategy Group
+
+1.2.2 4C antimicrobials
+
+Purpose: To reduce the prevalence of HCAI including Clostridioides difficile infection
+and Staphylococcus aureus bacteraemia caused by MRSA by encouraging a reduction
+in variation and reduce overall prescribing of the 4C antimicrobials (co-amoxiclav,
+cephalosporins, fluoroquinolones and clindamycin) in primary care.
+
+Units of measure:
+   • 4C DDDs combined, per 1,000 patients
+   • 4C items combined, per 1,000 patients
+
+Why is this important?
+    •   The use of simple generic antibiotics, avoiding broad-spectrum antibiotics (e.g.
+        co-amoxiclav, cephalosporins, fluoroquinolones and clindamycin), preserves
+        them from resistance and reduces the risk of C. difficile, MRSA and resistant
+        urinary tract infections.
+    •   Compared with narrow-spectrum antibiotics, broad-spectrum antibiotics are
+        more likely to significantly change the gut flora, potentially allowing other
+        bacteria, such as C. difficile, to become established.
+    •   The most commonly implicated antibiotics in C. difficile infection include
+        clindamycin, cephalosporins (in particular second and third generation
+        cephalosporins), fluoroquinolones and co-amoxiclav.
+How can changes be made?
+    •   Follow local or national guidelines, prescribing 4C antibiotics for the shortest
+        effective course at the most appropriate dose.
+    •   Consider the risk of antimicrobial resistance for individual patients and the
+        population as a whole.
+    •   Document the clinical diagnosis (READ/SNOMED code to aid audit) and reason
+        for prescribing, or not prescribing, a 4C antimicrobial.
+    •   Provide patients with leaflets/resources so they are aware of how long they can
+        expect their condition to last and how they can self-care. Resources, including
+        the ‘Managing common infection (self-care) leaflet’ for patients, are available in
+        the TARGET Antibiotics toolkit.
+    •   Carry out the AWMSG CEPP National Audit: Focus on Antibiotic Prescribing.
+What resources are available?
+    •   AWMSG (2024) Primary Care Antimicrobial Guidelines
+    •   AWMSG (2023) CEPP National Audit: Focus on Antibiotic Prescribing
+    •   RCGP TARGET Antibiotics toolkit
+
+
+
+
+Page 10 of 25
+                                         National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+1.2.3 Course duration for respiratory tract infection (RTI) antibiotics
+
+Purpose: To increase the proportion of antibiotics prescribed for an appropriate
+duration when prescribing for RTIs to reduce the risk of antimicrobial resistance and
+adverse effects.
+
+Units of measure:
+   • Proportion of amoxicillin 500 mg capsules prescribed for 5-day duration
+   • Proportion of doxycycline 100 mg capsules prescribed for 5-day duration
+   • Proportion of clarithromycin 500 mg tablets prescribed for 5-day duration
+
+Why is this important?
+    •   Antimicrobial overuse is a driver of antimicrobial resistance which threatens the
+        effectiveness of antibiotics now and in the future.
+    •   Research increasingly demonstrates that short courses of antibiotics are as
+        effective as longer courses in treating patients with uncomplicated infection.
+    •   Welsh primary care prescribing data suggests that the shortest effective
+        courses of antibiotics are not consistently prescribed and there is considerable
+        variation in the proportion of short and long course prescriptions.
+How can changes be made?
+    •   When prescribing antibiotics for acute respiratory tract infection, follow local or
+        national guidelines and prescribe for the shortest effective course at the most
+        appropriate dose to reduce the risk of antimicrobial resistance and adverse
+        effects (typically a 5-day course for sinusitis, sore throat, COPD infective
+        exacerbation, cough (acute) and community acquired pneumonia).
+    •   Document the clinical diagnosis (READ/SNOMED code to aid audit) and reason
+        for prescribing, or not prescribing, an antimicrobial as well as the planned
+        duration of treatment.
+    •   Provide patients with leaflets/resources so they are aware of how long they can
+        expect their condition to last and how they can self-care. Resources are
+        available in the TARGET Antibiotics toolkit.
+    •   Carry out the AWMSG CEPP National Audit: Focus on Antibiotic Prescribing.
+What resources are available?
+    •   AWMSG (2024) Primary Care Antimicrobial Guidelines
+    •   AWMSG (2024) Back-up antibiotic prescribing: Good practice guide
+    •   NHS Futures Antimicrobial Resistance Programme (log in required for access)
+    •   NICE (2023) Acute respiratory infection in over 16s: initial assessment and
+        management including virtual wards (hospital at home)
+    •   PrescQIPP Bulletin 313: Antimicrobial stewardship
+
+
+
+
+                                                                               Page 11 of 25
+All Wales Medicines Strategy Group
+
+1.3 Respiratory
+
+1.3.1 Decarbonisation of inhalers
+
+Purpose: To encourage an increase in the use of low Global Warming Potential (GWP)
+inhalers (dry powder inhalers [DPI] and soft mist inhalers [SMI]), to reduce the carbon
+footprint of inhaler prescribing in Wales.
+
+Unit of measure: The number of DPIs and SMIs as a percentage of all inhalers
+prescribed
+
+Why is this important?
+    •   The hydrofluorocarbon (HFC) gases used as propellants in MDIs are estimated
+        to be responsible for 4% of the entire carbon footprint of the NHS.
+    •   DPIs have a carbon footprint 18 times lower than MDIs.
+    •   SMIs do not contain a propellant, therefore have a lower carbon footprint than
+        MDIs.
+How can changes be made?
+    •   Ensure the inhaler with the lowest GWP is considered when a new inhaler is
+        commenced and during respiratory reviews.
+    •   Recommend low GWP alternatives to patients currently using MDIs where
+        clinically appropriate via shared decision-making.
+    •   Rationalise inhaler devices to ensure that patients are not prescribed multiple
+        inhalers that are a mixture of MDI and DPI, i.e. wherever clinically appropriate,
+        ensure patients are solely using DPIs.
+    •   Ensure that changes only take place where the patient is able to use a new
+        device safely.
+    •   Combination inhalers should be used in place of separate inhalers where
+        clinically appropriate.
+    •   Ensure inhalers are prescribed by their brand name to support supply of the
+        lowest GWP inhalers.
+    •   Undertake audits to identify respiratory patients suitable for review to improve
+        clinical outcomes and reduce the inhaler carbon footprint.
+What resources are available?
+    •   AWMSG (2024) All Wales Adult Asthma Diagnosis and Management Guideline
+    •   AWMSG (2023) All Wales COPD Management and Prescribing Guideline
+    •   AWMSG (2023) Decarbonisation: inhaler prescribing, use and disposal
+        2023–2030
+    •   AWTTC (2024) SPIRA – Decarbonisation Dashboard (NHS Wales network
+        connection required)
+    •   NICE (2022) Patient decision aid: Inhalers for asthma
+    •   PrescQIPP (2021) Bulletin 295: Inhaler carbon footprint (log in required for
+        access)
+
+
+
+
+Page 12 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+1.3.2 Short Acting Beta Agonist (SABA) inhalers
+
+Purpose: To reduce over reliance on SABA inhalers to improve asthma control in
+patients and asthma related health outcomes.
+
+Unit of measure: Number of SABA inhalers as a percentage of all inhalers
+
+ Why is this important?
+   •   The aims of asthma management are to achieve good symptom control and to
+       minimise the future risk of asthma exacerbations, mortality, persistent airflow
+       obstruction and side effects of treatment.
+   •   SABA inhalers are often used by asthmatics to provide short-term relief of their
+       symptoms. However, SABAs only relax the airway muscle and don’t treat the
+       airway inflammation.
+   •   Using ≥ 3 SABA inhalers per year reflects poor asthma control and is
+       associated with a significantly increased risk of asthma attacks, increased A&E
+       visits and hospitalisations.
+   •   SABA use as monotherapy is now outdated and the National Review of Asthma
+       Deaths (NRAD) have highlighted the potential dangers of this practice with
+       underuse of inhaled corticosteroids and over reliance on beta-agonists a
+       contributory factor in a number of deaths.
+   •   The NRAD considers little or no SABA use an indicator of good asthma control.
+How can changes be made?
+   •   Follow national guidelines e.g. All Wales Asthma Management and Prescribing
+       Guidelines when prescribing to treat newly diagnosed or existing asthma.
+   •   Do not prescribe SABA as a monotherapy. Asthma is an inflammatory condition
+       and guidelines have highlighted the need to treat all individuals symptomatic of
+       asthma with inhaled corticosteroid (ICS) containing treatment.
+   •   For individuals with mild, intermittent asthma (defined as symptoms less than
+       4-5 days per week) there is now good evidence for the use of anti-inflammatory
+       reliever therapy (AIR) on an ‘if and when required' basis in response to
+       symptoms.
+   •   Using ≥3 SABA inhalers each year is associated with increased risk of
+       exacerbations and these patients should be switched to the 'preferred regimen'
+       (AIR) outlined on the All Wales Adult Asthma Management and Prescribing
+       Guideline.
+   •   Educate patients to recognise the symptoms of SABA overuse. Encourage
+       regular preventer treatment, empower patients by helping them to understand
+       their condition and how their treatments work.
+   •   All individuals with asthma should receive a review at least annually (with more
+       frequent reviews needed if poor control identified). If asthma is considered to be
+       poorly controlled, address the reasons for this (e.g. poor inhaler technique or
+       adherence). If no reversible factors can be identified, stepping up therapy
+       should be considered.
+   •   Undertake an audit of patients with asthma prescribed SABA as a monotherapy,
+       reviewing those who are flagged.
+What resources are available?
+   •   AWMSG (2024) All Wales Adult Asthma Management and Prescribing
+       Guideline
+
+
+                                                                             Page 13 of 25
+All Wales Medicines Strategy Group
+
+    •   RCP (2024) Green physician toolkit
+    •   AWMSG (2023) All Wales Paediatric Asthma Management and Prescribing
+        Guidelines
+    •   NICE (2022) Asthma. Patient decision aid on asthma inhalers
+
+
+
+
+Page 14 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+1.4 SGLT-2 Inhibitors
+
+1.4.1 Patients with type 2 diabetes and chronic heart failure
+
+Purpose: To improve cardiovascular outcomes in patients with type 2 diabetes mellitus
+(T2DM) and chronic heart failure.
+
+Unit of measure: Number of patients with T2DM and chronic heart failure who are
+prescribed a sodium-glucose co-transporter-2 (SGLT-2) inhibitor
+
+Why is this important?
+   •   SGLT-2 inhibitors, developed as a treatment for T2DM, have since been shown
+       to promote protective mechanisms that may contribute to the slowing of related
+       cardiovascular, renal and metabolic complications.
+   •   People with heart failure and T2DM are at a higher risk of adverse outcomes
+       and cardiovascular mortality. Treatment with an SGLT-2 inhibitor has been
+       shown to improve cardiovascular outcomes for this patient group.
+How can changes be made?
+   •   Patients with T2DM should be assessed for cardiovascular status and risk to
+       determine whether they also have chronic heart failure.
+   •   For patients with T2DM and chronic heart failure, an SGLT-2 inhibitor with
+       proven cardiovascular benefit should be offered in addition to metformin as
+       first-line treatment unless contraindicated. Dapagliflozin (Forxiga®) and
+       empagliflozin (Jardiance®) are currently licensed in adults for the treatment of
+       both symptomatic chronic heart failure and T2DM.
+   •   When starting patients with T2DM on dual therapy with metformin and
+       an SGLT-2 inhibitor as first-line treatment, introduce the drugs sequentially,
+       starting with metformin and checking tolerability. This enables any side effects
+       and intolerances from metformin to be identified before the SGLT-2 inhibitor is
+       introduced.
+   •   When reviewing patients with T2DM, make a shared decision about switching
+       treatments or adding an SGLT-2 inhibitor if they have or develop chronic heart
+       failure.
+   •   Only stop the SGLT-2 inhibitor if the patient’s circumstances have changed and
+       the SGLT-2 inhibitor is no longer appropriate.
+What resources are available?
+   •   NICE (2023) Type 2 diabetes in adults. Quality statement 5: Treatment with an
+       SGLT-2 inhibitor (QS209)
+   •   NICE (2022) Type 2 diabetes in adults: management (NG208)
+   •   AWMSG (2021) All Wales advice on sodium-glucose cotransporter-2 (SGLT-2)
+       inhibitors in type 2 diabetes and cardiovascular disease
+
+
+
+
+                                                                            Page 15 of 25
+All Wales Medicines Strategy Group
+
+1.4.2 Patients with type 2 diabetes and chronic kidney disease
+
+Purpose: To reduce the risk of chronic kidney disease (CKD) progression and mortality
+and risk of cardiovascular events in patients with CKD and type 2 diabetes (T2DM).
+
+Unit of measure: Number of patients with type 2 diabetes and CKD who are currently
+treated with an angiotensin-receptor blocker (ARB) or an angiotensin-converting
+enzyme (ACE) inhibitor prescribed an SGLT-2 inhibitor.
+
+Why is this important?
+    •   CKD is a serious public health problem associated with significant morbidity,
+        premature mortality and high healthcare costs.
+    •   Strong evidence from well-conducted randomised controlled trials showed that
+        SGLT-2 inhibitors reduced the risk of CKD progression, mortality and
+        cardiovascular events in patients with T2DM and CKD.
+How can changes be made?
+    •   Perform serum creatinine, eGFR and urine albumin-to-creatinine ratio (ACR)
+        yearly to diagnose and monitor kidney damage in patients with T2DM. Urine
+        ACR is the most reliable screening test for CKD. Early identification of patients
+        with CKD guides monitoring and clinical decision making, and is critical to
+        ensuring patients receive appropriate treatment.
+    •   Patients with T2DM and CKD who are currently treated with an ARB or an ACE
+        inhibitor (titrated to the highest licensed dose that they can tolerate), should be
+        offered an SGLT-2 inhibitor unless contraindicated. This balances elements of
+        NICE guidance alongside more recently published UK Kidney Association
+        (UKKA) and Kidney Disease: Improving Global Outcomes (KDIGO) guidance
+        which is more broadly inclusive and reflective of the evidence base.
+    •   Canagliflozin (Invokana®), dapagliflozin (Forxiga®) and empagliflozin
+        (Jardiance®) are the SGLT-2 inhibitors approved for the treatment of CKD in
+        patients with T2DM.
+    •   Use of an SGLT-2 inhibitor for CKD is different to its use for diabetes, but
+        hypoglycaemic effects and their side effect profile (including risk of diabetic
+        ketoacidosis [DKA] in diabetes) should be taken into account when prescribing.
+What resources are available?
+    •   KDIGO (2024) Clinical Practice Guideline for the Evaluation and Management
+        of Chronic Kidney Disease
+    •   Kidney Care UK (2024) Let’s talk kidneys. Opportunities for early intervention in
+        chronic kidney disease
+    •   UKKA (2023) UK Kidney Association Clinical Practice Guideline: Sodium-
+        Glucose Co-transporter-2 (SGLT-2) Inhibition in Adults with Kidney Disease
+        2023 Update
+    •   NICE (2023) Type 2 diabetes in adults. Quality statement 5: Treatment with an
+        SGLT-2 inhibitor (QS209)
+    •   NICE (2022) Type 2 diabetes in adults: management (NG208)
+
+
+
+
+Page 16 of 25
+                                        National prescribing indicators 2025-2028:
+              Supporting Information for Prescribers and Healthcare Professionals
+1.4.3 Patients with non-diabetic chronic kidney disease
+
+Purpose: To reduce the risk of CKD progression and mortality and risk of
+cardiovascular events in patients with non-diabetic CKD.
+
+Unit of measure: Number of patients with non-diabetic CKD who are currently treated
+with an angiotensin-receptor blocker (ARB) or an angiotensin-converting enzyme (ACE)
+inhibitor and have an albumin creatinine ratio (ACR) ≥ 22.6 mg/mmol prescribed an
+SGLT-2 inhibitor.
+
+Why is this important?
+   •   Renal benefits of SGLT-2 inhibitors have been demonstrated for people with
+       CKD and albuminuria, irrespective of diabetes status, in large randomised
+       clinical trials and meta-analyses.
+   •   Increasing the proportion of people with non-diabetic CKD on SGLT-2 inhibitors
+       is anticipated to slow CKD progression and reduce the number of
+       cardiovascular and end-stage renal events.
+How can changes be made?
+   •   Perform serum creatinine, eGFR and urine ACR yearly to monitor kidney
+       disease in non-diabetic patients with CKD. Proteinuria is a useful marker of
+       kidney damage and complication of risk. Urine ACR is the recommended
+       method for assessing proteinuria and measurement is critical to ensuring
+       patients receive appropriate treatment.
+   •   Non-diabetic patients with CKD who are currently treated with an ARB or an
+       ACE inhibitor (titrated to the highest licensed dose that they can tolerate), and
+       have an ACR ≥ 22.6 mg/mmol, should be offered an SGLT-2 inhibitor unless
+       contraindicated.
+What resources are available?
+   •   KDIGO (2024) Clinical Practice Guideline for the Evaluation and Management
+       of Chronic Kidney Disease
+   •   Kidney Care UK (2024) Let’s talk kidneys. Opportunities for early intervention in
+       chronic kidney disease
+   •   UKKA (2023) UK Kidney Association Clinical Practice Guideline: Sodium-
+       Glucose Co-transporter-2 (SGLT-2) Inhibition in Adults with Kidney Disease
+       2023 Update
+
+
+
+
+                                                                              Page 17 of 25
+All Wales Medicines Strategy Group
+
+2.0 Supporting domains
+
+2.1 Safety
+
+2.1.1 Prescribing Safety Indicators
+
+Purpose: To identify patients at high risk of adverse drug reactions and
+medicines-related harm in primary care.
+
+Units of measure:
+Prescribing Safety Indicators related to Acute Kidney Injury (AKI)
+• Number of patients on the CKD register (CKD stage 3–5) who have received a
+    repeat prescription for an NSAID within the last 3 months.
+• Number of patients who are not on the CKD register but have an eGFR of
+    < 59 ml/min and have received a repeat prescription for an NSAID within the last 3
+    months.
+• Number of patients with concurrent prescriptions of an NSAID, renin-angiotensin
+    system (RAS) drug and a diuretic.
+• Number of patients aged 75 and over with a current prescription for an ACE
+    Inhibitor or loop diuretic without a check of renal function and electrolytes in the
+    previous 15 months.
+
+Prescribing Safety Indicators related to antimicrobial stewardship
+• Number of patients with recurrent prescriptions for nitrofurantoin, with an eGFR of <
+   45 ml/min.
+• Number of trimethoprim items prescribed to patients aged ≥ 65 years, per 1,000
+   patient list size aged ≥ 65 years.
+
+Prescribing Safety Indicators related to bleeds
+• Number of patients with a peptic ulcer who have been prescribed NSAIDs without a
+   PPI.
+• Number of patients with concurrent prescriptions of warfarin and an oral NSAID.
+• Number of patients with concurrent prescriptions for a DOAC and an oral NSAID.
+• Number of patients aged 65 years or over prescribed an NSAID plus aspirin and/or
+   clopidogrel but without gastroprotection (PPI or H2 receptor antagonist).
+• Number of patients with concurrent prescriptions of an oral anticoagulant (warfarin
+   or DOAC) and an SSRI.
+
+Prescribing Safety Indicators related to cognition
+• Number of patients aged 65 years or over prescribed an antipsychotic.
+• Number of patients aged 75 and over with an Anticholinergic Effect on Cognition
+   (AEC) score of 3 or more for items on active repeat.
+
+Prescribing Safety Indicators specific to females
+• Number of female patients with a past medical history of venous or arterial
+   thrombosis who have been prescribed combined hormonal contraceptives.
+• Number of female patients aged 14–55 with a prescription for oral retinoids.
+• Number of female patients aged 14-55 with a prescription for topiramate.
+
+Prescribing Safety Indicators related to ‘other’
+• Number of patients under 16 with a current prescription of aspirin.
+
+
+Page 18 of 25
+                                          National prescribing indicators 2025-2028:
+              Supporting Information for Prescribers and Healthcare Professionals
+•   Number of patients with asthma who have been prescribed a non-cardioselective
+    beta-blocker.
+•   Number of patients with concurrent prescriptions of verapamil and a beta-blocker.
+•   Number of female patients aged ≤ 55 years with a prescription for sodium valproate.
+•   Number of male patients who have been prescribed sodium valproate.
+
+Why is this important?
+    •   This NPI facilitates a move towards a more patient-focussed approach when
+        considering whether the right patients are getting the right medicines. It is
+        intended to reduce the number of ADRs experienced by patients.
+    •   In the UK, it is estimated that up to around 16.5% of hospital admissions in
+        adults are related to ADRs.
+    •   ADRs can often be predictable, making it possible to identify their potential
+        causes and address them before actual patient harm occurs. Therefore, an
+        electronic process of identifying patients susceptible to ADRs could enable
+        intervention and help avoid harm.
+    •   The PINCER study, which involved searching GP clinical systems to identify
+        patients at risk of potentially hazardous prescribing alongside delivery of
+        educational outreach interventions to practice staff (including GPs) to minimise
+        future risk, demonstrated that such an approach is an effective method for
+        reducing the frequency of a range of medication errors in primary care.
+How can changes be made?
+    •   Review patients identified as being at high risk of ADRs and medicines-related
+        harm ensuring that action taken is clearly documented and coded appropriately.
+What resources are available?
+    •   AWMSG (2024) Primary care antimicrobial guidelines
+    •   AWMSG (2023) Polypharmacy in older people: A guide for healthcare
+        professionals
+    •   MHRA (2022) Antipsychotics e-learning module
+    •   PrescQIPP (2020) Bulletin 253: Anticholinergic burden (log in required for
+        access)
+    •   Sanofi (2020) Guide for healthcare professionals: Information on the risks of
+        valproate▼ use in girls (of any age) and women of childbearing potential
+    •   AWMSG (2018) CEPP National Audit: antipsychotics in dementia
+    •   South London and Maudsley NHS Foundation Trust (2017) Medichec: The
+        Anticholinergic Effect on Cognition Tool (Android and iOS Medichec apps
+        available)
+    •   AWMSG (2017) CEPP National Audit: medicines management for CKD
+    •   AWMSG (2015) CEPP All Wales Audit: towards appropriate NSAID prescribing
+
+
+
+
+                                                                              Page 19 of 25
+All Wales Medicines Strategy Group
+
+2.1.2 Hypnotics and anxiolytics
+
+Purpose: To encourage a reduction in the inappropriate prescribing of hypnotics and
+anxiolytics in primary care.
+
+Unit of measure: Hypnotic and anxiolytic UDG ADQs per 1,000 STAR-PUs
+
+Why is this important?
+    •   There is a high level of hypnotic and anxiolytic prescribing in NHS Wales,
+        compared with England.
+    •   The problems associated with benzodiazepines (e.g. tolerance, dependence,
+        withdrawal causing rebound insomnia) are well known, and the number of
+        deaths associated with benzodiazepines has increased.
+    •   Hypnotics and anxiolytics are known to significantly increase the risk of falls.
+How can changes be made?
+    •   Consider hypnotics and anxiolytics only after non-drug therapies have been
+        explored.
+    •   When prescribing hypnotics, use the lowest dose possible, for the shortest
+        duration possible and in strict accordance with their licensed indications: no
+        more than four weeks.
+    •   Do not offer benzodiazepines for the treatment of generalised anxiety disorder
+        except as a short-term measure during crises.
+    •   Always consider reducing hypnotics and anxiolytics where appropriate.
+    •   Use the ‘Hypnotic and anxiolytic reduction/withdrawal resources’ (Appendix 5)
+        in the AWMSG Educational Pack, ‘Material to Support Appropriate Prescribing
+        of Hypnotics and Anxiolytics across Wales’. It includes an example of an
+        anxiolytic and hypnotic audit.
+What resources are available?
+    •   AWMSG (2023) Polypharmacy in older people: A guide for healthcare
+        professionals
+    •   AWMSG (2021) Material to Support Appropriate Prescribing of Hypnotics and
+        Anxiolytics across Wales
+    •   Bruyère Research Institute (2019) Benzodiazepine & Z-Drug (BZRA)
+        Deprescribing Algorithm
+
+
+
+
+Page 20 of 25
+                                       National prescribing indicators 2025-2028:
+             Supporting Information for Prescribers and Healthcare Professionals
+2.1.3 Yellow Cards
+
+Purpose: To encourage an increase in the number of Yellow Cards submitted in Wales.
+
+Units of measure:
+   • Number of Yellow Cards submitted per GP practice, per health board and per
+      hospital
+   • Number of Yellow Cards submitted by Community Pharmacies, per health board
+
+Why is this important?
+   •   ADRs are a significant clinical problem, and can increase morbidity and
+       mortality.
+   •   The Yellow Card Scheme is vital in helping the MHRA monitor the safety of all
+       healthcare products in the UK to ensure they are acceptably safe for those that
+       use them.
+   •   Yellow Card reporting supports the identification and collation of ADRs, which
+       might not have been known about before.
+How can changes be made?
+   •   Yellow Card reports can be completed:
+         – Online: www.mhra.gov.uk/yellowcard
+         – Using the free Yellow Card app (Android or Apple)
+         – Through the clinical systems SystmOne and Vision prescribing system
+            which transmit Yellow Cards directly to the MHRA
+         – Through the Medicines Information system, MiDatabank, used by
+            Medicines Information pharmacists throughout the UK
+         – By writing to: FREEPOST YELLOW CARD (no other address details
+            necessary)
+         – By emailing: yellowcard@mhra.gov.uk
+         – By downloading forms from the website
+   •   You only need to suspect that an adverse drug reaction was caused by a
+       medicine to report it.
+   •   Don’t assume someone else will report an adverse drug reaction you witness.
+   •   Reports can be made for all medicines (both new and established) including
+       vaccines, blood factors and immunoglobulins, herbal medicines and
+       homeopathic remedies, and all medical devices available on the UK market.
+   •   Sign up to become a Yellow Card Champion to support colleagues when
+       completing Yellow Card reports as well as running training sessions on ADRs
+       and the Yellow Card Scheme.
+
+
+
+
+                                                                           Page 21 of 25
+All Wales Medicines Strategy Group
+
+What resources are available?
+    •   Yellow Card champions are available in each health board to provide training.
+        Contact YCCWales@wales.nhs.uk for more information
+    •   Yellow Card reports can be completed online – Yellow Card website
+    •   Health Education Improvement Wales (HEIW) e-learning module on Yellow
+        Card Scheme
+    •   The Yellow Card scheme: guidance for healthcare professionals, patients and
+        the public
+    •   YCC Wales website
+    •   MHRA website
+    •   NHS Education for Scotland e-learning modules on ADRs
+
+Download the Yellow Card App:
+  • Android
+  • Apple
+
+
+
+
+Page 22 of 25
+                                        National prescribing indicators 2025-2028:
+              Supporting Information for Prescribers and Healthcare Professionals
+2.2 Efficiencies
+
+2.2.1 Best value biological medicines
+
+Purpose: To ensure prescribing of biological medicines supports cost-efficient
+prescribing in primary and secondary care in Wales.
+
+Unit of measure: Quantity of best value biological medicines prescribed as a
+percentage of total ‘biosimilar’ plus ‘reference’ product
+
+Why is this important?
+   •   Biological medicines account for a significant expenditure in NHS Wales.
+   •   Biosimilar medicines are biological medicines that have been developed as
+       highly similar and clinically equivalent to their ‘reference’ or ‘originator’ medicine.
+   •   A number of reference biological medicines have recently lost their patent
+       protection, or will lose it within the next five years, creating opportunities for
+       increased commercial competition.
+   •   Although individual health boards’ contracting prices, as well as national
+       contracting prices, for biosimilar and reference medicines may vary, there are
+       expected to be significant cost-saving opportunities from the use of the most
+       cost-efficient biological medicine.
+How can changes be made?
+   •   Where AWMSG or NICE has recommended the reference medicine, the same
+       guidance will normally apply to the biosimilar.
+   •   At the time of dispensing there must not be automatic substitution of the
+       reference product with a biosimilar medicine. Therefore, the clinician in
+       consultation with the patient should make the decision on whether the reference
+       or biosimilar biological medicine will be prescribed for the patient.
+   •   All biological medicines, including biosimilars, must be prescribed by brand
+       name.
+   •   The list of biological medicines being reported on will be determined by the
+       requirements of the service. For 2025–2028 this will be focused on the
+       biological medicines where a biosimilar version has recently become available
+       however, monitoring of an overall basket of biological medicines will continue.
+What resources are available?
+   •   AWMSG (2023) Maximising the opportunity presented by biosimilar medicines –
+       A national strategy for Wales
+   •   AWTTC (2024) SPIRA – Biosimilar Efficiencies (NHS Wales network connection
+       required)
+   •   NHS England (2023) What is a biosimilar medicine?
+   •   SPS (2023) Understanding biological and biosimilar medicines
+   •   MHRA (2014) Drug Safety Update. Biosimilar products
+   •   NICE Position statement for biosimilar medicines
+
+
+
+
+                                                                                 Page 23 of 25
+All Wales Medicines Strategy Group
+
+2.2.2 Low value for prescribing
+
+Purpose: To drive a reduction in the prescribing of items considered as not suitable for
+routine prescribing in Wales.
+
+Unit of measure: Low value for prescribing UDG spend per 1,000 patients
+
+Why is this important?
+    •   Aim of this indicator is to minimise the prescribing of items that offer a limited
+        clinical benefit to patients and where more cost-effective treatments may be
+        available.
+How can changes be made?
+    •   The Low Value for Prescribing in NHS Wales papers provide guidance to
+        clinicians and health boards in Wales.
+    •   Prescribers are expected to have due regard for this advice when deciding
+        whether or not to prescribe any of the included items.
+    •   When making changes, these should be part of a shared decision between
+        patients, and where appropriate carers, and the prescriber.
+What resources are available?
+    •   AWMSG (2017) Medicines Identified as Low Priority for Funding in NHS Wales
+        – paper 1
+    •   AWMSG (2018) Medicines Identified as Low Priority for Funding in NHS Wales
+        – paper 2
+    •   AWMSG (2020) Items Identified as Low Value for Prescribing in NHS Wales –
+        paper 3
+    •   AWTTC (2024) SPIRA – Low Value for Prescribing Dashboard (NHS Wales
+        network connection required)
+
+
+
+
+Page 24 of 25
+                                          National prescribing indicators 2025-2028:
+                Supporting Information for Prescribers and Healthcare Professionals
+Appendix 1. Oral Morphine Equivalence (OME)
+                                                           Relative potency to
+ BNF Chemical Substance Name                                                          References
+                                                           oral morphine*†
+ Buprenorphine sublingual tablet                           60                         PCG
+ Buprenorphine transdermal patch                           100                        PCG
+ Butorphanol nasal spray                                   7                          PME
+ Co-codamol (codeine phos/paracetamol) oral                0.1                        PCG
+ Codeine phosphate oral                                    0.1                        PCG
+ Co-dydramol oral                                          0.1                        PCG
+ Dextromoramide tartrate                                   4                          OPN
+ Dextropropoxyphene                                        0.1                        OPN
+ Diamorphine hydrochloride oral                            1                          OPN
+ Dihydrocodeine tartrate oral                              0.1                        PCG
+ Dipipanone hydrochloride oral                             0.5                        CHF
+ Fentanyl oromucosal lozenge                               130                        PME
+ Fentanyl transdermal patch                                100                        BNF
+ Fentanyl oromucosal tablet                                130                        PME
+ Fentanyl intra-nasal spray                                160                        PME
+ Fentanyl oromucosal film                                  180                        PME
+ Hydromorphone hydrochloride oral                          5                          BNF
+ Levorphanol tartrate oral                                 11                         PME
+ Meptazinol hydrochloride oral                             0.04                       CHF
+ Methadone hydrochloride oral                              4                          CHF
+ Morphine hydrochloride oral                               1                          OPN
+ Morphine hydrochloride suppository                        1                          PCG
+ Morphine sulfate oral                                     1                          PCG
+ Oxycodone hydrochloride oral                              1.5                        BNF
+ Papaveretum                                               1                          OPN
+ Pentazocine hydrochloride oral                            0.37                       OPN
+ Pentazocine lactate                                       0.37                       OPN
+ Pethidine hydrochloride oral                              0.125                      CHF
+ Phenazocine hydrobromide                                  4                          OPN
+ Tapentadol hydrochloride oral                             0.4                        FPM
+ Tramadol hydrochloride oral                               0.1                        PCG
+ BNF: British National Formulary; CHF: Cheshire Formulary; FPM: Faculty of Pain
+ Medicine of the Royal College of Anaesthetists; PME: Pain Management Education at
+ UCSF; OPN: Open Prescribing; PCG: Palliative Care Guidelines (traditional)
+
+
+*Relative potency to oral morphine values have been discussed at Welsh Pharmacy Pain Group. This
+
+was set up by Emma Davies and Simon Gill and is an Analgesic Interest Network (PAIN in Wales) for
+NHS Wales Pharmacists and Pharmacy Technicians.
+† There is no universal agreement, or national or internationally recognised consensus, for these values
+
+as there is no mechanism by which they can be determined. Values are based on national and
+international opinion and have been taken from what are believed to be the most robust sources, with an
+emphasis on UK sources reflective of UK practice where available.
+
+                                                                                           Page 25 of 25
+

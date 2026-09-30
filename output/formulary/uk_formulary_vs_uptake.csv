@@ -1,0 +1,38 @@
+nation,area,restriction_class,uptake,rank
+England,Leicester Leicestershire and Rutland,open,30.043,0
+England,North East and North Cumbria,open,23.501,0
+England,Kent and Medway,specialist,27.678,1
+England,Greater Manchester,specialist,17.771,1
+England,Lancashire and South Cumbria,specialist,24.734,1
+England,Cheshire and Merseyside,specialist,18.996,1
+England,Humber and North Yorkshire,specialist,21.835,1
+England,Nottingham and Nottinghamshire,specialist,25.878,1
+England,Hampshire and Isle of Wight,specialist,17.737,1
+England,Devon,specialist,19.684,1
+England,"Bath and North East Somerset, Swindon and Wiltshire",specialist,15.983,1
+England,Herefordshire and Worcestershire,second_line_or_excluded,21.276,2
+England,South East London,second_line_or_excluded,10.746,2
+England,South West London,second_line_or_excluded,9.504,2
+England,Birmingham and Solihull,second_line_or_excluded,3.172,2
+England,West and North London,second_line_or_excluded,8.843,2
+Scotland,Greater Glasgow and Clyde,specialist,26.4,1
+Scotland,Ayrshire and Arran,specialist,4.67,1
+Scotland,Forth Valley,specialist,5.24,1
+Scotland,Dumfries and Galloway,specialist,6.59,1
+Scotland,Lothian,specialist,16.85,1
+Scotland,Fife,specialist,10.63,1
+Scotland,Borders,specialist,7.98,1
+Scotland,Tayside,specialist,3.01,1
+Scotland,Grampian,specialist,5.18,1
+Scotland,Orkney,specialist,2.71,1
+Scotland,Shetland,specialist,0.3,1
+Scotland,Highland,open,26.25,0
+Scotland,Western Isles,open,23.53,0
+Wales,Aneurin Bevan,open,18.75,0
+Wales,Betsi Cadwaladr,specialist,28.96,1
+Wales,Cardiff and Vale,specialist,22.01,1
+Wales,Cwm Taf Morgannwg,specialist,56.32,1
+Wales,Hywel Dda,specialist,30.5,1
+Wales,Powys,open,23.73,0
+Wales,Swansea Bay,specialist,44.99,1
+Northern Ireland,Northern Ireland,open,26.4,0

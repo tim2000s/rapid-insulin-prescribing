@@ -1,0 +1,523 @@
+
+ East Region Formulary 
+ Toggle Mobile Navigation 
+ East Region Formulary 
+ Search 
+ Search 
+ [img: NHS Scotland] 
+ Therapeutic Areas 
+ Conditions A-Z 
+ Medicines A-Z 
+ Medicine Categories 
+ Formulary Decisions 
+ Shared care of medicines 
+ Home 
+ Therapeutic Areas 
+ Endocrine system 
+ Diabetes Mellitus 
+ Diabetes Mellitus - type 2
+ Diabetes Mellitus - type 2
+ Patients commencing blood glucose lowering agents may need to inform the DVLA and their vehicle insurance company. Advise patients to check with their insurer and the DVLA website.
+ Women with type 2 diabetes who become pregnant whilst taking antidiabetes medication should be referred urgently for specialist advice. It is safe to continue metformin. Oral medications (except metformin) are contra-indicated in women of reproductive age who are not using adequate contraception.
+ Additional NHS Lothian prescribing information for type 2 diabetes can be accessed on the NHS Lothian Diabetes Managed Clinical Network (MCN) website .
+ Modification of adverse lifestyle factors alongside therapeutic interventions for glycaemic control is an important aspect of the management of type 2 diabetes. As part of the management of type 2 diabetes at all stages, review cardiovascular risk factors, promote smoking cessation, and advise regular physical activity and healthy eating.
+ For additional information on the management of hyperglycaemia in type 2 diabetes refer to ADA / EASD - Management of hyperglycaemia in type 2 diabetes .
+ Some oral anti-diabetes medication can be harmful if continued during intercurrent dehydrating illness, especially metformin and SGLT2 inhibitors. 'Sick day guidance' is very important and must be reinforced regularly to patients. Further information can be found here   Appendix B: Sick Day Guidance: Information for healthcare professionals and patients | Right Decisions 
+ SGLT2 inhibitor treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses and ketone levels measured, preferably in blood rather than urine. Treatment may be restarted when the ketone values are normal, and the patient's condition has stabilised. For more information health care professionals should refer to SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness - GOV.UK 
+ SIGN 172: Prevention and remission of type 2 diabetes 
+ SIGN 116 & 154: Management of diabetes 
+ NICE NG28: Type 2 diabetes in adults 
+ NICE NG18: Diabetes in children and young people 
+ [Adult prescribing recommendations] 
+ 1st line medicines treatment
+ [First choice recommendation(s)] 
+ Biguanides. Metformin is the first choice oral hypoglycaemic drug for people with BMI* > 25kg/m 2 presenting with ‘typical’ type 2 diabetes. Review treatment at 3-6months if not reaching target review adherence, then move to 2nd line medicines treatment.
+ Metformin 
+ Show external links for Metformin 
+ Metformin 500mg tablets 
+ Dose 
+ Initially 500mg once daily after breakfast for at least a week then 500mg twice daily after breakfast and evening meal for at least a week then 500mg three times a day after meals. Max 2g per day.
+ Metformin 850mg tablets 
+ Dose 
+ Initially 500mg once daily after breakfast for at least a week then 500mg twice daily after breakfast and evening meal for at least a week then 500mg three times a day after meals. Alternatively, 850mg metformin to be taken 2 times daily given during or after meals. Max 2g per day.
+ Metformin modified release tablets may be helpful in patients who are unable to tolerate immediate release metformin.
+ Metformin 
+ Show external links for Metformin 
+ Metformin 500mg modified-release tablets 
+ Dose 
+ Using modified-release medicines:
+Initially 500mg once daily, dose to be taken with evening meal, then increased in necessary up to 2g once daily, dose to be taken with evening meal, dose increased gradually, every 10-15 days; 2g total daily dose may alternatively be given as 1g twice daily with meals only if control not achieved with once daily dose regimen. If control still not achieved, then change to standard release tablets.
+ Metformin 1g modified-release tablets 
+ Dose 
+ Using modified-release medicines:
+Initially 500mg once daily, dose to be taken with evening meal, then increased if necessary up to 2g once daily, dose to be taken with evening meal, dose increased gradually, every 10-15 days; 2g total daily dose may alternatively be given as 1g twice daily with meals only if control not achieved with once daily dose regimen, If control still not achieved, then change to standard release tablets.
+ Metformin oral solution should be restricted to patients unable to swallow tablets.
+ Metformin 
+ Show external links for Metformin 
+ Metformin 500mg/5ml oral solution sugar free 
+ Dose 
+ Initially 500mg (5ml) once daily after breakfast for at least a week then 500mg (5ml) twice daily after breakfast and evening meal for at least a week then 500mg (5ml) three times a day after meals. Max 2g per day.
+ [Second choice recommendation(s)] 
+ SGLT-2 inhibitors can be used as monotherapy when metformin is contraindicated or not tolerated and a sulphonylurea is not appropriate. Dapagliflozin is the preferred option for the majority of patients, see prescribing notes.
+ Dapagliflozin 
+ Show external links for Dapagliflozin 
+ Dapagliflozin 10mg tablets 
+ Dose 
+ 10mg once daily.
+ [Third choice recommendation(s)] 
+ Empagliflozin is an alternative option, reserved for use when Dapagliflozin is unsuitable - see prescribing notes.
+ Empagliflozin 
+ Show external links for Empagliflozin 
+ Empagliflozin 10mg tablets 
+ Dose 
+ 10mg once daily, increased to 25mg once daily if necessary and if tolerated.
+ Empagliflozin 25mg tablets 
+ Dose 
+ 10mg once daily, increased to 25mg once daily if necessary and if tolerated.
+ [Fourth choice recommendation(s)] 
+ Sulfonlyureas are useful first line agents in some clinical presentations; see prescribing notes for more detail. Review treatment at 3-6months, if not reaching target review adherence then move to 2nd line medicines treatment. In people with a BMI* > 25kg/m 2 presenting with ‘typical’ type 2 diabetes who are intolerant of, or have contraindications to metformin, gliclazide is not the preferred first line oral agent, an SGLT-2 inhibitor can be used or seek specialist advice.
+ Gliclazide 
+ Show external links for Gliclazide 
+ Gliclazide 40mg tablets 
+ Dose 
+ Initially 40-80mg daily with breakfast, adjusted according to response. Doses above 160mg daily should be divided. Max 320mg daily.
+ Gliclazide 80mg tablets 
+ Dose 
+ Initially 40-80mg daily with breakfast, adjusted according to response. Doses above 160mg daily should be divided. Max 320mg daily.
+ Prescribing Notes:
+ BMI and treatment choice 
+ Metformin is the first choice oral hypoglycaemic drug for people with BMI* greater than 25kg/m 2 presenting with ‘typical’ type 2 diabetes [*a lower BMI cut-off of 23kg/m 2 may be more appropriate for members of minority ethnic groups known to be at equivalent risk of the consequences of obesity at a lower BMI than the white population].
+ If BMI* is less than 25kg/m 2 reconsider if the diagnosis of type 2 diabetes is correct. Seek advice from secondary care if there is uncertainty about the cause of diabetes.
+ Provided that type 1 diabetes has been excluded. Treatment options for type 2 diabetes in people with a BMI* less than 25kg/m 2 include oral gliclazide or subcutaneous insulin. Refer to the Diabetes Type 1 insulin pathways for product choice.
+ Biguanides - metformin 
+ Metformin is proven to improve survival. It does not need to be limited to overweight patients.
+ Metformin may cause gastro-intestinal adverse effects; it should be started at low dose and taken with or after meals, and the dose gradually increased if tolerated. Hypoglycaemia is not a problem with metformin monotherapy.
+ Due to the rare but serious risk of lactic acidosis, metformin must be avoided in patients with: significant renal impairment (estimated glomerular filtration rate (eGFR) less than 30mL/min); alcoholism with previous pancreatitis; severe cardiac/respiratory disease producing tissue hypoxia; severe liver disease with potential for hepatic failure. Sick day rules apply to metformin . Supply the patient with appropriate advice.
+ The precipitant of a lactic acid crisis is often in the eGFR range 30 to 45mL/min when the patient develops what would have been a trivial illness (such as diarrhoea and vomiting) which compromises renal function and causes acute renal failure. This is compounded if the patient is also taking diuretics and/or ACE inhibitors in combination with metformin . Unlike acute illnesses in type 1 diabetes (where insulin treatment MUST be continued) stopping the drugs for a day or two will NOT cause any immediate problem for the patient and will protect renal function until the patient improves. Blood glucose estimation should be used to assess any glycaemic deterioration. In circumstances where renal impairment is suspected, NSAIDs should NOT be used as they can further compromise renal function.
+ SGLT-2 Inhibitors - Dapagliflozin and Empagliflozin 
+ NICE Multiple Technology Appraisal 390 recommends that dapagliflozin and empagliflozin are suitable for monotherapy. Healthcare Improvement Scotland notes that NICE MTA 390 superseded previous SMC advice not recommending empagliflozin for monotherapy. SGLT-2 inhibitors can be used when metformin is contraindicated or not tolerated and a sulphonylurea is not appropriate.
+ Sodium-glucose co-transporter 2 (SGLT2) inhibitors reversibly inhibit sodium-glucose co-transporter 2 in the kidneys to reduce glucose reabsorption and increase glucose excretion.
+ Risk of euglycaemic ketoacidosis with SGLT2 inhibitors; provide clear guidance to stop treatment if intercurrent dehydrating illness. A 'sick day' guidance leaflet for patients is available. For more information health care professionals should refer to SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis - GOV.UK 
+ Patients on SGLT2 inhibitors should be given advice on genitourinary infections.
+ The glucose lowering efficacy of dapagliflozin and empagliflozin is dependent on renal function, and is reduced in patients with eGFR < 45 mL/min/1.73m 2 and is likely absent in patients with severe renal impairment. Therefore, if eGFR falls below 45 mL/min/1.73m 2 , additional glucose lowering treatment should be considered in patients with type 2 diabetes mellitus.
+ Dapagliflozin is the preferred SGLT2i. 
+ For guidance on  dapagliflozin or   empagliflozin dosing  in renal impairment refer to product information and see   local prescribing advice   for   SGLT-2 Inhibitors  in diabetic and non-diabetic chronic kidney disease on  EdRen .
+ SGLT2 inhibitors should be used with caution in patients with a past history of recurrent genito-urinary tract infection.
+ If considering initiation of an SGLT2 for a patient with co-morbid heart failure see formulary recommendations for heart failure.
+ If considering initiation of an SGLT2 for a patient with co-morbid chronic kidney disease see formulary recommendations for kidney disease.
+ SGLT2 inhibitor treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses and ketone levels measured, preferably in blood rather than urine. Treatment may be restarted when the ketone values are normal and the patient's condition has stabilised. For more information health care professionals should refer to SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis - GOV.UKSGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness - GOV.UK 
+ Sulfonylureas - gliclazide 
+ Gliclazide is a potent anti-diabetic agent that stimulates endogenous insulin production. It is associated with weight gain and hypoglycaemia; it is not associated with a reduction in cardiovascular disease. It remains very useful in the following situations:
+ individuals with BMI* <25kg/m 2 (providing type 1 diabetes has been excluded)
+ significant hyperglycaemia at the time of diagnosis of T2D (providing type 1 diabetes has been excluded)
+ steroid-induced diabetes or where pre-existing diabetes worsened by steroids
+ individuals with significant liver or kidney disease
+ certain rare genetic forms of diabetes
+ Sulfonylureas should be taken before meals.
+ Patients should be informed that sulfonylureas can cause hypoglycaemia.  The risk of hypoglycaemia increases with age.
+ History Notes
+ 26/02/2026 
+ Prescribing information updated, ERFC January 2026 
+ 02/06/2025 
+ Updates to prescribing information, ERWG May 2025
+ 13/07/2023 
+ Updates to SGLT2 inhibitor recommendations, ERFC June 23.
+ 16/02/2022 
+ East Region Formulary content agreed.
+ View all 
+ [Adult prescribing recommendations] 
+ 2nd line medicines treatment
+ [First choice recommendation(s)] 
+ Dual Therapy - 2nd line treatment, addition of a sodium-glucose co-transporter 2 (SGLT2) inhibitor (if not already added as 1st line treatment). Dapagliflozin is the preferred option for the majority of patients, see prescribing notes.
+ Dapagliflozin 
+ Show external links for Dapagliflozin 
+ Dapagliflozin 10mg tablets 
+ Dose 
+ 10mg once daily.
+ [Second choice recommendation(s)] 
+ Empagliflozin is an alternative, reserved for use when Dapagliflozin is unsuitable, see prescribing notes.
+ Empagliflozin 
+ Show external links for Empagliflozin 
+ Empagliflozin 10mg tablets 
+ Dose 
+ 10mg once daily, increased to 25mg once daily if necessary and if tolerated.
+ Empagliflozin 25mg tablets 
+ Dose 
+ 10mg once daily, increased to 25mg once daily if necessary and if tolerated.
+ Prescribing Notes:
+ Sodium-glucose co-transporter 2 (SGLT2) inhibitors reversibly inhibit sodium-glucose co-transporter 2 in the kidneys to reduce glucose reabsorption and increase glucose excretion.
+ Review treatment at 3-6months, if not reaching target review adherence then move to 3rd line medicines treatment.
+ Risk of euglycaemic ketoacidosis with SGLT2 inhibitors; provide clear guidance to stop treatment if intercurrent dehydrating illness. A 'sick day' guidance leaflet for patients is available. For more information health care professionals should refer to SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis - GOV.UK .
+ Patients on SGLT2 inhibitors should be given advice on genitourinary infections.
+ SGLT2 inhibitors should be used with caution in patients with a past history of recurrent genito-urinary tract infection.
+ The glucose lowering efficacy of dapagliflozin and empagliflozin is dependent on renal function, and is reduced in patients with eGFR < 45 mL/min/1.73m 2 and is likely absent in patients with severe renal impairment. Therefore, if eGFR falls below 45 mL/min/1.73m 2 , additional glucose lowering treatment should be considered in patients with type 2 diabetes mellitus.
+ Dapagliflozin is the preferred SGLT2i. 
+ For guidance on dapagliflozin or empagliflozin dosing in renal impairment refer to product information and see   local prescribing advice for SGLT-2 Inhibitors in diabetic and non-diabetic chronic kidney disease on  EdRen .
+ In patients with moderate renal impairment (eGFR < 60 mL/min/1.73m 2 ), a higher proportion of patients treated with dapagliflozin had adverse reactions of increase in parathyroid hormone (PTH) and hypotension, compared with placebo.
+ If considering initiation of an SGLT2 for a patient with co-morbid heart failure see formulary recommendations for heart failure.
+ If considering initiation of an SGLT2 for a patient with co-morbid chronic kidney disease see formulary recommendations for kidney disease.
+ SGLT-2 inhibitors are to be used with caution in peripheral vascular conditions and those at risk of acute kidney injury due to increased risk of volume depletion. Caution must be exercised when using loop diuretics concomitantly.
+ SGLT2 inhibitor treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses and ketone levels measured, preferably in blood rather than urine. Treatment may be restarted when the ketone values are normal and the patient's condition has stabilised. For more information health care professionals should refer to SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness - GOV.UK 
+ History Notes
+ 26/02/2026 
+ Prescribing information updated, ERFC January 2026.
+ 02/06/2025 
+ Updates to prescribing information, ERWG May 2025
+ 13/07/2023 
+ Updates to SGLT2 inhibitor recommendations ERFC June 23.
+ 16/02/2022 
+ East Region Formulary content agreed.
+ View all 
+ [Adult prescribing recommendations] 
+ 3rd line medicines treatment
+ [First choice recommendation(s)] 
+ Triple therapy - 3rd line treatment options, addition of a glucagon like peptide 1 receptor agonist (GLP-1 agonist) or Incretin mimetic.
+ The first-choice glucagon like peptide 1 receptor agonist (GLP-1 agonist) is oral semaglutide. Note Rybelsus (semaglutide tablets) transition to new formulation and risk of medication error, see prescribing notes for further guidance.
+ Semaglutide 
+ Show external links for Semaglutide 
+ Rybelsus 1.5mg tablets 
+ Dose 
+ Initially 1.5 mg once daily for 1 month, then increased to 4 mg once daily for at least 1 month, taking more than 1 tablet to achieve the effect of a higher dose is not recommended, then increased if necessary to 9 mg once daily, taking more than 1 tablet to achieve the effect of a higher dose is not recommended.
+ Rybelsus 4mg tablets 
+ Dose 
+ Initially 1.5 mg once daily for 1 month, then increased to 4 mg once daily for at least 1 month, taking more than 1 tablet to achieve the effect of a higher dose is not recommended, then increased if necessary to 9 mg once daily, taking more than 1 tablet to achieve the effect of a higher dose is not recommended.
+ Rybelsus 9mg tablets 
+ Dose 
+ Initially 1.5 mg once daily for 1 month, then increased to 4 mg once daily for at least 1 month, taking more than 1 tablet to achieve the effect of a higher dose is not recommended, then increased if necessary to 9 mg once daily, taking more than 1 tablet to achieve the effect of a higher dose is not recommended.
+ [Second choice recommendation(s)] 
+ Patients on oral semaglutide not meeting HbA1c target may benefit from a change to weekly injectable glucagon-like peptide (GLP-1) agonist, see prescribing notes for further details. Semaglutide is the preferred weekly GLP-1 agonist injection on account of the preferable cardiac profile.
+ Semaglutide 
+ Show external links for Semaglutide 
+ Ozempic 0.25mg/0.19ml solution for injection 1.5ml pre-filled pens 
+ Dose 
+ Initially 0.25mg once weekly for 4 weeks, then increased to 0.5mg once weekly for at least 4 weeks, then increased if necessary to 1mg once weekly.
+ Ozempic 0.5mg/0.37ml solution for injection 1.5ml pre-filled pens 
+ Dose 
+ Initially 0.25mg once weekly for 4 weeks, then increased to 0.5mg once weekly for at least 4 weeks, then increased if necessary to 1mg once weekly.
+ Ozempic 1mg/0.74ml solution for injection 3ml pre-filled pens 
+ Dose 
+ Initially 0.25mg once weekly for 4 weeks, then increased to 0.5mg once weekly for at least 4 weeks, then increased if necessary to 1mg once weekly.
+ Dulaglutide 
+ Show external links for Dulaglutide 
+ Trulicity 1.5mg/0.5ml solution for injection pre-filled pens 
+ Dose 
+ In combination with insulin or other antidiabetic drugs the recommended dose is 1.5mg once weekly. For additional glycaemic control the dose may be increased after at least 4 weeks to 3mg once weekly. The 3mg dose may be increased after at least 4 weeks to 4.5mg once weekly. The maximum dose is 4.5mg once weekly.
+ Trulicity 3mg/0.5ml solution for injection pre-filled pens 
+ Dose 
+ In combination with insulin or other antidiabetic drugs the recommended dose is 1.5mg once weekly. For additional glycaemic control the dose may be increased after at least 4 weeks to 3mg once weekly. The 3mg dose may be increased after at least 4 weeks to 4.5mg once weekly. The maximum dose is 4.5mg once weekly.
+ Trulicity 4.5mg/0.5ml solution for injection pre-filled pens 
+ Dose 
+ In combination with insulin or other antidiabetic drugs the recommended dose is 1.5mg once weekly. For additional glycaemic control the dose may be increased after at least 4 weeks to 3mg once weekly. The 3mg dose may be increased after at least 4 weeks to 4.5mg once weekly. The maximum dose is 4.5mg once weekly.
+ [Third choice recommendation(s)] 
+ Seek specialist advice for patients not meeting HbA1c target on maximum tolerated dose of a GLP-1 agonist. Tirzepatide may be considered as a replacement for the GLP-1 agonist. Needles are not included with the Mounjaro KwikPen, prescribe needles compatible with Kwikpens.
+ Tirzepatide 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Tirzepatide 
+ Mounjaro KwikPen 2.5mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Mounjaro KwikPen 5mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Mounjaro KwikPen 7.5mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Mounjaro KwikPen 10mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Mounjaro KwikPen 12.5mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Mounjaro KwikPen 15mg/0.6ml solution for injection 2.4ml pre-filled pens 
+ [MHRA Black Triangle: report ALL suspected reactions to this medicine (see https://www.yccscotland.scot.nhs.uk)] 
+ Dose 
+ By subcutaneous injection, initially 2.5mg once weekly for 4 weeks, then increased to 5mg once weekly for at least 4 weeks, then increased if necessary up to 15mg once weekly, dose to be increased in steps of 2.5mg at intervals of at least 4 weeks.
+ Prescribing Notes:
+ The first-choice glucagon like peptide 1 receptor agonist (GLP-1 agonist) is oral   semaglutide .    
+ Note Rybelsus ( semaglutide  tablets) transition to new formulation and risk of medication error,  see MHRA guidance  for more information. There is a risk of patient harm arising through medication error during a transition period where the original and new formulation of Rybelsus tablets, which have different stated mg doses but are bioequivalent, will both be available on the market.  
+ To view company literature, see external links to the eMC (SPC, risk materials & patient leaflets) found next to the medicines choices above or access the  eMC website.  
+ GLP-1 agonists are approved for use in combination with other antidiabetic medicines. They are not approved for use as monotherapy.
+ Concomitant insulin or sulfonylureas may require dose reduction with GLP-1 agonist. Patients being started on GLP-1 agonists must have their gliptins stopped on commencement of the GLP-1.
+ GLP-1 agonists are associated with gastro-intestinal side-effects; use with caution if previous pancreatitis.
+ Semaglutide can worsen diabetic retinopathy, discuss with local diabetes team if pre-existing retinopathy.
+ Oral semaglutide is taken on an empty stomach with a small glass of water avoiding food, drink and other oral medicines for 30mins.
+ Adherence to oral administration instructions is important for efficacy, therefore offer injectable therapy if the patient is unable to comply.
+ If glycaemic targets have not been met on oral semaglutide an injectable GLP-1 agonist is likely to be a more effective alternative.
+ If   adherence to oral therapy   is   optimal  and  glycaemic   targets   are almost reached,   then consider   either injectable   semaglutide  or  dulaglutide , otherwise   seek specialist advice   for consideration to starting   tirzepatide .  
+ Prescribers should note that the effect of switching between oral and subcutaneous semaglutide cannot easily be predicted because of high pharmacokinetic variability of oral semaglutide . Clinical effectiveness should be considered when making switching decisions between formulations. Refer to product literature for more information, seek advice from secondary care if no prior experience.
+ Semaglutide injection is administered once weekly, at any time of the day, with or without meals. The day of weekly administration can be changed if necessary. If the dose is more than 5 days late, the missed dose should not be taken and the next dose should be administered at the normal time.
+ Semaglutide is first choice glucagon-like peptide (GLP-1) agonist weekly injection on account of the preferable cardiac profile. Dulaglutide , however, employs a simple injection pen, the use of which can be taught remotely and it may therefore be preferred for this reason.
+ Dulaglutide is administered once weekly. The injection device is considered to be superior in that the needle is preloaded and hidden. The needle retracts after administration. This may make it a more appropriate choice for district nurse administration, people with a needle phobia or significant dexterity issues.
+ Gastric emptying may be delayed, therefore the rate and extent of absorption of other oral drugs administered at the same time may be affected. For oral drugs that require threshold concentrations for efficacy, patients should take these medicines at least one hour before.
+ Patients should be reviewed at 6 months and only continue therapy in those with a ≥5 mmol/mol reduction in HbAlc and/or ≥3% reduction in body weight.
+ Upper gastro-intestinal side effects are common with incretin mimetics. Acute pancreatitis has been associated with GLP-1 agonists, patients should be informed of the warning signs to look for.
+ There is an increased risk of hypoglycaemia when GLP-1 agonists are combined with a sulfonylurea.
+ Tirzepatide is long-acting dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon like peptide-1 (GLP-1) receptor agonist, and first in its class.
+ History Notes
+ 26/02/2026 
+ Prescribing information updated, ERFC January 2026.
+ 12/01/2026 
+ Prescribing information updated, ERFC Jan 2026 
+ 26/09/2024 
+ Addition of tirzepatide SMC2633, and update to prescribing information ERWG September 2024.
+ 13/11/2023 
+ Listing semaglutide solution for injection pre-filled disposable device formulations by brand (Ozempic).
+ 13/07/2023 
+ Addition of links for GLP-1 agonist supply shortage, ERWG July 23.
+ View all 
+ [Adult prescribing recommendations] 
+ 4th line medicines treatment
+ [First choice recommendation(s)] 
+ If the patient is not reaching target after 3-6 months, review adherence. Sulfonylureas. Gliclazide (assuming not already started at step 1). See prescribing notes.
+ Gliclazide 
+ Show external links for Gliclazide 
+ Gliclazide 80mg tablets 
+ Dose 
+ Initially 40-80mg daily with breakfast, adjusted according to response. Doses above 160mg daily should be divided. Max 320mg daily.
+ Dipeptidyl peptidase-4-inhibitor (DPP4 inhibitor). See prescribing notes.
+ Sitagliptin 
+ Show external links for Sitagliptin 
+ Sitagliptin 25mg tablets 
+ Dose 
+ 100mg once daily in normal renal function or if eGFR>45mL/min; 50mg once daily if eGFR>30mL/min to 45mL/min);and 25mg once daily if eGFR<30mL/min.
+ Sitagliptin 50mg tablets 
+ Dose 
+ 100mg once daily in normal renal function or if eGFR>45mL/min; 50mg once daily if eGFR>30mL/min to 45mL/min);and 25mg once daily if eGFR<30mL/min.
+ Sitagliptin 100mg tablets 
+ Dose 
+ 100mg once daily in normal renal function or if eGFR>45mL/min; 50mg once daily if eGFR>30mL/min to 45mL/min);and 25mg once daily if eGFR<30mL/min.
+ Glitazone (thiazolidinedione). See prescribing notes.
+ Pioglitazone 
+ Show external links for Pioglitazone 
+ Pioglitazone 15mg tablets 
+ Dose 
+ Initially 15-30mg once daily, increased to 45mg once daily according to response.
+ Pioglitazone 30mg tablets 
+ Dose 
+ Initially 15-30mg once daily, increased to 45mg once daily according to response.
+ Pioglitazone 45mg tablets 
+ Dose 
+ Initially 15-30mg once daily, increased to 45mg once daily according to response.
+ Prescribing Notes:
+ Consider seeking advice or a referral to secondary care if patient has suboptimal glycaemic control despite maximum tolerated oral therapy. Then guided by patient profile, add additional agent(s) from 4th line options.
+ Sulfonylureas - gliclazide 
+ Gliclazide is a potent anti-diabetic agent that stimulates endogenous insulin production. It is associated with weight gain and hypoglycaemia; it is not associated with a reduction in cardiovascular disease. It remains very useful in the following situations:
+ individuals with BMI <25kg/m 2 (providing type 1 diabetes has been excluded)
+ significant hyperglycaemia at the time of diagnosis of T2D (providing type 1 diabetes has been excluded)
+ steroid-induced diabetes or where pre-existing diabetes worsened by steroids
+ individuals with significant liver or kidney disease
+ certain rare genetic forms of diabetes
+ Sulfonylureas should be taken before meals.
+ Patients should be informed that sulfonylureas can cause hypoglycaemia. The risk of hypoglycaemia increases with age.
+ Dipeptidyl-peptidase 4 (DPP4) or ‘Gliptins’ - sitagliptin 
+ Gliptins are weak anti-diabetic agents. They are weight neutral and do not reduce cardiovascular disease. They have a low side effect profile and do not cause hypoglycaemia; therefore, sitagliptin has a place in the management of frail individuals, where a modest reduction in hyperglycaemia may improve osmotic symptoms. Sitagliptin may be useful for individuals with contra-indications to multiple anti-diabetic agents.
+ There are five DPP-4 inhibitors available, they differ in which of their licensed indications are approved for use by the Scottish Medicines Consortium.
+ Sitagliptin is approved for use:
+ in combination with metformin, where the addition of a sulfonylurea is not appropriate
+ in combination with a sulfonylurea, where the addition of metformin is not appropriate
+ in combination with metformin and a sulfonylurea
+ as monotherapy, where metformin or a sulfonylurea are not appropriate.
+ in combination with insulin (with or without metformin).
+ DPP-4 inhibitors have been shown to reduce HbAlc levels, but there is no data on morbidity, mortality or long-term adverse effects.
+ DPP-4 inhibitors are considered to be weight neutral.
+ There have been reports of acute pancreatitis associated with DPP-4 inhibitors. Patients should be informed of the characteristic symptoms of pancreatitis – persistent, severe abdominal pain (sometimes radiating to the back) – and encouraged to inform their healthcare professional if they experience these symptoms. If pancreatitis is suspected, the DPP-4 inhibitor and other potentially suspect medicines should be discontinued.
+   Thiazolidinediones or ‘Glitazones’ - pioglitazone 
+ Pioglitazone is reserved for individuals with contra-indications or intolerance to multiple anti-diabetic agents and where insulin therapy is not desirable. Pioglitazone is preferred in insulin resistant younger patients. i.e. younger overweight or obese patients.
+ Pioglitazone can cause significant weight gain and fluid retention. It must not be used in patients with heart failure or history of heart failure. Macular oedema has also been associated with its use.
+ Pioglitazone should not be used in patients with current or a history of bladder cancer or in patients with uninvestigated macroscopic haematuria. Use with caution in patients with other cardiovascular disease, in the elderly and those on insulin.
+ Due to a reduction in bone mineral density in post-menopausal women with a subsequent increase in fracture risk, pioglitazone should be avoided in elderly women with high fracture risk, irrespective of cardiovascular risk.
+ Liver function should be checked before initiating pioglitazone and periodically thereafter based on clinical judgement. It should not be initiated in anyone with ALT >2.5 times the upper limit of normal or with other evidence of liver disease.
+ The balance of risks and benefits should be considered both before initiating and during treatment. Prescribers should review patients after three to six months (and regularly thereafter) to ensure only patients who are benefiting from treatment continue.
+ Pioglitazone can be used in combination with insulin in patients with type 2 diabetes mellitus, who have insufficient glycaemic control on insulin, in whom metformin is inappropriate because of contraindications or intolerance.
+ There is an increased risk of hypoglycaemia when pioglitazone is combined with a sulfonylurea.
+ History Notes
+ 16/02/2022 
+ East Region Formulary content agreed.
+ [Adult prescribing recommendations] 
+ Insulin treatment in type 2 diabetes
+ [First choice recommendation(s)] 
+ See prescribing notes. Intermediate acting insulin (Insulatard or Humulin I) taken at the same time every day.
+ Insulin isophane human 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Insulin isophane human 
+ Insulatard 100units/ml suspension for injection 10ml vials 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ Humulin I 100units/ml suspension for injection 3ml cartridges 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ [Second choice recommendation(s)] 
+ See prescribing notes. Long acting insulin (taken at the same time every day). Insulin Glargine is available as different branded products. It is important that these are prescribed by brand name to ensure the patient receives the intended product. Current formulary product choices are Lantus, Abasaglar or Toujeo.
+ Insulin glargine 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Insulin glargine 
+ Lantus 100units/ml solution for injection 10ml vials 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ Lantus 100units/ml solution for injection 3ml cartridges 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ Abasaglar 100units/ml solution for injection 3ml cartridges 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ Abasaglar KwikPen 100units/ml solution for injection 3ml pre-filled pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ Toujeo 300units/ml solution for injection 1.5ml pre-filled SoloStar pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient. The dose should be administered once daily at any time but at the same time each day.
+ See prescribing notes. Insulin degludec (Tresiba).
+ Insulin degludec 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Insulin degludec 
+ Tresiba Penfill 100units/ml solution for injection 3ml cartridges 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ See prescribing notes. Insulin degludec + Liraglutide (Xultophy).
+ Insulin degludec + Liraglutide 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Insulin degludec + Liraglutide 
+ Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens 
+ Dose 
+ Dosing is individual and determined in accordance with the needs of the patient.
+ Prescribing Notes:
+ Addition of insulin for patients with type two diabetes should be undertaken by a specialist. Consider referring patient for advice and treatment by secondary care. 
+ Refer/seek advice from secondary care if patient has suboptimal glycaemic control despite maximum tolerated oral therapy. Then guided by patient profile, add insulin.
+ Choice depends on the particular needs of the individual patient, taking into account lifestyle, age, preference and capabilities. Patients should not be changed from the insulin that they are currently receiving without advice from a specialist or a clinician with the appropriate skills and expertise.
+ Type of insulin, device and needle gauge and length should be specified. Care should be taken to write the brand name in full to avoid errors such as, for example, administration of Humalog in place of Humalog Mix25 or Humalog Mix50. In order to avoid dosing errors, when writing prescriptions for insulin the dose should always be written as ‘units’. Abbreviations such as ‘U’ or ‘IU’ should be avoided.
+ Insulin is available in 3ml cartridges, 10ml vials, 3ml disposable pens. Not all insulin cartridges fit all pens, see Diabetes UK Meds + Kit information.
+ Remind patients to rotate injection sites within the same body region. Cutaneous amyloidosis at the injection site has been reported in patients using insulin and this may affect glycaemic control. For further advice, see MHRA Drug Safety Update September 2020 .
+ Insulin should not be withdrawn from cartridges/penfills for administration. Insulin should be administered from 10ml vial, prefilled pen or from cartridge-loaded pen as appropriate for individual patients.
+ History Notes
+ 02/04/2026 
+ Prescribing information updated.
+ 10/09/2025 
+ Updated prescribing information, ERWG Aug 25 
+ 05/08/2025 
+ Prescribing information updated, ERWG July 25
+ 26/09/2024 
+ Addition of link to MSAN (2023)09 Tresiba (insulin degludec) FlexTouch 100units/ml solution for injection 3ml pre-filled pens
+ 04/07/2024 
+ InnoLet products discontinued, ERWG May 2024.
+ View all 
+ [Child prescribing recommendations] 
+ Type 2 diabetes in children – specialist management
+ [First choice recommendation(s)] 
+ Metformin oral solution should be reserved for patients who are unable to swallow tablets.
+ Metformin 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Metformin 
+ Metformin 500mg tablets 
+ Dose 
+ Refer to BNFc and follow specialist advice.
+ Metformin 850mg tablets 
+ Dose 
+ Refer to BNFc and follow specialist advice.
+ Metformin 500mg/5ml oral solution sugar free 
+ Dose 
+ Refer to BNFc and follow specialist advice.
+ [Second choice recommendation(s)] 
+ Glucagon like peptide 1 receptor agonist (GLP-1 agonist) or Incretin mimetic can be initiated alongside two oral anti-diabetic drugs as triple therapy.
+ Dulaglutide 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Dulaglutide 
+ Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices 
+ Dose 
+ Refer to BNFc and follow specialist advice.
+ [Third choice recommendation(s)] 
+ SGLT-2 inhibitors can be used as monotherapy when metformin is contraindicated or not tolerated and a sulphonylurea is not appropriate. Alternatively, SGLT-2 inhibitors can be added alongside another oral anti-diabetic.as dual therapy.
+ Dapagliflozin 
+ [Specialist Initiation: may be continued in a primary care setting] 
+ Show external links for Dapagliflozin 
+ Dapagliflozin 10mg tablets 
+ Dose 
+ Refer to product literature and follow specialist advice.
+ Prescribing Notes:
+ General prescribing notes 
+ Seek specialist advice for the management of type 2 diabetes in children.
+ Patients with type 2 diabetes who cannot be managed on metformin and/or sulphonylureas will be discussed with adult diabetes services.
+ Individuals with type 2 diabetes may require treatment with insulin, in combination with oral agents.
+ Seeking advice or refer to secondary care if patient has suboptimal glycaemic control despite maximum tolerated oral therapy.
+ Seek specialist advice for the management of type 2 diabetes and MODY (Maturity Onset Diabetes of the Young) in children. Further information can be found on the Diabetes Genes website.
+ BMI and treatment choice 
+ Metformin is the first-choice oral agent for children with type 2 diabetes. Metformin is the first-choice oral hypoglycaemic drug for people with BMI * greater than 25kg/m 2 presenting with ‘typical’ type 2 diabetes [ * a lower BMI cut-off of 23kg/m 2 may be more appropriate for members of minority ethnic groups known to be at equivalent risk of the consequences of obesity at a lower BMI than the white population].
+ If BMI * is less than 25kg/m 2 reconsider if the diagnosis of type 2 diabetes is correct. Seek advice from secondary care if there is uncertainty about the cause of diabetes.
+ Provided that type 1 diabetes has been excluded. Treatment options for type 2 diabetes in people with a BMI * less than 25kg/m 2 include oral gliclazide or subcutaneous insulin. Refer to the Diabetes Type 1 insulin pathways for product choice.
+ Biguanides - metformin 
+ Metformin is proven to improve survival. It does not need to be limited to overweight patients.
+ Metformin may cause gastro-intestinal adverse effects; it should be started at low dose and taken with or after meals, and the dose gradually increased if tolerated. Hypoglycaemia is not a problem with metformin monotherapy.
+ Metformin modified release tablets may be helpful in patients who are unable to tolerate immediate release metformin.
+ Metformin oral solution should be restricted to patients unable to swallow tablets.
+ Due to the rare but serious risk of lactic acidosis, metformin must be avoided in patients with: significant renal impairment; alcoholism with previous pancreatitis; severe cardiac/respiratory disease producing tissue hypoxia; severe liver disease with potential for hepatic failure. Sick day rules apply to metformin. Supply the patient with appropriate advice.
+ A lactic acid crisis may occur in patients with underlying moderate renal impairment when the patient develops what would have been a trivial illness (such as diarrhoea and vomiting) which compromises renal function and causes acute renal failure. This is compounded if the patient is also taking diuretics and/or ACE inhibitors in combination with metformin. Unlike acute illnesses in type 1 diabetes (where insulin treatment MUST be continued) stopping the drugs for a day or two will NOT cause any immediate problem for the patient and will protect renal function until the patient improves. Blood glucose estimation should be used to assess any glycaemic deterioration. In circumstances where renal impairment is suspected, NSAIDs should NOT be used as they can further compromise renal function.
+ SGLT-2 Inhibitors – Dapagliflozin 
+ SGLT-2 inhibitors (dapagliflozin) can be used as monotherapy when metformin is contraindicated or not tolerated and a sulphonylurea is not appropriate.
+ Sodium-glucose co-transporter 2 (SGLT2) inhibitors reversibly inhibit sodium-glucose co-transporter 2 in the kidneys to reduce glucose reabsorption and increase glucose excretion.
+ Risk of euglycaemic ketoacidosis with SGLT2 inhibitors; provide clear guidance to stop treatment if intercurrent dehydrating illness. A 'sick day' guidance leaflet for patients is available. For more information health care professionals should refer to SGLT2 inhibitors: updated advice on the risk of diabetic ketoacidosis - GOV.UK .
+ Patients on SGLT2 inhibitors should be given advice on genitourinary infections.
+ The glucose lowering efficacy of dapagliflozin is dependent on renal function and is reduced in patients with moderate renal impairment and is likely absent in patients with severe renal impairment. Therefore, if renal function is impaired seek specialist advice with consideration to the addition of alternative anti-diabetic agents for glucose lowering treatment.
+ SGLT2 inhibitors should be used with caution in patients with a past history of recurrent genito-urinary tract infection.
+ SGLT-2 inhibitors are to be used with caution in peripheral vascular conditions and those at risk of acute kidney injury due to increased risk of volume depletion. Caution must be exercised when using loop diuretics concomitantly.
+ SGLT2 inhibitor treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses and ketone levels measured, preferably in blood rather than urine. Treatment may be restarted when the ketone values are normal and the patient's condition has stabilised. For more information health care professionals should refer to SGLT2 inhibitors: monitor ketones in blood during treatment interruption for surgical procedures or acute serious medical illness - GOV.UK 
+ Glucagon like peptide 1 receptor agonist (GLP-1 agonist) or Incretin mimetic 
+ GLP-1 agonists are approved for use in combination with other antidiabetic medicines. They are not approved for use as monotherapy.
+ Concomitant insulin or sulfonylureas may require dose reduction with GLP-1 agonist. Patients being started on GLP-1 agonists must have their gliptins stopped on commencement of the GLP-1.
+ GLP-1 agonists are associated with gastro-intestinal side-effects; use with caution if previous pancreatitis.
+ Dulaglutide is administered once weekly.
+ Gastric emptying may be delayed, therefore the rate and extent of absorption of other oral drugs administered at the same time may be affected. For oral drugs that require threshold concentrations for efficacy, patients should take these medicines at least one hour before.
+ Patients should be reviewed at 6 months and only continue therapy in those with a ≥5 mmol/mol reduction in HbAlc and/or ≥3% reduction in body weight.
+ Upper gastro-intestinal side effects are common with incretin mimetics. Acute pancreatitis has been associated with GLP-1 agonists, patients should be informed of the warning signs to look for.
+ There is an increased risk of hypoglycaemia when GLP-1 agonists are combined with a sulfonylurea.
+ History Notes
+ 09/09/2026 
+ Dulaglutide - supply shortage resolved, prescribing notes updated.
+ 02/06/2025 
+ Updates to prescribing information, ERWG May 2025
+ 29/02/2024 
+ East Region Formulary content agreed.
+ View all 
+ [Child prescribing recommendations] 
+ Insulin treatment in type 2 diabetes
+ Prescribing Notes:
+ Insulin choices in Type 2 Diabetes align with those in the Type 1 diabetes pathways .
+ History Notes
+ 29/02/2024 
+ East Region Formulary content agreed.
+ [Set a preference for whether to show medicine formulations within each pathway] Show medicine formulations by default 
+ East Region Formulary
+ Help and Support 
+ Updates 
+ Shared care of medicines 
+ Privacy and cookies 
+ Terms and conditions 
+ ContactUs 
+ © Copyright 
+ Key to pathway icons:
+ Adult recommendations
+ Child recommendations
+ Pharmacy First recommendations
+ [img: Healthier Scotland] 
+ [img: NHS Scotland] 
+ Close Utility 
+ Scottish Formulary 
+ Therapeutic Areas 
+ Conditions A-Z 
+ Medicines A-Z 
+ Medicine Categories 
+ /east/formulary-decisions/ 
+ Shared care of medicines 
+ 

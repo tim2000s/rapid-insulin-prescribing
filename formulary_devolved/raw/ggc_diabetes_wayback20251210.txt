@@ -1,0 +1,631 @@
+
+ GGC Medicines: Drugs used in diabetes 
+ GGC Formulary 
+ 1. Gastro-intestinal system 
+ 1.1. Dyspepsia and gastro-oesophageal reflux disease 
+ 1.2. Antispasmodics and other drugs altering gut motility 
+ 1.3. Antisecretory drugs and mucosal protectants 
+ 1.4. Acute diarrhoea 
+ 1.5. Chronic bowel disorders 
+ 1.6. Laxatives 
+ 1.7. Local preparations for anal and rectal disorders 
+ 1.8. Stoma care 
+ 1.9. Drugs affecting intestinal secretions 
+ 1.10. Helicobacter pylori infection 
+ 2. Cardiovascular system 
+ 2.1. Positive inotropic drugs 
+ 2.2. Diuretics 
+ 2.3. Anti-arrhythmic drugs 
+ 2.4. Beta-adrenoceptor blocking drugs 
+ 2.5. Hypertension and heart failure 
+ 2.6. Nitrates, calcium-channel blockers and other antianginal drugs 
+ 2.7. Sympathomimetics 
+ 2.8. Anticoagulants and protamine 
+ 2.9. Antiplatelet drugs 
+ 2.10. Stable angina, acute coronary syndromes and fibrinolysis 
+ 2.11. Antifibrinolytic drugs and haemostatics 
+ 2.12. Lipid-modifying drugs 
+ 2.13. Local sclerosants 
+ 3. Respiratory system 
+ 3.1. Bronchodilators 
+ 3.2. Corticosteroids 
+ 3.3. Cromoglicate and related therapy, leukotriene receptor antagonists, and phosphodiesterase type-4 inh 
+ 3.4. Antihistamines, hyposensitisation, and allergic emergencies 
+ 3.5. Respiratory stimulants and pulmonary surfactants 
+ 3.6. Oxygen 
+ 3.7. Mucolytics 
+ 3.8. Aromatic inhalations 
+ 3.9. Cough preparations 
+ 3.10. Systemic nasal decongestants 
+ 3.11. Antifibrotics 
+ 3.12. Cystic fibrosis transmembrane conductance regulator (CFTR) modulator therapies 
+ 4. Central nervous system 
+ 4.1. Hypnotics and anxiolytics 
+ 4.2. Drugs used in psychoses and related disorders 
+ 4.3. Antidepressant drugs 
+ 4.4. CNS stimulants and drugs used for attention deficit hyperactivity disorder 
+ 4.5. Drugs used in the treatment of obesity 
+ 4.6. Drugs used in nausea and vertigo 
+ 4.7. Analgesics 
+ 4.8. Antiepileptic drugs 
+ 4.9. Drugs used in parkinsonism and related disorders 
+ 4.10. Drugs used in substance dependence 
+ 4.11. Drugs for dementia 
+ 5. Infections 
+ 5.1. Antibacterial drugs 
+ 5.2. Antifungal drugs 
+ 5.3. Antiviral drugs 
+ 5.4. Antiprotozoal drugs 
+ 5.5. Anthelmintics 
+ 5.6. COVID-19 infection 
+ 6. Endocrine system 
+ 6.1. Drugs used in diabetes 
+ 6.2. Thyroid and antithyroid drugs 
+ 6.3. Corticosteroids 
+ 6.4. Sex hormones 
+ 6.5. Hypothalamic and pituitary hormones and anti-oestrogens 
+ 6.6. Drugs affecting bone metabolism 
+ 6.7. Other endocrine drugs 
+ 7. Obstetrics, gynaecology, renal and urinary-tract disorders 
+ 7.1. Drugs used in obstetrics 
+ 7.2. Treatment of vaginal and vulval conditions 
+ 7.3. Contraceptives 
+ 7.4. Drugs for genito-urinary disorders 
+ 7.5. Drugs used in Chronic Kidney Disease 
+ 8. Malignant disease and immunosuppression 
+ 8.1. Cytotoxic drugs 
+ 8.2. Drugs affecting the immune response 
+ 8.3. Sex hormones and hormone antagonists in malignant disease 
+ 8.4. Drugs for cytotoxic-induced side effects 
+ 9. Nutrition and blood 
+ 9.1. Anaemias and some other blood disorders 
+ 9.2. Fluids and electrolytes 
+ 9.3. Intravenous nutrition 
+ 9.4. Oral nutrition 
+ 9.5. Minerals 
+ 9.6. Vitamins 
+ 9.7. Bitters and tonics 
+ 9.8. Metabolic disorders 
+ 10. Musculoskeletal and joint diseases 
+ 10.1. Drugs used in rheumatic diseases and gout 
+ 10.2. Drugs used in neuromuscular disorders 
+ 10.3. Drugs for the relief of soft-tissue inflammation and topical pain relief 
+ 11. Eye 
+ 11.1. Administration of drugs to the eye 
+ 11.2. Control of microbial contamination 
+ 11.3. Anti-infective eye preparations 
+ 11.4. Corticosteroids and other anti-inflammatory preparations 
+ 11.5. Mydriatics and cycloplegics 
+ 11.6. Treatment of glaucoma 
+ 11.7. Local anaesthetics 
+ 11.8. Miscellaneous ophthalmic preparations 
+ 11.9. Contact lenses 
+ 12. Ear, nose and oropharynx 
+ 12.1. Drugs acting on the ear 
+ 12.2. Drugs acting on the nose 
+ 12.3. Drugs acting on the oropharynx 
+ 13. Skin 
+ 13.2. Emollient and barrier preparations 
+ 13.3. Local anaesthetics and antipruritics 
+ 13.4. Topical corticosteroids 
+ 13.5. Preparations for eczema and psoriasis 
+ 13.6. Acne and rosacea 
+ 13.7. Preparations for warts and calluses 
+ 13.8. Sunscreens, camouflagers and photodamage 
+ 13.9. Shampoos and other preparations for scalp and hair conditions 
+ 13.10. Anti-infective skin preparations 
+ 13.11. Skin cleansers, antiseptics, and preparations for promotion of wound healing 
+ 13.12. Antiperspirants 
+ 14. Immunological products and vaccines 
+ 14.5. Immunoglobulins 
+ 14.4. Vaccines and antisera 
+ 15. Anaesthesia 
+ 15.1. General anaesthesia 
+ 15.2. Local anaesthesia 
+ 16. Treatment of poisoning 
+ 16.1. Removal and elimination 
+ 16.2. Specific antidotes 
+ Latest Formulary Decisions 
+ Medicines Update Blogs 
+ Latest Updates 
+ Medicines Update 
+ Medicines Update Extra 
+ Adult Therapeutics Handbook 
+ Clinical Guidelines 
+ COVID-19 (Coronavirus) 
+ Medicines Policies 
+ Other Formularies 
+ Paediatric Formulary 
+ Pharmacy First 
+ Non- medicines Formularies 
+ Unscheduled Care Formulary 
+ PACS, IPTR and ULM 
+ Patient Information 
+ Access to Medicines 
+ Direct Oral Anticoagulants 
+ Epilepsy 
+ Gluten-Free (Patients) 
+ Vitamin D 
+ Unlicensed or off-label medicines 
+ Medicinal Cannabis 
+ Prescribing Resources 
+ Shared Care Agreements 
+ Supply Problems (StaffNet) 
+ Contact Us 
+ CMOP 
+ CMOP Homepage 
+ Publications 
+ Meet the Team 
+ Contact Us 
+ Get Involved 
+ NHS Greater Glasgow and Clyde Area Drug and Therapeutics Committee
+ Greater Glasgow and Clyde Medicines
+ [img: Greater Glasgow and Clyde Medicines] 
+ [img: Greater Glasgow and Clyde Medicines] 
+ GGC Formulary 
+ 1. Gastro-intestinal system 
+ 1.1. Dyspepsia and gastro-oesophageal reflux disease 
+ 1.2. Antispasmodics and other drugs altering gut motility 
+ 1.3. Antisecretory drugs and mucosal protectants 
+ 1.4. Acute diarrhoea 
+ 1.5. Chronic bowel disorders 
+ 1.6. Laxatives 
+ 1.7. Local preparations for anal and rectal disorders 
+ 1.8. Stoma care 
+ 1.9. Drugs affecting intestinal secretions 
+ 1.10. Helicobacter pylori infection 
+ 2. Cardiovascular system 
+ 2.1. Positive inotropic drugs 
+ 2.2. Diuretics 
+ 2.3. Anti-arrhythmic drugs 
+ 2.4. Beta-adrenoceptor blocking drugs 
+ 2.5. Hypertension and heart failure 
+ 2.6. Nitrates, calcium-channel blockers and other antianginal drugs 
+ 2.7. Sympathomimetics 
+ 2.8. Anticoagulants and protamine 
+ 2.9. Antiplatelet drugs 
+ 2.10. Stable angina, acute coronary syndromes and fibrinolysis 
+ 2.11. Antifibrinolytic drugs and haemostatics 
+ 2.12. Lipid-modifying drugs 
+ 2.13. Local sclerosants 
+ 3. Respiratory system 
+ 3.1. Bronchodilators 
+ 3.2. Corticosteroids 
+ 3.3. Cromoglicate and related therapy, leukotriene receptor antagonists, and phosphodiesterase type-4 inh 
+ 3.4. Antihistamines, hyposensitisation, and allergic emergencies 
+ 3.5. Respiratory stimulants and pulmonary surfactants 
+ 3.6. Oxygen 
+ 3.7. Mucolytics 
+ 3.8. Aromatic inhalations 
+ 3.9. Cough preparations 
+ 3.10. Systemic nasal decongestants 
+ 3.11. Antifibrotics 
+ 3.12. Cystic fibrosis transmembrane conductance regulator (CFTR) modulator therapies 
+ 4. Central nervous system 
+ 4.1. Hypnotics and anxiolytics 
+ 4.2. Drugs used in psychoses and related disorders 
+ 4.3. Antidepressant drugs 
+ 4.4. CNS stimulants and drugs used for attention deficit hyperactivity disorder 
+ 4.5. Drugs used in the treatment of obesity 
+ 4.6. Drugs used in nausea and vertigo 
+ 4.7. Analgesics 
+ 4.8. Antiepileptic drugs 
+ 4.9. Drugs used in parkinsonism and related disorders 
+ 4.10. Drugs used in substance dependence 
+ 4.11. Drugs for dementia 
+ 5. Infections 
+ 5.1. Antibacterial drugs 
+ 5.2. Antifungal drugs 
+ 5.3. Antiviral drugs 
+ 5.4. Antiprotozoal drugs 
+ 5.5. Anthelmintics 
+ 5.6. COVID-19 infection 
+ 6. Endocrine system 
+ 6.1. Drugs used in diabetes 
+ 6.2. Thyroid and antithyroid drugs 
+ 6.3. Corticosteroids 
+ 6.4. Sex hormones 
+ 6.5. Hypothalamic and pituitary hormones and anti-oestrogens 
+ 6.6. Drugs affecting bone metabolism 
+ 6.7. Other endocrine drugs 
+ 7. Obstetrics, gynaecology, renal and urinary-tract disorders 
+ 7.1. Drugs used in obstetrics 
+ 7.2. Treatment of vaginal and vulval conditions 
+ 7.3. Contraceptives 
+ 7.4. Drugs for genito-urinary disorders 
+ 7.5. Drugs used in Chronic Kidney Disease 
+ 8. Malignant disease and immunosuppression 
+ 8.1. Cytotoxic drugs 
+ 8.2. Drugs affecting the immune response 
+ 8.3. Sex hormones and hormone antagonists in malignant disease 
+ 8.4. Drugs for cytotoxic-induced side effects 
+ 9. Nutrition and blood 
+ 9.1. Anaemias and some other blood disorders 
+ 9.2. Fluids and electrolytes 
+ 9.3. Intravenous nutrition 
+ 9.4. Oral nutrition 
+ 9.5. Minerals 
+ 9.6. Vitamins 
+ 9.7. Bitters and tonics 
+ 9.8. Metabolic disorders 
+ 10. Musculoskeletal and joint diseases 
+ 10.1. Drugs used in rheumatic diseases and gout 
+ 10.2. Drugs used in neuromuscular disorders 
+ 10.3. Drugs for the relief of soft-tissue inflammation and topical pain relief 
+ 11. Eye 
+ 11.1. Administration of drugs to the eye 
+ 11.2. Control of microbial contamination 
+ 11.3. Anti-infective eye preparations 
+ 11.4. Corticosteroids and other anti-inflammatory preparations 
+ 11.5. Mydriatics and cycloplegics 
+ 11.6. Treatment of glaucoma 
+ 11.7. Local anaesthetics 
+ 11.8. Miscellaneous ophthalmic preparations 
+ 11.9. Contact lenses 
+ 12. Ear, nose and oropharynx 
+ 12.1. Drugs acting on the ear 
+ 12.2. Drugs acting on the nose 
+ 12.3. Drugs acting on the oropharynx 
+ 13. Skin 
+ 13.2. Emollient and barrier preparations 
+ 13.3. Local anaesthetics and antipruritics 
+ 13.4. Topical corticosteroids 
+ 13.5. Preparations for eczema and psoriasis 
+ 13.6. Acne and rosacea 
+ 13.7. Preparations for warts and calluses 
+ 13.8. Sunscreens, camouflagers and photodamage 
+ 13.9. Shampoos and other preparations for scalp and hair conditions 
+ 13.10. Anti-infective skin preparations 
+ 13.11. Skin cleansers, antiseptics, and preparations for promotion of wound healing 
+ 13.12. Antiperspirants 
+ 14. Immunological products and vaccines 
+ 14.5. Immunoglobulins 
+ 14.4. Vaccines and antisera 
+ 15. Anaesthesia 
+ 15.1. General anaesthesia 
+ 15.2. Local anaesthesia 
+ 16. Treatment of poisoning 
+ 16.1. Removal and elimination 
+ 16.2. Specific antidotes 
+ Latest Formulary Decisions 
+ Medicines Update Blogs 
+ Latest Updates 
+ Medicines Update 
+ Medicines Update Extra 
+ Adult Therapeutics Handbook 
+ Clinical Guidelines 
+ COVID-19 (Coronavirus) 
+ Medicines Policies 
+ Other Formularies 
+ Paediatric Formulary 
+ Pharmacy First 
+ Non- medicines Formularies 
+ Unscheduled Care Formulary 
+ PACS, IPTR and ULM 
+ Patient Information 
+ Access to Medicines 
+ Direct Oral Anticoagulants 
+ Epilepsy 
+ Gluten-Free (Patients) 
+ Vitamin D 
+ Unlicensed or off-label medicines 
+ Medicinal Cannabis 
+ Prescribing Resources 
+ Shared Care Agreements 
+ Supply Problems (StaffNet) 
+ Contact Us 
+ CMOP 
+ CMOP Homepage 
+ Publications 
+ Meet the Team 
+ Contact Us 
+ Get Involved 
+ Go 
+ Go 
+ Key to symbols
+ [img: The medicine should be initiated by, or on the advice of a specialist, but is suitable for continuation by a GP] 
+ [img: The medicine should only be used and prescribed by a specialist] 
+ [img: Indicates the preferred choice within a class or group of medicines] 
+ The medicine should be initiated by, or on the advice of a specialist, but is suitable for continuation by a GP
+ The medicine should only be used and prescribed by a specialist
+ Indicates the preferred choice within a class or group of medicines
+ 6. Endocrine system
+ 6.1. Drugs used in diabetes 
+ 6.1.1. Insulins
+ 6.1.1.1. Short-acting insulins
+ Preferred List
+ INSULIN ASPART 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ Prescribing Notes: Insulin aspart preparations may differ in terms of speed of onset of action and should therefore be prescribed by brand name.
+ Different devices and presentations for administration of the same insulin may differ in cost.  When prescribing for the 1st time, use the most cost-effective device that best meets the patient's needs.
+ BNF Link 
+ INSULIN LISPRO (HUMALOG) (injection) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ Prescribing Notes: Currently, only the 100 units/ml preparations have been considered and added to Formulary. Other strengths are currently non-Formulary 
+ BNF Link 
+ SOLUBLE INSULIN (ACTRAPID, HUMULIN S) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ Total Formulary
+ INSULIN GLULISINE (APIDRA) (injection) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes and for use in patients where regular human soluble insulin is inappropriate.
+ BNF Link 
+ 6.1.1.2. Intermediate- and long-acting insulins
+ Preferred List
+ BIPHASIC ISOPHANE INSULIN (HUMULIN M3) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ BIPHASIC INSULIN ASPART (NOVOMIX 30) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ ISOPHANE INSULIN (HUMULIN I, INSULATARD) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ Total Formulary
+ BIPHASIC INSULIN LISPRO (HUMALOG MIX 25, HUMALOG MIX 50) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ INSULIN DEGLUDEC (TRESIBA) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.  Restricted to use in accordance with local guidance which includes information on preferred alternative options.
+ Prescribing Notes: Note: Insulin degludec is available in two strengths and caution should be taken in prescribing, dispensing and administration to ensure the correct strength is received.
+ BNF Link 
+ INSULIN DETEMIR (LEVEMIR) 
+ Restrictions: Insulin detemir (Levemir®) is restricted to use in adults with severe/ frequent nocturnal hypoglycaemia. Not for routine use in type 2 diabetes unless patients suffers from recurrent episodes of hypoglycaemia.  Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ BNF Link 
+ INSULIN GLARGINE 
+ Restrictions: Restricted to patients with type 1 diabetes who are at risk of or experience unacceptable frequency and/or severity of nocturnal hypoglycaemia on attempting to achieve better hypoglycaemic control during treatment with established insulins. It is also acceptable as a once daily insulin therapy for patients who require carer administration of their insulin. In patients with type 2 diabetes it should be restricted to those who suffer from recurrent episodes of hypoglycemia or require assistance with their insulin injections.
+ Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes.
+ Prescribing Notes: It is good practice to prescribe biosimilar insulins by brand name.   The current preferred brand in NHSGGC is Semglee ® 
+ Please note:  Insulin glargine is available in two strengths and caution should be taken in prescribing, dispensing and administration to ensure the correct strength is received.  
+ Insulin glargine 300 units/ml (Toujeo ® ) is further restricted to use in patients where the use of high-strength insulin is appropriate.
+ BNF Link 
+ 6.1.2. Antidiabetic drugs
+ 6.1.2.1. Biguanides
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Preferred List
+ METFORMIN 
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ METFORMIN (modified-release tablet) 
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.2.2. SGLT2 Inhibitors
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Total Formulary
+ CANAGLIFLOZIN (INVOKANA) 
+ Restrictions: Restricted to use in adults aged 18 years and older with type 2 diabetes mellitus to improve glycaemic control as add-on therapy with other glucose-lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control in the following situations:
+ monotherapy where metformin is contraindicated or not tolerated
+ dual therapy in combination with metformin when a sulfonylurea is inappropriate
+ triple therapy in combination with metformin plus standard of care
+ as an add-on to insulin therapy in combination with insulin plus standard of care.
+ Prescribing Notes: NHSGGC Diabetes Guidelines click here 
+ BNF Link 
+ CANAGLIFLOZIN, METFORMIN (VOKANAMET) 
+ Restrictions: Restricted to the treatment of type 2 diabetes only in adult patients for whom a combination of canagliflozin and metformin is appropriate and who have demonstrated compliance issues with the separate constituents.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ DAPAGLIFLOZIN (FORXIGA) 
+ Restrictions: Type 2 diabetes mellitus: 
+ Restricted to the treatment of type 2 diabetes in adult patients as:
+ Monotherapy in adults for whom use of metformin is contraindicated or not tolerated and when diet and exercise alone do not provide adequate glycaemic control only if a dipeptidyl peptidase-4 (DPP-4) inhibitor would otherwise be prescribed AND a sulfonylurea or pioglitazone is not appropriate
+ Dual therapy in combination with metformin, when metformin alone with diet and exercise does not provide adequate glycaemic control and a sulfonylurea is inappropriate
+ Triple therapy in combination with metformin and sulfonylurea, as an alternative to DPP-4 inhibitor
+ In combination with insulin, when insulin with diet and exercise, does not provide adequate glycaemic control
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ Please click hyperlinks for formulary information on use in chronic heart failure and chronic kidney disease .
+ BNF Link 
+ DAPAGLIFLOZIN, METFORMIN (XIGDUO) 
+ Restrictions: Restricted to use only in adult patients for whom a combination of dapagliflozin and metformin is appropriate and who have demonstrated compliance issues with the separate constituents.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ EMPAGLIFLOZIN (JARDIANCE) 
+ Restrictions: It is restricted to initiation in adult patients:
+ As monotherapy in adults for whom use of metformin is contraindicated or not tolerated and when diet and exercise alone do not provide adequate glycaemic control and only if a DPP-4 inhibitor would otherwise be prescribed and a sulfonylurea or pioglitazone is not appropriate
+ As dual therapy in combination with metformin, when a sulfonylurea is inappropriate
+ As triple therapy in combination with metformin plus standard of care or as add-on to insulin therapy in combination with insulin plus standard of care.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ EMPAGLIFLOZIN, LINAGLIPTIN (GLYXAMBI) 
+ Restrictions: Restricted to the treatment of type 2 diabetes mellitus when metformin and/or a sulfonylurea and one, or both, of the two components do not provide adequate glycaemic control. 
+ Prescribing Notes: NHSGGC Diabetes Guidelines click here 
+ BNF Link 
+ EMPAGLIFLOZIN, METFORMIN (SYNJARDY) 
+ Restrictions: Restricted to use in patients with type 2 diabetes mellitus for whom this fixed dose combination is considered appropriate or for use as dual therapy when a sulfonylurea is inappropriate. Additionally, it is restricted to patients who have demonstrated compliance issues with the separate constituents.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ ERTUGLIFLOZIN (STEGLATRO) 
+ Restrictions: Restricted to use as monotherapy and add-on therapy.  When used as monotherapy, it is restricted to patients who would otherwise receive a dipeptidyl peptidase-4 inhibitor and in whom a sulfonylurea or pioglitazone is not appropriate.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.2.3. Incretin mimetics
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Preferred List
+ DULAGLUTIDE (TRULICITY) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes as part of a triple therapy in patients with inadequate glycaemic control on two oral anti-diabetic drugs.
+ Prescribing Notes: 
+ Dulaglutide is a biological medicine. Biological medicines must be prescribed and dispensed by brand name; the manufacturer advises to record the brand name and batch number after each administration.
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ LIRAGLUTIDE 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes for the following indications:
+ as a third-line antidiabetic agent in combination with metformin and a sulfonylurea or metformin and pioglitazone.
+ in combination with basal insulin, with or without metformin, when this regimen alone, with diet and exercise, does not provide adequate glycaemic control.
+ Prescribing Notes: 
+ Liraglutide is a biological medicine. Biological medicines must be prescribed and dispensed by brand name; the manufacturer advises to record the brand name and batch number after each administration.
+ NHSGGC Diabetes Guidelines   click here 
+ For use in the management of obesity, see section 4.5.2 
+ BNF Link 
+ SEMAGLUTIDE (OZEMPIC) (injection) 
+ Restrictions: Use in the treatment of type 2 diabetes mellitus (T2DM) is restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes for use in addition to other oral anti-diabetic medicines, or as an add-on to basal insulin, as an alternative glucagon-like peptide-1 receptor agonist option.
+ Prescribing Notes: 
+ Semaglutide is a biological medicine. Biological medicines must be prescribed and dispensed by brand name; the manufacturer advises to record the brand name and batch number after each administration.
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ Total Formulary
+ EXENATIDE (Bydureon BCise) 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes in accordance with the prescribing notes below.
+ Prescribing Notes: 
+ Restricted to third line treatment of type-2 diabetes mellitus in combination with other agents.
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ [img: Specialist and GP] 
+ INSULIN DEGLUDEC, LIRAGLUTIDE (XULTOPHY) 
+ Restrictions: Restricted to initiation by Consultant Diabetologists for use in patients who are uncontrolled on basal insulin analogues (glycosylated haemoglobin [HbA1c] >7.5% [59mmol/mol]) and for whom a GLP-1 receptor agonist is appropriate as an add-on intensification therapy to basal insulin to obtain glucose control.
+ Prescribing Notes: 
+ Liraglutide is a biological medicine. Biological medicines must be prescribed and dispensed by brand name; the manufacturer advises to record the brand name and batch number after each administration.
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ SEMAGLUTIDE (Rybelsus) (tablets) 
+ Restrictions: Use in the treatment of type 2 diabetes mellitus (T2DM) is restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes for use in addition to other anti-diabetic medicines, or as an add-on to basal insulin. 
+ Prescribing Notes: 
+ Semaglutide is a biological medicine. Biological medicines must be prescribed and dispensed by brand name; the manufacturer advises to record the brand name and batch number after each administration.
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ TIRZEPATIDE (Mounjaro) 
+ Restrictions: To be used as triple therapy in addition to other oral anti-diabetic medicines as an option when glucagon-like peptide-1 (GLP-1) receptor agonists would be considered.
+ Restricted to initiation by clinicians in primary care or the acute setting who are experienced in the treatment of diabetes.
+ Prescribing Notes: 
+ For the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
+ NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.2.4. Sulfonylureas
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Preferred List
+ GLICLAZIDE (tablets) 
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ Total Formulary
+ GLICLAZIDE MR (modified-release tablets) 
+ Restrictions: Restricted to patients who cannot tolerate immediate-release gliclazide or for whom immediate-release preparations are inappropriate
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.2.5. Thiazolidinediones
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Total Formulary
+ PIOGLITAZONE 
+ Restrictions: Monotherapy is restricted to type 2 diabetes mellitus patients in whom consideration is otherwise being given to commencing insulin therapy. It is not recommended as monotherapy in any other group of patients.
+ Triple therapy (in combination with metformin and a sulfonylurea) in type 2 diabetes is restricted to initiation and monitoring only by physicians experienced in the treatment of diabetes mellitus who will be able to identify and manage patients who might benefit. 
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ PIOGLITAZONE, METFORMIN 
+ Restrictions: Restricted to use in patients who cannot be treated or controlled with a sulfonylurea in combination with metformin.
+ Combination preparations are further restricted to use only in those patients who have demonstrable compliance issues with the separate constituents 
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.2.6. Dipeptidylpeptidase-4 Inhibitors
+ This class of medicines are not considered the most cost-effective choice when used as first-line therapy, and even when used as 2nd or 3rd line, they may only result in a modest reduction of HbA1c. In some situations, alternative therapy, such as insulin or an incretin mimetic may be more appropriate. Stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information.
+ Preferred List
+ [img: Preferred List First Line] 
+ SITAGLIPTIN 
+ Restrictions: Formulary indications are summarised in the Prescribing notes below:
+ Prescribing Notes: Indications and restrictions for use in type 2 diabetes mellitus:
+ Sitagliptin is the preferred DPP4-inhibitor in NHSGGC.
+ Monotherapy is restricted to patients for whom both metformin and sulfonylureas are inappropriate due to contraindications or intolerance. 
+ Combination with a sulfonylurea is restricted to patients in whom metformin is contraindicated or not tolerated. 
+ Combination with both metformin and a sulfonylurea (i.e. triple therapy) is restricted to patients who are inadequately controlled on their respective maximal tolerated doses of metformin and sulfonylurea.
+ Add-on treatment to insulin (with or without metformin).
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ LINAGLIPTIN (TRAJENTA) 
+ Restrictions: Restricted to the treatment of type 2 diabetes mellitus as outlined in the prescribing notes section.
+ Prescribing Notes: Linagliptin is the DPP4 inhibitor of choice where eGFR is <45ml/min or patients have a rapidly declining renal function.
+ Formulary indications are as follows:
+ as monotherapy in patients for whom both metformin and sulfonylureas are inappropriate due to contradictions or intolerance
+ in combination with metformin when diet and exercise plus metformin alone does not provide adequate glycaemic control in patients for whom the addition of a sulfonylurea is inappropriate. 
+ as combination therapy with a sulfonylurea and metformin when diet and exercise plus dual therapy does not provide adequate glycaemic control
+ in combination with insulin, with or without metformin when this regimen alone, with diet and exercise, does not provide adequate glycaemic control
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate.
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ Total Formulary
+ ALOGLIPTIN 
+ Prescribing Notes: 
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd  or 3 rd  line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Type 2 Diabetes Guideline for further information ( link here ).
+ BNF Link 
+ ALOGLIPTIN, METFORMIN 
+ Restrictions: It is restricted to use in patients for whom this fixed dose combination of alogliptin and metformin is an appropriate choice of therapy and only when the addition of a sulfonylurea to metformin monotherapy is not appropriate. Combination preparations are further restricted to use only in those patients who have demonstrable compliance issues with the separate constituents.
+ Prescribing Notes: This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd  or 3 rd  line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Type 2 Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ LINAGLIPTIN, METFORMIN (JENTADUETO) 
+ Restrictions: For restrictions of this combination product please see prescribing notes below.
+ Prescribing Notes: For the treatment of type 2 diabetes mellitus
+ in patients for whom a combination of linagliptin and metformin is an appropriate choice of therapy and these fixed-doses are considered appropriate and where there is demonstrable compliance issues with the separate constituents.
+ in combination with insulin (i.e. triple therapy) as an adjunct to diet and exercise when insulin and metformin alone do not provide adequate glycaemic control. It is restricted to use in patients for whom a combination of linagliptin and metformin is an appropriate choice and these fixed-doses are considered appropriate and where there is demonstrable compliance issues with the separate constituents.
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ SAXAGLIPTIN (ONGLYZA) 
+ Restrictions: For restrictions please see prescribing notes below
+ Prescribing Notes: 
+ Dual therapy: Use in combination with metformin when a sulfonylurea is contraindicated or not tolerated.
+ Triple therapy: In combination with metformin and a sulfonylurea when this regimen alone, with diet and exercise, does not provide adequate glycaemic control is restricted to use in patients who are inadequately controlled on their respective maximal tolerated doses of metformin and sulfonylurea.
+ The use in combination with insulin (with or without metformin), when this regimen alone, with diet and exercise, does not provide adequate glycaemic control.
+ The use as monotherapy is not recommended by SMC and remains non-Formulary
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ SAXAGLIPTIN, DAPAGLIFLOZIN (QTERN) 
+ Restrictions: Restricted to the treatment of type 2 diabetes in adults in combination with metformin when the use of a sulfonylurea is inappropriate.
+ Combination preparations are further restricted to use only in those patients who have demonstrable compliance issues with the separate constituents 
+ Prescribing Notes: NHSGGC Diabetes Guidelines click here 
+ BNF Link 
+ SITAGLIPTIN, METFORMIN 
+ Restrictions: Restricted to use in patients for whom a combination of Sitagliptin and metformin is an appropriate choice of therapy and only when the addition of a sulfonylurea to metformin monotherapy is not appropriate. Combination preparations are further restricted to use only in those patients who have demonstrable compliance issues with the separate constituents.
+ Prescribing Notes: This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ VILDAGLIPTIN 
+ Restrictions: Restricted to the treatment of type 2 diabetes mellitus as outlined in the prescribing notes section
+ Prescribing Notes: Formulary indications are as follows:
+ use as monotherapy is restricted to use in patients for whom both metformin and sulfonylureas are inappropriate due to contraindications or intolerance
+ use in combination with metformin or a sulfonylurea for patients with insufficient glycaemic control despite maximum tolerated dose of monotherapy with metformin or a sulfonylurea.
+ use as triple oral therapy in combination with a sulfonylurea and metformin when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control. It is restricted to use in patients who are inadequately controlled on their respective maximal tolerated doses of metformin and sulphonylurea.
+ All other licensed indications remain non-Formulary.
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ VILDAGLIPTIN, METFORMIN 
+ Restrictions: For restrictions please see prescribing notes below
+ Prescribing Notes: Current Formulary indications are:
+ Restricted to use only when the addition of a sulfonylurea is not appropriate for patients with insufficient glycaemic control despite maximum tolerated dose of monotherapy with metformin.
+ Combination preparations are further restricted to use only in those patients who have demonstrable compliance issues with the separate constituents.
+ All other licensed indications remain non-Formulary.
+ This class of medicines is not considered the most cost-effective choice when used as first-line therapy, and even when used as 2 nd or 3 rd line, they may only result in a modest reduction of HbA1c.  In some situations, alternative therapy, such as insulin or GLP-1 analogue may be more appropriate
+ Patients initiated on gliptin therapy should be reviewed at 6 months and treatment should stop medication if individualised target not achieved AND HbA1c falls less than 0.5% (5.5mmol/mol). Please see the NHSGGC Diabetes Guidelines for further information ( link here ).
+ BNF Link 
+ 6.1.2.7. Other Antidiabetic Drugs
+ Please see the NHSGGC Diabetes Guidelines for further information.
+ Total Formulary
+ ACARBOSE 
+ Restrictions: Restricted to initiation by clinicians, either in primary care or the acute setting, experienced in the treatment of diabetes. Acarbose is restricted to use in patients refractory or intolerant to treatment with metformin.
+ Prescribing Notes: NHSGGC Diabetes Guidelines   click here 
+ BNF Link 
+ 6.1.3. Diabetic ketoacidosis
+ 6.1.4. Treatment of hypoglycaemia
+ Preferred List
+ GLUCOSE 
+ BNF Link 
+ GLUCAGON (GLUCAGEN HYPOKIT) 
+ Prescribing Notes: Used in the treatment of hypoglycaemia (often when patient is unconscious) when oral glucose is not possible.
+ BNF Link 
+ Medicines Update 
+ Paediatric Formulary 
+ Medicinal Cannabis 
+ Paitient Information DOACs 
+ Patient Information: Access to Medicines 
+ Patient Information: Gluten Free 
+ Therapeutics Handbook 
+ Clinical Guidelines 
+ Medicines Policies 
+ Shared Care Agreements 
+ Main NHSGGC Website 
+ Contact Us 
+ ADTC Meetings 
+ ADTC Membership 
+ Formulary Appeals 
+ Non-Formulary Information 
+ Prescribing Resources 
+ [img: Greater Glasgow and Clyde Medicines] 
