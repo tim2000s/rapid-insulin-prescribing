@@ -74,12 +74,21 @@ than particular to Lyumjev:
 | Lyumjev | 57.3 | 42.6 | 0.59 |
 | Apidra | 53.4 | 44.2 | 0.58 |
 
-Withdrawals are almost absent from these data. Every Lyumjev device except one was dispensed in
-July 2026: vials, 3 ml cartridges, KwikPen U100 and U200, and Junior KwikPen. The exception, the
-Lyumjev Tempo Pen, was last dispensed in October 2024 after 91 items in 22 months, never more than 8
-in a month. Across all six brands the only other presentations to stop, or close to it, are the
-Humalog Tempo Pen (289 items since October 2022, one in the last year) and the original Humalog Pen
-(76 items across the window).
+Every Lyumjev device except one was dispensed in July 2026: vials, 3 ml cartridges, KwikPen U100
+and U200, and Junior KwikPen. The exception, the Lyumjev Tempo Pen, was last dispensed in October
+2024 after 91 items in 22 months, never more than 8 in a month.
+
+Fiasp lost its only disposable pen. The Fiasp FlexTouch went out of stock from April 2024 (DHSC
+medicine supply notification MSN/2024/027) and was discontinued in dm+d on 31 December 2025. It was
+36.1% of Fiasp units in January to March 2024 (42,672 items that quarter); its items fell to 12,764
+in July to September 2024 and 315 in July 2026, while Fiasp Penfill cartridge items rose from
+40,762 to about 80,000 a quarter. Fiasp's share of units grew 2.28 percentage points a year from
+April 2022 to March 2024 and 0.94 a year from April 2024 onwards; Lyumjev's growth slowed less,
+from 0.91 to 0.66 (`fiasp_pen.py`). The timing is consistent with the pen's loss slowing Fiasp,
+but these data cannot separate it from other causes. The first version of this document, written
+before the supply notices were found, said no ultra-rapid presentation in wide use had been
+withdrawn; that was wrong, because the check looked only at whether a presentation had stopped
+entirely and not at a fall of this size.
 
 Vials and pump cartridges were 30.4% of Lyumjev units in the last 12 months, against 36.9% for
 NovoRapid and 35.7% for Fiasp. The ultra-rapid share was 19.4% within vials and pump cartridges and
@@ -94,12 +103,12 @@ percentile ICBs and a ninefold spread between the lowest and highest.
 Flat uptake is not supported. The ultra-rapid share nearly tripled over the window and was still
 rising at 1.6 percentage points a year in the last two years, and Lyumjev units grew every year.
 
-The withdrawal claim finds no support in primary care dispensing. The only Lyumjev presentation
-withdrawn is one that almost nobody was dispensed, and the devices most people use are all still
-dispensed. A withdrawal driven by low uptake would be expected to show here as a device with
-material volume falling to zero, and none does. This does not rule out supply problems, since
-stock shortages would show as dips rather than stops and the monthly series above do not separate
-a shortage from a change in prescribing.
+The withdrawal claim is partly supported. Fiasp's only disposable pen, a third of its volume, was
+lost to a supply failure in 2024 and then discontinued, and Fiasp's growth slowed by more than half
+from that point. Nothing in these data shows whether low uptake contributed to the decision; the
+NovoRapid FlexTouch was discontinued in the same period, which suggests a manufacturer's device
+decision covering both products. The only Lyumjev presentation withdrawn, the Tempo Pen, had almost
+no use.
 
 Whether area variation reflects prescriber habit cannot be decided from these data. ICBs differ in
 formulary, in how many people use pumps, and in how much insulin starts in specialist clinics,
