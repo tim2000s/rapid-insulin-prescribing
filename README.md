@@ -1,41 +1,37 @@
 # Rapid-acting insulin prescribing in England
 
-Monthly insulin units dispensed in English primary care over the last five years, for each Lyumjev
-device and for Humalog, NovoRapid and Fiasp. It tests the argument that low and uneven uptake of the
-ultra-rapid insulins (Lyumjev, Fiasp) made withdrawal of some presentations commercially easier, so
-that prescriber habit rather than patient need ends up limiting access. The analysis is built to
-show where the data supports that and where it does not.
-
-This sits apart from the meal investigations in the rest of the repository and shares nothing with
-them. It reads no local database.
+Monthly insulin units dispensed in English primary care from November 2020 to July 2026, for each
+Lyumjev device and for Humalog, NovoRapid, Fiasp, Trurapi and Apidra. It tests the argument that low
+and uneven uptake of the ultra-rapid insulins (Lyumjev, Fiasp) made withdrawal of some
+presentations commercially easier, so that prescriber habit rather than patient need ends up
+limiting access. The analysis is built to show where the data supports that and where it does not.
 
 ## Status
 
-No live data has been pulled yet. The session that wrote this ran in an environment whose network
-policy blocks `openprescribing.net` and `opendata.nhsbsa.net`, so `output/` does not exist and
-there is no `FINDINGS.md`. The pipeline is tested end to end against a synthetic API
-(`test_pipeline.py`) whose answers are known; that proves the arithmetic, not the numbers.
-
-To finish the work:
-
-1. Run `python3 rapid_insulin_units.py` somewhere with access to openprescribing.net.
-2. Confirm the quantity basis of each presentation (below) and fill in `CONFIRMED_BASIS`.
-3. Rerun; responses are cached in `api_cache/`, so the rerun makes no API calls.
-4. Check the sample month in `output/SUMMARY.md` against the OpenPrescribing web UI.
-5. Write `FINDINGS.md` from `output/SUMMARY.md`.
+Data pulled and analysed on 30 September 2026; results are in `FINDINGS.md`. The pipeline was
+first written against the OpenPrescribing API, which refuses scripted clients (a Cloudflare
+challenge, HTTP 403). It now reads the same dataset from the NHSBSA open data portal through
+`epd_source.py`, which answers the pipeline's API calls from a local cache. The OpenPrescribing
+client is kept behind `--source openprescribing`.
 
 ## Running
 
     pip install requests pandas numpy matplotlib
-    python3 rapid_insulin_units.py                  # full pull, writes output/
-    python3 rapid_insulin_units.py --skip-practice  # without the practice pull
-    python3 test_pipeline.py                        # synthetic end-to-end test, no network
+    python3 epd_source.py           # fill epd_cache/ from NHSBSA (about 90 SQL calls, a few minutes)
+    python3 rapid_insulin_units.py  # analyse, writes output/
+    python3 compare_brands.py       # concentration and presentation status for every brand
+    python3 test_pipeline.py        # synthetic end-to-end test, no network
 
-A full pull makes roughly 23 national calls, 23 ICB calls, 5 context calls and, for the practice
-concentration, 12 calls per Lyumjev presentation plus 48 for the denominator (or one per
-presentation-month if the API refuses brand-level codes). Allow about ten minutes.
+`epd_source.py` pulls two aggregates from the "English Prescribing Dataset (EPD) with SNOMED code"
+package: presentation by ICB for every month (all 0601011 codes), and presentation by practice for
+the last 12 months (the six brands). The monthly tables use three schemas (STP columns before May
+2022, renamed BNF columns from March 2025) and some store numbers as text; the queries handle both.
+The cache is resumable, one JSON file per month per table.
 
 ## Method
+
+The denominator is six branded rapid-acting analogues. Trurapi and Apidra were added to the
+original four because Trurapi alone was 7.5% of units in July 2026, nearly twice Lyumjev.
 
 Presentations are discovered from the `bnf_code` endpoint for each brand prefix and merged with a
 fallback list from dm+d (May 2023). Any code discovery finds that the fallback lacks is named in
@@ -45,13 +41,17 @@ National monthly items, quantity and cost come from `/spending/` for each presen
 quantity times units per quantity, where units per quantity is the concentration if quantity is in
 ml and concentration times fill volume if it is a count of devices.
 
-Missing and zero months are listed in `gaps.csv` and are not filled. A brand with no rows in a month
-has an empty total for that month rather than a zero, and shares are only computed for months where
-all four brands are present.
+Missing and zero months are listed in `gaps.csv`. Months before a brand first appears are zero.
+With the EPD source, which is complete for every month because each table is pulled whole, a brand
+with no rows in a later month is also zero. With the API source it stays empty, because a missing
+month there may be a failed call, and shares are only computed for months where every brand is
+present.
 
-ICB figures come from `/spending_by_org/?org_type=icb` per presentation. Practice figures need a
+ICB figures come from `/spending_by_org/?org_type=icb` per presentation. With the EPD source they
+are built from practice rows, each practice assigned to its ICB in the latest month, because twelve
+ICBs merged into six in April 2026 and three were split between successors. Practice figures need a
 date, so they loop over the last 12 months. The script first tries a brand-level code for the
-denominator (practices prescribing any of the four brands) and records whether the API accepted it.
+denominator (practices prescribing any of the six brands) and records whether the API accepted it.
 Lyumjev units at practice level are always pulled per presentation, because a brand-level quantity
 would add U100 and U200 millilitres together.
 
@@ -60,21 +60,17 @@ pump users fill from 3 ml cartridges, and some vials are drawn up by syringe.
 
 ## Quantity basis
 
-The `quantity` field in the English Prescribing Dataset is in the dm+d unit of measure, which for
-insulin may be ml or a count of pens, cartridges or vials. Getting it wrong puts every unit figure
-out by a factor of 1.5 to 10.
+The `quantity` field in the English Prescribing Dataset counts devices (pens, cartridges, vials)
+for these insulins, not millilitres. Getting it wrong puts every unit figure out by a factor of 1.5
+to 10.
 
-Not yet confirmed. The script infers it from cost: under each hypothesis it computes what 100 units
-cost and picks the one nearer the list price of about 1.90 pounds per 100 units. The two hypotheses
-differ by the fill volume, so this is decisive for 3 ml and 10 ml devices and weak for 1.5 ml and
-1.6 ml cartridges, which are flagged as low confidence. The handover's rule of median quantity per
-item (12 or more means ml) is kept in `presentations.csv` for comparison but not used, because a
-single 10 ml vial reads 10 in ml and would be classed as a count.
-
-To confirm, look up each presentation's VMPP on the OpenPrescribing dm+d pages or the NHSBSA dm+d
-browser, note the unit of measure, and add it to `CONFIRMED_BASIS` with the source. Until every
-presentation is confirmed, every chart carries "Quantity basis inferred, not yet verified" and the
-summary lists the unverified codes.
+Confirmed on 30 September 2026 against the NHSBSA Secondary Care Medicines Data, which reports the
+same products in the dm+d VMP unit of measure. That unit is ML for every lispro, aspart and
+glulisine product, and hospital cost per ml multiplied by fill volume reproduces EPD cost per unit
+of quantity to within 2% for every device type (3 ml aspart cartridge: 1.87 pounds per ml times 3
+is 5.61, against 5.63 in EPD). `CONFIRMED_BASIS` records this for every presentation. The
+cost-based inference in the script reached the same answer independently and is still reported in
+`presentations.csv`.
 
 ## Outputs (`output/`)
 
@@ -88,13 +84,15 @@ summary lists the unverified codes.
 | `icb_ultrarapid_share_last12m.csv`, `icb_variation_stats.csv`, `icb_monthly_by_presentation.csv` | analysis 4 |
 | `practice_lyumjev_concentration.csv`, `practice_concentration_stats.csv` | analysis 5 |
 | `vial_share_by_brand.csv`, `ultra_rapid_share_by_segment_monthly.csv` | analysis 6 |
-| `context_products_last12m.csv` | generic lispro and aspart, Admelog, Sanofi lispro, Trurapi, for scale |
+| `context_products_last12m.csv` | generic lispro, aspart and glulisine, Admelog, Sanofi lispro, for scale |
+| `brand_concentration.csv`, `presentation_status.csv` | from `compare_brands.py`: practice concentration and withdrawals for every brand |
 | `gaps.csv` | missing and zero months |
 | `SUMMARY.md` | every headline number, generated |
 | `*.png` | charts, 160 dpi, each with the source line |
 
-Analysis 7, launch trajectories from the NHSBSA English Prescribing Dataset back to 2014, is not
-built. The API covers five years, which starts after both launches.
+Analysis 7, launch trajectories back to 2014, is not built. The SNOMED-coded dataset starts in
+November 2020, after both launches; the older EPD package without SNOMED codes runs from January
+2014 to June 2025 and would support it.
 
 ## Caveats
 
@@ -109,5 +107,6 @@ built. The API covers five years, which starts after both launches.
 
 ## Source
 
-OpenPrescribing.net, Bennett Institute for Applied Data Science, University of Oxford, built on the
-NHSBSA English Prescribing Dataset.
+NHSBSA English Prescribing Dataset with SNOMED code and Secondary Care Medicines Data, NHSBSA open
+data portal (opendata.nhsbsa.net), Open Government Licence. OpenPrescribing.net, Bennett Institute
+for Applied Data Science, University of Oxford, serves the same prescribing data.

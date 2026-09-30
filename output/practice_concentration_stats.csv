@@ -1,0 +1,14 @@
+statistic,value
+practices_any_rapid_analogue,6906
+practices_any_lyumjev,3960
+pct_practices_with_lyumjev,57.34144222415291
+practices_prescribing_lyumjev,3960
+practices_prescribing_humalog,6247
+practices_prescribing_novorapid,6785
+practices_prescribing_fiasp,6097
+practices_prescribing_trurapi,4932
+practices_prescribing_apidra,3686
+lyumjev_units_share_top10pct_of_lyumjev_prescribers,42.578276595155394
+lyumjev_units_share_top10pct_of_all_practices,57.643528363972365
+lyumjev_units_gini,0.5891998391989632
+brand_level_codes_accepted,True

@@ -1,4 +1,4 @@
-output/
-api_cache/
 epd_cache/
+api_cache/
 __pycache__/
+*.log

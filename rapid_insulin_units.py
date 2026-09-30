@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
 """
-Monthly insulin units dispensed in English primary care over the last five years, from
-OpenPrescribing, for Lyumjev (by device) against Humalog, NovoRapid and Fiasp. Tests whether
+Monthly insulin units dispensed in English primary care from November 2020, for Lyumjev (by
+device) against the other branded rapid-acting analogues: Humalog, NovoRapid, Fiasp, Trurapi and
+Apidra. Tests whether
 ultra-rapid uptake is low, flat and variable by area, which is the "clinical inertia costs access"
 argument, and reports where the data does not support it.
 
 Usage:
     pip install requests pandas matplotlib
-    python3 rapid_insulin_units.py                     # full pull
-    python3 rapid_insulin_units.py --skip-practice     # skip the practice concentration pull
-    python3 rapid_insulin_units.py --cache DIR         # reuse API responses saved in DIR
+    python3 epd_source.py                                    # fill epd_cache/ from NHSBSA
+    python3 rapid_insulin_units.py                           # analyse from epd_cache/
+    python3 rapid_insulin_units.py --source openprescribing  # call OpenPrescribing instead
+    python3 rapid_insulin_units.py --skip-practice           # skip the practice concentration
 
 Everything is written to --out-dir (default ./output). See README.md for method and caveats.
 
-Source: OpenPrescribing.net, Bennett Institute for Applied Data Science, University of Oxford,
-built on the NHSBSA English Prescribing Dataset. Primary care prescribing only.
+Source: NHSBSA English Prescribing Dataset with SNOMED code, via the NHSBSA open data portal
+(epd_source.py), or the same dataset through OpenPrescribing.net. Primary care prescribing only.
 """
 import argparse
 import datetime as dt
@@ -31,13 +33,17 @@ import requests
 
 API = "https://openprescribing.net/api/1.0"
 HEADERS = {"User-Agent": "diabettech-analysis/1.0 (research; python-requests)"}
-SOURCE_LINE = "Source: OpenPrescribing.net / NHSBSA English Prescribing Dataset, primary care only."
+SOURCE_LINE = "Source: NHSBSA English Prescribing Dataset, primary care only."
 
 BRANDS = {
     "Lyumjev": "0601011L0BD",
     "Humalog": "0601011L0BB",
     "NovoRapid": "0601011A0BB",
     "Fiasp": "0601011A0BC",
+    # Trurapi (biosimilar aspart, from June 2021) and Apidra (glulisine) are rapid-acting analogues
+    # prescribed at volumes comparable to Lyumjev, so leaving them out would overstate every share.
+    "Trurapi": "0601011A0BD",
+    "Apidra": "0601011P0BB",
 }
 ULTRA_RAPID = ["Lyumjev", "Fiasp"]
 
@@ -47,7 +53,7 @@ CONTEXT_PRODUCTS = {
     "Admelog": "0601011L0BE",
     "Insulin lispro Sanofi": "0601011L0BC",
     "Insulin aspart (generic)": "0601011A0AA",
-    "Trurapi": "0601011A0BD",
+    "Insulin glulisine (generic)": "0601011P0AA",
 }
 
 # Fallback presentation list, from dm+d (May 2023). Discovery adds anything newer.
@@ -75,21 +81,36 @@ FALLBACK = {
     "0601011A0BCACAA": "Fiasp 100units/ml solution for injection 10ml vials",
     "0601011A0BCAAAC": "Fiasp FlexTouch 100units/ml inj 3ml pre-filled pens",
     "0601011A0BCABAB": "Fiasp Penfill 100units/ml inj 3ml cartridges",
+    "0601011A0BDAAAB": "Trurapi 100units/ml solution for injection 3ml cartridges",
+    "0601011A0BDABAC": "Trurapi 100units/ml inj 3ml pre-filled Solostar pens",
+    "0601011A0BDACAA": "Trurapi 100units/ml solution for injection 10ml vial",
+    "0601011P0BBAAAA": "Apidra 100units/ml solution for injection 10ml vials",
+    "0601011P0BBABAB": "Apidra 100units/ml solution for injection 3ml cartridges",
+    "0601011P0BBAEAC": "Apidra 100units/ml inj 3ml pre-filled SoloStar pens",
 }
 
-# Quantity basis confirmed against ground truth: code -> ("ml" | "count", source).
-# Empty until someone has checked each presentation on the dm+d browser or the OpenPrescribing
-# /dmd/ pages. Until then the basis is inferred and every unit figure is marked unverified.
+# Quantity basis confirmed against an independent source: code -> ("ml" | "count", source).
 # A wrong basis puts unit figures out by a factor of 1.5 to 10.
-CONFIRMED_BASIS = {
-}
+#
+# Checked on 30 September 2026 against the NHSBSA Secondary Care Medicines Data (SCMD_FINAL_202603),
+# which reports quantity in the dm+d VMP unit of measure. That unit is ML for every lispro, aspart
+# and glulisine VMP, with indicative costs of 1.87 to 1.96 pounds per ml for 3 ml devices, 1.89 for
+# 1.6 ml cartridges, 1.40 to 1.66 for 10 ml vials and 3.93 for lispro U200. Multiplying by the fill
+# volume reproduces the EPD actual cost per unit of quantity for July 2026 to within 1 to 2%
+# (5.63 to 6.10 pounds for 3 ml devices, 3.00 for PumpCart, 14.0 to 16.5 for vials, 11.74 for
+# U200), and treating EPD quantity as ml would put it 1.6 to 10 times above. So EPD quantity for
+# these insulins counts devices (the dm+d unit dose), not ml. The script's cost-based inference
+# reached the same answer for every presentation.
+_BASIS_SOURCE = "count: EPD cost per quantity = SCMD dm+d cost per ml x fill volume (checked 2026-09-30)"
+CONFIRMED_BASIS = {code: ("count", _BASIS_SOURCE) for code in FALLBACK}
 
 # NHS list prices of these insulins sit near 1.6 to 2.1 pounds per 100 units (U100 and U200
 # alike, since U200 is priced per unit). Used only to choose between the two basis hypotheses.
 REF_COST_PER_100_UNITS = 1.9
 
 # Colours: fixed categorical order from the dataviz reference palette, by brand.
-COLOURS = {"Lyumjev": "#2a78d6", "Fiasp": "#eb6834", "Humalog": "#1baf7a", "NovoRapid": "#eda100"}
+COLOURS = {"Lyumjev": "#2a78d6", "Fiasp": "#eb6834", "Humalog": "#1baf7a", "NovoRapid": "#eda100",
+           "Trurapi": "#e87ba4", "Apidra": "#4a3aa7"}
 DEVICE_COLOURS = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#4a3aa7"]
 
 
@@ -317,7 +338,7 @@ def icb_summary(icb, latest):
 # ------------------------------------------------------------------------ practice concentration
 
 def practice_pull(client, meta, latest):
-    """Practice-level Lyumjev units, and the denominator of practices prescribing any of the four
+    """Practice-level Lyumjev units, and the denominator of practices prescribing any of the six
     brands, over the last 12 months. The API needs a date for practice queries, so this loops by
     month. Brand-level codes are tried first for the denominator (one call per brand-month); Lyumjev
     units are always pulled per presentation because U100 and U200 quantities cannot be summed."""
@@ -423,19 +444,19 @@ def charts(out, by_brand, share, ultra, lyu, seg_share, icb_t, latest, verified)
     ax.set_title("Rapid-acting analogue insulin units dispensed per month, England primary care", loc="left", pad=26)
     label_ends(ax, by_brand[[b for b in BRANDS if b in by_brand]] / 1e6, lambda v: f"{v:.0f}m")
     ax.set_xlim(right=by_brand.index[-1] + pd.DateOffset(months=9))
-    ax.legend(loc="lower left", bbox_to_anchor=(0, 1.0), frameon=False, ncol=4)
+    ax.legend(loc="lower left", bbox_to_anchor=(0, 1.0), frameon=False, ncol=6)
     finish(fig, ax, "units_by_brand.png")
 
     fig, ax = plt.subplots(figsize=(10, 5))
     for b in BRANDS:
         if b in share:
             ax.plot(share.index, share[b], color=COLOURS[b], lw=2, label=b)
-    ax.set_ylabel("% of units across the four brands")
+    ax.set_ylabel("% of units across the six brands")
     ax.set_ylim(0, 100)
     ax.set_title("Brand share of rapid-acting analogue units", loc="left", pad=26)
     label_ends(ax, share[[b for b in BRANDS if b in share]], lambda v: f"{v:.1f}%")
     ax.set_xlim(right=share.index[-1] + pd.DateOffset(months=9))
-    ax.legend(loc="lower left", bbox_to_anchor=(0, 1.0), frameon=False, ncol=4)
+    ax.legend(loc="lower left", bbox_to_anchor=(0, 1.0), frameon=False, ncol=6)
     finish(fig, ax, "share_by_brand.png")
 
     fig, ax = plt.subplots(figsize=(10, 5))
@@ -567,7 +588,7 @@ def write_summary(out, ctx):
         w(f"Brand-level codes accepted by `spending_by_org` for practices: "
           f"{'yes' if ctx['brand_level_ok'] else 'no, looped by presentation'}. "
           f"{c['practices_any_lyumjev']:,} of {c['practices_any_rapid_analogue']:,} practices prescribing any of "
-          f"the four brands prescribed Lyumjev ({fmt(c['pct_practices_with_lyumjev'])}%). The top 10% of Lyumjev "
+          f"the six brands prescribed Lyumjev ({fmt(c['pct_practices_with_lyumjev'])}%). The top 10% of Lyumjev "
           f"prescribers account for {fmt(c['lyumjev_units_share_top10pct_of_lyumjev_prescribers'])}% of Lyumjev "
           f"units; the top 10% of all practices by Lyumjev volume account for "
           f"{fmt(c['lyumjev_units_share_top10pct_of_all_practices'])}%. Gini across Lyumjev prescribers "
@@ -587,7 +608,7 @@ def write_summary(out, ctx):
     w(f"Ultra-rapid share within vials and pump cartridges: {fmt(ctx['seg_last12'].get('Vial/pump', np.nan))}%. "
       f"Within pens and cartridges: {fmt(ctx['seg_last12'].get('Pen/cartridge', np.nan))}%.\n")
 
-    w("## Context: products outside the four brands, last 12 months\n")
+    w("## Context: products outside the six brands, last 12 months\n")
     w("Not converted to units or counted in any share.\n")
     w("| product | prefix | items | quantity | cost (pounds) |")
     w("|---|---|---|---|---|")
@@ -612,7 +633,11 @@ def write_summary(out, ctx):
 
 # ---------------------------------------------------------------------------------------- main
 
-def run(client, out, skip_icb=False, skip_practice=False, pulled=None):
+def run(client, out, skip_icb=False, skip_practice=False, pulled=None, absent_is_zero=False):
+    """absent_is_zero: the source is known to be complete for every month in the window, so a
+    brand with no rows in a month dispensed nothing that month. True for the EPD cache, where each
+    monthly table is pulled whole and only rows with items appear; False for API responses, where
+    a missing month may be a failed or truncated call."""
     out.mkdir(parents=True, exist_ok=True)
     print("Discovering presentations...")
     names, new_codes = discover(client)
@@ -633,6 +658,12 @@ def run(client, out, skip_icb=False, skip_practice=False, pulled=None):
     # 1. Brand units and share. A brand-month with no rows stays empty rather than zero.
     by_brand = allp.pivot_table(index="date", columns="brand", values="units", aggfunc="sum").reindex(months)
     by_brand = by_brand[[b for b in BRANDS if b in by_brand]]
+    # Months before a brand first appears are zero (not yet launched), not missing. Gaps after
+    # its first month stay empty and keep the all-brand total empty for that month.
+    for b in by_brand:
+        by_brand.loc[by_brand.index < by_brand[b].first_valid_index(), b] = 0.0
+    if absent_is_zero:
+        by_brand = by_brand.fillna(0.0)
     total = by_brand.sum(axis=1, min_count=len(by_brand.columns))
     share = by_brand.div(total, axis=0) * 100
     by_brand.assign(total=total).to_csv(out / "monthly_units_by_brand.csv", index_label="date")
@@ -655,17 +686,17 @@ def run(client, out, skip_icb=False, skip_practice=False, pulled=None):
 
     # 3. Ultra-rapid trajectory.
     ultra = pd.DataFrame({"ultra_rapid_units": by_brand[[b for b in ULTRA_RAPID if b in by_brand]].sum(axis=1, min_count=1),
-                          "all_four_units": total})
-    ultra["ultra_rapid_share_pct"] = ultra.ultra_rapid_units / ultra.all_four_units * 100
+                          "all_brand_units": total})
+    ultra["ultra_rapid_share_pct"] = ultra.ultra_rapid_units / ultra.all_brand_units * 100
     ultra["ultra_rapid_share_pct_12m_rolling"] = (ultra.ultra_rapid_units.rolling(12).sum()
-                                                  / ultra.all_four_units.rolling(12).sum() * 100)
+                                                  / ultra.all_brand_units.rolling(12).sum() * 100)
     ultra["lyumjev_share_pct"] = share.get("Lyumjev")
     ultra["fiasp_share_pct"] = share.get("Fiasp")
     ultra.to_csv(out / "ultra_rapid_share_monthly.csv", index_label="date")
     last12 = ultra.index > latest - pd.DateOffset(months=12)
     first12 = ultra.index < first + pd.DateOffset(months=12)
-    u = dict(first12=ultra[first12].ultra_rapid_units.sum() / ultra[first12].all_four_units.sum() * 100,
-             last12=ultra[last12].ultra_rapid_units.sum() / ultra[last12].all_four_units.sum() * 100,
+    u = dict(first12=ultra[first12].ultra_rapid_units.sum() / ultra[first12].all_brand_units.sum() * 100,
+             last12=ultra[last12].ultra_rapid_units.sum() / ultra[last12].all_brand_units.sum() * 100,
              lyu_first12=by_brand.loc[first12, "Lyumjev"].sum() / total[first12].sum() * 100,
              lyu_last12=by_brand.loc[last12, "Lyumjev"].sum() / total[last12].sum() * 100,
              slope_all=trend(ultra.ultra_rapid_share_pct),
@@ -722,8 +753,9 @@ def run(client, out, skip_icb=False, skip_practice=False, pulled=None):
         pd.Series({**conc, "brand_level_codes_accepted": brand_level_ok}).to_csv(
             out / "practice_concentration_stats.csv", header=["value"], index_label="statistic")
 
-    verified = meta.basis.notna().all() and set(meta.loc[meta.basis.notna(), "code"]) <= set(CONFIRMED_BASIS)
+    # A presentation with no rows has no basis and contributes no units, so it cannot be unverified.
     unverified = sorted(set(meta.loc[meta.basis.notna(), "code"]) - set(CONFIRMED_BASIS))
+    verified = not unverified
     charts(out, by_brand, share, ultra, lyu, seg_share, icb_t, latest, verified)
 
     s_row = allp[(allp.code == "0601011L0BDADAF") & (allp.date == latest)]
@@ -745,13 +777,21 @@ def run(client, out, skip_icb=False, skip_practice=False, pulled=None):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
+    ap.add_argument("--source", choices=["epd", "openprescribing"], default="epd",
+                    help="epd reads the cache filled by epd_source.py; openprescribing calls its API, "
+                         "which refused scripted clients when this was written")
     ap.add_argument("--out-dir", default=Path(__file__).parent / "output", type=Path)
     ap.add_argument("--cache", default=Path(__file__).parent / "api_cache", type=Path,
                     help="directory for raw API responses (reused on rerun)")
     ap.add_argument("--skip-icb", action="store_true")
     ap.add_argument("--skip-practice", action="store_true")
     args = ap.parse_args()
-    run(Client(cache=args.cache), args.out_dir, args.skip_icb, args.skip_practice)
+    if args.source == "epd":
+        from epd_source import EPDClient
+        client = EPDClient()
+    else:
+        client = Client(cache=args.cache)
+    run(client, args.out_dir, args.skip_icb, args.skip_practice, absent_is_zero=args.source == "epd")
 
 
 if __name__ == "__main__":

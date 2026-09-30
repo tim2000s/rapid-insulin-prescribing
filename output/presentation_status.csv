@@ -1,0 +1,28 @@
+brand,code,name,first,last,items_total,peak_items_month,items_last12m,stopped
+Apidra,0601011P0BBAAAA,Apidra 100units/ml solution for injection 10ml vials,2020-11-01,2026-07-01,23668.0,462.0,3477.0,False
+Apidra,0601011P0BBABAB,Apidra 100units/ml solution for injection 3ml cartridges,2020-11-01,2026-07-01,37636.0,760.0,5155.0,False
+Apidra,0601011P0BBAEAC,Apidra 100units/ml inj 3ml pre-filled SoloStar pens,2020-11-01,2026-07-01,422575.0,6975.0,66580.0,False
+Fiasp,0601011A0BCAAAC,Fiasp FlexTouch 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,510065.0,14780.0,17531.0,False
+Fiasp,0601011A0BCABAB,Fiasp Penfill 100units/ml inj 3ml cartridges,2020-11-01,2026-07-01,1071347.0,31991.0,343074.0,False
+Fiasp,0601011A0BCACAA,Fiasp 100units/ml solution for injection 10ml vials,2020-11-01,2026-07-01,347510.0,10502.0,102180.0,False
+Humalog,0601011L0BBABAB,Humalog 100units/ml solution for injection 10ml vials,2020-11-01,2026-07-01,210189.0,3601.0,38532.0,False
+Humalog,0601011L0BBACAC,Humalog 100units/ml solution for injection 3ml cartridges,2020-11-01,2026-07-01,714809.0,14792.0,95350.0,False
+Humalog,0601011L0BBAFAF,Humalog Pen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-03-01,76.0,5.0,3.0,True
+Humalog,0601011L0BBAGAF,Humalog KwikPen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,1099771.0,17568.0,187065.0,False
+Humalog,0601011L0BBAHAG,Humalog KwikPen 200units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,195467.0,3283.0,34164.0,False
+Humalog,0601011L0BBAIAF,Humalog Junior KwikPen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,38670.0,682.0,7517.0,False
+Humalog,0601011L0BBAJAF,Humalog Tempo Pen 100units/ml inj 3ml pre-filled pens,2022-10-01,2026-07-01,289.0,21.0,1.0,False
+Lyumjev,0601011L0BDAAAG,Lyumjev KwikPen 200units/ml inj 3ml pre-filled pens,2021-02-01,2026-07-01,14246.0,446.0,4847.0,False
+Lyumjev,0601011L0BDABAB,Lyumjev 100units/ml solution for injection 10ml vials,2020-11-01,2026-07-01,62470.0,2391.0,23752.0,False
+Lyumjev,0601011L0BDACAC,Lyumjev 100units/ml solution for injection 3ml cartridges,2020-11-01,2026-07-01,42311.0,1215.0,13270.0,False
+Lyumjev,0601011L0BDADAF,Lyumjev KwikPen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,222449.0,7264.0,78865.0,False
+Lyumjev,0601011L0BDAEAF,Lyumjev Junior KwikPen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,22306.0,660.0,7120.0,False
+Lyumjev,0601011L0BDAFAF,Lyumjev Tempo Pen 100units/ml inj 3ml pre-filled pens,2022-10-01,2024-10-01,91.0,8.0,0.0,True
+NovoRapid,0601011A0BBAAAA,NovoRapid 100units/ml solution for injection 10ml vials,2020-11-01,2026-07-01,1680628.0,41365.0,436680.0,False
+NovoRapid,0601011A0BBABAB,NovoRapid Penfill 100units/ml inj 3ml cartridges,2020-11-01,2026-07-01,3310676.0,56749.0,531323.0,False
+NovoRapid,0601011A0BBADAC,NovoRapid FlexPen 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,5885864.0,93201.0,974698.0,False
+NovoRapid,0601011A0BBAEAC,NovoRapid FlexTouch 100units/ml inj 3ml pre-filled pens,2020-11-01,2026-07-01,265465.0,5523.0,15030.0,False
+NovoRapid,0601011A0BBAFAD,NovoRapid PumpCart 100units/ml inj 1.6ml cartridges,2020-11-01,2026-07-01,188786.0,4389.0,31654.0,False
+Trurapi,0601011A0BDAAAB,Trurapi 100units/ml solution for injection 3ml cartridges,2021-12-01,2026-07-01,51735.0,3033.0,23892.0,False
+Trurapi,0601011A0BDABAC,Trurapi 100units/ml inj 3ml pre-filled Solostar pens,2021-06-01,2026-07-01,572179.0,26409.0,272379.0,False
+Trurapi,0601011A0BDACAA,Trurapi 100units/ml solution for injection 10ml vial,2022-03-01,2026-07-01,18894.0,1165.0,10278.0,False

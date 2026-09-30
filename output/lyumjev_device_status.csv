@@ -1,0 +1,7 @@
+device,first_nonzero,last_nonzero,stopped,zero_or_missing_months_after_start,units_last_12m
+Cartridge,2020-11-01,2026-07-01,False,0,29183400.0
+Junior KwikPen,2020-11-01,2026-07-01,False,0,11900400.0
+KwikPen U100,2020-11-01,2026-07-01,False,0,145779300.0
+KwikPen U200,2021-02-01,2026-07-01,False,0,21579600.0
+Tempo Pen,2022-10-01,2024-10-01,True,24,0.0
+Vial,2020-11-01,2026-07-01,False,0,91235000.0

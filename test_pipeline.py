@@ -26,9 +26,11 @@ COUNT_BASIS = {"0601011L0BBABAB", "0601011A0BBAAAA", "0601011L0BDAAAG"}
 STOPPED = {"0601011L0BDACAC": pd.Timestamp("2025-10-01")}   # Lyumjev cartridge stops
 ABSENT = {"0601011L0BBAAAA", "0601011A0BBACAC"}             # no data at all
 NEW_CODE = ("0601011A0BCADAD", "Fiasp PumpCart 100units/ml inj 1.6ml cartridges")
+LAUNCH = {"Trurapi": pd.Timestamp("2022-06-01")}   # brand has no rows before this (planted, not real)
 
 MONTHLY_UNITS = {  # rough national units per month at the start, and growth per year
     "Lyumjev": (25e6, 0.30), "Fiasp": (35e6, 0.10), "Humalog": (120e6, -0.05), "NovoRapid": (250e6, -0.03),
+    "Trurapi": (10e6, 0.40), "Apidra": (15e6, -0.03),
 }
 DEVICE_MIX = {"Vial": 0.08, "PumpCart": 0.05, "Cartridge": 0.30}
 N_ICB, N_PRACTICE = 42, 6300
@@ -61,6 +63,8 @@ def national_units(code, date):
     base, g = MONTHLY_UNITS[p.brand]
     if code in STOPPED and date > STOPPED[code]:
         return 0.0
+    if date < LAUNCH.get(p.brand, date):
+        return None
     years = (date - MONTHS[0]).days / 365.25
     return base * (1 + g) ** years * p.weight
 
@@ -103,7 +107,8 @@ class FakeClient:
                             for d in MONTHS]
                 return []
             return [to_row(code, d, national_units(code, d)) for d in MONTHS
-                    if national_units(code, d) > 0 or d <= STOPPED.get(code, LATEST)]
+                    if national_units(code, d) is not None
+                    and (national_units(code, d) > 0 or d <= STOPPED.get(code, LATEST))]
         if path == "spending_by_org" and params["org_type"] == "icb":
             if code not in TRUTH.index:
                 return []
@@ -111,7 +116,7 @@ class FakeClient:
             rows = []
             for d in MONTHS:
                 u = national_units(code, d)
-                if u <= 0:
+                if not u:
                     continue
                 for i in range(N_ICB):
                     r = to_row(code, d, u, w[i])
@@ -127,7 +132,7 @@ class FakeClient:
             if code not in TRUTH.index or TRUTH.loc[code, "brand"] != "Lyumjev":
                 return []
             u = national_units(code, d)
-            if u <= 0:
+            if not u:
                 return []
             w = PRACTICE_LYU / PRACTICE_LYU.sum()
             return [dict(to_row(code, d, u, w[i]), row_id=f"P{i:05d}", row_name=f"Practice {i}")
@@ -140,6 +145,9 @@ def main():
     ap.add_argument("--keep", type=Path)
     args = ap.parse_args()
     out = args.keep or Path(tempfile.mkdtemp())
+    # The synthetic API plants a mixed basis, so the confirmed table for the real data would mask
+    # the inference this test exists to check.
+    R.CONFIRMED_BASIS.clear()
     res = R.run(FakeClient(), out, pulled="synthetic")
     meta = res["meta"].set_index("code")
 
@@ -155,6 +163,12 @@ def main():
         truth = sum(national_units(c, LATEST) for c in TRUTH.index if TRUTH.loc[c, "brand"] == b)
         got = res["by_brand"].loc[LATEST, b]
         assert abs(got / truth - 1) < 1e-9, (b, got, truth)
+
+    # Before Trurapi launches its units are zero, not missing, and the all-brand total exists.
+    pre = res["by_brand"].index < LAUNCH["Trurapi"]
+    assert pre.sum() >= 6, "no pre-launch months in the synthetic window"
+    assert (res["by_brand"].loc[pre, "Trurapi"] == 0).all()
+    assert res["ultra"].loc[pre, "all_brand_units"].notna().all()
 
     # The stopped cartridge is flagged, and nothing else is.
     st = res["stops"].set_index("device")
