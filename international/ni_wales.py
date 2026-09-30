@@ -61,11 +61,13 @@ def col(df, *patterns):
     raise KeyError(f"{patterns} not in {list(df.columns)}")
 
 
-def tidy(df, month, area):
+def tidy(df, month, area=None, area_col=None):
+    """area is a fixed label (Northern Ireland files carry no board); area_col names the column
+    holding it (Wales). Passing a column name as a label wrote "HB" on every Welsh row once."""
     code = col(df, r"BNF ?Code")
     df = df[df[code].astype(str).str.startswith("0601011")]
     out = pd.DataFrame({
-        "month": month, "area": area if isinstance(area, str) else df[area].astype(str),
+        "month": month, "area": df[area_col].astype(str) if area_col else area,
         "code": df[code].astype(str),
         "name": df[col(df, r"AMP_NM", r"BNF ?Name", r"BNF ?Description")].astype(str),
         "items": pd.to_numeric(df[col(df, r"Total ?Items", r"Items")], errors="coerce"),
@@ -102,10 +104,10 @@ def job(nation, month, url):
         z = zipfile.ZipFile(io.BytesIO(raw))
         name = next(n for n in z.namelist() if n.lower().startswith("gpdata"))
         df = pd.read_csv(z.open(name), dtype=str, encoding="latin-1")
-        out = tidy(df, month, col(df, r"HB"))
+        out = tidy(df, month, area_col=col(df, r"HB"))
     else:
         df = pd.read_csv(io.BytesIO(raw), dtype=str, encoding="latin-1")
-        out = tidy(df, month, "NI")
+        out = tidy(df, month, area="NI")
     out.to_csv(f, index=False)
     return nation, month, len(out)
 
