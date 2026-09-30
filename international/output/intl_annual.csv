@@ -1,0 +1,84 @@
+country,year,ultra_pct,basis
+England,2014,0.0,"units, NHS community dispensing"
+England,2015,0.0,"units, NHS community dispensing"
+England,2016,0.0,"units, NHS community dispensing"
+England,2017,0.25,"units, NHS community dispensing"
+England,2018,1.33,"units, NHS community dispensing"
+England,2019,2.64,"units, NHS community dispensing"
+England,2020,4.38,"units, NHS community dispensing"
+England,2021,6.44,"units, NHS community dispensing"
+England,2022,9.48,"units, NHS community dispensing"
+England,2023,12.89,"units, NHS community dispensing"
+England,2024,15.07,"units, NHS community dispensing"
+England,2025,16.58,"units, NHS community dispensing"
+Northern Ireland,2014,0.0,"units, NHS community dispensing"
+Northern Ireland,2015,0.0,"units, NHS community dispensing"
+Northern Ireland,2016,0.0,"units, NHS community dispensing"
+Northern Ireland,2017,0.73,"units, NHS community dispensing"
+Northern Ireland,2018,3.37,"units, NHS community dispensing"
+Northern Ireland,2019,6.07,"units, NHS community dispensing"
+Northern Ireland,2020,9.13,"units, NHS community dispensing"
+Northern Ireland,2021,12.26,"units, NHS community dispensing"
+Northern Ireland,2022,15.66,"units, NHS community dispensing"
+Northern Ireland,2023,18.37,"units, NHS community dispensing"
+Northern Ireland,2024,18.91,"units, NHS community dispensing"
+Northern Ireland,2025,23.89,"units, NHS community dispensing"
+Scotland,2016,0.0,"units, NHS community dispensing"
+Scotland,2017,0.63,"units, NHS community dispensing"
+Scotland,2018,2.91,"units, NHS community dispensing"
+Scotland,2019,4.67,"units, NHS community dispensing"
+Scotland,2020,5.95,"units, NHS community dispensing"
+Scotland,2021,7.38,"units, NHS community dispensing"
+Scotland,2022,9.53,"units, NHS community dispensing"
+Scotland,2023,11.96,"units, NHS community dispensing"
+Scotland,2024,13.62,"units, NHS community dispensing"
+Scotland,2025,14.05,"units, NHS community dispensing"
+Wales,2025,30.92,"units, NHS community dispensing"
+France,2017,0.0,"units, reimbursed community dispensing"
+France,2018,4.35,"units, reimbursed community dispensing"
+France,2019,8.78,"units, reimbursed community dispensing"
+France,2020,10.32,"units, reimbursed community dispensing"
+France,2021,11.99,"units, reimbursed community dispensing"
+France,2022,13.41,"units, reimbursed community dispensing"
+France,2023,14.18,"units, reimbursed community dispensing"
+France,2024,14.95,"units, reimbursed community dispensing"
+France,2025,14.58,"units, reimbursed community dispensing"
+Denmark,2017,2.33,"units, primary sector sales"
+Denmark,2018,7.24,"units, primary sector sales"
+Denmark,2019,10.01,"units, primary sector sales"
+Denmark,2020,11.32,"units, primary sector sales"
+Denmark,2021,11.96,"units, primary sector sales"
+Denmark,2022,11.51,"units, primary sector sales"
+Denmark,2023,11.37,"units, primary sector sales"
+Denmark,2024,11.4,"units, primary sector sales"
+Denmark,2025,11.02,"units, primary sector sales"
+Australia,2021,7.0,"prescriptions, PBS Section 85, financial year ending"
+Australia,2022,8.17,"prescriptions, PBS Section 85, financial year ending"
+Australia,2023,9.54,"prescriptions, PBS Section 85, financial year ending"
+Australia,2024,5.26,"prescriptions, PBS Section 85, financial year ending"
+Australia,2025,8.14,"prescriptions, PBS Section 85, financial year ending"
+Australia,2026,9.78,"prescriptions, PBS Section 85, financial year ending"
+Germany,2020,9.11,"units, statutory insurance; Fiasp only (lower bound)"
+Germany,2021,9.76,"units, statutory insurance; Fiasp only (lower bound)"
+Germany,2022,10.3,"units, statutory insurance; Fiasp only (lower bound)"
+Germany,2023,11.1,"units, statutory insurance; Fiasp only (lower bound)"
+Germany,2024,11.49,"units, statutory insurance; Fiasp only (lower bound)"
+Germany,2025,12.11,"units, statutory insurance; Fiasp only (lower bound)"
+US Medicaid,2017,0.0,Medicaid insulin units (ml x U/ml)
+US Medicaid,2018,0.09,Medicaid insulin units (ml x U/ml)
+US Medicaid,2019,0.24,Medicaid insulin units (ml x U/ml)
+US Medicaid,2020,0.36,Medicaid insulin units (ml x U/ml)
+US Medicaid,2021,0.55,Medicaid insulin units (ml x U/ml)
+US Medicaid,2022,0.85,Medicaid insulin units (ml x U/ml)
+US Medicaid,2023,1.18,Medicaid insulin units (ml x U/ml)
+US Medicaid,2024,1.49,Medicaid insulin units (ml x U/ml)
+US Medicaid,2025,1.89,Medicaid insulin units (ml x U/ml)
+US Medicare Part D,2017,0.0,Medicare Part D claims
+US Medicare Part D,2018,0.13,Medicare Part D claims
+US Medicare Part D,2019,0.42,Medicare Part D claims
+US Medicare Part D,2020,0.8,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,2021,1.41,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,2022,2.37,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,2023,3.55,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,2024,8.97,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,2025,5.32,Medicare Part D claims
