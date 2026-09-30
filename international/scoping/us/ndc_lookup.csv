@@ -1,0 +1,94 @@
+ndc,sdud_name,rxnav_status,rxnav_name,rxcui
+00002751001,HUMALOG   ,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution [Humalog],865098
+00002751017,HUMALOG   ,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution [Humalog],865098
+00002751101,HUMALOG MI,ACTIVE,"insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Injectable Suspension [Humalog Mix]",752388
+00002751201,HUMALOG MI,ACTIVE,"insulin lispro 50 UNT/ML / insulin lispro protamine, human 50 UNT/ML Injectable Suspension [Humalog Mix]",731281
+00002751601,HUMALOG   ,ACTIVE,3 ML insulin lispro 100 UNT/ML Cartridge [Humalog],1652646
+00002751659,HUMALOG   ,ACTIVE,3 ML insulin lispro 100 UNT/ML Cartridge [Humalog],1652646
+00002753301,HUMALOG   ,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution [Humalog],865098
+00002771201,HUMALOG KW,ACTIVE,3 ML insulin lispro 200 UNT/ML Pen Injector [Humalog],1652242
+00002771227,HUMALOG KW,ACTIVE,3 ML insulin lispro 200 UNT/ML Pen Injector [Humalog],1652242
+00002771401,HUMALOG KW,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog],1926332
+00002771459,HUMALOG KW,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog],1926332
+00002772801,LYUMJEV   ,ACTIVE,insulin lispro-aabc 100 UNT/ML Injectable Solution [Lyumjev],2380236
+00002773701,INSULIN LI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution,242120
+00002775201,INSULIN LI,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector,1926331
+00002775205,INSULIN LI,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector,1926331
+00002820701,LYUMJEV KW,ACTIVE,3 ML insulin lispro-aabc 100 UNT/ML Pen Injector [Lyumjev],2380260
+00002820705,LYUMJEV KW,ACTIVE,3 ML insulin lispro-aabc 100 UNT/ML Pen Injector [Lyumjev],2380260
+00002821305,HUMALOG TE,ACTIVE,Sensor 3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog],2621572
+00002822201,INSULIN LI,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639
+00002822259,INSULIN LI,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639
+00002822801,LYUMJEV KW,ACTIVE,3 ML insulin lispro-aabc 200 UNT/ML Pen Injector [Lyumjev],2380256
+00002822827,LYUMJEV KW,ACTIVE,3 ML insulin lispro-aabc 200 UNT/ML Pen Injector [Lyumjev],2380256
+00002823301,INSULIN LI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector",847252
+00002823305,INSULIN LI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector",847252
+00002823505,LYUMJEV TE,ACTIVE,Sensor 3 ML insulin lispro-aabc 100 UNT/ML Pen Injector [Lyumjev],2380268
+00002872501,HUMALOG PE,OBSOLETE,3 ML Insulin Lispro 100 UNT/ML Prefilled Syringe [Humalog],847209
+00002879359,HUMALOG MI,OBSOLETE,"3 ML insulin lispro 50 UNT/ML / insulin lispro protamine, human 50 UNT/ML Pen Injector [Humalog Mix]",847213
+00002879459,HUMALOG MI,OBSOLETE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector [Humalog Mix]",847254
+00002879701,HUMALOG MI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector [Humalog Mix]",847254
+00002879759,HUMALOG MI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector [Humalog Mix]",847254
+00002879801,HUMALOG MI,ACTIVE,"3 ML insulin lispro 50 UNT/ML / insulin lispro protamine, human 50 UNT/ML Pen Injector [Humalog Mix]",847213
+00002879859,HUMALOG MI,ACTIVE,"3 ML insulin lispro 50 UNT/ML / insulin lispro protamine, human 50 UNT/ML Pen Injector [Humalog Mix]",847213
+00002879901,HUMALOG KW,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog],1652640
+00002879959,HUMALOG KW,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog],1652640
+00024592410,ADMELOG VI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution [Admelog],1992169
+00024592501,ADMELOG SO,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector [Admelog],1992171
+00024592505,ADMELOG SO,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector [Admelog],1992171
+00024592605,ADMELOG VI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution [Admelog],1992169
+00024592700,MERILOG VI,ACTIVE,insulin aspart-szjj 100 UNT/ML Injectable Solution [Merilog],2705739
+00024592805,MERILOG SO,ACTIVE,3 ML insulin aspart-szjj 100 UNT/ML Pen Injector [Merilog],2705745
+00088250033,APIDRA 10M,ACTIVE,"insulin glulisine, human 100 UNT/ML Injectable Solution [Apidra]",803194
+00088250052,APIDRA 10M,OBSOLETE,"3 ML insulin glulisine, human 100 UNT/ML Pen Injector [Apidra]",847261
+00088250200,APIDRA 3ML,ACTIVE,"3 ML insulin glulisine, human 100 UNT/ML Pen Injector [Apidra]",847261
+00088250205,APIDRA 3ML,ACTIVE,"3 ML insulin glulisine, human 100 UNT/ML Pen Injector [Apidra]",847261
+00169210011,NOVOLOG 10,ACTIVE,"insulin aspart, human 100 UNT/ML Injectable Solution [NovoLog]",351926
+00169210112,NOVOLOG FP,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector [NovoLog]",1653204
+00169210125,NOVOLOG FP,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector [NovoLog]",1653204
+00169220011,NOVOLOG MI,ACTIVE,"insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Injectable Suspension [NovoLog Mix]",977842
+00169220125,NOVOLOG MI,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector [NovoLog Mix]",977840
+00169320111,FIASP VIAL,ACTIVE,"Niacinamide insulin aspart, human 100 UNT/ML Injectable Solution [Fiasp]",1986354
+00169320415,FIASP FLEX,ACTIVE,"Niacinamide 3 ML insulin aspart, human 100 UNT/ML Pen Injector [Fiasp]",1986356
+00169320511,FIASP PENF,ACTIVE,"Niacinamide 3 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]",2205454
+00169320515,FIASP PENF,ACTIVE,"Niacinamide 3 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]",2205454
+00169320611,FIASP PUMP,ACTIVE,"1.6 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]",2642809
+00169320615,FIASP PUMP,ACTIVE,"1.6 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]",2642809
+00169330312,NOVOLOG PE,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Cartridge [NovoLog]",1653198
+00169368512,NOVOLOG MI,ACTIVE,"insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Injectable Suspension [NovoLog Mix]",977842
+00169369619,NOVOLOG MI,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector [NovoLog Mix]",977840
+00169633910,NOVOLOG FL,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector [NovoLog]",1653204
+00169750111,NOVOLOG 10,ACTIVE,"insulin aspart, human 100 UNT/ML Injectable Solution [NovoLog]",351926
+00338012612,Insulin in,ACTIVE,"100 ML insulin, regular, human 1 UNT/ML Injection [Myxredlin]",2179749
+00955172801,INSULIN GL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector,847230
+00955172805,INSULIN GL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector,847230
+00955172901,INSULIN GL,ACTIVE,insulin glargine 100 UNT/ML Injectable Solution,311041
+00955290001,INSULIN GL,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector,2002419
+00955290002,INSULIN GL,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector,2002419
+00955390001,INSULIN GL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector,1604539
+00955390003,INSULIN GL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector,1604539
+49502039380,Insulin Gl,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution,2563976
+49502039471,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971
+49502039475,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971
+66733077301,INSULIN LI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution,242120
+66733082201,INSULIN LI,OBSOLETE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639
+66733082259,INSULIN LI,OBSOLETE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639
+72572042205,INSULIN GL,error <urlopen error _ssl.c:1064: The handshake operation timed out>,,
+72572042405,INSULIN GL,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971
+73070010011,INSULIN AS,ACTIVE,"insulin aspart, human 100 UNT/ML Injectable Solution",311040
+73070010210,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Cartridge",1653196
+73070010215,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Cartridge",1653196
+73070010310,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector",1653202
+73070010315,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector",1653202
+73070020011,INSULIN AS,ACTIVE,"insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Injectable Suspension",351297
+73070020310,INSULIN AS,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector",847191
+73070020315,INSULIN AS,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector",847191
+73070040011,INSULIN DE,ACTIVE,insulin degludec 100 UNT/ML Injectable Solution,2107520
+73070040310,INSULIN DE,ACTIVE,3 ML insulin degludec 100 UNT/ML Pen Injector,1670011
+73070040315,INSULIN DE,ACTIVE,3 ML insulin degludec 100 UNT/ML Pen Injector,1670011
+73070050315,INSULIN DE,ACTIVE,3 ML insulin degludec 200 UNT/ML Pen Injector,1670021
+83257000711,Kirsty Ins,ACTIVE,insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty],2720529
+83257000832,Kirsty Ins,ACTIVE,3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty],2720541
+83257001411,Insulin Gl,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution,2563976
+83257001531,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971
+83257001532,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971

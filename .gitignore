@@ -3,3 +3,10 @@ api_cache/
 __pycache__/
 *.log
 hospital_cache/
+international/cache/
+international/scoping/**/raw/
+international/scoping/**/raw_*
+international/scoping/**/__pycache__/
+international/scoping/us/cms_catalog.json
+international/scoping/us/partd_quarterly_2026Q1.csv
+international/scoping/france/medicam/*.zip

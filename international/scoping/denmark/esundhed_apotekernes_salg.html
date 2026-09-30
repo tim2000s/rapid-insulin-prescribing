@@ -1,0 +1,1634 @@
+
+
+
+<!DOCTYPE html>
+
+<html lang="da" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0 , maximum-scale=3.0, user-scalable=no'>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Apotekernes salg af l&#230;gemidler</title>
+    
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=9.2.4.0" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css?v=9.2.4.0" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
+    <link href="/Assets/plugins/animate/animate.css?v=9.2.4.0" rel="stylesheet">
+
+    <!-- <link rel="stylesheet" href="~/Assets/plugins/datatables/css/bootstrap.css"> -->
+    <link rel="stylesheet" href="/Assets/plugins/datatables2/datatables.min.css?v=9.2.4.0">
+    <link rel="stylesheet" href="/Assets/plugins/datatables/css/select2.css?v=9.2.4.0">
+    <link id="mainStylesheet" href="/Assets/build/css/main.css?v=9.2.4.0" rel="stylesheet" />
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="76x76" href="/Assets/favicon/apple-touch-icon.png?v=yyLXRAN44E">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Assets/favicon/favicon-32x32.png?v=yyLXRAN44E">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Assets/favicon/favicon-16x16.png?v=yyLXRAN44E">
+    <link rel="manifest" href="/Assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/Assets/favicon/safari-pinned-tab.svg?v=yyLXRAN44E" color="#405b6b">
+    <link rel="shortcut icon" href="/Assets/favicon/favicon.ico?v=yyLXRAN44E">
+    <meta name="msapplication-TileColor" content="#405b6b">
+    <meta name="msapplication-config" content="/Assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#405b6b">
+    <!-- favicon end -->
+
+    
+    <script src="https://cdn-eu.cookietractor.com/cookietractor.js" data-lang="da-DK" data-id="4f0232df-f927-4116-8253-9544313b68ba"></script>
+
+    
+    <script>
+        
+        var matomoAddress = "//analytics.esundhed.dk/";
+        var matomoSiteId = "1";
+
+        window.addEventListener('CookieConsentGiven', function (event) {
+            if (cookieTractor.consentGivenFor('statistical')) {
+
+                // Check if Matomo address and site ID are defined
+                if (matomoAddress && matomoSiteId) {
+                    // Create the Matomo tracking script element
+                    var matomoScript = document.createElement('script');
+                    matomoScript.type = 'text/javascript';
+                    matomoScript.src = '/Assets/plugins/matomo/matomo.js?v=9.2.4.0';
+
+                    // Add the Matomo script to the document
+                    document.head.appendChild(matomoScript);
+                }
+            }
+        }, false);
+    </script>
+</head>
+
+
+<body>
+    
+    
+    <header class="global_header">
+    <div class="container">
+        <nav class="navbar navbar-expand-lg ">
+            <a class="navbar-brand" href="/">
+                <img src="/-/media/Project/eSundhed/eSundhed.ashx" alt="Link til eSundheds forside" role="button" />
+            </a>
+
+            <div id="mobile-search" role="button" aria-label="Search" alt="Søg"></div>
+            <div id="multiple-datasets" class="col-md-10 col-sm-12 offset-md-2 offset-sm-1 no-paddings search-wrapper">
+                
+
+<form action="/SearchResult" method="get"><input aria-label="Search" class="form-control search-input float-left" data-val="true" data-val-required="Query er påkrævet" id="searchtypeahead" name="Query" placeholder="Søg på esundhed.dk" type="search" value="" />    <button class="btn search-btn" aria-label="Search" type="submit" tabindex="0" role="tab" alt="Søg"><span class="fas fa-search fa-xs "></span></button>
+</form>
+            </div>
+
+            <div class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" styling="color: #fff; font-size: 25px; font-weight: normal;" role="button">
+                <span class="fas fa-bars bars js-bars"></span>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="row fullview">
+                    <div class="col-lg-6 col-12">
+                        <ul class="navbar-nav mr-auto">
+                                    <li class="nav-item dropdown">
+                                        <div class="nav-link dropdown-toggle js-open-megamenu nav-active" data-menuname="/Emner" id="navbarDropdown-1" role="tab" aria-controls="megamenu-1" aria-expanded="false">
+                                            <span class="nav-text">Emner</span>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <div class="nav-link dropdown-toggle js-open-megamenu " data-menuname="/Registre" id="navbarDropdown-2" role="tab" aria-controls="megamenu-2" aria-expanded="false">
+                                            <span class="nav-text">Registre</span>
+                                        </div>
+                                    </li>
+                                    <li class="nav-item dropdown fadeelement" disabled="disabled">
+                                        <div class="nav-link dropdown-toggle" data-menuname="/Mit-eSundhed" id="navbarDropdown-3" role="tab" aria-controls="megamenu-3" aria-expanded="false">
+                                            <span class="fas fa-lock fa-xs"></span> <span class="nav-text">Mit eSundhed</span>
+                                        </div>
+                                    </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="row">
+                            <div class="col-12 no-gutters no-paddings">
+                                <ul class="list-inline header_toplinks">
+                                    <li class="list-inline-item"><a class="" href="/Opdateringer" role="button">Opdateringer</a></li>
+                                    <li class="list-inline-item"><a class="" href="/Dokumentation" role="button">Dokumentation</a></li>
+                                    <li class="list-inline-item"><a class="" href="/Kontakt" role="button">Kontakt</a></li>
+                                    <li class="list-inline-item login js-login">
+                                        <span class="fas fa-user margin-right-10 "></span>
+                                        <span class="login-linktext js-login-linktext" role="button">Log ind</span>
+                                        <div class="js-login-box login-box fadeInDown animated">
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <ul>
+<li>
+    <div class="login-headline js-login-headline modal-button" data-modal-button-url="/api/login/email" data-toggle="modal">Email log ind<span class="fas fa-sign-in-alt margin-left-10"></span></div>
+    <div class="login-subtext">Adgang til gemte indstillinger</div>
+</li>
+
+                                                            <li>
+                                                                <div class="login-headline">
+                                                                    <a href="/Adgang-til-lukkede-data" role="tab">Adgang til lukkede data</a>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="login-headline">
+                                                                    <a href="/Profiler-og-adgange" role="tab">Mit eSundhed</a>
+                                                                </div>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--
+                            <div id="multiple-datasets" class="col-md-10 col-sm-12 offset-md-2 offset-sm-1 no-paddings search-wrapper">
+                                
+
+<form action="/SearchResult" method="get"><input aria-label="Search" class="form-control search-input float-left" data-val="true" data-val-required="Query er påkrævet" id="searchtypeahead" name="Query" placeholder="Søg på esundhed.dk" type="search" value="" />    <button class="btn search-btn" aria-label="Search" type="submit" tabindex="0" role="tab" alt="Søg"><span class="fas fa-search fa-xs "></span></button>
+</form>
+                            </div>
+                                -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+</header>
+
+
+<section id="megamenu-1" class="megamenu js-megamenu" aria-labelledby="navbarDropdown-1">
+
+
+
+<nav class="wrapper fadeInDown animated" aria-label="Topic-menu">
+    <div class="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="#" class="d-lg-none close-megamenu"><i class="fas fa-times"></i></a>
+                    <div class="left-padding">
+                        <h1 class="headertext">Emner</h1>
+                        <p>Find opg&#248;relser ud fra forskellige emneomr&#229;der</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div class="list-group border-left border-right h-100" id="topics-list-tab" role="tablist">
+                                <a class="list-group-item list-group-item-action js-megamenu-category active" href="#list-category0" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category0-list').click(); $('#list-category0-list').click(); $(this).addClass('active'); return;"><span class="fas fa-newspaper margin-right-10"></span> Aktuelt <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category0-list" data-toggle="list" href="#list-category0" role="tab" aria-controls="list-category0"></a>
+                                <a class="d-none" id="accordion-category0-list" data-toggle="collapse" data-target="#accordion-category0" role="tab" aria-controls="accordion-category0"></a>
+                                <div class="tab-pane fade collapse d-md-none show" id="accordion-category0" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category0-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aktuelt/Relancering-af-Mit-Sygehusvalg" class="linktext">Relancering af Mit Sygehusvalg</a>
+                                                    <p>&#39;Mit sygehusvalg&#39; kan du bruge til at sammenligne sygehuse i Danmark ud fra fx ventetider og patienttilfredshed. Det kan hj&#230;lpe dig, n&#229;r du skal unders&#248;ges (udredes) eller behandles, og du selv vil v&#230;lge sygehus.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aktuelt/Udgivelseskalender" class="linktext">Udgivelseskalender</a>
+                                                    <p>Oversigt over planlagte og tidligere udgivelser</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aktuelt/Vejledninger" class="linktext">Vejledninger</a>
+                                                    <p>Vejledninger i at bruge eSundhed</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Aktuelt" class="linktext js-footer-link float-right margin-top-10">Aktuelt - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category1" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category1-list').click(); $('#list-category1-list').click(); $(this).addClass('active'); return;"><span class="fas fa-user margin-right-10"></span> &#198;ldre <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category1-list" data-toggle="list" href="#list-category1" role="tab" aria-controls="list-category1"></a>
+                                <a class="d-none" id="accordion-category1-list" data-toggle="collapse" data-target="#accordion-category1" role="tab" aria-controls="accordion-category1"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category1" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category1-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje" class="linktext">Brugertilfredshedsunders&#248;gelse for hjemmepleje</a>
+                                                    <p>Opg&#248;relsen viser besvarelser fra &#229;rets brugertilfredshedsunders&#248;gelse for &#230;ldrepleje.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-1" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – webbaseret sp&#248;rgeskema og telefoninterviews</a>
+                                                    <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-2" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – bes&#248;gsinterview</a>
+                                                    <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-5" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – webbaserede sp&#248;rgeskemaer</a>
+                                                    <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Aeldre" class="linktext js-footer-link float-right margin-top-10">&#198;ldre - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category2" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category2-list').click(); $('#list-category2-list').click(); $(this).addClass('active'); return;"><span class="fas fa-clinic-medical margin-right-10"></span> Almen praksis <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category2-list" data-toggle="list" href="#list-category2" role="tab" aria-controls="list-category2"></a>
+                                <a class="d-none" id="accordion-category2-list" data-toggle="collapse" data-target="#accordion-category2" role="tab" aria-controls="accordion-category2"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category2" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category2-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Almen-praksis/Almen-praksis-og-tilmeldte-patienter" class="linktext">Almen praksis og tilmeldte patienter</a>
+                                                    <p>Opg&#248;relserne viser en r&#230;kke relevante tal for almen praksis siden 1. juli 2014. Tallene er hovedsageligt fordelt p&#229; praksistype, kommune og region, samt viser udviklingen pr. halv&#229;r.  Opg&#248;relserne ligger fordelt p&#229; f&#248;lgende overordnede emner: 1. N&#248;gletal for kapaciteten i almen praksis, 2. L&#230;gekapaciteter for almen praksis, 3. &#197;ben og lukket for tilgang, 4. Praksistyper.</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Almen-praksis" class="linktext js-footer-link float-right margin-top-10">Almen praksis - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category3" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category3-list').click(); $('#list-category3-list').click(); $(this).addClass('active'); return;"><span class="fas fa-vector-square margin-right-10"></span> Sundhedsdata p&#229; tv&#230;rs <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category3-list" data-toggle="list" href="#list-category3" role="tab" aria-controls="list-category3"></a>
+                                <a class="d-none" id="accordion-category3-list" data-toggle="collapse" data-target="#accordion-category3" role="tab" aria-controls="accordion-category3"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category3" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category3-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Noegletal" class="linktext">Sundhedsdata p&#229; tv&#230;rs – N&#248;gletal</a>
+                                                    <p>Rapporten N&#248;gletal giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Arbejdsmarkedsdata" class="linktext">Sundhedsdata p&#229; tv&#230;rs - Arbejdsmarkedstilknytning</a>
+                                                    <p>Rapporten indeholder oplysninger om den danske befolkning  i den arbejdsdygtige alder (16-67 &#229;r) og deres tilknytning til arbejdsmarkedet, aktivitet i hospitals-, kommune- samt praksissektoren. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Boern-og-unge" class="linktext">Sundhedsdata p&#229; tv&#230;rs – B&#248;rn og unge</a>
+                                                    <p>Rapporten B&#248;rn og unge giver adgang til relevante, nationale sundhedsdata for regioner og praksissektoren om b&#248;rn og unge i alderen 0-25 &#229;r. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Borgere-Over-65" class="linktext">Sundhedsdata p&#229; tv&#230;rs – Borgere p&#229; 65 &#229;r og derover</a>
+                                                    <p>Rapporten Borgere p&#229; 65 &#229;r og derover giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren om borgere i alderen 65 &#229;r og derover. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Udvalgte-kroniske-sygdomme" class="linktext">Sundhedsdata p&#229; tv&#230;rs – Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser</a>
+                                                    <p>Rapporten Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren om borgere med udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Sundhedsdata-paa-tvaers" class="linktext js-footer-link float-right margin-top-10">Sundhedsdata p&#229; tv&#230;rs - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category4" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category4-list').click(); $('#list-category4-list').click(); $(this).addClass('active'); return;"><span class="fas fa-file-medical margin-right-10"></span> Sundhedsklynger <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category4-list" data-toggle="list" href="#list-category4" role="tab" aria-controls="list-category4"></a>
+                                <a class="d-none" id="accordion-category4-list" data-toggle="collapse" data-target="#accordion-category4" role="tab" aria-controls="accordion-category4"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category4" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category4-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsklynger/Datapakker" class="linktext">Datapakker til sundhedsklyngerne</a>
+                                                    <p>Datapakker til sundhedsklyngerne med en r&#230;kke udvalgte n&#248;gletal p&#229; tv&#230;rs af kommune, almen praksis og hospital. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Sundhedsklynger/SK_definition" class="linktext">Definition af sundhedsklynger</a>
+                                                    <p>Definition af sundhedsklynger</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Sundhedsklynger" class="linktext js-footer-link float-right margin-top-10">Sundhedsklynger - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category5" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category5-list').click(); $('#list-category5-list').click(); $(this).addClass('active'); return;"><span class="fas fa-tooth margin-right-10"></span> Tandpleje <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category5-list" data-toggle="list" href="#list-category5" role="tab" aria-controls="list-category5"></a>
+                                <a class="d-none" id="accordion-category5-list" data-toggle="collapse" data-target="#accordion-category5" role="tab" aria-controls="accordion-category5"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category5" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category5-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Tandpleje/Boerne--og-Ungdomspleje" class="linktext">B&#248;rne- og ungdomstandpleje </a>
+                                                    <p>Opg&#248;relserne viser en r&#230;kke opg&#248;relser p&#229; baggrund af kommunernes indberetninger til Sundhedsstyrelsens Centrale Odontologiske Register (SCOR-registeret) for perioden 2023 og frem. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Tandpleje/Noegletal" class="linktext">Voksentandpleje </a>
+                                                    <p>Opg&#248;relsen viser en r&#230;kke n&#248;gletal for voksentandplejen for perioden 2009 og frem. </p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Tandpleje" class="linktext js-footer-link float-right margin-top-10">Tandpleje - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category6" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category6-list').click(); $('#list-category6-list').click(); $(this).addClass('active'); return;"><span class="fas fa-medkit margin-right-10"></span> Kr&#230;ft <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category6-list" data-toggle="list" href="#list-category6" role="tab" aria-controls="list-category6"></a>
+                                <a class="d-none" id="accordion-category6-list" data-toggle="collapse" data-target="#accordion-category6" role="tab" aria-controls="accordion-category6"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category6" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category6-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Kraeft/Kraeftoverlevelse" class="linktext">Kr&#230;ftoverlevelse</a>
+                                                    <p>Overlevelse fordelt p&#229; kr&#230;ftform, k&#248;n, region og &#229;r</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Kraeft/Nye-kraefttilfaelde" class="linktext">Nye kr&#230;fttilf&#230;lde</a>
+                                                    <p>Opg&#248;relsen viser antallet af nye kr&#230;fttilf&#230;lde samt antallet af personer, der er i live efter en kr&#230;ftdiagnose.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Kraeft/Pakkeforloeb-for-kraeftomraadet" class="linktext">Pakkeforl&#248;b for kr&#230;ftomr&#229;det</a>
+                                                    <p>Forl&#248;b gennemf&#248;rt inden for standardforl&#248;bstiden fordelt p&#229; kr&#230;ftomr&#229;der, pakkeforl&#248;b, region, &#229;r og kvartal (2020-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Kraeft/Pakkeforloeb-for-kraeftomraadet-2012-2018" class="linktext">Pakkeforl&#248;b for kr&#230;ftomr&#229;det (2012-2018)</a>
+                                                    <p>Forl&#248;b gennemf&#248;rt inden for standardforl&#248;bstiden fordelt p&#229; kr&#230;ftomr&#229;der, pakkeforl&#248;b, region, &#229;r og kvartal (2012-2018)</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Kraeft" class="linktext js-footer-link float-right margin-top-10">Kr&#230;ft - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category7" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category7-list').click(); $('#list-category7-list').click(); $(this).addClass('active'); return;"><span class="fas fa-ambulance margin-right-10"></span> L&#230;gemidler <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category7-list" data-toggle="list" href="#list-category7" role="tab" aria-controls="list-category7"></a>
+                                <a class="d-none" id="accordion-category7-list" data-toggle="collapse" data-target="#accordion-category7" role="tab" aria-controls="accordion-category7"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category7" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category7-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Medicinsk-cannabis" class="linktext">Medicinsk cannabis</a>
+                                                    <p>Monitorering af brugen af Medicinsk Cannabis</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Antibiotika" class="linktext">Antibiotika</a>
+                                                    <p>Opg&#248;relserne viser salg af systemisk antibiotika, solgt fra apoteker p&#229; recept.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Dosispakket_Medicin" class="linktext">Dosispakket Medicin</a>
+                                                    <p>Opg&#248;relsen viser, hvor mange borgere i forskellige aldersgrupper, der har modtaget dosispakket medicin fra apotekerne</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Antipsykotika" class="linktext">Antipsykotika</a>
+                                                    <p>Forbrug af antipsykotika generelt og hos borgere med demens.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Brug-af-laegemidler-under-graviditet" class="linktext">Brug af l&#230;gemidler under graviditet</a>
+                                                    <p>Receptpligtig medicin til kvinder f&#248;r og under graviditet fordelt p&#229; forskellige l&#230;gemidler, tidspunkter under graviditet, kvindens alder og &#229;r (2001-  )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Laegemidlermodovervaegt" class="linktext">Forbrug af udvalgte v&#230;gttabs- og diabetesmidler - herunder Wegovy Flextouch, Ozempic og Saxenda</a>
+                                                    <p>Opg&#248;relse over salget af l&#230;gemidler, der er godkendt til brug mod diabetes og overv&#230;gt.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Medicinpriser" class="linktext">Medicinpriser</a>
+                                                    <p>Udvikling i medicinpriser fordelt p&#229; forskellige l&#230;gemidler (seneste 5 &#229;r) </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Medicinprisindeks" class="linktext">Medicinprisindeks</a>
+                                                    <p>Gennemsnitspris for behandling (definerede d&#248;gndoser) og pakning fordelt p&#229; medicingrupper, pristyper, &#229;r og m&#229;ned (2005- )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Medicintilskud" class="linktext">Medicintilskud</a>
+                                                    <p>Apotekernes salg af tilskudsberettigede l&#230;gemidler og regionernes udgifter til tilskudsberettigede l&#230;gemidler fordelt p&#229; &#229;r og m&#229;neder (1996- )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Nye-laegemidler" class="linktext">Nye l&#230;gemidler</a>
+                                                    <p>Nye receptpligtige l&#230;gemidler fordelt p&#229; &#229;rsag til nyt l&#230;gemiddel, markedsf&#248;rings&#229;r, antal og regioner (Seneste 5 &#229;r)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Sovemedicin-til-boern-og-unge" class="linktext">Sovemedicin til b&#248;rn og unge</a>
+                                                    <p>Opg&#248;relserne viser udviklingen i brugen af sovemedicin blandt b&#248;rn mellem 0-17 &#229;r. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler" class="linktext">Apotekernes salg af l&#230;gemidler</a>
+                                                    <p>Apotekernes salg af l&#230;gemidler (fx m&#230;ngde, oms&#230;tning og pris) fordelt p&#229; forskellige l&#230;gemidler, &#229;r og kvartal (seneste 5 &#229;r)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Laegemidler/Laegemiddel-covid-19" class="linktext">L&#230;gemidler i tabletform mod covid19</a>
+                                                    <p>Opg&#248;relsen viser antal personer der k&#248;bte Lagevrio eller Plaxovid mod covid19</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Laegemidler" class="linktext js-footer-link float-right margin-top-10">L&#230;gemidler - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category8" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category8-list').click(); $('#list-category8-list').click(); $(this).addClass('active'); return;"><span class="fas fa-users margin-right-10"></span> Besk&#230;ftigede i sundhedsv&#230;senet <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category8-list" data-toggle="list" href="#list-category8" role="tab" aria-controls="list-category8"></a>
+                                <a class="d-none" id="accordion-category8-list" data-toggle="collapse" data-target="#accordion-category8" role="tab" aria-controls="accordion-category8"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category8" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category8-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Andre-ydere-i-praksis" class="linktext">Andre ydere i praksis</a>
+                                                    <p>Antal behandlere, antal kapaciteter og antal praksis (ydernumre) for praksisomr&#229;derne almen l&#230;gehj&#230;lp, fodterapi, fysioterapi, kiropraktik, psykologihj&#230;lp, speciall&#230;gehj&#230;lp, tandl&#230;gehj&#230;lp, fordelt p&#229; regioner og roller (2007-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Ansatte-paa-offentlige-sygehuse" class="linktext">Ansatte p&#229; offentlige sygehuse</a>
+                                                    <p>Antal ansatte p&#229; offentlige sygehuse fordelt p&#229; blandt andet personalegrupper, regioner, somatik, psykiatri, &#229;r (2001-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Arbejdsstyrken-af-sundhedsuddannede" class="linktext">Arbejdsstyrken af sundhedsuddannede</a>
+                                                    <p>Antal sundhedsuddannede fordelt p&#229; &#229;r, faggrupper, herkomst, speciale, alder og k&#248;n, uddannelsesland, brancher og sektorer, region (2000-2020)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Autorisation" class="linktext">Autorisation</a>
+                                                    <p>Antal udstedte autorisationer fordelt p&#229; faggrupper, alder, k&#248;n, uddannelsesgrupper, uddannelseslande og &#229;r  (2000-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Selvstaendig-virke" class="linktext">Selvst&#230;ndigt virke</a>
+                                                    <p>Antal udstedte tilladelser til selvst&#230;ndigt virke til l&#230;ger tandl&#230;ger og kiropraktorer fordelt p&#229; faggrupper, k&#248;n og alder, uddannelsesland, &#229;r (2000-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Specialeanerkendelse" class="linktext">Specialeanerkendelse</a>
+                                                    <p>Antal udstedte speciall&#230;ge- og specialtandl&#230;geanerkendelser fordelt p&#229; speciale, k&#248;n og alder, uddannelsesland, &#229;r (2000-)</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet" class="linktext js-footer-link float-right margin-top-10">Besk&#230;ftigede i sundhedsv&#230;senet - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category9" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category9-list').click(); $('#list-category9-list').click(); $(this).addClass('active'); return;"><span class="fas fa-wheelchair margin-right-10"></span> Patienter og sygehuse <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category9-list" data-toggle="list" href="#list-category9" role="tab" aria-controls="list-category9"></a>
+                                <a class="d-none" id="accordion-category9-list" data-toggle="collapse" data-target="#accordion-category9" role="tab" aria-controls="accordion-category9"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category9" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category9-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Brug-af-tvang-i-psykiatrien" class="linktext">Brug af tvang i psykiatrien (2004 -)</a>
+                                                    <p>&#197;rsopg&#248;relse af brug af tvang i psykiatrien (2004-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Demensindikatorer" class="linktext">Indikator vedr. andel specifik f&#248;rste demensdiagnose blandt &#230;ldre (65+)</a>
+                                                    <p>Andelen af borgere p&#229; 65 &#229;r eller derover, som har f&#229;et stillet en specifik f&#248;rste demensdiagnose p&#229; offentligt sygehus. Der opg&#248;res tal for &#229;rene 2015 og frem.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Erfarede-ventetider-psykiatrien" class="linktext">Erfarede ventetider psykiatrien</a>
+                                                    <p>Erfarede ventetider i psykiatrien fordelt p&#229; region, alder, &#229;r og m&#229;ned (2008-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Forebyggelige-ophold" class="linktext">Forebyggelige ophold</a>
+                                                    <p>Forebyggelige sygehusophold blandt &#230;ldre (65+), fordelt p&#229; region og kommune, samt udvalgte diagnoser. Data kan ses p&#229; antal, antal pr. 1000 og antal pr. 1000 k&#248;ns- og aldersstandardiseret.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Forebyggelige-sygehusophold-blandt-hjemmehjaelpsmodtagere" class="linktext">Kvalitetsindikator for forebyggelige sygehusophold blandt hjemmehj&#230;lpsmodtagere p&#229; 65 &#229;r og derover</a>
+                                                    <p>Opg&#248;relsen viser kvalitetsindikator for forebyggelige sygehusophold blandt hjemmehj&#230;lpsmodtagere visiteret til personlig pleje p&#229; 65 &#229;r og derover</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Genindlaeggelser-i-somatik-og-psykiatri" class="linktext">Genindl&#230;ggelser i somatik og psykiatri</a>
+                                                    <p>Akutte psykiatriske- og somatiske genindl&#230;ggelser, fordelt p&#229; region og kommune, samt udvalgte diagnoser. Data kan ses p&#229; antal, andel samt andel k&#248;ns- og alders standardiserede tal niveau. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Monitorering_af_tvang_i_psykiatrien" class="linktext">Monitorering af tvang i psykiatrien (2024-)</a>
+                                                    <p>Monitorering af aftale om m&#229;l for mindre tvang i psykiatrien </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Selvmordsforsoeg" class="linktext">Estimeret antal selvmordsfors&#248;g (2016-)</a>
+                                                    <p>Opg&#248;relse af det estimerede antal selvmordsfors&#248;g fordelt p&#229; bop&#230;lsregion, k&#248;n og alder.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Ventetider-til-behandling-eSundhed" class="linktext">Ventetider til behandling p&#229; sygehus</a>
+                                                    <p>Ventetid til somatisk og psykiatrisk behandling p&#229; sygehus.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Forventede-ventetider" class="linktext">Forventede ventetider</a>
+                                                    <p>Forventede ventetider fordelt p&#229; offentlige og private behandlingssteder, unders&#248;gelser og behandlinger samt ventetidstyper (2012- )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Sengepladser-og-belaegning-paa-sygehuse" class="linktext">Sengepladser og bel&#230;gning p&#229; sygehuse</a>
+                                                    <p>Indikatorer omkring sengepladser og bel&#230;gning fordelt p&#229; sengetype, region, sygehus, afdelinger, speciale &#229;r og m&#229;neder (2014-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Genoptraeningsplaner" class="linktext">Genoptr&#230;ningsplaner</a>
+                                                    <p>Antal genoptr&#230;ningsplaner fordelt p&#229; bl.a. diagnose, type af genoptr&#230;ning, speciale, region, kommune, &#229;r og kvartal (2009- )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Ventetid-til-genoptraening" class="linktext">Ventetid til genoptr&#230;ning</a>
+                                                    <p>Ventetid til genoptr&#230;ning fordelt p&#229; regioner og kommuner (2014-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/HAIBA" class="linktext">Healthcare-Associated Infections Database - HAIBA</a>
+                                                    <p>Oversigt over infektioner p&#229; sygehuse (2016-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/MitSygehusvalg" class="linktext">Mit Sygehusvalg</a>
+                                                    <p>&#39;Mit sygehusvalg&#39; kan du bruge til at sammenligne sygehuse i Danmark ud fra fx ventetider og patienttilfredshed. Det kan hj&#230;lpe dig, n&#229;r du skal unders&#248;ges (udredes) eller behandles, og du selv vil v&#230;lge sygehus.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-udredningsretten-i-somatikken" class="linktext">Monitorering af udredningsretten i somatikken</a>
+                                                    <p>Overholdelse af udredningsret, overholdelse/ej overholdelse efter &#229;rsag samt varighed af udredningsforl&#248;b – fordelt p&#229; region og kvartal</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-udredningsretten-i-psykiatrien" class="linktext">Monitorering af udredningsretten i psykiatrien</a>
+                                                    <p>Overholdelse af udredningsret, overholdelse/ej overholdelse efter &#229;rsag samt varighed af udredningsforl&#248;b – fordelt p&#229; region, aldersgrupper og kvartal</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Erfarede-ventetider" class="linktext">Erfarede ventetider</a>
+                                                    <p>Erfarede ventetider til operation fordelt p&#229; region, operationer, &#229;r og m&#229;ned. </p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Noegletal-for-sygehusvaesenet-og-praksisomraadet" class="linktext">N&#248;gletal for sygehusv&#230;senet og praksisomr&#229;det</a>
+                                                    <p>Aktivitet i sygehusv&#230;senet og i praksissektoren fordelt p&#229; bl.a. bop&#230;lsregion, aldersgrupper, speciale og kontakttype (2015-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-genaabningen-af-sundhedsvaesnet" class="linktext">Monitorering af gen&#229;bningen af sundhedsv&#230;senet</a>
+                                                    <p>Gen&#229;bningen af sundhedsv&#230;senet monitoreres via en r&#230;kke udvalgte indikatorer.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Patienter-og-sygehuse/Nedbringelse-af-tvang-i-psykiatrien" class="linktext">Nedbringelse af tvang i psykiatrien (2014 - 2023)</a>
+                                                    <p>Alle oplysninger om anvendelse af tvang ved indl&#230;ggelse og ophold p&#229; en psykiatrisk afdeling er fra den 1. januar 1999 indberettet for hver enkelt patient.</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Patienter-og-sygehuse" class="linktext js-footer-link float-right margin-top-10">Patienter og sygehuse - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category10" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category10-list').click(); $('#list-category10-list').click(); $(this).addClass('active'); return;"><span class="fas fa-stethoscope margin-right-10"></span> Operationer og diagnoser <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category10-list" data-toggle="list" href="#list-category10" role="tab" aria-controls="list-category10"></a>
+                                <a class="d-none" id="accordion-category10-list" data-toggle="collapse" data-target="#accordion-category10" role="tab" aria-controls="accordion-category10"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category10" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category10-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Fedmeoperationer" class="linktext">Fedmeoperationer (2009-)</a>
+                                                    <p>Antal fedmeoperationer i Danmark fordelt p&#229; operationstype og behandlingsregion, bop&#230;lsregion, alder, k&#248;n, finansiering eller sygehus (2009-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Fedmeoperationer_2009-2023" class="linktext">Fedmeoperationer (2009-2023)</a>
+                                                    <p>Antal fedmeoperationer foretaget p&#229; sygehuse fordelt p&#229; enten bop&#230;lsregion og kommune, behandlingsregion og sygehus, samt operationstyper, operationssted, alder, k&#248;n og &#229;r (2009-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Hjertesygdomme" class="linktext">Hjertesygdomme og hjerteoperationer (2010-)</a>
+                                                    <p>Antal personer og nye tilf&#230;lde med udvalgte hjertesygdomme (2010-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Landspatientregisteret-Avanceret-udtraek" class="linktext">Landspatientregisteret: Avanceret udtr&#230;k</a>
+                                                    <p>Brugerdefineret udtr&#230;k fra Landspatientsregisteret</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Forgiftninger-og-selvmordsforsoeg-med-laegemidler" class="linktext">Forgiftninger og selvmordsfors&#248;g med l&#230;gemidler</a>
+                                                    <p>Antal indl&#230;ggelser med forgiftning og selvmordsfors&#248;g med l&#230;gemidlerne acetylsalicylsyre eller paracetamol p&#229; somatiske sygehuse. Opg&#248;relserne er fordelt p&#229; k&#248;n, alder og &#229;r (2014-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Plastikoperationer" class="linktext">Plastikoperationer</a>
+                                                    <p>Antal plastikoperationer foretaget p&#229; sygehuse og hos speciall&#230;ge fordelt p&#229; enten bop&#230;lsregion og kommune eller behandlingsregion og sygehus, samt operationstyper, operationssted, alder, k&#248;n og &#229;r (2005-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Radiologiske-undersoegelser" class="linktext">Radiologiske unders&#248;gelser</a>
+                                                    <p>Antal radiologiske unders&#248;gelser i Danmark fordelt p&#229; behandlingsregion, bop&#230;lsregion, alder, k&#248;n, finansiering eller sygehus (2020-)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Operationer-og-diagnoser/Udvalgte-kroniske-sygdomme-og-svaere-psykiske-lidelser" class="linktext">Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser</a>
+                                                    <p>Antal personer og nye tilf&#230;lde med udvalgte kroniske sygdomme og sv&#230;re psykisk lidelser (fx astma, diabetes og skizofreni) fordelt p&#229; alder, k&#248;n, regioner og kommune (2010- )</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Operationer-og-diagnoser" class="linktext js-footer-link float-right margin-top-10">Operationer og diagnoser - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category11" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category11-list').click(); $('#list-category11-list').click(); $(this).addClass('active'); return;"><span class="fas fa-heart margin-right-10"></span> Graviditet, f&#248;dsler og b&#248;rn <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category11-list" data-toggle="list" href="#list-category11" role="tab" aria-controls="list-category11"></a>
+                                <a class="d-none" id="accordion-category11-list" data-toggle="collapse" data-target="#accordion-category11" role="tab" aria-controls="accordion-category11"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category11" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category11-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Amning-og-udsaettelse-for-tobaksroeg-i-foerste-leveaar" class="linktext">Amning og uds&#230;ttelse for tobaksr&#248;g i f&#248;rste leve&#229;r</a>
+                                                    <p>Andel b&#248;rn med fuld amning samt andel b&#248;rn, der uds&#230;ttes for tobaksr&#248;g i hjemmet i barnets f&#248;rste leve&#229;r. Opg&#248;relserne er fordelt p&#229; kommune og region (2012-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Assisteret-reproduktion-IVF" class="linktext">Assisteret reproduktion (IVF)</a>
+                                                    <p>Antal behandlinger for assisteret reproduktion, antal kliniske graviditeter, antal forventede f&#248;dte b&#248;rn og flerfoldsrate.</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Foedte-og-foedsler-foer-1973-1996" class="linktext">F&#248;dte og f&#248;dsler (1973-1996)</a>
+                                                    <p>Historiske opg&#248;relser om antal f&#248;dte og antal f&#248;dsler (1973-1996)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Hoejde-og-vaegt-for-skoleboern" class="linktext">H&#248;jde og v&#230;gt for skoleb&#248;rn</a>
+                                                    <p>H&#248;jde og v&#230;gt blandt skoleb&#248;rn fordelt p&#229; skoletrin, region, kommune, k&#248;n og barnets &#229;rgang (&#229;rgang 1997-</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Nyfoedte-og-foedsler-1997-" class="linktext">Nyf&#248;dte og f&#248;dsler (1997-)</a>
+                                                    <p>Opg&#248;relser om antal nyf&#248;dte og antal f&#248;dsler i Danmark (1997- )</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Graviditet-foedsler-og-boern/Provokerede-aborter" class="linktext">Provokerede aborter</a>
+                                                    <p>Antal provokerede aborter fordelt p&#229; metode, kvindens alder, &#229;r (1973- </p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Graviditet-foedsler-og-boern" class="linktext js-footer-link float-right margin-top-10">Graviditet, f&#248;dsler og b&#248;rn - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                                <a class="list-group-item list-group-item-action js-megamenu-category " href="#list-category12" onclick="$('.js-megamenu-category').removeClass('active'); $('#accordion-category12-list').click(); $('#list-category12-list').click(); $(this).addClass('active'); return;"><span class="fas fa-hospital margin-right-10"></span> Hvad d&#248;r vi af <span class="fas fa-angle-right float-right angle"></span></a>
+                                <a class="d-none" id="list-category12-list" data-toggle="list" href="#list-category12" role="tab" aria-controls="list-category12"></a>
+                                <a class="d-none" id="accordion-category12-list" data-toggle="collapse" data-target="#accordion-category12" role="tab" aria-controls="accordion-category12"></a>
+                                <div class="tab-pane fade collapse d-md-none " id="accordion-category12" data-parent="#topics-list-tab" role="tabpanel" aria-labelledby="accordion-category12-list">
+                                        <ul class="row">
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Hvad-doer-vi-af/Alkohol" class="linktext">Alkohol</a>
+                                                    <p>Indikatorer om hospitalskontakt, offentligt finansieret behandling samt brug at l&#230;gemidler til behandling pga. alkohol opdelt p&#229; region, kommune, alder, k&#248;n og &#229;r (2009-2020)</p>
+                                                </li>
+                                                <li class="col-md-6 col-sm-12">
+                                                    <a href="/Emner/Hvad-doer-vi-af/Doedsaarsager" class="linktext">D&#248;ds&#229;rsager</a>
+                                                    <p>Antal d&#248;de fordelt p&#229; d&#248;ds&#229;rsager, alder, k&#248;n, region, &#229;r (2002-)</p>
+                                                </li>
+                                        </ul>
+                                    <a href="/Emner/Hvad-doer-vi-af" class="linktext js-footer-link float-right margin-top-10">Hvad d&#248;r vi af - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                                </div>
+                    </div>
+                </div>
+                <div class="col-md-8 col-sm-12 d-none d-md-block">
+                    <div class="tab-content list-group-links nav-tabContent">
+                            <div class="tab-pane fade show active" id="list-category0" role="tabpanel" aria-labelledby="list-category0-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aktuelt/Relancering-af-Mit-Sygehusvalg" class="linktext">Relancering af Mit Sygehusvalg</a>
+                                                <p>&#39;Mit sygehusvalg&#39; kan du bruge til at sammenligne sygehuse i Danmark ud fra fx ventetider og patienttilfredshed. Det kan hj&#230;lpe dig, n&#229;r du skal unders&#248;ges (udredes) eller behandles, og du selv vil v&#230;lge sygehus.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aktuelt/Udgivelseskalender" class="linktext">Udgivelseskalender</a>
+                                                <p>Oversigt over planlagte og tidligere udgivelser</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aktuelt/Vejledninger" class="linktext">Vejledninger</a>
+                                                <p>Vejledninger i at bruge eSundhed</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Aktuelt" class="linktext js-footer-link float-right margin-top-10">Aktuelt - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category1" role="tabpanel" aria-labelledby="list-category1-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje" class="linktext">Brugertilfredshedsunders&#248;gelse for hjemmepleje</a>
+                                                <p>Opg&#248;relsen viser besvarelser fra &#229;rets brugertilfredshedsunders&#248;gelse for &#230;ldrepleje.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-1" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – webbaseret sp&#248;rgeskema og telefoninterviews</a>
+                                                <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-2" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – bes&#248;gsinterview</a>
+                                                <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Aeldre/Brugertilfredshedsundersoegelse_for_aeldrepleje---metode-5" class="linktext">Brugertilfredshedsunders&#248;gelse for plejehjemsbeboere – webbaserede sp&#248;rgeskemaer</a>
+                                                <p>Opg&#248;relsen viser besvarelser fra brugertilfredshedsunders&#248;gelsen for &#230;ldrepleje p&#229; plejehjem</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Aeldre" class="linktext js-footer-link float-right margin-top-10">&#198;ldre - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category2" role="tabpanel" aria-labelledby="list-category2-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Almen-praksis/Almen-praksis-og-tilmeldte-patienter" class="linktext">Almen praksis og tilmeldte patienter</a>
+                                                <p>Opg&#248;relserne viser en r&#230;kke relevante tal for almen praksis siden 1. juli 2014. Tallene er hovedsageligt fordelt p&#229; praksistype, kommune og region, samt viser udviklingen pr. halv&#229;r.  Opg&#248;relserne ligger fordelt p&#229; f&#248;lgende overordnede emner: 1. N&#248;gletal for kapaciteten i almen praksis, 2. L&#230;gekapaciteter for almen praksis, 3. &#197;ben og lukket for tilgang, 4. Praksistyper.</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Almen-praksis" class="linktext js-footer-link float-right margin-top-10">Almen praksis - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category3" role="tabpanel" aria-labelledby="list-category3-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Noegletal" class="linktext">Sundhedsdata p&#229; tv&#230;rs – N&#248;gletal</a>
+                                                <p>Rapporten N&#248;gletal giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Arbejdsmarkedsdata" class="linktext">Sundhedsdata p&#229; tv&#230;rs - Arbejdsmarkedstilknytning</a>
+                                                <p>Rapporten indeholder oplysninger om den danske befolkning  i den arbejdsdygtige alder (16-67 &#229;r) og deres tilknytning til arbejdsmarkedet, aktivitet i hospitals-, kommune- samt praksissektoren. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Boern-og-unge" class="linktext">Sundhedsdata p&#229; tv&#230;rs – B&#248;rn og unge</a>
+                                                <p>Rapporten B&#248;rn og unge giver adgang til relevante, nationale sundhedsdata for regioner og praksissektoren om b&#248;rn og unge i alderen 0-25 &#229;r. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Borgere-Over-65" class="linktext">Sundhedsdata p&#229; tv&#230;rs – Borgere p&#229; 65 &#229;r og derover</a>
+                                                <p>Rapporten Borgere p&#229; 65 &#229;r og derover giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren om borgere i alderen 65 &#229;r og derover. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsdata-paa-tvaers/Sundhedsdata-paa-tvaers-Udvalgte-kroniske-sygdomme" class="linktext">Sundhedsdata p&#229; tv&#230;rs – Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser</a>
+                                                <p>Rapporten Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser giver adgang til relevante, nationale sundhedsdata for regioner, kommuner og praksissektoren om borgere med udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser. V&#230;rkt&#248;jet kan p&#229; tv&#230;rs af sektorerne skabe st&#248;rre viden om f&#230;lles patientpopulationer. </p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Sundhedsdata-paa-tvaers" class="linktext js-footer-link float-right margin-top-10">Sundhedsdata p&#229; tv&#230;rs - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category4" role="tabpanel" aria-labelledby="list-category4-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsklynger/Datapakker" class="linktext">Datapakker til sundhedsklyngerne</a>
+                                                <p>Datapakker til sundhedsklyngerne med en r&#230;kke udvalgte n&#248;gletal p&#229; tv&#230;rs af kommune, almen praksis og hospital. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Sundhedsklynger/SK_definition" class="linktext">Definition af sundhedsklynger</a>
+                                                <p>Definition af sundhedsklynger</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Sundhedsklynger" class="linktext js-footer-link float-right margin-top-10">Sundhedsklynger - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category5" role="tabpanel" aria-labelledby="list-category5-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Tandpleje/Boerne--og-Ungdomspleje" class="linktext">B&#248;rne- og ungdomstandpleje </a>
+                                                <p>Opg&#248;relserne viser en r&#230;kke opg&#248;relser p&#229; baggrund af kommunernes indberetninger til Sundhedsstyrelsens Centrale Odontologiske Register (SCOR-registeret) for perioden 2023 og frem. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Tandpleje/Noegletal" class="linktext">Voksentandpleje </a>
+                                                <p>Opg&#248;relsen viser en r&#230;kke n&#248;gletal for voksentandplejen for perioden 2009 og frem. </p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Tandpleje" class="linktext js-footer-link float-right margin-top-10">Tandpleje - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category6" role="tabpanel" aria-labelledby="list-category6-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Kraeft/Kraeftoverlevelse" class="linktext">Kr&#230;ftoverlevelse</a>
+                                                <p>Overlevelse fordelt p&#229; kr&#230;ftform, k&#248;n, region og &#229;r</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Kraeft/Nye-kraefttilfaelde" class="linktext">Nye kr&#230;fttilf&#230;lde</a>
+                                                <p>Opg&#248;relsen viser antallet af nye kr&#230;fttilf&#230;lde samt antallet af personer, der er i live efter en kr&#230;ftdiagnose.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Kraeft/Pakkeforloeb-for-kraeftomraadet" class="linktext">Pakkeforl&#248;b for kr&#230;ftomr&#229;det</a>
+                                                <p>Forl&#248;b gennemf&#248;rt inden for standardforl&#248;bstiden fordelt p&#229; kr&#230;ftomr&#229;der, pakkeforl&#248;b, region, &#229;r og kvartal (2020-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Kraeft/Pakkeforloeb-for-kraeftomraadet-2012-2018" class="linktext">Pakkeforl&#248;b for kr&#230;ftomr&#229;det (2012-2018)</a>
+                                                <p>Forl&#248;b gennemf&#248;rt inden for standardforl&#248;bstiden fordelt p&#229; kr&#230;ftomr&#229;der, pakkeforl&#248;b, region, &#229;r og kvartal (2012-2018)</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Kraeft" class="linktext js-footer-link float-right margin-top-10">Kr&#230;ft - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category7" role="tabpanel" aria-labelledby="list-category7-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Medicinsk-cannabis" class="linktext">Medicinsk cannabis</a>
+                                                <p>Monitorering af brugen af Medicinsk Cannabis</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Antibiotika" class="linktext">Antibiotika</a>
+                                                <p>Opg&#248;relserne viser salg af systemisk antibiotika, solgt fra apoteker p&#229; recept.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Dosispakket_Medicin" class="linktext">Dosispakket Medicin</a>
+                                                <p>Opg&#248;relsen viser, hvor mange borgere i forskellige aldersgrupper, der har modtaget dosispakket medicin fra apotekerne</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Antipsykotika" class="linktext">Antipsykotika</a>
+                                                <p>Forbrug af antipsykotika generelt og hos borgere med demens.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Brug-af-laegemidler-under-graviditet" class="linktext">Brug af l&#230;gemidler under graviditet</a>
+                                                <p>Receptpligtig medicin til kvinder f&#248;r og under graviditet fordelt p&#229; forskellige l&#230;gemidler, tidspunkter under graviditet, kvindens alder og &#229;r (2001-  )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Laegemidlermodovervaegt" class="linktext">Forbrug af udvalgte v&#230;gttabs- og diabetesmidler - herunder Wegovy Flextouch, Ozempic og Saxenda</a>
+                                                <p>Opg&#248;relse over salget af l&#230;gemidler, der er godkendt til brug mod diabetes og overv&#230;gt.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Medicinpriser" class="linktext">Medicinpriser</a>
+                                                <p>Udvikling i medicinpriser fordelt p&#229; forskellige l&#230;gemidler (seneste 5 &#229;r) </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Medicinprisindeks" class="linktext">Medicinprisindeks</a>
+                                                <p>Gennemsnitspris for behandling (definerede d&#248;gndoser) og pakning fordelt p&#229; medicingrupper, pristyper, &#229;r og m&#229;ned (2005- )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Medicintilskud" class="linktext">Medicintilskud</a>
+                                                <p>Apotekernes salg af tilskudsberettigede l&#230;gemidler og regionernes udgifter til tilskudsberettigede l&#230;gemidler fordelt p&#229; &#229;r og m&#229;neder (1996- )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Nye-laegemidler" class="linktext">Nye l&#230;gemidler</a>
+                                                <p>Nye receptpligtige l&#230;gemidler fordelt p&#229; &#229;rsag til nyt l&#230;gemiddel, markedsf&#248;rings&#229;r, antal og regioner (Seneste 5 &#229;r)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Sovemedicin-til-boern-og-unge" class="linktext">Sovemedicin til b&#248;rn og unge</a>
+                                                <p>Opg&#248;relserne viser udviklingen i brugen af sovemedicin blandt b&#248;rn mellem 0-17 &#229;r. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler" class="linktext">Apotekernes salg af l&#230;gemidler</a>
+                                                <p>Apotekernes salg af l&#230;gemidler (fx m&#230;ngde, oms&#230;tning og pris) fordelt p&#229; forskellige l&#230;gemidler, &#229;r og kvartal (seneste 5 &#229;r)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Laegemidler/Laegemiddel-covid-19" class="linktext">L&#230;gemidler i tabletform mod covid19</a>
+                                                <p>Opg&#248;relsen viser antal personer der k&#248;bte Lagevrio eller Plaxovid mod covid19</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Laegemidler" class="linktext js-footer-link float-right margin-top-10">L&#230;gemidler - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category8" role="tabpanel" aria-labelledby="list-category8-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Andre-ydere-i-praksis" class="linktext">Andre ydere i praksis</a>
+                                                <p>Antal behandlere, antal kapaciteter og antal praksis (ydernumre) for praksisomr&#229;derne almen l&#230;gehj&#230;lp, fodterapi, fysioterapi, kiropraktik, psykologihj&#230;lp, speciall&#230;gehj&#230;lp, tandl&#230;gehj&#230;lp, fordelt p&#229; regioner og roller (2007-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Ansatte-paa-offentlige-sygehuse" class="linktext">Ansatte p&#229; offentlige sygehuse</a>
+                                                <p>Antal ansatte p&#229; offentlige sygehuse fordelt p&#229; blandt andet personalegrupper, regioner, somatik, psykiatri, &#229;r (2001-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Arbejdsstyrken-af-sundhedsuddannede" class="linktext">Arbejdsstyrken af sundhedsuddannede</a>
+                                                <p>Antal sundhedsuddannede fordelt p&#229; &#229;r, faggrupper, herkomst, speciale, alder og k&#248;n, uddannelsesland, brancher og sektorer, region (2000-2020)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Autorisation" class="linktext">Autorisation</a>
+                                                <p>Antal udstedte autorisationer fordelt p&#229; faggrupper, alder, k&#248;n, uddannelsesgrupper, uddannelseslande og &#229;r  (2000-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Selvstaendig-virke" class="linktext">Selvst&#230;ndigt virke</a>
+                                                <p>Antal udstedte tilladelser til selvst&#230;ndigt virke til l&#230;ger tandl&#230;ger og kiropraktorer fordelt p&#229; faggrupper, k&#248;n og alder, uddannelsesland, &#229;r (2000-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet/Specialeanerkendelse" class="linktext">Specialeanerkendelse</a>
+                                                <p>Antal udstedte speciall&#230;ge- og specialtandl&#230;geanerkendelser fordelt p&#229; speciale, k&#248;n og alder, uddannelsesland, &#229;r (2000-)</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Beskaeftigede-i-sundhedsvaesnet" class="linktext js-footer-link float-right margin-top-10">Besk&#230;ftigede i sundhedsv&#230;senet - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category9" role="tabpanel" aria-labelledby="list-category9-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Brug-af-tvang-i-psykiatrien" class="linktext">Brug af tvang i psykiatrien (2004 -)</a>
+                                                <p>&#197;rsopg&#248;relse af brug af tvang i psykiatrien (2004-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Demensindikatorer" class="linktext">Indikator vedr. andel specifik f&#248;rste demensdiagnose blandt &#230;ldre (65+)</a>
+                                                <p>Andelen af borgere p&#229; 65 &#229;r eller derover, som har f&#229;et stillet en specifik f&#248;rste demensdiagnose p&#229; offentligt sygehus. Der opg&#248;res tal for &#229;rene 2015 og frem.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Erfarede-ventetider-psykiatrien" class="linktext">Erfarede ventetider psykiatrien</a>
+                                                <p>Erfarede ventetider i psykiatrien fordelt p&#229; region, alder, &#229;r og m&#229;ned (2008-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Forebyggelige-ophold" class="linktext">Forebyggelige ophold</a>
+                                                <p>Forebyggelige sygehusophold blandt &#230;ldre (65+), fordelt p&#229; region og kommune, samt udvalgte diagnoser. Data kan ses p&#229; antal, antal pr. 1000 og antal pr. 1000 k&#248;ns- og aldersstandardiseret.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Forebyggelige-sygehusophold-blandt-hjemmehjaelpsmodtagere" class="linktext">Kvalitetsindikator for forebyggelige sygehusophold blandt hjemmehj&#230;lpsmodtagere p&#229; 65 &#229;r og derover</a>
+                                                <p>Opg&#248;relsen viser kvalitetsindikator for forebyggelige sygehusophold blandt hjemmehj&#230;lpsmodtagere visiteret til personlig pleje p&#229; 65 &#229;r og derover</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Genindlaeggelser-i-somatik-og-psykiatri" class="linktext">Genindl&#230;ggelser i somatik og psykiatri</a>
+                                                <p>Akutte psykiatriske- og somatiske genindl&#230;ggelser, fordelt p&#229; region og kommune, samt udvalgte diagnoser. Data kan ses p&#229; antal, andel samt andel k&#248;ns- og alders standardiserede tal niveau. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Monitorering_af_tvang_i_psykiatrien" class="linktext">Monitorering af tvang i psykiatrien (2024-)</a>
+                                                <p>Monitorering af aftale om m&#229;l for mindre tvang i psykiatrien </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Selvmordsforsoeg" class="linktext">Estimeret antal selvmordsfors&#248;g (2016-)</a>
+                                                <p>Opg&#248;relse af det estimerede antal selvmordsfors&#248;g fordelt p&#229; bop&#230;lsregion, k&#248;n og alder.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Ventetider-til-behandling-eSundhed" class="linktext">Ventetider til behandling p&#229; sygehus</a>
+                                                <p>Ventetid til somatisk og psykiatrisk behandling p&#229; sygehus.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Forventede-ventetider" class="linktext">Forventede ventetider</a>
+                                                <p>Forventede ventetider fordelt p&#229; offentlige og private behandlingssteder, unders&#248;gelser og behandlinger samt ventetidstyper (2012- )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Sengepladser-og-belaegning-paa-sygehuse" class="linktext">Sengepladser og bel&#230;gning p&#229; sygehuse</a>
+                                                <p>Indikatorer omkring sengepladser og bel&#230;gning fordelt p&#229; sengetype, region, sygehus, afdelinger, speciale &#229;r og m&#229;neder (2014-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Genoptraeningsplaner" class="linktext">Genoptr&#230;ningsplaner</a>
+                                                <p>Antal genoptr&#230;ningsplaner fordelt p&#229; bl.a. diagnose, type af genoptr&#230;ning, speciale, region, kommune, &#229;r og kvartal (2009- )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Ventetid-til-genoptraening" class="linktext">Ventetid til genoptr&#230;ning</a>
+                                                <p>Ventetid til genoptr&#230;ning fordelt p&#229; regioner og kommuner (2014-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/HAIBA" class="linktext">Healthcare-Associated Infections Database - HAIBA</a>
+                                                <p>Oversigt over infektioner p&#229; sygehuse (2016-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/MitSygehusvalg" class="linktext">Mit Sygehusvalg</a>
+                                                <p>&#39;Mit sygehusvalg&#39; kan du bruge til at sammenligne sygehuse i Danmark ud fra fx ventetider og patienttilfredshed. Det kan hj&#230;lpe dig, n&#229;r du skal unders&#248;ges (udredes) eller behandles, og du selv vil v&#230;lge sygehus.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-udredningsretten-i-somatikken" class="linktext">Monitorering af udredningsretten i somatikken</a>
+                                                <p>Overholdelse af udredningsret, overholdelse/ej overholdelse efter &#229;rsag samt varighed af udredningsforl&#248;b – fordelt p&#229; region og kvartal</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-udredningsretten-i-psykiatrien" class="linktext">Monitorering af udredningsretten i psykiatrien</a>
+                                                <p>Overholdelse af udredningsret, overholdelse/ej overholdelse efter &#229;rsag samt varighed af udredningsforl&#248;b – fordelt p&#229; region, aldersgrupper og kvartal</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Erfarede-ventetider" class="linktext">Erfarede ventetider</a>
+                                                <p>Erfarede ventetider til operation fordelt p&#229; region, operationer, &#229;r og m&#229;ned. </p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Noegletal-for-sygehusvaesenet-og-praksisomraadet" class="linktext">N&#248;gletal for sygehusv&#230;senet og praksisomr&#229;det</a>
+                                                <p>Aktivitet i sygehusv&#230;senet og i praksissektoren fordelt p&#229; bl.a. bop&#230;lsregion, aldersgrupper, speciale og kontakttype (2015-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Monitorering-af-genaabningen-af-sundhedsvaesnet" class="linktext">Monitorering af gen&#229;bningen af sundhedsv&#230;senet</a>
+                                                <p>Gen&#229;bningen af sundhedsv&#230;senet monitoreres via en r&#230;kke udvalgte indikatorer.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Patienter-og-sygehuse/Nedbringelse-af-tvang-i-psykiatrien" class="linktext">Nedbringelse af tvang i psykiatrien (2014 - 2023)</a>
+                                                <p>Alle oplysninger om anvendelse af tvang ved indl&#230;ggelse og ophold p&#229; en psykiatrisk afdeling er fra den 1. januar 1999 indberettet for hver enkelt patient.</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Patienter-og-sygehuse" class="linktext js-footer-link float-right margin-top-10">Patienter og sygehuse - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category10" role="tabpanel" aria-labelledby="list-category10-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Fedmeoperationer" class="linktext">Fedmeoperationer (2009-)</a>
+                                                <p>Antal fedmeoperationer i Danmark fordelt p&#229; operationstype og behandlingsregion, bop&#230;lsregion, alder, k&#248;n, finansiering eller sygehus (2009-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Fedmeoperationer_2009-2023" class="linktext">Fedmeoperationer (2009-2023)</a>
+                                                <p>Antal fedmeoperationer foretaget p&#229; sygehuse fordelt p&#229; enten bop&#230;lsregion og kommune, behandlingsregion og sygehus, samt operationstyper, operationssted, alder, k&#248;n og &#229;r (2009-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Hjertesygdomme" class="linktext">Hjertesygdomme og hjerteoperationer (2010-)</a>
+                                                <p>Antal personer og nye tilf&#230;lde med udvalgte hjertesygdomme (2010-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Landspatientregisteret-Avanceret-udtraek" class="linktext">Landspatientregisteret: Avanceret udtr&#230;k</a>
+                                                <p>Brugerdefineret udtr&#230;k fra Landspatientsregisteret</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Forgiftninger-og-selvmordsforsoeg-med-laegemidler" class="linktext">Forgiftninger og selvmordsfors&#248;g med l&#230;gemidler</a>
+                                                <p>Antal indl&#230;ggelser med forgiftning og selvmordsfors&#248;g med l&#230;gemidlerne acetylsalicylsyre eller paracetamol p&#229; somatiske sygehuse. Opg&#248;relserne er fordelt p&#229; k&#248;n, alder og &#229;r (2014-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Plastikoperationer" class="linktext">Plastikoperationer</a>
+                                                <p>Antal plastikoperationer foretaget p&#229; sygehuse og hos speciall&#230;ge fordelt p&#229; enten bop&#230;lsregion og kommune eller behandlingsregion og sygehus, samt operationstyper, operationssted, alder, k&#248;n og &#229;r (2005-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Radiologiske-undersoegelser" class="linktext">Radiologiske unders&#248;gelser</a>
+                                                <p>Antal radiologiske unders&#248;gelser i Danmark fordelt p&#229; behandlingsregion, bop&#230;lsregion, alder, k&#248;n, finansiering eller sygehus (2020-)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Operationer-og-diagnoser/Udvalgte-kroniske-sygdomme-og-svaere-psykiske-lidelser" class="linktext">Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser</a>
+                                                <p>Antal personer og nye tilf&#230;lde med udvalgte kroniske sygdomme og sv&#230;re psykisk lidelser (fx astma, diabetes og skizofreni) fordelt p&#229; alder, k&#248;n, regioner og kommune (2010- )</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Operationer-og-diagnoser" class="linktext js-footer-link float-right margin-top-10">Operationer og diagnoser - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category11" role="tabpanel" aria-labelledby="list-category11-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Amning-og-udsaettelse-for-tobaksroeg-i-foerste-leveaar" class="linktext">Amning og uds&#230;ttelse for tobaksr&#248;g i f&#248;rste leve&#229;r</a>
+                                                <p>Andel b&#248;rn med fuld amning samt andel b&#248;rn, der uds&#230;ttes for tobaksr&#248;g i hjemmet i barnets f&#248;rste leve&#229;r. Opg&#248;relserne er fordelt p&#229; kommune og region (2012-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Assisteret-reproduktion-IVF" class="linktext">Assisteret reproduktion (IVF)</a>
+                                                <p>Antal behandlinger for assisteret reproduktion, antal kliniske graviditeter, antal forventede f&#248;dte b&#248;rn og flerfoldsrate.</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Foedte-og-foedsler-foer-1973-1996" class="linktext">F&#248;dte og f&#248;dsler (1973-1996)</a>
+                                                <p>Historiske opg&#248;relser om antal f&#248;dte og antal f&#248;dsler (1973-1996)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Hoejde-og-vaegt-for-skoleboern" class="linktext">H&#248;jde og v&#230;gt for skoleb&#248;rn</a>
+                                                <p>H&#248;jde og v&#230;gt blandt skoleb&#248;rn fordelt p&#229; skoletrin, region, kommune, k&#248;n og barnets &#229;rgang (&#229;rgang 1997-</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Nyfoedte-og-foedsler-1997-" class="linktext">Nyf&#248;dte og f&#248;dsler (1997-)</a>
+                                                <p>Opg&#248;relser om antal nyf&#248;dte og antal f&#248;dsler i Danmark (1997- )</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Graviditet-foedsler-og-boern/Provokerede-aborter" class="linktext">Provokerede aborter</a>
+                                                <p>Antal provokerede aborter fordelt p&#229; metode, kvindens alder, &#229;r (1973- </p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Graviditet-foedsler-og-boern" class="linktext js-footer-link float-right margin-top-10">Graviditet, f&#248;dsler og b&#248;rn - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                            <div class="tab-pane fade " id="list-category12" role="tabpanel" aria-labelledby="list-category12-list">
+                                    <ul class="row">
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Hvad-doer-vi-af/Alkohol" class="linktext">Alkohol</a>
+                                                <p>Indikatorer om hospitalskontakt, offentligt finansieret behandling samt brug at l&#230;gemidler til behandling pga. alkohol opdelt p&#229; region, kommune, alder, k&#248;n og &#229;r (2009-2020)</p>
+                                            </li>
+                                            <li class="col-md-6 col-sm-12">
+                                                <a href="/Emner/Hvad-doer-vi-af/Doedsaarsager" class="linktext">D&#248;ds&#229;rsager</a>
+                                                <p>Antal d&#248;de fordelt p&#229; d&#248;ds&#229;rsager, alder, k&#248;n, region, &#229;r (2002-)</p>
+                                            </li>
+                                    </ul>
+                                <a href="/Emner/Hvad-doer-vi-af" class="linktext js-footer-link float-right margin-top-10">Hvad d&#248;r vi af - Emneoversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <div class="list-group border-left border-right" role="tablist">
+                                <a class="list-group-item list-group-item-action list-group-default" href="/Emner"><span class="fas fa-arrow-right margin-right-10"></span> Emneoversigt <span class="fas fa-angle-right float-right angle"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 col-sm-12 js-footer-link-wrapper">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+    <div class="bg_overlay js-bg_overlay"></div>
+</section>
+
+
+<section id="megamenu-2" class="megamenu js-megamenu" aria-labelledby="navbarDropdown-2">
+
+
+
+
+<nav class="wrapper fadeInDown animated" aria-label="Register-menu">
+    <div class="top">
+        <div class="container">
+            <div class="row">
+                <a href="#" class="d-lg-none close-megamenu"><i class="fas fa-times"></i></a>
+                <div class="col-12">
+                    <div class="left-padding">
+                        <h1 class="headertext">Registre</h1>
+                        <p>Find opg&#248;relser ud fra hvilke registre de kommer fra</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="tab-content list-group-links nav-tabContent">
+                        <div class="tab-pane fade show active" id="list-registre" role="tabpanel" aria-labelledby="list-registre-list">
+                                <ul class="row">
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Bevaegelsesregisteret" class="linktext">
+                                                Bev&#230;gelsesregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Antal sundhedsuddannede fordelt p&#229; &#229;r, faggrupper, herkomst, speciale, alder og k&#248;n, uddannelsesland, brancher og sektorer, region (2000-)"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Det-statistiske-autorisationsregister" class="linktext">
+                                                Det Statistiske Autorisationsregister
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Antal udstedte autorisationer, tilladelser og specialeanerkendelser til l&#230;ge m.v. (2000- )"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Register-over-legalt-provokerede-aborter" class="linktext">
+                                                Register over legalt provokerede aborter
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Antal legalt provokerede aborter fordelt p&#229; region, kommune, kvindens alder og &#229;r (1995- )"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Den-nationale-boernedatabase" class="linktext">
+                                                Den Nationale B&#248;rnedatabase
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Alle danske for&#230;ldre bliver tilbudt forebyggende helbreds- og funktionsunders&#248;gelser af deres b&#248;rn. Dette giver mulighed for at lave landsd&#230;kkende opg&#248;relser."></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Cancerregisteret" class="linktext">
+                                                Cancerregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Data i registeret kommer blandt andet fra sygehusenes indberetninger til Landspatientregisteret."></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Det-medicinske-foedselsregister" class="linktext">
+                                                Det Medicinske F&#248;dselsregister
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Det Medicinske F&#248;dselsregister (MFR) indeholder oplysninger om f&#248;dsler foreg&#229;et i Danmark fra 1973 til i dag."></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Doedsaarsagsregisteret" class="linktext">
+                                                D&#248;ds&#229;rsagsregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Antal d&#248;de fordelt p&#229; d&#248;ds&#229;rsager, alder, k&#248;n, region, &#229;r (2002-)"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Genoptraening-efter-Sundhedsloven" class="linktext">
+                                                Genoptr&#230;ning efter Sundhedslovens &#167; 140
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="P&#229; baggrund af data fra Landspatientregisteret og kommunernes indberetninger opg&#248;r Sundhedsdatastyrelsen antallet af genoptr&#230;ningsplaner og genoptr&#230;ningsydelser p&#229; genoptr&#230;ningsomr&#229;det."></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Laegemiddelstatistikregisteret" class="linktext">
+                                                L&#230;gemiddelstatistikregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="L&#230;gemiddelstatistikregisteret indeholder oplysninger om al salg og alle leverancer af l&#230;gemidler. "></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Landspatientregisteret" class="linktext">
+                                                Landspatientregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Landspatientregisteret (LPR) indeholder data om patienters kontakter med sygehuse i Danmark."></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Udvalgte-kroniske-sygdomme-og-svaere-psykiske-lidelser" class="linktext">
+                                                Udvalgte kroniske sygdomme og sv&#230;re psykiske lidelser
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Antal personer og nye tilf&#230;lde med udvalgte kroniske sygdomme og sv&#230;re psykisk lidelser (fx astma, diabetes og skizofreni) fordelt p&#229; alder, k&#248;n, regioner og kommune (2000- )"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Nationale-alkohol-behandlingsregisteret" class="linktext">
+                                                Nationale alkohol behandlingsregisteret
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="Indikatorer om hospitalskontakt, offentligt finansieret behandling samt brug at l&#230;gemidler til behandling pga. alkohol opdelt p&#229; region, kommune, alder, k&#248;n og &#229;r (2009-2020)"></span>
+                                        </li>
+                                        <!--<li class="col-md-4 col-sm-12">-->
+                                        <li class="col-12 explanation">
+                                            <a href="/Registre/Register-over-Tvang-i-psykiatrien" class="linktext">
+                                                Register over Tvang i psykiatrien
+                                            </a>
+                                                <span class="fas fa-info-circle js-explanation" data-content="P&#229; baggrund af registret opg&#248;res antal p&#229;begyndte tvangsforanstaltninger og antal ber&#248;rte personer fordelt p&#229; tvangstype, region, speciale og &#229;r (2004-"></span>
+                                        </li>
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <a href="/Registre" class="linktext float-right margin-top-10 margin-bottom-10">Registre - oversigt <span class="margin-left-10 fas fa-arrow-right"></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+    <div class="bg_overlay js-bg_overlay"></div>
+</section>
+
+
+<section id="megamenu-3" class="megamenu  js-megamenu js-load-mit-esundheds" aria-labelledby="navbarDropdown-3">
+    <!-- only ajax call herre-->
+</section>
+
+
+
+
+
+    
+    <div class="bg_overlay"></div>
+
+
+    
+<section class="section_bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <ol class="breadcrumb">
+                        <li class="breadcrumb-item">
+                            <a class="" href="/">
+                                eSundhed
+                            </a>
+                        </li>
+                        <li class="breadcrumb-item">
+                            <a class="" href="/Emner">
+                                Emner
+                            </a>
+                        </li>
+                        <li class="breadcrumb-item">
+                            <a class="" href="/Emner/Laegemidler">
+                                L&#230;gemidler
+                            </a>
+                        </li>
+                        <li class="breadcrumb-item">
+                            <a class="active" href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler">
+                                Apotekernes salg af l&#230;gemidler
+                            </a>
+                        </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-8" style="margin-top:20px;margin-bottom:20px;">
+                <h1>Apotekernes salg af l&#230;gemidler</h1>
+            </div>
+            <div class="col-4" style="padding-top:15px;">
+                
+
+<div class="favoritebox float-right">
+        <i class="far fa-star fa-2x notloggetin_favorite js-popover" style="cursor:pointer;" data-toggle="popover" title="Ikke logget ind" data-content="Log venligst ind for at gemme siden som en favorit" role="button"></i>
+</div>
+
+<div class="notificationbox float-right">
+        <i class="far fa-bell fa-2x notloggetin_notification js-popover" style="cursor:pointer;" data-toggle="popover" title="Ikke logget ind" data-content="Log venligst ind for at abonnere p&#229; notifikationer"></i>
+</div>
+
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+    <section class="mod_subheadline section_bg padding-top-30 padding-bottom-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-12 subheadline-left standard-ul">
+                    <p style="margin: 0cm 0cm 0pt; text-align: left;">Apotekernes salg af l&aelig;gemidler er blevet rykket til&nbsp;<a href="https://sundhedsdatabank.dk/medicin/medicinsalg-og-udgifter-menu">Sundhedsdatabank.dk</a></p>
+<p>
+</p>
+                </div>
+                <div class="col-md-4 col-sm-12 subheadline-right">
+                    
+<div class="col-12">
+    <div class="card card-body bg-light">
+        <h4>Kontakt</h4>
+<p>&nbsp;</p>
+<p>E: <a href="mailto:kontakt@sundhedsdata.dk">kontakt@sundhedsdata.dk</a></p>
+    </div>
+</div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+<section class="mod_topic section_bg-white padding-top-30 padding-bottom-40">
+    <div class="container">
+        <ul class="nav nav-tabs datavisningTab" role="tablist" style="display:inline-block; text-align:center; width:100%;">
+            <!-- Tabs will go here -->
+        </ul>
+        <div class="row">
+
+            <div class="col-12">
+                <div class="tab-content datavisning">
+                    <!-- Tab Contents will go here -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</section>
+
+<style>
+    .flex-container-sds {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 45px 45px 0;
+    }
+    .nav-link.qlik {
+         text-overflow: ellipsis;
+         overflow: hidden;
+         white-space: nowrap;
+    }
+    .nav-link.qlik span{
+        border-bottom: solid 3px #D3D3D3;
+        display: inline-block;
+    }
+    .nav-link.qlik.active span{
+        border-bottom: solid 3px #BFE600;
+    }
+
+    .qvplaceholder, .qvobject {
+        flex: 1 1 auto;
+        height: 350px;
+        min-width: 400px;
+        margin: 45px 0 0 45px;
+    }
+
+    .qvobjectsheet {
+        min-height: 880px;
+    }
+    .nav-link.qlik span:hover {
+        border-bottom: solid 3px #007ec5;
+        display: inline-block;
+    }
+    .popup {
+        background-color: #c3534b;
+        color: #FFFFFF;
+        position: fixed;
+        max-width: 250px;
+        padding: 10px;
+        margin: 10px;
+        bottom: 0;
+        right: 0;
+        display: none;
+        border-radius: 5px;
+        z-index: 6;
+        font-family: sans-serif;
+    }
+
+    .close {
+        cursor: pointer;
+        background: 0 0;
+        border: 0;
+        float: right;
+        font-size: 21px;
+        font-weight: 700;
+        line-height: 1;
+        color: #000;
+        text-shadow: 0 1px 0 #fff;
+        opacity: .2;
+        position: absolute;
+        right: 9px;
+        top: 7px;
+    }
+
+        .close:hover {
+            opacity: .5;
+        }
+
+    .popupText {
+        margin-right: 23px;
+    }
+
+    .qsheet {
+        padding-top: 0px;
+    }
+
+        .qsheet > div {
+            position: relative;
+            height: calc(100vh - 90px);
+        }
+
+        .qsheet.hide > div {
+            height: 0;
+        }
+
+    .qinner-left {
+        border-right: 1px solid #D9D9D9;
+        /* width: 59vw; */
+        width: calc(60vw - 16px);
+        padding-right: 10px;
+        height: calc(100vh - 84px);
+    }
+
+    /*
+        .qv-object-wrapper .qv-object {
+            border: 1px solid #D9D9D9;
+            border-radius: 6px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }*/
+    .qobjects-btn-container {
+        top: 9px;
+        z-index: 2;
+        right: 10px;
+        position: absolute;
+    }
+
+    .export-btns {
+        width: 20px;
+        height: 20px;
+        border: none;
+        cursor: pointer;
+        background-repeat: no-repeat;
+        background-color: transparent;
+    }
+
+    .export-image {
+        margin-right: 3px;
+        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAABc0lEQVQ4ja3Uv2sUURAH8M+EQ4IcwcrCIqSQFBYWqUWsUluJZf6BgJ2IASsLC20OC/0HxNrGThQxIJoiELDyRwgBiwTB5JBDbix2c1zu9i0X8PtY2H0z7/tm5juzkRKEuIAVnFfGENsp95qMnbH363iGQYGoU1/0McS9lFtTHlkvrGEzNS/cwE9sYBNXJ33mWlJqwl88wSv0QlwZN56VTMp+Tfgej0JcPLF1iqemMUA3xNv6u4tFlWivi2Qh5rGMrymP6u0vWMfCmOtdzI+HfUoAnMNL/MYbLLaIsoObbQJcUrVJF9ewNGsdmsj28QF/8A67deqrIR6H6JbIpmqWchBiHU/xHXshVtHDZQxDPEz5a5bIoK9Kr49beKESZA538CDE9NmCAD0c47Oq63Pi+aaq6SkBmlpjGbdVc7hSiLyxpZo2D/G8vrmEA9VotZOl3Mf9FqIRQhTJDrEU4scsRDWGGKkaZ/w5TuIIn05GbkT2P/APsFaON/n9bFUAAAAASUVORK5CYII=');
+    }
+
+    .export-excel {
+        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAABY0lEQVQ4ja3UMUjVURTH8c+Jh0g8JCScIqIpQhoapCmcpK0xiCAhGhoaQyyhwUkQHd7kLo0OtjRWBIJISFODg0VLSzQ8HEQ8Du8q//T9//aic5f7P+f8vuf87z3cSAlCXMJtXFRvh/iS8ke/YKuyv4sV7NeAWqXQZojZlJ/PZGRZmMZG6r8wiZ+YwwZunc650PBL/ewAS3iLToib1eCgMCn3CvAjFkKMHcdataqzto92iA/lu42repf2blDYVzzHSMU3g+FzOwsxUap28R5TGMKnlNsl51lV09TZfbzELp5guXT1Atv9BLWwlK/KII9gC6sYSrlYpznvNpf1DrmD65hvSm6EpdzRO69H6KT8/s+wEDdwB+t4XJ2pgWAh2pjFDp5iFK9DDNdpmjp7iHFcxpXim8C9OkHTaLzBmt6z08WDUnzvb2C/cC3Et4YCIMTx9hC/T/wDPo6nrYutlN0/YP/DjgB06WYphDHy5wAAAABJRU5ErkJggg==');
+    }
+</style>
+<section class="linkSection padding-top-30 padding-bottom-30">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-12">
+                <h4>Dokumentation</h4>
+                <ul>
+
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12">
+                <h4>Opdateringer</h4>
+                <ul>
+                        <li><i>08.09.25</i> <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler">Apotekernes salg af l&#230;gemidler er opdateret</a></li>
+                        <li><i>06.06.25</i> <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler">Apotekernes salg af l&#230;gemidler er opdateret</a></li>
+                        <li><i>07.03.25</i> <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler">Apotekernes salg af l&#230;gemidler er opdateret</a></li>
+                        <li><i>05.09.24</i> <a href="/Emner/Laegemidler/Apotekernes-salg-af-laegemidler">Apotekernes salg af l&#230;gemidler er opdateret</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12">
+                <h4>Relaterede emner</h4>
+                <ul>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="mod_feedback js-feedback">
+    <div class="container-fluid">
+        <div class="headline uppercase js-showhide-feedback">
+            <h3>FEEDBACK</h3>
+        </div>
+        <div class="bg">
+            <form method="post" name="" action="">                
+                <input name="__RequestVerificationToken" type="hidden" value="nf-SuhXDIOkUmgSl8QcAH4TjeRiQV7H_EtihsshLyqZY4akmX4j2hKHI9IV62Y5nibtE1cw1NRIFLJC3h76J6ZRSul01" />
+                <input id="PageGuid" name="PageGuid" type="hidden" value="4a666dc7-da3c-4679-9b14-711ce1322917" />
+                <div class="row">
+                    <div class="col-md-1 d-none d-md-block"></div>
+                    <div class="col-md-5 col-12">
+                        <h3 class="margin-bottom-20">FEEDBACK</h3>
+                        <p id="feedback-text-field-description">
+                            Fandt du det du s&#248;gte? Har du kommentarer, ris eller ros til siden? S&#229; er du velkommen til at give dit bidrag til hvordan vi kan g&#248;re eSundhed endnu bedre.
+                        </p>
+                    </div>
+
+                    <div class="col-md-5 col-12 mood-buttons">
+                        <fieldset>
+                            <legend id="feedback-what-you-were-looking-for-legend" class="margin-bottom-20">Fandt du det du s&#248;gte?</legend>
+                            <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                                <label for="feedback-yes" class="btn btn-secondary js-answer-feedback-yes" data-answer-feedback-url="/api/sitecore/feedback/FeedbackUseful" aria-describedby="feedback-what-you-were-looking-for-legend">
+                                    <input type="radio" name="feedback-options" id="feedback-yes" autocomplete="off"> JA
+                                </label>
+                                <label for="feedback-no" class="btn btn-secondary js-answer-feedback-no" data-answer-feedback-url="/api/sitecore/feedback/FeedbackUseful" aria-describedby="feedback-what-you-were-looking-for-legend">
+                                    <input type="radio" name="feedback-options" id="feedback-no" autocomplete="off"> NEI
+                                </label>
+                            </div>
+                        </fieldset>
+                        <div id="thankYouUsefulDiv" style="display: none" class="btn-group btn-group-toggle" data-toggle="buttons">
+                            <p>Tak skal du have</p>
+                        </div>
+                    </div>
+                    <div class="col-md-1 d-none d-md-block"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-1 d-none d-md-block"></div>
+                    <div class="col-12 col-md-10">
+                        <textarea id="commentsTA" name="" placeholder="Skriv din kommentar her..." aria-describedby="feedback-text-field-description" class="w-100"></textarea>
+                    </div>
+                    <div class="col-md-1 d-none d-md-block"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-1 d-none d-md-block"></div>
+                    <div class="col-12 col-md-10" id="sendCommentsDiv" style="display: block">
+                        <span class="fas fa-angle-right margin-right-10 margin-bottom-20 green-color float-right margin-top-10"></span>
+                            <input type="button" name="" value="SEND" class="btn btn-secondary submit js-send-comment-feedback" data-comment-feedback-url="/api/sitecore/feedback/FeedbackComment" />
+                    </div>
+                    <div class="col-12 col-md-10" id="thankYouCommentsDiv" style="display: none">
+                        <p>Tak skal du have</p>
+                    </div>
+                    <div class="col-md-1 d-none d-md-block"></div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+
+    
+    
+
+ 
+
+<footer class="global_footer">
+    <div class="container">
+        <div class="row col-12">
+                    <div class="col-md-2 col-12">
+                        <div class="footer-column">
+                            <h4>Presse</h4>
+                            <ul>
+                                    <li>
+                                        <a href="/Kontakt">
+                                            <span class="link-text">Kontakt</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Emner/Aktuelt/Udgivelseskalender">
+                                            <span class="link-text">Udgivelseskalender</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-12">
+                        <div class="footer-column">
+                            <h4>Det med sm&#229;t</h4>
+                            <ul>
+                                    <li>
+                                        <a href="/WAS">
+                                            <span class="link-text">Tilg&#230;ngelighedserkl&#230;ring</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Cookie">
+                                            <span class="link-text">Brug af cookies</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Privatlivspolitik">
+                                            <span class="link-text">Privatlivspolitik</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Anvendelsesvilkaar">
+                                            <span class="link-text">Anvendelsesvilk&#229;r</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="javascript:cookieTractor.openConsentSettings()">
+                                            <span class="link-text">Cookiesamtykke</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-12">
+                        <div class="footer-column">
+                            <h4>Om siden</h4>
+                            <ul>
+                                    <li>
+                                        <a href="/Om-eSundhed">
+                                            <span class="link-text">eSundhed</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Om-Lukket-eSundhed">
+                                            <span class="link-text">Lukket eSundhed</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Profiler-og-adgange">
+                                            <span class="link-text">Mit eSundhed</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Driftsstatus">
+                                            <span class="link-text">Driftsstatus</span>
+                                            <i class="fas fa-arrow-right" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+
+
+
+            <!--<div class="col-md-1 col-12 footer-column"></div>-->
+            <div class="col-md-4 col-12 footer-column standard-ul">
+                <h3>eSundhed.dk</h3>
+<p>
+Sundhedsdatastyrelsen<br />
+Ørestads Boulevard 5<br />
+2300 Kbh S<br />
+T: 72216800<br />
+E: kontakt@sundhedsdata.dk</p>
+            </div>
+            <div class="col-md-2 col-12">
+                <div class="sundhedsdatastyrelsen_logo"><img src="/-/media/Project/eSundhed/sundhedsdatastyrelsen.ashx?h=76&amp;iar=0&amp;w=155&amp;hash=E67BDB429E14176D61066937B5B554DE" alt="eSundhed.dk er ejet af Sundhedsdatastyrelsen" width="155" height="76" /></div>
+            </div>
+
+        </div>
+
+    </div>
+</footer>
+    
+    <div class="modal fade dashboard-modal-lg js-dashboard-modal dashboard-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog js-modal-body modal-lg"></div>
+    </div>
+    <div class="modal fade modal-handler" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document"> 
+            <div class="modal-content js-modal-content modal-handler-content" id="modal-dialog-content">
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="/Assets/plugins/jquery/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.min.js?v=9.2.4.0"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.unobtrusive.min.js?v=9.2.4.0"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.unobtrusive-ajax.min.js?v=9.2.4.0"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.validate.js?v=9.2.4.0"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.tracking.js?v=9.2.4.0"></script>
+    <!-- <script src="~/Assets/plugins/bootstrap/js/bootstrap.min.js"></script> -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js" integrity="sha256-xLhce0FUawd11QSwrvXSwST0oHhOolNoH9cUXAcsIAg=" crossorigin="anonymous"></script>
+    <script src="/Assets/plugins/typeahead.js/typeahead.bundle.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/datatables/js/jquery.dataTables.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/datatables2/datatables.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/datatables/js/jquery.dataTables.yadcf.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/datatables/js/select2.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/jquery/jquery-ui.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/plugins/jquery/datepicker-da.js?v=9.2.4.0"></script>
+    <script src="/Assets/build/js/main.js?v=9.2.4.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js" integrity="sha256-AdQN98MVZs44Eq2yTwtoKufhnU+uZ7v2kXnD5vqzZVo=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/da.js" integrity="sha256-TzTiE7Ui4q6dso7OWYuJp6G8/lMVPI7qvo3/Ry0E9DI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.10.20/sorting/datetime-moment.js"></script>
+    
+    <script src="/Assets/plugins/filesaver/FileSaver.min.js?v=9.2.4.0"></script>
+    <script src="/Assets/scripts/components/qliksense.js?v=9.2.4.0"></script>
+    </body>
+</html>
+
+

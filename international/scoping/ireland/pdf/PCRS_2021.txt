@@ -1,0 +1,1970 @@
+2021
+Primary Care Reimbursement Service
+Statistical Analysis of Claims
+and Payments 2021
+  Feidhmeannacht na Seirbhíse Sláinte           Health Service Executive
+Seirbhís Aisíocaíochta Cúraim Phríomhúil   Primary Care Reimbursement Service
+           Bealach amach 5 M50                          Exit 5 M50
+            An Bóthar Thuaidh                           North Road
+                Fionnghlas                                Finglas
+            Baile Átha Cliath 11                         Dublin 11
+                 D11 XKF3                                D11 XKF3
+
+            Fón: (01) 864 7100                       Ph: (01) 864 7100
+            Facs: (01) 834 3589                      Fax: (01) 834 3589
+
+        Ríomhphost: and.pcrs@hse.ie                Email: and.pcrs@hse.ie
+       Láithreán Gréasáin: www.hse.ie               Website: www.hse.ie
+Primary Care Reimbursement Service
+
+  STATISTICAL ANALYSIS OF CLAIMS AND PAYMENTS
+                       2021
+Contents       Summary of Statistical Analysis
+
+
+Page                                                          27   Fees and Allowances under the Capitation / Fee-Per-        DENTAL SECTION
+ 3     Introduction                                                Item Agreement as at 31st December 2021
+                                                              29   Payments to General Practitioners 2021                     52   Scale of Fees Payable under the Dental Treatment
+SCHEMES OVERVIEW                                              30   Payments to General Practitioners 2012 - 2021                   Services Scheme as at 31st December 2021
+                                                              31   Number of Claims by General Practitioners                  53   Payments to Dentists: Claims Reimbursed 2021
+ 6     Schemes – Claim Reimbursement and Payment              32   Number of Claims by General Practitioners 2012 - 2021      54   Payments to Dentists: Claims Reimbursed 2012 - 2021
+       Arrangements                                           33   GMS: Payments to General Practitioners                     55   Number of Dental Treatments Claimed 2021
+9      Summary Statement of Activity – 2021                                                                                   56   Number of Dental Treatments Claimed 2012 - 2021
+10     Total Payments and Reimbursements – 2021               PHARMACY SECTION
+11     Number of Agreements with Contractor Groups                                                                            OPTICAL SECTION
+12     Number of Agreements with Contractor Groups 2012 -     36   Scale of Fees Payable to Participating Pharmacists as at
+       2021                                                        31st December 2021                                         58   Scale of Fees Payable under the Health Service
+13     Total Payments to Contractor Groups by CHO 2021        37   Payments to Pharmacists: Claims Reimbursed 2021                 Executive Community Ophthalmic Services Scheme
+                                                              38   Payments to Pharmacists: Claims Reimbursed 2012 -          60   Payments to Optometrists / Ophthalmologists: Claims
+CARDHOLDER SECTION                                                 2021                                                            Reimbursed 2021
+                                                              39   Average GMS Cost per Pharmacy Item 2012 - 2021             61   Payments to Optometrists / Ophthalmologists: Claims
+16     Number of Eligible Persons per Scheme - 2021           40   Number of Items Claimed by Pharmacists                          Reimbursed 2012 - 2021
+17     Number of Eligible Persons per Scheme 2012 -2021       41   Number of Items Claimed by Pharmacists 2012 - 2021         62   Number of Treatments by Optometrists /
+18     GMS: Summary of Statistical Information for 2017 -     42   HSE - Medicines Management Programme (MMP) -                    Ophthalmologists
+       2021                                                        Preferred Drugs                                            63   Number of Treatments by Optometrists /
+19     LTI / DP Schemes: Summary of Statistical Information   43   HSE - Medicines Management Programme: BVB / BGTS                Ophthalmologists 2012 - 2021
+       for 2017 - 2021                                        44   GMS: Major Therapeutic Classification of Drugs,
+                                                                   Medicines and Appliances                                   65   Appendix
+GENERAL PRACTITIONER SECTION                                  45   DPS: Major Therapeutic Classification of Drugs,
+                                                                   Medicines and Appliances
+22     Fees and Allowances under Capitation Agreement as at   46   LTI: Major Therapeutic Classification of Drugs,
+       31st December 2021                                          Medicines and Appliances
+25     Fees and Allowances under the Fee-Per-Item             47   LTI: Spend by Illness
+       Agreement and Fees under the Immunisation Scheme,      48   High Tech: Major Therapeutic Classification of Drugs
+       Health (Amendment) Act 1996, Opioid Substitution            and Medicines
+       Treatment Scheme and Heartwatch Programme as at        49   High Tech Trends 2012 - 2021
+       31st December 2021
+
+
+
+
+                                                                                          2
+Introduction                                                                                    Réamhrá
+
+
+The Primary Care Reimbursement Service (PCRS) is responsible for reimbursing GPs,               Tá an tSeirbhís Aisíocaíochta Cúraim Phríomhúil (PCRS) freagrach as aisíocaíocht
+Dentists, Pharmacists, Optometrists/Ophthalmologists and other contractors who                  a dhéanamh le Dochtúirí Teaghlaigh, Fiaclóirí, Cógaiseoirí, Optaiméadraithe/
+provide free or reduced-cost services to the public across a range of primary care              Ophthalmeolaithe agus conraitheoirí eile a sholáthraíonn seirbhísí saor in aisce nó
+schemes. These schemes, which are administered by PCRS, form the infrastructure                 ar chostas laghdaithe don phobal thar raon scéimeanna cúraim phríomhúil. Is trí na
+through which the HSE delivers a significant proportion of primary care to the public.          scéimeanna seo a sholáthraíonn FSS roinnt mhaith de na scéimeanna um chúram
+                                                                                                phríomhúil don phobal.
+The 2021 Statistical Analysis of Claims and Payments report gives a complete
+breakdown of the activities under the various schemes, including the General                    Tugann an tuarascáil um Anailís Staitistiúil ar Éilimh agus Íocaíochtaí 2021 miondealú
+Medical Services Scheme (GMS), Drugs Payment Scheme (DPS), Long Term Illness                    iomlán ar na gníomhaíochtaí faoi na scéimeanna éagsúla, san áireamh an Scéim
+Scheme (LTI), Dental Treatment Services Scheme (DTSS) and Community Ophthalmic                  um Sheirbhísí Ginearálta Leighis (GMS), an Scéim Íocaíochta Drugaí (DPS), an Scéim
+Services Scheme (COSS). Included in the report are also the payments to suppliers               Breoiteachta Fadtéarmaí (LTI), an Scéim um Sheirbhísí Cóireála Fiaclóireachta (DTSS)
+and manufacturers of High Tech drugs as well as hospital payments in relation to the            agus an Scéim Seirbhísí Oftalmacha Pobail (COSS). San áireamh sa tuarascáil freisin
+National Cancer Control Programme, the National Hepatitis C Treatment Programme                 tá íocaíochtaí chuig soláthraithe agus déantóirí drugaí ardteicneolaíochta chomh
+and Multiple Sclerosis Services. Payments in 2021 also take account of the costs                maith le híocaíochtaí ospidéil maidir leis an gClár Náisiúnta Rialaithe Ailse, an Clár
+arising from the COVID-19 emergency in delivering primary care and immunisation                 Cóireála Náisiúnta Heipitíteas C agus Seirbhísí Ilscléaróise. San áireamh chomh maith
+through GPs and pharmacists.                                                                    in íocaíochtaí 2021 tá na costais um Phaindéim COVID-19 maidir le cúram príomhúil
+                                                                                                agus imdhíonadh a sholáthraíonn na dochtúirí teaghlaigh agus na cógaiseoirí.
+Further details on the payments and the number of people who benefitted can be
+found in the updated monthly reports available online at www.hsepcrs.ie under “PCRS             Is féidir tuilleadh sonraí ar na híocaíochtaí agus líon na ndaoine a bhain leas as a fháil
+Publications”.                                                                                  sna tuarascálacha míosúla nuashonraithe atá ar fáil ar líne ag www.hsepcrs.ie faoi
+                                                                                                “Foilseacháin PCRS”.
+On behalf of the HSE PCRS, I would like to thank all of our clients and contractors for
+their cooperation in 2021 in meeting the challenges we faced, not just COVID-19, but            Thar ceann PCRS FSS, ba mhaith liom buíochas a ghabháil lenár gcliaint agus ár
+also the cyber-attack on the HSE, the response to which impacted payments during                gconraitheoirí go léir as a gcomhoibriú i 2021 agus muid ag déileáil leis na dúshláin a
+the year.                                                                                       bhí romhainn, ní hamháin COVID-19, ach an cibear-ionsaí ar FSS chomh maith agus an
+                                                                                                tionchar a bhí ar íocaíochtaí i rith na bliana dá bharr .
+In particular I would like to thank all of the PCRS staff. In an extraordinary year, they
+maintained the delivery of day to day services amidst the disruption caused by the              Ba mhaith liom buíochas a ghabháil go háirithe le foireann uile PCRS. I mbliain
+cyber-attack on the HSE and the impacts of the pandemic. For their commitment and               neamhghnách, lean siad ar aghaidh ag seachadadh seirbhísí ó lá go lá i measc gach a
+dedication, a sincere thank you.                                                                tharla de bharr an chibear-ionsaí ar FSS agus tionchair na paindéime. Go raibh maith
+                                                                                                agaibh as bhur dtiomantas agus bhur ndíograis.
+Shaun Flanagan
+Interim Assistant National Director                                                             Shaun Flanagan
+Primary Care Reimbursement Service                                                              Stiúrthóir Cúnta Náisiúnta Eatramhach
+                                                                                                Seirbhís Aisíocaíochta Cúraim Phríomhúil
+
+
+
+
+                                                                                            3
+SCHEMES
+OVERVIEW
+Schemes – Claim Reimbursement and Payment Arrangements
+
+
+During 2021, HSE Primary Care Reimbursement                  the prescription charge is €1.50 for each item that             Carer’s Allowance or Carer’s Benefit. From 1st September
+Service reimbursed claims and made payments to               is dispensed, up to a maximum of €15 per month                  2018, all persons in receipt of Carer’s Allowance or
+General Practitioners (GPs), Community Pharmacists,          per person or family. For people aged over 70, the              Carer’s Benefit were eligible to obtain GP services free of
+Dentists and Optometrists/Ophthalmologists totalling         prescription charge is €1.00 per item, up to a maximum          charge.
+€3,574.13m in respect of primary care schemes.               of €10 per month per person or family. The prescription
+                                                             charge is recouped by the HSE from the Pharmacy.                Dental Treatment Services Scheme (DTSS)
+Claim data is processed and payments are made by                                                                             Under the Dental Treatment Services Scheme GMS
+the Primary Care Reimbursement Service under the             General Practitioner Visit Card (GPVC)                          eligible adults have access to a range of treatments and
+following Schemes/Payment Arrangements:                      Persons who do not meet the eligibility criteria for a          clinical procedures comprised of Routine Treatments
+                                                             Medical Card but who meet the criteria for a GP Visit           and Full Upper and Lower Dentures. Routine Treatments
+General Medical Services (GMS) Scheme                        Card receive free access to GP services only. From 1st          are available for all eligible persons. Dentists may
+Persons who are unable without undue hardship to             July 2015, all children under 6 years of age were granted       also prescribe a range of medicines, as part of their
+arrange general practitioner medical and surgical            automatic entitlement to free GP services. From 5th             treatment, to eligible persons.
+services for themselves and their dependants are             August 2015, all persons aged 70 and over were granted
+eligible for the GMS Scheme. Drugs, medicines and            automatic entitlement to free GP services.                      HSE Community Ophthalmic Services Scheme (HSE-
+appliances approved under the Scheme are provided                                                                            COSS)
+through Community Pharmacies. In most cases                  Medical cards for children with Domiciliary Care                Under the Health Service Executive Community
+the GP gives a completed prescription form to an             Allowance (DCA) eligibility                                     Ophthalmic Services Scheme, adult medical card holders
+eligible person who takes it to any Pharmacy that            The Health (Amendment) Act 2017 provides for the                and their dependants are entitled, free of charge, to
+has an agreement with the Health Service Executive           granting of full medical card eligibility to children in        eye examinations and necessary spectacles/appliances.
+to dispense drugs, medicines and appliances on               respect of whom a Domiciliary Care Allowance (DCA) is           Claims by Optometrists/Ophthalmologists are paid by
+presentation of GMS prescription forms. In rural areas a     payable. The Minister for Health announced that, with           the Primary Care Reimbursement Service. Claims for
+small number of GPs hold contracts to dispense drugs         effect from 1st June 2017, such children aged under             spectacles provided under the Children’s Scheme are
+and medications to eligible persons who opt to have          16 years who do not already have full eligibility will be       also paid by the Primary Care Reimbursement Service.
+their medicines dispensed by him/her directly.               eligible to receive a medical card.
+                                                                                                                             Drugs Payment Scheme (DPS)
+Medical Card (MC)                                            Medical cards for children with cancer                          The Drugs Payment Scheme (DPS) provides for payment
+Once eligibility for a Medical Card is confirmed, patients   From 1st July 2015, following a recommendation of               to the Pharmacist for the supply of medicines to
+are entitled to receive certain Doctor, Dentist, Clinical    the Clinical Advisory Group, the HSE extended medical           individuals and families where the threshold of €114,
+Dental Technician, Optometrist and Ophthalmologist           card eligibility to all children under the age of 18 years      effective from 1st November 2020, has been exceeded
+treatments/services free of charge and prescribed            with a diagnosis of cancer. A medical card is issued in         in a calendar month. In order to avail of the Drugs
+medicines from Pharmacists.                                  respect of the child for a period of five years from date of    Payment Scheme a person or family must register for
+                                                             diagnosis.                                                      the Scheme with the HSE PCRS. Drugs, medicines and
+Since the 1st October 2010, an eligible person who                                                                           appliances currently reimbursable under the Scheme
+is supplied a drug, medicine or medical or surgical          GP Visit Card for persons in receipt of Carer’s                 are listed on the HSE website.
+appliance on the prescription of a Registered Medical        Allowance or Carer’s Benefit
+Practitioner, Registered Dentist or Registered Nurse         The Health (General Practitioner Service) Act 2018              Long Term Illness Scheme (LTI)
+Prescriber is charged a prescription charge by the           provides for the granting of eligibility for GP services        On approval by the Health Service Executive, persons
+Community Pharmacy. From the 1st November 2020,              without charge to all those in receipt of full, or half-rate,   who suffer from one or more of a schedule of illnesses
+
+                                                                                           6
+Schemes – Claim Reimbursement and Payment Arrangements continued
+
+
+are entitled to obtain, without charge, irrespective of       is an online system in which Hospital Consultants          Opioid Substitution Treatment Scheme
+income, necessary drugs/medicines and/or appliances           and prescribers can register patients for High Tech        Methadone and Medicinal Products containing
+under the LTI Scheme. LTI Card holders can have both LTI      medicines and can prepare and print prescriptions for      Buprenorphine are prescribed by Doctors and dispensed
+and GMS eligibility.                                          those patients. Pharmacists can view and order High        by Pharmacists for approved clients under the Opioid
+                                                              Tech medicines from suppliers and manufacturers            Substitution Treatment Scheme. Capitation fees payable
+European Economic Area (EEA) entitlements                     through the High Tech hub. In turn, suppliers can accept   to participating GPs and Community Pharmacists
+Residents from one of the other states of the European        and arrange for the delivery of ordered medicines to       and claims by Pharmacists for the ingredient cost of
+Economic Area, with established eligibility, who require      Community Pharmacists.                                     the Methadone and Medicinal Products containing
+emergency general practitioner services while on a                                                                       Buprenorphine dispensed and the associated
+temporary visit to the State are entitled to receive          Mother and Infant Care Scheme                              dispensing fees are processed and paid by the Primary
+from a General Practitioner a GMS prescription form           A new online service was made available to General         Care Reimbursement Service.
+for necessary medication and to have such medication          Practitioners who opt for online submission to process
+dispensed in a Pharmacy that has entered into an              all new Maternity & Infant registrations and subsequent    Immunisations for GMS Eligible Persons
+agreement with the Health Service Executive within the        visits from the 1st July 2019.                             Agreement was reached between the Department of
+State. A person provides evidence of eligibility under                                                                   Health and the Irish Medical Organisation on fee rates
+these arrangements by producing a current European            Primary Childhood Immunisation Scheme                      to be applied to certain immunisations for GMS eligible
+Health Insurance Card (EHIC). There is an existing            A National Primary Childhood Immunisation Scheme           persons. The immunisations encompassed by the
+arrangement between Ireland and the UK, whereby the           provides for immunisation of the total child population    agreement are - Pneumococcal, Influenza, Hepatitis B
+residents of either country travelling to the other on a      with the aim of eliminating, as far as possible, such      and the combined Pneumococcal /Influenza.
+temporary stay are not required to present a European         conditions as Diphtheria, Polio, Measles, Mumps,
+Health Insurance Card or an equivalent paper form.            Rubella and more recently Meningococcal C Meningitis.      Discretionary Hardship Arrangements
+Proof of residency is sufficient.                             Payments to GPs under this Scheme are made by the          Medical Card patients, for whom Non GMS reimbursable
+                                                              Primary Care Reimbursement Service.                        items have been prescribed, may make application to
+High Tech Arrangements (HT)                                                                                              the HSE Community Healthcare Organisation (CHO) for
+Arrangements are in place for the supply and dispensing       Health (Amendment) Act 1996                                approval to have such items dispensed by a Community
+of High Tech medicines through Community Pharmacies.          Under the Health (Amendment) Act 1996 certain              Pharmacist. Previously, the CHO reimbursed Community
+Such medicines are generally only prescribed or initiated     health services are made available without charge to       Pharmacists directly in respect of such prescribed items.
+in hospital and would include items such as anti-             persons who have contracted Hepatitis C directly or        In July 2009 reimbursement for these items transferred
+rejection drugs for transplant patients or medicines used     indirectly from the use of Human Immunoglobulin -          to the Primary Care Reimbursement Service.
+in conjunction with chemotherapy or hormonal therapy.         Anti D or the receipt within the State of another blood
+The medicines are purchased by the Health Service             product or blood transfusion. The HAA Card gives           Centralised reimbursement of selected high cost
+Executive and supplied through Community Pharmacies           eligibility to additional HSE services on more flexible    drugs administered or dispensed to patients in
+for which Pharmacists are paid a patient care fee. The cost   terms and conditions than the medical card. HAA Card       hospitals
+of the medicines and patient care fees are paid by the        holders can have both HAA and GMS eligibility. GP          The HSE reimburses selected Oncology and Hepatitis C
+Primary Care Reimbursement Service.                           services, pharmaceutical services, dental services and     drugs.
+                                                              optometric/ophthalmic services provided under the Act
+High Tech Hub Ordering and Management System                  are paid for by the Primary Care Reimbursement Service.    The National Cancer Control Programme (NCCP)
+In December 2017 PCRS introduced a new High                                                                              established the National Cancer Drug Management
+Tech medicines ordering and management hub. This                                                                         Programme to develop and improve the care provided
+
+                                                                                         7
+Schemes – Claim Reimbursement and Payment Arrangements continued
+
+
+to patients receiving treatment with oncology drugs.        Cycle of Care for GMS Patients with Type 2 Diabetes          Nicotine Replacement Therapy (NRT)
+A national management system for cancer drugs               A Cycle of Care in General Practice for patients with Type   The Department of Health approved the reimbursement
+was set up within the PCRS to facilitate centralised        2 Diabetes was introduced in October 2015 to allow GPs       of Nicotine Replacement Therapy (NRT) for eligible GMS
+reimbursement and data capture of selected high-            maintain a register of their patients aged 18 years or       persons only with effect from the 1st April 2001.
+cost oncology drugs. This allows national oversight of      more and less than 65 years with a diagnosis of Type 2
+the expenditure on high-cost oncology drugs in line         Diabetes and to provide two structured visits per annum      Covid – 19
+with approved indications, improved service planning        to such patients.                                            A number of General Practice oriented measures were
+and budgetary projections and a national approach                                                                        commenced in 2020 to address the Covid-19 pandemic,
+to provision of oncology drugs. The Hepatitis C drugs       Cycle of Care for Asthmatic Patients                         including remuneration for the provision of remote
+are dispensed to patients in the designated adult           The Asthma Cycle of Care allows GPs to maintain a            consultations to patients who may have contracted
+hepatology units.                                           register of children under 6 years of age with a diagnosis   Covid-19 infection, referral for testing and the provision
+                                                            of asthma and provide services to them in accordance         of dedicated respiratory clinics on their practice
+From 2019 in an extension to pilot community sites,         with the agreed Cycle of Care. An information return is      premises. In addition, there was provision for the
+certain hospital administered drugs for Multiple            submitted by the GP via an online browser when the           extension of day consultations and a contribution
+Sclerosis (MS) were also reimbursed under the national      patient is 2 years old and again at 5 years old.             towards locum costs for the duration of any periods
+management system in PCRS.                                                                                               of self- isolation. The rollout of Covid-19 vaccinations
+                                                            Chronic Disease Management Programme (CDM)                   through GPs and Pharmacies began in 2021.
+Centralised reimbursement of Outpatient Parenteral          The Structured Chronic Disease Management (CDM)
+Antimicrobial Therapy (OPAT)                                Treatment Programme was launched in January 2020
+The HSE reimburses Outpatient Parenteral Antimicrobial      for adult GMS patients aged 75 years and over, and
+Therapy (OPAT) drugs, medicines and appliances              extended to age 65 and over from 1st January 2021, who
+administered by healthcare professionals or self-           have a diagnosis of one or more the following:
+administered by patients in the community.                  • Asthma
+                                                            • Type 2 Diabetes
+Redress for Women Resident in Certain Institutions          • Chronic Obstructive Pulmonary Disease (COPD)
+Under the Redress for Women Resident in Certain             • Cardiovascular Disease including stable Heart Failure,
+Institutions Act 2015, it was provided that the Health          Ischaemic Heart Disease, Cerebrovascular Disease
+Service Executive (HSE) would make available specified          (Stroke/TIA) and Atrial Fibrillation
+services to women eligible for the Restorative Justice
+Scheme, administered by the Department of Justice and       To support patients in managing their chronic
+Equality. Services include General Practitioner services,   condition(s) there are two scheduled reviews in a 12
+drugs, medicines and medical and surgical appliances,       month period. A written Care Plan is issued to the
+dental, ophthalmic and aural services, home nursing         patient following the completion of the review.
+service, home support services, chiropody services,
+physiotherapy services, and a counselling service. Card     Termination of Pregnancy Service
+holders are not required to pay any prescription fees.      Termination of Pregnancy (ToP) Services in the
+                                                            community setting were commenced by the HSE on the
+                                                            1st January 2019.
+
+
+                                                                                        8
+Summary Statement of Activity - 2021
+
+
+O   Payments and reimbursements during 2021 were        Q    The Health (Amendment) Act 1996, Opioid         O   Payments under centralised reimbursement of
+    approximately €3,574.13m.                                Substitution Treatment Scheme, DTSS                 certain approved high cost Oncology, Hepatitis C,
+                                                             prescriptions, and Pharmacy Training Grants         Multiple Sclerosis, Gainshare Initiative, Outpatient
+O   Claim data is processed and reimbursements               €16.93m;                                            Parenteral Antimicrobial Therapy (OPAT) drugs,
+    are made by the HSE PCRS under the following                                                                 medicines and appliances totalled €168.19m.
+    Schemes:                                            Q    Influenza Vaccination Scheme €6.32m;
+                                                                                                             O   Administration costs were €41.79m.
+    Q   General Medical Services (GMS);                 Q    Covid-19 Vaccination Scheme €19.47m;
+                                                                                                             Note: The figures detailed above have been rounded for
+    Q   Drugs Payment Scheme (DPS);                     Q    Patient Care Fees of €31.00m were paid to       reporting purposes.
+                                                             pharmacists under High Tech Arrangements;
+    Q   Long Term Illness (LTI);
+                                                    O   Total cost of Pharmacy fees €407.50m.
+    Q   Dental Treatment Services Scheme (DTSS);
+                                                    O   Total cost of phased fees €54.98m.
+    Q   European Economic Area (EEA);
+                                                    O   Prescription charges of €61.68m.
+    Q   High Tech Arrangements (HT);
+                                                    O   Over 84m prescription items were paid for by the
+    Q   Primary Childhood Immunisation;                 PCRS – an increase of over 3.36m items on 2020.
+
+    Q   Health (Amendment) Act 1996;                O   Payments to GPs for fees and allowances totalled
+                                                        €856.12m.
+    Q   Opioid Substitution Treatment Scheme;
+                                                    O   Payments to GPs for investment in General Practice
+    Q   Health Service Executive Community              Development €0.15m
+        Ophthalmic Services Scheme (HSE-COSS).
+                                                    O   Payments to Manufacturers/Wholesalers of High
+O   Payments to Pharmacists totalled €1,454.14 m:       Tech drugs and medicines totalled €988.99m.
+
+    Q   GMS: Prescriptions €986.20m, Stock Order    O   Payments to Dentists under the DTSS totalled
+        Forms €5.57m;                                   €39.64m.
+
+    Q   DPS €96.14m;                                O   Payments to Optometrists/Ophthalmologists
+                                                        under the HSE-COSS totalled €25.11m.
+    Q   LTI €292.11m;
+
+    Q   EEA €0.40m;
+
+
+                                                                              9
+Total Payments and Reimbursements – 2021
+
+
+
+                        Total Payments & Reimbursements 2021
+                                                                                                    2021 - €3,574.13m     2020 - €3,334.03m
+                        GP Fees                                                                                €682.09m          €605.22m
+                        GP Allowances                                                                          €174.03m          €183.03m
+                        Investment in General Practice Development                                               €0.15m             €0.12m
+
+
+                        Pharmacist Drugs and Medicines                                                     €1,015.64m            €985.28m
+                        Pharmacist Fees and Stock Order Mark-Up                                                €407.50m          €382.10m
+
+
+                        Pharmacist High Tech Patient Care Fees                                                  €31.00m           €28.26m
+                        Manufacturers / Wholesalers High Tech Drugs and Medicines                              €988.99m          €916.13m
+
+
+                        Dentists                                                                                €39.64m           €40.55m
+
+
+                        Optometrists / Ophthalmologists                                                         €25.11m           €22.58m
+
+
+                        Hospital - Oncology Drugs and Medicines                                                €114.13m           €82.87m
+                        Hospital - Hepatitis C Drugs and Medicines                                              €21.84m           €21.94m
+                        Hospital - Multiple Sclerosis Medicines (MS)                                            €19.37m           €12.33m
+                        Hospital - Gainshare Initiative                                                          €2.50m             €0.00m
+                        Outpatient Parenteral Antimicrobial Therapy (OPAT) - Drugs, Medicines and Appliances    €10.35m             €8.14m
+
+
+                        Administration                                                                          €41.79m           €45.48m
+
+
+
+
+Note: Figures detailed for 2021 reflect payments made during Covid-19.
+     The figures detailed above have been rounded for reporting purposes.
+
+                                                                                  10
+Number of Agreements with Contractor Groups
+
+
+              General Practitioners 3,074              Pharmacists 1,915                     Dentists 1,302                    Optometrists 604
+
+
+             The number of agreements between the Health Service Executive and General Practitioners for the provision of services to GMS
+             cardholders reflects the policy position agreed between the Department of Health and the Irish Medical Organisation on entry to the GMS
+             Scheme. At December 2021 there were 3,074 agreements.
+
+
+
+
+            Number of Agreements as at 31st December 2021
+
+             Community Healthcare Organisation            General Practitioners        Pharmacists               Dentists              Optometrists
+
+             CHO Area 1                                             235                     165                     133                       68
+
+             CHO Area 2                                             314                     203                     162                       76
+
+             CHO Area 3                                             258                     166                     101                       50
+
+             CHO Area 4                                             476                     276                     313                       80
+
+             CHO Area 5                                             311                     212                     128                       71
+
+             CHO Area 6                                             314                     165                      49                       48
+
+             CHO Area 7                                             422                     253                     160                       73
+
+             CHO Area 8                                             336                     252                      97                       74
+
+             CHO Area 9                                             408                     223                     159                       64
+
+             National                                             3,074                   1,915                   1,302                     604
+
+            Note: Included in the table above are the following:
+                  (i) 532 GPs not contracted to the GMS Scheme who are registered to provide services under the Primary Childhood Immunisation Scheme, the
+                       Health (Amendment) Act 1996, Heartwatch, Opioid Substitution Treatment Scheme and National Cancer Screening Service.
+                  (ii) 11 Pharmacists who are registered to provide services under non GMS Schemes.
+                  (iii) 162 Dentists employed by the HSE who provide services under the Dental Treatment Services Scheme.
+                  (iv) 29 Clinical Dental Technicians.
+
+                                                                                  11
+Number of Agreements with Contractor Groups 2012 - 2021
+
+
+
+
+                    Year          General Practitioners   Pharmacists   Dentists   Optometrists
+
+                    2012                  2,832              1,713       1,730          580
+
+                    2013                  2,888              1,744       1,790          582
+
+                    2014                  2,870              1,778       1,827          586
+
+                    2015                  2,889              1,801       1,847          587
+
+                    2016                  2,914              1,830       1,831          593
+
+                    2017                  2,928              1,849       1,604          595
+
+                    2018                  2,921              1,870       1,644          608
+
+                    2019                  2,974              1,884       1,654          590
+
+                    2020                  3,033              1,900       1,486          598
+
+                    2021                  3,074              1,915       1,302          604
+
+                                                              12
+Total Payments to Contractor Groups by CHO 2021
+
+
+
+
+                                                                                              Pharmacy           €1,380,419,979
+
+                                                                                              GPs                  €856,123,924
+
+                                                                                              DTSS                  €39,636,355
+
+                                                                                              HSE-COSS              €25,107,697
+
+
+
+
+             Community Healthcare Organisation                      *GPs                 **Pharmacy                 ***DTSS                HSE-COSS
+             CHO Area 1                                          €77,656,402            €123,594,618                €5,119,894              €2,696,751
+             CHO Area 2                                          €93,640,175            €145,375,211                €3,667,043              €2,739,518
+             CHO Area 3                                          €74,131,678            €122,064,048                €3,695,254              €2,303,736
+             CHO Area 4                                         €136,749,207            €210,146,305                €6,226,166              €3,802,379
+             CHO Area 5                                         €105,372,697            €170,427,723                €5,611,864              €3,682,574
+             CHO Area 6                                          €67,784,245              €88,892,822               €1,681,528              €1,371,865
+             CHO Area 7                                          €98,912,150            €179,698,864                €4,593,467              €3,023,910
+             CHO Area 8                                         €106,535,181            €182,128,108                €5,296,772              €3,238,974
+             CHO Area 9                                          €95,342,189            €158,092,280                €3,744,367              €2,247,990
+             National                                          €856,123,924          €1,380,419,979              €39,636,355              €25,107,697
+             Corresponding figures for 2020                    €788,251,700          €1,341,607,317              €40,549,163              €22,581,523
+
+            Note: (i) *GP figures include GMS and non GMS GPs.
+                  (ii) **Pharmacy figures include GMS, Stock Orders, DPS, LTI and EEA claims. Excluded are additional payments of claims reimbursed to
+                         Phamacists totalled €42,718,272.
+                  (iii) ***Dental figures include HAA claims since 2017.
+                  (iv) Figures for 2021 reflect the services provided during the Covid-19 pandemic.
+
+
+                                                                                   13
+14
+CARDHOLDER
+    SECTION
+Number of Eligible Persons per Scheme - 2021
+
+
+                      *GMS 1,545,222                          *GPVC 525,918                                DPS 1,504,614                            LTI 318,967
+            Persons who are unable without undue hardship to arrange General                      In rural areas, where a GP has a centre of practice three miles or more from
+            Practitioner medical and surgical services plus Dental and Ophthalmic                 the nearest Community Pharmacy participating in the Scheme, the GP
+            services for themselves and their dependents are provided with such                   dispenses for those persons served from the centre who opt to have their
+            services under the GMS Scheme. Since 1st October 2010, a person who is                medicines dispensed by him/her. The number of eligible GMS persons at
+            supplied by a Community Pharmacy Contractor with a drug, medicine or                  year end included 13,387 persons who were entitled and had opted to have
+            surgical appliance on the prescription of a Registered Medical Practitioner,          their medicines dispensed by their GPs.
+            Registered Dentist or Registered Nurse Prescriber is charged a prescription
+            charge. Since 1st November 2020 the prescription charge is €1.50 per                  Under the terms of the Drugs Payment Scheme, persons who do not have a
+            item subject to a limit of €15.00 per family per month and €1.00 per item             medical card may apply for a Drugs Payment Scheme card on an individual
+            subject to a limit of €10.00 for over 70s and their dependents. This charge is        or family unit basis. Prescribed medicines, which are reimbursable under
+            recouped from payments made to Pharmacists. An eligible person is entitled            the GMS Scheme, costing in excess of a specified amount per month, €114
+            to select a GP of his/her choice, and have drugs, medicines and appliances            (effective 1st November 2020), per family, is claimed by the Pharmacy and is
+            provided through Community Pharmacies, Dentists and Optometrists/                     paid by the Primary Care Reimbursement Service.
+            Ophthalmologists who have contracted with the Health Services Executive.
+            GMS prescription forms may be dispensed in any Pharmacy that has an                   On approval by the Health Service Executive, persons who suffer from one
+            agreement with the Health Service Executive to dispense GMS prescription              or more of a schedule of illnesses are entitled to obtain, without charge,
+            forms.                                                                                irrespective of income, necessary drugs/medicines and/or appliances under
+                                                                                                  the LTI Scheme. The Primary Care Reimbursement Service makes payments
+                                                                                                  on behalf of the Health Service Executive for LTI claims submitted by
+                                                                                                  Pharmacies.
+
+            Figures as at 31st December 2021
+              Community Healthcare Organisation           GMS                 Discretionary GMS           GPVC         Discretionary GPVC     **DPS               **LTI
+             CHO Area 1                                 160,669                   18,494                 41,775              4,175            17,030             16,711
+             CHO Area 2                                 161,471                   19,897                 50,616              4,656            28,126             17,341
+             CHO Area 3                                 135,285                   16,881                 42,122              3,419            27,228             17,262
+             CHO Area 4                                 222,210                   31,144                 80,736              7,049            51,112             28,275
+             CHO Area 5                                 197,990                   22,673                 54,961              4,936            30,120             24,132
+             CHO Area 6                                  79,292                    7,593                 56,345              1,558            36,002             15,059
+             CHO Area 7                                 201,201                   20,365                 68,783              4,410            43,908             26,940
+             CHO Area 8                                 216,813                   22,885                 65,553              5,621            36,745             26,655
+             CHO Area 9                                 170,291                   16,204                 65,027              3,453            38,394             22,689
+             National                                1,545,222                   176,136                525,918             39,277           308,665            195,064
+             *** % of Estimate Population April 2021   30.83%                     3.52%                 10.50%              0.78%             6.16%              3.89%
+
+            GMS - General Medical Services Scheme. GPVC - GP Visit Card Scheme. DPS - Drugs Payment Scheme. LTI - Long Term Illness Scheme.
+            *GMS and GPVC figures are inclusive of cards granted on a discretionary basis.
+            **The DPS and LTI figures shown refer to the number of eligible patients for whom claims were submitted to PCRS by pharmacies.
+            ***National population figures (5,011,500) are based on the CSO Estimate figures for April 2021.
+
+                                                                                             16
+Number of Eligible Persons per Scheme 2012 - 2021
+
+
+
+
+            Figures as at 31st December
+                   Year                *GMS         Discretionary GMS          *GPVC         Discretionary GPVC         **DPS                 **LTI
+                   2012              1,853,877              62,987             131,102               15,972             370,791                69,513
+                   2013              1,849,380              50,294             125,426               25,793             308,357                71,926
+                   2014              1,768,700              76,665             159,576               34,605             278,227               111,940
+                   2015              1,734,853              99,396             431,306               41,266             269,930               138,415
+                   2016              1,683,792             116,362             470,505               45,260             270,525               153,446
+                   2017              1,609,820             131,160             487,510               36,364             265,891               166,818
+                   2018              1,565,049             148,396             503,329               38,099             285,599               177,481
+                   2019              1,544,374             162,888             524,494               39,542             273,594               185,903
+                   2020              1,584,790             169,458             529,842               39,028             280,703               190,829
+                   2021              1,545,222             176,136             525,918               39,277             308,665               195,064
+
+            GMS - General Medical Services Scheme. GPVC - GP Visit Card Scheme. DPS - Drugs Payment Scheme. LTI - Long Term Illness Scheme.
+            *GMS and GPVC figures are inclusive of cards granted on a discretionary basis.
+            **The DPS and LTI figures shown refer to the number of eligible patients for whom claims were submitted to PCRS by pharmacies.
+
+                                                                                 17
+GMS: Summary of Statistical Information for 2017 - 2021
+
+ Year ended December:-                               2021         2020         2019         2018         2017 Year ended December:-                        2021         2020         2019         2018         2017
+ (i) Number of Eligible Persons in December     2,071,140    2,114,632    2,068,868    2,068,378    2,097,330 Number of GP Contracts                      3,074        3,033        2,974        2,921        2,928
+                                                                                                              Number of Pharmacist Contracts              1,915        1,900        1,884        1,870        1,849
+
+ General Practitioners                             (000's)      (000's)      (000's)      (000's)      (000's)                                            (000’s)      (000’s)      (000’s)      (000’s)      (000’s)
+
+ *Total Payments                                €814,277     €757,679     €561,940     €531,631     €522,375 Total Cost of Stock Orders                  € 5,570      € 5,952      € 6,594      € 6,165      € 6,529
+                                                                                                                 Ingredient Cost                          € 4,207      € 4,514      € 5,042      € 4,663      € 4,980
+ (ii) Avg. Payment to GPs per Eligible Person    €393.15      €358.30      €271.62      €257.03      €249.07
+                                                                                                                 Pharmacy Fees                             € 841        € 903      € 1,008        € 933        € 996
+
+ Pharmacists                                       (000's)      (000's)      (000's)      (000's)      (000's)     VAT                                     € 522        € 535        € 544        € 569        € 553
+
+ Total Cost of Prescriptions                    €986,202     €969,304     €963,193     €960,185     €983,304 Overall Cost of Drugs and Medicines       € 991,772    € 975,256    € 969,787    € 966,350    € 989,833
+
+     Ingredient Cost                             €649,866     €639,610     €628,119     €621,634     €635,268 (iii) Avg. Payment to Pharmacists per
+                                                                                                                                                        € 750.71     € 744.20     € 697.51     € 679.40     € 677.16
+                                                                                                              Eligible Person
+     Dispensing Fee                              €305,497     €300,246     €305,231     €309,306     €314,685
+                                                                                                              **Overall Payments                      €1,806,049 €1,732,935 €1,531,727 €1,497,981 €1,512,208
+    VAT                                           €30,839      €29,448      €29,843      €29,245      €33,351
+
+ Number of Forms                                   18,389       18,358       19,156       18,949       18,979
+
+ Number of Items                                   62,674       60,975       60,073       59,218       58,595
+
+ Avg. Cost per Form                                €53.63       €52.80       €50.28       €50.67       €51.81
+
+ Avg. Cost per Item                                €15.74       €15.90       €16.03       €16.21       €16.78
+
+ Avg. Ingredient Cost per Item                     €10.37       €10.49       €10.46       €10.50       €10.84
+
+ Avg. Items per Form                                 3.41         3.32         3.14         3.13         3.09
+Note:     (i) Number of eligible persons in 2021 includes the number of eligible persons with Medical Cards and GP Visit Cards.
+          (ii) Average payment to GPs is inclusive of GP Visit Card costs and exclusive of superannuation paid to retired DMOs.
+          (iii) Average pharmacy payment per person is calculated on the number of persons who availed of services during 2021. The number of persons who availed of services in 2021 was 1,321,120.
+          (iv) Overall payment per eligible person is based on the number of persons who availed of services during 2021.
+          (v) *Total payments for 2021 reflects the services provided during the Covid-19 pandemic.
+          (vi) **Overall payments includes payments made under Discretionary Hardship Arrangements.
+
+                                                                                                             18
+LTI / DP Schemes: Summary of Statistical Information for 2017 - 2021
+
+
+ Year ended December:-                         2021        2020         2019         2018         2017 Year ended December:-                          2021        2020          2019       2018       2017
+
+
+ LTI Scheme                                                                                               DP Scheme
+
+                                                                                                          Number of Eligible Persons in
+                                                                                                                                                  1,504,614 1,429,554 1,362,639 1,290,634 1,258,531
+                                                                                                          December
+
+
+
+
+ *Number of Claimants                       195,064      190,829     185,903      177,481      166,818 *Number of Claimants                         308,665     280,703       273,594    285,599    265,891
+
+
+                                                                                                          **Number of Families                      219,052     195,278       188,119    187,789    168,978
+
+
+                                             (000’s)      (000’s)     (000’s)      (000’s)      (000’s)                                              (000’s)     (000’s)       (000’s)    (000’s)    (000’s)
+
+
+ Number of Items                             10,170        9,953        9,464        8,936        8,305 Number of Items                               9,585       8,555         7,901      7,633      7,135
+
+
+
+
+ Total Cost                                €292,106    €283,086     €262,625     €242,694     €221,904 Gross Cost                                 €198,603 €177,647 €165,306 €157,050 €148,335
+
+
+
+
+ Avg. Cost per Item                          €28.72      €28.44       €27.75       €27.16       €26.72 ***Net Cost                                  €96,139     €82,666       €75,471    €67,363    €62,095
+
+
+
+
+ *Avg. Cost per Claimant                 €1,497.49 €1,483.45 €1,412.70 €1,367.44 €1,330.21 Avg. Gross Cost per Item                                 €20.72      €20.77         €20.92     €20.57     €20.79
+
+
+
+
+                                                                                                          *Avg. Net Cost per Claimant              €311.47     €294.50        €275.85    €235.87    €233.53
+
+
+Note:   (i) *These figures are based on the number of eligible persons who availed of services under each Scheme.
+        (ii) **These figures are based on expenditure above and below the monthly co-payment.
+        (iii) ***The Net Cost is inclusive of claims below the monthly co-payment of €114 (effective 1st November 2020) payable to the Pharmacy by an individual or family.
+                                                                                                     19
+20
+    GENERAL
+PRACTITIONER
+     SECTION
+Fees and Allowances under Capitation Agreement as at 31st December 2021
+
+
+             Ages                                                                                                   Male €      Female €
+             6 - 15                                                                                                  58.84        59.52
+             16 - 44                                                                                                 75.11       122.83
+             45 - 64                                                                                                150.02       164.85
+             65 - 69                                                                                                158.04       176.31
+             Capitation rate for children aged under 5 years where the GP does not hold an under 6 contract.         74.59        72.76
+             Capitation rate for children aged 5 years where the GP does not hold an under 6 contract.               43.29        43.79
+             Capitation rate for patients aged 70 years or more residing in the community.                          369.18       369.18
+             Capitation rate for patients aged 70 years or more residing in a private nursing home
+                                                                                                                    590.08       590.08
+             (approved by the HSE) for continuous periods in excess of 5 weeks.
+             The above rates are exclusive of Supplementary Out-of-Hours Fee.                                         3.64         3.64
+
+             Out-of-Hours Payment
+             Surgery (6 p.m. - 8 a.m.)                                                                                           €41.63
+             Surgery (8 - 9 a.m. and 5 - 6 p.m.)                                                                                 €13.88
+             Domiciliary                                                                                                         €41.63
+             Additional Fee (Surgery or Domiciliary)                                                                             €13.88
+
+             Temporary Residents/EEA Visitors/Emergency
+             Surgery                                                                                                             €40.94
+             Domiciliary                                                                                                         €40.94
+             Fee for Second Medical Opinion                                                                                      €26.46
+
+             Rural Practice Support Framework
+             Rural Practice Allowance Per Annum                                                                               €16,216.07
+             Rural Practice Support Framework Allowance Per Annum, where there is one or no other practice unit in the area   €22,000.00
+             Rural Practice Support Framework Allowance Per Annum, where there are two practice units in the area             €11,000.00
+             however, one or both practice units is not in receipt of Rural Practice Allowance
+             Opt-in GP (dispensing doctor)                                                                                       €43.12
+             Pilot GP (dispensing doctor)                                                                                        €49.74
+             Continuous GP (dispensing doctor)                                                                                   €12.48
+
+
+
+
+                                                                                22
+Fees and Allowances under Capitation Agreement as at 31st December 2021 continued
+
+
+             Special Items of Service
+             A         Excisions / Cryotherapy / Diathermy of Skin Lesions                                                               €24.80
+             AB        Long Acting Reversible Contraceptive (LARC)                                                                       €70.00
+             AC        Removal Long Acting Reversible Contraceptive (LARC)                                                               €50.00
+             AD        24 Hour Ambulatory Blood Pressure Monitoring                                                                      €60.00
+             AE        Cervical Screening Consultation                                                                                   €50.00
+             AH        TOP patients first consultation                                                                                  €150.00
+             AI        TOP Combined termination procedure, including the administration/dispensing for medicines and aftercare          €300.00
+             AJ        Provision of aftercare by the contractor, where the patient has received termination of pregnancy service in a   €100.00
+                       hospital and has been discharged to the community setting
+             AL        Therapeutic Phlebotomy for Haemochromatosis                                                                      €100.00
+             AN        Involuntary Admissions to Acute Mental Health Facilities                                                         €150.00
+             AO        Chronic Disease Management (one condition)                                                                       €105.00
+             AP        Chronic Disease Management (two conditions)                                                                      €125.00
+             AQ        Chronic Disease Management (three or more conditions)                                                            €150.00
+             AR        Modified Chronic Disease Virtual Consultation (one condition)                                                     €55.00
+             AS        Modified Chronic Disease Virtual Consultation (two conditions)                                                    €65.00
+             AT        Modified Chronic Disease Virtual Consultation (three or more conditions)                                          €75.00
+             *AU       Covid-19 1st Vaccine                                                                                              €25.00
+             *AV       Covid-19 2nd Vaccine                                                                                              €25.00
+             AY        Covid-19 Vaccine Additional Shot 1                                                                                €25.00
+             AZ        Covid-19 Vaccine Booster Shot 1                                                                                   €25.00
+             B         Suturing of cuts and lacerations                                                                                  €50.00
+             C         Draining of Hydroceles                                                                                            €24.80
+             CA        Respiratory assessment for patients regardless of eligibility                                                     €75.00
+             CB        Covid-19 telephone consultation for patients regardless of eligibility                                            €30.00
+             D         Treatment and Plugging of Dental and Nasal Haemorrhages                                                           €24.80
+             F         ECG Tests and their Interpretation                                                                                €24.80
+             H         Removal of adherent foreign bodies from the conjunctival surface of the eye                                       €24.80
+             J         Removal of lodged or impacted foreign bodies from the ear, nose and throat                                        €24.80
+             K         Nebuliser treatment in the case of acute asthma attack                                                            €37.21
+             L         Bladder Catheterization                                                                                           €60.00
+             M         Attendance at case conferences (where authorised by the HSE)                                                      €62.02
+             O         Disease Outbreak Vaccinaton                                                                                       €28.50
+             R         Pneumococcal Vaccination                                                                                          €28.50
+             **S       Influenza Vaccination - QIV (Quadrivalent Influenza Vaccine)                                                      €15.00
+             ***S      Influenza Vaccination - LAIV (Nasal Vaccine)                                                                      €20.00
+             T         Pneumococcal / Influenza Vaccinations                                                                             €42.75
+             U         Hepatitis B Vaccination                                                                                          €142.57
+            * GP is eligible for a payment of €10 for an unique patient to whom the vaccine is administered during a pandemic.
+            ** GP is eligible for a payment of €100 for every 10 unique patients to whom the QIV vaccine is administered.
+            *** GP is eligible for a payment of €150 for every 10 unique patients to whom the LAIV vaccine is administered.
+
+                                                                                        23
+Fees and Allowances under Capitation Agreement as at 31st December 2021 continued
+
+
+
+             Practice Support
+             Allowance for Practice Secretary up to a maximum Per Annum of:                                                          €24,068.99
+             Allowance for Practice Nurse up to a maximum Per Annum of:                                                              €37,822.72
+             Allowance for Practice Manager up to a maximum Per Annum of:                                                            €30,945.86
+
+             Contributions to Locum Expenses (Subject to the conditions of the Agreement)
+             Annual Leave
+             Sick Leave                                                                                         Up to a maximum of €1,380.65 per week
+             Study Leave
+             Adoptive Leave
+             Maternity Leave                                                                                    Up to a maximum of €2,761.30 per week
+             Paternity Leave
+
+             Contributions to Medical Indemnity Insurance
+             Calculation of contributions related to GMS panel numbers and net premium
+
+             Asylum Seekers
+             A once off superannuable registration fee of €173.69 per patient is payable to GPs in respect of
+             patients on their GMS panel who are seeking asylum in Ireland
+
+
+
+
+                                                                                  24
+Fees and Allowances under the Fee-Per-Item Agreement and Fees under the Immunisation Scheme, Health (Amendment) Act 1996,
+Opioid Substitution Treatment Scheme and Heartwatch Programme as at 31st December 2021
+
+             GP Surgery Consultations
+             Day     Normal Hours                                                                            €11.87
+             Late    Outside Normal Hours other than night                                                   €16.88
+             Night   Midnight to 8:00 a.m.                                                                   €33.38
+
+             Domiciliary Consultations
+             Day                                                                                             €17.51
+             Late                                                                                            €22.93
+             Night                                                                                           €44.96
+
+             Temporary Residents/EEA Visitors/Emergency
+             Surgery                                                                                         €40.94
+             Domiciliary                                                                                     €40.94
+
+             Rural Practice Allowance
+             Per Annum                                                                                    €7,042.91
+
+             Locum and Practice Expense Allowance
+             Per Annum                                                                                    €1,371.06
+
+             Sessional Rate - Homes for the Aged
+             Per 3 Hour Session                                                                              €73.18
+
+             Immunisation Fees
+             Registration of child with a GP                                                                 €37.78
+             6 in one Vaccine                                                                               €206.31
+             95% uptake bonus                                                                                €60.63
+
+             Health (Amendment) Act 1996
+             Surgery Fee                                                                                     €30.53
+             Domiciliary Fee                                                                                 €40.27
+
+             Opioid Substitution Treatment Scheme
+             Level 1 Contractor                                                                             €159.97
+             Level 2 Contractor                                                                             €176.43
+
+             Heartwatch Programme
+             Heartwatch Programme                                                                            €39.31
+
+
+
+                                                              25
+Fees and Allowances under the Fee-Per-Item Agreement and Fees under the Immunisation Scheme, Health (Amendment) Act 1996,
+Opioid Substitution Treatment Scheme and Heartwatch Programme as at 31st December 2021 continued
+
+             Special Items of Service
+             AE        Cervical Screening Consultation                                                                                   €50.00
+             AH        TOP patients first consultation                                                                                  €150.00
+             AI        TOP combined termination procedure, including the administration/dispensing for medicines and aftercare          €300.00
+                       Provision of aftercare by the contractor, where the patient has received termination of pregnancy service in a
+             AJ                                                                                                                         €100.00
+                       hospital and has been discharged to the community setting
+             AL        Therapeutic Phlebotomy for Haemochromatosis                                                                      €100.00
+             AN        Involuntary Admissions to Acute Mental Health Facilities                                                         €150.00
+             AO        Chronic Disease Management (one condition)                                                                       €105.00
+             AP        Chronic Disease Management (two conditions)                                                                      €125.00
+             AQ        Chronic Disease Management (three or two conditions)                                                             €150.00
+             AR        Modified Chronic Disease Virtual Consultation (one condition)                                                     €55.00
+             AS        Modified Chronic Disease Virtual Consultation (two conditions)                                                    €65.00
+             AT        Modified Chronic Disease Virtual Consultation (three or more conditions)                                          €75.00
+             *AU       Covid-19 1st Vaccine                                                                                              €25.00
+             AV        Covid-19 2nd Vaccine                                                                                              €25.00
+             AY        Covid-19 Vaccine Additional Shot 1                                                                                €25.00
+             AZ        Covid-19 Vaccine Booster Shot 1                                                                                   €25.00
+             CA        Respiratory assessment for patients regardless of eligibility                                                     €75.00
+             CB        Covid-19 telephone consultation for patients regardless of eligibility                                            €30.00
+             F         Suturing of cuts and lacerations                                                                                  €22.43
+             G         Treatment and Plugging of Dental and Nasal Haemorrhages                                                           €22.43
+             H         Draining of Hydroceles                                                                                            €22.43
+             J         Recognised Vein Treatment                                                                                         €22.43
+             K         Excisions / Cryotherapy / Diathermy of Skin Lesions                                                               €22.43
+             M         ECG Tests and their Interpretation                                                                                €22.43
+             O         Disease Outbreak Vaccinaton                                                                                       €28.50
+             R         Pneumococcal Vaccination                                                                                          €28.50
+             **S       Influenza Vaccination                                                                                             €15.00
+             ***S      Influenza Vaccination - LAIV (Nasal Vaccine)                                                                      €20.00
+             T         Pneumococcal / Influenza Vaccinations                                                                             €42.75
+             U         Hepatitis B Vaccination                                                                                          €142.57
+
+             * GP is eligible for a payment of €10 for an unique patient to whom the vaccine is administered during a pandemic.
+             ** GP is eligible for a payment of €100 for every 10 unique patients to whom the QIV vaccine is administered.
+             *** GP is eligible for a payment of €150 for every 10 unique patients to whom the LAIV vaccine is administered.
+
+
+
+                                                                                  26
+Fees and Allowances under the Capitation / Fee-Per-Item Agreement as at 31st December 2021
+
+
+             Type 2 Diabetes - Cycle of Care
+             A once off registration fee of €30.00 per registered patient.
+             Following registration, GPs receive the monthly element of the agreed annual fee of €100.
+
+             Chronic Disease Management
+             Annual fee payable in respect of eligible patient (aged 65 years and over) with one of the chronic conditions listed in the
+             Agreement of 2019 of €210.
+             Annual fee payable in respect of eligible patient (aged 65 years and over) with two of the chronic conditions listed in the
+             Agreement of 2019 of €250.
+             Annual fee payable in respect of eligible patient (aged 65 years and over) with three or more of the chronic conditions listed
+             in the Agreement of 2019 of €300.
+             Opportunistic Case Finding Programme – fee for assessment of patient (aged 75 years and over) meeting the chronic disease
+             risk criteria as set out in the Agreement of 2019 of €60.00.
+             Chronic Disease Preventive Treatment Programme – annual fee for assessment of patient (aged 75 years and over) identified
+             with high-risk of cardiovascular disease or diabetes as set out in the Agreement of 2019 of €82.00.
+             Practice Nurse grant per patient registered for Chronic Disease Management or Modified Chronic Disease Management
+             Programme in Agreement of 2019 of €28.75.
+
+             Social Deprivation Grant System for 2021
+             Grant amounts are payable for qualifying practices in the below amounts and are based on the absolute number of patients
+             living in disadvantaged areas. A practice must first qualify through the ranking system before it is determined which band
+             they will come under and receive the corresponding grant amount. GPs in receipt of rural practice supports are not eligible
+             to apply for the social deprivation grant.
+             Number of Patients in Disadvantaged Areas;
+             200 - 400                                                                                                                         €7,500.00
+             401 - 800                                                                                                                        €10,000.00
+             800 +                                                                                                                            €12,500.00
+
+
+
+
+                                                                                  27
+Fees and Allowances under the Capitation / Fee-Per-Item Agreement as at 31st December 2021 continued
+
+
+             Children in the Community aged Under 6
+             The Capitation rate is €125.00 per annum for children aged under 6 years issued with a GP Visit Card.
+             This rate includes the Supplementary Out-Of-Hours fee, effective 1st July 2015.
+
+             Children aged Under 6 - Asthma Cycle of Care
+             A once off registration fee of €50.00 for children aged under 6 years diagnosed with asthma.
+             Following registration, GPs receive the monthly element of the agreed fee of €90 in the first year and
+             receive the monthly element of the agreed fee of €45 in subsequent years up to the child’s 6th birthday.
+
+             Special Items of Service - Under 6
+             A      Excisions / Cryotherapy / Diathermy of Skin Lesions                                                 €24.80
+             D      Treatment and Plugging of Dental and Nasal Haemorrhages                                             €24.80
+             H      Removal of adherent foreign bodies from the conjunctival surface of the eye                         €24.80
+             M      Attendance at case conferences                                                                      €62.02
+             W      Nebuliser treatment in the case of acute asthma attack                                              €37.21
+             X      Removal of lodged or impacted foreign bodies from the ear, nose and throat and skin                 €24.80
+             Y      Suturing of cuts and lacerations (including application of tissue glue)                             €37.21
+             Z      Draining of Abscesses                                                                               €24.80
+
+
+
+
+                                                                                 28
+Payments to General Practitioners 2021
+
+
+                                     Fees €682.09m                                                              Allowances €174.03m
+          Payments to General Practitioners are categorised as fees and/or              In addition to a capitation fee an ‘Out-of-Hours’ fee is payable for non
+          allowances. For the majority of GPs who operate under the 1989                routine consultations when a GMS cardholder is seen by their GP or
+          agreement the principal fee is the capitation per person which is             another GP acting on his/her behalf from 5 pm in the evening to 9
+          weighted for gender and age - capitation fees totalled €375,379,517           am on the following morning (Monday to Friday) and all hours on
+          in 2021. Fees totalling €426,805 were paid to 3 GPs who continue to           Saturdays, Sundays and Bank Holidays. Special fees are payable for a
+          provide services under the Fee-Per-Item of service agreements.                range of additional services such as excisions, suturing, vaccinations,
+                                                                                        catheterization, family planning etc.
+          Apart from ‘Out-of-Hours’ fees and fees for a range of special
+          services, the cost of services provided in normal hours by GPs for            Annual and study leave together with locum, nursing and other
+          GMS persons, including the prescribing of necessary medicines, is             practice support payments account for most of the €174,030,089,
+          encompassed by the capitation fee. All GMS persons can avail of full          allowances paid to GPs in 2021.
+          GP services and in many cases they can benefit from specialist clinics
+          provided by GPs for issues such as Women’s Health, Family Planning
+          and Asthma.
+
+          Payments to GPs in each CHO Area
+           Community Healthcare Organisation                                                                                                  2021
+           CHO Area 1                                                                                                                     €77,656,402
+           CHO Area 2                                                                                                                     €93,640,175
+           CHO Area 3                                                                                                                     €74,131,678
+           CHO Area 4                                                                                                                    €136,749,207
+           CHO Area 5                                                                                                                    €105,372,697
+           CHO Area 6                                                                                                                     €67,784,245
+           CHO Area 7                                                                                                                     €98,912,150
+           CHO Area 8                                                                                                                    €106,535,181
+           CHO Area 9                                                                                                                     €95,342,189
+           National                                                                                                                     €856,123,924
+
+          Reimbursement of claims made by GPs include:
+          Primary Childhood Immunisation Scheme                                                                                             €7,358,607
+          Opioid Substitution Treatment Scheme                                                                                              €7,988,931
+          Maternity and Infant Care Scheme                                                                                                 €10,352,483
+          National Cancer Screening Services                                                                                               €15,861,460
+          Heartwatch                                                                                                                         €191,640
+          Health (Amendment) Act 1996                                                                                                          €93,648
+
+          Note: Payments for 2021 reflect the new services provided during the Covid-19 pandemic.
+
+                                                                                   29
+Payments to General Practitioners 2012 - 2021
+
+
+
+
+           Payments to General Practitioners 2012 - 2021
+
+                         Year                               Fees                          Allowances       Total
+                         2012                           351,088,405                       132,051,034   483,139,439
+                         2013                           343,404,031                       136,622,499   480,026,530
+                         2014                           320,269,633                       132,983,184   453,252,817
+                         2015                           348,035,815                       141,659,008   489,694,823
+                         2016                           394,797,667                       148,334,217   543,131,884
+                         2017                           398,912,575                       152,662,775   551,575,350
+                         2018                           411,754,432                       153,656,565   565,410,997
+                         2019                           429,137,227                       160,093,276   589,230,503
+                         2020                           605,224,515                       183,027,185   788,251,700
+                         2021                           682,093,836                       174,030,088   856,123,924
+
+           Note: Payments for 2021 reflect the new services provided during the Covid-19 pandemic.
+
+
+                                                                              30
+Number of Claims by General Practitioners
+
+          National – 2021
+
+
+
+                                                                             Special Service 7,114,636
+                                                                             Out-of-Hours 144,699
+                                                                             Special Type Consultation 130,111
+                                                                             Fee-per-Item 37,562
+
+
+
+
+          Number of Claims by General Practitioners in each CHO
+           Community Healthcare              Special Service               Out-of-Hours           Special Type Consultation           Fee-per-Item
+           Organisation
+           CHO Area 1                            583,701                       10,480                        7,349                            -
+           CHO Area 2                            810,971                       13,656                       12,371                            -
+           CHO Area 3                            612,579                        3,239                       13,461                            -
+           CHO Area 4                          1,229,081                       32,617                       16,539                       27,225
+           CHO Area 5                            898,607                        8,507                        6,135                          973
+           CHO Area 6                            597,930                       11,004                        3,826                            -
+           CHO Area 7                            768,662                       30,259                       32,362                        9,364
+           CHO Area 8                            864,181                       15,987                        8,520                            -
+           CHO Area 9                            748,924                       18,950                       29,548                            -
+           National                           7,114,636                       144,699                      130,111                       37,562
+          A majority of GPs are paid an annual capitation fee for each eligible person - the rate of payment is determined by the age/gender of the person.
+          A minority of GPs (3) who have continued to provide services under the Fee-per-Item of Service agreement are paid a fee for each Doctor/Patient
+          contact.
+          A Special Type Consultation (STC) fee may be claimed when a GP provides a service to a GMS eligible person who is not on their GMS panel.
+          Such GMS eligible persons may require medical services such as an Out-of-Hours, or emergency consultation, or they may be temporarily resident in
+          an area not served by their GP.
+          General Practitioners can claim fees for special items of service provided to eligible persons under the Capitation Agreement and Fee-per-Item
+          Agreement.
+          Note: The number of Special Service claims reflects the services available during the Covid-19 pandemic.
+
+
+                                                                                 31
+Number of Claims by General Practitioners 2012 - 2021
+
+
+
+
+                      Year                   Special Service              Out-of-Hours          Special Type Consultation      Fee-per-Item
+
+                      2012                       884,313                     861,133                      367,788                 57,331
+                      2013                       926,105                     890,914                      328,062                 58,660
+                      2014                       938,890                     806,522                      286,222                 55,047
+                      2015                       969,709                     885,861                      299,568                 52,634
+                      2016                     1,084,881                     987,711                      307,742                 46,100
+                      2017                     1,174,931                     959,121                      285,461                 47,476
+                      2018                     1,328,715                     961,873                      261,254                 36,343
+                      2019                     1,312,012                     939,342                      242,633                 39,473
+                      2020                     6,526,186                     329,270                      155,495                 27,958
+
+                      2021                     7,114,636                     144,699                      130,111                 37,562
+
+           Note: The number of Special Service claims for 2021 reflects the services available during the Covid-19 pandemic.
+
+
+
+                                                                                32
+GMS: Payments to General Practitioners
+
+                                                                                                                       2021            2020
+                                                                                                                         €               €
+     FEES                                           - Capitation                                                    375,379,517     340,270,765
+                                                    - Special Claims/Services                                       214,179,313     184,000,412
+                                                    - Out-of-Hours                                                    4,638,060      11,377,700
+                                                    - Dispensing                                                        636,386         648,756
+                                                    - Item of Service Contract                                          426,805         339,305
+                                                    - Asylum Seekers                                                    296,315         402,092
+                                                    - Vaccinations                                                   37,360,121      26,717,957
+                                                    - Asthma Registration                                                68,500         160,950
+                                                    - Asthma Capitation                                                 402,049         671,659
+                                                    - Contribution for GP Height Measure and Self Zeroing Scale             402            1,614
+                                                    - Diabetes Capitation                                             6,769,899       9,844,232
+                                                    - Diabetes Registration                                              89,700         216,060
+
+     ALLOWANCES                                     - Secretarial/Nursing                                            91,992,936      93,113,296
+                                                    - Annual Leave                                                    9,435,736       9,657,362
+                                                    - Rostering/Out-of-Hours                                          6,388,872       6,313,820
+                                                    - Medical Indemnity Insurance                                     6,952,130       6,973,064
+                                                    - Rural Practice                                                  4,984,326       5,886,732
+                                                    - Study Leave                                                     2,008,239       2,711,765
+                                                    - Sick Leave                                                      1,708,545       2,777,221
+                                                    - Maternity Leave/Paternity Leave                                 3,989,752       4,074,775
+                                                    - Locum and Practice Expenses                                         4,113           4,113
+                                                    - Social Deprivation Grant                                           79,500       2,905,000
+                                                    - CDM Nursing Support Grant                                       3,425,131       2,218,188
+                                                    - Winter Plan Support Grant                                           4,500       8,846,500
+
+     SALARIES                                       - Benefits to retired DMOs and their dependants                   1,637,165       1,837,848
+                                                    - Former District Medical Officers                                1,032,071       1,127,004
+
+     SUPERANNUATION FUND                            - Contribution                                                   41,315,954      37,132,184
+
+ TOTAL                                                                                                            €815,206,037    €760,230,374
+
+Note: Payments for 2021 reflect the new services provided during the Covid-19 pandemic.
+
+
+
+                                                                                    33
+34
+PHARMACY
+  SECTION
+Scale of Fees Payable to Participating Pharmacists as at 31st December 2021
+
+            GMS Scheme                                                                                                                     €
+            *Fee-Per-Item
+             - for each of the first 1,667 items dispensed by the Community Pharmacy Contractor in a month                              5.00
+             - for each of the next 833 items dispensed by the Community Pharmacy Contractor in that month                              4.50
+             - for each other item dispensed by the Community Pharmacy Contractor in that month                                         3.50
+            Extemporaneous Fee                                                                                                          6.53
+            Extemporaneous dispensing and compounding of
+             - Powders                                                                                                                 19.60
+             - Ointments and Creams                                                                                                    13.07
+            Non-Dispensing Fee - exercise of professional judgement                                                                     3.27
+            Phased Dispensing Fee - each part of phased dispensing                                                                      3.27
+            *A Fee-Per-Item is also payable on prescription forms issued by Dentists under the DTS Scheme.
+            Supplies to Dispensing Doctors
+            Pharmacists supplying Dispensing Doctors are reimbursed on the basis of the reimbursement price plus the relevant mark-up.
+            DPS/LTI/EEA Schemes and Health (Amendment) Act 1996
+            *The Fee-Per-Item structure shown for the GMS Scheme above, also applies to the DPS/LTI/EEA Schemes and Health
+            (Amendment) Act 1996.
+            Reimbursement under these four schemes includes ingredient cost plus the Fee-Per-Item.
+            In the case of the Drugs Payment Scheme the PCRS makes payments to Pharmacists in respect of authorised patients whose
+            monthly costs of prescribed drugs and medicines are in excess of the specified monthly amount (€114 1st November 2020)
+            payable to the Pharmacist by an individual or family.
+            High Tech Arrangements
+            Patient Care Fee: €62.03 per month.
+            Non Dispensing Patient Care Fee: €31.02
+            - Fee payable for a maximum of 3 consecutive months where there has been no dispensing of High Tech medicines.
+            Opioid Substitution Treatment Scheme
+            Patient Care Fee: Up to a Maximum of €62.00 per month.
+            Pharmacy Vaccinations
+            Influenza Vaccination - QIV (Quadrivalent Influenza Vaccine)                                                           15.00
+            Influenza Vaccination - LAIV (Nasal Vaccine)                                                                           20.00
+            *Covid-19 Vaccination                                                                                                  25.00 per dose
+            *Pharmacist is eligible for a once off payment for every patient to whom the vaccine is administered                   10.00 per patient
+            **Pharmacist is eligible for a payment of €100 for every 10 unique patients to whom the QIV vaccine is administered.
+            ***Pharmacist is eligible for a payment of €150 for every 10 unique patients to whom the LAIV vaccine is administered.
+
+
+
+
+                                                                             36
+Payments to Pharmacists: Claims Reimbursed 2021
+
+                      GMS €991.77m                                  DPS €96.14m                                  LTI €292.11m                                  EEA €0.40m
+
+          A GMS cardholder who is provided with a properly completed GMS                              Under Drug Payment Scheme (DPS), Long Term Illness (LTI) and European
+          prescription form by his or her GP can choose to have their prescription                    Economic Area (EEA) Schemes, Pharmacists are reimbursed the ingredient
+          forms dispensed in any of the Pharmacies who have entered into                              cost of items dispensed, dispensing fees and VAT where applicable.
+          agreements with the Health Service Executive for the provision of services
+          under Section 59 of the Health Act, 1970.                                                   There were 101,151 persons who availed of High Tech Arrangements
+                                                                                                      and patient care fees of €31.0m were paid to pharmacists under these
+          In 2021 there were 18.39m GMS prescription forms containing over 62.67m                     arrangements.
+          prescription items which were dispensed at a cost of €986,201,874. (This
+          figure excludes the cost of GMS stock orders of €5,570,320 in 2021). This
+          equates to an average cost of €15.80 per dispensed item. During 2021, 85%
+          of all GMS cardholders availed of prescription items at an average cost of
+          €750.71 per person.
+
+          Payments made to Pharmacists under the GMS and DTSS Schemes are
+          inclusive of the ingredient cost of medicines, dispensing fees, and VAT where
+          applicable.
+
+
+          Payments to Pharmacists: Claims Reimbursed in each CHO
+           Community Healthcare Organisation            *GMS                                  DPS                      LTI                         EEA                    Total
+           CHO Area 1                                €94,316,860                            €5,086,833              €24,116,578                     €74,347            €123,594,618
+           CHO Area 2                               €111,110,390                            €8,457,328              €25,723,511                     €83,982            €145,375,211
+           CHO Area 3                                €90,141,730                            €7,507,115              €24,348,398                     €66,805            €122,064,048
+           CHO Area 4                               €152,805,674                           €14,552,421              €42,704,590                     €83,620            €210,146,305
+           CHO Area 5                               €126,169,450                            €8,771,780              €35,445,566                     €40,927            €170,427,723
+           CHO Area 6                                €52,511,478                           €13,972,255              €22,404,783                      €4,306             €88,892,822
+           CHO Area 7                               €124,144,345                           €13,846,146              €41,697,406                     €10,967            €179,698,864
+           CHO Area 8                               €129,196,808                           €10,964,915              €41,940,522                     €25,863            €182,128,108
+           CHO Area 9                               €111,375,459                           €12,980,712              €33,724,897                     €11,212            €158,092,280
+           National                                €991,772,194                           €96,139,505             €292,106,251                    €402,029          €1,380,419,979
+
+           *GMS - This figure includes Stock Order costs.
+                - Also included in the above GMS figure is an amount of €0.48m which was paid for items dispensed under Redress for Women Resident in Certain Institutions, and €12.73m
+                  which was paid in respect of Non GMS Reimbursable Items dispensed under Discretionary Hardship Arrangements.
+
+           Additional payment of claims reimbursed to Pharmacists include:                                      Payments to Wholesalers and Manufacturers for High Tech Drugs
+           High Tech Arrangements - Patient Care Fees                                        €30,998,743        and Medicines supplied to Pharmacists:
+           Opioid Substitution Treatment Scheme                                              €14,235,467        High Tech Arrangements - Drugs and Medicines              €988,991,228
+           Covid-19 Vaccination Programme                                                    €19,471,445
+           Influenza Vaccination Scheme                                                       €6,321,915
+           Health (Amendment) Act 1996                                                        €1,460,291
+           Dental Treatment Services Scheme                                                    €575,665
+           Pharmacy Training Grant                                                             €653,489
+
+                                                                                                 37
+Payments to Pharmacists: Claims Reimbursed 2012 - 2021
+
+
+
+
+                Year             GMS            DPS                  LTI         EEA              Total
+
+                2012        €1,288,815,871   €125,691,064        €117,101,875   €1,778,697   €1,533,387,507
+
+                2013        €1,222,212,846    €84,045,549        €106,510,059   €1,490,790   €1,414,259,244
+
+                2014        €1,118,945,050    €67,534,381        €139,191,408   €1,248,767   €1,326,919,606
+
+                2015        €1,054,304,114    €67,108,587        €189,483,531   €1,136,724   €1,312,032,956
+
+                2016        €1,033,290,114    €65,299,554        €207,444,771    €998,483    €1,307,032,922
+
+                2017         €989,833,465     €62,094,671        €221,903,709    €884,229    €1,274,716,074
+
+                2018         €966,349,869     €67,362,845        €242,694,497    €816,945    €1,277,224,156
+
+                2019         €969,787,344     €75,471,256        €262,624,672    €708,341    €1,308,591,613
+
+                2020         €975,255,894     €82,666,086        €283,086,179    €599,158    €1,341,607,317
+
+                2021         €991,772,194     €96,139,505        €292,106,251    €402,029    €1,380,419,979
+
+
+                                                            38
+Average GMS Cost per Pharmacy Item 2012 - 2021
+
+
+
+
+                          Year                         *Total Number of Items        Total Payments   Average Cost per Item
+
+                          2012                                  62,084,126           €1,288,815,871          €20.76
+
+                          2013                                  62,272,035           €1,222,212,846          €19.63
+
+                          2014                                  59,524,407           €1,118,945,050          €18.80
+
+                          2015                                  58,093,584           €1,054,304,114          €18.15
+
+                          2016                                  58,797,149           €1,033,290,114          €17.57
+
+                          2017                                  58,713,753            €989,833,465           €16.86
+
+                          2018                                  59,326,912            €966,349,869           €16.29
+
+                          2019                                  60,176,425            €969,787,344           €16.12
+
+                          2020                                  61,062,484            €975,255,894           €15.97
+
+                          2021                                  62,754,498            €991,772,194           €15.80
+
+          * Total number of Items includes Stock Order Items.
+
+                                                                                39
+Number of Items Claimed by Pharmacists
+          National – Number of Items Claimed 2021
+
+
+
+
+                                                                                                              GMS 62.75m
+                                                                                                              DPS 9.59m
+                                                                                                              LTI 10.17m
+                                                                                                              EEA 0.03m
+                                                                                                              HT 0.87m
+                                                                                                              Other 1.38m
+
+
+          GMS prescription forms processed for payment in the year totalled 18.39m          Approximately 40.69% of GMS forms contained a single item - 17.22%
+          - the total of prescribed items was more than 62.67m - these accounted for        contained 2 items - the average number per form was approximately 3.41
+          approximately 74% of all items paid for by the Primary Care Reimbursement         items (2020 - 3.32).
+          Service in 2021.
+
+          Number of Items claimed in each CHO
+           Community Healthcare Organisation             *GMS             DPS               LTI             EEA             HT             Other            Total
+           CHO Area 1                                   5,938,311         526,062          882,878           5,719          66,827          106,017       7,525,814
+           CHO Area 2                                   6,700,855         804,242          870,019           5,806          86,173           99,806       8,566,901
+           CHO Area 3                                   5,791,596         809,751          929,039           4,435          68,965          105,043       7,708,829
+           CHO Area 4                                   9,568,689       1,516,248        1,424,530           5,635         142,319          178,912      12,836,333
+           CHO Area 5                                   8,162,482         943,504        1,327,633           2,888          92,549          159,310      10,688,366
+           CHO Area 6                                   3,335,585       1,190,181          711,208             394          80,945          106,622       5,424,935
+           CHO Area 7                                   8,028,944       1,408,831        1,379,186             712         125,338          228,254      11,171,265
+           CHO Area 8                                   8,294,553       1,123,858        1,467,272           1,777         104,246          190,994      11,182,700
+           CHO Area 9                                   6,933,483       1,262,453        1,178,105             832         100,107          208,414       9,683,394
+           National                                   62,754,498       9,585,130       10,169,870           28,198        867,469        1,383,372      84,788,537
+          *GMS includes: claim items and Stock Order items.
+
+          Other:                                        Claims:                     Other:                                                Claims:
+          Opioid Substitution Treatment Scheme          372,411                     Discretionary Hardship Arrangements                   164,794
+          Influenza Vaccinations Scheme                 269,497                     Dental Treatment Services Scheme                      107,670
+          Covid-19 Vaccination Programme                373,393                     Health (Amendment) Act 1996                            95,607
+
+          GMS: General Medical Services. DPS: Drugs Payment Scheme. LTI: Long Term Illness Scheme. EEA: European Economic Area. HT: High Tech Arrangements.
+          Other: Opioid Substitution Treatment Scheme, Health (Amendment) Act 1996, Dental Treatment Services Scheme, Vaccinations for GMS eligible persons (through
+          Community Pharmacy) and Discretionary Hardship Arrangements.
+
+
+                                                                                       40
+Number of Items Claimed by Pharmacists 2012 - 2021
+
+
+
+
+                Year             *GMS               DPS          LTI             EEA       HT       Other        Total
+                2012           62,084,126         9,333,838   2,944,285         96,991   522,355   743,141     75,724,736
+                2013           62,272,035         7,629,138   3,030,251         96,570   554,686   795,824     74,378,504
+                2014           59,524,407         7,007,029   4,696,579         89,210   582,744   815,567     72,715,536
+                2015           58,093,584         7,158,877   6,759,211         84,328   631,042   815,181     73,542,223
+                2016           58,797,149         7,203,742   7,593,728         76,369   681,631   823,222     75,175,841
+                2017           58,713,753         7,135,002   8,304,668         67,970   746,052   795,652     75,763,097
+                2018           59,326,912         7,633,295   8,936,045         63,739   818,114   767,859     77,545,964
+                2019           60,176,425         7,901,647   9,464,596         56,577   887,263   782,959     79,269,467
+                2020           61,062,484         8,554,971   9,952,633         44,867   798,437   1,013,240   81,426,632
+                2021           62,754,498         9,585,130   10,169,870        28,198   867,469   1,383,372   84,788,537
+
+          *GMS includes: claim items and Stock Order items.
+
+                                                                           41
+ ,   ! -                                                                                      .                                
+
+ 8$)$#$*(%(##9:#)*%&(%#%*)1*,$%)*8*,&()($$ ("$4
+
+)#+"*)&"$(/+$*"/(%4"((/1"$" 1$#)*%&(%,)+)*$$*%$""()&("*$*%*'+"*/%*
+#$)#$#$*&(%))1))*%#$)$%,("".&$*+(%$#$)4((((+$**,)$%$%$&(% *)+&&%(*$
+&()(()$%%)$*#%)*$*(+%&*%$$,(%+)*(&+*()4,"+*%$)%,(*/%"$"(),")%$+$(*!$"%$
+-**,"%&#$*%#$))&(%)))%($+#(%&&(%,#$)*%$)+(%)*8*,+)4
+                                                                                                        
+"!                                         "                                   
+                                                                                                                                                    ,    
+                                              !'                                               #+()#$*&&"*%$)/)*#)(,""*(%+%$"$)(,)%(3
+**$                                        !# !!                                                •  ! /-.! ! ($*%$8)(#+()#$*&&(%,"%(&%)*8
+$*%(                                                                                           (&* $+(" 9 : $  #$ &&(% *% (#+()#$* (%##$*%$) %(
+                                            !                                                     %8""+))+$(*!$/*4
+                                                                                                            • ! !/- "!*# !.+!!! ((#+()#$*))+&&%(*%()&
+*"%!(                                   
+                                                                                                                 %%(* % &*$*) -* )/#&*%#* (%$ (* "+( *(%+  #$ ))
+"+#$$""%!(                                                                              &&(%4
+("$*%+"$*                            %                                        •      !"!! "! -  !.($%$()*8"$)*$(%("$+*(*%$"
+                                             !                                                      )+&&"#$*)9 )*:('+(&(%((#+()#$*&&(%,"4
+                                                                                                                 
+                                           %
+                                                                                                            $))&(%*%%")($&"%($+#(%#$),""+$(* 
+($(/$*                                 !+                               (($#$*944)1"$"+#1 C$*%()1*#)1*+"+*1*%",&*$
+                                                                                                ; $(=<1*(*#$*)%(#%(*8*%8),(*%&(#**):$ %)&*"(($#$*944
+3$%*$)$8%$,(*$$0/#23$%*$)$8 (&*%("%!(2 3&(%*%$&+#&
+$*%(2 3)(%*%$$$$%(($"$(+&*!$*%(2 3)"*,)(%*%$$(+&*!       +"0+#1$+)$()$1%$)#$%$&(,%,;%"$)#=<1&*)($:4
+$*%(                                                                                                  
+
+                                                                                                            +(*($%(#*%$),""+$(5$))(%*%%")6*---4)47/%+(#$)4
+                        && &                                                                  
+)&+")()($$%)*+$
+%+#$*%(**(*#$*%(//)/$(%#9:4%*"                                                                                             ,#"!! 
+.&$*+(%$*%##+$*/(+#)%$*%&"                                                       )&+")+$*%)+&&%(*&()(()$*%""%-$()3
+*(*#$*),""%,(*%+$*(%(-)>@@4AB#""%$                                           •   $"#$)%((%$%)*(+*,&+"#%$(/))9:
+$A?A?4+$%+#$*$))%*&)$%%")                                               • $0%0&$)$08(+)9:%(**(*#$*%$.*/$$)%#$
+(%##$()*8"$*(*#$*%&*%$))%$"$",$                                          • ("$*%+"$*)%()*(%!&(,$*%$$$%$8,",+"(*("(""*%$
+$%)*1$($*$*%&(%#%*)*&(*$                                                    • +)%)&($$*&(#(/&(,$*%$%(%,)+"())4
+&&(%&(*&()($$*)*(&+*(4                                                          
+                                                                                                            #! ()3"*%$$$8("*&&*#%$%"%$"$*%)2 C3&(%&(%*$%$,(*)
+                                                                                                            )+*")$7!.$*/&C
+                                                         "!!! !!#  #($$$) )*&" 
+
+
+                                                                                                                        42
+                                                    ,^ʹDĞĚŝĐŝŶĞƐDĂŶĂŐĞŵĞŶƚWƌŽŐƌĂŵŵĞ
+
+ĞƐƚͲǀĂůƵĞďŝŽůŽŐŝĐĂů;sͿŵĞĚŝĐŝŶĞƐ                                                       WĞƌĐĞŶƚĂŐĞŽĨƉĂƚŝĞŶƚƐŽŶsǀƐZĞĨĞƌĞŶĐĞŵĞĚŝĐŝŶĞĨŽƌ
+In May 2019, the HSE-Medicines Management Programme (MMP) identi-                                  ĂĚĂůŝŵƵŵĂďϰϬŵŐƉƌĞͲĨŝůůĞĚƉĞŶͬƐǇƌŝŶŐĞ
+                                                                                ϭϬϬй
+fied best-value biological (BVB) medicines for adalimumab and etanercept.
+                                                                                 ϴϬй
+The MMP, in conjunction with the PCRS, is actively engaging with clinical
+                                                                                 ϲϬй
+teams in the specialities of dermatology, gastroenterology and rheumatol-
+                                                                                 ϰϬй
+ogy to support the prescribing of the BVB medicines. By the end of 2021,
+                                                                                 ϮϬй
+over 16,777 patients had been prescribed one of the identified BVB medi-
+                                                                                    Ϭй
+cines for adalimumab or etanercept.
+
+The MMP has identified additional biological medicines for which it may
+                                                                                                    ZĞĨĞƌĞŶĐĞDĞĚŝĐŝŶĞ;,ƵŵŝƌĂͿ                          sDĞĚŝĐŝŶĞ
+initiate a BVB medicine or best-value medicine (BVM) process in 2022;
+filgrastim, follitropin alfa, pegfilgrastim and teriparatide.
+
+
+WƌĞĨĞƌƌĞĚůŽŽĚ'ůƵĐŽƐĞdĞƐƚ^ƚƌŝƉƐ;'d^Ϳ                                      WƌĞĨĞƌƌĞĚ'd^                                                    WĂƚŝĞŶƚŶƵŵďĞƌƐŽŶĞŝƚŚĞƌĂ
+Total expenditure on BGTS in 2020 was approximately            ŽĚĞ                   'd^                   WƌŝĐĞΎ                             ƉƌĞĨĞƌƌĞĚŽƌŶŽŶͲƉƌĞĨĞƌƌĞĚ'd^
+€40.3 million. The MMP undertook an evaluation to iden-        85131 Finetest Lite blood glucose test strips   €6.95
+                                                                                                                                           60000
+tify preferred BGTS with associated meters for adults with     97637 Microdot Max blood glucose test strips    €7.46
+                                                               85132 Accu-Chek Instant test strips             €8.54                       50000
+type 1 and type 2 diabetes mellitus, with the publication of
+
+
+                                                                                                                         Patient numbers
+                                                               85110 Glucomen Areo Sensor test strips          €9.44                       40000
+a preferred BGTS list in January 2021. The MMP identified
+                                                               97607 Mylife Unio test strips                   €10.50                      30000
+a list of preferred BGTS with associated meters to ensure      94170 4Sure blood glucose test strips           €11.22
+that there are a variety of options available. There has                                                                                   20000
+                                                               85120 GlucoRx Nexus test strips                 €11.27
+been an increase in the utilisation of the preferred BGTS,     85139 GlucoRx HCT glucose test strips           €11.27                      10000
+
+accompanied by a decrease in the utilisation of the non-       85543 Accu-Chek Mobile test cassette            €11.81                          0
+
+                                                                                                                                                     Jan-21   Feb-21   Mar-21   Apr-21   May-21   Jun-21    Jul-21   Aug-21   Sep-21   Oct-21   Nov-21   Dec-21
+preferred BGTS. The MMP updated the list of preferred          15963 Contour Next blood glucose test strips    €14.30
+BGTS at the end of 2021. Monitoring of the utilisation of      68321 One Touch Verio test strips               €14.30
+the preferred BGTS will continue in 2022.                      10051 Freestyle Optium test strips              €14.30                              Preferred BGTS                                          Non-preferred BGTS
+                                                               *Reimbursement price as of 01/12/2021
+
+                                    Resources to support these initiatives are available on the MMP website: www.hse.ie/yourmedicines
+
+
+
+
+                                                                               43
+GMS: Major Therapeutic Classification of Drugs, Medicines and Appliances
+
+
+                                                                                          N - 209.81m
+            National 2021
+                                                                                          C - 139.11m
+                                                                                          A - 135.95m
+                                                                                          R - 112.59m
+                                                                                          V - 97.25m
+                                                                                          B - 86.22m
+                                                                                          M - 54.71m
+                                                                                          G - 47.22m
+                                                                                          Other - 108.91m
+
+
+
+              Major Therapeutic Classification                                                                        €m      Prescribing frequency
+               A    Alimentary Tract and Metabolism                                                                 135.95     10,007,720
+               B    Blood and Blood Forming Organs                                                                   86.22      4,534,152
+               C    Cardiovascular System                                                                           139.11     13,119,144
+               D    Dermatologicals                                                                                  24.21       1,495,517
+               G    Genito Urinary System and Sex Hormones                                                           47.22      2,539,051
+               H    Systemic Hormonal Preps. excl. Sex Hormones and Insulins                                         21.23       2,739,801
+               J    Antiinfectives for Systemic Use                                                                  25.91       2,112,224
+               L    Antineoplastic and Immunomodulating Agents                                                         9.54        373,729
+              M     Musculo-Skeletal System                                                                          54.71      3,156,197
+               N    Nervous System                                                                                  209.81     13,857,403
+               P    Antiparasitic Products, Insecticides and Repellents                                                1.57        137,169
+               R    Respiratory System                                                                              112.59      5,501,018
+               S    Sensory Organs                                                                                   26.45       1,692,227
+               V    Various (below)                                                                                  97.25      1,489,146
+                    Clinical Nutritional Products                                                                    44.99         551,634
+                    Ostomy Requisites                                                                                23.97         374,414
+                    Urinary Requisites                                                                               14.39         161,601
+                    Diagnostic Products                                                                                4.62        135,459
+                    Dressings                                                                                          2.80         40,815
+                    Other Therapeutic Products                                                                         2.30         23,669
+                    Needles/Syringes/Lancets                                                                           1.66         78,482
+                    Allergens                                                                                          0.13          1,482
+                    Miscellaneous                                                                                      2.39        121,590
+                    Total                                                                                        €991.77m      62,754,498
+
+            Note: The above table shows total expenditure i.e. ingredient cost, fees and VAT where applicable.
+
+                                                                                     44
+DPS: Major Therapeutic Classification of Drugs, Medicines and Appliances
+
+                                                                                          C - 27.80m
+             National 2021                                                                N - 24.31m
+                                                                                          A - 23.44m
+                                                                                          B - 22.88m
+                                                                                          G - 21.48m
+                                                                                          R - 20.18m
+                                                                                          V - 19.12m
+                                                                                          M - 15.74m
+                                                                                          Other - 23.65m
+
+
+
+              Major Therapeutic Classification                                                                           €m              Prescribing frequency
+               A    Alimentary Tract and Metabolism                                                                     23.44               1,431,610
+               B    Blood and Blood Forming Organs                                                                      22.88                 797,427
+               C    Cardiovascular System                                                                               27.80               2,252,606
+               D    Dermatologicals                                                                                       5.08                 215,776
+               G    Genito Urinary System and Sex Hormones                                                              21.48                 493,404
+               H    Systemic Hormonal Preps. excl. Sex Hormones and Insulins                                              4.19                 472,635
+               J    Antiinfectives for Systemic Use                                                                       5.58                 330,385
+               L    Antineoplastic and Immunomodulating Agents                                                            3.95                 117,303
+              M     Musculo-Skeletal System                                                                             15.74                 468,807
+               N    Nervous System                                                                                      24.31               1,561,535
+               P    Antiparasitic Products, Insecticides and Repellents                                                   0.43                  30,212
+               R    Respiratory System                                                                                  20.18                 901,683
+               S    Sensory Organs                                                                                        4.42                 237,197
+               V    Various (below)                                                                                     19.12                 274,550
+                    Ostomy Requisites                                                                                     6.16                  80,838
+                    Clinical Nutritional Products                                                                         5.96                  62,859
+                    Urinary Requisites                                                                                    3.14                  25,274
+                    Diagnostic Products                                                                                   0.60                  13,239
+                    Other Therapeutic Products                                                                            0.49                   5,107
+                    Needles/Syringes/Lancets                                                                              0.41                  33,608
+                    Allergens                                                                                             0.35                   3,999
+                    Dressings                                                                                             0.19                   2,535
+                    Miscellaneous                                                                                         1.82                  47,091
+                    Total                                                                                           €198.60m                9,585,130
+
+             Note: (i) The above costs are inclusive of the monthly co-payment of €114 (1st November 2020) payable to the Pharmacy by an individual or family.
+                  (ii) The above table shows total expenditure i.e. ingredient cost, fees and VAT where applicable.
+                                                                                     45
+LTI: Major Therapeutic Classification of Drugs, Medicines and Appliances
+
+
+             National 2021
+                                                                                           A - 116.37m
+                                                                                           V - 86.42m
+                                                                                           N - 38.01m
+                                                                                           C - 34.08m
+                                                                                           B - 12.99m
+                                                                                           Other - 4.24m
+
+
+
+
+              Major Therapeutic Classification                                                                         €m      Prescribing frequency
+               A    Alimentary Tract and Metabolism                                                                  116.37      2,921,009
+               B    Blood and Blood Forming Organs                                                                    12.99        950,942
+               C    Cardiovascular System                                                                             34.08      3,673,508
+               D    Dermatologicals                                                                                     0.03          1,185
+               G    Genito Urinary System and Sex Hormones                                                              0.79         27,872
+               H    Systemic Hormonal Preps. excl. Sex Hormones and Insulins                                            1.14         37,580
+               J    Antiinfectives for Systemic Use                                                                     0.90         27,536
+               L    Antineoplastic and Immunomodulating Agents                                                          0.12          1,520
+              M     Musculo-Skeletal System                                                                             0.48         27,502
+               N    Nervous System                                                                                    38.01        943,143
+               P    Antiparasitic Products, Insecticides and Repellents                                                 0.02            337
+               R    Respiratory System                                                                                  0.63         22,904
+               S    Sensory Organs                                                                                      0.13          3,416
+               V    Various (below)                                                                                   86.42      1,531,416
+                    Diagnostic Products                                                                               53.42         869,794
+                    Needles/Syringes/Lancets                                                                          18.03         475,002
+                    Clinical Nutritional Products                                                                       8.16         53,421
+                    Urinary Requisites                                                                                  3.16         19,080
+                    Nutritional/Ancillary Devices                                                                       0.36          1,591
+                    Ostomy Requisites                                                                                   0.25          3,536
+                    Dressings                                                                                           0.06            632
+                    Other Therapeutic Products                                                                          0.03            236
+                    Miscellaneous                                                                                       2.95        108,124
+                    Total                                                                                         €292.11m      10,169,870
+
+             Note: The above table shows total expenditure i.e. ingredient cost, fees and VAT where applicable.
+
+                                                                                      46
+LTI: Spend by Illness 2021
+
+
+
+
+              Long Term Illness                                                                €m      No. of Persons
+
+               A     Intellectual Disability                                                    4.69      3,317
+               B     Hydrocephalus                                                              0.51        221
+               C     Cerebral Palsy                                                             1.87        881
+               D     Muscular Dystrophy                                                         0.20        194
+               E     Haemophilia                                                                0.02         48
+               F     Diabetes Mellitus (does not include Gestational Diabetes)                232.90    151,402
+               G     Diabetes Insipidus                                                         0.32        251
+               H     Epilepsy                                                                  26.47     24,886
+               J     Multiple Sclerosis                                                         4.37      3,912
+               K     Parkinsonism                                                               7.10      4,481
+               L     Cystic Fibrosis                                                            3.93      1,394
+               M     Phenylketonuria (PKU)                                                      6.00        690
+               N     Acute Leukaemia                                                            0.40        399
+               P     Mental Illness (Under 16 years)                                            1.20      2,302
+               Q     Spina Bifida                                                               2.13        684
+               R     Thalidomide Conditions                                                     0.00          2
+                     Total                                                                 €292.11m     195,064
+
+             Note: (i) Based on data available from claims submitted by pharmacies.
+                  (ii) Number of Persons dispensed to is based on Primary Illness.
+
+
+                                                                                      47
+High Tech: Major Therapeutic Classification of Drugs and Medicines
+
+
+             National 2021
+                                                                                       L - 777.21m
+                                                                                       R - 79.46m
+                                                                                       H - 32.99m
+                                                                                       B - 26.12m
+                                                                                       G - 24.07m
+                                                                                       J - 16.55m
+                                                                                       C - 13.37m
+                                                                                       Other - 21.37m
+
+
+
+
+              Major Therapeutic Classification                                                                            €m             Prescribing frequency
+
+               A     Alimentary Tract and Metabolism                                                                       5.99                   1,720
+               B     Blood and Blood Forming Organs                                                                      26.12                  38,887
+               C     Cardiovascular System                                                                               13.37                  12,837
+               D     Dermatologicals                                                                                       2.03                   2,215
+               G     Genito Urinary System and Sex Hormones                                                              24.07                  28,818
+               H     Systemic Hormonal Preps. excl. Sex Hormones and Insulins                                            32.99                  62,674
+               J     Antiinfectives for Systemic Use                                                                     16.55                  18,398
+               L     Antineoplastic and Immunomodulating Agents                                                         777.21                664,546
+               M     Musculo-Skeletal System                                                                               4.58                   7,068
+               N     Nervous System                                                                                        6.52                   6,101
+               R     Respiratory System                                                                                  79.46                  21,970
+               V     Various (below)                                                                                       2.25                   2,235
+                     Other Therapeutic Products                                                                            2.25                   2,235
+
+                     Total                                                                                          €991.14m                  867,469
+
+             Note: The above table shows total expenditure i.e. ingredient cost, fees and VAT where applicable, based on claims submitted by Pharmacists.
+
+                                                                                     48
+High Tech Trends 2012 - 2021
+
+
+
+
+            The graph illustrates how the increase in the number of people dispensed to has impacted on the High Tech spend over a 10 year period 2012 - 2021.
+
+
+                            Year                           High Tech Spend                    No. of Items Dispensed             *No. of Persons Dispensed to
+
+                            2012                              €385,035,723                             443,981                                59,276
+                            2013                              €442,271,580                             466,485                                63,701
+                            2014                              €484,706,257                             491,678                                66,264
+                            2015                              €544,185,172                             530,368                                70,321
+                            2016                              €611,737,633                             573,867                                74,877
+                            2017                              €664,215,525                             622,596                                81,580
+                            2018                              €781,234,364                             684,582                                84,109
+                            2019                              €849,224,988                             744,377                                88,748
+                            2020                              €909,793,962                             798,437                                92,693
+
+                            2021                              €991,143,684                             867,469                               101,151
+
+            * Based on data available from claims submitted by Pharmacists.
+
+                                                                                       49
+50
+DENTAL
+SECTION
+Scale of Fees Payable under the Dental Treatment Services Scheme as at 31st December 2021
+
+
+                                                                                            Routine
+           Treatment Type
+                                                                                               €
+           Oral Examination                                                                  33.00
+           Prophylaxis                                                                       31.00
+           Restoration (Amalgam)                                                             50.06
+           Restoration (Composite) 6 anterior teeth only                                     51.88
+           Exodontics (Extraction under local anaesthetic)                                   39.50
+           Surgical Extraction - Maximum 2 units:
+             Fee payable for each 15 minute unit                                             35.00
+             Maximum payable                                                                 70.00
+           1st Stage Endodontic Treatment (Anterior teeth only)                              57.30
+           Denture Repairs
+             1st Item of Repair                                                              47.86
+             Each Subsequent Item                                                            15.34
+             Maximum payable                                                                 78.54
+           Apicectomy / Amputation of Roots                                                 168.70
+           Endodontics (Anterior teeth only)                                                137.66
+           Protracted Periodontal Treatment per visit (Max 4)                                26.36
+           Miscellaneous
+            (e.g. Haemorrhage and Prescriptions only)                                        22.65
+           Prosthetics
+             Full Upper or Lower Denture                                                    326.22
+             Partial Upper or Lower Acrylic Denture                                         239.27
+             Complete Upper or Lower Reline                                                 130.59
+             Complete Upper and Lower Reline                                                217.38
+             Full Upper and Lower Denture                                                   478.74
+
+
+
+
+                                                                  52
+Payments to Dentists: Claims Reimbursed 2021
+
+
+                                 Above the Line €29.32m                                                      Below the Line €10.32m
+          Dentists were reimbursed a total of €39.64m in 2021, in respect              ‘Below the Line’ treatments - prior Health Service Executive approval
+          of treatments provided for 264,591 GMS persons under the DTS                 for a specific course of treatment under this category is required. Full
+          Scheme.                                                                      denture treatment is available, with prior Health Service Executive
+                                                                                       approval, to all eligible GMS persons over 16 years.
+          The following treatments were available to all GMS eligible persons.
+
+          ROUTINE:      Routine treatments are categorised as either ‘Above the
+                        Line’ or ‘Below the Line’;
+
+                        ‘Above the Line’ treatments are uncomplicated
+                        procedures e.g. Amalgam (Filling); Extractions;
+
+                        ‘Below the Line’ treatments are advanced procedures
+                        e.g. Protracted Periodontal; Prosthetics.
+
+
+          Payments to Dentists: Claims Reimbursed in each CHO
+           Community Healthcare Organisation                                                                                                  2021
+           CHO Area 1                                                                                                                      €5,119,894
+           CHO Area 2                                                                                                                      €3,667,043
+           CHO Area 3                                                                                                                      €3,695,254
+           CHO Area 4                                                                                                                      €6,226,166
+           CHO Area 5                                                                                                                      €5,611,864
+           CHO Area 6                                                                                                                      €1,681,528
+           CHO Area 7                                                                                                                      €4,593,467
+           CHO Area 8                                                                                                                      €5,296,772
+           CHO Area 9                                                                                                                      €3,744,367
+           National                                                                                                                      €39,636,355
+
+          Note: (i) Figures include reimbursed fees in respect of Health (Amendment) Act 1996 claims.
+                (ii) Payments detailed reflect the services available during the Covid-19 pandemic.
+
+
+
+
+                                                                                  53
+Payments to Dentists: Claims Reimbursed 2012 - 2021
+
+
+
+
+                                            Year                                                        Payments to Dentists
+                                            2012                                                            €63,717,122
+                                            2013                                                            €69,749,991
+                                            2014                                                            €69,782,332
+                                            2015                                                            €66,505,516
+                                            2016                                                            €64,393,261
+                                            2017                                                            €63,369,808
+                                            2018                                                            €58,680,201
+                                            2019                                                            €56,075,566
+                                            2020                                                            €40,549,163
+                                            2021                                                            €39,636,355
+
+          Note: (i) Figures include reimbursed fees in respect of Health (Amendment) Act 1996 claims.
+                (ii) Payments detailed reflect the services available during the Covid-19 pandemic.
+
+
+
+
+                                                                                  54
+Number of Dental Treatments Claimed 2021
+
+          National – Number of Treatments Claimed 2021
+
+                                                                               Above the Line 722,767
+
+                                                                               Below the Line 37,902
+
+
+
+
+          Number and Value of Dental Treatments Claimed by CHO
+           Community Healthcare                                                                          ***No. of Persons           Value of
+                                              *Above the Line               **Below the Line
+           Organisation                                                                                      Treated             Reimbursements
+           CHO Area 1                                87,321                        5,138                      33,268                 €5,119,894
+           CHO Area 2                                71,261                        3,108                      27,436                 €3,667,043
+           CHO Area 3                                70,747                        3,200                      25,189                 €3,695,254
+           CHO Area 4                               118,244                        5,347                      43,088                 €6,226,166
+           CHO Area 5                               101,663                        6,274                      35,394                 €5,611,864
+           CHO Area 6                                30,400                        1,391                      11,186                 €1,681,528
+           CHO Area 7                                83,118                        4,299                      30,874                 €4,593,467
+           CHO Area 8                                94,244                        5,273                      35,211                 €5,296,772
+           CHO Area 9                                65,769                        3,872                      22,945                 €3,744,367
+           National                                722,767                        37,902                     264,591               €39,636,355
+
+          ROUTINE - Routine treatments are categorised as either ‘Above the Line’ or ‘Below the Line’:
+                   ‘Above the Line’ (ATL) treatments are uncomplicated procedures;
+                   ‘Below the Line’ (BTL) treatments are advanced procedures.
+
+          * The most frequently used ATL service was Oral Examination, which was used by 234,150 patients followed by Amalgam Restoration.
+          ** In the BTL category the most frequently used service was Prosthetics followed by Protracted Periodontal and Endodontics.
+          *** This figure is the number of unique GMS persons treated.
+
+          Note: (i) Figures include reimbursed fees in respect of Health (Amendment) Act 1996 claims.
+                (ii) Payments detailed reflect the services available during the Covid-19 pandemic.
+
+                                                                                    55
+Number of Dental Treatments Claimed 2012 - 2021
+
+
+
+
+                         Year                          Above the Line                         Below the Line   No. of Persons Treated
+                         2012                            1,138,977                                59,147               394,399
+                         2013                            1,245,215                                65,558               435,292
+                         2014                            1,245,135                                67,248               436,433
+                         2015                            1,186,342                                64,583               420,459
+                         2016                            1,151,562                                63,480               416,662
+                         2017                            1,131,347                                63,383               413,111
+                         2018                            1,053,116                                60,658               389,791
+                         2019                              990,169                                59,124               374,408
+                         2020                              752,494                                38,233               282,796
+                         2021                              722,767                                37,902               264,591
+
+          Note: Figures from 2017 include claims in respect of Health (Amendment) Act 1996.
+
+
+
+
+                                                                                56
+OPTICAL
+SECTION
+Scale of Fees Payable under the Health Service Executive Community Ophthalmic Services Scheme
+
+           As at 31st December 2021                                             €               As at 31st December 2021                                      €
+           Examinations                                                                         Single Vision Lenses to Own Frame
+           Eye Examination Ophthalmic Optician                                 22.51            Replacement Distance Lens (1) to own Frame                   16.46
+           Eye Examination Ophthalmologist / Ophthalmic Medical                24.78            Replacement Distance Lenses (2) to own Frame                 32.94
+           Practitioner                                                                         Replacement Reading Lens (1) to own Frame                    16.46
+           Medical Eye Examination by Ophthalmologist                          49.58            Replacement Reading Lenses (2) to own Frame                  32.94
+           Eye Examination for Contact Lenses (Grant)                          68.44 (H)
+           Eye Examination Ophthalmic (Dilation)                               45.03            Single Vision Lenses to Non-Standard Frame
+           Domiciliary Visit Ophthalmic Optician                               67.53            Single Vision Lens (1) (Glass) Distance                      23.70 (H)
+           Domiciliary Visit Ophthalmologist / Ophthalmic Medical              67.53            Single Vision Lenses (2) (Glass) Distance                    47.41 (H)
+           Practitioner                                                                         Single Vision Lens (1) (Glass) Reading                       23.70 (H)
+                                                                                                Single Vision Lenses (2) (Glass) Reading                     47.41 (H)
+           Domiciliary Fees                                                                     Single Vision Lens (1) (Plastic) Distance                    27.03 (H)
+           1st Patient Exam                                                    67.53            Single Vision Lenses (2) (Plastic) Distance                  54.06 (H)
+           2nd Patient Exam                                                    45.02            Single Vision Lens (1) (Plastic) Reading                     27.03 (H)
+           3rd - 15th Patient Exam                                             22.51            Single Vision Lenses (2) (Plastic) Reading                   54.06 (H)
+           1st Patient Dilation                                                22.51
+           2nd Patient Dilation                                                15.00            Additional Specification For Lenses To All Spectacle Types
+           3rd - 15th Patient Dilation                                          7.50            Special grant towards additional specification for Lens (1) 82.62 (H)
+                                                                                                - applies to all spectacle types
+           Appliances                                                                           Special grant towards additional specification for Lenses (2) 165.26 (H)
+           Single Vision Complete Appliances                                                    - applies to all spectacle types
+           Spectacles - Distance                                              42.37
+           Spectacles - Reading                                               42.37
+           Spectacles - Uncollected                                           29.49
+           Contact Lenses (Pair)                                              42.36
+           Contact Lenses Standard or Disposable per pair (Grant)             64.78 (H)
+           Single Vision Spectacles - with Glass Lenses Distance             122.85 (H)
+           Single Vision Spectacles - with Glass Lenses Reading              122.85 (H)
+           Single Vision Spectacles - with Plastic Lenses Distance           132.00 (H)
+           Single Vision Spectacles - with Plastic Lenses Reading            132.00 (H)
+           (H) Denotes Fees Payable in Respect of Services under the Health (Amendment) Act 1996 only.
+           Note: (i) Domiciliary Fees: Adults requiring a domiciliary visit in a hospital or other group care setting.
+                 (ii) Where applicable values are inclusive of materials and VAT.
+                                                                                           58
+Scale of Fees Payable under the Health Service Executive Community Ophthalmic Services Scheme continued
+
+          As at 31st December 2021                                      €                As at 31st December 2021                                    €
+          Other Items - Single Vision                                                    Bifocals
+          Lenticular Lens (1 Surface)                                 11.75              Spectacles Bifocal Complete                                84.19
+          Lenticular Lenses (2 Surfaces)                              23.51              Fused Bifocal Spectacles                                  163.88 (H)
+          Lenticular Lenses (3 Surfaces)                              35.27              Varifocal Spectacles - Glass or Plastic                   252.73 (H)
+          Lenticular Lenses (4 Surfaces)                              47.02
+          Tinted Lens (1)                                              7.49              Bifocal Lenses
+          Tinted Lenses (2)                                           14.98              Replacement Bifocal Lens (1) to own Frame                  37.43
+          Tinted Lenses (3)                                           22.47              Replacement Bifocal Lenses (2) to own Frame                74.85
+          Tinted Lenses (4)                                           29.97              Bifocal Lens (1) to Non-Standard Frames                    48.15   (H)
+          Prism (1)                                                    6.36              Bifocal Lenses (2) to Non-Standard Frames                  96.32   (H)
+          Prisms (2)                                                  12.72              Varifocal Lens (1) (Grant)                                 95.61   (H)
+          Prisms (3)                                                  19.09              Varifocal Lenses (2) (Grant)                              191.20   (H)
+          Prisms (4)                                                  25.45
+          Prisms (5)                                                  31.81              Other Items - Bifocals
+          Prisms (6)                                                  38.17              Sphere over 6.00 and up to 9.00 extra charge (1) Lens       4.22
+          Prisms (7)                                                  44.53              Sphere over 6.00 and up to 9.00 extra charge (2) Lenses     8.44
+          Prisms (8)                                                  50.90              Sphere over 9.00 extra charge (1) Lens                      9.37
+          Dioptric powers higher than 8.00 (1) Lens                    6.25              Sphere over 9.00 extra charge (2) Lenses                   18.75
+          Dioptric powers higher than 8.00 (2) Lenses                 12.50              Tinted Lens (1)                                             8.27
+          Dioptric powers higher than 8.00 (3) Lenses                 18.75              Tinted Lenses (2)                                          16.55
+          Dioptric powers higher than 8.00 (4) Lenses                 24.99              Prism (1)                                                   8.84
+          Anti-Reflective Coating on Plastic Lens (1)                 18.33   (H)        Prisms (2)                                                 17.67
+          Anti-Reflective Coating on Plastic Lenses (2)               36.66   (H)
+          Dioptric powers higher than 6.00 (Plastic) (1) Lens         15.62              Repairs
+          Dioptric powers higher than 6.00 (Plastic) (2) Lenses       31.24              Replacement Frame to own Lenses                            12.16
+          Dioptric powers higher than 6.00 (Plastic) (3) Lenses       46.86              Replacement front to own Lenses                             5.83
+          Dioptric powers higher than 6.00 (Plastic) (4) Lenses       62.48              Replacement Side (1) to own Frame                           2.45
+          Plastic Lens (1) for children as prescribed                  4.73              Replacement Sides (2) to own Frame                          4.90
+          Plastic Lenses (2) for children as prescribed                9.45              Complete new Frames                                        90.60 (H)
+          Plastic Lens (1) Adult                                       4.58   (H)
+          Plastic Lenses (2) Adult                                     9.16   (H)
+
+          (H) Denotes Fees Payable in Respect of Services under the Health (Amendment) Act 1996 only.
+          Note: Where applicable values are inclusive of materials and VAT.
+
+
+
+
+                                                                                    59
+Payments to Optometrists/Ophthalmologists: Claims Reimbursed 2021
+
+          The Community Ophthalmic Services Scheme (COSS) provides                      Eye examinations by Optometrists/Ophthalmologists totalled
+          access to certain Optical treatments to eligible persons living in the        253,817; complete spectacles (distance, reading and bi-focals) and
+          community. Reimbursement for adult medical card holders, which                other appliances provided under the Scheme totalled 406,517.
+          include free eye examinations and necessary spectacles/appliances,
+          is made by the Primary Care Reimbursement Service (PCRS).
+
+          Payment is also made by PCRS for teenage medical card holders
+          for eye examinations and necessary spectacles/appliances and for
+          necessary spectacles/appliances for children.
+
+          In the 12-month period to the end of December 2021, claims were
+          received on behalf of 268,979 GMS persons for 660,334 treatments
+          costing €25,107,697.
+
+
+
+          Payments to Optometrists/Ophthalmologists: Claims Reimbursed in each CHO
+           Community Healthcare Organisation                                                                                                2021
+           CHO Area 1                                                                                                                    €2,696,751
+           CHO Area 2                                                                                                                    €2,739,518
+           CHO Area 3                                                                                                                    €2,303,736
+           CHO Area 4                                                                                                                    €3,802,379
+           CHO Area 5                                                                                                                    €3,682,574
+           CHO Area 6                                                                                                                    €1,371,865
+           CHO Area 7                                                                                                                    €3,023,910
+           CHO Area 8                                                                                                                    €3,238,974
+           CHO Area 9                                                                                                                    €2,247,990
+           National                                                                                                                    €25,107,697
+
+          Note: (i) Payments include services for Children, Teenagers and Health (Amendment) Act 1996.
+               (ii) Payments detailed reflect the services available during the Covid-19 pandemic.
+
+
+
+
+                                                                                   60
+Payments to Optometrists/Ophthalmologists: Claims Reimbursed 2012 - 2021
+
+
+
+
+                              Year                           Payments to Optometrists/Ophthalmologists
+                              2012                                          €30,355,035
+                              2013                                          €31,400,553
+                              2014                                          €31,787,039
+                              2015                                          €31,743,068
+                              2016                                          €32,508,917
+                              2017                                          €32,706,469
+                              2018                                          €29,832,040
+                              2019                                          €29,261,845
+                              2020                                          €22,581,523
+                              2021                                          €25,107,697
+
+
+
+
+                                                     61
+Number of Treatments by Optometrists/Ophthalmologists
+
+          National Number of Treatments 2021
+
+
+
+
+                                                                                                  Appliances 406,517
+
+
+                                                                                                  Eye Exams 253,817
+
+
+
+
+          Number of Treatments by Optometrists/Ophthalmologists in each CHO
+           Community Healthcare                                                                                                 Value of
+                                           Eye Examinations                 Appliances             No. of Persons Treated
+           Organisation                                                                                                     Reimbursements
+           CHO Area 1                             27,375                       44,271                      30,362             €2,696,751
+           CHO Area 2                             25,899                       47,405                      29,826             €2,739,518
+           CHO Area 3                             23,768                       38,868                      25,997             €2,303,736
+           CHO Area 4                             40,376                       59,551                      39,043             €3,802,379
+           CHO Area 5                             35,408                       65,793                      40,778             €3,682,574
+           CHO Area 6                             16,072                       16,710                      13,925             €1,371,865
+           CHO Area 7                             30,013                       47,051                      31,726             €3,023,910
+           CHO Area 8                             31,207                       54,452                      34,241             €3,238,974
+           CHO Area 9                             23,699                       32,416                      23,081             €2,247,990
+           National                              253,817                      406,517                     268,979           €25,107,697
+
+          Note: (i) Payments include services for Children, Teenagers and Health (Amendment) Act 1996.
+               (ii) Payments detailed reflect the services available during the Covid-19 pandemic.
+
+
+                                                                                 62
+Number of Treatments by Optometrists/Ophthalmologists 2012 - 2021
+
+
+
+
+                                                                                             Value of
+                 Year         Eye Examinations    Appliances    No. of Persons Treated
+                                                                                         Reimbursements
+                 2012             319,354           481,672            314,750             €30,355,035
+                 2013             330,995           498,872            325,317             €31,400,553
+                 2014             332,142           508,469            326,249             €31,787,039
+                 2015             330,691           513,460            323,866             €31,743,068
+                 2016             336,108           527,239            327,169             €32,508,917
+                 2017             335,756           534,781            328,630             €32,706,469
+                 2018             306,577           486,787            296,662             €29,832,040
+                 2019             301,847           474,185            304,515             €29,261,845
+                 2020             225,684           368,808            241,128             €22,581,523
+                 2021             253,817           406,517            268,979             €25,107,697
+
+
+
+
+                                                      63
+64
+Appendix
+
+
+Online PCRS Publications @ https://www.hse.ie/eng/staff/pcrs/pcrs-publications/
+
+
+PCRS Annual Reports                                                                    Pharmacy Reports
+Statistical Analysis of Claims and Payments 1998 - 2021                                Number of Items per Claim
+                                                                                       Pharmacy Fees
+Eligibility Reports                                                                    Top 100 Prescribed Products
+Eligibility Figures                                                                    Top 100 Products by Cost
+Domiciliary Care Allowance                                                             Top 20 Medicines and Appliances
+Under 6s and Over 70s Eligibility                                                      Distribution of Medicines by ATC
+Eligibility per Scheme                                                                 GMS Payments to Pharmacists
+Eligible Medical Card Holders by CHO, Gender and Age Group                             Payments to Pharmacists: Claims Reimbursed
+Eligible GP Visit Card Holders by CHO, Gender and Age Group                            Number of Items Claimed by Pharmacists
+                                                                                       Benzodiazepine and Z Drugs
+General Practitioner Reports
+Number and Costs of Claims by GPs                                                      Dental Reports
+Dispensing Doctors                                                                     Monthly Expenditure Report for DTSS
+Special Items of Service                                                               DTSS Payments and Number of Treatments
+Payments to GPs
+GP Panel Size                                                                          Optical Reports
+Capitation Payments to GPs                                                             High Tech Reports
+                                                                                       Contractor Reports
+                                                                                       Annual Flu Reports
+
+
+                                                                                  65
+

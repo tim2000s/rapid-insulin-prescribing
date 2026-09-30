@@ -1,0 +1,1224 @@
+GKV-Arzneimittel-Schnellinformation
+                    für Deutschland
+                      nach § 84 Abs. 5 SGB V
+
+                                     Januar bis März 2026
+                                       Konsolidierte Daten
+                  Ausführlicher Bericht zum Quartalsende
+                                                                              GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                          Januar bis März 2026 (konsolidierte Daten)
+
+
+
+
+Impressum
+
+Herausgeber:
+Spitzenverband Bund der Krankenkassen (GKV-Spitzenverband)
+Reinhardtstraße 28
+10117 Berlin
+
+Im Auftrag erstellt durch die ITSG - Informationstechnische Servicestelle der Gesetzlichen Krankenversicherung GmbH, Offenbach
+Kontakt: gamsi@gkv-spitzenverband.de
+
+
+Gestaltung: GKV-Spitzenverband und BBGK Berliner Botschaft Gesellschaft für Kommunikation mbH
+Titelbild: Christian Schwier - Fotolia.com
+Marginalspalte: Rynio Productions - Fotolia.com
+
+Datenstand: 10.07.2026
+
+
+Aufgabenstellung und Datenbasis
+
+Der GKV-Spitzenverband übermittelt Schnellinformationen über die Entwicklung der Ausgaben für Arznei- und Verbandmittel nach
+§ 31 Abs. 1 SGB V als standardisierte Berichte nach § 84 Abs. 5 Satz 4 SGB V. Sie beruhen auf den übermittelten Daten der Arzneimittel-
+verordnungen gemäß § 300 SGB V, die vor der Abrechnungsprüfung zu einem festgelegten Stichtag ausgewertet werden. Die für den
+aktuellen Auswertungszeitraum nach dem Stichtag eingehenden weiteren Daten werden in den nachfolgenden Berichten berücksichtigt.
+
+Rundungsbedingt addieren sich nicht immer alle ausgewiesenen Kennzahlen auf die Summenzeile. Ebenso werden teils Nicht-Null-Werte
+rundungsbedingt als Null dargestellt.
+
+Bei versichertenbezogenen Kennzahlen sind die Versichertenzahlen entsprechend der amtlichen Mitgliederstatistik KM6 des Vorjahres
+zugrunde gelegt.
+
+Erläuterungen zur Rechtsgrundlage, den verwendeten Kennzahlen und Begriffen sind im Glossar unter http://www.gkv-gamsi.de
+aufgeführt.
+                                                            GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                       Januar bis Juni 2013 (konsolidierte Daten)
+
+
+
+Inhalt
+
+Überblick
+         Tabelle 1:     Umsätze im Gesamtmarkt                                                                 1
+         Abbildung 1:   Monatliche Umsätze im Gesamtmarkt                                                      1
+         Tabelle 2:     Kennzahlen zum Verordnungsgeschehen                                                    2
+         Tabelle 3:     Bruttoumsatz und Verordnungsblattzeilen ausgewählter Segmente des
+                        Nicht-Fertigarzneimittelmarktes                                                        3
+         Abbildung 2:   Anteil ausgewählter Segmente des Nicht-Fertigarzneimittelmarktes am Gesamtmarkt        3
+         Tabelle 4:     Bruttoumsatz und DDD ausgewählter Segmente des Fertigarzneimittelmarktes               4
+         Abbildung 3:   Anteil ausgewählter Segmente am Fertigarzneimittelmarkt                                4
+
+Auswertungen zum Fertigarzneimittelmarkt
+         Tabelle 5:     Die 30 therapeutischen Untergruppen mit den höchsten Umsätzen                          5
+         Tabelle 6:     Die Wirkstoffe mit den höchsten Umsätzen der ersten sieben therapeutischen
+                        Untergruppen aus Tabelle 5                                                             6
+         Tabelle 7:     Die 20 umsatzstärksten Fertigarzneimittel und ihr Anteil am Umsatz der chemischen
+                        Untergruppe                                                                            8
+         Tabelle 8:     Biotechnologisch hergestellte Fertigarzneimittel                                       9
+
+Auswertungen zu Versichertengruppen
+         Tabelle 9:     Bruttoumsatz nach Versichertenstatus                                                  13
+         Tabelle 10:    Bruttoumsatz nach Altersgruppen                                                       13
+
+Auswertungen zu Sonderkennzeichen
+         Tabelle 11:    Ausgewählte Nicht-Fertigarzneimittel mit Sonderkennzeichen                            14
+         Tabelle 12:    Die 20 umsatzstärksten in parenteralen Zubereitungen verarbeiteten Wirkstoffe         15
+
+Auswertungen zu Fachgruppen
+         Tabelle 13:    Bruttoumsatz und DDD des Fertigarzneimittelmarktes nach Fachgruppen                   17
+         Abbildung 4:   Anteil des Bruttoumsatzes generikafähiger Arzneimittel am Fertigarzneimittelmarkt
+                        nach Fachgruppen                                                                      18
+         Abbildung 5:   Verteilung der Anzahl verordneter Wirkstoffe im DU90%-Segment
+                        (Drug Utilization 90 %) nach Fachgruppen                                              19
+                                                                                  GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                               Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Überblick
+
+
+Tabelle 1:
+Umsätze im Gesamtmarkt von Januar bis März 2026 im Vergleich zum Vorjahreszeitraum
+                                  Bund
+
+                                         in Mio. €       Änderung            je Versicherten    Änderung
+
+Bruttoumsatz                             16.251,1        +     3,1%               219,78 €      +      3,1%
+Zuzahlungen                                 669,3        +     1,0%                 9,05 €      +      1,0%
+Gesetzliche Abschläge*                      737,6        -    <0,1%                 9,98 €      -     <0,1%
+Nettoumsatz                              14.844,1        +     3,4%               200,75 €      +      3,4%
+
+
+* Berücksichtigt sind Apothekenabschläge nach § 130 Abs. 1 SGB V und Herstellerabschläge
+  nach § 130a SGB V. Rabatte nach § 130a Abs. 8 SGB V und § 130c SGB V sind nicht enthalten.
+
+
+ Abbildung 1:
+ Monatliche Umsätze im Gesamtmarkt seit dem Vorjahresmonat
+
+
+ Bund
+ Umsatz                            Bruttoumsatz          Nettoumsatz
+ in Mio. €
+
+      6.000
+                                                 5.552                                                                5.474
+                                                                              5.387
+      5.400              5.151 5.119                                 5.098                     5.158 5.237
+                 4.981                                                                4.999
+                                         4.845 5.063                                                          4.788 4.990
+                                                             4.705            4.914
+      4.800
+                         4.694 4.668                                 4.654                     4.708 4.770
+                 4.530                                                                4.563
+                                         4.418                                                                4.362
+      4.200                                                  4.298
+
+
+      3.600
+
+
+      3.000
+
+
+      2.400
+
+
+      1.800
+
+
+      1.200
+
+
+        600
+
+
+             0   Mrz      Apr   Mai       Jun      Jul       Aug      Sep      Okt    Nov       Dez     Jan    Feb     Mrz
+                 2025    2025   2025     2025     2025       2025    2025     2025    2025     2025    2026   2026    2026
+
+
+
+
+                                                                                                                                        1
+                                                                          GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                        Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Überblick
+
+
+Tabelle 2:
+Kennzahlen zum Verordnungsgeschehen von Januar bis März 2026
+im Vergleich zum Vorjahreszeitraum
+
+                                  Bund
+
+                                           in Mio.   Änderung       je Versicherten     Änderung
+
+Gesamtmarkt:
+
+Bruttoumsatz in €                        16.251,1     +   3,1%              219,78       +   3,1%
+Arzneiverordnungsblätter                    165,1     +   1,0%                2,23       +   1,0%
+Verordnungsblattzeilen                      177,8     +   0,2%                2,40       +   0,2%
+Verordnungen                                196,4     +   0,2%                2,66       +   0,2%
+
+Fertigarzneimittelmarkt:
+Bruttoumsatz in €                        13.645,2     +   3,4%              184,54       +   3,4%
+Verordnungsblattzeilen                      165,9     +   0,3%                2,24       +   0,4%
+Verordnungen*                               174,0     +   0,4%                2,35       +   0,4%
+  davon verschreibungspflichtig             161,8     +   1,6%                2,19       +   1,6%
+DDD                                      11.709,3     +   4,4%              158,36       +   4,4%
+* Die Anzahl Verordnungen entspricht im Fertigarzneimittelmarkt der Anzahl Packungen.
+
+
+
+
+                                                                                                                                 2
+                                                                                  GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                                  Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Überblick
+
+
+Tabelle 3:
+Bruttoumsatz und Verordnungsblattzeilen ausgewählter Segmente des
+Nicht-Fertigarzneimittelmarktes von Januar bis März 2026
+
+                                      Bund
+
+                                      Bruttoumsatz                                 Verordnungsblattzeilen
+
+                                                    in Mio. €            Anteil                    in Mio.            Anteil
+
+Parenterale Zubereitungen                            1.502,1              9,2%                           0,9          0,5%
+Rezepturen (auch Rezeptursubstanzen
+ungemischt)                                            115,7              0,7%                           1,1          0,6%
+Blutzuckerteststreifen                                  74,2              0,5%                           1,0          0,6%
+Medizinprodukte gemäß Anlage V
+der Arzneimittel-Richtlinie                             27,5              0,2%                           0,5          0,3%
+Verbandmittel                                          577,4              3,6%                           3,7          2,1%
+Sonstiges (Nicht-FAM und sonstige
+Sonderkennzeichen nach TA1)                            309,0              1,9%                           4,6          2,6%
+Nicht-Fertigarzneimittelmarkt                        2.605,8            16,0%                           11,9          6,7%
+Gesamtmarkt                                        16.251,1            100,0%                          177,8     100,0%
+
+
+
+Abbildung 2:
+Anteil ausgewählter Segmente des Nicht-Fertigarzneimittelmarktes am Gesamtmarkt
+von Januar bis März 2026
+
+                                      Bund
+
+
+Parenterale Zubereitung                  9,2%                                       0,5%
+
+
+Rezepturen (auch                                                  0,7%              0,6%
+Rezeptursubstanzen ungemischt)
+
+Blutzuckerteststreifen                                             0,5%             0,6%
+
+
+Medizinprodukte gemäß Anlage V                                         0,2%         0,3%
+der Arzneimittel-Richtlinie
+
+Verbandmittel                                            3,6%                              2,1%
+
+
+Sonstiges (Nicht-FAM und sonstige                               1,9%                        2,6%
+Sonderkennzeichen nach TA1)
+
+                                             10%           5%                 0%                  5%           10%
+
+                                                Bruttoumsatz                                 Verordnungsblattzeilen
+
+
+
+
+                                                                                                                                           3
+                                                                                    GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                                Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Überblick
+
+
+Tabelle 4:
+Bruttoumsatz und DDD ausgewählter Segmente des Fertigarzneimittelmarktes
+von Januar bis März 2026
+
+                                  Bund
+
+                                  Bruttoumsatz                      DDD                                   Bruttoumsatz je DDD*
+
+                                        in Mio. €          Anteil               in Mio.          Anteil                        Absolut
+
+Nicht-generikafähige
+Fertigarzneimittel                       7.730,9           56,7%                1.253,6         10,7%                            6,17 €
+Generikafähige
+Fertigarzneimittel                       5.913,8           43,3%            10.455,6            89,3%                            0,57 €
+Fertigarzneimittelmarkt                 13.645,2          100,0%            11.709,3        100,0%                               1,17 €
+davon:
+                     Generika            4.181,7           30,6%                9.824,5         83,9%                            0,43 €
+         Arzneimittel gemäß
+              § 35a SGB V**              6.460,4           47,3%                 855,7            7,3%                           7,55 €
+
+              Orphan Drugs                981,0             7,2%                    3,0         <0,1%                         286,74 €
+
+
+*   In die Berechnung „Bruttoumsatz je DDD" werden nur die Fertigarzneimittel einbezogen, für die DDD verfügbar sind. Nicht jedem
+    Fertigarzneimittel werden DDD zugeordnet.
+** Fertigarzneimittel mit Wirkstoffen, für die der Gemeinsame Bundesausschuss eine Nutzenbewertung gemäß § 35a SGB V durchführt
+   oder bereits abgeschlossen hat.
+
+
+
+Abbildung 3:
+Anteil ausgewählter Segmente am Fertigarzneimittelmarkt von Januar bis März 2026
+
+
+                                  Bund
+
+Nicht-generikafähige            56,7%                                                           10,7%
+Fertigarzneimittel
+
+Arzneimittel gemäß                      47,3%                                              7,3%
+§ 35a SGB V*
+
+                                  60%      50%      40%    30%      20%   10%      0%     10%     20%     30%    40%    50%      60%
+
+                                                    Bruttoumsatz                                              DDD
+
+*   Fertigarzneimittel mit Wirkstoffen, für die der Gemeinsame Bundesausschuss eine Nutzenbewertung gemäß § 35a SGB V durchführt
+    oder bereits abgeschlossen hat
+
+
+
+
+                                                                                                                                          4
+                                                                                GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                            Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 5:
+Die 30 therapeutischen Untergruppen nach ATC-Klassifikation mit den höchsten Umsätzen
+von Januar bis März 2026
+
+                                                               Bund
+
+                                                                     Brutto-                                            Brutto-
+        ATC-Code                                                    umsatz                          DDD                 umsatz
+Rang    2. Ebene Bedeutung                                        in Mio. €        Anteil        in Mio.   Anteil      je DDD*
+
+    1   L04          Immunsuppressiva                                 2.055,4      15,1%           61,0     0,5%       33,71 €
+    2   A10          Antidiabetika                                    1.330,1       9,7%          737,6     6,3%        1,80 €
+    3   L01          Antineoplastische Mittel                         1.108,4       8,1%           10,2    <0,1%      108,28 €
+    4   B01          Antithrombotische Mittel                           689,8       5,1%          461,0     3,9%        1,50 €
+    5   R03          Mittel bei obstruktiven
+                     Atemwegserkrankungen                              631,5        4,6%          345,8     3,0%        1,83 €
+    6 C09            Mittel mit Wirkung auf das Renin-
+                     Angiotensin-System                                522,9        3,8%         2.651,0   22,6%        0,20 €
+   7    N02          Analgetika                                        510,6        3,7%           233,3    2,0%        2,19 €
+   8    S01          OPHTHALMIKA*                                      447,9        3,3%           237,1    2,0%        1,89 €
+   9    L02          Endokrine Therapie                                447,1        3,3%            44,7    0,4%        9,99 €
+  10    C10          Mittel, die den Lipidstoffwechsel
+                     beeinflussen                                      337,0        2,5%         1.143,1    9,8%        0,30 €
+  11    D11          Andere Dermatika                                  297,8        2,2%            29,6    0,3%       10,08 €
+  12    N06          Psychoanaleptika                                  289,1        2,1%           550,0    4,7%        0,53 €
+  13    B02          Antihämorrhagika                                  269,2        2,0%             2,3   <0,1%      116,60 €
+  14    A16          Andere Mittel für das alimentäre System
+                     und den Stoffwechsel                              264,3        1,9%             0,5   <0,1%      495,68 €
+  15 J05             Antivirale Mittel zur systemischen
+                     Anwendung                                         261,7        1,9%           16,3     0,1%       16,01 €
+  16    N05          Psycholeptika                                     224,0        1,6%          132,1     1,1%        1,70 €
+  17    J06          Immunsera und Immunglobuline                      205,2        1,5%            1,2    <0,1%      171,40 €
+  18    N07          Andere Mittel für das Nervensystem                194,1        1,4%           26,7     0,2%        7,26 €
+  19    V01          Allergene                                         192,4        1,4%           42,1     0,4%        4,57 €
+  20    R07          Andere Mittel für den Respirationstrakt           171,9        1,3%            0,5    <0,1%      357,57 €
+  21    L03          Immunstimulanzien                                 168,9        1,2%            3,4    <0,1%       49,60 €
+  22    M01          Antiphlogistika und Antirheumatika                152,3        1,1%          248,3     2,1%        0,61 €
+  23    C07          Beta-Adrenozeptorantagonisten                     151,9        1,1%          444,3     3,8%        0,34 €
+  24    J01          Antibiotika zur systemischen Anwendung            148,2        1,1%           59,2     0,5%        2,50 €
+  25    M05          Mittel zur Behandlung von
+                     Knochenerkrankungen                               145,0        1,1%           64,3     0,5%        2,25 €
+  26    A02          Mittel bei Säure bedingten Erkrankungen           142,5        1,0%          865,1     7,4%        0,17 €
+  27    C03          Diuretika                                         138,5        1,0%          456,2     3,9%        0,30 €
+  28    B03          Antianämika                                       137,8        1,0%           77,0     0,7%        1,79 €
+  29    G03          Sexualhormone und Modulatoren des
+                     Genitalsystems                                    127,8        0,9%          328,4     2,8%        0,39 €
+  30 H01             Hypophysen- und Hypothalamushormone
+                     und Analoga                                       126,8        0,9%             5,9   <0,1%       21,42 €
+Diese therapeutischen Untergruppen                                11.890,0        87,1%          9.278,5   79,2%
+Fertigarzneimittel                                                13.645,2 100,0%              11.709,3 100,0%          1,17 €
+
+* In die Berechnung „Bruttoumsatz je DDD" werden nur die Fertigarzneimittel einbezogen, für die DDD verfügbar sind.
+  Nicht jedem Fertigarzneimittel werden DDD zugeordnet.
+
+
+
+
+                                                                                                                                     5
+                                                                         GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                  Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 6:
+Die Wirkstoffe mit den höchsten Umsätzen der ersten sieben therapeutischen Untergruppen
+aus Tabelle 5 von Januar bis März 2026
+(Diese Tabelle ist mehrseitig)
+                                                                                   Bund
+
+         Die maximal fünf                                                                Brutto-                Brutto-
+         umsatzstärksten              Die maximal drei umsatzstärksten                  umsatz         DDD      umsatz Anteil**
+ATC-Code Wirkstoffe                   Fertigarzneimittel                              in Mio. €     in Mio.    je DDD* an DDD
+L04        Immunsuppressiva                                                            2.055,4        61,0     33,71 € 100,0%
+ L04AB04   Adalimumab                 Hulio, Amgevita, Hyrimoz                           218,6         6,9     31,81 €  11,3%
+ L04AC05   Ustekinumab                Uzpruvo, Pyzchiva, Stelara                         160,2         5,3     30,24 €   8,7%
+ L04AC16   Guselkumab (35a)           Tremfya                                            122,3         2,1     59,06 €   3,4%
+ L04AC18   Risankizumab (35a)         Skyrizi                                            112,2         2,4     46,51 €   4,0%
+ L04AF03   Upadacitinib (35a)         Rinvoq                                             101,1         3,2     31,99 €   5,2%
+           Diese Wirkstoffe                                                              714,4        19,8     36,06 € 32,6%
+A10        Antidiabetika                                                               1.330,1      737,6       1,80 € 100,0%
+ A10BK03   Empagliflozin (35a)        Jardiance                                          270,6       86,4       3,13 €  11,7%
+ A10BK01   Dapagliflozin (35a)        Edistride, Forxiga                                 242,1       95,6       2,53 €  13,0%
+ A10BX16   Tirzepatid (35a, vEB)      Mounjaro                                           205,7       14,0      14,72 €   1,9%
+ A10BJ06   Semaglutid (35a)           Rybelsus, Ozempic                                  119,1       36,3       3,29 €   4,9%
+ A10AE04   Insulin glargin            Abasaglar, Lantus, Toujeo                           99,8       52,4       1,90 €   7,1%
+           Diese Wirkstoffe                                                              937,3      284,6       3,29 € 38,6%
+L01        Antineoplastische Mittel                                                    1.108,4        10,2    108,28 € 100,0%
+ L01EJ01   Ruxolitinib (35a)          Jakavi                                             105,5         0,6    164,27 €   6,3%
+ L01FC01   Daratumumab (35a)          Darzalex                                            90,8         0,4    204,44 €   4,3%
+ L01EF02   Ribociclib (35a)           Kisqali                                             73,0         0,7     99,33 €   7,2%
+ L01EL02   Acalabrutinib (35a)        Calquence                                           64,0         0,3    206,04 €   3,0%
+ L01EL01   Ibrutinib (35a)            Imbruvica                                           62,5         0,3    202,27 €   3,0%
+           Diese Wirkstoffe                                                              395,8         2,4    162,16 € 23,8%
+B01     Antithrombotische Mittel                                                          689,8     461,0       1,50 € 100,0%
+ B01AF02Apixaban (35a)           Eliquis                                                  407,6     132,9       3,07 €  28,8%
+ B01AF03Edoxaban (35a)           Lixiana                                                  121,0      39,6       3,06 €   8,6%
+ B01AF01Rivaroxaban              Rivaroxaban Zentiva, Rivaroxaban-1 A Pharma,
+                                 Xarelto                                                   32,7       54,0      0,61 €   11,7%
+B01AB05 Enoxaparin               Clexane, Inhixa, Enoxaparin Becat                         28,8       15,4      1,87 €    3,3%
+B01AE07 Dabigatranetexilat       Pradaxa, Dabigatranetexilat STADA,
+                                 Dabigatranetexilat AL                                     14,2       4,8       2,95 €    1,0%
+        Diese Wirkstoffe                                                                  604,1     246,7       2,45 €   53,4%
+
+
+
+
+                                                                                                                              6
+                                                                           GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                          Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 6:
+Die Wirkstoffe mit den höchsten Umsätzen der ersten sieben therapeutischen Untergruppen
+aus Tabelle 5 von Januar bis März 2026
+(Diese Tabelle ist mehrseitig)
+                                                                                          Bund
+
+         Die maximal fünf                                                                        Brutto-                Brutto-
+         umsatzstärksten             Die maximal drei umsatzstärksten                           umsatz         DDD      umsatz Anteil**
+ATC-Code Wirkstoffe                  Fertigarzneimittel                                       in Mio. €     in Mio.    je DDD* an DDD
+R03      Mittel bei obstruktiven Atemwegserkrankungen                                             631,5      345,8      1,83 € 100,0%
+ R03AK08 Formoterol und             Luforbec, Beclometason/Formoterol Cipla, Foster
+         Beclometason                                                                              87,8        44,6     1,97 €     12,9%
+ R03AL09 Formoterol,                Trimbow
+         Glycopyrroniumbromid
+         und Beclometason (35a)                                                                    71,1       20,9      3,40 €      6,0%
+ R03DX05 Omalizumab                 Omlyclo, Xolair                                                58,1        0,9     62,53 €      0,3%
+ R03AC02 Salbutamol                 Salbutamol AL, Sultanol, Salbutamol-ratiopharm                 37,3       60,0      0,62 €     17,4%
+ R03BB04 Tiotropiumbromid           Tiotropium Glenmark, Braltus, Spiriva                          34,3       18,7      1,83 €      5,4%
+         Diese Wirkstoffe                                                                         288,6      145,2      1,99 €     42,0%
+C09      Mittel mit Wirkung auf das Renin-Angiotensin-System                                      522,9    2.651,0      0,20 € 100,0%
+ C09DX04 Valsartan und Sacubitril Entresto
+         (35a)                                                                                    155,0        35,3     4,39 €      1,3%
+ C09CA06 Candesartan               Candaxiro, Candesartan-1 A Pharma, Candesartan
+                                   Zentiva                                                        116,9      906,4      0,13 €     34,2%
+ C09AA05 Ramipril                  Ramipril-1 A Pharma, RamiLich, Ramipril HEXAL                   73,4    1.063,8      0,07 €     40,1%
+ C09DA26 Candesartan und           Candesartan/HCT Heumann, Candecor comp,
+         Hydrochlorothiazid        Candesartan Zentiva comp                                        18,0        63,2     0,29 €      2,4%
+ C09DB07 Candesartan und           Camlostar, Caramlo, Candecor-Amlo
+         Amlodipin                                                                                 16,8       33,5      0,50 €      1,3%
+         Diese Wirkstoffe                                                                         380,1    2.102,2      0,18 €     79,3%
+N02      Analgetika                                                                               510,6      233,3      2,19 € 100,0%
+ N02BB02 Metamizol-Natrium           Metamizol Zentiva, Novaminsulfon-1 A Pharma,
+                                     Novaminsulfon Lichtenstein                                   117,7        70,8     1,66 €     30,4%
+N02AX51 Tilidin und Naloxon          Tilidin-1 A Pharma, Tilidin comp STADA, Tilidin AL
+                                     comp                                                          54,9        40,7     1,35 €     17,5%
+N02CD01 Erenumab (35a)               Aimovig                                                       46,2         8,6     5,39 €      3,7%
+N02AA03 Hydromorphon                 Hydromorphon-HCL Glenmark, Hydromorphon/-
+                                     hydrochlorid beta, Hydromorphon Aristo                        43,6         8,3     5,27 €      3,5%
+N02BF02 Pregabalin                   Pregabalin-1 A Pharma, Pregabalin beta,
+                                     Pregabalin Vivanta                                            43,1       38,2      1,13 €     16,4%
+           Diese Wirkstoffe                                                                       305,5      166,6      1,83 €     71,5%
+
+Diese umsatzstärksten therapeutischen Untergruppen                                               6.848,6    4.499,9      1,52 €
+
+Fertigarzneimittel                                                                            13.645,2     11.709,3       1,17 €
+
+*  In die Berechnung „Bruttoumsatz je DDD" werden nur die Fertigarzneimittel einbezogen, für die DDD verfügbar sind. Nicht jedem
+   Fertigarzneimittel werden DDD zugeordnet.
+** Anteil des Wirkstoffes an der therapeutischen Untergruppe (ATC-Code 2. Ebene).
+
+Mit (35a) sind Wirkstoffe gekennzeichnet, für die der Gemeinsame Bundesausschuss eine Nutzenbewertung gemäß § 35a SGB V durchführt oder
+bereits abgeschlossen hat.
+Mit (vEb) werden Wirkstoffe gekennzeichnet, für die ein vertraulicher Erstattungsbetrag gemäß § 130b Abs.1c SGB V gilt oder gegolten hat
+
+
+
+
+                                                                                                                                           7
+                                                                            GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                         Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 7:
+Die 20 umsatzstärksten Fertigarzneimittel und ihr Anteil am Umsatz der chemischen Untergruppe nach
+ATC-Klassifikation von Januar bis März 2026
+
+
+
+                                                          Bund
+                                                          Bruttoumsatz             DDD
+
+     Fertigarznei-           chemische Untergruppe
+Rang mittel                     (ATC-Code 4. Ebene)          in Mio. €   Anteil*         in Mio.   Anteil*
+    1 Eliquis (35a)    Direkte Faktor-Xa-Inhibitoren             407,6   72,6%           132,9      58,7%
+                     Natrium-Glucose-Cotransporter-
+   2 Jardiance (35a)
+                               2-(SGLT2)-Inhibitoren             270,6   52,3%             86,4     46,2%
+                     Natrium-Glucose-Cotransporter-
+   3 Forxiga (35a)
+                               2-(SGLT2)-Inhibitoren             241,6   46,6%             95,4     51,0%
+                           Mittel zur Behandlung der
+   4 Dupixent (35a)                  Dermatitis, exkl.
+                                       Corticosteroide           206,8   75,4%              4,4     44,1%
+     Mounjaro            Andere blutzuckersenkende
+   5
+     (35a, vEB)                  Mittel, exkl. Insuline          205,7   99,8%             14,0     97,3%
+                      Angiotensin-II-Rezeptorblocker
+   6 Entresto (35a)
+                       (ARB), andere Kombinationen               155,0   92,6%             35,3     61,3%
+   7 Xtandi (35a)                      Antiandrogene             140,3   41,0%              1,3     29,1%
+   8 Eylea (35a)             Antineovaskuläre Mittel             137,0   48,8%              7,0     65,1%
+   9 Erleada (35a)                     Antiandrogene             127,2   37,2%              1,3     30,8%
+                                Andere Mittel für das
+  10 Vyndaqel (35a)
+                                        Nervensystem             125,5   73,6%              0,3     15,1%
+  11 Tremfya (35a)            Interleukin-Inhibitoren            122,3   15,6%              2,1     11,7%
+  12 Lixiana (35a)     Direkte Faktor-Xa-Inhibitoren             121,0   21,6%             39,6     17,5%
+                     Glucagon-like-Peptid-1-(GLP-1)-
+  13 Ozempic (35a)
+                                   Rezeptoragonisten             119,1   66,5%             36,3     53,6%
+  14 Stelara                  Interleukin-Inhibitoren            114,1   14,5%              3,0     16,8%
+  15 Skyrizi (35a)            Interleukin-Inhibitoren            112,2   14,3%              2,4     13,6%
+                      Janus-assoziierte Kinase (JAK)-
+  16 Jakavi (35a)
+                                           Inhibitoren           105,5   88,3%              0,6     88,8%
+                      Janus-assoziierte Kinase (JAK)-
+  17 Rinvoq (35a)
+                                           Inhibitoren           101,1   60,7%              3,2     62,8%
+  18 Cosentyx (35a)           Interleukin-Inhibitoren             93,7   11,9%              2,1     11,9%
+                     CD38 (Cluster of Differentiation
+  19 Darzalex (35a)
+                                      38)-Inhibitoren             90,8 100,0%               0,4    100,0%
+  20 Entyvio (35a)          Monoklonale Antikörper                81,0 28,2%                2,4     39,8%
+Diese Fertigarzneimittel                                      3.078,0                    470,3
+Fertigarzneimittel                                           13.645,2                 11.709,3
+
+
+* Anteil des Fertigarzneimittels an der chemischen Untergruppe (ATC-Code 4. Ebene).
+Mit (35a) sind Wirkstoffe gekennzeichnet, für die der Gemeinsame Bundesausschuss eine Nutzenbewertung gemäß § 35a SGB V durchführt oder
+bereits abgeschlossen hat.
+Mit (vEb) werden Wirkstoffe gekennzeichnet, für die ein vertraulicher Erstattungsbetrag gemäß § 130b Abs.1c SGB V gilt oder gegolten hat
+
+
+
+
+                                                                                                                                       8
+                                                                    GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                               Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 8:
+Bruttoumsatz und DDD ausgewählter* biotechnologisch hergestellter Fertigarzneimittel
+von Januar bis März 2026
+(Abrechnungen von Zubereitungen sind nicht enthalten*. Diese Tabelle ist mehrseitig.)
+                                                                       Bund
+                                                                       Bruttoumsatz          DDD Bruttoumsatz      Anteil
+Wirkstoff         Arzneimittel                                              in Tsd. €     in Tsd.      je DDD      DDD**
+
+Adalimumab
+(L04AB04)                                                                   218.558       6.871       31,81 €    100,0%
+                  Amgevita, Amsparity, Hukyndra, Hulio, Hyrimoz,
+ Biosimilar       Idacio, Imraldi, Yuflyma                                  180.777       5.597       32,30 €      81,5%
+ Referenz-AM      Humira                                                     37.781       1.274       29,66 €      18,5%
+
+Ustekinumab
+(L04AC05)                                                                   160.201       5.298       30,24 €    100,0%
+                  Fymskina, Imuldosa, Otulfi, Pyzchiva, Steqeyma,
+ Biosimilar       Uzpruvo, Wezenla, Yesintek                                 46.110       2.315       19,91 €      43,7%
+ Referenz-AM      Stelara                                                   114.091       2.982       38,26 €      56,3%
+
+Aflibercept
+(S01LA05)                                                                   138.350       7.069       19,57 €    100,0%
+ Biosimilar       Afiveg, Afqlir, Eiyzey, Pavblu                              1.396          87       16,13 €      1,2%
+ Referenz-AM      Eylea                                                     136.954       6.983       19,61 €     98,8%
+
+Insulin glargin
+(A10AE04)                                                                    99.770      52.401        1,90 €    100,0%
+  Biosimilar      Abasaglar, Semglee                                         18.011      10.681        1,69 €     20,4%
+  Referenz-AM     Lantus                                                     35.034      17.563        1,99 €     33,5%
+  Sonstige        Toujeo                                                     46.726      24.156        1,93 €     46,1%
+
+Infliximab
+(L04AB02)                                                                    82.299       2.495       32,98 €    100,0%
+  Biosimilar      Flixabi, Inflectra, Remsima, Zessly                        78.377       2.340       33,50 €     93,8%
+  Referenz-AM     Remicade                                                    3.922         156       25,17 €      6,2%
+
+Ranibizumab
+(S01LA04)                                                                    79.218       1.788       44,30 €    100,0%
+ Biosimilar       Byooviz, Epruvy, Ranivisio, Rimmyrah, Ximluci               3.806         105       36,31 €      5,9%
+ Referenz-AM      Lucentis                                                   75.412       1.683       44,80 €     94,1%
+
+Etanercept
+(L04AB01)                                                                    72.961       2.449       29,79 €    100,0%
+  Biosimilar      Benepali, Erelzi, Nepexto                                  62.516       2.099       29,79 €     85,7%
+  Referenz-AM     Enbrel                                                     10.445         350       29,81 €     14,3%
+
+Insulin aspart
+(A10AB05)                                                                    72.781      36.059        2,02 €    100,0%
+  Biosimilar      Insulin Aspart Sanofi, Kirsty                               1.335       1.009        1,32 €      2,8%
+  Referenz-AM     Novorapid                                                  54.515      26.733        2,04 €     74,1%
+  Sonstige        Fiasp                                                      16.931       8.316        2,04 €     23,1%
+
+
+
+
+                                                                                                                        9
+                                                                     GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                   Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 8:
+Bruttoumsatz und DDD ausgewählter* biotechnologisch hergestellter Fertigarzneimittel
+von Januar bis März 2026
+(Abrechnungen von Zubereitungen sind nicht enthalten*. Diese Tabelle ist mehrseitig.)
+                                                                           Bund
+                                                                           Bruttoumsatz          DDD Bruttoumsatz      Anteil
+Wirkstoff        Arzneimittel                                                   in Tsd. €     in Tsd.      je DDD      DDD**
+
+Denosumab
+(M05BX04)                                                                        67.239      22.028        3,05 €    100,0%
+                 Acvybra, Bildyos, Bilprevda, Bomyntra, Conexxence,
+                 Degevma, Denbrayce, Enwylma, Izamby, Jubbonti,
+                 Jubereq, Junod, Kefdensis, Obodence, Osenvelt, Osvyrti,
+ Biosimilar      Ponlimsi, Stoboclo, Vysribli, Wyost, Xbryk, Za                   7.186       6.538        1,10 €      29,7%
+ Referenz-AM     Prolia, Xgeva                                                   60.054      15.489        3,88 €      70,3%
+
+Tocilizumab
+(L04AC07)                                                                        66.595       1.129       59,00 €    100,0%
+  Biosimilar     Avtozma, Tyenne                                                 25.527         483       52,86 €     42,8%
+  Referenz-AM    Roactemra                                                       41.068         646       63,59 €     57,2%
+
+Insulin lispro
+(A10AB04)                                                                        64.481      39.199        1,65 €    100,0%
+  Biosimilar     Insulin Lispro Sanofi                                            4.814       3.289        1,46 €      8,4%
+  Referenz-AM    Humalog                                                         50.245      30.224        1,66 €     77,1%
+  Sonstige       Liprolog, Lyumjev                                                9.422       5.686        1,66 €     14,5%
+
+Erythropoietin
+(B03XA01)                                                                        60.219       8.713        6,91 €    100,0%
+                 Abseamed, Binocrit, Epoetin alfa HEXAL, Retacrit,
+ Biosimilar      Silapo                                                          56.722       8.263        6,87 €      94,8%
+ Referenz-AM     Erypo                                                            2.601         328        7,92 €       3,8%
+ Sonstige        Eporatio, Neorecormon                                              897         122        7,34 €       1,4%
+
+Omalizumab
+(R03DX05)                                                                        58.088         929       62,53 €    100,0%
+ Biosimilar      Omlyclo                                                          6.431         141       45,62 €     15,2%
+ Referenz-AM     Xolair                                                          51.658         788       65,56 €     84,8%
+
+Somatropin
+(H01AC01)                                                                        51.027       1.222       41,75 €    100,0%
+ Biosimilar      Omnitrope                                                       18.812         557       33,80 €     45,5%
+ Referenz-AM     Genotropin, Humatrope                                            9.605         205       46,96 €     16,7%
+ Sonstige        Norditropin, Saizen                                             22.610         461       49,03 €     37,7%
+
+Natalizumab
+(L04AG03)                                                                        37.674         411       91,62 €    100,0%
+  Biosimilar     Tyruko                                                           2.686          40       66,77 €      9,8%
+  Referenz-AM    Tysabri                                                         34.987         371       94,32 €     90,2%
+
+Enoxaparin
+(B01AB05)                                                                        28.769      15.402        1,87 €    100,0%
+                 Crusia, Enoxaparin Becat, Enoxaparin Ledraxen,
+ Biosimilar      Hepaxane, Inhixa                                                24.375      13.740        1,77 €      89,2%
+ Referenz-AM     Clexane                                                          4.394       1.662        2,64 €      10,8%
+
+
+
+                                                                                                                           10
+                                                                             GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                          Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 8:
+Bruttoumsatz und DDD ausgewählter* biotechnologisch hergestellter Fertigarzneimittel
+von Januar bis März 2026
+(Abrechnungen von Zubereitungen sind nicht enthalten*. Diese Tabelle ist mehrseitig.)
+                                                                                  Bund
+                                                                                  Bruttoumsatz          DDD Bruttoumsatz      Anteil
+Wirkstoff              Arzneimittel                                                    in Tsd. €     in Tsd.      je DDD      DDD**
+
+Golimumab
+(L04AB06)                                                                               21.816         804       27,13 €    100,0%
+  Biosimilar           Gobivaz                                                           1.429          59       24,31 €      7,3%
+  Referenz-AM          Simponi                                                          20.387         745       27,36 €     92,7%
+
+Pegfilgrastim
+(L03AA13)                                                                               21.249         491       43,28 €    100,0%
+                       Cegfila, Fulphila, Grasustek, Nyvepria, Pelgraz, Pelmeg,
+ Biosimilar            Ziextenzo                                                        18.210         431       42,22 €      87,8%
+ Referenz-AM           Neulasta                                                          3.039          60       50,93 €      12,2%
+
+Teriparatid
+(H05AA02)                                                                               12.891         923       13,97 €    100,0%
+                       Livogiva, Movymia, Sondelbay, Teriparatid Heumann,
+ Biosimilar            Teriparatide SUN, Teripen/Teriparatid Aristo, Terrosa              9.297        667       13,95 €      72,2%
+ Referenz-AM           Forsteo                                                            3.594        256       14,02 €      27,8%
+
+Interferon beta-1b
+(L03AB08)                                                                               11.798         242       48,66 €    100,0%
+  ohne Kennzeichnung   Betaferon                                                        11.798         242       48,66 €    100,0%
+
+Eculizumab
+(L04AJ01)                                                                                 8.296          7     1.197,29     100,0%
+  Biosimilar           Bekemv, Epysqli                                                    2.006          2     1.102,76      26,3%
+  Referenz-AM          Soliris                                                            6.290          5     1.230,94      73,7%
+
+Filgrastim
+(L03AA02)                                                                                 7.458         80       93,68 €    100,0%
+                       Accofil Accord, Filgrastim HEXAL, Nivestim,
+ Biosimilar            Ratiograstim, Tevagrastim, Zarzio                                  5.925         67      88,29 €       84,3%
+ Referenz-AM           Neupogen                                                           1.533         12     122,65 €       15,7%
+
+Follitropin alfa
+(G03GA05)                                                                                 6.265        158       39,54 €    100,0%
+ Biosimilar            Bemfola, Ovaleap                                                   3.108         90       34,61 €     56,7%
+ Referenz-AM           Gonal                                                              3.157         69       45,99 €     43,3%
+
+Trastuzumab
+(L01FD01)                                                                                 5.814         43     136,50 €     100,0%
+  Biosimilar           Herzuma                                                               62          1     105,16 €       1,4%
+  Referenz-AM          Herceptin                                                          5.752         42     136,94 €      98,6%
+
+Rituximab
+(L01FA01)                                                                                 4.420         48      92,78 €     100,0%
+  Biosimilar           Rixathon, Ruxience, Truxima                                        2.675         36      75,19 €      74,7%
+  Referenz-AM          Mabthera                                                           1.745         12     144,70 €      25,3%
+
+
+
+
+                                                                                                                                   11
+                                                                             GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                          Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zum Fertigarzneimittelmarkt
+
+Tabelle 8:
+Bruttoumsatz und DDD ausgewählter* biotechnologisch hergestellter Fertigarzneimittel
+von Januar bis März 2026
+(Abrechnungen von Zubereitungen sind nicht enthalten*. Diese Tabelle ist mehrseitig.)
+                                                                                 Bund
+                                                                                 Bruttoumsatz              DDD Bruttoumsatz               Anteil
+Wirkstoff                Arzneimittel                                                 in Tsd. €         in Tsd.      je DDD               DDD**
+
+Glucagon
+(H04AA01)                                                                                2.667              27       100,08 €        100,0%
+ Biosimilar              Ogluo                                                               3               0       124,19 €          0,1%
+ Referenz-AM             Glucagen                                                          225               6        39,37 €         21,5%
+ Sonstige                Baqsimi                                                         2.439              21       116,65 €         78,5%
+
+Bevacizumab
+(L01FG01)                                                                                    62               0      162,27 €        100,0%
+  Biosimilar             Alymsys, Vegzelma, Zirabev                                          41               0      175,61 €         61,6%
+  Referenz-AM            Avastin                                                             21               0      140,84 €         38,4%
+
+
+Diese Wirkstoffe                                                                    1.460.966         206.285           7,08 €       100,0%
+
+*    Grundlage für die Auswahl sind gentechnologisch bzw. biotechnologisch hergestellte Arzneimittel mit mindestens einer Verordnung im
+     Fertigarzneimittelmarkt, zu denen Biosimilars zugelassen und im deutschen Markt verfügbar sind oder waren, sowie die Wirkstoffe der
+     derzeit gültigen Anlage 1 des Rahmenvertrags über die Arzneimittelversorgung nach § 129 Abs. 2 SGB V. Abrechnungen von Zubereitungen
+     sind in dieser Tabelle nicht enthalten. Diese sind als interaktive Tabelle auf www.gkv-gamsi.de zusätzlich abrufbar.
+**   Anteil DDD des Fertigarzneimittels an allen Fertigarzneimitteln des Wirkstoffs. In die Berechnung „Bruttoumsatz je DDD" werden nur die
+     Fertigarzneimittel einbezogen, für die DDD verfügbar sind. Nicht jedem Fertigarzneimittel werden DDD zugeordnet.
+
+Referenz-AM = Referenzarzneimittel; Sonstige = Arzneimittel unter dem gleichen ATC, das weder Biosimilar noch Referenzarzneimittel ist.
+
+
+
+
+                                                                                                                                               12
+                                                                        GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                       Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Versichertengruppen
+
+
+Tabelle 9:
+Bruttoumsatz nach Versichertenstatus von Januar bis März 2026
+
+
+Bund
+
+GKV-Versicherte                                         Bruttoumsatz
+
+                        Anzahl Versicherte
+Versichertenstatus      nach KM6-Statistik     Anteil            in Mio. €    Anteil    je Versicherten
+
+Mitglieder                    41.234.819      55,8%               6.349,9    39,1%            153,99 €
+Familienversicherte           15.221.435      20,6%               1.250,3     7,7%             82,14 €
+Rentner                       17.485.505      23,6%               8.086,6    49,8%            462,47 €
+Nicht zuordenbar                                                    564,3     3,5%              0,00 €
+Versicherte gesamt            73.941.759     100,0%              16.251,1 100,0%              219,78 €
+
+
+
+
+Tabelle 10:
+Bruttoumsatz nach Altersgruppen von Januar bis März 2026
+
+Bund
+
+GKV-Versicherte                                         Bruttoumsatz
+
+                        Anzahl Versicherte
+Altersgruppe            nach KM6-Statistik    Anteil            in Mio. €    Anteil     je Versicherten
+
+bis unter 15 Jahre             9.955.717      13,5%                661,0      4,1%            66,40 €
+15 bis unter 20 Jahre          3.444.722       4,7%                277,6      1,7%            80,59 €
+20 bis unter 25 Jahre          3.805.048       5,2%                297,6      1,8%            78,21 €
+25 bis unter 30 Jahre          4.475.454       6,0%                400,4      2,5%            89,47 €
+30 bis unter 35 Jahre          4.661.307       6,3%                490,5      3,0%           105,24 €
+35 bis unter 40 Jahre          5.235.438       7,1%                658,3      4,1%           125,74 €
+40 bis unter 45 Jahre          4.927.821       6,7%                705,4      4,3%           143,15 €
+45 bis unter 50 Jahre          4.601.630       6,2%                795,8      4,9%           172,95 €
+50 bis unter 55 Jahre          4.439.574       6,0%                922,7      5,7%           207,83 €
+55 bis unter 60 Jahre          5.617.975       7,6%              1.411,0      8,7%           251,16 €
+60 bis unter 65 Jahre          5.789.827       7,8%              1.784,6     11,0%           308,23 €
+65 bis unter 70 Jahre          4.756.065       6,4%              1.745,5     10,7%           367,01 €
+70 bis unter 75 Jahre          3.819.321       5,2%              1.654,7     10,2%           433,25 €
+75 bis unter 80 Jahre          2.938.300       4,0%              1.470,9      9,1%           500,58 €
+80 bis unter 85 Jahre          2.400.223       3,2%              1.207,9      7,4%           503,24 €
+85 bis unter 90 Jahre          2.123.393       2,9%              1.049,1      6,5%           494,05 €
+90 und mehr Jahre                949.944       1,3%                402,1      2,5%           423,26 €
+Nicht zuordenbar               1.323.201                           315,9      1,9%                0€
+
+Versicherte gesamt            73.941.759     100,0%             16.251,1 100,0%              219,78 €
+
+
+
+
+                                                                                                                               13
+                                                                             GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                      Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Sonderkennzeichen
+
+
+Tabelle 11:
+Ausgewählte Nicht-Fertigarzneimittel mit Sonderkennzeichen gemäß Technischer Anlage 1*
+von Januar bis März 2026
+
+
+                                                 Bund
+
+
+
+                                                       Brutto-    Verord-
+                                                      umsatz      nungen              Bruttoumsatz
+Bezeichnung                                         in Mio. €      in Tsd.           je Verordnung
+Individuell hergestellte parenterale Lösungen:
+ Lösungen mit Monoklonalen Antikörpern                  1.218,5      356               3.419,13 €
+ Zytostatika-Zubereitungen                                215,7      449                 479,94 €
+ antibiotikahaltige Infusionslösungen                     10,5          4              2.445,21 €
+ Ernährungslösungen                                       22,9         25                922,51 €
+ Lösungen mit Folinaten, die keine weiteren
+ Wirkstoffe enthalten                                       8,2        51                160,14 €
+ Lösungen mit Schmerzmitteln                                2,5         6                448,38 €
+ virustatikahaltige Infusionslösungen                       0,1         0              2.307,88 €
+ Sonstige parenterale Lösungen                             23,7        12              2.027,94 €
+Rezepturen (auch Rezeptursubstanzen
+ungemischt; ohne Cannabis)                                 59,1      897                  65,94 €
+Rezepturen (auch Rezeptursubstanzen
+ungemischt; Cannabis)                                      51,4        96                537,41 €
+Auseinzelung                                              79,4       214                 370,83 €
+Sonderkennzeichen der Substitutionstherapie               24,0       485                  49,53 €
+Diese Sonderkennzeichen                                 1.716,1    2.595                 661,29 €
+
+
+* Technische Anlage 1 der Vereinbarung zur Datenübermittlung der Leistungsdaten nach § 300 SGB V durch Apotheken.
+
+
+
+
+                                                                                                                              14
+                                                                               GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                         Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Sonderkennzeichen
+
+Tabelle 12:
+Die 20 umsatzstärksten in parenteralen Zubereitungen* verarbeiteten Wirkstoffe
+von Januar bis März 2026
+
+
+Bund
+
+                                                                           chemische Untergruppe                                      Umsatz
+Rang     ATC-Code         Wirkstoff                                        (ATC-Code 4. Ebene)                                    in Mio. €**
+
+                                                                           PD-1/PD-L1 (Programmed Cell Death-1-
+                                                                           Rezeptor/Programmed Cell Death-Ligand-1)-
+     1   L01FF02          Pembrolizumab (35a)                              Inhibitoren                                                 291,0
+                                                                           CD38 (Cluster of Differentiation 38)-
+     2   L01FC01          Daratumumab (35a)                                Inhibitoren                                                     97,5
+                                                                           PD-1/PD-L1 (Programmed Cell Death-1-
+                                                                           Rezeptor/Programmed Cell Death-Ligand-1)-
+     3   L01FF01          Nivolumab (35a)                                  Inhibitoren                                                     85,2
+                                                                           PD-1/PD-L1 (Programmed Cell Death-1-
+                                                                           Rezeptor/Programmed Cell Death-Ligand-1)-
+     4   L01FF03          Durvalumab (35a)                                 Inhibitoren                                                     66,4
+                                                                           PD-1/PD-L1 (Programmed Cell Death-1-
+                                                                           Rezeptor/Programmed Cell Death-Ligand-1)-
+     5   L01FF05          Atezolizumab (35a)                               Inhibitoren                                                     49,0
+                                                                           HER2 (Humaner epidermaler
+     6   L01FD04          Trastuzumab deruxtecan (35a)                     Wachstumsfaktor-Rezeptor 2)-Inhibitoren                         41,3
+                                                                           HER2 (Humaner epidermaler
+     7   L01FD02          Pertuzumab (35a)                                 Wachstumsfaktor-Rezeptor 2)-Inhibitoren                         36,3
+                                                                           VEGF/VEGFR (Vaskulärer endothelialer
+     8   L01FG01          Bevacizumab                                      Wachstumsfaktor/-Rezeptor)-Inhibitoren                          33,6
+     9   L04AJ02          Ravulizumab (35a)                                Komplement-Inhibitoren                                          30,3
+                                                                           Andere monoklonale Antikörper und
+    10   L01FX04          Ipilimumab (35a)                                 Antikörper-Wirkstoff-Konjugate                                  22,9
+                                                                           CD20 (Cluster of Differentiation 20)-
+    11   L01FA01          Rituximab                                        Inhibitoren                                                     21,7
+                                                                           HER2 (Humaner epidermaler
+    12   L01FD01          Trastuzumab                                      Wachstumsfaktor-Rezeptor 2)-Inhibitoren                         20,6
+                                                                           Andere monoklonale Antikörper und
+    13   L01FX13          Enfortumab vedotin (35a)                         Antikörper-Wirkstoff-Konjugate                                  17,6
+                                                                           HER2 (Humaner epidermaler
+    14   L01FD03          Trastuzumab emtansin (35a)                       Wachstumsfaktor-Rezeptor 2)-Inhibitoren                         17,0
+                                                                           PD-1/PD-L1 (Programmed Cell Death-1-
+                                                                           Rezeptor/Programmed Cell Death-Ligand-1)-
+    15   L01FF06          Cemiplimab (35a)                                 Inhibitoren                                                     16,8
+                                                                           EGFR (Epidermaler Wachstumsfaktor-
+    16   L01FE02          Panitumumab                                      Rezeptor)-Inhibitoren                                           14,3
+    17   L01CD01          Paclitaxel                                       Taxane                                                          14,2
+                                                                           Andere monoklonale Antikörper und
+    18   L01FX17          Sacituzumab govitecan (35a)                      Antikörper-Wirkstoff-Konjugate                                  13,1
+                                                                           EGFR (Epidermaler Wachstumsfaktor-
+    19   L01FE01          Cetuximab                                        Rezeptor)-Inhibitoren                                           12,9
+    20   L04AG05          Vedolizumab (35a)                                Monoklonale Antikörper                                          11,4
+Diese Wirkstoffe                                                                                                                       913,3
+*    Parenterale Ernährungslösungen und Trägerlösungen sind nicht enthalten.
+** Der Umsatz ist den Daten aus den Zusatzsegmenten entnommen (Rezeptur-Segment), die gemäß
+   Technischer Anlage 1 und Technischer Anlage 3 für die Abrechnung der Zubereitungen übermittelt werden.
+Mit (35a) sind Wirkstoffe gekennzeichnet, für die der Gemeinsame Bundesausschuss eine Nutzenbewertung gemäß § 35a SGB V durchführt
+oder bereits abgeschlossen hat.
+Mit (vEb) werden Wirkstoffe gekennzeichnet, für die ein vertraulicher Erstattungsbetrag gemäß § 130b Abs.1c SGB V gilt oder gegolten hat
+                                                                                                                                              15
+                                                                              GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                           Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Sonderkennzeichen
+
+Tabelle 12:
+Die 20 umsatzstärksten in parenteralen Zubereitungen* verarbeiteten Wirkstoffe
+von Januar bis März 2026
+
+
+Bund
+
+                                                                              chemische Untergruppe                                      Umsatz
+Rang(vEb) werden
+Mit      ATC-Code        Wirkstoff
+                 Wirkstoffe                                                   (ATC-Codegemäß
+                            gekennzeichnet, für die ein vertraulicher Erstattungsbetrag 4. Ebene)
+                                                                                              § 130b Abs.1c SGB V gilt oder gegoltenin
+                                                                                                                                     hatMio. €**
+
+
+
+
+                                                                                                                                               15
+                                                                              GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                          Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Fachgruppen
+
+Tabelle 13:
+Bruttoumsatz und DDD des Fertigarzneimittelmarktes nach Fachgruppen von Januar bis März 2026 im
+Vergleich zum Vorjahreszeitraum
+
+                                 Bund
+
+
+                                 Bruttoumsatz                DDD                         Bruttoumsatz je DDD*
+                                        in Mio. €   Anteil          in Mio.     Anteil           Absolut        Änderung
+Arztgruppen der
+hausärztlichen
+Versorgung                               4.945,1    36,2%           8.809,4    75,2%             0,56 €         -   1,9%
+                   Hausärzte             2.969,2    21,8%           5.696,1    48,6%             0,52 €         -   2,5%
+           hausärztlich tätige
+             Fachinternisten             1.975,9    14,5%           3.113,2    26,6%             0,63 €         -   1,3%
+Weitere Fachgruppen                      7.250,4    53,1%           2.291,5    19,6%             3,16 €         +   1,2%
+               Anästhesisten                66,3     0,5%             29,8      0,3%             2,22 €         -   2,8%
+                  Augenärzte              406,1      3,0%            202,7      1,7%             2,00 €         -   2,0%
+                   Chirurgen                68,1     0,5%             33,2      0,3%             2,05 €         +   4,8%
+           Gastroenterologen              414,7      3,0%             42,0      0,4%             9,88 €         +   0,9%
+                Gynäkologen               264,3      1,9%            333,6      2,8%             0,79 €         -   7,0%
+                   Hautärzte              665,8      4,9%            116,0      1,0%             5,74 €         + 13,0%
+                   HNO-Ärzte              169,4      1,2%             66,5      0,6%             2,54 €         + 18,2%
+       Hämato-Onkologen                  1.058,2     7,8%             40,6      0,3%            26,09 €         +   2,5%
+       Internisten, weitere               972,5      7,1%            143,2      1,2%             6,79 €         -   0,8%
+                 Kardiologen              178,4      1,3%             89,1      0,8%             2,00 €         +   7,6%
+                 Kinder- und
+            Jugendpsychiater                56,8     0,4%             25,4      0,2%             2,24 €         +   8,6%
+                 Kinderärzte              557,7      4,1%            230,8      2,0%             2,42 €         + 13,3%
+                Mund-Kiefer-
+           Gesichtschirurgen                 2,1    <0,1%               1,3    <0,1%             1,59 €         +   0,2%
+                Nephrologen               291,7      2,1%            122,2      1,0%             2,39 €         +   7,2%
+                 Nervenärzte              174,2      1,3%            107,0      0,9%             1,63 €         -   3,9%
+                  Neurologen              724,8      5,3%            165,0      1,4%             4,39 €         -   2,4%
+                 Orthopäden               138,6      1,0%            111,1      0,9%             1,25 €         +   0,6%
+               Pneumologen                396,1      2,9%            115,6      1,0%             3,43 €         +   8,2%
+                   Psychiater             168,1      1,2%            182,6      1,6%             0,92 €         +   0,5%
+                    Urologen              476,5      3,5%            133,9      1,1%             3,56 €         +   5,8%
+Sonstige                                 1.449,7    10,6%            608,4      5,2%             2,38 €         - 10,4%
+Fachgruppen gesamt                      13.645,2 100,0%            11.709,3 100,0%               1,17 €         -   0,9%
+
+ *   In die Berechnung „Bruttoumsatz je DDD" werden nur die Fertigarzneimittel einbezogen, für die DDD verfügbar sind. Nicht jedem
+     Fertigarzneimittel werden DDD zugeordnet.
+
+
+
+
+                                                                                                                                     17
+                                                                                GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                                    Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Fachgruppen
+
+Abbildung 4:
+Anteil des Bruttoumsatzes generikafähiger Arzneimittel am Fertigarzneimittelmarkt nach Fachgruppen
+von Januar bis März 2026
+
+Bund
+Fachgruppe                                 Generikafähig                                            Nicht-generikafähig
+
+Hausärzte                                                                                              58,8%                             41,2%
+
+
+hausärztlich tätige Fachinternisten                                                          51,0%                                       49,0%
+
+
+Anästhesisten                                                                                  52,8%                                     47,2%
+
+
+Augenärzte                                                                                                             79,2%             20,8%
+
+
+Chirurgen                                                                                   49,1%                                        50,9%
+
+
+Gastroenterologen                                                                             52,3%                                      47,7%
+
+
+Gynäkologen                                                                                         55,2%                                44,8%
+
+
+Hautärzte                                                   23,1%                                                                        76,9%
+
+
+HNO-Ärzte                                           17,2%                                                                                82,8%
+
+
+Hämato-Onkologen                                  15,8%                                                                                  84,2%
+
+
+Internisten, weitere                                                           39,1%                                                     60,9%
+
+
+Kardiologen                                       15,1%                                                                                  84,9%
+
+
+Kinder- und Jugendpsychiater                                                                           59,4%                             40,6%
+
+
+Kinderärzte                                                             34,0%                                                            66,0%
+
+
+Mund-Kiefer-Gesichtschirurgen                                                                               63,1%                        36,9%
+
+
+Nephrologen                                                                         43,9%                                                56,1%
+
+
+Nervenärzte                                                                                             60,7%                            39,3%
+
+
+Neurologen                                                             32,5%                                                             67,5%
+
+
+Orthopäden                                                                                                             79,5%             20,5%
+
+
+Pneumologen                                                    26,7%                                                                     73,3%
+
+
+Psychiater                                                                                                                     85,5%     14,5%
+
+
+Urologen                                                            28,7%                                                                71,3%
+
+
+Sonstige                                                              31,6%                                                              68,4%
+
+
+Fachgruppen gesamt                                                                  43,3%                                                56,7%
+
+                                      0%    10%     20%         30%           40%      50%            60%       70%   80%       90%    100%
+
+                                                   Anteil Bruttoumsatz am Fertigarzneimittelmarkt
+
+
+
+
+                                                                                                                                                 18
+                                                                            GKV-Arzneimittel-Schnellinformation für Deutschland
+                                                                                        Januar bis März 2026 (konsolidierte Daten)
+
+
+
+Auswertungen zu Fachgruppen
+
+Abbildung 5:
+Verteilung der Anzahl verordneter Wirkstoffe im DU90%-Segment (Drug Utilization 90 %) nach
+Fachgruppen von Januar bis März 2026
+
+Bund
+Fachgruppe                        Anzahl Ärzte*         Anzahl Wirkstoffe
+                                                    0            25          50           75          100          125         150
+Hausärzte                                34.922
+
+hausärztlich tätige Fachinternisten      17.506
+
+Anästhesisten                             1.203
+
+Augenärzte                                5.936
+
+Chirurgen                                 3.496
+
+Gastroenterologen                         1.450
+
+Gynäkologen                               9.588
+
+Hautärzte                                 3.734
+
+HNO-Ärzte                                 3.743
+
+Hämato-Onkologen                          1.453
+
+Internisten, weitere                      2.437
+
+Kardiologen                               2.118
+
+Kinder- und Jugendpsychiater              1.355
+
+Kinderärzte                               8.013
+
+Mund-Kiefer-Gesichtschirurgen               137
+
+Nephrologen                               1.862
+
+Nervenärzte                               1.242
+
+Neurologen                                3.131
+
+Orthopäden                                6.407
+
+Pneumologen                               1.299
+
+Psychiater                                3.277
+
+Urologen                                  3.171
+
+*   Die DU90%-Kennzahl ist die Anzahl der Wirkstoffe, die 90 % der Verordnungen ausmachen. Sie wird aus der Rangliste der verordneten
+    Wirkstoffe, gemessen in DDD, für jede Ärztin bzw. jeden Arzt der Fachgruppe ermittelt. Ärztinnen bzw. Ärzte mit weniger als 50 Verordnungen
+    im Monatsdurchschnitt des Berichtszeitraumes sind in den Berechnungen nicht enthalten.
+    Mit den abgebildeten Boxplots ist die Verteilung der DU90%-Kennzahl in jeder Fachgruppe dargestellt. Die äußeren Grenzen (Antennen)
+    geben den Bereich an, in dem die DU90%-Kennzahlen von 95 % der Ärztinnen bzw. Ärzte dieser Fachgruppe liegen. Die Box stellt den
+    Bereich der Kennzahlen der mittleren 50 % der Ärztinnen und Ärzte in der Fachgruppe dar. Die weiße Linie in der Box entspricht dem
+    Fachgruppenmedian, das schwarze Plus dem Fachgruppendurchschnitt.
+
+
+                                                                                                                                           19
+

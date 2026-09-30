@@ -1,0 +1,1000 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fi" lang="fi">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<meta http-equiv="Content-Script-Type" content="text/javascript"/>
+<meta name="description" content="Lääkekorvausten saajat ja reseptitiedot (NIT137A). Kelasto - Kelan tilastotietokanta."/>
+
+<link href="https://raportit.kela.fi/approot/baseapp_uusi/kelasto.css" type="text/css" rel="stylesheet"/>
+<!--[if lte IE 6]>
+<link href="https://raportit.kela.fi/approot/baseapp_uusi/kelasto-ie6.css" type="text/css" rel="stylesheet"/>
+<![endif]-->
+<!--[if IE 7]>
+<link href="https://raportit.kela.fi/approot/baseapp_uusi/kelasto-ie7.css" type="text/css" rel="stylesheet"/>
+<![endif]-->
+<!--[if IE 8]>
+<link href="https://raportit.kela.fi/approot/baseapp_uusi/kelasto-ie8.css" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+<link href="https://raportit.kela.fi/approot/baseapp_uusi/print.css" type="text/css" rel="stylesheet" media="print"/>
+
+<link rel="icon" href="https://www.kela.fi/in/internet/kuva.nsf/NET/110510104701JN/$File/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.kela.fi/in/internet/kuva.nsf/NET/110510104701JN/$File/favicon.ico" type="image/x-icon" />
+
+
+  <link type="text/css" href="https://raportit.kela.fi/approot/baseapp_uusi/ui-lightness/jquery-ui.css" rel="stylesheet"/>
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/jquery_uusi/jquery.js"></script>
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/jquery_uusi/jquery-ui.js"></script>
+<!--[if lte IE 6]>
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/jquery.bgiframe.min.js"></script>
+<![endif]-->
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/jquery.tooltip.min.js"></script>
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/luontisivu.min.js"></script>
+  <script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/yhteiset.min.js"></script>
+
+<title>Kelasto - Lääkekorvausten saajat ja reseptitiedot</title>
+
+<script type="text/javascript">
+//<![CDATA[
+function getText(text){
+ switch(text){
+  case 'nnClass': return " ";
+  case 'nnTitle': return "Pienennä valikko";
+  case 'liikaaValintoja': return "Vähennä valintojen määrää";
+  case 'valintojaYhteensa': return "Valintoja yhteensä";
+  case 'maksimiOn': return ", maksimi on";
+  case 'suurennaNavi': return "Suurenna valikko";
+  case 'pienennaNavi': return "Pienennä valikko";
+  case 'linkkiC': return "Klikkaa linkkiä ja lisää se selaimesi kirjanmerkkeihin painamalla Ctrl+D (tai CMD+D Macilla).";
+  default: return "Virhe";
+ }
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function vaihda_ohjelma(xvaihe) {
+  var formi=document.forms["A1"];
+  var xapu = "NIT137AL";
+  merkitse_pyoritys();
+  formi.IBIF_ex.value = xapu;
+  formi.YVAIHE.value = xvaihe;
+  doSubmit(formi);
+  if (formi.target!='') formi.target='';
+  formi.submit();
+}
+function kutsu_lomake() {
+  var formi=document.forms["A1"];
+  var xapu = "NIT137AL";
+  merkitse_pyoritys();
+  formi.IBIF_ex.value = xapu;
+  doSubmit(formi);
+  if (formi.target!='') formi.target='';
+  formi.submit();
+}
+
+function nayta_ilmoitus (xilmoitus) {
+  onko=$("#spanVirhe");
+  if (onko)
+   {
+     onko.text(xilmoitus);
+     onko.addClass("virhePaalla");
+   }
+  return false;
+}
+
+function merkitse_pyoritys() {
+  var formi=document.forms["A1"];
+  if (formi.YPYORITYS.value == 'K') {
+   for (var i=0; i < formi.muuttujat.length; i++) {
+      formi.muuttujat.options[i].selected = true;
+   }
+   for (var i=0; i < formi.katkomtj.length; i++) {
+      formi.katkomtj.options[i].selected = true;
+   }
+
+   for (var i=0; i < formi.rivimtj.length; i++) {
+      formi.rivimtj.options[i].selected = true;
+   }
+   xrivi = formi.rivimtj.selectedIndex;
+
+   if (formi.YSAR_POIS.value == 'E') {
+     for (var j=0; j < formi.sarakemtj.length; j++) {
+      formi.sarakemtj.options[j].selected = true;
+     }
+     xsar = formi.sarakemtj.selectedIndex;
+ }
+ else
+ {
+    xsar = -1;
+ }
+ }
+
+}
+
+function tarkista_laheta(submit) {
+  var formi=document.forms["A1"];
+  for(var i = 0; i < formi.YTULOSTUS.length; i++) {
+ if (submit){
+  if(formi.YTULOSTUS[i].checked) {
+   if(formi.YTULOSTUS[i].value!='HTMT'){
+    formi.target=formi.YTULOSTUS[i].value+Math.floor(Math.random()*1000000);}
+   else {formi.target='';}
+  }
+ }
+  }
+
+  merkitse_pyoritys();
+  merkitse_aikatieto();
+
+   var xpk = 0;
+  if (!tarkista_summaus()) return false;
+  if (formi.YSAR_POIS.value == 'K')
+     if (formi.rivimtj.length < 1)
+  {
+       xilmo = "Valitse vähintään yksi rivimuuttuja!";
+       nayta_ilmoitus(xilmo);
+       return false;
+     }
+  if (formi.YVALINNAT.value == 'E')
+     {return luoRaportti(formi,submit);}
+  else
+     {
+      xy3 = formi.Y3VALINTA.selectedIndex;
+      xy2 = formi.Y2VALINTA.selectedIndex;
+      xy1 = formi.Y1VALINTA.selectedIndex;
+      if (xy3 >= 0) {return luoRaportti(formi,submit);}
+      else if (xy2 >= 0) {return luoRaportti(formi,submit);}
+      else
+        {
+          xilmo = "Valitse ainakin yksi aluetaso!";
+          nayta_ilmoitus(xilmo);
+          return false;
+           }
+     }
+}
+
+function merkitse_aikatieto () {
+  var formi=document.forms["A1"];
+  var aika_k_e = document.getElementById('YAIKATIETO');
+  if (aika_k_e == 0) return true;
+  formi.YAIKAUUS.value = 'K';
+  if (formi.YAIKATIETO.options[0].selected == 0)
+     {
+	   formi.YAIKAUUS.value = 'E';
+	   return true;
+     }
+  var ed_val = 0;
+  for (var i=1; i < formi.YAIKATIETO.length; i++) {
+     if (formi.YAIKATIETO.options[i].selected)
+	 {
+	     if (i > (ed_val + 1))
+	      {
+	   		formi.YAIKAUUS.value = 'E';
+	   		return true;
+     	  }
+		  ed_val = i;
+     }
+  }
+}
+
+function luoRaportti(formi,submit){
+ doSubmit(formi);
+  if (submit) {
+     //formi.submit();
+   if (formi.target=='') {
+  setTimeout('latautuu("lataa")',100);
+   }
+   return true;
+  //else { formi.target=''; }
+  }
+  else { return false; }
+}
+
+var envir='https://raportit.kela.fi'+'/ibi_apps/WFServlet';
+//]]>
+</script>
+<script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/WF_scriptit.min.js"></script>
+<script type="text/javascript" src="https://raportit.kela.fi/approot/baseapp_uusi/js/selectbox.min.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+mjaArray = new Array(2);
+lisArray = new Array(2);
+mjaArray[0] = "PNIMI               ";
+lisArray[0] = "YKTASOE";
+mjaArray[1] = "ATCNIMI2S           ";
+lisArray[1] = "YATC1";
+function tarkista_summaus() {
+var formi=document.forms["A1"];
+ for (var i=0; i < formi.muuttujat.length; i++) {
+  var xvalue = formi.muuttujat.options[i].value;
+  var xmja = xvalue.substring(0,20);
+  var xmjanimi = xvalue.substring(40,xvalue.length);
+  if (xmja.substring(0,8) == "XAIKAPVM" && formi.YAIKATIETO.length > 1)
+  {
+   var xret = tarkista_aika();
+   if (xret == false) return false; /*cleanUp();*/
+   continue;
+  }
+  if (xmja.substring(0,5) == "XALUE" && formi.Y3VALINTA.length > 1)
+  {
+   var xret = tarkista_alue();
+   if (xret == false) return false; /*cleanUp();*/
+   continue;
+  }
+  if (xmja.substring(0,5) == "XALUE" && formi.Y2VALINTA.length > 1)
+  {
+   var xret = tarkista_alue();
+   if (xret == false) return false; /*cleanUp();*/
+   continue;
+  }
+  for (var x=0; x < mjaArray.length; x++) {
+   if (xmja == mjaArray[x])
+      {
+    var xkmuu = lisArray[x] + 'k';
+    var xapu = "document.getElementById('A1')."+lisArray[x];
+ var xkaikki = "document.getElementById('A1')."+xkmuu;
+    var xlkm = 0;
+    var xyht = 0;
+    var xall = 0;
+    var xonyht = 0;
+    var xalayht = 0;
+    for (var m=0; m < eval(xapu).length; m++) {
+     if (eval(xapu).options[m].selected) xlkm = xlkm + 1;
+     if (eval(xapu).options[m].selected && eval(xapu).options[m].value.substring(0,1) == " ") xall = xall + 1;
+     if (eval(xapu).options[m].selected && eval(xapu).options[m].value.substring(0,1) == "0") xyht = xyht + 1;
+     if (eval(xapu).options[m].selected && eval(xapu).options[m].value.substring(0,1) == "Y") xalayht = xalayht + 1;
+     if (eval(xapu).options[m].value.substring(0,1) == "0") xonyht = xonyht + 1;
+    }
+    if (xall == 0 && xlkm == 0)
+    {
+      xall = 1;
+      xlkm = 1;
+   eval(xapu).options[0].selected = true;
+  }
+
+    if (xall == 0 && xlkm < 2) continue;
+    var xjoo = 0;
+    if (xall > 0 && xonyht > 0) xjoo = xjoo + 1;
+    if (xlkm > 1 && xyht > 0) xjoo = xjoo + 1;
+ if (xjoo > 0)
+    {
+       xilmo = xmjanimi + " poistetuissa - valittu yhteensä lisäksi summattavia muuttujia, jotka eivät ole yhteenlaskettavia! Valitse pelkkä yhteensä tai summattavat muuttujat.";
+       nayta_ilmoitus(xilmo);
+    return false;
+
+    }
+    if (lisArray[x] == "YSP") continue;
+    if (lisArray[x] == "YIRYHMA") continue;
+
+    if (xalayht > 0)
+  {
+    xilmo = xmjanimi + " poistetuissa - valittu useampia luokkia, jotka eivät ole kes" + "kenään yhteenlaskettavia!" + " Ks. muuttujan " + xmjanimi + " lisätiedot.";
+       nayta_ilmoitus(xilmo);
+  return false;
+  }
+
+    var xsaaja = 0;
+var formi=document.forms["A1"];
+    for (var m=0; m < formi.XAINEISTO.length; m++) {
+     if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,4) == "YHTE" && formi.XAINEISTO.options[m].value.length == 4) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,5) == "YHTES" && formi.XAINEISTO.options[m].value.length == 5) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,5) == "PALKM" && formi.XAINEISTO.options[m].value.length == 5) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,5) == "EURPV" && formi.XAINEISTO.options[m].value.length == 5) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected) xsaaja = xsaaja + 1
+  else xsaaja = xsaaja + 0;
+    }
+    if (xsaaja > 0)
+  {
+    xilmo = xmjanimi + " poistetuissa - valittu useampia luokkia, joissa valitut tied" + "ot (esim. saaja) eivät ole yhteenlaskettavia!" + " Ks. muuttujan " + xmjanimi + " lisätiedot.";
+       nayta_ilmoitus(xilmo);
+  return false;
+     }
+   }
+  }
+ }
+  return true;
+}
+function tarkista_aika() {
+  var xok = ' ';
+  var xlkm = 0;
+var formi=document.forms["A1"];
+  for (var j=0; j < formi.YAIKATIETO.length; j++) {
+    if (formi.YAIKATIETO.options[j].selected) xlkm = xlkm + 1;
+    if ( xok == ' ' && formi.YAIKATIETO.options[j].selected)
+       xok = formi.YAIKATIETO.options[j].value.substring(0,2);
+    if (formi.YAIKATIETO.options[j].selected && xok != formi.YAIKATIETO.options[j].value.substring(0,2))
+    {
+       xilmo = "Aika poistetuissa - valittu eri aikatyyppejä!";
+       nayta_ilmoitus(xilmo);
+       return false;
+    }
+  }
+  if (xlkm > 1)
+  {
+   var xsaaja = 0;
+   for (var m=0; m < formi.XAINEISTO.length; m++) {
+     if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,4) == "YHTE" && formi.XAINEISTO.options[m].value.length == 4) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected && formi.XAINEISTO.options[m].value.substring(0,5) == "YHTES" && formi.XAINEISTO.options[m].value.length == 5) xsaaja = xsaaja + 0
+  else if (formi.XAINEISTO.options[m].selected) xsaaja = xsaaja + 1
+  else xsaaja = xsaaja + 0;
+  }
+ if (xsaaja > 0)
+ {
+       xilmo = "Aika poistetuissa - valittu useampia luokkia, joissa valitut" + " tiedot (esim. saaja) eivät ole yhteenlaskettavia!";
+       nayta_ilmoitus(xilmo);
+       return false;
+    }
+  }
+  return true;
+}
+function tarkista_alue() {
+var formi=document.forms["A1"];
+  var xok = ' ';
+  if (formi.Y3VALINTA.length > 1)
+  {
+     for (var j=0; j < formi.Y3VALINTA.length; j++) {
+       if (xok == ' ' && formi.Y3VALINTA.options[j].selected)
+          xok = formi.Y3VALINTA.options[j].value.substring(0,7);
+       if (formi.Y3VALINTA.options[j].selected && xok != formi.Y3VALINTA.options[j].value.substring(0,7))
+       {
+            xilmo = "Alue poistetuissa - valittu eri aluetasoja!";
+            nayta_ilmoitus(xilmo);
+   return false;
+        }
+     }
+  }
+  else if(formi.Y2VALINTA.length > 1)
+  {
+     for (var j=0; j < formi.Y2VALINTA.length; j++) {
+       if (xok == ' ' && formi.Y2VALINTA.options[j].selected)
+         xok = formi.Y2VALINTA.options[j].value.substring(0,7);
+       if (formi.Y2VALINTA.options[j].selected && xok != formi.Y2VALINTA.options[j].value.substring(0,7))
+       {
+       xilmo = "Alue poistetuissa - valittu eri aluetasoja!";
+          nayta_ilmoitus(xilmo);
+    return false;
+       }
+     }
+  }
+  return true;
+}
+//]]>
+</script>
+
+
+</head>
+<body>
+<noscript>
+<div style="position:absolute; top:10px;left:10%;">
+Selaimesi JavaScript-tuki on käännetty pois päältä.<br />
+JavaScript support is disabled in your browser settings.<br />
+Stödet för JavaScript är bortkopplat i din webläsare.<br />
+</div>
+</noscript>
+
+    <div id="header">
+        <a href="#main_oikea" style="position:absolute;top:-100px;">
+   <img src="https://raportit.kela.fi/approot/baseapp_uusi/spacer.png" alt="Suoraan sisältöön" width="1" height="1"/>
+  </a>
+  <div id="logo"><img src="https://raportit.kela.fi/approot/baseapp_uusi/logo_popup.gif" alt="Kela" width="67" height="33"/>
+   </div>
+        <div id="kielet"><p>
+
+
+  Suomeksi | <a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT137AL&amp;YKIELI=R" lang="sv" xml:lang="sv">På svenska</a> | <a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT137AL&amp;YKIELI=E" lang="en" xml:lang="en">In English</a>
+  </p></div>
+    </div>
+    <div id="divider"></div>
+  <div id="main_vasen" class=" ">
+
+
+<div id="navi">
+  <div id="naviotsikko" class=" ">
+  <span class="headerwhite  ">Lääkkeet</span>
+ <script type="text/javascript">
+  //<![CDATA[
+  luoNavinappi();
+  //]]>
+ </script>
+ </div>
+  <div id="navilinkit" class=" ">
+<div class="navikohta">
+<div class="navikuvake  ">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/number.png" alt="" width="22" height="21" />
+</div>
+<span class="naviteksti  ">
+<a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056AL&amp;YKIELI=S ">Lääkäreiden määräämien reseptilääkkeiden aikasarja                                                                      </a>
+</span>
+</div>
+<div class="navikohta">
+<div class="navikuvake  ">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/number.png" alt="" width="22" height="21" />
+</div>
+<span class="naviteksti  ">
+<a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056CL&amp;YKIELI=S ">Lääkäreiden eniten määräämät (10) lääkeryhmät                                                                           </a>
+</span>
+</div>
+<div class="navikohta">
+<div class="navikuvake  ">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/number.png" alt="" width="22" height="21" />
+</div>
+<span class="naviteksti  ">
+<a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056DL&amp;YKIELI=S ">Lääkäreiden määräämät reseptilääkkeet lääkäriryhmittäin                                                                 </a>
+</span>
+</div>
+<div class="navikohta">
+<div class="navikuvake  ">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/number.png" alt="" width="22" height="21" />
+</div>
+<span class="naviteksti  ">
+<a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056BL&amp;YKIELI=S ">Lääkäreiden määräämät reseptilääkkeet sairaanhoitopiireittäin                                                           </a>
+</span>
+</div>
+<div class="navikohta">
+<div class="navikuvake  ">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/number.png" alt="" width="22" height="21" />
+</div>
+<span class="naviteksti  ">
+<a href="https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT084AL&amp;YKIELI=S ">Voimassaolevat, alkaneet ja päättyneet lääkekorvausoikeudet                                                             </a>
+</span>
+</div>
+</div>
+
+
+  <div id="navitoiminnot">
+<div class="navitoimintokohta">
+<a href='https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT137AL&amp;YKIELI=S'
+ class="oletusvalinnat"
+     onmouseover="window.status='Palauta oletusvalinnat'; return true;"
+     onmouseout="window.status=''; return true;" title="Palauta oletusvalinnat"
+     ><img src="https://raportit.kela.fi/approot/baseapp_uusi/oletukset.png"
+     alt="Palauta oletusvalinnat" width="31" height="20" /></a>
+<span class="naviteksti2  ">
+<a href='https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT137AL&amp;YKIELI=S' class="oletusvalinnat"
+     onmouseover="window.status='Palauta oletusvalinnat'; return true;"
+     onmouseout="window.status=''; return true;">Palauta oletusvalinnat</a>
+</span>
+</div>
+
+<div class="valiviiva"></div>
+
+<div class="navitoimintokohta">
+<a href="https://raportit.kela.fi/approot/lisatied/NIT137A_fi.html"
+     onmouseover="window.status='Lisätietoja raportista'; return true;"
+     onmouseout="window.status=''; return true;"
+  title="Lisätietoja raportista" onclick="target='_blank'">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/info.png"
+     alt="Lisätietoja raportista" width="31" height="20" /></a>
+<span class="naviteksti2  ">
+<a href="https://raportit.kela.fi/approot/lisatied/NIT137A_fi.html"
+     onmouseover="window.status='Lisätietoja raportista'; return true;"
+     onmouseout="window.status=''; return true;"
+  onclick="target='_blank'"
+     >Lisätietoja raportista</a>
+</span>
+</div>
+
+<div class="navitoimintokohta">
+<a href="https://www.tietotarjotin.fi/ohje/2053296/kelasto-raporttien"
+     onmouseover="window.status='Ohje'; return true;"
+     onmouseout="window.status=''; return true;"
+  title="Ohje" onclick="target='_blank'">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/ohje.png"
+     alt="Ohje" width="31" height="20" /></a>
+<span class="naviteksti2  ">
+<a href="https://www.tietotarjotin.fi/ohje/2053296/kelasto-raporttien"
+     onmouseover="window.status='Ohje'; return true;"
+     onmouseout="window.status=''; return true;"
+  onclick="target='_blank'"
+     >Ohje</a>
+</span>
+</div>
+
+</div>
+</div>
+<br></br>
+<table border="0"
+cellpadding="0" cellspacing="0" summary=""
+width="100%" style="border: 1 solid #003580;padding:4px 2px 0 4px"
+bgcolor="yellow">
+<tr><td >
+<br />
+Tilastot 1.1.2020 alkaen raportilta Sairausvakuutuksesta korvattavat lääketoimitukset.                                                                                                                                                                                                                                                                                                                          
+<br></br>
+</td></tr>
+</table>
+  </div>
+  <div id="main_oikea" class=" ">
+<form id="A1" action="https://raportit.kela.fi/ibi_apps/WFServlet" method="post">
+<div style="display:none">
+<input type="hidden" name ="IBIF_ex" value="ZRUNKO1"/>
+<input type="hidden" name="YRUNKO" value="ZRUNKO1"/>
+<input type="hidden" name="YLOMAKE" value="NIT137AL"/>
+<input type="hidden" name="YOHJELMA" value="NIT137A"/>
+<input type="hidden" name="WPALUE" value="08"/>
+<input type="hidden" name="YVAIHE" value="3"/>
+<input type="hidden" name="YKIELI" value="S"/>
+<input type="hidden" name="YTRACE" value="OFF"/>
+<input type="hidden" name="YSTDALNE" value="0"/>
+<input type="hidden" name="YPYORITYS" value="K"/>
+<input type="hidden" name="YXVALINTA" value=""/>
+<input type="hidden" name="YVALINNAT" value="E"/>
+<input type="hidden" name="YLISA_ON" value="none"/>
+<input type="hidden" name="YPYO_ON" value="none"/>
+<input type="hidden" name="YEDV_ON" value="none"/>
+<input type="hidden" name="YHISTORY" value="0"/>
+<input type="hidden" name="YSAR_POIS" value="E"/>
+<input type="hidden" name="YDATA_VAL" value=" "/>
+<input type="hidden" name="YVALIPIE" value="E"/>
+<INPUT type="hidden" name="YAIKAUUS" value="E">
+<INPUT type="hidden" name="YNETEZZA" value="1">
+<INPUT type="hidden" name="YNETEZZA_APU" value="1">
+<INPUT type="hidden" name="YNETEZZA_APU2" value="0">
+</div>
+    <h1>Lääkekorvausten saajat ja reseptitiedot</h1>
+
+<fieldset id="muuttujatfs">
+<legend><span class="legend">Muuttujat</span></legend>
+  <table>
+  <tr>
+
+
+
+
+<td>
+ <div class="laatikko"><span class="leipateksti"><label for="XAINEISTO">Tieto</label>
+  </span>
+<div class="kaikkilaatikko">
+<input type="checkbox" class="kaikki" value="checked" id="XAINEISTOk" name="XAINEISTOk"/><label
+title="Valitse kaikki" for="XAINEISTOk">Kaikki</label>
+</div>
+  <select id="XAINEISTO" name="XAINEISTO" multiple="multiple" size="5" class="r s n">
+  <option value="SAAJA" selected="selected" > Saajat</option>
+  <option value="RESEPTI" selected="selected" > Reseptit</option>
+  <option value="KUST" selected="selected" > Kustannukset, euroa</option>
+  <option value="KORV" selected="selected" > Korvaukset, euroa</option>
+  <option value="KUSTRES" selected="selected" > Kustannukset/resepti</option>
+  <option value="KORVRES" selected="selected" > Korvaukset/resepti</option>
+  </select>
+ </div>
+</td>
+<td class="vali"></td>
+
+<td>
+ <div class="laatikko"><span class="leipateksti"><label for="YKTASOE">
+  Korvaustaso</label>
+  </span>
+<div class="kaikkilaatikko">
+<input type="checkbox" class="kaikki" value="checked" id="YKTASOEk" name="YKTASOEk"/><label
+  title="Valitse kaikki" for="YKTASOEk">Kaikki</label>
+</div>
+  <select id="YKTASOE" name="YKTASOE" multiple="multiple" size="5"   class="r s">
+    
+<option value="0Korvaukset yhteensä" selected="selected">Korvaukset yhteensä</option>                                                                                  
+<option value="1-Peruskorvaus (40 %)">-Peruskorvaus (40 %)</option>                                                                                                    
+<option value="2-Erityiskorvaus (65 %)">-Erityiskorvaus (65 %)</option>                                                                                                
+<option value="3-Erityiskorvaus (100 %)">-Erityiskorvaus (100 %)</option>                                                                                              
+<option value="6Alle alkuomavastuun jääneet kustannukset">Alle alkuomavastuun jääneet kustannukset</option>                                                            
+<option value="7Korvaukset ja alle alkuomavastuun jääneet kustannukset yhtee" selected="selected">Korvaukset ja alle alkuomavastuun jääneet kustannukset yhtee</option>
+ </select>
+ </div>
+</td>
+<input type="hidden" name="YEKAKERTA" value="E">
+  </tr>
+  </table>
+
+  <table>
+  <tr>
+
+
+ <td>
+ <div class="laatikko">
+ <span class="leipateksti"><label for="YAIKATYY">Aikatyyppi</label></span>
+ <div class="tyhjakaikkilaatikko"></div>
+ <select id="YAIKATYY" name="YAIKATYY"   size="5" class="r">
+    
+<option value="A1" selected="selected">Vuosi</option>                                
+<option value="A4">Neljännesvuosi</option>                                           
+ </select>
+ </div>
+ </td>
+ <td class="vali">
+ <input type="button" name="YSUORITA" value=" >> " onclick="vaihda_ohjelma(3);"/>
+ </td>
+
+ <td>
+ <div class="laatikko">
+ <span class="leipateksti"><label for="YAIKATIETO">Aika</label></span>
+ <div class="kaikkilaatikko">
+ <input type="checkbox" class="kaikki" value="checked" id="YAIKATIETOk" name="YAIKATIETOk"/><label
+ title="Valitse kaikki" for="YAIKATIETOk">Kaikki</label>
+ </div>
+ <select id="YAIKATIETO" name="YAIKATIETO" multiple="multiple" size="5" class="r s">
+    
+<option value="A12019/12/31" selected="selected">2019</option>                                      
+<option value="A12018/12/31">2018</option>                                                          
+<option value="A12017/12/31">2017</option>                                                          
+<option value="A12016/12/31">2016</option>                                                          
+<option value="A12015/12/31">2015</option>                                                          
+<option value="A12014/12/31">2014</option>                                                          
+<option value="A12013/12/31">2013</option>                                                          
+<option value="A12012/12/31">2012</option>                                                          
+<option value="A12011/12/31">2011</option>                                                          
+<option value="A12010/12/31">2010</option>                                                          
+<option value="A12009/12/31">2009</option>                                                          
+<option value="A12008/12/31">2008</option>                                                          
+ </select>
+ </div>
+ </td>
+
+  </tr>
+  </table>
+
+  <table>
+  <tr>
+<td style="display:none">
+  <input type="hidden" name="Y1VALINTA" value="ARKOKO  00"/>
+  <input type="hidden" name="Y2VALINTA" value="ARKOKO  00000000"/>
+  <input type="hidden" name="Y3VALINTA" value="ARKOKO  00000000"/>
+  </td>
+
+
+ <input type="hidden" name="YATCTASO" value="1">
+<td>
+ <div class="laatikko">
+  <span class="leipateksti"><label for="YATC1">
+    Lääkkeen ATC-luokka</label>
+  </span>
+<div class="kaikkilaatikko">
+<input type="checkbox" class="kaikki" value="checked" id="YATC1k" name="YATC1k"/><label
+  title="Valitse kaikki" for="YATC1k">Kaikki</label>
+</div>
+  <select id="YATC1" name="YATC1" multiple="multiple" size="5" class="r s n">
+    
+<option value="000 YHTEENSÄ"                                                                                                                      selected="selected">0 YHTEENSÄ</option>                                                                                                                                                                                         
+<option value="*AA Ruuansulatuselinten sairauksien ja aineenvaihduntasairauksien lääkkeet"                                                        selected="selected">A Ruuansulatuselinten sairauksien ja aineenvaihduntasairauksien lääkkeet</option>                                                                                                                           
+<option value="*BB Veritautien lääkkeet"                                                                                                          selected="selected">B Veritautien lääkkeet</option>                                                                                                                                                                             
+<option value="*CC Sydän- ja verisuonisairauksien lääkkeet"                                                                                       selected="selected">C Sydän- ja verisuonisairauksien lääkkeet</option>                                                                                                                                                          
+<option value="*DD Ihotautilääkkeet"                                                                                                              selected="selected">D Ihotautilääkkeet</option>                                                                                                                                                                                 
+<option value="*EE (perusvoiteet)"                                                                                                                selected="selected">E (perusvoiteet)</option>                                                                                                                                                                                   
+<option value="*GG Sukupuoli- ja virtsaelinten sairauksien lääkkeet, sukupuolihormonit"                                                           selected="selected">G Sukupuoli- ja virtsaelinten sairauksien lääkkeet, sukupuolihormonit</option>                                                                                                                              
+<option value="*HH Systeemisesti käytettävät hormonivalmisteet, lukuun ottamatta sukupuoliho"                                                     selected="selected">H Systeemisesti käytettävät hormonivalmisteet, lukuun ottamatta sukupuoliho</option>                                                                                                                        
+<option value="*JJ Systeemisesti vaikuttavat infektiolääkkeet"                                                                                    selected="selected">J Systeemisesti vaikuttavat infektiolääkkeet</option>                                                                                                                                                       
+<option value="*LL Syöpälääkkeet ja immuunivasteen muuntajat"                                                                                     selected="selected">L Syöpälääkkeet ja immuunivasteen muuntajat</option>                                                                                                                                                        
+<option value="*MM Tuki- ja liikuntaelinten sairauksien lääkkeet"                                                                                 selected="selected">M Tuki- ja liikuntaelinten sairauksien lääkkeet</option>                                                                                                                                                    
+<option value="*NN Hermostoon vaikuttavat lääkkeet"                                                                                               selected="selected">N Hermostoon vaikuttavat lääkkeet</option>                                                                                                                                                                  
+<option value="*PP Loisten ja hyönteisten häätöön tarkoitetut valmisteet"                                                                         selected="selected">P Loisten ja hyönteisten häätöön tarkoitetut valmisteet</option>                                                                                                                                            
+<option value="*RR Hengityselinten sairauksien lääkkeet"                                                                                          selected="selected">R Hengityselinten sairauksien lääkkeet</option>                                                                                                                                                             
+<option value="*SS Silmä- ja korvatautien lääkkeet"                                                                                               selected="selected">S Silmä- ja korvatautien lääkkeet</option>                                                                                                                                                                  
+<option value="*VV Muut"                                                                                                                          selected="selected">V Muut</option>                                                                                                                                                                                             
+<option value="*99 Tuntematon"                                                                                                                    selected="selected">9 Tuntematon</option>                                                                                                                                                                                       
+ </select>
+ </div>
+</td>
+
+
+  <td class="vali">
+ <input type="button" name="YSUORITA" value=" >> " onclick="document.forms['A1'].YATCTASO.value='3'; vaihda_ohjelma(3);"/>
+ </td>
+
+
+
+<td>
+ <div class="laatikko">
+  <span class="leipateksti"><label for="YATC3">
+    Tarkenna tarvittaessa</label>
+  </span>
+<div class="kaikkilaatikko">
+<input type="checkbox" class="kaikki" value="checked" id="YATC3k" name="YATC3k"/><label
+  title="Valitse kaikki" for="YATC3k">Kaikki</label>
+</div>
+  <select id="YATC3" name="YATC3" multiple="multiple" size="5" class="r s n">
+ </select>
+ </div>
+</td>
+
+
+ <td class="vali">
+ <input type="button" name="YSUORITA" value=" >> " onclick="document.forms['A1'].YATCTASO.value='7'; vaihda_ohjelma(3);"/>
+ </td>
+
+
+
+<td>
+ <div class="laatikko">
+  <span class="leipateksti"><label for="YATC7">
+    Tarkenna tarvittaessa</label>
+  </span>
+<div class="kaikkilaatikko">
+<input type="checkbox" class="kaikki" value="checked" id="YATC7k" name="YATC7k"/><label
+  title="Valitse kaikki" for="YATC7k">Kaikki</label>
+</div>
+  <select id="YATC7" name="YATC7" multiple="multiple" size="5" class="r s">
+ </select>
+ </div>
+</td>
+
+<td style="display:none">
+
+  <INPUT TYPE="HIDDEN" NAME="YEATCTASO" VALUE='1'>
+  </td>
+
+</tr>
+</table>
+</fieldset>
+
+<div id="virheJaNappi">
+<div id="virheet">
+ <p id="spanVirhe"></p>
+</div>
+<div id="nappi">
+<input type="submit" name="YSUORITA"
+  value="Luo raportti >>" onclick="if (document.readyState != 'loading') return tarkista_laheta(true); else return false;"/>
+</div>
+</div>
+
+<div><a id="asetukset"></a></div>
+<div id="asetuksetDiv">
+<fieldset id="asetuksetFs">
+<legend><span class="legend">Raportin asetukset</span></legend>
+<div id="asetuksetsisalto">
+<fieldset id="asetuksetMj">
+<legend><span class="legend">Muuttujien sijainti</span></legend>
+
+<div id="mjarjestys">
+<div class="mjsarake mjsarakeeka">
+<div class="mjheader">
+
+<label for="poistetut">Poistetut</label>
+<img alt="Apua" class="help" src="https://raportit.kela.fi/approot/baseapp_uusi/apua.png"  width="18" height="18"
+  title="Poistetut muuttujat eivät näy raportilla. Raportti summautuu poistettujen muuttujien yli."/>
+</div>
+<div class="mjvasen">
+<div class="asbutton"></div>
+    <select id="poistetut" name="muuttujat" multiple="multiple" size="4">
+
+<option value="empty"></option>
+  </select>
+</div>
+</div>
+
+<div class="mjsarake">
+<div class="mjheader">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/katko.gif" alt="" width="28" height="21" />
+<label for="katkot">Katkot</label>
+<img alt="Apua" id="katko-tt.png" class="help" src="https://raportit.kela.fi/approot/baseapp_uusi/apua.png"
+  title="Katkomuuttujat (eli katkot) jakavat raportin erillisiin taulukoihin" width="18" height="18" />
+</div>
+
+<div class="mjvasen">
+  <input type="button" class="asbutton" name="YKATKOTM"
+     value="&gt;&gt; Lisää"
+   onclick="moveSelectedOptions(document.forms['A1']['muuttujat'],document.forms['A1']['katkomtj'],false);return false;"/>
+  <select id="katkot" name="katkomtj" multiple="multiple" size="4">
+<option value="empty"></option>
+  </select>
+
+    <input type="button" class="asbutton" name="YKATKOTM"
+     value="&lt;&lt; Poista&nbsp;&nbsp;"
+   onclick="moveSelectedOptions(document.forms['A1']['katkomtj'],document.forms['A1']['muuttujat'],true);
+     document.forms['A1']['katkomtj'].selectedIndex = -1; return false;"/>
+</div>
+
+
+<div class="mjoikea">
+  <a href="javascript:void(0);" onclick="moveOptionUp(document.forms['A1']['katkomtj']);return false;">
+  <img src="https://raportit.kela.fi/approot/baseapp_uusi/up.gif" alt="Ylös" width="16" height="12" /></a><br/>
+  Siirrä<br/>
+  <a href="javascript:void(0);" onclick="moveOptionDown(document.forms['A1']['katkomtj']); return false;">
+  <img src="https://raportit.kela.fi/approot/baseapp_uusi/down.gif" alt="Alas" width="16" height="12" /></a>
+</div>
+
+
+</div>
+
+
+<div class="mjsarake">
+<div class="mjheader">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/rivi.gif" alt="" width="28" height="21" />
+<label for="rivit">Rivit</label>
+<img alt="Apua" class="help" id="rivi-tt.png" src="https://raportit.kela.fi/approot/baseapp_uusi/apua.png" title="Riveillä näkyvät muuttujat" width="18" height="18" />
+</div>
+
+<div class="mjvasen">
+   <input type="button" class="asbutton" name="YRIVITM"
+     value="&gt;&gt; Lisää"
+   onclick="moveSelectedOptions(document.forms['A1']['muuttujat'],document.forms['A1']['rivimtj'],false);return false;"/>
+  <select id="rivit" name="rivimtj" multiple="multiple" size="4">
+ <option value="XAIKAPVM                                Aika" selected="selected">
+ Aika
+ </option>
+ <option value="ATCNIMI2S           ATCJNO    ATC1      Lääkkeen ATC-luokka" selected="selected">
+ Lääkkeen ATC-luokka
+ </option>
+<option value="empty"></option>
+  </select>
+
+
+  <input type="button" class="asbutton" name="YKATKOTM"
+     value="&lt;&lt; Poista&nbsp;&nbsp;"
+   onclick="moveSelectedOptions(document.forms['A1']['rivimtj'],document.forms['A1']['muuttujat'],true);
+     document.forms['A1']['rivimtj'].selectedIndex = -1; return false;"/>
+</div>
+
+
+
+<div class="mjoikea">
+  <a href="javascript:void(0);" onclick="moveOptionUp(document.forms['A1']['rivimtj']);return false;">
+    <img src="https://raportit.kela.fi/approot/baseapp_uusi/up.gif" alt="Ylös" width="16" height="12" /></a><br/>
+  Siirrä<br/>
+   <a href="javascript:void(0);" onclick="moveOptionDown(document.forms['A1']['rivimtj']); return false;">
+  <img src="https://raportit.kela.fi/approot/baseapp_uusi/down.gif" alt="Alas" width="16" height="12" /></a>
+</div>
+</div>
+
+
+
+
+<div class="mjsarake mjsarakevika">
+<div class="mjheader">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/sarake.gif" alt="" width="28" height="21" />
+<label for="sarakkeet">Sarakkeet</label>
+<img alt="Apua" class="help" id="sarake-tt.png" src="https://raportit.kela.fi/approot/baseapp_uusi/apua.png" title="Sarakkeilla näkyvät muuttujat" width="18" height="18" />
+</div>
+
+<div class="mjvasen">
+    <input type="button" class="asbutton" name="YSARAKETM"
+     value="&gt;&gt; Lisää"
+   onclick="moveSelectedOptions(document.forms['A1']['muuttujat'],document.forms['A1']['sarakemtj'],false);return false;"/>
+  <select id="sarakkeet" name="sarakemtj" multiple="multiple" size="4">
+  <option value="PNIMI               JNO       KTASOE    Korvaustaso" selected="selected">
+  Korvaustaso
+  </option>
+<option value="empty"></option>
+  </select>
+
+  <input type="button" class="asbutton" name="YKATKOTM"
+     value="&lt;&lt; Poista&nbsp;&nbsp;"
+   onclick="moveSelectedOptions(document.forms['A1']['sarakemtj'],document.forms['A1']['muuttujat'],true);
+     document.forms['A1']['sarakemtj'].selectedIndex = -1; return false;"/>
+</div>
+
+
+<div class="mjoikea">
+  <a href="javascript:void(0);" onclick="moveOptionUp(document.forms['A1']['sarakemtj']);return false;">
+  <img src="https://raportit.kela.fi/approot/baseapp_uusi/up.gif" alt="Ylös" width="16" height="12" /></a><br/>
+  Siirrä<br/>
+  <a href="javascript:void(0);" onclick="moveOptionDown(document.forms['A1']['sarakemtj']); return false;">
+  <img src="https://raportit.kela.fi/approot/baseapp_uusi/down.gif" alt="Alas" width="16" height="12" /></a>
+</div>
+</div>
+</div>
+</fieldset>
+
+
+
+
+
+<fieldset class="asetuksetfs" style="float:left;width:726px;margin-top:0.5em">
+
+
+<p class="leipateksti"> Aikajärjestys
+   <br/>
+   <input id="sum_on" type="radio" name="YAIKA_JARJ" value="HIGHEST" checked="checked" /><label
+   for="sum_on">Laskeva (uusimmat ensin)</label>
+   <input id="sum_off" type="radio" name="YAIKA_JARJ" value=" "   /><label
+   for="sum_off">Nouseva</label>
+</p>
+
+<p class="leipateksti">
+Esitysmuoto
+<br/>
+    <input type="radio" id="html" name="YTULOSTUS" value="HTMT" checked="checked" /><label for="html">Näytä ruudulla</label>
+    <input type="radio" id="pdf" name="YTULOSTUS" value="PDF"   /><label for="pdf">PDF
+    <img alt="" src="https://raportit.kela.fi/approot/baseapp_uusi/pdf.gif" width="16" height="16" />
+    </label>
+    <input type="radio" id="excel" name="YTULOSTUS" value="EXL2K"   /><label for="excel">Excel
+    <img alt="" src="https://raportit.kela.fi/approot/baseapp_uusi/Xls.gif" width="16" height="16" />
+    </label>
+</p>
+
+<p class="leipateksti">
+
+  Tulostussuunta (PDF)
+  <br/>
+  <input type="radio" id="pysty" name="YTULSUUNTA" value="PORTRAIT"   /><label for="pysty">Pysty</label>
+  <input type="radio" id="vaaka" name="YTULSUUNTA" value="LANDSCAPE" checked="checked" /><label for="vaaka">Vaaka</label>
+</p>
+
+<input type="hidden" value="post" name="YMETHOD" />
+
+</fieldset>
+</div>
+
+</fieldset>
+
+</div>
+
+
+
+
+<div id="lisatietoja"><span class="alaviite">
+Kela / analytiikka- ja tilastoryhmä / NIT137A
+</span>
+</div>
+
+
+<div style="display:none;">
+<select name="PARAMNAMES" multiple="multiple"><option disabled="disabled"></option></select>
+</div>
+
+
+</form>
+
+
+<div id="lataa">
+<p style="text-align:center;">Ladataan raporttia</p>
+<p style="text-align:center;">
+<img src="https://raportit.kela.fi/approot/baseapp_uusi/load2.gif"
+ alt="Ladataan raporttia" id="lataaimg" width="250" height="20" /></p> </div>
+</div>
+
+</body>
+</html>
+
+
+
+<!--InlineMessages URL1 2026-09-30_18.14.40.676
+KELA_BATCH= tbatch
+LISA_ON: none
+AIKAMASTER: OITAIKA1_ITAIKAPUX
+CURRENTLY DEFINED & VARIABLES STARTING WITH 'NAVILS':
+&NAVILS       = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS0      = 15
+&NAVILS1      = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS10     = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS11     = https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056BL
+&NAVILS12     = Lääkäreiden määräämät reseptilääkkeet sairaanhoitopiireittäin
+&NAVILS13     = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS14     = https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT084AL
+&NAVILS15     = Voimassaolevat, alkaneet ja päättyneet lääkekorvausoikeudet
+&NAVILS2      = https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056AL
+&NAVILS3      = Lääkäreiden määräämien reseptilääkkeiden aikasarja
+&NAVILS4      = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS5      = https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056CL
+&NAVILS6      = Lääkäreiden eniten määräämät (10) lääkeryhmät
+&NAVILS7      = https://raportit.kela.fi/approot/baseapp_uusi/number.png
+&NAVILS8      = https://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT056DL
+&NAVILS9      = Lääkäreiden määräämät reseptilääkkeet lääkäriryhmittäin
+0000
+---   - E
+*** PURA_TOKA
+CURRENTLY DEFINED & VARIABLES STARTING WITH 'YAIKA':
+&YAIKAMASTER  = OITAIKA1_ITAIKAPUX
+&YAIKAPVM     = 2019/12/31
+&YAIKAPVM0    = 0
+&YAIKAPVM1    = 2019/12/31
+&YAIKAT       = A1
+&YAIKAT1      = A1
+&YAIKATIETO   =
+&YAIKATYY     = A1
+&YAIKAUUS     = E
+&YAIKAVKO     =
+&YAIKAVKO1    =
+&YAIKA_JARJ   = HIGHEST
+&YAIKA_KAIKKI =
+&YAIKA_LINK   = E
+&YAIKA_LISA   =
+&YAIKA_LISA2  =
+&YAIKA_LKM    = 1
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+-->

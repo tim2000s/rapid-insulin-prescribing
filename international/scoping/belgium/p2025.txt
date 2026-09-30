@@ -1,0 +1,275 @@
+                                                                                Prescriptions de l'ensemble des prescripteurs (100% des prescripteurs)
+                                                                                                    Secteur ambulatoire - Année 2025
+
+                                                                                       Total par classe ATC 1er niveau
+
+
+                                                                                                            Montant brut       %         % dans le        Part        %      DDD/1000    %
+                                                                                                           (milliers EURO)           montant brut de personnelle             hab./jour
+                                      ATC 1er                                                                                        l'ensemble des (milliers EURO)
+                                                                   Niveau anatomique
+                                      niveau                                                                                           prescripteurs
+
+
+
+
+                                         A      TRACTUS GASTRO-INTESTINAL ET METABOLISME                           601,170 14.0%         100.0%              48,336 11.0%       209.178 15.7%
+                                         B      SANG ET SYSTEME HEMATOPOIETIQUE                                    454,782 10.6%         100.0%              32,502 7.4%        111.790 8.4%
+                                         C      SYSTEME CARDIO-VASCULAIRE                                          750,082 17.5%         100.0%             127,698 29.0%       515.519 38.7%
+                                         D      PREPARATIONS DERMATOLOGIQUES                                       108,188 2.5%          100.0%               6,573 1.5%          7.661 0.6%
+                                         G      SYSTEME URO-GENITAL ET HORMONES SEXUELLES                           25,089 0.6%          100.0%               5,844 1.3%         21.386 1.6%
+                                         H      HORMONES SYSTEMIQUES, SAUF LES HORMONES SEXUELLES                  100,955 2.4%          100.0%               5,976 1.4%         45.405 3.4%
+                                         J      ANTI-INFECTIEUX A USAGE SYSTEMIQUE                                 390,723 9.1%          100.0%              53,358 12.1%        21.324 1.6%
+                                         L      CYTOSTATIQUES, AGENTS IMMUNOMODULATEURS                            747,715 17.4%         100.0%               6,320 1.4%         20.359 1.5%
+                                         M      SYSTEME SQUELETTIQUE ET MUSCULAIRE                                 117,685 2.7%          100.0%              10,861 2.5%         56.458 4.2%
+                                         N      SYSTEME NERVEUX CENTRAL                                            522,862 12.2%         100.0%              74,617 16.9%       170.576 12.8%
+                                         P      ANTIPARASITAIRES                                                     4,700 0.1%          100.0%                 792 0.2%          1.024 0.1%
+                                         R      SYSTEME RESPIRATOIRE                                               396,506 9.2%          100.0%              58,490 13.3%       121.558 9.1%
+                                         S      ORGANES SENSORIELS                                                  48,959 1.1%          100.0%               8,950 2.0%         30.983 2.3%
+                                         V      DIVERS                                                              20,688 0.5%          100.0%                 381 0.1%          0.581 0.0%
+                                                                   TOTAL                                         4,290,104 100.0%        100.0%             440,698 100.0%    1,333.803 100.0%
+
+
+
+
+RIZIV - INAMI   Dienst voor Geneeskundige Verzorging - Service des soins de santé
+                                                                                                                           Prescriptions de l'ensemble des prescripteurs (100% des prescripteurs)
+                                                                                                                                               Secteur ambulatoire - Année 2025
+                                                                                                                                                                  DU 90%
+                                                                                      Rang    Code ATC                               Sous-groupe chimique                         % mnt   Montant brut % du montant Nbre DDD        % DDD    Rang
+                                                                                    (montant)                                                                                      brut     (milliers       brut de    (milliers)           (DDD)
+                                                                                                                                                                                             EURO)     l'ensemble des
+                                                                                                                                                                                                         prescripteurs
+
+
+
+                                                                                       1      B01AF      INHIBITEURS DIRECTS DU FACTEUR Xa                                        5.8%        249,723      100.0%         96,375     1.7%     14
+                                                                                       2      L04AC      INHIBITEURS DE L'INTERLEUKINE                                            5.8%        247,014      100.0%         11,967     0.2%     72
+                                                                                       3      L04AB      INHIBITEURS DE FACTEUR DE NECROSE DE TUMEURS ALPHA (TNF-ALPHA)           4.3%        186,133      100.0%         11,271     0.2%     73
+                                                                                       4      J05AR      ANTIVIRAUX POUR LE TRAITEMENT DES INFECTIONS PAR LE VIH, ASSOCIATIONS    3.4%        144,581      100.0%          7,963     0.1%     86
+                                                                                       5      A02BC      INHIBITEURS DE LA POMPE A PROTONS                                        3.3%        140,548      100.0%        437,574     7.6%     2
+                                                                                       6      C10BA      ASSOCIATIONS DE DIFFERENTS HYPOLIPIDEMIANTS                              3.2%        137,463      100.0%        196,526     3.4%     6
+                                                                                       7      A10BK      GLIFLOZINES (INHIBITEURS DU SGLT2)                                       3.1%        132,162      100.0%         78,328     1.4%     16
+                                                                                       8      C10AX      AUTRES HYPOLIPIDEMIANTS                                                  2.9%        124,319      100.0%         51,801     0.9%     28
+                                                                                       9      A10BJ      INCRETINOMIMETIQUES (ANALOGUES DU GLP-1)                                 2.5%        107,466      100.0%         20,115     0.3%     51
+                                                                                       10     C10AA      INHIBITEURS DE LA HMG-CoA REDUCTASE (STATINES)                           2.3%        100,104      100.0%        594,696    10.3%     1
+                                                                                       11     R03AK      SYMPATHOMIMETIQUES + CORTICOIDES OU AUTRES SUBST., EXCL.ANTICHOLINERG.   2.3%         99,276      100.0%         87,395     1.5%     15
+                                                                                       12     R03DX      AUTRES PREP. A USAGE SYSTEMIQUE POUR AFFECTIONS RESP. OBSTRUCTIVES       2.3%         98,140      100.0%          2,842     0.0%    128
+                                                                                       13     B02BX      AUTRES HEMOSTATIQUES SYSTEMIQUES                                         2.2%         94,218      100.0%             82     0.0%    231
+                                                                                       14     R03AL      SYMPATHICOMIMETIQUES ET ANTICHOLINERGIQUES, INCL. COMB. AVEC CORTIC.     2.2%         93,783      100.0%         73,825     1.3%     19
+                                                                                       15     L04AF      INHIBITEURS DE JANUS KINASE (JAK)                                        1.8%         78,130      100.0%          3,229     0.1%    122
+                                                                                       16     D11AH      MEDICAMENTS POUR LA DERMATOSE, EXCEPTES CORTICOSTEROIDES                 1.7%         74,624      100.0%          2,691     0.0%    131
+                                                                                       17     N02CD      ANTAGONISTES DU PEPTIDE RELIE AU GENE DE LA CALCITONINE (CGRP)           1.7%         74,427      100.0%          5,889     0.1%    104
+                                                                                       18     N06AX      AUTRES ANTIDEPRESSEURS                                                   1.5%         63,135      100.0%        149,109     2.6%     11
+                                                                                       19     L04AG      ANTICORPS MONOCLONAUX                                                    1.4%         61,793      100.0%          1,918     0.0%    139
+                                                                                       20     C09DX      ANTAGONISTES DE L'ANGIOTENSINE II, AUTRES ASSOCIATIONS                   1.3%         57,278      100.0%         40,970     0.7%     35
+                                                                                       21     N06AB      INHIBITEURS SELECTIFS DE LA RECAPTURE DE LA SEROTONINE                   1.3%         54,879      100.0%        250,263     4.3%     4
+                                                                                       22     M05BX      AUTRES PREPARATIONS AFFECTANT LA MINERALISATION                          1.2%         52,582      100.0%         43,932     0.8%     34
+                                                                                       23     N03AX      AUTRES ANTIEPILEPTIQUES                                                  1.2%         52,387      100.0%         31,415     0.5%     43
+                                                                                       24     N05AX      AUTRES ANTIPSYCHOTIQUES (NEUROLEPTIQUES)                                 1.2%         49,663      100.0%         23,014     0.4%     49
+                                                                                       25     A10AE      INSULINES ET ANALOGUES INJECTABLES A ACTION LONGUE                       1.1%         45,861      100.0%         34,886     0.6%     40
+                                                                                       26     C07AB      BETA-BLOQUANTS SELECTIFS                                                 1.0%         43,815      100.0%        180,500     3.1%     7
+                                                                                       27     A10AB      INSULINES ET ANALOGUES INJECTABLES A ACTION RAPIDE                       0.9%         38,566      100.0%         40,461     0.7%     36
+                                                                                       28     B01AB      GROUPE DES HEPARINES                                                     0.9%         37,243      100.0%         17,845     0.3%     56
+                                                                                       29     A10BA      BIGUANIDES                                                               0.8%         36,434      100.0%        148,642     2.6%     12
+                                                                                       30     C09AA      IECA, SIMPLES                                                            0.8%         36,033      100.0%        203,134     3.5%     5
+                                                                                       31     J07BB      VACCINS ANTI-INFLUENZA                                                   0.8%         35,738      100.0%          1,899     0.0%    140
+                                                                                       32     L04AA      IMMUNOSUPPRESSEURS SELECTIFS                                             0.8%         35,142      100.0%          3,405     0.1%    118
+                                                                                       33     C09CA      ANTAGONISTES DE L'ANGIOTENSINE II, SIMPLES                               0.8%         33,041      100.0%        161,505     2.8%     9
+                                                                                       34     J07BX      AUTRES VACCINS ANTIVIRAUX                                                0.7%         32,012      100.0%            167     0.0%    224
+                                                                                       35     C09BB      IECA ET ANTAGONISTES DU CALCIUM                                          0.7%         31,787      100.0%         76,110     1.3%     18
+                                                                                       36     B01AC      INHIBITEURS DE L'AGREGATION PLAQUETTAIRE, SAUF L'HEPARINE                0.7%         31,380      100.0%        354,804     6.2%     3
+                                                                                       37     H01CB      SOMATOSTATINE ET ANALOGUES                                               0.7%         30,670      100.0%          1,319     0.0%    164
+                                                                                       38     R06AX      AUTRES ANTIHISTAMINIQUES A USAGE SYSTEMIQUE                              0.7%         30,321      100.0%        163,694     2.8%     8
+                                                                                       39     N05AH      DIAZEPINES, OXAZEPINES, THIAZEPINES ET OXEPINES                          0.7%         30,273      100.0%         26,631     0.5%     46
+                                                                                       40     N02AX      AUTRES OPIOIDES                                                          0.7%         28,602      100.0%         29,027     0.5%     45
+                                                                                       41     B02BD      FACTEURS DE COAGULATION                                                  0.6%         26,731      100.0%             52     0.0%    239
+                                                                                       42     N02BF      GABAPENTINOIDES                                                          0.6%         24,725      100.0%         30,984     0.5%     44
+                                                                                       43     L04AX      AUTRES IMMUNOSUPPRESSEURS                                                0.6%         24,259      100.0%         14,170     0.2%     67
+                                                                                       44     C08CA      DERIVES DE LA DIHYDROPYRIDINE                                            0.5%         22,626      100.0%        161,470     2.8%     10
+                                                                                       45     H03AA      HORMONES THYROIDIENNES                                                   0.5%         22,453      100.0%        135,579     2.4%     13
+                                                                                       46     C09BX      IECA, AUTRES ASSOCIATIONS                                                0.5%         22,247      100.0%         47,916     0.8%     30
+                                                                                       47     M01AE      DERIVES DE L'ACIDE PROPIONIQUE                                           0.5%         21,966      100.0%         56,856     1.0%     24
+                                                                                       48     J01CR      ASSOCIATIONS DE PENICILLINES, INHIB. DE LA BETALACTAMASE INCLUS          0.5%         21,512      100.0%         15,795     0.3%     62
+                                                                                       49     R03BA      GLUCOCORTICOIDES                                                         0.5%         21,049      100.0%         15,156     0.3%     63
+                                                                                       50     J01CA      PENICILLINES A LARGE SPECTRE                                             0.5%         20,315      100.0%         18,349     0.3%     54
+                                                                                       51     L04AD      INHIBITEURS DE LA CALCINEURINE                                           0.5%         19,799      100.0%          4,206     0.1%    114
+                                                                                       52     L02AE      ANALOGUES DE LA GONADORELINE                                             0.4%         17,822      100.0%          7,431     0.1%     90
+                                                                                       53     N02AB      DERIVES DE LA PHENYLPIPERIDINE                                           0.4%         17,779      100.0%          9,091     0.2%     83
+                                                                                       54     C09BA      IECA ET DIURETIQUES                                                      0.4%         17,677      100.0%         55,437     1.0%     26
+                                                                                       55     C09DB      ANTAGONISTES DE L'ANGIOTENSINE II ET ANTAGONISTES DU CALCIUM             0.4%         16,712      100.0%         40,097     0.7%     37
+                                                                                       56     A10BH      INHIBITEURS DE LA DIPEPTIDYL PEPTIDASE 4 (DPP-4)                         0.4%         16,355      100.0%         17,571     0.3%     58
+                                                                                       57     H02AB      GLUCOCORTICOIDES                                                         0.4%         16,111      100.0%         47,361     0.8%     31
+                                                                                       58     H01AC      SOMATROPINE ET AGONISTES DE LA SOMATROPINE                               0.4%         16,014      100.0%          1,317     0.0%    165
+                                                                                       59     J01FA      MACROLIDES                                                               0.4%         15,934      100.0%         11,171     0.2%     74
+                                                                                       60     C09DA      ANTAGONISTES DE L'ANGIOTENSINE II ET DIURETIQUES                         0.4%         15,482      100.0%         54,448     0.9%     27
+
+
+
+RIZIV - INAMI   Dienst voor Geneeskundige Verzorging - Service des soins de santé
+                                                                                    61   V03AE    PRODUITS POUR LE TRAITEM. DE L'HYPERKALIEMIE OU DE L'HYPERPHOSPHATEMIE    0.4%      15,164   100.0%       1,867    0.0%   143
+                                                                                    62   J02AC    DERIVES TRIAZOLES ET TETRAZOLES                                           0.3%      14,764   100.0%       4,418    0.1%   111
+                                                                                    63   M01AB    DERIVES DE L'ACIDE ACETIQUE ET SUBSTANCES APPARENTEES                     0.3%      14,745   100.0%      44,728    0.8%    33
+                                                                                    64   C03CA    SULFAMIDES                                                                0.3%      14,703   100.0%      77,936    1.4%    17
+                                                                                    65   L04AE    MODULATEURS DES RECEPTEURS A LA SPHINGOSINE 1-PHOSPHATE                   0.3%      14,334   100.0%         355    0.0%   203
+                                                                                    66   A10BX    AUTRES HYPOGLYCEMIANTS A L'EXCEPTION DES INSULINES                        0.3%      14,144   100.0%       7,735    0.1%    87
+                                                                                    67   J06BD    ANTICORPS MONOCLONAUX ANTIVIRAUX                                          0.3%      13,758   100.0%          17    0.0%   259
+                                                                                    68   S01ED    BETA-BLOQUANTS                                                            0.3%      13,076   100.0%      33,830    0.6%    42
+                                                                                    69   J07BH    VACCINS DE LA DIARRHEE A ROTAVIRUS                                        0.3%      12,786   100.0%         177    0.0%   222
+                                                                                    70   N02AJ    OPIOIDES AVEC DES ANALGESIQUES NON-OPIOIDES                               0.3%      12,639   100.0%      18,198    0.3%    55
+                                                                                    71   R01AD    CORTICOSTEROIDES                                                          0.3%      12,629   100.0%      67,585    1.2%    21
+                                                                                    72   S01EE    ANALOGUES DE LA PROSTAGLANDINE                                            0.3%      12,112   100.0%      68,363    1.2%    20
+                                                                                    73   A07EC    MESALAZINE ET SIMILAIRES                                                  0.3%      11,685   100.0%      13,268    0.2%    68
+                                                                                    74   N04BA    DOPA ET SES DERIVES                                                       0.3%      11,523   100.0%      11,112    0.2%    75
+                                                                                    75   L02BG    INHIBITEURS DE L'AROMATASE                                                0.3%      11,485   100.0%      14,396    0.3%    66
+                                                                                    76   C01BC    ANTIARYTHMIQUES, CLASSE IC                                                0.2%      10,684   100.0%      16,678    0.3%    60
+                                                                                    77   R06AE    DERIVES DE LA PIPERAZINE                                                  0.2%      10,630   100.0%      60,955    1.1%    22
+                                                                                    78   C03DA    ANTAGONISTES DE L'ALDOSTERONE                                             0.2%      10,574   100.0%      56,371    1.0%    25
+                                                                                    79   R03DC    ANTAGONISTES DES RECEPTEURS DES LEUCOTRIENES                              0.2%      10,535   100.0%      19,719    0.3%    52
+                                                                                    80   N02BE    ANILIDES                                                                  0.2%      10,525   100.0%      38,039    0.7%    38
+                                                                                    81   M04AA    INHIBITEURS DE LA PRODUCTION D'ACIDE URIQUE                               0.2%       9,861   100.0%      49,073    0.9%    29
+                                                                                    82   N02AA    ALCALOIDES NATURELS DE L'OPIUM                                            0.2%       9,695   100.0%       4,662    0.1%   108
+                                                                                    83   A10BB    DERIVES DE LA SULFONYLUREE                                                0.2%       9,529   100.0%      58,358    1.0%    23
+                                                                                    84   L03AB    INTERFERONS                                                               0.2%       9,251   100.0%         572    0.0%   189
+                                                                                    85   L04AK    INHIBITEURS DE DIHYDROOROTATE DEHYDROGENASE                               0.2%       8,943   100.0%       3,169    0.1%   123
+                                                                                    86   R03AC    BETA 2 SYMPATHOMIMETIQUES SELECTIFS                                       0.2%       8,827   100.0%      18,568    0.3%    53
+                                                                                    87    J05AJ   INHIBITEURS D?INTEGRASE                                                   0.2%       8,517   100.0%         415    0.0%   198
+                                                                                    88   R03BB    ANTICHOLINERGIQUES                                                        0.2%       8,450   100.0%      13,215    0.2%    69
+                                                                                    89   D07AC    CORTICOSTEROIDES PUISSANTS (GROUPE III)                                   0.2%       8,360   100.0%       6,783    0.1%    95
+                                                                                                                         TOTAL                                             90.0%   3,862,240      -     5,122,239   89.0%     -
+
+
+
+
+RIZIV - INAMI   Dienst voor Geneeskundige Verzorging - Service des soins de santé
+                                                     Prescriptions de l'ensemble des prescripteurs (100% des prescripteurs)
+                                                                         Secteur ambulatoire - Année 2025
+                         Détail par principe actif des 20 sous-groupes chimiques ayant les montants bruts les plus importants
+
+                         Rang au ATC 4ème ATC 5ème                           Principe actif                          Mnt BRUT     % du montant Nbre DDD
+                         sein du  niveau   niveau                                                                    (milliers       brut de    (milliers)
+                         DU 90%                                                                                       EURO)      l'ensemble des
+                                                                                                                                  prescripteurs
+
+
+
+                           1      B01AF   B01AF02 APIXABAN                                                    123,562               100.0%        40,076.1
+                                          B01AF03 EDOXABAN                                                    101,077               100.0%        32,568.1
+                                          B01AF01 RIVAROXABAN                                                  25,085               100.0%        23,730.8
+                           2      L04AC   L04AC18 RISANKIZUMAB                                                 56,930               100.0%         3,279.9
+                                          L04AC16 GUSELKUMAB                                                   44,034               100.0%         1,237.3
+                                          L04AC05 USTEKINUMAB                                                  35,337               100.0%         3,878.4
+                                          L04AC10 SECUKINUMAB                                                  28,876               100.0%           883.4
+                                          L04AC13 IXEKIZUMAB                                                   25,133               100.0%           722.4
+                                          L04AC21 BIMEKIZUMAB                                                  19,381               100.0%           621.1
+                                          L04AC07 TOCILIZUMAB                                                  15,098               100.0%           658.8
+                                          L04AC12 BRODALUMAB                                                    6,667               100.0%           165.7
+                                          L04AC17 TILDRAKIZUMAB                                                 6,545               100.0%           255.0
+                                          L04AC14 SARILUMAB                                                     6,281               100.0%           184.8
+                                          L04AC24 MIRIKIZUMAB                                                   2,731               100.0%            80.6
+                           3      L04AB   L04AB04 ADALIMUMAB                                                   91,556               100.0%         5,589.4
+                                          L04AB01 ETANERCEPT                                                   31,571               100.0%         2,046.7
+                                          L04AB06 GOLIMUMAB                                                    23,091               100.0%           801.5
+                                          L04AB02 INFLIXIMAB                                                   21,441               100.0%         2,097.4
+                                          L04AB05 CERTOLIZUMAB PEGOL                                           18,473               100.0%           736.4
+                           4      J05AR   J05AR20 EMTRICITABINE, TENOFOVIR ALAFENAMIDE ET BICTEGRAVIR          48,219               100.0%         1,685.5
+                                          J05AR25 LAMIVUDINE ET DOLUTEGRAVIR                                   37,585               100.0%         1,644.4
+                                          J05AR19 EMTRICITABINE, TENOFOVIR ALAFENAMIDE ET RILPIVIRINE          12,981               100.0%           493.3
+                                          J05AR03 TENOFOVIR DISOPROXIL ET EMTRICITABINE                        10,586               100.0%         2,570.6
+                                          J05AR22 EMTRICITABINE, TENOFOVIR ALAFENAMIDE, DARUNAVIR ET COBICISTAT8,203                100.0%           298.5
+                                          J05AR18 EMTRICITABINE, TENOFOVIR ALAFENAMIDE, ELVITEGRAVIR ET COBICISTAT
+                                                                                                                6,957               100.0%           243.2
+                                          J05AR13 LAMIVUDINE, ABACAVIR ET DOLUTEGRAVIR                          6,023               100.0%           212.1
+                                          J05AR21 DOLUTEGRAVIR ET RILPIVIRINE                                   4,486               100.0%           154.1
+                                          J05AR24 LAMIVUDINE, TENOFOVIR DISOPROXIL ET DORAVIRINE                4,378               100.0%           258.8
+                                          J05AR14 DARUNAVIR ET COBICISTAT                                       2,177               100.0%           162.0
+                                          J05AR08 EMTRICITABINE, TENOFOVIR DISOPROXIL ET RILPIVIRINE            1,869               100.0%           105.2
+                                          J05AR06 EMTRICITABINE, TENOFOVIR DISOPROXIL ET EFAVIRENZ                535               100.0%            79.8
+                                          J05AR09 EMTRICITABINE, TENOFOVIR DISOPROXIL, ELVITEGRAVIR ET COBICISTAT 361               100.0%            14.1
+                                          J05AR02 LAMIVUDINE ET ABACAVIR                                          168               100.0%            33.3
+                                          J05AR01 ZIDOVUDINE ET LAMIVUDINE                                         29               100.0%             6.1
+                                          J05AR10 LOPINAVIR ET RITONAVIR                                           24               100.0%             1.9
+                           5      A02BC   A02BC02 PANTOPRAZOLE                                                 89,382               100.0%       261,321.5
+                                          A02BC01 OMEPRAZOLE                                                   32,005               100.0%       115,261.8
+                                          A02BC05 ESOMEPRAZOLE                                                 17,460               100.0%        56,289.0
+                                          A02BC03 LANSOPRAZOLE                                                  1,566               100.0%         4,419.4
+                                          A02BC04 RABEPRAZOLE                                                     135               100.0%           282.6
+                           6      C10BA   C10BA06 ROSUVASTATINE ET EZETIMIBE                                   72,048               100.0%       119,493.7
+                                          C10BA05 ATORVASTATINE ET EZETIMIBE                                   31,803               100.0%        54,593.5
+                                          C10BA10 ACIDE BEMPEDOIQUE ET EZETIMIBE                               28,517               100.0%        10,447.2
+                                          C10BA02 SIMVASTATINE ET EZETIMIBE                                     5,063               100.0%        11,922.1
+                                          C10BA03 PRAVASTATINE ET FENOFIBRATE                                      32               100.0%            69.6
+                           7      A10BK   A10BK03 EMPAGLIFLOZINE                                               68,413               100.0%        35,828.0
+                                          A10BK01 DAPAGLIFLOZINE                                               58,662               100.0%        39,949.7
+                                          A10BK02 CANAGLIFLOZINE                                                5,086               100.0%         2,550.3
+                           8      C10AX   C10AX16 INCLISIRAN                                                   40,240               100.0%         3,193.6
+                                          C10AX15 ACIDE BEMPEDOIQUE                                            33,986               100.0%        13,474.7
+                                          C10AX13 EVOLOCUMAB                                                   23,781               100.0%         1,581.7
+                                          C10AX09 EZETIMIBE                                                    13,274               100.0%        32,338.3
+                                          C10AX14 ALIROCUMAB                                                   13,038               100.0%         1,212.3
+                           9      A10BJ   A10BJ06 SEMAGLUTIDE                                                  86,015               100.0%        12,831.1
+                                          A10BJ05 DULAGLUTIDE                                                  19,578               100.0%         6,694.3
+                                          A10BJ02 LIRAGLUTIDE                                                   1,698               100.0%           536.8
+                                          A10BJ01 EXENATIDE                                                       174               100.0%            53.3
+                           10     C10AA   C10AA05 ATORVASTATINE                                                42,009               100.0%       266,996.2
+                                          C10AA07 ROSUVASTATINE                                                37,569               100.0%       226,308.5
+                                          C10AA01 SIMVASTATINE                                                 16,705               100.0%        86,278.8
+                                          C10AA03 PRAVASTATINE                                                  3,820               100.0%        15,112.5
+                           11     R03AK   R03AK08 FORMOTEROL ET BECLOMETASONE                                  34,948               100.0%        28,295.9
+                                          R03AK10 VILANTEROL ET FLUTICASONE FUROATE                            30,313               100.0%        23,534.7
+
+RIZIV - INAMI   Dienst voor Geneeskundige Verzorging - Service des soins de santé
+                                          R03AK07 FORMOTEROL ET BUDESONIDE                                23,281   100.0%   25,277.9
+                                          R03AK06 SALMETEROL ET FLUTICASONE                                8,687   100.0%    8,315.2
+                                          R03AK11 FORMOTEROL ET FLUTICASONE                                1,762   100.0%    1,569.1
+                                          R03AK14 INDACATEROL ET MOMETASONE                                  158   100.0%      152.9
+                                          R03AK12 SALMETEROL ET BUDESONIDE                                   127   100.0%      249.2
+                           12     R03DX   R03DX09 MEPOLIZUMAB                                             41,400   100.0%    1,042.0
+                                          R03DX05 OMALIZUMAB                                              26,291   100.0%    1,099.4
+                                          R03DX10 BENRALIZUMAB                                            20,756   100.0%      476.2
+                                          R03DX11 TEZEPELUMAB                                              9,693   100.0%      224.5
+                           13     B02BX   B02BX06 EMICIZUMAB                                              94,218   100.0%       82.3
+                           14     R03AL   R03AL09 FORMOTEROL, GLYCOPYRRONIUM BROMURE ET BECLOMETASONE 28,399       100.0%   15,397.1
+                                          R03AL08 VILANTEROL, UMECLIDINIUM BROMURE ET FLUTICASONE FUROATE 19,542   100.0%   10,673.4
+                                          R03AL01 FENOTEROL ET IPRATROPIUM BROMURE                        11,775   100.0%   27,483.1
+                                          R03AL03 VILANTEROL ET UMECLIDINIUM BROMURE                       9,244   100.0%    6,413.9
+                                          R03AL11 FORMOTEROL, GLYCOPYRRONIUM BROMURE ET BUDESONIDE         9,001   100.0%    4,891.7
+                                          R03AL06 OLODATEROL ET TIOTROPIUM BROMURE                         6,782   100.0%    2,624.7
+                                          R03AL04 INDACATEROL ET GLYCOPYRRONIUM BROMURE                    4,626   100.0%    3,220.3
+                                          R03AL02 SALBUTAMOL ET IPRATROPIUM BROMURE                        2,771   100.0%    2,183.4
+                                          R03AL12 INDACATEROL, GLYCOPYRRONIUM BROMURE ET MOMETASONE        1,413   100.0%      777.1
+                                          R03AL05 FORMOTEROL ET ACLIDINIUM BROMURE                           229   100.0%      160.0
+                           15     L04AF   L04AF03 UPADACITINIB                                            40,697   100.0%    1,822.3
+                                          L04AF04 FILGOTINIB                                              12,781   100.0%      425.2
+                                          L04AF02 BARICITINIB                                             11,083   100.0%      468.9
+                                          L04AF01 TOFACITINIB                                              9,459   100.0%      353.2
+                                          L04AF07 DEUCRAVACITINIB                                          4,109   100.0%      159.1
+                           16    D11AH    D11AH05 DUPILUMAB                                               58,332   100.0%    1,341.0
+                                          D11AH07 TRALOKINUMAB                                             7,277   100.0%      230.8
+                                          D11AH10 LEBRIKIZUMAB                                             4,702   100.0%      131.6
+                                          D11AH08 ABROCITINIB                                              2,577   100.0%       68.4
+                                          D11AH02 PIMECROLIMUS                                             1,086   100.0%      265.7
+                                          D11AH01 TACROLIMUS                                                 650   100.0%      653.6
+                           17    N02CD    N02CD03 FREMANEZUMAB                                            28,986   100.0%    1,775.2
+                                          N02CD01 ERENUMAB                                                22,784   100.0%    2,633.6
+                                          N02CD02 GALCANEZUMAB                                            13,369   100.0%      930.8
+                                          N02CD07 ATOGEPANT                                                9,288   100.0%      549.3
+                           18     N06AX   N06AX16 VENLAFAXINE                                             18,312   100.0%   53,410.5
+                                          N06AX21 DULOXETINE                                              14,621   100.0%   34,449.1
+                                          N06AX05 TRAZODONE                                               11,184   100.0%   27,735.1
+                                          N06AX11 MIRTAZAPINE                                             10,527   100.0%   21,623.0
+                                          N06AX12 BUPROPION                                                7,976   100.0%   11,330.4
+                                          N06AX18 REBOXETINE                                                 335   100.0%      326.2
+                                          N06AX03 MIANSERINE                                                 182   100.0%      234.7
+                           19     L04AG   L04AG05 VEDOLIZUMAB                                             31,885   100.0%    1,373.8
+                                          L04AG12 OFATUMUMAB                                              25,734   100.0%      445.7
+                                          L04AG03 NATALIZUMAB                                              4,175   100.0%       98.4
+                           20     C09DX   C09DX04 VALSARTAN ET SACUBITRIL                                 43,593   100.0%    9,818.2
+                                          C09DX03 OLMESARTAN MEDOXOMIL, AMLODIPINE ET HYDROCHLOROTHIAZIDE11,779    100.0%   27,142.8
+                                          C09DX01 VALSARTAN, AMLODIPINE ET HYDROCHLOROTHIAZIDE             1,906   100.0%    4,009.3
+
+
+
+
+RIZIV - INAMI   Dienst voor Geneeskundige Verzorging - Service des soins de santé
+

@@ -1,0 +1,128 @@
+<!-- Licensed Materials - Property of IBM
+
+	IBM Cognos Products: Cognos Analytics
+
+	(C) Copyright IBM Corp. 2018, 2025
+
+	US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+-->
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" class="chrome" style="font-size:16px;">
+	<head>
+		<meta charset="utf-8">
+		<meta content="images/logo_s.png" itemprop="image">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="msapplication-TileImage" content="images/logo_s.png">
+		<meta name="msapplication-TileColor" content="#26A9E1">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<script src="lib/requirejs/2.3.7/require.js"></script>
+		<script src="lib/bundleManifest.js?v=3606521104"></script>
+			<script src="js/glass/bundleManifest.js?v=3606521104"></script>
+			<script src="js/ca-ui-common/bundleManifest.js?v=3606521104"></script>
+			<script src="js/dashboard-api-utils/bundleManifest.js?v=3606521104"></script>
+			<script src="js/dashboard-features/bundleManifest.js?v=3606521104"></script>
+			<script src="js/ca_portal/bundleManifest.js?v=3606521104"></script>
+			<script src="js/ca-content/bundleManifest.js?v=3606521104"></script>
+		<script id="startupInfo" type="text/json" urlArgs="v=3606521104" clientLocale="en-us" factoryMode="false" uiPreview="false">
+			{"configuration":{"Glass.digitalContextEnabled":false,"ClientValidDomainList":"","Glass.disableWhatsNewAlerts":false,"Glass.disableAlertBanner":false,"Glass.learningPanelMode":"production","Agentic.enableAllTenants":false,"contentSecurityPolicy.allow-script-src-unsafe-eval":true,"contentSecurityPolicy.allow-script-src-unsafe-inline":true,"Watsonx.isWatsonxAIEnabled":false,"Mapbox.token":"pk.eyJ1IjoiaWJtcmF2ZSIsImEiOiJjaXRvZHFzdmYwM20zMnpzYmFxeHR4bTQyIn0.7rttWKsr9b1tVXpo0ZcWFw","Mapbox.accountName":"ibmrave","Configuration.LegacyLaunchable":1,"installInfo":"production","Mapbox.secretToken":"default","Glass.maintenanceMessage":"","Glass.learningPanelServerUrlDevelopment":"https:\/\/cchhelp-test-ca.pac.test.cloud.ibm.com\/docs\/cch","ContentApps\/enableMyPortalPages":"false","Glass.learningPanelServerUrl":"https:\/\/cchhelp.pac.cloud.ibm.com\/docs\/cch","LibertyModeOnly":"false","DISP.zipi.IPAEnabled":"false","DatasetService\/urlQuerySize":4000,"Glass.maintenanceLink":"","Agentic.enabled":false,"Glass.learningPanelTokenDevelopment":"73130f02-5454-418f-8607-145a960ed1d3","supportedContentLocales_":"{\"af\":\"Afrikaans\",\"af-za\":\"Afrikaans (South Africa)\",\"sq\":\"Albanian\",\"sq-al\":\"Albanian (Albania)\",\"am\":\"Amharic\",\"am-et\":\"Amharic (Ethiopia)\",\"ar\":\"Arabic\",\"ar-dz\":\"Arabic (Algeria)\",\"ar-bh\":\"Arabic (Bahrain)\",\"ar-eg\":\"Arabic (Egypt)\",\"ar-iq\":\"Arabic (Iraq)\",\"ar-jo\":\"Arabic (Jordan)\",\"ar-kw\":\"Arabic (Kuwait)\",\"ar-lb\":\"Arabic (Lebanon)\",\"ar-ly\":\"Arabic (Libya)\",\"ar-ma\":\"Arabic (Morocco)\",\"ar-om\":\"Arabic (Oman)\",\"ar-qa\":\"Arabic (Qatar)\",\"ar-sa\":\"Arabic (Saudi Arabia)\",\"ar-sy\":\"Arabic (Syria)\",\"ar-tn\":\"Arabic (Tunisia)\",\"ar-ae\":\"Arabic (United Arab Emirates)\",\"ar-ye\":\"Arabic (Yemen)\",\"hy\":\"Armenian\",\"hy-am\":\"Armenian (Armenia)\",\"as\":\"Assamese\",\"as-in\":\"Assamese (India)\",\"az\":\"Azerbaijani\",\"az-az\":\"Azerbaijani (Azerbaijan)\",\"eu\":\"Basque\",\"eu-es\":\"Basque (Spain)\",\"be\":\"Belarusian\",\"be-by\":\"Belarusian (Belarus)\",\"bn\":\"Bengali\",\"bn-in\":\"Bengali (India)\",\"bg\":\"Bulgarian\",\"bg-bg\":\"Bulgarian (Bulgaria)\",\"ca\":\"Catalan\",\"ca-es\":\"Catalan (Spain)\",\"zh\":\"Chinese\",\"zh-cn\":\"Chinese (China)\",\"zh-hk\":\"Chinese (Hong Kong SAR China)\",\"zh-mo\":\"Chinese (Macau SAR China)\",\"zh-sg\":\"Chinese (Singapore)\",\"zh-tw\":\"Chinese (Taiwan)\",\"hr\":\"Croatian\",\"hr-hr\":\"Croatian (Croatia)\",\"cs\":\"Czech\",\"cs-cz\":\"Czech (Czech Republic)\",\"da\":\"Danish\",\"da-dk\":\"Danish (Denmark)\",\"nl\":\"Dutch\",\"nl-be\":\"Dutch (Belgium)\",\"nl-nl\":\"Dutch (Netherlands)\",\"en\":\"English\",\"en-au\":\"English (Australia)\",\"en-be\":\"English (Belgium)\",\"en-bw\":\"English (Botswana)\",\"en-ca\":\"English (Canada)\",\"en-hk\":\"English (Hong Kong SAR China)\",\"en-in\":\"English (India)\",\"en-ie\":\"English (Ireland)\",\"en-mt\":\"English (Malta)\",\"en-nz\":\"English (New Zealand)\",\"en-ph\":\"English (Philippines)\",\"en-sg\":\"English (Singapore)\",\"en-za\":\"English (South Africa)\",\"en-vi\":\"English (U.S. Virgin Islands)\",\"en-gb\":\"English (United Kingdom)\",\"en-us\":\"English (United States)\",\"en-zw\":\"English (Zimbabwe)\",\"et\":\"Estonian\",\"et-ee\":\"Estonian (Estonia)\",\"fo\":\"Faroese\",\"fo-fo\":\"Faroese (Faroe Islands)\",\"fi\":\"Finnish\",\"fi-fi\":\"Finnish (Finland)\",\"fr\":\"French\",\"fr-be\":\"French (Belgium)\",\"fr-ca\":\"French (Canada)\",\"fr-fr\":\"French (France)\",\"fr-lu\":\"French (Luxembourg)\",\"fr-ch\":\"French (Switzerland)\",\"lg\":\"Ganda\",\"lg-ug\":\"Ganda (Uganda)\",\"ka\":\"Georgian\",\"ka-ge\":\"Georgian (Georgia)\",\"de\":\"German\",\"de-at\":\"German (Austria)\",\"de-be\":\"German (Belgium)\",\"de-de\":\"German (Germany)\",\"de-lu\":\"German (Luxembourg)\",\"de-ch\":\"German (Switzerland)\",\"el\":\"Greek\",\"el-gr\":\"Greek (Greece)\",\"gu\":\"Gujarati\",\"gu-in\":\"Gujarati (India)\",\"ha\":\"Hausa\",\"ha-ng\":\"Hausa (Nigeria)\",\"he\":\"Hebrew\",\"he-il\":\"Hebrew (Israel)\",\"hi\":\"Hindi\",\"hi-in\":\"Hindi (India)\",\"hu\":\"Hungarian\",\"hu-hu\":\"Hungarian (Hungary)\",\"is\":\"Icelandic\",\"is-is\":\"Icelandic (Iceland)\",\"id\":\"Indonesian\",\"id-id\":\"Indonesian (Indonesia)\",\"ga\":\"Irish\",\"ga-ie\":\"Irish (Ireland)\",\"it\":\"Italian\",\"it-it\":\"Italian (Italy)\",\"it-ch\":\"Italian (Switzerland)\",\"ja\":\"Japanese\",\"ja-jp\":\"Japanese (Japan)\",\"kn\":\"Kannada\",\"kn-in\":\"Kannada (India)\",\"kk\":\"Kazakh\",\"kk-kz\":\"Kazakh (Kazakhstan)\",\"km\":\"Khmer\",\"km-kh\":\"Khmer (Cambodia)\",\"rw\":\"Kinyarwanda\",\"rw-rw\":\"Kinyarwanda (Rwanda)\",\"ko\":\"Korean\",\"ko-kr\":\"Korean (South Korea)\",\"lv\":\"Latvian\",\"lv-lv\":\"Latvian (Latvia)\",\"lt\":\"Lithuanian\",\"lt-lt\":\"Lithuanian (Lithuania)\",\"mk\":\"Macedonian\",\"mk-mk\":\"Macedonian (Macedonia)\",\"ms\":\"Malay\",\"ms-bn\":\"Malay (Brunei)\",\"ms-my\":\"Malay (Malaysia)\",\"ml\":\"Malayalam\",\"ml-in\":\"Malayalam (India)\",\"mt\":\"Maltese\",\"mt-mt\":\"Maltese (Malta)\",\"mr\":\"Marathi\",\"mr-in\":\"Marathi (India)\",\"ne\":\"Nepali\",\"ne-in\":\"Nepali (India)\",\"ne-np\":\"Nepali (Nepal)\",\"no\":\"Norwegian\",\"no-no\":\"Norwegian (Norway)\",\"nb\":\"Norwegian Bokm\u00e5l\",\"nb-no\":\"Norwegian Bokm\u00e5l (Norway)\",\"nn\":\"Norwegian Nynorsk\",\"nn-no\":\"Norwegian Nynorsk (Norway)\",\"or\":\"Oriya\",\"or-in\":\"Oriya (India)\",\"om\":\"Oromo\",\"om-et\":\"Oromo (Ethiopia)\",\"om-ke\":\"Oromo (Kenya)\",\"pl\":\"Polish\",\"pl-pl\":\"Polish (Poland)\",\"pt\":\"Portuguese\",\"pt-br\":\"Portuguese (Brazil)\",\"pt-pt\":\"Portuguese (Portugal)\",\"pa\":\"Punjabi\",\"pa-in\":\"Punjabi (India)\",\"ro\":\"Romanian\",\"ro-ro\":\"Romanian (Romania)\",\"ru\":\"Russian\",\"ru-ru\":\"Russian (Russia)\",\"ru-ua\":\"Russian (Ukraine)\",\"sr\":\"Serbian\",\"sr-ba\":\"Serbian (Bosnia and Herzegovina)\",\"sr-me\":\"Serbian (Montenegro)\",\"sr-rs\":\"Serbian (Serbia)\",\"si\":\"Sinhala\",\"si-lk\":\"Sinhala (Sri Lanka)\",\"sk\":\"Slovak\",\"sk-sk\":\"Slovak (Slovakia)\",\"sl\":\"Slovenian\",\"sl-si\":\"Slovenian (Slovenia)\",\"so\":\"Somali\",\"so-dj\":\"Somali (Djibouti)\",\"so-et\":\"Somali (Ethiopia)\",\"so-ke\":\"Somali (Kenya)\",\"so-so\":\"Somali (Somalia)\",\"es\":\"Spanish\",\"es-ar\":\"Spanish (Argentina)\",\"es-bo\":\"Spanish (Bolivia)\",\"es-cl\":\"Spanish (Chile)\",\"es-co\":\"Spanish (Colombia)\",\"es-cr\":\"Spanish (Costa Rica)\",\"es-do\":\"Spanish (Dominican Republic)\",\"es-ec\":\"Spanish (Ecuador)\",\"es-sv\":\"Spanish (El Salvador)\",\"es-gt\":\"Spanish (Guatemala)\",\"es-hn\":\"Spanish (Honduras)\",\"es-mx\":\"Spanish (Mexico)\",\"es-ni\":\"Spanish (Nicaragua)\",\"es-pa\":\"Spanish (Panama)\",\"es-py\":\"Spanish (Paraguay)\",\"es-pe\":\"Spanish (Peru)\",\"es-pr\":\"Spanish (Puerto Rico)\",\"es-es\":\"Spanish (Spain)\",\"es-us\":\"Spanish (United States)\",\"es-uy\":\"Spanish (Uruguay)\",\"es-ve\":\"Spanish (Venezuela)\",\"sw\":\"Swahili\",\"sw-ke\":\"Swahili (Kenya)\",\"sw-tz\":\"Swahili (Tanzania)\",\"sv\":\"Swedish\",\"sv-fi\":\"Swedish (Finland)\",\"sv-se\":\"Swedish (Sweden)\",\"ta\":\"Tamil\",\"ta-in\":\"Tamil (India)\",\"te\":\"Telugu\",\"te-in\":\"Telugu (India)\",\"th\":\"Thai\",\"th-th\":\"Thai (Thailand)\",\"tr\":\"Turkish\",\"tr-tr\":\"Turkish (Turkey)\",\"uk\":\"Ukrainian\",\"uk-ua\":\"Ukrainian (Ukraine)\",\"ur\":\"Urdu\",\"ur-in\":\"Urdu (India)\",\"ur-pk\":\"Urdu (Pakistan)\",\"uz\":\"Uzbek\",\"uz-uz\":\"Uzbek (Uzbekistan)\",\"vi\":\"Vietnamese\",\"vi-vn\":\"Vietnamese (Vietnam)\",\"yo\":\"Yoruba\",\"yo-ng\":\"Yoruba (Nigeria)\",\"zu\":\"Zulu\",\"zu-za\":\"Zulu (South Africa)\"}","ssoInfo":{"logout":"","login":"","urlLoginParameters":""},"zipi.IPAEnabled":"false","Glass.learningPanelToken":"6c2052d1-4230-4a31-a4ac-bdcef5c76ec4","InstallService.productVersion":"12.1.3 GA","instrumentationConfig":{"scriptURL":"","gbt10":"","gbt15":"","productID":"","gbt17":"","ut30":"","enabled":false,"allowlist":false,"allowlistedValues":"","instanceId":"","productCodeType":"","key":"","whitelistedValues":"","ssmSubscriptionId":"","whitelist":false,"gbt20":"","productTitle":"","accountId":"","productPlanType":"","productCode":"","spaEnabled":false,"accountIdType":"","category":"","instanceGuid":"","subscriptionId":"","gbtlvlcd":"","productPlanName":""},"CAF.ptpfwenc":false,"featureRules":"{}"},"perspectives":[{"name":"login","context":{"content":{"format":"HTML","prompt":"true","Download":"false","pathRef":".public_folders\/Raportit\/91+Etuudet\/9105+L%C3%A4%C3%A4kkeet\/Sairausvakuutuksesta+korvattavat+l%C3%A4%C3%A4ketoimitukset+%289105RS001%29"}},"model":{"lensable":false,"context":{"NetPromoterScore":{"isEnabled":false}},"lang":"en","content":{"crossSiteDocUrl":"https:\/\/ibm.biz\/cognos_error_report_iframe","module":"caglass\/views\/LoginView"}}}],"requestMethod":"GET"}
+		</script>
+		<script src="js/config.min.js?v=3606521104"></script>
+		<script src="js/Login.min.js?v=3606521104"></script>
+		</script>		<style id="ba-splash-styles">
+		.ba-splash {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+.ba-splash .ba-splash-center {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+@keyframes ba-splash-rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.ba-splash-loading {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	border: 0;
+	animation-name: ba-splash-rotate;
+	animation-duration: 690ms;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-fill-mode: forwards;
+	width: 10.5rem;
+	height: 10.5rem;
+}
+
+.ba-splash-loading *,
+.ba-splash-loading *::before,
+.ba-splash-loading *::after {
+	box-sizing: inherit;
+}
+
+.ba-splash-loading svg circle {
+	animation-name: init-stroke;
+	animation-duration: 10ms;
+	animation-timing-function: cubic-bezier(0.2, 0, 0.38, 0.9);
+}
+
+.ba-splash-loading__svg {
+	fill: transparent;
+}
+
+.ba-splash-loading__svg circle {
+	stroke-width: 8;
+	stroke-linecap: butt;
+	stroke-dasharray: 240;
+}
+
+.ba-splash-loading__stroke {
+	stroke: #0f62fe;
+	stroke-dashoffset: 40;
+}
+		</style>
+		<link href="css/ca-ui-common/ca-ui-normalize.min.css?v=3606521104" rel="stylesheet">
+		<link href="css/ca-ui-common/ca-ui-carbon.min.css?v=3606521104" rel="stylesheet">
+		<link href="css/glass/glass.min.css?v=3606521104" rel="stylesheet">
+		<link href="css/ca_portal/ca-portal.css?v=3606521104" rel="stylesheet">
+		<link href="css/ca-content/content.css?v=3606521104" rel="stylesheet">
+		<link type="text/css" rel="stylesheet" href="v1/plugins/themes/current/css/palette.css?v=3606521104">
+		<link href="css/glass/login-mobile.min.css?v=3606521104" rel="stylesheet">
+		<link rel="apple-touch-icon" href="v1/plugins/themes/current/favicon?v=1790781418635" class="themeressource">
+		<link rel="icon" href="v1/plugins/themes/current/favicon?v=1790781418635" class="themeressource">
+		<link rel="shortcut icon" href="v1/plugins/themes/current/favicon?v=1790781418635" class="themeressource">
+		<script id="queryString_data" type="text/template">pathRef=.public_folders%2FRaportit%2F91%2BEtuudet%2F9105%2BL%25C3%25A4%25C3%25A4kkeet%2FSairausvakuutuksesta%2Bkorvattavat%2Bl%25C3%25A4%25C3%25A4ketoimitukset%2B%25289105RS001%2529&amp;format=HTML&amp;Download=false&amp;prompt=true</script>
+		<script src="js/LoginPrefetch.min.js?v=3606521104" defer></script>
+	</head>
+	<body class="wireframe glass">
+		<div id="main" class="pane"></div>		<div class="ba-splash">
+		<div class="ba-splash-center">
+			<div aria-atomic="true" aria-labelledby="loading-id-1" aria-live="assertive" class="ba-splash-loading"><label
+					id="loading-id-1" class="ba-splash-visually-hidden"></label><svg class="ba-splash-loading__svg"
+					viewBox="-75 -75 150 150">
+					<title></title>
+					<circle class="ba-splash-loading__stroke" cx="0" cy="0" r="37.5"></circle>
+				</svg></div>
+		</div>
+	</div>
+	</body>
+</html>

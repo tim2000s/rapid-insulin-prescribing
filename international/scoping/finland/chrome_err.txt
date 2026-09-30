@@ -1,0 +1,104 @@
+[36777:15068637:0930/161727.708192:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.712518:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.713112:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.713209:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.713279:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.713349:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161727.713442:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+Trying to load the allocator multiple times. This is *not* supported.
+[36777:15068637:0930/161729.771845:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161729.845019:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161729.874572:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161729.920756:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161729.949280:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161729.996948:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36777:15068637:0930/161730.025452:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36771:15068571:0930/161730.507840:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[36771:15068571:0930/161730.508357:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[36771:15068571:0930/161730.508392:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[36771:15068571:0930/161730.930310:ERROR:google_apis/gcm/engine/mcs_client.cc:702]   Error code: 401  Error message: Authentication Failed: wrong_secret
+[36771:15068571:0930/161730.930339:ERROR:google_apis/gcm/engine/mcs_client.cc:704] Failed to log in to GCM, resetting connection.
+[36777:15068637:0930/161732.136463:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670
+[36771:15068510:0930/161735.381730:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161735.381785:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161735.578781:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161735.597732:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161735.748271:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[37122:15070000:0930/161746.627990:VERBOSE1:chrome/updater/updater.cc:364] Version: 156.0.8067.0, opt, ARM_64, command line: /Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake-all --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[37122:15070000:0930/161746.628783:VERBOSE1:chrome/updater/updater.cc:367] OS version: 26.5.2, arch: arm64, System uptime (seconds): 549965, parent pid: 36771
+[37122:15070000:0930/161746.630903:VERBOSE1:chrome/updater/updater.cc:372] Available disk space in install directory (/Users/timstreet/Library/Application Support/Google/GoogleUpdater): 359385206784B (334.704GiB) / 994662584320B (926.352GiB)
+[37122:15070000:0930/161746.630933:VERBOSE1:chrome/updater/updater.cc:376] Available disk space in temporary directory (/var/folders/0p/_9w0w1px41s8lb2v80jh6n8c0000gn/T/): 359385206784B (334.704GiB) / 994662584320B (926.352GiB)
+[37122:15070000:0930/161746.631001:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[37124:15070004:0930/161746.640968:VERBOSE1:chrome/updater/updater.cc:364] Version: 156.0.8067.0, opt, ARM_64, command line: /Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=156.0.8067.0 --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[37124:15070004:0930/161746.641512:VERBOSE1:chrome/updater/updater.cc:367] OS version: 26.5.2, arch: arm64, System uptime (seconds): 549965, parent pid: 1
+[37124:15070004:0930/161746.643042:VERBOSE1:chrome/updater/updater.cc:372] Available disk space in install directory (/Users/timstreet/Library/Application Support/Google/GoogleUpdater): 359385202688B (334.704GiB) / 994662584320B (926.352GiB)
+[37124:15070004:0930/161746.643073:VERBOSE1:chrome/updater/updater.cc:376] Available disk space in temporary directory (/var/folders/0p/_9w0w1px41s8lb2v80jh6n8c0000gn/T/): 359385202688B (334.704GiB) / 994662584320B (926.352GiB)
+[37124:15070004:0930/161746.643136:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[37122:15070000:0930/161746.643558:VERBOSE1:chrome/updater/crash_reporter.cc:123] Crash handler launched and ready.
+[37122:15070000:0930/161746.644269:VERBOSE1:chrome/updater/crash_client.cc:108] Found 0 completed crash reports
+[37122:15070000:0930/161746.644333:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[37122:15070000:0930/161746.644425:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[37122:15070000:0930/161746.644437:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/consentOptions/Crashpad/settings.dat: No such file or directory (2)
+[37122:15070000:0930/161746.644446:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/Chrome for Testing/Crashpad/settings.dat: No such file or directory (2)
+[37122:15070000:0930/161746.644454:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/AndroidStudio2025.3.2/Crashpad/settings.dat: No such file or directory (2)
+[37122:15070000:0930/161746.644685:VERBOSE1:chrome/updater/updater.cc:105] Crash reporting initialized.
+[37122:15070012:0930/161746.644971:VERBOSE1:chrome/updater/app/app_wakeall.cc:58] Launching `/Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake`
+[37125:15070016:0930/161746.652289:VERBOSE1:chrome/updater/updater.cc:364] Version: 156.0.8067.0, opt, ARM_64, command line: /Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[37125:15070016:0930/161746.652757:VERBOSE1:chrome/updater/updater.cc:367] OS version: 26.5.2, arch: arm64, System uptime (seconds): 549965, parent pid: 37122
+[37125:15070016:0930/161746.654041:VERBOSE1:chrome/updater/updater.cc:372] Available disk space in install directory (/Users/timstreet/Library/Application Support/Google/GoogleUpdater): 359385202688B (334.704GiB) / 994662584320B (926.352GiB)
+[37125:15070016:0930/161746.654064:VERBOSE1:chrome/updater/updater.cc:376] Available disk space in temporary directory (/var/folders/0p/_9w0w1px41s8lb2v80jh6n8c0000gn/T/): 359385202688B (334.704GiB) / 994662584320B (926.352GiB)
+[37125:15070016:0930/161746.654109:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[37127:15070020:0930/161746.663270:VERBOSE1:chrome/updater/updater.cc:364] Version: 156.0.8067.0, opt, ARM_64, command line: /Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --crash-handler --database=/Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/Crashpad --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=156.0.8067.0 --handshake-fd=6 --enable-logging --vmodule=*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[37127:15070020:0930/161746.663839:VERBOSE1:chrome/updater/updater.cc:367] OS version: 26.5.2, arch: arm64, System uptime (seconds): 549965, parent pid: 1
+[37127:15070020:0930/161746.665513:VERBOSE1:chrome/updater/updater.cc:372] Available disk space in install directory (/Users/timstreet/Library/Application Support/Google/GoogleUpdater): 359385198592B (334.704GiB) / 994662584320B (926.352GiB)
+[37127:15070020:0930/161746.665551:VERBOSE1:chrome/updater/updater.cc:376] Available disk space in temporary directory (/var/folders/0p/_9w0w1px41s8lb2v80jh6n8c0000gn/T/): 359385198592B (334.704GiB) / 994662584320B (926.352GiB)
+[37127:15070020:0930/161746.665640:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS START event to the history log
+[37125:15070016:0930/161746.666046:VERBOSE1:chrome/updater/crash_reporter.cc:123] Crash handler launched and ready.
+[37125:15070016:0930/161746.666599:VERBOSE1:chrome/updater/crash_client.cc:108] Found 0 completed crash reports
+[37125:15070016:0930/161746.666660:VERBOSE1:chrome/updater/crash_client.cc:132] Found 0 pending crash reports
+[37125:15070016:0930/161746.666727:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/RLZ/Crashpad/settings.dat: No such file or directory (2)
+[37125:15070016:0930/161746.666738:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/consentOptions/Crashpad/settings.dat: No such file or directory (2)
+[37125:15070016:0930/161746.666746:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/Chrome for Testing/Crashpad/settings.dat: No such file or directory (2)
+[37125:15070016:0930/161746.666752:ERROR:third_party/crashpad/crashpad/util/file/file_io_posix.cc:145] open /Users/timstreet/Library/Application Support/Google/AndroidStudio2025.3.2/Crashpad/settings.dat: No such file or directory (2)
+[37125:15070016:0930/161746.666937:VERBOSE1:chrome/updater/updater.cc:105] Crash reporting initialized.
+[37125:15070016:0930/161746.667101:VERBOSE1:chrome/updater/ipc/update_service_internal_proxy_mojo.cc:61] Run
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[36771:15068571:0930/161754.531427:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36771:15068510:0930/161800.103912:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[37125:15070016:0930/161803.067177:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[37125:15070016:0930/161803.067608:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[37125:15070016:0930/161803.067627:VERBOSE1:chrome/updater/updater.cc:409] UpdaterMain (--wake) returned 0.
+[37122:15070012:0930/161803.094642:VERBOSE1:chrome/updater/app/app_wakeall.cc:68] `/Users/timstreet/Library/Application Support/Google/GoogleUpdater/156.0.8067.0/GoogleUpdater.app/Contents/MacOS/GoogleUpdater --wake` exited 0
+[37122:15070000:0930/161803.094842:VERBOSE1:chrome/updater/app/app.cc:52] Shutdown: 0
+[37122:15070000:0930/161803.095331:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[37122:15070000:0930/161803.095353:VERBOSE1:chrome/updater/updater.cc:409] UpdaterMain (--wake-all) returned 0.
+[36771:15068510:0930/161804.700363:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[37127:15070020:0930/161813.081749:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[37127:15070020:0930/161813.081799:VERBOSE1:chrome/updater/updater.cc:409] UpdaterMain (--crash-handler) returned 0.
+[37124:15070004:0930/161813.083418:VERBOSE2:chrome/updater/event_history.cc:266] Emitted a UPDATER_PROCESS END event to the history log
+[37124:15070004:0930/161813.083451:VERBOSE1:chrome/updater/updater.cc:409] UpdaterMain (--crash-handler) returned 0.
+[36771:15068510:0930/161822.645463:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068571:0930/161838.951741:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36771:15068510:0930/161851.663872:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161851.819296:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161854.404852:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161858.917940:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161904.536886:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161906.320253:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161914.525919:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161922.625104:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161929.218481:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161935.567944:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161936.683854:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161936.687507:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161936.687546:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:195] Invalid first_paint 0.846 s for first_meaningful_paint 0.312 s
+[36771:15068510:0930/161938.041222:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161938.041299:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:195] Invalid first_paint 0.846 s for first_meaningful_paint 0.312 s
+[36771:15068510:0930/161938.107429:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:88] Invalid response_start 0.633 s for parse_start 0.02 s
+[36771:15068510:0930/161938.107478:ERROR:components/page_load_metrics/browser/page_load_metrics_update_dispatcher.cc:195] Invalid first_paint 0.846 s for first_meaningful_paint 0.312 s
+[36771:15068588:0930/161938.229468:ERROR:base/process/process_mac.cc:53] task_policy_set TASK_CATEGORY_POLICY: (os/kern) invalid argument (4)
+[36771:15068588:0930/161938.229527:ERROR:base/process/process_mac.cc:98] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)
+Trying to load the allocator multiple times. This is *not* supported.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1790781627.590095 15072950 environment.cc:526] Selected adapter: Apple M4 Pro, arch=metal-3, vendor=apple, backend=Metal, adapterType=Integrated GPU
+I0000 00:00:1790781627.592694 15072961 environment.cc:526] Selected adapter: Apple M4 Pro, arch=metal-3, vendor=apple, backend=Metal, adapterType=Integrated GPU

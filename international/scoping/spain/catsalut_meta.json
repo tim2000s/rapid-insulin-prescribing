@@ -1,0 +1,1489 @@
+{
+  "id" : "thrd-jj3r",
+  "name" : "Receptes facturades al Servei Català de la Salut",
+  "assetType" : "dataset",
+  "attribution" : "Servei Català de la Salut (SCS)",
+  "attributionLink" : "https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/llicencies/",
+  "averageRating" : 0,
+  "category" : "Salut",
+  "createdAt" : 1614946627,
+  "description" : "Informació sobre les receptes dispensades en oficines de farmàcies, facturades al CatSalut, segons estructura territorial de regió sanitària, agrupacions terapèutiques i dades demogràfiques d’edat i sexe. S’hi inclouen les receptes mèdiques i les ordres de dispensació indicades per les infermeres.\n\nPer als casos en què l'objecte de la prescripció o indicació és un producte sanitari o un producte dietoterapèutic, les variables corresponents al sistema de classificació ATC tenen el valor \"Sense especificar\" en la descripció i el valor \"SES\" en el codi. Cal destacar que en els mesos d’abril, maig i juny de 2020 estan incloses també en aquest apartat, de manera excepcional, les dispensacions de “primera mascareta per assegurat”, a càrrec de CatSalut, emmarcades en la campanya Mascareta/Salut. Això fa que el volum d’activitat sigui especialment elevat en aquest període.\n\nAquestes dades s'actualitzen mensualment amb una demora de dos mesos, que és el termini requerit per al tancament de la informació mensual en el sistema font de les dades.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 4302,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "SEE_TERMS_OF_USE",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 2004618,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1614967396,
+  "publicationGroup" : 1358700,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1765789417,
+  "rowsUpdatedBy" : "76mf-34jr",
+  "tableId" : 1358831,
+  "totalTimesRated" : 0,
+  "viewCount" : 13581,
+  "viewLastModified" : 1789640448,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1664972157,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 1238474,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1664972157,
+    "targetAudience" : "public",
+    "workflowId" : 182,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1664972158,
+      "failureCount" : 0,
+      "startedAt" : 1664972157,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "76mf-34jr",
+      "displayName" : "Álex Artigas"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 18638266,
+    "name" : "any",
+    "dataTypeName" : "text",
+    "description" : "Any a què fa referència el recompte de receptes facturades.",
+    "fieldName" : "any",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319606,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "2025",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2024",
+        "count" : "1106452"
+      }, {
+        "item" : "2025",
+        "count" : "929901"
+      }, {
+        "item" : "2023",
+        "count" : "757685"
+      }, {
+        "item" : "2022",
+        "count" : "747429"
+      }, {
+        "item" : "2018",
+        "count" : "734803"
+      }, {
+        "item" : "2017",
+        "count" : "734645"
+      }, {
+        "item" : "2019",
+        "count" : "733685"
+      }, {
+        "item" : "2016",
+        "count" : "733130"
+      }, {
+        "item" : "2021",
+        "count" : "728902"
+      }, {
+        "item" : "2020",
+        "count" : "715289"
+      } ],
+      "smallest" : "2016",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 18638267,
+    "name" : "mes",
+    "dataTypeName" : "text",
+    "description" : "Mes a què fa referència el recompte de receptes facturades.",
+    "fieldName" : "mes",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319607,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "12",
+      "null" : "0",
+      "top" : [ {
+        "item" : "05",
+        "count" : "680345"
+      }, {
+        "item" : "03",
+        "count" : "680325"
+      }, {
+        "item" : "10",
+        "count" : "679239"
+      }, {
+        "item" : "07",
+        "count" : "677722"
+      }, {
+        "item" : "06",
+        "count" : "676079"
+      }, {
+        "item" : "09",
+        "count" : "675557"
+      }, {
+        "item" : "01",
+        "count" : "675190"
+      }, {
+        "item" : "04",
+        "count" : "673159"
+      }, {
+        "item" : "02",
+        "count" : "672640"
+      }, {
+        "item" : "08",
+        "count" : "667725"
+      }, {
+        "item" : "11",
+        "count" : "584522"
+      }, {
+        "item" : "12",
+        "count" : "579418"
+      } ],
+      "smallest" : "01",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638250,
+    "name" : "codi de la regió sanitària",
+    "dataTypeName" : "text",
+    "description" : "Codi de la regió sanitària de l'equip d'atenció primària que té assignat la persona a qui s'ha expedit la recepta.",
+    "fieldName" : "codi_regio_sanitaria",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319076,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "SE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "64",
+        "count" : "1137819"
+      }, {
+        "item" : "78",
+        "count" : "1136197"
+      }, {
+        "item" : "62",
+        "count" : "1082681"
+      }, {
+        "item" : "67",
+        "count" : "1042403"
+      }, {
+        "item" : "61",
+        "count" : "968112"
+      }, {
+        "item" : "63",
+        "count" : "860481"
+      }, {
+        "item" : "71",
+        "count" : "650989"
+      }, {
+        "item" : "76",
+        "count" : "246921"
+      }, {
+        "item" : "79",
+        "count" : "236656"
+      }, {
+        "item" : "75",
+        "count" : "226047"
+      }, {
+        "item" : "70",
+        "count" : "199882"
+      }, {
+        "item" : "SE",
+        "count" : "119254"
+      }, {
+        "item" : "AL",
+        "count" : "14479"
+      } ],
+      "smallest" : "61",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638251,
+    "name" : "regió sanitària",
+    "dataTypeName" : "text",
+    "description" : "Regió sanitària de l'equip d'atenció primària que té assignat la persona a qui s'ha expedit la recepta.",
+    "fieldName" : "regio_sanitaria",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319081,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "TERRES DE L'EBRE",
+      "null" : "0",
+      "top" : [ {
+        "item" : "GIRONA",
+        "count" : "1137819"
+      }, {
+        "item" : "BARCELONA",
+        "count" : "1136197"
+      }, {
+        "item" : "CAMP DE TARRAGONA",
+        "count" : "1082681"
+      }, {
+        "item" : "CATALUNYA CENTRAL",
+        "count" : "1042403"
+      }, {
+        "item" : "LLEIDA",
+        "count" : "968112"
+      }, {
+        "item" : "TERRES DE L'EBRE",
+        "count" : "860481"
+      }, {
+        "item" : "ALT PIRINEU i ARAN",
+        "count" : "650989"
+      }, {
+        "item" : "BARCELONA METROPOLITANA NORD",
+        "count" : "246921"
+      }, {
+        "item" : "BARCELONA CIUTAT",
+        "count" : "236656"
+      }, {
+        "item" : "BARCELONA METROPOLITANA SUD",
+        "count" : "226047"
+      }, {
+        "item" : "PENEDÈS",
+        "count" : "199882"
+      }, {
+        "item" : "SENSE ESPECIFICAR",
+        "count" : "119254"
+      }, {
+        "item" : "ALTRES",
+        "count" : "14479"
+      } ],
+      "smallest" : "ALT PIRINEU i ARAN",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638252,
+    "name" : "grup d'edat",
+    "dataTypeName" : "text",
+    "description" : "Grup d'edat de les persones a qui s'ha expedit les receptes.",
+    "fieldName" : "grup_edat",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319082,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "Sense especificar",
+      "null" : "0",
+      "top" : [ {
+        "item" : "65-69 anys",
+        "count" : "249950"
+      }, {
+        "item" : "60-64 anys",
+        "count" : "249299"
+      }, {
+        "item" : "70-74 anys",
+        "count" : "248805"
+      }, {
+        "item" : "55-59 anys",
+        "count" : "247560"
+      }, {
+        "item" : "75-79 anys",
+        "count" : "245133"
+      }, {
+        "item" : "Més de 84",
+        "count" : "244601"
+      }, {
+        "item" : "50-54 anys",
+        "count" : "243725"
+      }, {
+        "item" : "18-19 anys",
+        "count" : "241459"
+      }, {
+        "item" : "65-69",
+        "count" : "237896"
+      }, {
+        "item" : "70-74",
+        "count" : "236814"
+      }, {
+        "item" : "60-64",
+        "count" : "236527"
+      }, {
+        "item" : "45-49 anys",
+        "count" : "235949"
+      }, {
+        "item" : "Més de 84 anys",
+        "count" : "234992"
+      }, {
+        "item" : "80-84 anys",
+        "count" : "234733"
+      }, {
+        "item" : "55-59",
+        "count" : "234605"
+      }, {
+        "item" : "16-17 anys",
+        "count" : "233128"
+      }, {
+        "item" : "50-54",
+        "count" : "231017"
+      }, {
+        "item" : "75-79",
+        "count" : "230638"
+      }, {
+        "item" : "80-84",
+        "count" : "225862"
+      }, {
+        "item" : "40-44 anys",
+        "count" : "224469"
+      } ],
+      "smallest" : "0-1 any",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638253,
+    "name" : "sexe",
+    "dataTypeName" : "text",
+    "description" : "Sexe de les persones a qui s'ha expedit les receptes.",
+    "fieldName" : "sexe",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319083,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "Sense especificar",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Dona",
+        "count" : "4031060"
+      }, {
+        "item" : "Home",
+        "count" : "3846268"
+      }, {
+        "item" : "Sense especificar",
+        "count" : "36273"
+      }, {
+        "item" : "Altres",
+        "count" : "8320"
+      } ],
+      "smallest" : "Altres",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638254,
+    "name" : "codi del grup ATC nivell 1",
+    "dataTypeName" : "text",
+    "description" : "Codi del grup de classificació en el nivell 1 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "codi_atc_1",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319084,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "V",
+      "null" : "0",
+      "top" : [ {
+        "item" : "N",
+        "count" : "1409682"
+      }, {
+        "item" : "A",
+        "count" : "1124012"
+      }, {
+        "item" : "C",
+        "count" : "1009718"
+      }, {
+        "item" : "J",
+        "count" : "708674"
+      }, {
+        "item" : "D",
+        "count" : "596964"
+      }, {
+        "item" : "S",
+        "count" : "536637"
+      }, {
+        "item" : "R",
+        "count" : "522947"
+      }, {
+        "item" : "B",
+        "count" : "390347"
+      }, {
+        "item" : "G",
+        "count" : "388725"
+      }, {
+        "item" : "M",
+        "count" : "350304"
+      }, {
+        "item" : "L",
+        "count" : "273807"
+      }, {
+        "item" : "H",
+        "count" : "269105"
+      }, {
+        "item" : "P",
+        "count" : "177505"
+      }, {
+        "item" : "V",
+        "count" : "74143"
+      }, {
+        "item" : "SES",
+        "count" : "43538"
+      }, {
+        "item" : "F",
+        "count" : "34745"
+      }, {
+        "item" : "O",
+        "count" : "10950"
+      }, {
+        "item" : "ALT",
+        "count" : "118"
+      } ],
+      "smallest" : "A",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638255,
+    "name" : "grup ATC nivell 1",
+    "dataTypeName" : "text",
+    "description" : "Descripció del grup de classificació en el nivell 1 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "atc_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319085,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "VARIOS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "SISTEMA NERVIOSO",
+        "count" : "1409682"
+      }, {
+        "item" : "TRACTO ALIMENTARIO Y METABOLISMO",
+        "count" : "1124012"
+      }, {
+        "item" : "SISTEMA CARDIOVASCULAR",
+        "count" : "1009718"
+      }, {
+        "item" : "ANTIINFECCIOSOS PARA USO SISTEMICO",
+        "count" : "708674"
+      }, {
+        "item" : "DERMATOLOGICOS",
+        "count" : "596964"
+      }, {
+        "item" : "ORGANOS DE LOS SENTIDOS",
+        "count" : "536637"
+      }, {
+        "item" : "SISTEMA RESPIRATORIO",
+        "count" : "522947"
+      }, {
+        "item" : "SANGRE Y ORGANOS HEMATOPOYETICOS",
+        "count" : "390347"
+      }, {
+        "item" : "SISTEMA GENITOURINARIO Y HORMONAS SEXUALES",
+        "count" : "388725"
+      }, {
+        "item" : "SISTEMA MUSCULOESQUELETICO",
+        "count" : "350304"
+      }, {
+        "item" : "AGENTES ANTINEOPLASICOS E INMUNOMODULADORES",
+        "count" : "273807"
+      }, {
+        "item" : "PREPARADOS HORMONALES SISTEMICOS, EXCLUYENDO HORMONAS SEXUALES E INSULINAS",
+        "count" : "269105"
+      }, {
+        "item" : "PRODUCTOS ANTIPARASITARIOS, INSECTICIDAS Y REPELENTES",
+        "count" : "177505"
+      }, {
+        "item" : "Sense especificar",
+        "count" : "89233"
+      }, {
+        "item" : "VARIOS",
+        "count" : "74143"
+      }, {
+        "item" : "Altres",
+        "count" : "118"
+      } ],
+      "smallest" : "AGENTES ANTINEOPLASICOS E INMUNOMODULADORES",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638256,
+    "name" : "codi del grup ATC nivell 2",
+    "dataTypeName" : "text",
+    "description" : "Codi del grup de classificació en el nivell 2 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "codi_atc_2",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319086,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "V08",
+      "null" : "0",
+      "top" : [ {
+        "item" : "J01",
+        "count" : "507812"
+      }, {
+        "item" : "N05",
+        "count" : "428730"
+      }, {
+        "item" : "S01",
+        "count" : "406747"
+      }, {
+        "item" : "A10",
+        "count" : "317221"
+      }, {
+        "item" : "R03",
+        "count" : "299287"
+      }, {
+        "item" : "N02",
+        "count" : "292521"
+      }, {
+        "item" : "N03",
+        "count" : "211333"
+      }, {
+        "item" : "C09",
+        "count" : "201488"
+      }, {
+        "item" : "N06",
+        "count" : "184611"
+      }, {
+        "item" : "M01",
+        "count" : "182587"
+      }, {
+        "item" : "D07",
+        "count" : "180527"
+      }, {
+        "item" : "G03",
+        "count" : "174160"
+      }, {
+        "item" : "B01",
+        "count" : "166732"
+      }, {
+        "item" : "B03",
+        "count" : "154966"
+      }, {
+        "item" : "C07",
+        "count" : "153869"
+      }, {
+        "item" : "C01",
+        "count" : "153802"
+      }, {
+        "item" : "C10",
+        "count" : "150011"
+      }, {
+        "item" : "A03",
+        "count" : "136638"
+      }, {
+        "item" : "C03",
+        "count" : "132069"
+      }, {
+        "item" : "G04",
+        "count" : "132010"
+      } ],
+      "smallest" : "A01",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638257,
+    "name" : "grup ATC nivell 2",
+    "dataTypeName" : "text",
+    "description" : "Descripció del grup de classificació en el nivell 2 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "atc_2",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319087,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "VITAMINAS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "ANTIBACTERIANOS PARA USO SISTEMICO",
+        "count" : "507812"
+      }, {
+        "item" : "PSICOLEPTICOS",
+        "count" : "428730"
+      }, {
+        "item" : "OFTALMOLOGICOS",
+        "count" : "406747"
+      }, {
+        "item" : "FARMACOS USADOS EN DIABETES",
+        "count" : "317221"
+      }, {
+        "item" : "AGENTES CONTRA PADECIMIENTOS OBSTRUCTIVOS DE LAS VIAS RESPIRATORIAS",
+        "count" : "299287"
+      }, {
+        "item" : "ANALGESICOS",
+        "count" : "292521"
+      }, {
+        "item" : "ANTIEPILEPTICOS",
+        "count" : "211333"
+      }, {
+        "item" : "AGENTES QUE ACTUAN SOBRE EL SISTEMA RENINA-ANGIOTENSINA",
+        "count" : "201488"
+      }, {
+        "item" : "PSICOANALEPTICOS",
+        "count" : "184611"
+      }, {
+        "item" : "PRODUCTOS ANTIINFLAMATORIOS Y ANTIRREUMATICOS",
+        "count" : "182587"
+      }, {
+        "item" : "PREPARADOS DERMATOLOGICOS CON CORTICOSTEROIDES",
+        "count" : "180527"
+      }, {
+        "item" : "HORMONAS SEXUALES Y MODULADORES DEL SISTEMA GENITAL",
+        "count" : "174160"
+      }, {
+        "item" : "AGENTES ANTITROMBOTICOS",
+        "count" : "166732"
+      }, {
+        "item" : "PREPARADOS ANTIANEMICOS",
+        "count" : "154966"
+      }, {
+        "item" : "AGENTES BETA-BLOQUEANTES",
+        "count" : "153869"
+      }, {
+        "item" : "TERAPIA CARDIACA",
+        "count" : "153802"
+      }, {
+        "item" : "AGENTES MODIFICADORES DE LOS LIPIDOS",
+        "count" : "150011"
+      }, {
+        "item" : "AGENTES CONTRA PADECIMIENTOS FUNCIONALES DEL ESTOMAGO E INTESTINO",
+        "count" : "136638"
+      }, {
+        "item" : "DIURETICOS",
+        "count" : "132069"
+      }, {
+        "item" : "PRODUCTOS DE USO UROLOGICO",
+        "count" : "132010"
+      } ],
+      "smallest" : "AGENTES ANABOLICOS PARA USO SISTEMICO",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638258,
+    "name" : "codi del grup ATC nivell 3",
+    "dataTypeName" : "text",
+    "description" : "Codi del grup de classificació en el nivell 3 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "codi_atc_3",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319088,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "V08A",
+      "null" : "0",
+      "top" : [ {
+        "item" : "N05A",
+        "count" : "261533"
+      }, {
+        "item" : "N03A",
+        "count" : "211333"
+      }, {
+        "item" : "A10B",
+        "count" : "197075"
+      }, {
+        "item" : "B01A",
+        "count" : "166732"
+      }, {
+        "item" : "M01A",
+        "count" : "160014"
+      }, {
+        "item" : "J01C",
+        "count" : "154303"
+      }, {
+        "item" : "D07A",
+        "count" : "142563"
+      }, {
+        "item" : "R06A",
+        "count" : "130952"
+      }, {
+        "item" : "N02A",
+        "count" : "125063"
+      }, {
+        "item" : "A10A",
+        "count" : "120146"
+      }, {
+        "item" : "L04A",
+        "count" : "115850"
+      }, {
+        "item" : "N02B",
+        "count" : "115060"
+      }, {
+        "item" : "R03A",
+        "count" : "110772"
+      }, {
+        "item" : "S01E",
+        "count" : "110323"
+      }, {
+        "item" : "C10A",
+        "count" : "107753"
+      }, {
+        "item" : "A02B",
+        "count" : "107002"
+      }, {
+        "item" : "N06A",
+        "count" : "105886"
+      }, {
+        "item" : "J01D",
+        "count" : "104188"
+      }, {
+        "item" : "C07A",
+        "count" : "94575"
+      }, {
+        "item" : "B03A",
+        "count" : "86767"
+      } ],
+      "smallest" : "A01A",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638259,
+    "name" : "grup ATC nivell 3",
+    "dataTypeName" : "text",
+    "description" : "Descripció del grup de classificació en el nivell 3 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "atc_3",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319089,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "VITAMINAS A Y D, INCLUYENDO COMBINACIONES DE LAS DOS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "ANTIPSICOTICOS",
+        "count" : "261533"
+      }, {
+        "item" : "ANTIEPILEPTICOS",
+        "count" : "211333"
+      }, {
+        "item" : "FARMACOS HIPOGLUCEMIANTES EXCLUYENDO INSULINAS",
+        "count" : "197075"
+      }, {
+        "item" : "AGENTES ANTITROMBOTICOS",
+        "count" : "166732"
+      }, {
+        "item" : "PRODUCTOS ANTIINFLAMATORIOS Y ANTIRREUMATICOS NO ESTEROIDEOS",
+        "count" : "160014"
+      }, {
+        "item" : "ANTIBACTERIANOS BETALACTAMICOS, PENICILINAS",
+        "count" : "154303"
+      }, {
+        "item" : "CORTICOSTEROIDES, MONOFARMACOS",
+        "count" : "142563"
+      }, {
+        "item" : "ANTIHISTAMINICOS PARA USO SISTEMICO",
+        "count" : "130952"
+      }, {
+        "item" : "OPIOIDES",
+        "count" : "125063"
+      }, {
+        "item" : "ANTIINFECCIOSOS",
+        "count" : "124699"
+      }, {
+        "item" : "INSULINAS Y ANALOGOS",
+        "count" : "120146"
+      }, {
+        "item" : "INMUNOSUPRESORES",
+        "count" : "115850"
+      }, {
+        "item" : "OTROS ANALGESICOS Y ANTIPIRETICOS",
+        "count" : "115060"
+      }, {
+        "item" : "ADRENERGICOS, INHALATORIOS",
+        "count" : "110772"
+      }, {
+        "item" : "PREPARADOS CONTRA EL GLAUCOMA Y MIOTICOS1)",
+        "count" : "110323"
+      }, {
+        "item" : "AGENTES MODIFICADORES DE LOS LIPIDOS, MONOFARMACOS",
+        "count" : "107753"
+      }, {
+        "item" : "AGENTES CONTRA LA ULCERA PEPTICA Y EL REFLUJO GASTROESOFAGICO (RGE/GORD)",
+        "count" : "107002"
+      }, {
+        "item" : "ANTIDEPRESIVOS",
+        "count" : "105886"
+      }, {
+        "item" : "OTROS ANTIBACTERIANOS BETALACTAMICOS",
+        "count" : "104188"
+      }, {
+        "item" : "AGENTES BETA-BLOQUEANTES",
+        "count" : "94575"
+      } ],
+      "smallest" : "ACIDO ASCORBICO (VITAMINA C), INCLUYENDO COMBINACIONES",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638260,
+    "name" : "codi del grup ATC nivell 4",
+    "dataTypeName" : "text",
+    "description" : "Codi del grup de classificació en el nivell 4 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "codi_atc_4",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319090,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "V08AB",
+      "null" : "0",
+      "top" : [ {
+        "item" : "N02BE",
+        "count" : "45631"
+      }, {
+        "item" : "M01AE",
+        "count" : "45558"
+      }, {
+        "item" : "J01CA",
+        "count" : "44546"
+      }, {
+        "item" : "R06AX",
+        "count" : "44426"
+      }, {
+        "item" : "J01CR",
+        "count" : "44379"
+      }, {
+        "item" : "H02AB",
+        "count" : "44126"
+      }, {
+        "item" : "R03AC",
+        "count" : "44105"
+      }, {
+        "item" : "D07AC",
+        "count" : "43638"
+      }, {
+        "item" : "J01FA",
+        "count" : "43611"
+      }, {
+        "item" : "SES",
+        "count" : "43538"
+      }, {
+        "item" : "R01AD",
+        "count" : "43445"
+      }, {
+        "item" : "D06AX",
+        "count" : "43097"
+      }, {
+        "item" : "R06AE",
+        "count" : "43092"
+      }, {
+        "item" : "D01AC",
+        "count" : "42870"
+      }, {
+        "item" : "A02BC",
+        "count" : "42862"
+      }, {
+        "item" : "S01AA",
+        "count" : "42764"
+      }, {
+        "item" : "R03AK",
+        "count" : "42744"
+      }, {
+        "item" : "R03DC",
+        "count" : "42588"
+      }, {
+        "item" : "R03BA",
+        "count" : "42324"
+      }, {
+        "item" : "N03AX",
+        "count" : "42250"
+      } ],
+      "smallest" : "A01AB",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638261,
+    "name" : "grup ATC nivell 4",
+    "dataTypeName" : "text",
+    "description" : "Descripció del grup de classificació en el nivell 4 del sistema ATC de la substància o medicament receptat.",
+    "fieldName" : "atc_4",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 12319091,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "Zinc",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Corticosteroides y antiinfecciosos en combinacion",
+        "count" : "114365"
+      }, {
+        "item" : "Derivados de la benzodiazepina",
+        "count" : "111200"
+      }, {
+        "item" : "Antibioticos",
+        "count" : "107185"
+      }, {
+        "item" : "Anticolinergicos",
+        "count" : "66796"
+      }, {
+        "item" : "Agonistas selectivos de receptores beta-2 adrenergicos",
+        "count" : "64472"
+      }, {
+        "item" : "Corticosteroides",
+        "count" : "64353"
+      }, {
+        "item" : "Biguanidas",
+        "count" : "52390"
+      }, {
+        "item" : "Sulfonamidas, monofarmacos",
+        "count" : "49271"
+      }, {
+        "item" : "Glucocorticoides",
+        "count" : "47420"
+      }, {
+        "item" : "Anilidas",
+        "count" : "45631"
+      }, {
+        "item" : "Derivados del acido propionico",
+        "count" : "45558"
+      }, {
+        "item" : "Penicilinas con espectro ampliado",
+        "count" : "44546"
+      }, {
+        "item" : "Otros antihistaminicos para uso sistemico",
+        "count" : "44426"
+      }, {
+        "item" : "Combinaciones de penicilinas, incluyendo inhibidores de la betalactamasa",
+        "count" : "44379"
+      }, {
+        "item" : "Corticosteroides potentes (grupo III)",
+        "count" : "43638"
+      }, {
+        "item" : "Macrolidos",
+        "count" : "43611"
+      }, {
+        "item" : "Sense especificar",
+        "count" : "43538"
+      }, {
+        "item" : "Otros antibioticos para uso topico",
+        "count" : "43097"
+      }, {
+        "item" : "Derivados de la piperazina",
+        "count" : "43092"
+      }, {
+        "item" : "Derivados imidazolicos y triazolicos",
+        "count" : "42870"
+      } ],
+      "smallest" : "Acido aminosalicilico y agentes similares",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : { }
+  }, {
+    "id" : 18638262,
+    "name" : "nombre de receptes",
+    "dataTypeName" : "number",
+    "description" : "Nombre de receptes facturades.",
+    "fieldName" : "nombre_receptes",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 12319092,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "146808",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "1003098"
+      }, {
+        "item" : "2",
+        "count" : "654048"
+      }, {
+        "item" : "3",
+        "count" : "458345"
+      }, {
+        "item" : "4",
+        "count" : "360882"
+      }, {
+        "item" : "5",
+        "count" : "284997"
+      }, {
+        "item" : "6",
+        "count" : "245676"
+      }, {
+        "item" : "7",
+        "count" : "206194"
+      }, {
+        "item" : "8",
+        "count" : "182923"
+      }, {
+        "item" : "9",
+        "count" : "158713"
+      }, {
+        "item" : "10",
+        "count" : "145580"
+      }, {
+        "item" : "11",
+        "count" : "128774"
+      }, {
+        "item" : "12",
+        "count" : "118595"
+      }, {
+        "item" : "13",
+        "count" : "107703"
+      }, {
+        "item" : "14",
+        "count" : "98948"
+      }, {
+        "item" : "15",
+        "count" : "92078"
+      }, {
+        "item" : "16",
+        "count" : "85631"
+      }, {
+        "item" : "17",
+        "count" : "79163"
+      }, {
+        "item" : "18",
+        "count" : "74819"
+      }, {
+        "item" : "19",
+        "count" : "69772"
+      }, {
+        "item" : "20",
+        "count" : "66285"
+      } ],
+      "smallest" : "0",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : {
+      "decimalSeparator" : ",",
+      "groupSeparator" : ".",
+      "align" : "right"
+    }
+  }, {
+    "id" : 18638263,
+    "name" : "nombre d'envasos",
+    "dataTypeName" : "number",
+    "description" : "Nombre d'envasos facturats.",
+    "fieldName" : "nombre_envasos",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 12319079,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "146808",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "1002738"
+      }, {
+        "item" : "2",
+        "count" : "653909"
+      }, {
+        "item" : "3",
+        "count" : "458221"
+      }, {
+        "item" : "4",
+        "count" : "360993"
+      }, {
+        "item" : "5",
+        "count" : "284977"
+      }, {
+        "item" : "6",
+        "count" : "245656"
+      }, {
+        "item" : "7",
+        "count" : "206210"
+      }, {
+        "item" : "8",
+        "count" : "182988"
+      }, {
+        "item" : "9",
+        "count" : "158723"
+      }, {
+        "item" : "10",
+        "count" : "145602"
+      }, {
+        "item" : "11",
+        "count" : "128761"
+      }, {
+        "item" : "12",
+        "count" : "118643"
+      }, {
+        "item" : "13",
+        "count" : "107683"
+      }, {
+        "item" : "14",
+        "count" : "98962"
+      }, {
+        "item" : "15",
+        "count" : "92076"
+      }, {
+        "item" : "16",
+        "count" : "85691"
+      }, {
+        "item" : "17",
+        "count" : "79158"
+      }, {
+        "item" : "18",
+        "count" : "74821"
+      }, {
+        "item" : "19",
+        "count" : "69790"
+      }, {
+        "item" : "20",
+        "count" : "66316"
+      } ],
+      "smallest" : "0",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : {
+      "decimalSeparator" : ",",
+      "groupSeparator" : ".",
+      "align" : "right"
+    }
+  }, {
+    "id" : 18638264,
+    "name" : "import íntegre",
+    "dataTypeName" : "number",
+    "description" : "Import de les receptes facturades a preu de venda al públic.",
+    "fieldName" : "import_integre",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 12319078,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "3189275.9",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2.5",
+        "count" : "45944"
+      }, {
+        "item" : "5.0",
+        "count" : "29395"
+      }, {
+        "item" : "3.12",
+        "count" : "22200"
+      }, {
+        "item" : "7.5",
+        "count" : "14338"
+      }, {
+        "item" : "6.24",
+        "count" : "13127"
+      }, {
+        "item" : "10.0",
+        "count" : "12545"
+      }, {
+        "item" : "3.59",
+        "count" : "9364"
+      }, {
+        "item" : "9.36",
+        "count" : "8651"
+      }, {
+        "item" : "3.98",
+        "count" : "8642"
+      }, {
+        "item" : "15.0",
+        "count" : "8044"
+      }, {
+        "item" : "2.83",
+        "count" : "7703"
+      }, {
+        "item" : "12.5",
+        "count" : "7040"
+      }, {
+        "item" : "7.18",
+        "count" : "6104"
+      }, {
+        "item" : "3.36",
+        "count" : "5948"
+      }, {
+        "item" : "4.64",
+        "count" : "5931"
+      }, {
+        "item" : "4.4",
+        "count" : "5925"
+      }, {
+        "item" : "6.15",
+        "count" : "5837"
+      }, {
+        "item" : "6.03",
+        "count" : "5726"
+      }, {
+        "item" : "2.25",
+        "count" : "5523"
+      }, {
+        "item" : "12.48",
+        "count" : "5487"
+      } ],
+      "smallest" : "0.0",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : {
+      "decimalSeparator" : ",",
+      "precision" : "2",
+      "groupSeparator" : ".",
+      "align" : "right"
+    }
+  }, {
+    "id" : 18638265,
+    "name" : "import aportació CatSalut",
+    "dataTypeName" : "number",
+    "description" : "Import de l'aportació del CatSalut.",
+    "fieldName" : "aportacio_catsalut",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 12319077,
+    "cachedContents" : {
+      "non_null" : "7921921",
+      "largest" : "3068262.82",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2.25",
+        "count" : "19201"
+      }, {
+        "item" : "1.5",
+        "count" : "14610"
+      }, {
+        "item" : "4.5",
+        "count" : "13087"
+      }, {
+        "item" : "2.5",
+        "count" : "11910"
+      }, {
+        "item" : "2.81",
+        "count" : "10762"
+      }, {
+        "item" : "3.0",
+        "count" : "8294"
+      }, {
+        "item" : "1.7",
+        "count" : "7433"
+      }, {
+        "item" : "3.12",
+        "count" : "6619"
+      }, {
+        "item" : "1.25",
+        "count" : "6438"
+      }, {
+        "item" : "1.87",
+        "count" : "6424"
+      }, {
+        "item" : "5.62",
+        "count" : "6315"
+      }, {
+        "item" : "9.0",
+        "count" : "5602"
+      }, {
+        "item" : "5.0",
+        "count" : "5586"
+      }, {
+        "item" : "2.02",
+        "count" : "5566"
+      }, {
+        "item" : "21.46",
+        "count" : "5265"
+      }, {
+        "item" : "6.75",
+        "count" : "4657"
+      }, {
+        "item" : "19.31",
+        "count" : "4311"
+      }, {
+        "item" : "5.43",
+        "count" : "4255"
+      }, {
+        "item" : "2.64",
+        "count" : "4174"
+      }, {
+        "item" : "2.51",
+        "count" : "4108"
+      } ],
+      "smallest" : "0.0",
+      "count" : "7921921",
+      "cardinality" : "7921921"
+    },
+    "format" : {
+      "decimalSeparator" : ",",
+      "precision" : "2",
+      "groupSeparator" : ".",
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "See Terms of Use"
+  },
+  "metadata" : {
+    "jsonQuery" : {
+      "order" : [ {
+        "columnFieldName" : "any",
+        "ascending" : false
+      }, {
+        "columnFieldName" : "mes",
+        "ascending" : false
+      }, {
+        "columnFieldName" : "codi_regio_sanitaria",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "grup_edat",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "sexe",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "codi_atc_1",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "codi_atc_2",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "codi_atc_3",
+        "ascending" : true
+      }, {
+        "columnFieldName" : "codi_atc_4",
+        "ascending" : true
+      } ]
+    },
+    "custom_fields" : {
+      "Freqüència d'actualització" : {
+        "Freqüència d'actualització" : "Mensual"
+      },
+      "Idioma" : {
+        "Idioma" : "Català",
+        "Dataset name (EN)" : "Prescriptions invoiced to the Catalan Health Service",
+        "Nombre del conjunto de datos (ES)" : "Recetas facturadas al Servei Català de la Salut"
+      },
+      "Informació de gènere o sexe" : {
+        "Informació de gènere o sexe" : "Sí"
+      },
+      "Actors" : {
+        "Departament" : "Salut",
+        "Tipus actor" : "Generalitat de Catalunya"
+      },
+      "Àmbit geogràfic" : {
+        "Informació geogràfica" : "Codi d'element",
+        "Àmbit geogràfic" : "Catalunya"
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "a4b5-gx6v",
+    "displayName" : "Dades Obertes Catalunya",
+    "profileImageUrlLarge" : "/api/users/a4b5-gx6v/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/a4b5-gx6v/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/a4b5-gx6v/profile_images/TINY",
+    "screenName" : "Dades Obertes Catalunya",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 18638266,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 18638267,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638250,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638252,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638253,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638254,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638256,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638258,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 18638260,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "a4b5-gx6v",
+    "displayName" : "Dades Obertes Catalunya",
+    "profileImageUrlLarge" : "/api/users/a4b5-gx6v/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/a4b5-gx6v/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/a4b5-gx6v/profile_images/TINY",
+    "screenName" : "Dades Obertes Catalunya",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula" ]
+  },
+  "tags" : [ "salut", "medicament", "recepta", "despesa", "ods3_salut i benestar" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

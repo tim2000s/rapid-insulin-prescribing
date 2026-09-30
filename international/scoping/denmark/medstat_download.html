@@ -1,0 +1,918 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=7" />
+
+      <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+		<meta http-equiv="Content-Language" content="da-DK" />
+
+      <title>Sundhedsdatastyrelsen - Statistikker</title>
+
+		<link rel="shortcut icon" href="/apps/lms/public/img/favicon.ico" />
+
+		<link type="text/css" href="/apps/lms/public/js/wdTree/css/tree.css" rel="stylesheet" />
+		<link type="text/css" href="/apps/lms/public/js/wdTree/sample-css/page.css" rel="stylesheet" />
+      <link type="text/css" href="/apps/lms/public/css/jquery/jquery-ui-1.8.10.custom.css" rel="stylesheet" />
+
+      <script type="text/javascript" src="/apps/lms/public/js/jquery/jquery-1.4.2.min.js"></script>
+      <script type="text/javascript" src="/apps/lms/public/js/jquery/jquery-ui-1.8.2.custom.min.js"></script>
+
+      <script type="text/javascript" src="/apps/lms/public/js/json/json2.js"></script>
+
+      <script type="text/javascript" src="/apps/lms/public/js/common/simple-inheritance.js"></script>
+      <script type="text/javascript" src="/apps/lms/public/js/common/clone-handler.js"></script>
+      <script type="text/javascript" src="/apps/lms/public/js/common/lms.js"></script>
+
+      <script type="text/javascript" src="/apps/lms/public/js/wdTree/src/Plugins/jquery.tree.js"></script>
+
+      <script type="text/javascript">
+      	function changeLanguage() {
+         	var currentLanguage = 'en'
+         	var otherLanguage = 'da';
+
+         	var regEx = new RegExp('^\\/' + currentLanguage);
+
+         	if (window.location.pathname == '/') {
+            	window.location.pathname = '/' + otherLanguage;
+            	return;
+         	}
+         	else if (!/^\/(da|en)/ig.test(window.location.pathname)) {
+            	window.location.pathname = '/' + otherLanguage + window.location.pathname;
+         		return;
+         	}
+
+         	window.location.pathname = window.location.pathname.replace(/^\/en/ig, '/' + otherLanguage);
+      	}
+      </script>
+
+      <style>
+         .page-contents {
+            float: left;
+            line-height: 16pt;
+            width: 640px;
+         }
+
+         .page-side-bar {
+            background-color: #EEEEEE;
+            border: solid 1px #888888;
+            float: right;
+            padding: 5px;
+            width: 200px;
+         }
+      </style>
+
+		<style type="text/css">
+body img div select {
+	margin: 0px;
+}
+
+body {
+	background-color: #eeeeee;
+	color: black;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+h1 {
+font-size: 24px;
+text-align: left;
+}
+
+img {
+	border: none;
+}
+
+input[type='text'] {
+	border: solid 1px #3C7FB1;
+	height: 18px;
+   padding-left: 3px;
+   padding-top: 2px;
+}
+
+input[type=checkbox] {
+	border: none;
+}
+
+input[type=radio] {
+	border: none;
+}
+
+select {
+	background-color: #ffffff;
+	border: #3C7FB1 1px solid;
+}
+
+optgroup,
+option {
+	font-decoration: none;
+	font-style: normal;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+optgroup {
+	font-weight: bold;
+}
+
+
+#hover-box {
+#  background-color: #F7E741;
+#  background-color: #FCFDCD;
+#  background-color: #FCFDCD;
+#  border: 1px solid #F8BB00;
+   background-color: #FFF1E0;
+   border: 1px solid #9E2F50;
+   font-size: 8pt;
+   padding: 3px;
+   position: absolute;
+   width: 300px;
+   z-index: 10;
+}
+
+.top-wrapper {
+	margin: 0 auto;
+	width: 924px;
+	padding-bottom: 15px;
+	padding-top: 30px;
+}
+
+.main-container {
+	background-color: #ffffff;
+	margin: 0 auto;
+	padding: 15px;
+	width: 894px;
+}
+
+.satellite-logo {
+	font-size: 32px;
+	font-weight: bold;
+	margin-left: -2px;
+}
+
+.satellite-logo a {
+	color: black;
+	text-decoration: none;
+}
+
+.satellite-logo a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+.language-choice {
+cursor: pointer;
+}
+
+.footer-wrapper {
+	background-color: #ffffff;
+	margin: 0 auto;
+	padding-bottom: 15px;
+	position: relative;
+	width: 924px;
+}
+
+.footer-last-updated {
+	background-color: #d5d5d5;
+	font-size: 0.8em;
+	margin: 0 auto;
+	padding: 5px;
+	width: 884px;
+}
+
+.footer-line {
+	height: 20px;
+	padding-top: 15px;
+}
+
+.footer-line img {
+	height: 15px;
+	width: 100%;
+}
+
+.footer-logo-da,
+.footer-logo-en {
+	background-image: url("/apps/lms/public/img/logos/sds-logo.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-size: contain;
+	cursor: pointer;
+	display: inline-block;
+	float: left;
+	height: 50px;
+   margin-left: 15px;
+	width: 169px;
+}
+
+.footer-contact {
+	display: inline-block;
+	float: right;
+	font-size: 0.8em;
+	padding-right: 15px;
+	text-align: right;
+	width: 400px;
+}
+
+.info-box-container {
+	border: solid 1px black;
+	float: right;
+	padding: 5px;
+	width: 150px;
+}
+
+.info-box-header {
+	background-color: #DDDDDD;
+	padding: 5px;
+}
+
+#tabs > .ui-widget-header {
+background-color: #FFFFFF;
+background-image: none;
+border: none;
+padding: 0;
+}
+
+#packageTabs > .ui-widget-header {
+background-color: #ECEBE9;
+background-image: none;
+border: none;
+padding: 0;
+}
+
+.ui-tabs {
+border: none;
+padding: 0;
+}
+.ui-tabs .ui-tabs-panel {
+border: 1px solid #A99CA5;
+padding-top: 3px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.selection-box { overflow: auto; width: inherit; }
+.selection-header { height: 17px; margin-top: 3px; margin-bottom: 3px; text-align: center; width: inherit; }
+.selection-label { margin-left: 5px; }
+.selection-drop-down { border: solid 1px #DDDDDD; width: 100%; }
+.selection-list { width: 100%; }
+
+.search-tab {
+min-height: 470px;
+}
+
+.tab-tools-button {
+	cursor: pointer;
+	position: relative;
+	top: 5px;
+	margin-right: 10px;
+}
+
+.header-tools-info {
+	cursor: pointer;
+	position: relative;
+	text-decoration: underline;
+	top: 1px;
+}
+
+.header-tools-title {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.header-tools-reset {
+	cursor: pointer;
+	position: relative;
+	text-decoration: underline;
+	top: 1px;
+}
+
+#treatment-group-tab-1 {
+   height: 347px;
+   overflow: auto;
+}
+
+#sector-tab-3 {
+   height: 127px;
+   overflow: auto;
+}
+
+.select-list {
+   background-color: white;
+   border: solid 1px #3C7FB1;
+   cursor: default;
+   margin: 5px 0;
+   padding: 0;
+}
+
+.select-optgroup {
+   font-weight: bold;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+.select-optgroup > span {
+   margin: 0;
+   padding: 0 2px;
+}
+
+.select-optgroup > ul {
+   margin: 0;
+   padding: 0;
+}
+
+.select-option {
+   font-weight: normal;
+   list-style: none;
+   margin: 0;
+   padding: 1px 18px;
+}
+
+.bbit-tree-node-selected,
+.select-option-selected {
+   background-color: #3975d7;
+   color: white !important;
+}
+
+.input-label-wrap {
+  position: relative; 
+}
+
+.input-label {
+   color: #9f9f9f;
+   left: 5px;
+   position: absolute;
+   top: 4px;
+}
+</style>
+
+<!--[if IE]>
+<style type="text/css">
+	.header-tools-reset {
+		position: relative;
+		top: -15px;
+	}
+</style>
+<![endif]-->
+
+		<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20447992-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	</head>
+
+	<body>
+		<div class="top-wrapper ui-helper-clearfix">
+			<div class="satellite-logo" style="float: left;"><a href="/en">MEDSTAT.DK</a></div>
+			<div class="language-choice" style="float: right;" onclick="changeLanguage();">
+				<img src="/apps/lms/public/img/da.png"/></div>
+		</div>
+
+		<div class="main-container">
+			<div class="contents">
+<script type="text/javascript">
+  var languageCode = 'en';
+  var textResources = {"data_basis_and_description":"Data basis and description","file_name":"File name","front_page_tab":"Home","medical_treatment_tab":"Groups of medicines","medicine_and_medical_group_tab":"ATC code","medicine_package_tab":"Product name","download_tab":"Download"};
+
+  $(function() {
+    // Tabs
+    $('#tabs').tabs();
+
+    $('.back-link-tab').unbind().bind('click', function(evt) {
+      var elt = $(evt.target);
+      document.location = "/en" + elt.attr('href');
+    });
+  });
+</script>
+
+<div id="search-canvas" style="position: relative;">
+
+  <div style="top: 5px; left: 694px; position: absolute; text-align: right; width: 200px; z-index: 1;">
+    <a href="/en/view/datagrundlag_og_beskrivelse" target="_blank">Data basis and description</a>
+  </div>
+
+  <!-- Tabs -->
+  <div id="tabs">
+    <ul>
+      <li>
+        <a href="#tabs-0" class="back-link-tab">Home</a>
+      </li>
+      <li>
+        <a href="#tabs-1" class="back-link-tab">Groups of medicines</a>
+        <span class="tab-tools-button"><img src="/apps/lms/public/img/buttons/reset.png" /></span>
+      </li>
+      <li>
+        <a href="#tabs-2" class="back-link-tab">ATC code</a>
+        <span class="tab-tools-button"><img src="/apps/lms/public/img/buttons/reset.png" /></span>
+      </li>
+      <li>
+        <a href="#tabs-3" class="back-link-tab">Product name</a>
+        <span class="tab-tools-button"><img src="/apps/lms/public/img/buttons/reset.png" /></span>
+      </li>
+      <li class="ui-tabs-selected">
+        <a href="#tabs-4">Download</a>
+      </li>
+    </ul>
+
+    <!-- Dummy tabs -->
+    <div id="tabs-0" class="search-tab ui-helper-clearfix"></div>
+    <div id="tabs-1" class="search-tab ui-helper-clearfix"></div>
+    <div id="tabs-2" class="search-tab ui-helper-clearfix"></div>
+    <div id="tabs-3" class="search-tab ui-helper-clearfix"></div>
+
+    <!-- Tab 4: Download data -->
+    <div id="tabs-4" class="search-tab ui-helper-clearfix">
+      <div class="page-contents">
+        <div class="page-header">
+        <h1>Download of metadata from medstat.dk</h1>
+<p>
+	Here you can download metadata in search modules “ATC code” and “Product name”. 
+	The data files are semi colon separated csv files. The data files and variables 
+	are described in the <a href="/apps/lms/public/dokumentation/Download_Description.pdf" target="_blank">download description</a>. 
+	In addition to medstat data you find a data file containing population data by 
+	January 1st each year. Data is derived from <a href="http://www.statistikbanken.dk/statbank5a/default.asp?w=1920" target="_blank">Statistics Denmark</a>. 
+</p>
+        </div>
+
+        <div id="files-list" style="border: 1px solid black; height: 300px; overflow: auto;">
+          <table style="width: 100%;">
+            <tr>
+              <th style="text-align: left;">File name</th>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5Nl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  1996_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5Nl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  1996_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5N19hdGNfY29kZV9kYXRhLnR4dA==">
+                  1997_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5N19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  1997_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5OF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  1998_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5OF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  1998_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5OV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  1999_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MTk5OV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  1999_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2000_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2000_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2001_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2001_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2002_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwMl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2002_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwM19hdGNfY29kZV9kYXRhLnR4dA==">
+                  2003_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwM19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2003_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2004_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2004_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2005_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2005_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2006_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwNl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2006_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwN19hdGNfY29kZV9kYXRhLnR4dA==">
+                  2007_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwN19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2007_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwOF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2008_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwOF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2008_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwOV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2009_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAwOV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2009_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2010_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2010_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2011_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2011_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2012_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxMl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2012_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxM19hdGNfY29kZV9kYXRhLnR4dA==">
+                  2013_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxM19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2013_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2014_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2014_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2015_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2015_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2016_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxNl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2016_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxN19hdGNfY29kZV9kYXRhLnR4dA==">
+                  2017_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxN19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2017_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxOF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2018_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxOF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2018_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxOV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2019_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAxOV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2019_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2020_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2020_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2021_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2021_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMl9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2022_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyMl9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2022_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyM19hdGNfY29kZV9kYXRhLnR4dA==">
+                  2023_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyM19wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2023_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyNF9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2024_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyNF9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2024_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyNV9hdGNfY29kZV9kYXRhLnR4dA==">
+                  2025_atc_code_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/MjAyNV9wcm9kdWN0X25hbWVfZGF0YS50eHQ=">
+                  2025_product_name_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/YXRjX2NvZGVfdGV4dC50eHQ=">
+                  atc_code_text.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/Z3JvdXBzX29mX21lZGljaW5lc19kYXRhLnR4dA==">
+                  groups_of_medicines_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/Z3JvdXBzX29mX21lZGljaW5lc190ZXh0LnR4dA==">
+                  groups_of_medicines_text.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/cG9wdWxhdGlvbl9kYXRhLnR4dA==">
+                  population_data.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/cHJvZHVjdF9uYW1lX3Blcl9zZWN0b3IudHh0">
+                  product_name_per_sector.txt                </a>
+              </td>
+            </tr>
+                        <tr>
+              <td>
+                <a href="/en/download/file/cHJvZHVjdF9uYW1lX3RleHQudHh0">
+                  product_name_text.txt                </a>
+              </td>
+            </tr>
+                      </table>
+        </div>
+
+        <div class="page-footer">
+        <h1>Information</h1>
+<p>
+	For medstat.dk we only use the latest updated DDD values and atc codes. If you have 
+	downloaded an earlier version of data you may need to download data once more to have 
+	the most updated version. Furthermore data may change between updates for other 
+	changes in The Register of Medicinal Product Statistics.
+	<br><br>
+	<a href="/apps/lms/public/dokumentation/Hvordan-du-maa-anvende-data.pdf" target="_blank">Legal aspects of download</a>.
+</p>
+        </div>
+      </div>
+
+      <div class="page-side-bar">
+	<p><b>LINKS AND DOCUMENTS</b></p>
+	<a href="/en/view/datagrundlag_og_beskrivelse" target="_blank">Data basis and description</a>
+	<br><br>
+	<a href="http://www.whocc.no/atc/structure_and_principles/" target="_blank">ATC-system</a>
+	<br><br>
+	<a href="/en/download">Download data</a>
+	<br><br>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+		</div>
+
+  		
+<div class="footer-wrapper ui-helper-clearfix">
+    <div class="footer-last-updated">Last modified 23.03.2026</div>
+  
+  <div class="footer-line"><img src="/apps/lms/public/img/footer-line.png" /></div>
+
+    <a href="https://sundhedsdatastyrelsen.dk" target="_blank"><span class="footer-logo-en"></span></a>
+  
+  <div class="footer-contact">
+        The Danish Health Data Authority<br />
+    Analysis, Statistics and Economics<br />
+    Ørestads Boulevard 5 | DK 2300 Copenhagen S<br />
+    E: <a title="title" href="mailto:kontakt@sundhedsdata.dk">kontakt@sundhedsdata.dk</a><br />
+      </div>
+</div>
+
+
+		<script type="text/javascript">
+//  /*<![CDATA[*/
+//  (function() {
+//    var sz = document.createElement('script'); sz.type = 'text/javascript';
+//        sz.async = true;
+//        sz.src = '//ssl.siteimprove.com/js/siteanalyze_6351.js';
+//    var s = document.getElementsByTagName('script')[0];
+//        s.parentNode.insertBefore(sz, s);
+//  })();
+//  /*]]>*/
+//
+//
+  /*<![CDATA[*/
+  (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript';
+        sz.async = true;
+        sz.src = '//ssl.siteimprove.com/js/siteanalyze_6351.js';
+    var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(sz, s);
+  })();
+  /*]]>*/
+
+</script>
+	</body>
+</html>
