@@ -1,0 +1,57 @@
+market,brand,spend,maker,pct_of_market,pct_of_maker_in_market
+England (GBP),Admelog,108266.7,Sanofi,0.1,1.0
+England (GBP),Apidra,2984330.1,Sanofi,2.1,27.5
+England (GBP),Fiasp,19222557.4,Novo Nordisk,13.6,17.9
+England (GBP),Humalog,18266812.0,Lilly,12.9,76.7
+England (GBP),Insulin lispro Sanofi,1126.6,Sanofi,0.0,0.0
+England (GBP),Lyumjev,5563759.0,Lilly,3.9,23.3
+England (GBP),NovoRapid,87892233.3,Novo Nordisk,62.0,82.1
+England (GBP),Trurapi,7769045.9,Sanofi,5.5,71.5
+Scotland (GBP),Admelog,4485.9,Sanofi,0.0,1.3
+Scotland (GBP),Apidra,179347.7,Sanofi,1.1,52.4
+Scotland (GBP),Fiasp,1815341.9,Novo Nordisk,11.3,14.2
+Scotland (GBP),Humalog,2394683.7,Lilly,14.9,80.5
+Scotland (GBP),Insulin lispro Sanofi,84.7,Sanofi,0.0,0.0
+Scotland (GBP),Lyumjev,579392.7,Lilly,3.6,19.5
+Scotland (GBP),NovoRapid,10974190.8,Novo Nordisk,68.1,85.8
+Scotland (GBP),Trurapi,158304.4,Sanofi,1.0,46.3
+Wales (GBP),Admelog,1460.3,Sanofi,0.0,0.5
+Wales (GBP),Apidra,123137.5,Sanofi,1.4,43.1
+Wales (GBP),Fiasp,2194411.6,Novo Nordisk,25.5,30.9
+Wales (GBP),Humalog,682228.4,Lilly,7.9,55.3
+Wales (GBP),Lyumjev,550463.1,Lilly,6.4,44.7
+Wales (GBP),NovoRapid,4897250.5,Novo Nordisk,56.9,69.1
+Wales (GBP),Trurapi,161396.2,Sanofi,1.9,56.4
+Northern Ireland (GBP),Apidra,224585.0,Sanofi,3.9,100.0
+Northern Ireland (GBP),Fiasp,1156694.3,Novo Nordisk,19.8,24.5
+Northern Ireland (GBP),Humalog,521903.6,Lilly,8.9,58.6
+Northern Ireland (GBP),Lyumjev,368616.4,Lilly,6.3,41.4
+Northern Ireland (GBP),NovoRapid,3561498.9,Novo Nordisk,61.1,75.5
+France (EUR),Apidra,10108791.4,Sanofi,6.2,71.6
+France (EUR),Fiasp,19883873.8,Novo Nordisk,12.2,21.4
+France (EUR),Humalog,49295727.6,Lilly,30.3,88.6
+France (EUR),Insulin aspart Sanofi,4017774.9,Sanofi,2.5,28.4
+France (EUR),Lyumjev,6348011.2,Lilly,3.9,11.4
+France (EUR),NovoRapid,73195866.8,Novo Nordisk,44.9,78.6
+Denmark (DKK),Apidra,221400.0,Sanofi,0.2,3.8
+Denmark (DKK),Fiasp,18380100.0,Novo Nordisk,16.1,17.2
+Denmark (DKK),Humalog,1705500.0,Lilly,1.5,100.0
+Denmark (DKK),Insulin aspart Sanofi,5556200.0,Sanofi,4.9,96.2
+Denmark (DKK),NovoRapid,88225700.0,Novo Nordisk,77.3,82.8
+US Medicare Part D (USD),Admelog,43833773.1,Sanofi,2.4,93.5
+US Medicare Part D (USD),Apidra,3031954.4,Sanofi,0.2,6.5
+US Medicare Part D (USD),Fiasp,358775186.8,Novo Nordisk,20.0,43.7
+US Medicare Part D (USD),Humalog,664064960.6,Lilly,37.0,71.6
+US Medicare Part D (USD),Insulin aspart (unbranded),56136882.1,Novo Nordisk,3.1,6.8
+US Medicare Part D (USD),Insulin lispro (unbranded),173497945.0,Lilly,9.7,18.7
+US Medicare Part D (USD),Lyumjev,89965552.7,Lilly,5.0,9.7
+US Medicare Part D (USD),Novolog,406653179.2,Novo Nordisk,22.6,49.5
+US Medicaid (USD),Admelog,34622334.2,Sanofi,5.3,88.1
+US Medicaid (USD),Apidra,4692124.6,Sanofi,0.7,11.9
+US Medicaid (USD),Fiasp,28117476.6,Novo Nordisk,4.3,14.2
+US Medicaid (USD),Humalog,182940132.0,Lilly,27.7,43.4
+US Medicaid (USD),Insulin aspart (unbranded),109181401.5,Novo Nordisk,16.6,55.0
+US Medicaid (USD),Insulin lispro (unbranded),223900128.6,Lilly,34.0,53.1
+US Medicaid (USD),Kirsty,111812.8,Biocon,0.0,100.0
+US Medicaid (USD),Lyumjev,14464796.2,Lilly,2.2,3.4
+US Medicaid (USD),Novolog,61357368.9,Novo Nordisk,9.3,30.9
