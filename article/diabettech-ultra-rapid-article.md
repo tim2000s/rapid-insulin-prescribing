@@ -23,8 +23,13 @@ decides which insulins people are offered did not offer it, including in the yea
 NHS nothing extra to do so. People with diabetes are now losing an insulin on the grounds of low
 demand that prescribers, formulary committees and guideline writers created.
 
-I should say where I stand. I have used the fastest subcutaneous mealtime insulin available since each one reached the UK, some of the time on private prescription, because I read the pharmacology and the trials and
-decided that an insulin which starts working sooner was worth having.
+I should say where I stand. I have used the fastest subcutaneous mealtime insulin available since
+each one reached the UK, some of the time on private prescription, because I read the pharmacology
+and the trials and decided that an insulin which starts working sooner was worth having. I built
+Boost, the open-source automated insulin delivery algorithm I develop, around the pharmacology of
+Lyumjev, and with it my own time in range (3.9 to 10 mmol/L) is about 84% without announcing meals
+or bolusing for them. That is one person on experimental software, not a trial, but it is the kind of
+result fully closed loop is aiming for, and it depends on the insulin.
 
 ## What is being lost
 
