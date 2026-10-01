@@ -1,0 +1,323 @@
+                                                                                                  May 21, 2025
+
+Tandem Diabetes Care, Inc.
+Miriam Chan
+Principal Regulatory Affairs Specialist
+12400 High Bluff Drive
+San Diego, California 92130
+
+
+Re: K250798
+    Trade/Device Name: Control-IQ+ technology
+    Regulation Number: 21 CFR 862.1356
+    Regulation Name: Interoperable Automated Glycemic Controller
+    Regulatory Class: Class II
+    Product Code: QJI
+    Dated: March 14, 2025
+    Received: March 14, 2025
+
+Dear Miriam Chan:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.gov
+K250798 - Miriam Chan                                                                                    Page    2
+
+FDA's substantial equivalence determination also included the review and clearance of your Predetermined
+Change Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not
+required for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an
+established PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new
+premarket notification is required if there is a major change or modification in the intended use of a device,
+or if there is a change or modification in a device that could significantly affect the safety or effectiveness of
+the device, e.g., a significant change or modification in design, material, chemical composition, energy
+source, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major
+change or modification in the intended use of the device, or result in a change or modification in the device
+that could significantly affect the safety or effectiveness of the device, then a new premarket notification
+would be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit
+such a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and
+502(o) of the Act, respectively.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+Part 803) for devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products
+(see https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-
+reporting-combination-products); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+K250798 - Miriam Chan                                                                             Page    3
+
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                               Sincerely,
+
+
+                                               Joshua Balsam -S
+                                               Joshua M. Balsam, Ph.D.
+                                               Branch Chief
+                                               Division of Chemistry and
+                                                 Toxicology Devices
+                                               OHT7: Office of In Vitro Diagnostics
+                                               Office of Product Evaluation and Quality
+                                               Center for Devices and Radiological Health
+
+Enclosure
+                         510(k) Summary
+     Company                Tandem Diabetes Care, Inc
+                            12400 High Bluff Drive
+                            San Diego, CA 92130
+     Prepared               March 07, 2025
+     Contact                Miriam Chan
+                            Principal Regulatory Affairs Specialist
+                            mchan@tandemdiabetes.com
+                            +1(858)202-6553
+     Trade Name             Control-IQ+ technology
+     Common Name            Interoperable Automated Glycemic Controller
+     Classification Product QJI
+     Code
+     Classification Name    Interoperable Automated Glycemic Controller
+     Regulation Number      21 CFR 862.1356
+     Device Class           Class II
+     Predicate Device       K243823, Control-IQ+ technology
+
+
+I.    Device Under Review
+      The Subject Device, Control-IQ+ technology (“Control-IQ+”) is a software-
+      only device intended for the management of type 1 and type 2 diabetes
+      mellitus. The device controls insulin delivery from a compatible alternate
+      controller enabled insulin pump (ACE pump) based on inputs provided by
+      a compatible integrated continuous glucose monitor (iCGM) and inputs
+      provided by the user (e.g., carbohydrate intake, exercise, and sleep
+      schedule). Control-IQ+ technology is meant to be installed on a compatible
+      ACE pump.
+      Control-IQ+ technology has three different modes: Normal, Sleep, and
+      Exercise. The glucose targets are not individually customizable in these
+      modes but can change based on the mode selected. During Normal
+      mode, Control-IQ+ technology aims to control glucose within a target
+      range of 112.5 – 160 mg/dL, during Sleep mode the target range is 112.5 – 120
+      mg/dL, and during Exercise mode the target range is 140 – 160 mg/dL.
+      Control-IQ+ technology includes an integrated feature whereby iCGM
+      values are automatically populated into the glucose field of the integrated
+      bolus calculator when Control-IQ+ technology is active (i.e., the device is
+       operating in closed-loop mode). This feature is disabled when Control-IQ is
+       turned off.
+       Control-IQ+ technology requires users to input their weight and their total
+       daily insulin requirement, which should be established with the help of a
+       health care provider before using the device.
+ II.   Intended Use/ Indications for Use
+       Control-IQ+ technology is intended for use with compatible integrated
+       continuous glucose monitors (iCGM) and alternate controller enabled
+       (ACE) pumps to automatically increase, decrease, and suspend delivery of
+       basal insulin based on iCGM readings and predicted glucose values. It can
+       also deliver correction boluses when the glucose value is predicted to
+       exceed a predefined threshold.
+       Control-IQ+ technology is intended for the management of Type 1
+       diabetes mellitus in persons 2 years of age and greater and of Type 2
+       diabetes mellitus in persons 18 years of age and greater.
+       Control-IQ+ technology is intended for single patient use and requires a
+       prescription.
+
+
+III.   Technological Characteristics Compared to Predicate Device K243823
+                                Predicate Device                          Subject Device
+                                     K243823
+   Indications for   Control-IQ technology is intended for    Identical
+   Use/ Intended     use with compatible integrated
+   Use               continuous glucose monitors (iCGM)
+                     and alternate controller enabled (ACE)
+                     pumps to automatically increase,
+                     decrease, and suspend delivery of
+                     basal insulin based on iCGM readings
+                     and predicted glucose values. It can
+                     also deliver correction boluses when
+                     the glucose value is predicted to
+                     exceed a predefined threshold.
+
+                     Control-IQ technology is intended for
+                     the management of Type 1 diabetes
+                     mellitus in persons 2 years of age and
+                     greater Type 2 diabetes mellitus in
+                     persons 18 years of age and greater.
+
+                     Control-IQ technology is intended for
+                     single patient use and requires a
+                     prescription.
+                              Predicate Device                            Subject Device
+                                  K243823
+Pump Type          Alternate controller enabled insulin       Identical
+                   pump
+Classification     21 CFR 862.1356                            Identical
+Product Code       QJI                                        Identical
+Compatible         Type 1 diabetes mellitus in persons 2      Type 1 diabetes mellitus in persons
+Insulins           years of age and greater Type 2            2 years of age and greater Type 2
+                   diabetes mellitus in persons 18 years      diabetes mellitus in persons 18
+                   of age and greater:                        years of age and greater:
+                   NovoLog U-100 Insulin                      NovoLog U-100 Insulin
+                   Humalog U-100 Insulin                      Humalog U-100 Insulin
+                                                              Lyumjev U-100 Insulin
+Profile Delivery   When the predicted CGM value is            Identical
+                   within the target range, the pump will
+                   deliver insulin at the rate determined
+                   by the active Personal Profile settings.
+                   The user’s profile basal rate may be
+                   set as high as 15 units/hr when
+                   Control-IQ is off and when Control-IQ
+                   is enabled same basal rate is applied.
+Basal Rate         The Personal Profile correction factor     Identical
+Range              is used to determine the predicted
+                   basal rate limits of 10 to 600 mg/dL per
+                   unit insulin.
+Basal              When Control-IQ technology predicts        Identical
+Attenuation        that the sensor glucose value will be
+                   at or below the target range 30
+                   minutes in the future, the rate of
+                   insulin delivered will begin to
+                   decrease to attempt to keep glucose
+                   within the target range.
+Automatic          The upper limit for the automatic          Identical
+Correction         correction bolus is 600 mg/dL per unit
+Bolus              insulin.
+Body Weight        20 lbs (9 kg) – 440 lbs (200 kg)           Identical
+Setting Range
+Total Daily        User setting of 5 units/day - 200          Identical
+Insulin Setting    units/day
+Range
+Extended Bolus     Up to 8-hour duration while Control-       Identical
+                   IQ is enabled or disabled and
+                   extended boluses are uninterrupted
+                   when enabling Control-IQ.
+Temporary          Temp Rates can be enabled without          Identical
+Basal Rate         turning Control-IQ technology off
+IV.   Overview of Non-Clinical and Clinical Performance Tests
+      Appropriate testing was performed to confirm the Subject Device
+      met specified requirements and performed as intended. See
+      summaries below.
+      Usability/Human Factors:
+      No new Usability/Human Factors testing was performed to support
+      this 510(k) Notification.
+      Software Verification and Validation:
+      No new software testing was performed to support this 510(k)
+      Notification.
+      Special Controls:
+      Evaluation and adherence to the Special Controls of the Predicate
+      Device (K243823) demonstrates continued assurance of the safety
+      and effectiveness of the Subject Device.
+      Clinical Testing:
+      A pivotal study, “Safety Evaluation of an Advanced Hybrid Closed
+      Loop System Using Lyumjev with the Tandem t:slim X2 with Control-
+      IQ in Adults, Adolescents and Children with Type 1 Diabetes (TL1)”,
+      was conducted to evaluate the safety and effectiveness of using
+      Lyumjev with Control-IQ+ technology. Tandem performed a single-
+      arm prospective safety trial that included 179 participants with type 1
+      diabetes (70 in adult cohort, ranging in age from 18-75 years old, and
+      109 in pediatric cohort, ranging in age from 6-17 years old) who were
+      experienced users of the Control-IQ AID system.
+      The protocol consisted of two periods: ~16-day Humalog Lead-in
+      Period and 13-week Lyumjev Treatment Period. The primary trial
+      endpoints were related to safety, comparing the frequency of severe
+      hypoglycemia and DKA events to the reported frequencies from the
+      T1D Exchange clinic registry.
+      Conclusion:
+      The Subject Device has the same intended use and indications as
+      the Predicate Device. The clinical study demonstrated that the use of
+      Lyumjev with t:slim X2 insulin pump with Control-IQ technology was
+      well tolerated with few adverse effects and no increase in
+      hypoglycemia. Rates of severe hypoglycemia and DKA were lower
+     than in the T1D Exchange clinic registry data, with the statistical
+     comparison meeting the prespecified success criteria. Therefore, the
+     trial data demonstrates that Lyumjev with the t:slim X2 insulin pump
+     with Control-IQ technology is safe and effective in patients with Type
+     1 diabetes 6 years of age and greater. The required technical
+     documentation provided in this 510(k) demonstrates the Subject
+     Device is as safe and as effective as the Predicate Device. Therefore,
+     the Subject Device has been evaluated to be substantially equivalent
+     to the Predicate Device and does not raise new or different
+     questions of safety or effectiveness.
+
+
+V.   Predetermined Change Control Plan
+
+     This submission included a predetermined change control plan
+     (PCCP) that was reviewed and authorized by FDA for
+     implementation of the proposed labeling modifications upon
+     clearance of a compatible ACE pump. The change to Control-IQ+
+     Technology labeling will not be implemented prior to clearance of a
+     compatible ACE pump submission. The PCCP outlines that the
+     labeling modifications will match the cleared compatible insulins for
+     both the ACE Pump and the iAGC.
+
+     The PCCP also defines the test methods and validation
+     requirements to implement labeling changes per Tandem's Quality
+     Management System. Following implementation new users will
+     receive the physical Quick Start Guide upon receipt of their
+     corresponding device and the new User Guide and Quick Start
+     Guide will be available electronically or may be provided physically
+     upon request. Existing users will be notified one of two ways. They
+     will have the option to electronically download or request a printed
+     version of the Quick Start Guide and User Guide, which will contain
+     these labeling updates. Or be notified via email that an additional
+     insulin has been approved for use with their device, and this
+     communication will also include a link to download the Quick Start
+     Guide and User Guide that contain the updated labeling.
+

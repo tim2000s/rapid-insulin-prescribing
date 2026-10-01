@@ -1,0 +1,340 @@
+November 3, 2023
+
+Tandem Diabetes Care, Inc.
+Christin Dunn
+Senior Regulatory Affairs Specialist
+12400 High Bluff Drive
+San Diego, California 92130
+
+
+Re: K232380
+    Trade/Device Name: t:slim X2 Insulin Pump with Interoperable Technology
+    Regulation Number: 21 CFR 880.5730
+    Regulation Name: Alternate Controller Enabled Infusion Pump
+    Regulatory Class: Class II
+    Product Code: QFG
+    Dated: August 4, 2023
+    Received: August 8, 2023
+
+Dear Christin Dunn:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.06.05
+Silver Spring, MD 20993
+www.fda.gov
+K232380 - Christin Dunn                                                                               Page 2
+
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+Part 803) for devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products
+(see https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-
+reporting-combination-products); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+                                                 Joshua Balsam -S
+                                                 Joshua M. Balsam, Ph.D.
+                                                 Branch Chief
+                                                 Division of Chemistry
+                                                   and Toxicology Devices
+                                                 OHT7: Office of In Vitro Diagnostics
+                                                 Office of Product Evaluation and Quality
+                                                 Center for Devices and Radiological Health
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2023
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+k232380
+
+Device Name
+t:slim X2 Insulin Pump with Interoperable Technology
+
+
+
+Indications for Use (Describe)
+The t:slim X2 Insulin Pump with Interoperable Technology (the pump) is intended for the subcutaneous delivery of
+insulin, at set and variable rates, for the management of diabetes mellitus in persons requiring insulin. The Pump is able to
+reliably and securely communicate with compatible, digitally connected devices, including automated insulin dosing
+software, to receive, execute, and confirm commands from these devices. The pump is intended for single patient, home
+use and requires a prescription. The Pump is indicated for use in individuals 2 years of age and greater.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+   510(K) SUMMARY FOR K232380
+
+In accordance with 21 CFR 807.87(h) and (21 CFR 807.92), the 510(k) Summary for the t:slim X2
+Insulin Pump with Interoperable Technology is provided below:
+
+Submitter Information
+
+Name                        Tandem Diabetes Care, Inc.
+
+                            12400 High Bluff Drive
+
+                            San Diego, CA 92130
+
+                            Phone: 858-366-6900
+
+Applicant Contact           Christin Dunn
+
+                            Senior Regulatory Affairs Specialist
+
+                            Phone: 858-401-1641
+
+                            cdunn@tandemdiabetes.com
+
+                            Tandem Diabetes Care, Inc.
+
+                            12400 High Bluff Drive
+
+                            San Diego, CA 92130
+
+Secondary Contact           Lan Herrington
+
+                            Director, Regulatory Affairs
+
+                            (858) 255-6378
+
+                            LHerrington@tandemdiabetes.com
+
+                            Tandem Diabetes Care, Inc.
+
+                            12400 High Bluff Drive
+
+                            San Diego, CA 92130
+
+Date Prepared:              October 26, 2023
+Device Identification
+
+Trade name                    t:slim X2 Insulin Pump with Interoperable Technology
+
+Common name                   alternate controller enabled insulin infusion pump
+
+Regulation Name               alternate controller enabled insulin infusion pump
+
+Classification number         21 CFR 880.5730
+
+Product code                  QFG
+
+Regulatory class              II
+
+Predicate devices             t:slim X2 Insulin Pump with Interoperable Technology (with
+                              t:connect mobile app (K203234)
+
+Intended Use
+
+The t:slim X2 Insulin Pump with Interoperable Technology (the Pump) is intended for the
+subcutaneous delivery of insulin, at set and variable rates, for the management of diabetes
+mellitus in persons requiring insulin. The Pump is able to reliably and securely communicate with
+compatible, digitally connected devices, including automated insulin dosing software, to receive,
+execute, and confirm commands from these devices.
+
+The Pump is intended for single patient, home use and requires a prescription.
+
+The Pump is indicated for use in individuals 2 years of age and greater.
+
+Description
+
+The t:slim X2 Insulin Pump with Interoperable Technology is an ambulatory, battery operated,
+rate-programmable infusion pump designed for the subcutaneous delivery of insulin, at set and
+variable rates, for the management of diabetes mellitus in persons requiring insulin.
+
+The t:slim X2 insulin pump includes a disposable cartridge with a 300 unit reservoir which is filled
+with insulin by the user with the use of the syringe and needle. The cartridge needs to be changed
+every 48-72 hours depending on the type of insulin used.
+
+The pump is motor driven to deliver patient programmed basal rates and boluses through an
+infusion set into subcutaneous tissue. The desired timing and quantity of insulin delivery (bolus
+or basal) is programmed by the patient based on their healthcare provider’s recommendations.
+
+The pump is able to reliably and securely communicate with compatible, digitally connected
+devices, including automated insulin dosing software, to receive, execute, and confirm
+commands from these devices.
+
+The t:connect mobile app enables a user to connect a smartphone to the pump using Bluetooth®
+wireless technology to display pump information and perform some pump functions on the
+smartphone as well as display pump notifications. The t:connect mobile app can transmit pump
+and therapy data from the pump to the cloud as long as the user’s smartphone is connected to
+the internet.
+
+The pump is designed to be able to receive and display alerts and alarms to users based on
+information received from other interoperable devices.
+
+The pump is compatible with Interoperable Automated Glycemic Controllers, such as Basal-IQ
+Technology (K193483) and Control IQ Technology (K200467) to aid in diabetes management. The
+latter is being submitted concurrently.
+
+In addition, the Subject Device is compatible with iCGM systems cleared under K223931 21 CFR
+862.1355.
+Technological Characteristics Compared to Predicate Device
+
+                                 Predicate Device
+                                                                        Subject Device
+                    T:Slim X2 Insulin Pump with Interoperable
+                                                                          (K232380)
+                              Technology (K203234)
+ Intended         The t:slim X2 insulin pump with interoperable     Different:
+ Use/Indication   technology (the Pump) is intended for the         Removal of the
+ for Use          subcutaneous delivery of insulin, at set and      compatible insulins
+                  variable rates, for the management of             NovoLog and Humalog
+                  diabetes mellitus in persons requiring insulin.   from indications.
+                  The Pump is able to reliably and securely         Moved to compatible
+                  communicate with compatible, digitally            insulins section of the
+                  connected devices, including automated            user guide.
+                  insulin dosing software, to receive, execute,
+                                                                    The Pump is indicated
+                  and confirm commands from these devices.
+                                                                    for use in individuals 2
+                  The Pump is intended for single patient,
+                                                                    years of age and
+                  home use and requires a prescription. The
+                                                                    greater.
+                  Pump is indicated for use with NovoLog or
+                  Humalog U-100 insulin. The Pump is
+                  indicated for use in individuals 6 years of age
+                  and greater.
+                                    Predicate Device
+                                                                      Subject Device
+                       T:Slim X2 Insulin Pump with Interoperable
+                                                                        (K232380)
+                                 Technology (K203234)
+Technological     The t:slim X2 insulin pump with interoperable    Same
+Characteristics   technology is an ambulatory, battery
+                  operated, rate-programmable infusion pump
+                  designed for the subcutaneous delivery of
+                  insulin, at set and variable rates, for the
+                  management of diabetes mellitus in persons
+                  requiring insulin. The device includes a
+                  disposable cartridge which is motor driven to
+                  deliver patient programmed basal rates and
+                  boluses through an infusion set into
+                  subcutaneous tissue.
+
+Classification    II                                               Same
+
+Product Code      QFG                                              Same
+
+Specific          U-100 Insulin                                    Same
+Drug/Biological
+Use
+
+Pump Type         ACE pump, t:slim X2 system                       Same
+
+Components        Infusion Pump,                                   Same
+
+                  Sterile disposable insulin cartridge
+                                      Predicate Device
+                                                                                  Subject Device
+                         T:Slim X2 Insulin Pump with Interoperable
+                                                                                    (K232380)
+                                   Technology (K203234)
+  Accessories         Compatible FDA cleared infusion sets 3 mL              Similar
+                      sterile syringe and 26 gauge needle (for filling       DC car adaptor power
+                      cartridge).                                            supply is not provided
+                      AC power supply and DC car adaptor power               with the subject
+                      supply with USB.                                       device.
+
+                      Tandem Device Updater.
+
+                      Alternate USB Cable.
+
+The t:slim X2 insulin pump with interoperable technology is an ambulatory, battery operated, rate-
+programmable infusion pump designed for the subcutaneous delivery of insulin, at set and variable rates,
+for the management of diabetes mellitus in persons requiring insulin. The subject device is the same as
+the predicate device with the following changes:
+
+   •   Lowered the age indication to individuals of 2 years of age and greater.
+
+Performance Data
+
+Clinical testing was performed to support the expanded age indication. The clinical data
+demonstrates that the device shows continued assurance of safety and effectiveness.
+
+Evaluation and adherence of the Special Controls listed in 21 CFR 880.5730 demonstrate the
+continued assurance of the safety and effectiveness of the device.
+
+Substantial Equivalence
+
+The subject device serves the same function as the predicate device with the addition of the 2–5
+year-old population. The clinical testing provided in this 510(k) demonstrate that the t:slim X2
+Insulin Pump with Interoperable Technology is the same as the predicate device in safety and
+effectiveness. Therefore, the subject device has been evaluated to be substantially equivalent to
+the predicate device and does not raise new or different questions of safety or effectiveness.
+

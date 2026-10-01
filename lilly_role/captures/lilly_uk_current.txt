@@ -1,0 +1,141 @@
+ 
+ Current Lilly Medicines | Lilly UK 
+Our Medicines 
+style 
+background-none 
+For more than 150 years, we have focused on research and development to bring medicines to patients. 
+The product information on this website is intended for UK residents over the age of eighteen years only. 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+style 
+background-none 
+Current Medicines 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+Abasaglar® 
+Insulin glargine 
+Adcirca® 
+Tadalafil* 
+Alimta® 
+Pemetrexed 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+Baricitinib Lilly 
+Cialis® 
+Tadalafil 
+Cyramza® 
+Ramucirumab 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+Emgality® 
+Galcanezumab* 
+Forsteo® 
+Teriparatide 
+Humalog® 
+Insulin lispro 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+Humulin® 
+Human insulin 
+Jaypirca®▼ 
+Pirtobrutinib 
+Kisunla®▼ 
+Donanemab 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+Lyumjev® 
+Insulin lispro 
+Mounjaro®▼ 
+Tirzepatide 
+Omvoh®▼ 
+Mirikizumab 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+Retsevmo®▼ 
+Selpercatinib 
+Taltz® 
+Ixekizumab 
+Trulicity® 
+Dulaglutide 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+Verzenios® 
+Abemaciclib 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+*Lilly is the marketing authorisation holder (MAH) but does not promote this product. 
+style 
+background-none 
+Information Resources 
+To view summaries of product characteristics (SmPC), patient information leaflets (PIL), and instructions for use (IFU), please visit the Electronic Medicines Compendium website. 
+true 
+ View more 
+style 
+background-none 
+Devices -
+Instructions for Use 
+additional-link, ctaselection-link, ctatarget-newtab, ctaexitinterstitial-downloadable-item 
+ HumaPen Savvio® instructions for use 
+style 
+background-none, two-col-50-50 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+narrow 
+Report an Adverse Event,
+Product Complaint
+or Suspected
+Counterfeit Product 
+If you experience side effects taking a Lilly medicine, talk to your doctor or other healthcare professional. This includes any possible side effects not listed in the package leaflet. By reporting side effects, you can help provide information on the safety of medicines. See the Yellow Card website or search for MHRA Yellow Card in the Google Play or Apple App Store for how to report side effects.
+You can also report a side effect, product complaint or suspected counterfeit Lilly product directly to Lilly UK using the contact details below.
+Medicines with the black triangle symbol (▼) have additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the Yellow Card website or search for MHRA Yellow Card in the Google Play or Apple App Store for how to report side effects. 
+style 
+background-none, two-col-50-50 
+extra-styles 
+offset 
+style 
+background-none 
+Contact us 
+To make a report to Lilly UK, you can call us on 01256 315000 or email us at
+ UKMedInfo@Lilly.com 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+additionalMargin 
+narrow 
+roundedBorders 
+true 
+CMAT-06478 June 2026 
+style 
+background-none 

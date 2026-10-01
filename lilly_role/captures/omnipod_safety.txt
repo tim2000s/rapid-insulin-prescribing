@@ -1,0 +1,434 @@
+
+ Important Safety Information | Insulin Pump Therapy | Omnipod 
+ Skip to main content
+ Menu 
+Main United States US 
+ Products
+ Back 
+ Products 
+ Omnipod 5 
+ Back 
+ Omnipod 5
+ The Omnipod 5 App 
+ CGM Sensor Integration 
+ Omnipod 5 FAQs 
+ Omnipod DASH 
+ Back 
+ Omnipod DASH
+ Omnipod DASH FAQs 
+ Is Omnipod right for me?
+ Back 
+ Is Omnipod right for me? 
+ Type 1 Diabetes 
+ Type 2 Diabetes 
+ Kids and Teens 
+ Back 
+ Kids and Teens
+ Back to School 
+ Omnipod Reviews 
+ Cost and Coverage 
+ Back 
+ Cost and Coverage
+ Medicare Coverage 
+ Financial Assistance 
+ Support & Resources
+ Back 
+ Support & Resources 
+ Product Support 
+ Back 
+ Product Support
+ Omnipod 5 Resources 
+ Omnipod DASH Resources 
+ Omnipod System Resources 
+ Contact Us 
+ Pod Wear Tips 
+ PodderCentral 
+ Pod Squad 
+ Upgrade Your Omnipod 
+ Apps & Software 
+ Accessories 
+ Pod Recycling Program 
+ Diabetes Hub
+ Back 
+ Diabetes Hub 
+ Learning Center 
+ Podder Talk Blog 
+ Podders in the Community 
+ Back 
+ Podders in the Community
+ Diabetes Advocacy 
+ Diabetes Awareness 
+ Get Started 
+Select Region 
+United States 
+Estados Unidos - Español 
+Australia 
+België - Nederlands 
+Belgique - Français 
+Canada - English 
+Canada - Français 
+Croatia - English 
+Danmark - Dansk 
+Denmark - English 
+Deutschland 
+España - Español 
+Finland - English 
+Finland - Svenska 
+Suomi - Suomi 
+France 
+Greece - English 
+Iceland - English 
+Italia 
+إسرائيل - عربي 
+Israel - English 
+ישראל - עברית 
+الكويت - عربي 
+Kuwait - English 
+Nederland 
+Norge - Norsk 
+Norway - English 
+Österreich 
+قطر - عربي 
+Qatar - English 
+المملكة العربية السعودية - عربي 
+Saudi Arabia - English 
+Schweiz - Deutsch 
+Suisse - Français 
+Svizzero - Italiano 
+Sverige - Svenska 
+Sweden - English 
+Turkey - English 
+الإمارات العربية المتحدة - عربي 
+United Arab Emirates - English 
+United Kingdom 
+Other 
+Secondary Menu (global) 
+ Healthcare Providers 
+ Contact Us 
+ PodderCentral® Login 
+ PodderCentral® Login 
+ PodderCentral® Login 
+Important Safety Information 
+ Omnipod 5 Automated Insulin Delivery System Important Safety Information 
+ Caution: Federal (US) law restricts this device to sale by or on the order of a physician. 
+ Indications for use 
+ The Omnipod 5 ACE Pump (Pod) is intended for the subcutaneous delivery of insulin, at set and variable rates, for the management of diabetes mellitus in persons requiring insulin. The Omnipod 5 ACE Pump is able to reliably and securely communicate with compatible, digitally connected devices, including automated insulin dosing software, to receive, execute, and confirm commands from these devices. The Omnipod 5 ACE Pump is intended for single patient, home use and requires a prescription. 
+ SmartAdjust™ technology is intended for use with compatible integrated continuous glucose monitors (iCGM) and alternate controller enabled (ACE) pumps to automatically increase, decrease, and pause delivery of insulin based on current and predicted glucose values. SmartAdjust technology is intended for the management of type 1 diabetes mellitus in persons 2 years of age and older and type 2 diabetes mellitus in persons 18 years of age and older. SmartAdjust technology is intended for single patient use and requires a prescription. 
+ The SmartBolus Calculator is software intended for the management of diabetes in persons aged 2 and older requiring rapid-acting U-100 insulin. The SmartBolus Calculator calculates a suggested bolus dose based on user-entered carbohydrates, most recent sensor glucose value (or blood glucose reading if using fingerstick), rate of change of the sensor glucose (if applicable), insulin on board (IOB), and programmable correction factor, insulin to carbohydrate ratio, and target glucose value. The Omnipod 5 SmartBolus Calculator is intended for single patient, home use and requires a prescription. 
+ Contraindications 
+ The Omnipod 5 System is NOT recommended for people who: 
+ are unable to monitor glucose as recommended by their healthcare provider 
+ are unable to maintain contact with their healthcare provider 
+ are unable to use the Omnipod 5 System according to instructions 
+ are taking hydroxyurea as it could lead to falsely elevated CGM values and result in over-delivery of insulin that can lead to severe hypoglycemia 
+ do NOT have adequate hearing and/or vision to allow recognition of all functions of the Omnipod 5 System, including alerts, alarms, and reminders 
+ Device components including the Pod, Sensor, and Transmitter must be removed before Magnetic Resonance Imaging (MRI), Computed Tomography (CT) scan, or diathermy treatment. In addition, the Controller and smartphone should be placed outside of the procedure room. Exposure to MRI, CT, or diathermy treatment can damage the components. 
+ Compatible Insulins 
+ The Omnipod 5 ACE Pump (Pod) is compatible with the following U-100 insulins: NovoLog®, Humalog®, Kirsty®, and Admelog®. SmartAdjust technology is compatible with the following U-100 insulins: NovoLog®, Humalog®, Kirsty®, and Admelog®. 
+ The Omnipod 5 SmartBolus Calculator is compatible with the following U-100 insulins: NovoLog®, Humalog®, Kirsty®, and Admelog®. 
+Some insulin products are labeled for use in any pump that is compatible with the insulins listed above. To see if another insulin not listed above can be used, refer to section 2.2 of the prescribing information for that insulin product. 
+ General Warnings 
+ Warning:  SmartAdjust technology should NOT be used by anyone under the age of 2 years old. SmartAdjust technology should also NOT be used in people who require less than 5 units of insulin per day as the safety of the technology has not been evaluated in this population. 
+ Warning: Read all the instructions provided in the User Guide before using the Omnipod 5 System. Monitor your glucose with the guidance of your healthcare provider. Undetected hyperglycemia or hypoglycemia can result without proper monitoring. 
+ Warning: DO NOT start to use your system or change your settings without adequate training and guidance from your healthcare provider. Initiating and adjusting settings incorrectly can result in over-delivery or under-delivery of insulin, which could lead to hypoglycemia or hyperglycemia. Settings that impact insulin delivery mainly include: Pod Shut-Off, basal rate(s), Max Basal Rate, Max Bolus, Correction Factor(s), Insulin to Carb (IC) Ratio(s), Minimum Glucose for Calculations, Target Glucose and Correct Above, and Duration of Insulin Action. 
+ Warning: DO NOT rely upon the User Guide in any way in connection with your personal healthcare, related decisions, and treatment. The User Guide is informational only and not intended as medical or healthcare advice or recommendations to be used for diagnosis, treatment, or for any other individual needs. The User Guide is not a substitute for medical or healthcare advice, recommendations, and/or services from a qualified healthcare provider. All such decisions and treatment should be discussed with a qualified healthcare provider who is familiar with your individual needs. 
+ Warning: DO NOT use the Omnipod 5 System if you are unable or unwilling to use it as instructed by this User Guide and your healthcare provider. Failure to use this system as intended could result in over-delivery or under-delivery of insulin which can lead to hypoglycemia or hyperglycemia. 
+ Warning: ALWAYS keep an emergency kit with you to quickly respond to any diabetes emergency or in the case that your Omnipod 5 System stops working. Always carry supplies to perform a Pod change should you need to replace your Pod at any time. 
+ Warning: ALWAYS dispose of the Pod according to local waste disposal guidelines. The Pod is considered biohazardous after use and can potentially transmit infectious diseases. 
+ Warning: DO NOT use SmartAdjust technology in pregnant women, critically ill patients, and those on dialysis. The safety of SmartAdjust technology has not been evaluated in these populations. Consult with your healthcare provider if any of these conditions apply to you before using SmartAdjust technology. 
+ Warning: DO NOT use the Omnipod 5 System if you do not have adequate vision and/or hearing to recognize all functions of the Omnipod 5 System including alerts, alarms, and reminders according to instructions. 
+ Warning: ONLY use rapid-acting U-100 NovoLog® (insulin aspart), Humalog® (insulin lispro), Kirsty® (insulin aspart), and Admelog® (insulin lispro) insulin in the Omnipod 5 System as they have been tested and found to be safe for use with this system. NovoLog, Humalog, Kirsty, and Admelog are compatible with the Omnipod 5 System for use up to 72 hours (3 days). Follow your healthcare provider’s directions for how often to replace the Pod. 
+ Warning: AVOID administering insulin, such as by injection or inhalation, while wearing an active Pod as this could result in hypoglycemia. The Omnipod 5 System cannot track insulin that is administered outside of the system. Consult your healthcare provider about how long to wait after manually administering insulin before you start Automated Mode. 
+ Warning: AVOID changing your SmartBolus Calculator settings before consulting with your healthcare provider. Incorrect changes could result in over-delivery or under-delivery of insulin, which can lead to hypoglycemia or hyperglycemia. Settings that impact bolus calculations mainly include: Max Bolus, Minimum Glucose for Calculations, Correct Above, Correction Factor(s), Insulin to Carb (IC) ratio(s), Duration of Insulin Action, and Target Glucose. 
+ Warning: ALWAYS follow your healthcare provider's guidance on appropriate glucose monitoring to avoid hyperglycemia and hypoglycemia. 
+ Warning: Glucose below 70 mg/dL may indicate hypoglycemia (low glucose). Glucose above 250 mg/dL may indicate hyperglycemia (high glucose). Follow your healthcare provider's suggestions for treatment. 
+ Warning: ALWAYS promptly treat hypoglycemia. Glucose at or below 55 mg/dL indicates significant hypoglycemia (very low glucose). If left untreated, this could lead to seizure, loss of consciousness or death. Follow your healthcare provider's recommendations for treatment. 
+ Warning: ALWAYS promptly treat glucose below 70 mg/dL (hypoglycemia) according to your healthcare provider's recommendations. Symptoms of hypoglycemia include weakness, sweating, nervousness, headache, or confusion. If left untreated, hypoglycemia can lead to seizure, loss of consciousness, or death. 
+ Warning: DO NOT wait to treat hypoglycemia (low glucose) or symptoms of hypoglycemia. Even if you cannot check your glucose, waiting to treat symptoms could lead to severe hypoglycemia, which can lead to seizure, loss of consciousness, or death. 
+ Warning: ALWAYS promptly treat hyperglycemia (high glucose) according to your healthcare provider's recommendations. Symptoms of hyperglycemia include fatigue, thirst, excess urination, or blurry vision. If left untreated, hyperglycemia can lead to diabetic ketoacidosis (DKA), or death. 
+ Warning: DO NOT wait to treat DKA. If left untreated, DKA can quickly lead to breathing difficulties, shock, coma, or death. 
+ Warning: ALWAYS treat "LOW" or "HIGH" CGM values and "LO" or "HI" blood glucose readings according to your healthcare provider's recommendations. These values can indicate potentially serious conditions requiring immediate medical attention. If left untreated, these situations can quickly lead to diabetic ketoacidosis (DKA), shock, coma, or death. 
+ Warning: NEVER drive yourself to the emergency room if you need emergency medical care. Ask a friend or family member to take you to the emergency room or call an ambulance. 
+ Warning: ALWAYS be aware of your current CGM value, trust how your body feels, and do not ignore symptoms of high and low glucose. Even though insulin delivery adjusts automatically in Automated Mode with the goal of bringing your glucose level to your defined Target Glucose, severe hypoglycemia or hyperglycemia may still occur. 
+ If your CGM values do not match your symptoms, ALWAYS check your blood glucose using a BG meter, consider treatment and/or CGM sensor calibration if necessary. ALWAYS switch to Manual Mode if you feel you are receiving inaccurate CGM values. 
+ Erroneously high CGM values can cause excessive insulin delivery, leading t severe hypoglycemia, seizure, loss of consciousness or death. 
+ Erroneously low CGM values can cause prolonged insulin suspension leading to hyperglycemia, DKA, or death. 
+ If you are having symptoms that are not consistent with your blood glucose readings and you have followed all instructions described in this User Guide, contact your healthcare provider. 
+ Warning: ALWAYS make sure you are using the CGM per manufacturer's instructions. Do not extend the sensor wear beyond the recommended duration and do not wear a sensor that is past the labeled expiration date. The Omnipod 5 System relies on accurate, current CGM values to determine your insulin needs. Incorrect use of the CGM could result in over-d livery or under-delivery of insulin, which could lead to hypoglycemia or hyperglycemia. 
+ Warning: Do NOT use Omnipod 5 System if you are taking hydroxyurea, a medication used in the treatment of diseases including cancer and sickle cell anemia. Your Dexcom CGM readings could be falsely elevated and could result in over-delivery of insulin which can lead to severe hypoglycemia. 
+ Warning: ALWAYS respond to Hazard Alarms as soon as they occur. Pod Hazard Alarms indicate that insulin delivery has stopped. Failure to respond to a Hazard Alarm could result in under-delivery of insulin which can lead to hyperglycemia. 
+ Warning: ALWAYS monitor your glucose and follow your healthcare provider's treatment guidelines when you stop receiving insulin due to a blockage (occlusion). Not taking action promptly could result in under-delivery of insulin which can lead to hyperglycemia or diabetic ketoacidosis (DKA) (see" Blockage Detected" on page 163). 
+ Warning: SmartAdjust technology should NOT be used by anyone under the age of 2 years old. SmartAdjust technology should also NOT be used in people who require less than 5 units of insulin per day as the safety of the technology has not been evaluated in this population. 
+ Warning: DO NOT use the Omnipod 5 System at low atmospheric pressure (below 700hPA). You could encounter such low atmospheric pressures at high elevations, such as when mountain climbing or living at elevations above 10,000 feet (3,000 meters). Change in atmospheric pressure can also occur during takeoff with air travel. Unintended insulin delivery can occur if there is expansion of tiny air bubbles that may exist inside the Pod. This can result in hypoglycemia. It is important to check your glucose frequently when flying to avoid prolonged hypoglycemia. 
+ Warning: DO NOT use the Omnipod 5 System in oxygen rich environments (greater than 25% oxygen), which include home or surgical areas that use supplementary oxygen and hyperbaric chambers. Hyperbaric, or high pressure, chambers are sometimes used to promote healing of diabetic ulcers, or to treat carbon monoxide poisoning, certain bone and tissue infections, and decompression sickness. Exposure to oxygen rich environments could result in combustion of the Pod or Omnipod 5 Controller, which can cause severe burns to the body. 
+ Warning: DO NOT use the Omnipod 5 System in high atmospheric pressure environments (above 1060 hPA), which can be found in a hyperbaric chamber. Hyperbaric, or high pressure, chambers, are sometimes used to promote healing of diabetic ulcers, or to treat carbon monoxide poisoning, certain bone and tissue infections, and decompression sickness. Exposure to high atmospheric pressure environments can damage your Pod and Omnipod 5 Controller which could result in under-delivery of insulin which can lead to hyperglycemia. 
+ General Precautions 
+ Caution: Federal (US) law restricts this device to sale by or on the order of a physician. 
+ Caution: DO NOT use any component of the Omnipod 5 System (smartphone, Controller, Pod) if you suspect damage after an unexpected event such as dropping or hitting on a hard surface. Using damaged components may put your health at risk as the system may not be working properly. If you are unsure if one or more of your components are damaged, stop using the system and call Customer Care for support. 
+ Caution: ONLY use the Omnipod 5 System with authorized devices (Omnipod 5 App, Controller, Pod, Dexcom G6 or Dexcom G7, and FreeStyle Libre 2 Plus Sensor). DO NOT attempt to use the Omnipod 5 System with unauthorized devices. Attempting to use the Omnipod 5 System with unauthorized devices could interrupt your insulin delivery and put your health and safety at risk. 
+ Caution: Connect ONLY to trusted Wi-Fi networks with your Controller or smartphone. AVOID connecting to public Wi-Fi networks, such as those found in airports, coffee shops, etc, as these networks are not secure and could result in exposing your Controller or phone to malware. DO NOT connect to public Wi-Fi networks during first-time setup of your Omnipod 5 System. 
+ Caution : Use ONLY the charging adapter and orange or black charging cable that came with your Controller, as they are designed to limit the power to safely charge the battery. Third-party accessories may allow much higher power, increasing the risk of overheating, spark, or fire, which may lead to minor injuries or serious burns.  
+ Caution : ALWAYS follow safe guidelines for charging your Controller. Before each charge, check the Controller, cable, and adapter, and do not use them if they are damaged. Do not force or bend the end of the charging cable into the Controller charging port. Monitor the Controller while it’s charging. Always charge your Controller on a hard, flat surface away from flammable items (like bedding or paper), and never cover your Controller while charging. Unplug your Controller immediately if it feels too hot, and make a habit of unplugging it when it reaches 100% charge.  
+ Caution: ALWAYS activate a new Pod in a timely manner. Waiting too long between Pod changes could result in under-delivery of insulin which can lead to hyperglycemia. If another Pod is not available, use a different insulin delivery method. 
+ Caution: DO NOT navigate away from the Omnipod 5 App while you are in the process of making changes to your insulin delivery settings. If you leave the App before you are able to save the setting change and before the App is able to put the setting change into effect, the system will continue to use your last saved settings. As a result, you may continue with therapy settings that you did not intend. If you are unsure about whether your changes were saved, review your settings. 
+ Caution: ALWAYS keep your Controller safe and within your control to ensure others cannot make changes to your insulin therapy. Do not share your Controller screen lock security with anyone. 
+ Caution: AVOID leaving your Controller or smartphone in a place that would prevent you from hearing alarms and notifications from your Omnipod 5 App. Delivery of insulin in Manual Mode or Automated Mode continues as programmed if you move away from your Controller or smartphone. 
+ Caution: ALWAYS respond to Pod Expired, Low Pod Insulin, and Pod Shut-Off Advisory Alarms when they occur. These alarms escalate to Hazard Alarms if no action is taken. When Hazard Alarms occur, insulin delivery stops. 
+ Caution: ALWAYS be aware of possible changes to your time zone when traveling. If you do not update your time zone, your insulin therapy will be delivered based on your old time zone which may cause disruptions in your insulin delivery schedule and inaccurate history logs. Talk to your healthcare provider about how to manage your insulin delivery while traveling between time zones. 
+ Caution: You cannot use the Dexcom receiver with the Omnipod 5 System because the Omnipod 5 System is compatible only with the Dexcom G6 or Dexcom G7 app on a smartphone. 
+ Caution: ALWAYS check your glucose frequently during amusement park rides and flying or other situations where sudden changes or extremes of air pressure, altitude, or gravity may be occurring. Though the Omnipod 5 System is safe to use at atmospheric pressures typically found in airplane cabins during flight, the atmosphere pressure in an airplane cabin can change during flight, which may affect the Pod's insulin delivery. Rapid changes in altitude and gravity, such as those typically found on amusement park rides or flight take-off and landing, can affect insulin delivery, leading to possible hypoglycemia or injury. If needed, follow your healthcare provider's treatment instructions. 
+ Potential Risks 
+ The Omnipod 5 System uses sensor values and trends to calculate insulin delivery. If the sensor values are inaccurate, the System could deliver an inaccurate dose of insulin which can lead to hypoglycemia or hyperglycemia. 
+ Wearing a Pod might cause infection. Be aware of signs of infection, including: bleeding, pain, and skin irritation, including redness. See your healthcare provider if irritation occurs. 
+ Kinks or air bubbles in the cannula, or dislodging of the cannula can affect insulin delivery. Glucose that does not decrease after a bolus, or other unexplained high glucose, are signs of a blockage (occlusion) and an interruption in insulin delivery. 
+ Hardware defects, software glitches, and Pod failures can cause an interruption in insulin delivery. A Pod failure can lead to hypoglycemia, hyperglycemia, or diabetic ketoacidosis. Keep your Omnipod 5 Controller and/or smartphone on and nearby to ensure you are notified of recent insulin delivery and important alarms and messages. 
+ Important User Information 
+ Pay special attention to Warnings and Precautions in this User Guide. The words “Warning” and “Caution” are displayed in red, bolded text. 
+ The Omnipod 5 System is designed to work with either the Dexcom G6, Dexcom G7, or FreeStyle Libre 2 Plus Sensors. 
+To use the Dexcom G6 CGM with the Omnipod 5 System, you will need to obtain the Dexcom G6 Sensor, Transmitter, and Instructions for Use and download the Dexcom G6 App on your personal smartphone. 
+To use the Dexcom G7 CGM with the Omnipod 5 System, you will need to obtain the Dexcom G7 Sensor and Instructions for Use, and download the Dexcom G7 App on your personal smartphone. 
+To use the FreeStyle Libre 2 Plus Sensor with the Omnipod 5 System, you will need to obtain FreeStyle Libre 2 Plus Sensors and the FreeStyle Libre 2 Plus Sensor Instructions for Use. 
+ If you are new to using a glucose Sensor, continue using your BG meter until you are familiar with Sensor usage. 
+ If you are currently using the system without the Dexcom Sensor, or if you are currently using the Dexcom Sensor, it is still very important that you review all instructions in this User Guide before using the system. 
+Omnipod DASH Insulin Management System Important Safety Information 
+The Omnipod DASH® System is designed to use rapid-acting U-100 insulin. The following U-100 rapid-acting insulin analogs have been tested and found to be safe for use in the Pod: 
+NovoLog®, Humalog®, Fiasp®, Admelog®, Lyumjev® or Apidra®. Novolog®/NovoRapid®, Humalog®, Fiasp®, Admelog®, or Lyumjev® are compatible with the Omnipod DASH® System for use up to 72 hours (3 days). Apidra is compatible with the Omnipod DASH® System for use up to 48 hours (2 days). 
+If you have questions about using other insulins, contact your healthcare provider. Fiasp and Lyumjev have a faster initial absorption than other rapid-acting U-100 insulins; always consult with your healthcare provider and refer to the insulin labeling prior to use. 
+NEVER use insulin that is cloudy; it may be old or inactive. Failure to use rapid acting U-100 insulin, or using insulin that is expired or inactive, may lead to hyperglycemia or diabetic ketoacidosis (DKA). 
+This information is not intended to replace your healthcare provider’s recommendations. Always follow the advice of your healthcare provider and the User Guide provided with the Omnipod DASH System. 
+For more detailed instructions on how to properly use the Omnipod DASH System and a full list of all precautions and warnings, please consult the User Guide, found here . 
+Caution: U.S. federal law restricts this device to sale by or on the order of a physician. 
+Indications for Use 
+The Omnipod DASH Insulin Management System is intended for subcutaneous delivery of insulin at set and variable rates for the management of diabetes mellitus in persons requiring insulin. 
+Additionally, the Omnipod DASH System is interoperable with a compatible blood glucose meter to receive and display blood glucose measurements. 
+Contraindications 
+Insulin pump therapy is NOT recommended for people who are: 
+Unable to monitor blood glucose levels as recommended by their healthcare provider 
+Unable to maintain contact with their healthcare provider 
+Unable to use the Omnipod DASH System according to instructions
+Safety Features 
+The Omnipod DASH System’s safety features include: 
+Automatic priming, safety checks and insertion – when you activate a new Pod, the Omnipod DASH System automatically primes and performs safety checks on the Pod, then inserts and primes the cannula (a small, thin tube). These safety checks take only a few seconds. The Omnipod DASH System also performs safety checks on the Personal Diabetes Manager (PDM) whenever the PDM is awake. If it detects any problems in the PDM or the Pod – or in the communication between them – it informs you with vibrations or beeps and an on-screen message. 
+Occlusion detection – if the Omnipod DASH System detects an occlusion, it sounds a hazard alarm and prompts you to deactivate and change your Pod. An occlusion hazard alarms sounds when an average of 3 to 5 units of missed insulin occurs 
+Warning: At very low basal flow rates, checking your blood glucose frequently may give you an early indication of an occlusion. 
+Alarms and notifications – the Omnipod DASH System provides a range of alarms and notifications to tell you that your attention is needed or to warn you of hazardous situations 
+NOTE: Brief alarm and notification messages appear on the lock screen. You must unlock the screen and enter your personal identification number (PIN) to see the full alarm message. 
+NOTE: Wake up your PDM periodically to confirm that there are no notification or alarm messages that require a response. 
+Software Updates – occasionally, a security update may be provided for the PDM software. The PDM periodically checks for software updates if Wi-Fi is on.
+Medical Procedures 
+The Omnipod DASH System should NOT be used at low atmospheric pressure (below 700hPA). You could encounter such low atmospheric pressures at high elevations, such as when mountain climbing or living at elevations about 10,000 feet (3,000 meters). 
+The Omnipod DASH System should NOT be used in oxygen rich environments (greater than 25% oxygen) or at high atmospheric pressure (above 1060hPA), both of which can be found in a hyperbaric chamber. 
+The Pod and PDM may be affected by strong radiation or magnetic fields. Before having an X-ray, MRI or CT scan (or any similar test or procedure), remove and dispose of your Pod and place your PDM outside the treatment area. Check with your healthcare provider on Pod removal guidelines. 
+For scheduled surgeries or hospitalization, you should tell the physician/surgeon or hospital staff about your Pod. It may be necessary to remove it for certain procedures or treatments. Remember to replace the basal insulin that was missed while the Pod was removed. Your healthcare provider can help you prepare for these situations. 
+Interference 
+The Omnipod DASH® Insulin Management System (both the Pod and the PDM) complies with Part 15 of the Federal Communications Commission (FCC) Rules. 
+Operation is subject to the following two conditions: 
+1. These devices may not cause harmful interference. 
+2. These devices must accept any interference received, including interference that may cause undesirable operation. 
+Caution: Changes or modifications not expressly approved by Insulet Corporation could void the user’s authority to operate the equipment. 
+Both the Pod and the PDM generate, use, and can radiate radio frequency energy, and may cause harmful interference to radio communications of other devices. There are no guarantees that interference will not occur in a particular installation. If the Omnipod DASH® System does cause harmful interference to radio and television reception, the interference may be corrected by one of the following measures: 
+Move or relocate the Omnipod DASH® System. 
+Increase the distance between the Omnipod DASH® System and the other device that is emitting or receiving interference.
+Electromagnetic Compatibility 
+Medical electrical equipment requires special precautions regarding electromagnetic compatibility (EMC) and needs to be installed and put into service according to the EMC information provided in this document and the instructions for use. If the Omnipod DASH® System fails due to electromagnetic disturbances, you may need to replace it. 
+Portable and mobile radio frequency (RF) communications equipment can affect the function of medical electrical equipment. 
+Caution: Cables and accessories not specified within the instructions for use are not authorized. Using other cables or accessories may adversely impact safety, performance, and electromagnetic compatibility (increased emission and decreased immunity). 
+Care should be taken if the Omnipod DASH® System is used adjacent to other electrical equipment; if adjacent use is inevitable, such as in work environments, the Omnipod DASH® System should be observed to verify normal operation in this setting. 
+The Omnipod DASH® System communicates by low level RF energy. As with all RF receivers, the potential for disturbance exists, even with equipment that complies with FCC and CISPR emissions requirements. 
+The Omnipod DASH® System communicates with the following characteristics: 
+Frequency: 2.400-2.480 GHz, digitally modulated, with an effective radiated power of 1.14mW 
+The Omnipod DASH® System complies with the immunity requirements of the general standard for electromagnetic compatibility, IEC 60601-1-2. 
+The Omnipod DASH® System has demonstrated immunity to both radiofrequency identification (RFID) systems and Electronic Article Surveillance (EAS) systems. Testing has been performed in accordance with AIM 7351731 to demonstrate this immunity. 
+Caution: Portable RF communications equipment (including peripherals such as antenna cables and external antennas) should be used no closer than 12 inches (30cm) to any part of the Omnipod DASH® System. Otherwise, degradation of the performance of this equipment could result. 
+Airports and Flying 
+Pod and PDMs can safely pass through airport X-ray machines. The Pod and PDM can tolerate common electromagnetic and electrostatic fields, including airport security and cellular phones. 
+The PDM controls the Pod using Bluetooth wireless technology. Before flying, check your airline's policy regarding the use of Personal Medical Electronic Devices that communicate using Bluetooth technology. 
+If use of a Personal Electronic Device using Bluetooth technology is allowed, set your PDM to airplane mode while on the airplane. The Bluetooth setting remains enabled in the PDM's airplane mode so you can communicate with your Pod and BG meter. Airplane mode turns off your PDM's Wi-Fi connectivity. 
+Note: The Omnipod DASH® System is safe to use at atmospheric pressures typically found in airplane cabins during flight. The Omnipod DASH® System can be used at atmospheric pressures as low as 700hPA, which is lower than the typical pressure in airplane cabins. 
+Warning: The atmospheric pressure in an airplane cabin can change during flight, which may affect the Pod’s insulin delivery. Check your blood glucose frequently while flying. If needed, follow your healthcare provider’s treatment instructions. 
+Using the Omnipod DASH System 
+Do NOT use the Omnipod DASH System before you have been trained. Inadequate training could put your health and safety at risk. Follow your healthcare provider’s instructions for initializing the PDM. Improper setup could put your health and safety at risk. 
+The Omnipod DASH® System is made up of two parts: The Pod, which delivers insulin to your body, and the Personal Diabetes Manager (PDM), which lets you control the Pod. 
+The Pod 
+The Pod is a lightweight device that you fill with insulin and wear directly on your body. The Pod receives insulin delivery instructions from the PDM. The Pod then delivers insulin into your body through a small, flexible tube called a cannula. The Pod is applied to your skin with an adhesive, similar to an adhesive bandage. The Pod that is used with the Omnipod DASH® System has a blue needle cap. 
+Your Pod should be changed at least once every 48 to 72 hours (2 to 3 days) or after delivering 200 units of insulin. Consult with your healthcare provider and refer to the insulin labeling to determine if you should change your Pod more often. 
+The Pod requires a minimum of 85 units of insulin to function and can deliver up to 200 units of insulin. The Pod has an IP rating of IP28. It is waterproof to a depth of 25 feet for 60 minutes. 
+Precautions/Warnings: 
+Do NOT use a Pod if you are sensitive to or have allergies to acrylic adhesives, or have fragile or easily damaged skin. 
+Because the Pod uses only rapid-acting U-100 insulin, you are at increased risk for developing hyperglycemia if insulin delivery is interrupted. Severe hyperglycemia can quickly lead to diabetic ketoacidosis (DKA). DKA can cause symptoms such as breathing difficulties, shock, coma, or death. If insulin delivery is interrupted for any reason, you may need to replace the missing insulin. Ask your healthcare provider for instructions for handling interrupted insulin delivery, which may include an injection of rapid-acting insulin. 
+The Pod and its accessories, including the needle cap, contain small parts that may be dangerous if swallowed. Be careful to keep these small parts away from young children. 
+ NEVER use insulin that is cloudy; it may be old or inactive. Always follow the insulin manufacturer’s instructions for use. Failure to use rapid-acting U-100 insulin, or using insulin that has expired or is inactive, could put your health at risk. 
+Do NOT apply or use a Pod if the sterile packaging is open or damaged, or if the Pod has been dropped after removal from the package, as this may increase the risk of infection. Pods are sterile unless the packaging has been opened or damaged. 
+Do NOT apply or use a Pod that is damaged in any way. A damaged Pod may not work properly. 
+Do NOT use a Pod if it is past the expiration date on the package. 
+To minimize the possibility of site infection, do NOT apply a Pod without first using aseptic technique. This means to: 
+Wash your hands. 
+Clean the insulin vial with an alcohol prep swab. 
+Clean the infusion site with soap and water or an alcohol prep swab. 
+Keep sterile materials away from any possible germs. 
+Before filling a Pod, ensure that no other Pods are being activated within 5 feet (1.5 m) of your PDM. 
+Be sure to insert the fill syringe into the fill port and not any other location on the Pod. Do not insert the fill syringe more than once into the fill port. Only use the fill syringe and needle that came with your Pod. The fill syringe is intended for single use only and should only be used with the Omnipod DASH® System. 
+ NEVER use a Pod if you feel resistance when you depress the plunger. This condition can result in interrupted insulin delivery. 
+ NEVER inject air into the fill port. Doing so may result in unintended or interrupted insulin delivery. 
+Check often to make sure the Pod and soft cannula are securely attached and in place. A loose or dislodged cannula may interrupt insulin delivery. Verify that there is no wetness or scent of insulin, which may indicate that the cannula has dislodged. 
+If an infusion site shows signs of infection: 
+Immediately remove the Pod and apply a new Pod at a different infusion site. 
+Contact your healthcare provider. Treat the infection according to instructions from your healthcare provider. 
+Never use a blow dryer or hot air to dry the Pod. Extreme heat can damage the electronics. 
+Do NOT expose a Pod to direct sunlight for long periods of time. Remove your Pod prior to using hot tubs, whirlpools, or saunas. These conditions could expose the Pod to extreme temperatures and may also affect the insulin inside the Pod. 
+The Personal Diabetes Manager (PDM) 
+The PDM is a handheld device that controls and monitors the Pod's operations using wireless technology. The PDM displays messages and options for you on its touchscreen. You communicate with the PDM by tapping or swiping your finger on the touchscreen. 
+Although PDM setup is easy, if you are a first-time user, your trainer must guide you through the setup process. You can adjust these settings later as needed. 
+Avoid taking a long break during the setup process. If the PDM is idle for 60 minutes during the setup process, you must start the setup process again from the beginning. 
+Precautions/Warnings: 
+Extreme operating temperatures can affect the PDM's battery and interfere with Omnipod DASH® System operation. Avoid using the PDM in temperatures below 41°F (5°C) or above 104°F (40°C). 
+Do NOT store or leave the PDM where it may be exposed to extreme temperatures, such as inside a car. Extreme heat or cold can cause the PDM to malfunction. 
+The PDM is NOT waterproof. Do NOT place it in or near water. 
+When you connect a USB cable to the PDM, only use a cable that is less than or equal to 4 feet (1.2 meters) in length. 
+Do not expose your battery to high heat. Do not puncture, crush, or apply pressure to your battery. Failure to follow these instructions could result in an explosion, fire, electric shock, damage to the PDM or battery, or battery leakage. 
+Do not incinerate a battery. Dispose of an old battery in accordance with local waste disposal regulations. 
+If the battery power becomes critically low, the PDM turns itself off to preserve the data in memory. At this point, you cannot use the PDM until you have plugged in the charger. 
+Contour Next One Blood Glucose Meter 
+Your PDM can pair to and record blood glucose readings from the CONTOUR® NEXT ONE BG meter via Bluetooth wireless technology. While the CONTOUR NEXT ONE BG meter is the only BG meter compatible for pairing to the PDM, you can also manually enter blood glucose readings from any BG meter into the PDM. 
+For instructions about how to use the CONTOUR® NEXT ONE Blood Glucose Monitoring System, see the CONTOUR® NEXT ONE Blood Glucose Monitoring System User Guide. 
+For technical questions about your CONTOUR® NEXT ONE Blood Glucose 
+Monitoring System setup or operation, or to order CONTOUR® NEXT ONE BG meter products or supplies, see the CONTOUR® NEXT ONE instructions for use for Customer Service contact information. 
+Omnipod Insulin Management System Important Safety Information 
+The Omnipod® Insulin Management System with blood glucose meter is comprised of two primary components: the insulin pump (Pod) and a remote controller, also known as the Personal Diabetes Manager (PDM). The Pod is controlled exclusively through the use of the PDM. The Pod and PDM interact wirelessly* using a secure, low power, bi-directional radio frequency (RF) communication. 
+ The Omnipod® System is designed to use rapid acting U-100 insulin. The following U-100 rapid acting insulin analogs have been tested and found to be safe for use in the Pod: Novolog®/ NovoRapid ®, Humalog®, Fiasp ®, Admelog ®, Lyumjev ® or Apidra ®. Novolog®/ NovoRapid ®, Humalog®, Fiasp ®, Admelog ®, or Lyumjev ® are compatible with the Omnipod DASH® System for use up to 72 hours (3 days). Apidra is compatible with the Omnipod DASH® System for use up to 48 hours (2 days). 
+NEVER use insulin that is cloudy; it may be old or inactive. Failure to use rapid acting U-100 insulin, or using insulin that is expired or inactive, may lead to hyperglycemia or diabetic ketoacidosis (DKA). 
+This information is not intended to replace your healthcare provider’s recommendations. Always follow the advice of your healthcare provider and the User Guide provided with the Omnipod® System. 
+For more detailed instructions on how to properly use the Omnipod® System and a full list of all precautions and warnings, please consult the User Guide, found here . 
+Caution: U.S. federal law restricts this device to sale by or on the order of a physician. 
+Indications for Use 
+The Omnipod® Insulin Management System is intended for the subcutaneous delivery of insulin at set and variable rates for the management of diabetes mellitus in persons requiring insulin and for the quantitative measurement of glucose in fresh whole capillary blood (in vitro) from the finger. 
+The glucose measurements should not be used for the diagnosis or screening for diabetes. The PDM glucose meter is intended for single-patient use and should not be shared. 
+Abbott FreeStyle test strips are used with the built-in FreeStyle meter for the quantitative measurement of blood glucose in fresh whole capillary blood from the finger, upper arm and palm. Abbott FreeStyle Control Solutions are used to verify that the meter and test strips are working together properly and that the test is performed correctly. 
+Contraindications 
+Insulin pump therapy is NOT recommended for people who are either: 
+Unable to perform at least four (4) blood glucose tests per day 
+Unable to maintain contact with their healthcare provider 
+Unable to use the Omnipod® System according to instructions 
+Do not use the integrated FreeStyle Blood Glucose Monitoring System for: 
+Testing on newborns 
+Testing arterial blood 
+Diagnosing of or screening for diabetes mellitus
+Safety Features 
+The Omnipod® System’s state of the art design includes the latest safety technology. Its built-in safety features include: 
+Automatic priming, safety checks and insertion – every time you activate a new Pod, the Omnipod® System automatically primes and performs a safety check on the Pod, then inserts and primes the cannula. Micro-processor technology makes it possible to complete thousands of safety checks in only a few seconds. The Omnipod® System also performs safety checks on the PDM. If any problems are detected, the Omnipod® System will inform you with beeps and on-screen messages. 
+Occlusion detection – an occlusion is a blockage or interruption in insulin delivery. If the Omnipod® System detects an occlusion, it sounds a hazard alarm and prompts you to deactivate and change your Pod. A hazard alarm sounds when an average of 3 to 5 units of missed insulin occurs. 
+Alerts and alarms – the Omnipod® System provides a range of alerts and alarms to tell you that your attention is needed or to warn you of hazardous situations.
+Medical Procedures 
+The Omnipod® System should NOT be used in a hyperbaric chamber as there is a potential for an explosion. There are active electronics inside the Pod and PDM and a hyperbaric chamber has high concentrations of oxygen. 
+The Pod and PDM may be affected by strong radiation or magnetic fields. Before having an X-ray, MRI or CT scan (or any similar test or procedure), remove your Pod and put it and the PDM outside the treatment area. Check with your healthcare provider for Pod removal guidelines. 
+Interference 
+The Omnipod® Insulin Management System (both the Pod and the Personal Diabetes Manager or PDM) complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: 
+These devices may not cause harmful interference. 
+These devices must accept any interference received, including interference that may cause undesirable operation. 
+Changes or modifications not expressly approved by Insulet could void the user’s authority to operate the equipment. Both the Pod and the PDM generate, use, and can radiate radio frequency energy, and may cause harmful interference to radio communications. There are no guarantees that interference will not occur in a particular installation. If the Omnipod® System does cause harmful interference to radio and television reception, the interference may be corrected by one of the following measures: 
+Move or relocate the Omnipod® System. 
+Increase the distance between the Omnipod® System and the other device that is emitting or receiving interference. 
+Insulet Corporation declares that the Omnipod® System is in compliance with the essential requirements and other relevant provisions of Directive 1999/5/EC. This ISM device complies with Canadian ICES-003 and IC-RSS-210. 
+Electromagnetic Compatibility 
+Medical electrical equipment requires special precautions regarding electromagnetic compatibility (EMC) and needs to be installed and put into service according to the EMC information provided in this document and the instructions for use. Portable and mobile RF communications equipment can affect the function of medical electrical equipment. 
+Insulet Corporation declares that the Omnipod® System is in compliance with the essential requirements and other relevant provisions of Directive 1999/5/EC. 
+Cables and accessories not specified within the instructions for use are not authorized. Using other cables and/or accessories may adversely impact safety, performance, and electromagnetic compatibility (increased emission and decreased immunity). Care should be taken if the Omnipod® System is used adjacent to other electrical equipment; if adjacent use is inevitable, such as in work environments, the System should be observed to verify normal operation in this setting. The System communicates by low level RF energy. As with all RF receivers, the potential for disturbance exists, even with equipment that complies with FCC and CISPR emissions requirements. 
+The Omnipod® System communicates with the following characteristics: 
+Frequency: 433 Mhz, FSK modulation, with an effective radiated power of 13mW 
+The Omnipod® System greatly exceeds the immunity requirements of the general standard for electromagnetic compatibility, IEC 60601-1-2. 
+Using the Omnipod® System 
+Precautions/Warnings 
+Do NOT use the Omnipod® Insulin Management System until you have been trained by your healthcare provider. He or she will initialize the Omnipod® System based on your individual needs. Inadequate training or improper setup could put your health and safety at risk. 
+If you are unable to use the Omnipod® System according to instructions, you may be putting your health and safety at risk. Talk with your healthcare provider if you have questions or concerns about using the Omnipod® System properly. 
+The Omnipod® System is NOT recommended for individuals with hearing loss. Always verify ability to hear Pod/PDM alerts and alarms. 
+Pod 
+Replace the Pod at least once every 48 – 72 hours or up to 200 units of insulin (2 – 3 days). Refer to the insulin labeling and follow your healthcare provider’s directions for how often to replace your Pod. 
+The Pod requires a minimum of 85 units of insulin to be operational and can deliver up to 200 units of insulin. 
+The Pod has an IP rating of IPX8. It is waterproof to a depth of 25 feet for 60 minutes. 
+Precautions/Warnings 
+Do NOT attempt to apply or use a Pod until you have been trained by your healthcare provider. Use of the Omnipod® System with inadequate training or improper setup could put your health and safety at risk. 
+Do NOT apply or use a Pod if the sterile packaging is open or damaged or if the Pod has been dropped after removal from the package, as this may increase the risk of infection. Pods are sterile unless packaging has been opened or damaged. 
+Do NOT apply or use a Pod if it is damaged in any way. A damaged Pod may not work properly. 
+To minimize the possibility of site infection, do NOT apply a Pod without first using aseptic technique. This means to: 
+Wash your hands 
+Clean the insulin vial with an alcohol prep swab 
+Clean the infusion site with soap and water or an alcohol prep swap 
+Keep sterile materials away from any possible germs 
+Do NOT use a Pod if you are sensitive to or have allergies to acrylic adhesives or have fragile or easily damaged skin. 
+Do NOT apply a new Pod until you have deactivated and removed the old Pod. A Pod that has not been deactivated properly may continue to deliver insulin as programmed, putting you at risk of over infusion and possible hypoglycemia. 
+Because insulin Pods use only rapid-acting insulin, users are at increased risk for developing hyperglycemia (high blood glucose) if insulin delivery is interrupted. If it is untreated, severe hyperglycemia can quickly lead to diabetic ketoacidosis (DKA). DKA can cause symptoms such as breathing difficulties, shock, coma, or death. If insulin delivery is interrupted for any reason, you may need to replace the missing insulin usually with an injection of rapid-acting insulin. Ask your healthcare provider for instructions on handling interrupted insulin delivery. 
+Before filling a Pod, ensure that no other Pods are being activated within 24 inches (2 feet) of your PDM. 
+Before filling a Pod, ensure that the Pod is above 50°F (10°C). If the Pod has been exposed to temperatures below 50°F (10°C), then allow the Pod to be brought back to room temperature before filling with insulin. Only use room temperature insulin when filling the Pod. 
+Make sure there is no air in the syringe before attempting to fill the Pod with insulin. Failure to expel air bubble for the fill syringe may result in interrupted insulin delivery. 
+ NEVER use a Pod if you feel resistance when you depress the plunger. This condition can result in interrupted insulin delivery. 
+Do NOT apply the Pod within 2 inches of your navel or over a mole, tattoo or scar. This may reduce insulin absorption. 
+Do NOT expose a Pod to direct sunlight for long periods of time. It is recommended that you remove your Pod prior to using hot tubs, whirlpools, or saunas. These conditions could expose the Pod to extreme temperatures and may also affect the insulin inside the Pod. 
+Do NOT expose your Pod to water at depths greater than 25 feet or for more than 60 minutes. Check often to make sure the Pod and soft cannula are securely attached and in place. If the cannula is not properly inserted, hyperglycemia may result. Verify there is no wetness or scent of insulin, which may indicate the cannula has dislodged. 
+Personal Diabetes Manager (PDM) 
+The Personal Diabetes Manager (PDM) is a wireless, handheld device that: 
+Programs the Pod with your personalized insulin-delivery instructions 
+Wirelessly monitors the Pod’s operation 
+Includes a FreeStyle blood glucose meter 
+The PDM displays an identification (ID) screen, which allows you to identify that the PDM is yours. You can personalize the ID screen by adding your name and choosing its color. 
+ Precautions/Warnings 
+Do NOT store or leave the PDM where it may be exposed to extreme temperatures, such as inside a car. Extreme heat or cold can cause the device to malfunction. 
+Do NOT use any other type of batteries than AAA alkaline batteries to power the PDM. Never use old or used batteries; the PDM may not work properly. 
+It is important that you always identify the PDM as yours before you use it. 
+If your PDM is damaged or not working as expected, call Customer Care for assistance. Be sure to check your blood glucose frequently. Remove your Pod and contact your healthcare provider for treatment guidelines to follow after you remove it. 
+Do NOT use IV Prep wipes, alcohol wipes, soap, detergent, or solvents. Never put any liquid into the battery compartment. 
+The PDM is NOT waterproof. Do NOT immerse it or place it in or near water. 
+FreeStyle Blood Glucose Meter 
+With the FreeStyle blood glucose meter, checking your blood glucose requires a very small sample size, 0.3 microliters of blood. Refer to your FreeStyle test strip instructions for use for important test strip information. You may want to test for low blood glucose: 
+When you feel symptoms such as weakness, sweating, nervousness, headache or confusion 
+When you have delayed a meal after taking insulin 
+When your healthcare provider advises you to do so 
+This device is intended for self-testing by the user. 
+Important test strip information 
+Store the blood glucose test strip package in a cool, dry place between 40° and 86° F (4.4° and 30° C). 
+Use test strips only when the PDM is within its operating temperature range, between 40° and 104° F (4.4° and 40° C). 
+Keep test strips away from direct sunlight and heat. 
+Store test strips in their original vial only; never transfer them to another vial or any other container. 
+Never store individual test strips outside the vial. 
+After removing a blood glucose test strip from the vial, immediately close the vial cap tightly. 
+With clean, dry hands, you can gently touch the test strip anywhere when removing it from the vial or inserting it into the test strip port. 
+Do not bend, cut, or alter blood glucose tests strips in any way.
+FreeStyle Control Solution 
+The FreeStyle Control Solution is a red liquid that contains a fixed amount of glucose and has two important uses: 
+To ensure that your meter and test strips are working together properly 
+To practice testing without having to use your own blood 
+Three levels of control solution are available: Low, Normal, and High. For information on how to obtain control solution, call Insulet’s Customer Care (24 hours/7 days): 800-591-3455 . When calling from outside the United States: 978-600-7850 . 
+You should perform a control solution test: 
+When you suspect that your meter or test strips are not working properly 
+When you think your test results are not accurate or if your test results are not consistent with how you feel 
+When you drop or damage your PDM or expose it to liquids 
+When your healthcare provider advises you to do so
+ Check that the meter and test strips are working 
+A control solution test follows the same procedure as a blood glucose reading, except that you use a sample of control solution instead of a drop of blood. When you perform a control solution test, if the reading is within the control solution acceptable range, the meter is working properly. 
+ Control solution expiration date 
+FreeStyle Control Solution is good for 3 months after opening the bottle, or until the expiration date printed on the label, whichever comes first. Count forward 3 months from the date you open a new bottle of control solution. This is your discard date. Write this date on the side of the control solution bottle. For example, if you open the control solution on January 15, count forward 3 months to April 15. This is the discard date to record on the bottle, as well as the date to discard it and begin using a new bottle. 
+Precautions/Warnings 
+The glucose meter and lancing device are for single-patient use. Do NOT share the device with anyone including other family members. Do NOT use on multiple patients. Parts of the device are considered biohazardous and can potentially transmit infectious diseases, even after you have performed cleaning and disinfection. 
+Do NOT use strips beyond the expiration date printed on the package, as this may cause inaccurate results. 
+Please read all instructions provided in the User Guide and practice the blood glucose testing procedures before using the Omnipod® System. Monitor your blood glucose with the guidance of your healthcare provider. Undetected hyperglycemia or hypoglycemia can result without proper monitoring. 
+If you are having symptoms that are not consistent with your blood glucose test and you have followed all instructions described in the User Guide, call your healthcare provider. 
+Use only FreeStyle Control Solution with the Omnipod® System. Other brands of control solution may produce inaccurate results with this System. 
+Do NOT use control solution past the expiration date or you may get inaccurate results. 
+ *At start-up, the Pod and Personal Diabetes Manager must be adjacent and touching. For normal communications, the Personal Diabetes Manager must be within 5 feet of the Pod. 
+ FreeStyle and related brand marks are trademarks of Abbott Diabetes Care Inc. in various jurisdictions and used with permission. 
+Social Media Menu - US 
+Global Footer Menu 
+ About Insulet 
+ Contact Us 
+ Media Resources 
+ Important Safety Information 
+ Insulet Alerts 
+ Privacy Policy 
+ Cookie Policy 
+ HIPAA Privacy Notice 
+ Terms of Use 
+ End User License Agreement 
+ Security at Insulet 
+ Compliance and Ethics Hotline 
+ California Health & Safety Code 
+ Sustainability Report 
+©2018-2026 Insulet Corporation. Omnipod, the Omnipod logos, Omnipod DASH, the Omnipod DASH logo, the Omnipod 5 logo, SmartAdjust, Omnipod DEMO, Podder, Simplify Life, Toby the Turtle, PodderCentral, the PodderCentral logo, Podder Talk, PodPals, Pod University, and OmnipodPromise are trademarks or registered trademarks of Insulet Corporation. All rights reserved. Glooko is a trademark of Glooko, Inc. and used with permission. Dexcom and Dexcom G6 and G7 are registered trademarks of Dexcom, Inc. and used with permission. The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott and used with permission. The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc., and any use of such marks by Insulet Corporation is under license. All other trademarks are the property of their respective owners. The use of third-party trademarks does not constitute an endorsement or imply a relationship or other affiliation. 

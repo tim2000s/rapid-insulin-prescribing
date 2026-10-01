@@ -1,0 +1,266 @@
+ 
+ Current Lilly Medications | Product Portfolio | Lilly Australia 
+Our Medicines 
+false 
+style 
+background-none 
+For over 150 years, we have worked tirelessly to develop and deliver trusted medicines that meet real needs. 
+Australian laws and regulations limit the amount of product information that we can provide to the general public via our website. We encourage patients wishing to obtain more detailed information about a Lilly product that has been prescribed to them, to speak to their healthcare professional. The product information on this website is intended for Australian residents, if you are looking for our New Zealand products page, please click here . 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+Medicines 
+style 
+background-none 
+additionalPadding 
+narrow 
+Cardiovascular 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Adcirca® (tadalafil) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Dermatology 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Ebglyss® (lebrikizumab) 
+ Patient Product Information 
+ HCP Product Information 
+Taltz® (ixekizumab) citrate-free formulation 
+ Patient Product Information 
+ HCP Product Information 
+Olumiant® (baricitinib) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+style 
+background-none 
+additionalPadding 
+none 
+Diabetes 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Humalog® / Humalog ® Mix25 / Humalog ® Mix50 (insulin lispro) cartridges 
+ Patient Product Information 
+ HCP Product Information 
+Humalog® / Humalog ® Mix25 / Humalog ® Mix50 (insulin lispro) Kwikpen 
+ Patient Product Information 
+ HCP Product Information 
+Humalog® (insulin lispro) vials 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Humalog® U200 KwikPen® 
+ Patient Product Information 
+ HCP Product Information 
+Humulin® R/ Humulin® NPH/ Humulin ® 30/70 (biosynthetic human insulin) cartridges 
+ Patient Product Information 
+ HCP Product Information 
+Humulin® R/Humulin® NPH/ Humulin ® 30/70 (biosynthetic human insulin) vials 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Mounjaro® (tirzepatide) 
+ KwikPen Patient Product Information 
+ Mounjaro® Patient Website* 
+ Guidance for using the Mounjaro® KwikPen* 
+*These websites are intended for adult Australian patients prescribed Mounjaro ® only 
+ HCP Product Information 
+ Guidance for using the Mounjaro® KwikPen for HCPs** 
+**This website is intended for Australian healthcare professionals prescribing Mounjaro® only 
+Trulicity® (dulaglutide) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Haematology 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Jaypirca ® (pirtobrutinib) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Men’s Health 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Cialis® (tadalafil) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Neuroscience 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Emgality® (galcanezumab) 
+ Patient Product Information 
+ HCP Product Information 
+Kisunla® (donanemab) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Obesity/Weight Management 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Mounjaro® (tirzepatide) 
+ KwikPen Patient Product Information 
+ Mounjaro® Patient Website* 
+ Guidance for using the Mounjaro® KwikPen* 
+*These websites are intended for adult Australian patients prescribed Mounjaro ® only 
+ HCP Product Information 
+ Guidance for using the Mounjaro® KwikPen for HCPs** 
+**This website is intended for Australian healthcare professionals prescribing Mounjaro® only 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Oncology 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Alimta® (pemetrexed) 
+ Patient Product Information 
+ HCP Product Information 
+Retevmo® (selpercatinib) capsules 
+ Patient Product Information 
+ HCP Product Information 
+Retevmo® (selpercatinib) tablets 
+text-component, divider, description-fs-16px, ctanumber-one, ctastyle-primary, ctatype-button, ctatarget-sametab, ctaexitinterstitial-select, ctastyle-primary-two, ctaplacement-vertical, ctatype-button-two, ctatarget-sametab-two, ctaexitinterstitial-select-two 
+ Patient Product Information 
+ HCP Product Information 
+spacer-and-divider, spacer, medium, primary, small-one 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Verzenio® (abemaciclib) 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+none 
+Rheumatology 
+style 
+background-none, two-col-75-25 
+extra-styles 
+offset 
+Olumiant® (baricitinib) 
+ Patient Product Information 
+ HCP Product Information 
+Taltz® (ixekizumab) citrate-free formulation 
+ Patient Product Information 
+ HCP Product Information 
+style 
+background-none, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-none 
+additionalPadding 
+narrow 
+CONTACT DETAILS 
+Get the information you need, when you need it 
+additional-link, ctaselection-link, ctatarget-newtab, ctaexitinterstitial-healthcare-providers 
+ Additional assistance with using the Mounjaro® KwikPen® for healthcare professionals 
+additional-link, ctaselection-link, ctatarget-newtab, ctaexitinterstitial-mounjaro 
+ Additional assistance with using the Mounjaro® KwikPen® for patients 
+additional-link, ctaselection-link, ctatarget-sametab, ctaexitinterstitial-select 
+ Report side effects (adverse events) 
+additional-link, ctaselection-link, ctatarget-sametab, ctaexitinterstitial-select 
+ General information 
+style 
+background-primary-red, two-col-50-50 
+CMAT-25535 | September 2026 
+style 
+background-none 
+additionalPadding 
+narrow 

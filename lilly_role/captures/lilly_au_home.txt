@@ -1,0 +1,93 @@
+ 
+ A Medicine Company for Better Health | Lilly Australia 
+A medicine company that puts health above all 
+true 
+ https://delivery-p137454-e1438138.adobeaemcloud.com/adobe/assets/urn:aaid:aem:2b1168e1-3707-436a-ab96-90ab2ea498c6/play?assetname=Lilly+Hero+Video+50s.mp4 
+A medicine company should
+do more than just make
+medicine. 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+Find care 
+Get in touch with an independent doctor who understands your condition. 
+ Get started 
+Join a clinical trial 
+Clinical trials need patients to help medicine get better 
+ Explore trials 
+Learn about access 
+We recognise it’s our responsibility to help make treatments more accessible for the people who need them 
+ Learn more 
+style 
+background-primary-red, three-col-33-33-33 
+extra-styles 
+offset 
+style 
+background-primary-red 
+additionalPadding 
+none 
+CONDITION SUPPORT 
+Get a better understanding of a
+condition. 
+One of the healthiest actions a patient or a loved one can take is getting informed about a
+condition. Part of our job is getting you the information you need, to help make the best
+decisions for health. 
+Select a condition below to learn more. 
+Arthritis 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Cancer 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Dermatology 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Diabetes 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Migraine 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Obesity 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Sleep apnoea 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+Alzheimer's disease 
+medium-media-carousel-item, title-fs-60px, textcolor-white, ctaselection-link 
+ Explore condition 
+style 
+background-none 
+additionalPadding 
+none 
+ABOUT LILLY 
+Our job is to put health above all. 
+Our research focuses on developing life-changing medicines for everyone, regardless of their condition’s prevalence or complexity. And we know our biggest advancements are still ahead of us. 
+ 150 
+numeric-tile, title-fs-60px, description-fs-24px 
+Years making medicine 
+ 100+ 
+numeric-tile, title-fs-60px, description-fs-24px 
+Patented medications 
+ 2 
+numeric-tile, title-fs-60px, description-fs-24px 
+Nobel Prizes for medicine 
+ Medicine starts with safety 
+card, titleone-fs-28px, description-fs-20px, ctaselection-link, ctanumber-one 
+Thousands of employees work every day to make sure Lilly medicine is made consistently and with the highest quality. Manufacturing and quality are some of the most important parts of our process. 
+ Examine our process 
+ The hope of medicine for every body 
+card, titleone-fs-28px, description-fs-20px, ctaselection-link, ctatarget-sametab, ctaexitinterstitial-select, ctanumber-one 
+We may one day be able to make medicine that's tailored to an individual's biology using new treatments made from their own genetic code. See what today's research means for the medicine of tomorrow. 
+ What is genetic medicine 
+style 
+background-secondary-red 
+additionalPadding 
+narrow 
+CMAT-24426 | May 2026 
+style 
+background-none 
+additionalPadding 
+narrow 

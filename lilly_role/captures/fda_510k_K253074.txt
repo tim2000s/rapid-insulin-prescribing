@@ -1,0 +1,452 @@
+                                                                                             November 6, 2025
+
+Tandem Diabetes Care, Inc.
+Omar Mirza
+Senior Regulatory Affairs Specialist
+12400 High Bluff Drive
+San Diego, California 92130
+
+
+Re: K253074
+    Trade/Device Name: Tandem Mobi insulin pump with interoperable technology
+    Regulation Number: 21 CFR 880.5730
+    Regulation Name: Alternate controller enabled infusion pump
+    Regulatory Class: Class II
+    Product Code: QFG
+    Dated: September 22, 2025
+    Received: September 23, 2025
+
+Dear Omar Mirza:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.08.02
+Silver Spring, MD 20993
+www.fda.gov
+K253074 - Omar Mirza                                                                                  Page 2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+Part 803) for devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products
+(see https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-
+reporting-combination-products); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+K253074 - Omar Mirza                                                                              Page 3
+
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                               Sincerely,
+
+
+                                               JOSHUA BALSAM -S
+                                               Joshua M. Balsam, Ph.D.
+                                               Branch Chief
+                                               Division of Chemistry and
+                                                 Toxicology Devices
+                                               OHT7: Office of In Vitro Diagnostics
+                                               Office of Product Evaluation and Quality
+                                               Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K253074
+
+Device Name
+Tandem Mobi insulin pump with interoperable technology
+
+
+
+Indications for Use (Describe)
+The Tandem Mobi insulin pump with interoperable technology (the pump) is intended for the subcutaneous delivery of
+insulin, at set and variable rates, for the management of diabetes mellitus in persons requiring insulin. The pump is able to
+reliably and securely communicate with compatible, digitally connected devices, including automated insulin dosing
+software, to receive, execute, and confirm commands from these devices.
+
+The pump is intended for single patient, home use and requires a prescription. The pump is indicated for use in individuals
+2 years of age and greater.
+
+Control-IQ+ technology is intended for use with compatible interoperable continuous glucose monitors (iCGM), alternate
+controller enabled (ACE) pumps to automatically increase, decrease, and suspend delivery of basal insulin based on
+iCGM readings and predicted glucose values. It can also deliver correction boluses when the glucose value is predicted to
+exceed a predefined threshold.
+
+Control-IQ+ technology is not a substitute for your own active diabetes management. Control-IQ+ technology is intended
+for the management of Type 1 diabetes mellitus in persons 2 years of age and greater and of Type 2 diabetes mellitus in
+persons 18 years of age and greater. Control-IQ+ technology is intended for single patient use and requires a prescription
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                       510(k) Summary
+
+
+
+     Company                        Tandem Diabetes Care, Inc
+                                    12400 High Bluff Drive
+                                    San Diego, CA 92130
+     Prepared                       22 Sept 2025
+     Contact                        Omar Mirza
+                                    Sr. Regulatory Affairs Specialist
+                                    +1 (954) 6082297
+                                    omirza@tandemdiabetes.com
+     Trade Name                     Tandem Mobi insulin pump with interoperable technology
+     Common Name                    Ambulatory Insulin Pump
+     Classification Product Code    QFG
+     Classification Name            Alternate Controller Enabled Infusion Pump
+     Regulation Number              21 CFR 880.5730
+     Device Class                   Class II
+     Predicate Device               K241078, Tandem Mobi Insulin Pump with interoperable
+                                    technology
+
+
+
+I.     Device Under Review
+       The Subject Device, Tandem Mobi insulin pump with interoperable technology (“Mobi
+       pump”, “the pump”), is an Alternate Controller Enabled (ACE) Infusion Pump intended for
+       the infusion of insulin into a patient requiring insulin therapy. The Tandem Mobi insulin
+       pump with interoperable technology (“pump”) is screenless and includes visual LED, sound,
+       and vibratory indicators to alert the user of the pump status. The Tandem Mobi insulin pump
+       with interoperable technology system also includes: the Tandem Mobi mobile application and
+       a 2mL (200 insulin unit) Tandem Mobi cartridge and a compatible FDA cleared infusion set.
+       The Tandem Mobi mobile application (“mobile app”) displays all information from, and is
+       the primary controller of, the pump. Through the mobile app, users will program all aspects
+       of basal and bolus insulin delivery therapy including managing personal profiles, viewing
+       pump and CGM data, and actively acknowledging all pump and mobile app alerts, alarms,
+       reminders, notifications, and messages. The Tandem Mobi mobile application will also be
+       used to transmit historical pump and mobile app therapy data to the Tandem Cloud. The
+       Tandem Mobi mobile application will be made available via the Android Play® App store for
+       Android-compatible smartphones based on completed device verification and validation. The
+       Tandem Mobi cartridge is a disposable insulin cartridge compatible only with the Tandem
+       Mobi pump.
+   The Tandem Mobi ACE pump can be used for basal and bolus insulin delivery with or
+   without a CGM or with any compatible interoperable automated dosing algorithm.
+
+   The pump may be used in combination with a compatible continuous glucose monitor
+   (CGM) system. Use of CGM is optional.
+
+
+II. Intended Use/ Indications for Use
+
+  The Tandem Mobi insulin pump with interoperable technology (the pump) is intended for the
+  subcutaneous delivery of insulin, at set and variable rates, for the management of diabetes
+  mellitus in persons requiring insulin. The pump is able to reliably and securely communicate
+  with compatible, digitally connected devices, including automated insulin dosing software, to
+  receive, execute, and confirm commands from these devices.
+
+  The pump is intended for single patient, home use and requires a prescription.
+
+  The pump is indicated for use in individuals 2 years of age and greater.
+
+
+III. Technological Characteristics Compared to Predicate Device K241078
+
+                                  Predicate Device                           Subject Device
+                                      K241078
+Intended Use/     The Tandem Mobi Insulin Pump with                             SAME
+Indications for   interoperable technology (the pump) is
+Use               intended for the subcutaneous delivery of
+                  insulin, at set and variable rates, for the
+                  management of diabetes mellitus in persons
+                  requiring insulin. The pump is able to
+                  reliably and securely communicate with
+                  compatible, digitally connected devices,
+                  including automated insulin dosing software,
+                  to receive, execute, and confirm commands
+                  from these devices.
+
+                  The pump is intended for single patient,
+                  home use and requires a prescription.
+
+                  The pump is indicated for use in individuals
+                  2 years of age and greater.
+Prescription      Prescription is required.                                     SAME
+Use
+Insulin Type      NovoLog U-100 insulin                                         SAME
+                  Humalog U-100 insulin
+                                Predicate Device                  Subject Device
+                                    K241078
+Infusion Set      Compatible, FDA cleared infusions sets with          SAME
+Type              t:lock connectors manufactured for Tandem
+                  Diabetes Care.
+Pump Type         An Alternate Controller Enabled Infusion             SAME
+                  Pump (21 CFR 880.5730)
+Compatible        Compatible with:                            Compatible with:
+Interoperable         • DEN170088: Dexcom G6 Continuous
+Devices                   Glucose Monitoring System or other    • K213919: Dexcom
+                          compatible iCGM                          G7 Continuous
+                      • K200467: Control-IQ technology             Glucose Monitoring
+                                                                   System or other
+                                                                   compatible iCGM
+
+                                                                •   K250798: Control-
+                                                                    IQ+ technology
+
+Communication Bluetooth Low Energy (BLE)                              SAME
+with
+Compatible
+Interoperable
+Devices
+Principles of   Delivery of Insulin (Bolus and Basal)                 SAME
+Operation       programmed by patient based on health care
+                provider recommendations.
+Pump            The Device is an ambulatory, battery                  SAME
+Technological   operated, rate-programmable infusion pump
+Characteristics designed for the subcutaneous delivery of
+                insulin, at set and variable rates, for the
+                management of diabetes mellitus in persons
+                requiring insulin. The device includes a
+                disposable cartridge which is motor driven to
+                deliver patient programmed basal rates and
+                boluses through an infusion set into
+                subcutaneous tissue.
+Alarm Type       Visual, audible, and vibratory                       SAME
+Bolus           The Device contains a built-in bolus                  SAME
+Calculator      calculator
+Bolus and Basal Yes                                                   SAME
+Insulin Control
+Display of      The Device can display Glucose and Therapy            SAME
+Primary         information and trends from the pump and
+Glucose and     compatible interoperable devices.
+Therapy
+Information
+                                 Predicate Device                      Subject Device
+                                      K241078
+                  The pump does not include a graphical user
+                  interface. Instead, Primary Glucose and
+                  Therapy information and trends from the
+                  pump and compatible interoperable devices
+                  are displayed in the Tandem Mobi mobile
+                  application.
+Mobi Mobile       The Tandem Mobi mobile app                    The Tandem Mobi mobile
+App               is currently available via the                app will be made available
+Availability      Apple® App Store® for iOS                     via the Google® Play store
+                  compatible smartphones.                       for Android compatible
+                                                                smartphones.
+Mobile App        The Mobi mobile app (iOS) has the             Subject device has the same
+Functionalities   following functionalities:                    functionalities mentioned in
+                                                                the predicate device.
+                     •   View Pump therapy data, trends,
+                         alerts, alarms, notifications, and     Some minor differences
+                         reminders.                             include:
+
+                     •   Program Correction Boluses, Bolus         •    Native Android
+                                                                        User Interface
+                         Override, and Food (Standard)
+                                                                        Controls: Standard
+                         Boluses.                                       Android UI
+                                                                        components
+                     •   Terminate (Cancel or stop) all bolus
+                         types regardless of origin of bolus       •    Location Permission
+                         request being made on the Tandem               requirement for
+                         Mobi insulin pump or the Tandem                Bluetooth® pairing
+                         Mobi mobile app.
+                                                                   •    Update historical
+                                                                        pump data to
+                     •   Display history logs
+                                                                        Tandem Source
+                                                                        Cloud
+                     •   Update historical pump data to
+                         Tandem Cloud                              •    History logs will not
+                                                                        be displayed on the
+                     •   Mobile Tandem Device Updater                   Mobi Android
+                         (mTDU)                                         mobile application.
+                                                                        The historical pump
+                                                                        data will continue to
+                                                                        be uploaded to the
+                                                                        Tandem Source
+                                                                        Cloud, which allows
+                                                                        users to view the
+                                                                        historical pump data
+                                 Predicate Device                         Subject Device
+                                    K241078
+                                                                           on Tandem Source
+
+Remote             Pump                                            Pump
+software           Remote software updates available via
+updates            Mobile Tandem Device Updater (mTDU) via         SAME
+                   Bluetooth Low Energy (BLE) Radio on
+                   the Mobi Pump to review remote software         Mobile App
+                   updates. mTDU is not a medical device.          Updated via the Google®
+                                                                   Play App store.
+                   Mobile App
+                   Updated via the Apple® App Store®.
+Sterilization      The pump is provided non-sterile.                          SAME
+
+                   The cartridge is provided sterile via E-Beam
+                   (Irradiation) to a Sterility Assurance Level
+                   ,SAL 10-6.
+Cartridge          Every 3 days for compatible insulins.                      SAME
+Length of Use
+
+
+   IV.     Overview of Non-Clinical Performance Tests
+           Appropriate testing was performed to confirm the Subject Device met specified
+           requirements and performed as intended. See summaries below.
+
+           Usability/Human Factors:
+
+           The Tandem Mobi system was previously validated for usability with the cleared
+           predicate device. For this 510(k) Notification, no new human factors validation
+           testing was required because the Android mobile application represents a platform
+           translation of the existing iOS app. While platform-specific functional differences
+           exist, no new user-facing features, workflows, or critical tasks were introduced.
+
+           A comparative use-related risk analysis was performed to evaluate the impact of
+           translating the user interface to the Android operating system. This analysis
+           confirmed that no new critical tasks were introduced, and no existing critical tasks
+           were impacted. Formative testing and human factors validation were therefore not
+           repeated. The intended users, use environments, and user interface specifications
+           remain consistent with the predicate system, and the Android mobile application can
+           be safely and effectively used as intended.
+Software Verification and Validation:
+The Android version of the Tandem Mobi mobile application was developed under
+Tandem’s quality system in compliance with IEC 62304 and IEC 82304. The software
+lifecycle included documented requirements, design, risk management, and
+traceability through verification and validation. Verification activities included unit
+testing, code reviews, static analysis, and system integration testing. Validation
+confirmed end-to-end functionality of the Android version of the Tandem Mobi
+mobile application with the Mobi pump, a compatible continuous glucose monitor,
+and the Tandem Source cloud. Testing was performed independently from
+development to ensure objectivity. All acceptance criteria were met, demonstrating
+that the software performs as intended and introduces no new hazards relative to the
+predicate device.
+
+Electrical Safety/ EMC:
+
+Electrical safety testing in accordance with IEC 60601-1 requirements was previously
+completed at the system level for the Tandem Mobi pump hardware. The Android
+mobile application does not alter the pump’s hardware design, electrical energy
+transfer, or safety-related functions; therefore, the previous results remain applicable
+to this submission. For the current submission, testing related to electromagnetic
+compatibility (EMC) and wireless function were conducted to evaluate the Tandem
+Mobi Pump System with the Android mobile application.
+
+To qualify the Android mobile application, reduced-scope testing was successfully
+performed to satisfy IEC 61000-4-3:2020 and IEC 61000-4-39:2017 per (IEC 60601-
+1-2:2014/A1:2020 (Ed. 4.1)), ANSI C63.27-2021, and RTCA DO-160G (2010)
+testing requirements to evaluate electromagnetic immunity, wireless coexistence,
+bluetooth range, and household emitter interference. Testing confirmed acceptable
+pump-to-app and pump-to-CGM communication under conditions presented by the
+test standards and test protocols.
+
+Results demonstrated that the limited-scope Android testing was consistent with the
+prior iOS full-scope testing and did not introduce EMC risks. Collectively, the
+combined body of evidence confirms the Tandem Mobi system maintains safe and
+effective performance under electromagnetic stress and wireless coexistence
+conditions, supporting substantial equivalence to the cleared predicate device.
+           Insulin Compatibility and Biocompatibility:
+           No new insulin compatibility or biocompatibility testing was required for this 510(k)
+           Notification. The Tandem Mobi cartridge, infusion sets, and patient-contacting
+           materials remain unchanged from the predicate device.
+
+           Sterilization and Shipping:
+
+           No changes were made to sterilization methods or packaging integrity as part of this
+           510(k) Notification. The disposable Tandem Mobi insulin cartridge continues to be
+           terminally sterilized using e-beam irradiation and validated per ISO 11137.
+
+           Special Controls:
+
+           Evaluation and adherence to the Special Controls of the Predicate Device (K241078)
+           demonstrates continued assurance of the safety and effectiveness of the Subject
+           Device.
+           Clinical Testing:
+
+           No new clinical testing was provided to support this 510(k) Notification.
+
+
+
+Conclusion:
+The Subject Device serves the same function as the Predicate Device. Furthermore, the Subject
+Device performs insulin therapy functions that are the same as that of the Predicate Device. The
+required technical documentation provided in this 510(k) demonstrates the Subject Device is as
+safe and as effective as the Predicate Device. Therefore, the Subject Device has been evaluated
+to be substantially equivalent to the Predicate Device and does not raise new or different
+questions of safety or effectiveness.
+

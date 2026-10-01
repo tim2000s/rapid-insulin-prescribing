@@ -1,0 +1,4241 @@
+FFInterneetAdd
+1     Important Safety Information ..................................................................... 5
+    Intended Purpose ........................................................................................ 5
+    Warnings ..................................................................................................... 5
+2     Getting Acquainted.................................................................................. 11
+    Definitions .................................................................................................. 11
+    Resources ................................................................................................. 13
+    Introduction to Closed Loop ....................................................................... 13
+    What is CamAPS FX? ............................................................................... 14
+    Modes of Operation ................................................................................... 15
+    CamAPS FX Availability, Installation and Updates .................................... 16
+3     Your CamAPS FX Account ..................................................................... 17
+4     Scope of the User Manual ....................................................................... 18
+5     Getting Started ........................................................................................ 19
+    Setting up your CamAPS FX Account ....................................................... 19
+    In-App Training .......................................................................................... 20
+    Using Existing CamAPS FX Account ......................................................... 21
+    Linking your Pump and CGM to CamAPS FX ........................................... 21
+    Entering Weight and Total Daily Insulin Dose............................................ 29
+    Starting a New Sensor ............................................................................... 30
+    Replacing CGM Transmitter when using Dexcom G6 ............................... 33
+    Replacing or Re-linking Insulin Pump ........................................................ 33
+6     The Basics .............................................................................................. 34
+    The Home Screen ..................................................................................... 34
+    Status and Navigation ............................................................................... 37
+    Starting Auto mode .................................................................................... 40
+    Stopping Auto mode .................................................................................. 41
+7     The Next Steps ....................................................................................... 42
+    Detailed Graph .......................................................................................... 42
+    Summary Statistics .................................................................................... 44
+    Boost ......................................................................................................... 45
+    Ease-off ..................................................................................................... 47
+    Bolus Calculator ........................................................................................ 50
+    Add a meal ................................................................................................ 52
+    Calibrate (Dexcom G6 and Dexcom G7 sensors only) .............................. 53
+8     Settings ................................................................................................... 54
+    Alarm and Alerts ........................................................................................ 55
+
+
+
+                                                     APCam-FX(FX)-D6-RevAU User Instructions 2026-07-06
+    Change Weight .......................................................................................... 57
+    Personalise Meal Size ............................................................................... 57
+    Change Carbohydrate Unit ........................................................................ 58
+    Setting up a Personal Glucose Target ....................................................... 59
+    Bolus Calculator Settings (YpsoPump only) .............................................. 62
+    Using Block Feature .................................................................................. 65
+    Using CamAPS Liberty Feature................................................................. 65
+9     Data Upload and Remote Monitoring ...................................................... 67
+    Data upload to the cloud ............................................................................ 67
+    Companion Remote Monitoring ................................................................. 67
+    SMS-based Remote Monitoring................................................................. 69
+10 Technical Information .............................................................................. 70
+    How does it work? ..................................................................................... 70
+11 Specification and Performance Characteristics ....................................... 71
+    Medical Indication ...................................................................................... 71
+    Target Population ...................................................................................... 71
+    User Profile ................................................................................................ 71
+    User Training Requirements ...................................................................... 71
+    Operating Environment .............................................................................. 71
+    Supported Devices .................................................................................... 71
+    Communication Protocols .......................................................................... 73
+    Cybersecurity Considerations .................................................................... 73
+    Insulin ........................................................................................................ 74
+12 Failure modes and Troubleshooting ........................................................ 75
+    Introduction ................................................................................................ 75
+    Failure modes ............................................................................................ 75
+    CamAPS FX App ....................................................................................... 77
+    Dexcom G6................................................................................................ 79
+    Dexcom G7................................................................................................ 81
+    FreeStyle Libre 3 System .......................................................................... 84
+    YpsoPump, Dana Diabecare RS and DANA-i ........................................... 87
+    Glooko ....................................................................................................... 88
+13 Appendix A Supported Insulin Pumps ..................................................... 89
+    YpsoPump specific instructions ................................................................. 89
+    Dana Diabecare RS specific instructions ................................................... 89
+    DANA-i specific instructions....................................................................... 90
+    Virtual pump specific instructions .............................................................. 90
+
+
+
+                                                                                                             Page 3
+  Companion specific instructions ................................................................ 90
+14 Appendix B Supported CGM Systems .................................................... 92
+  Dexcom G6 specific instructions/information ............................................. 92
+  Dexcom G7 specific instructions/information ............................................. 92
+  FreeStyle Libre 3 system specific instructions/information ........................ 93
+  Virtual CGM specific instructions/information ............................................ 93
+15 Appendix C Supported Cloud Upload Portals ......................................... 94
+16 Appendix D Clinical Benefits ................................................................... 95
+  Summary ................................................................................................... 95
+  Key Clinical Study - APCam11 study......................................................... 95
+  Key Clinical Study – KidsAP02 ................................................................ 101
+  Key Clinical Study - AiDAPT .................................................................... 106
+  References .............................................................................................. 111
+17 Appendix E Explanation of Universal Symbols...................................... 112
+
+
+
+
+                                                                                                      Page 4
+1 Important Safety Information
+
+
+1   IMPORTANT SAFETY INFORMATION
+
+
+Intended Purpose
+CamAPS FX is a mobile app intended for managing glucose levels in people with
+type 1 diabetes, aged 1 year and over, using a hybrid closed loop approach
+(automated basal insulin delivery with manual bolusing for meals) or fully closed
+loop approach (automated basal insulin delivery without the need for manual
+bolusing for meals). Additional age restrictions may apply depending on the chosen
+continuous glucose monitor and insulin pump, and closed loop approach.
+
+
+CamAPS FX requires an insulin pump and a continuous glucose monitor (CGM) to
+fulfil its intended use. The list of supported insulin pumps and CGMs is provided in
+this User Manual.
+
+
+CamAPS FX is intended for use with rapid or ultra-rapid insulin analogues including
+diluted analogues.
+
+
+Warnings
+    •   Please review the product instructions before using the CamAPS FX app.
+        The instructions contain important information on the performance
+        characteristics of the app.
+
+
+    •   Parents/guardians of young children utilizing the CamAPS FX app are
+        advised to become familiar with the operation of the app, and ensure the
+        status of the system is regularly reviewed.
+
+
+    •   Failure to use the CamAPS FX app and the required devices according to
+        the instructions for use and all indications, contraindications, warnings,
+        precautions and cautions may result in hypoglycaemia (low blood glucose)
+        or hyperglycaemia (high blood glucose) occurrence. Seek medical advice
+        when appropriate.
+
+
+
+
+                                                                             Page 5
+1 Important Safety Information
+
+
+   •   In general, sensor accuracy is less studied in infants, pregnant women and
+       those on renal dialysis treatment or with critical illness and therefore greater
+       caution may be required in these user groups.
+
+
+   •   Do not use the CamAPS FX app if sensor glucose reading is unreliable
+       especially when the sensor is over-reading. If your sensor reading does not
+       match your symptoms or expectations, use a capillary blood glucose value
+       to assess the sensor accuracy and to calibrate the sensor, as appropriate.
+       Sensor over-reading could result in over delivery of insulin, which may lead
+       to hypoglycaemia.
+
+
+   •   Avoid administering insulin, such as by injection or inhalation, while wearing
+       an insulin pump, as this could result in hypoglycaemia. The CamAPS FX app
+       cannot track insulin that is administered outside of the system. Consult your
+       healthcare provider about how long to wait after manually administering
+       insulin before you start Auto mode.
+
+   •   Prior to using Auto mode, confirm if the glucose sensor you are using
+       requires calibration in accordance with the manufacturer recommended
+       calibration procedure.
+
+   •   Ensure that the insulin pump is correctly configured by a healthcare
+       professional prior to using with the CamAPS FX app.
+
+
+   •   When using the CamAPS FX app it is important that all boluses and meals
+       are recorded within system, as to ensure these are taken into consideration
+       by the Control Algorithm. Failure to record all meal/boluses could result in
+       under/over delivery of insulin during Auto mode.
+
+   •   Automatic updates of the app or your device operating system can change
+       settings or shut down the app. Update manually when possible and verify
+       correct device settings afterward.
+
+
+
+
+                                                                                Page 6
+1 Important Safety Information
+
+
+   •   Do not install the app on a rooted device. These devices have modified
+       security features, which makes them less secure. The CamAPS FX app will
+       not operate on a rooted smart device.
+
+   •   You should exclude the CamAPS FX app from ‘Private space’ on your
+       Android smart device to allow it to operate continuously in the background.
+
+
+   •   When using iOS 18 or higher, do not use the Locked and Hidden app features
+       with the CamAPS FX, so you can continue to receive important notifications
+       and alerts.
+
+   •   If using an incompatible smart device or operating system, a reliable
+       communication with the insulin pump and the CGM cannot be guaranteed.
+
+
+   •   CamAPS FX account holders are advised to create strong passwords and to
+       change their password at regular intervals.
+
+   •   Ensure your smart device is locked using a PIN or a more secure method
+       such as a password or your fingerprint. Without a secure lock, you will not be
+       able to use the bolus calculator.
+
+   •   Ensure display settings of your smart device, such as brightness or screen
+       resolution, are appropriate for the level of ambient light and quality of your
+       sight. Adjust display settings accordingly.
+
+   •   If the display or the audio of the smart device malfunctions to the extent that
+       you are unable to determine status of the CamAPS FX app or hear the alerts,
+       or your smart device is damaged, it is advised not to use the app until device
+       is repaired and performance verified. If it is not possible to deactivate the
+       CamAPS FX app, depower the phone and revert to manual control of pump.
+
+   •   It is advised that users of the CamAPS FX app regularly verify alerts
+       (sound/vibration) are working effectively on your smart device, as to ensure
+       the user is aware of any system status changes during Auto mode. It is also
+
+
+
+
+                                                                               Page 7
+1 Important Safety Information
+
+
+       advised not to silence alerts on the smart device during use of the CamAPS
+       FX app, unless essential.
+
+   •   When using/charging your smart device that hosts an active CamAPS FX
+       app, good housekeeping is advised to mitigate against trip hazards from
+       trailing cables. The smart device should also be easily accessible to the user
+       during the night, and positioned to avoid accidental user initiated input.
+
+   •   Users are advised to set correct time on the smart device hosting CamAPS
+       FX app. All graphs displayed on the CamAPS FX app shall display all activity
+       using the time of occurrence on the smart device hosting the app.
+
+
+   •   When using the CamAPS FX app for glucose control, it is very important that
+       users comply with national driving standards and recommendations to avoid
+       hypoglycaemia when driving.
+
+
+   •   For earlier versions of Dana Diabecare RS insulin pump, the ‘Decreasing
+       ratio’ has to be set on the CamAPS FX app. Incorrect selection of the
+       Decreasing ratio will result in an incorrect reporting of active insulin values
+       by the app which may result in incorrect correction insulin boluses.
+
+
+   •   Although the CamAPS FX app is a medical device, the smart device on which
+       it is hosted is not, and as such is not built to the same electrical safety
+       standards as a medical device.
+
+
+   •   To use CamAPS FX in Auto mode during a flight, switch to ‘flight mode’ then
+       turn Bluetooth on. Follow any additional advice related to the connected
+       devices. Contact your airline for their policy.
+
+   •   Before you decide to stop using the CamAPS FX app, it is important that you
+       consult your health care professional who may review your insulin pump
+       settings.
+
+   •   Do not share your CamAPS FX account login details with anyone as a safety
+       precaution and to prevent misuse of your data.
+
+                                                                               Page 8
+1 Important Safety Information
+
+
+
+   •   You are responsible for securing your smart device and using it safely. If you
+       suspect a cybersecurity incident involving CamAPS FX, contact customer
+       support.
+
+   •   The CamAPS FX app shall not function on a host device that has a non-
+       supported operating system, or a phone modified for root access. For a list
+       of smart devices and operating systems compatible with CamAPS FX see
+       the ‘Compatible Smart Devices and Operating System’ subsection of the
+       ‘Supported Devices’ section in Chapter 11 of this User Manual.
+
+
+   •   Do not use the CamAPS FX app on a mobile device where you are
+       sideloading (installation via means other than the app store) other
+       applications as these may introduce vulnerabilities or malware to your mobile
+       device and possibly disrupt the functioning of the CamAPS FX app which
+       could lead to harm.
+
+
+   •   Refrain from installing and using software keyboards developed by unknown
+       entities. The usage of such keyboards may not be compliant with the
+       management of patient information and can lead to inadvertent disclosure of
+       sensitive information.
+
+   •   Do not use applications which could compromise cybersecurity of your smart
+       device.
+
+   •   When linked to YpsoPump: You will be required to enter your bolus calculator
+       settings on the CamAPS FX app. These settings determine how the bolus
+       calculator calculates your suggested bolus. It is therefore very important that
+       these settings are correct. Do not make any settings without discussing these
+       previously with your physician or diabetes counsellor. Please make sure that
+       a trained healthcare professional with experience in diabetes management
+       supervises the initiation and programming of the bolus calculator.
+
+
+
+
+                                                                               Page 9
+1 Important Safety Information
+
+
+   •   When using Companion: not all CamAPS FX features are available. Data
+       cannot be shared, data entry and control of the actual insulin pump is not
+       possible.
+
+
+Note: Any serious incident that has occurred in relation to CamAPS FX should be
+reported to CamDiab or CamDiab Distributor, and to the relevant authority in the
+country of residence.
+
+
+
+
+                                                                         Page 10
+2 Getting Acquainted
+
+
+2      GETTING ACQUAINTED
+Definitions
+    Term                   Meaning
+    Android                Operating system used in smart devices
+    App or Application     Software installed on a smart or mobile device
+    Auto mode              Mode of operation where insulin infusion is modulated by
+                           Control Algorithm; consists of repeated closed loop
+                           cycles
+    Basal (insulin)        A sequence of basal insulin rates over 24 hours pre-
+    profile                programmed on an insulin pump
+    Basal (insulin) rate   The insulin infusion rate pre-programmed to be delivered
+                           by insulin pump at a given time
+    Bluetooth              A technology that allows devices to communicate
+                           wirelessly with each other
+    Boost                  Mode of operation when an increase in insulin needs is
+                           assumed
+    CamAPS                 Cambridge Artificial Pancreas System
+    CGM                    Continuous Glucose Monitor
+    Closed Loop (CL)       Mode of operation where the insulin infusion is
+                           modulated by Control Algorithm; consists of repeated
+                           closed loop cycles; also known as Auto mode
+    Closed loop cycle      A periodically repeated sequence of events comprising:
+    (CLC)                  (i) running the Control Algorithm and (ii) initiating the
+                           recommended insulin delivery on the insulin pump
+    Confirmatory           A message that is displayed on the smart device to
+    message                confirm execution of a desired command
+    Control algorithm      Software running on the smart device calculating insulin
+    (CA)                   delivery
+    Default                A manufacturer’s preset option for a device setting
+    Ease-off               Mode of operation when a reduction in insulin needs is
+                           assumed
+
+
+
+
+                                                                                  Page 11
+2 Getting Acquainted
+
+
+ Hybrid closed loop    An approach where closed loop modulates basal insulin
+                       and the user is required to bolus for meals manually
+ iOS                   Operating system used in a smart device
+ Open loop (OL)        Mode of operation where insulin infusion is delivered at a
+                       pre-programmed basal rate or temporary rate set by the
+                       user
+ Temporary basal       Insulin infusion rate of limited duration overriding pre-
+ rate                  programmed basal rate
+ Terminating           Condition which causes Auto mode to turn off
+ condition
+ Total daily dose      Insulin amounts administered from 00:00 to 24:00 over a
+ (TDD)                 given day
+ Warning message       A message that is displayed on a smart device when a
+                       potential problem is detected
+
+
+
+
+                                                                             Page 12
+2 Getting Acquainted
+
+
+Resources
+Guides
+This User Manual gives you the most comprehensive overview of the CamAPS FX app,
+covering the features, important safety information and more. You can view the manual
+from inside the app by tapping Main Menu > Help > User Manual.
+
+
+Printed copy of the IFU can be requested by contacting CamDiab representative or
+distributor.
+
+
+In-App Help
+You will find an information icon in the top right corner of many of the CamAPS FX screens.
+Tapping on the icon brings up a pop-up window with additional information related to the
+screen. Frequently asked questions are accessible by tapping Main Menu > Help >
+Frequently Asked Questions.
+
+
+Summary of Safety and Clinical Performance
+The Summary of Safety and Clinical Performance document can be accessed from
+CamDiab website at https://camdiab.com/support.
+
+
+
+Introduction to Closed Loop
+A healthy pancreas releases insulin according to the body’s needs. As a result a normal,
+narrow range of blood glucose is maintained. In type 1 diabetes this function of the pancreas
+is lost, leading to the need to inject insulin to control blood glucose. By inserting a very thin
+catheter under the skin we can mimic the action of the pancreas by using an insulin pump
+to infuse the correct dosage of insulin for the body’s needs. A continuous glucose sensor,
+also known as continuous glucose monitor (CGM), measures glucose in the subcutaneous
+tissue allowing the calculation and delivery of insulin required in a continuous and
+uninterrupted fashion.
+
+
+The continuous glucose sensor and the insulin pump are two of the three necessary
+components of a closed loop system also known as an artificial pancreas. The remaining
+component is a closed loop algorithm housed on a compatible smart device that calculates
+the insulin dose based on the glucose sensor readings. Those three interlinked components
+form what we call a “closed loop” (see Figure 1).
+
+
+
+
+                                                                                       Page 13
+2 Getting Acquainted
+
+
+
+
+      Glucose sensor
+                                                            Insulin pump
+
+
+
+
+      Closed loop algorithm
+      housed on a smart device
+                   Figure 1: The components of a closed loop system.
+
+What is CamAPS FX?
+CamAPS FX is an app that runs on a smart device. The app is designed to work with a pre-
+defined selection of commercially available insulin pumps and continuous glucose monitors.
+Please refer to Appendix A for the list of supported pumps and for pump specific
+information; refer to Appendix B for the list supported CGM devices and for CGM specific
+information.
+
+
+The app also allows data upload to the cloud for data visualisation and remote monitoring.
+See Figure 2 for an example configuration of a closed loop system with CamAPS FX app.
+
+
+                                       Cloud
+                                       portal
+
+
+
+
+     Glucose sensor                                             Insulin pump
+
+
+
+
+                                Smartphone hosting
+                                  CamAPS FX
+
+    Figure 2: Example configuration of the closed loop system with the CamAPS FX app
+                                residing on a smartphone.
+
+
+
+For a list of smart devices and operating systems compatible with CamAPS FX see the
+‘Supported Devices’ section of this User Manual.
+
+
+                                                                                 Page 14
+2 Getting Acquainted
+
+
+
+
+Modes of Operation
+The CamAPS FX app operates in one of the following modes:
+
+
+Auto mode ‘Off’ (open loop)
+Auto mode Off is the mode of operation most familiar to current pump users. In this mode
+of operation, the pump operates at the pre-programmed basal profile, or as instructed by
+the user. The communication with the CGM is maintained and the sensor glucose
+information is displayed.
+
+
+Auto mode Off is the default mode of operation on system start-up.
+
+
+Auto mode ‘On’ (closed loop)
+Auto mode or closed loop mode is a mode of operation where insulin delivery is directed by
+the app replacing pre-programmed basal insulin delivery.
+
+
+Auto mode ‘Attempting’
+Auto mode ‘Attempting’ is a mode of operation when the app is attempting to enter Auto
+mode but a condition is preventing it from doing so. The reasons leading to ‘Attempting’
+auto mode include:
+    •   Sensor glucose data unavailable (includes sensor warmup)
+    •   Loss of communication with insulin pump
+    •   Pump insulin delivery suspended
+    •   Total daily insulin dose exceeded (Dana pump)
+    •   Bluetooth turned off (pump or smartphone)
+    •   Extended bolus disallowed on the pump (Dana pump)
+The ‘attempting’ mode continues until the condition preventing the start of Auto mode is
+resolved. When in ‘attempting’ mode, insulin infusion will revert to the pre-programmed
+basal rate after approximately 30 minutes.
+
+
+Note: Information on the condition preventing Auto mode operation can be found by tapping
+the ‘i’ icon in the bottom left corner of the screen.
+
+
+Once Auto mode On is activated by the user, the system will stay in this mode until the user
+deactivates it.
+
+
+
+                                                                                   Page 15
+2 Getting Acquainted
+
+‘Fail safe’ mode
+In the event of an unrecoverable error or your smart device depowering, your insulin
+pump will revert to the pre-programmed basal profile within 30 minutes.
+
+
+CamAPS FX Availability, Installation and Updates
+The CamAPS FX app is available to download from designated app portals:
+   •   Android OS
+           o   Google Play Store (for YpsoPump and Dana pump users)
+   •   iOS
+           o   Apple App Store (for YpsoPump users)
+
+
+Follow the portal installation procedure and verify that the installation was successful. Once
+the app is installed, please check the online portal for updates at regular intervals and
+update the app when an update becomes available.
+
+
+You are advised to turn off Auto mode prior to an update and to re-start Auto mode after
+the update completed.
+
+
+To delete the CamAPS FX app, uninstall it from your smart device by following the
+appropriate uninstallation procedure for your device's operating system.
+
+
+
+
+                                                                                     Page 16
+3 Your CamAPS FX Account
+
+
+3   YOUR CamAPS FX ACCOUNT
+When running the app the first time, you will need to create a CamAPS FX account by
+providing an email address and setting up a password. You can also use an existing
+CamAPS FX account if you already have one.
+
+
+
+
+                                                                           Page 17
+4 Scope of the User Manual
+
+
+4   SCOPE OF THE USER MANUAL
+This user manual relates to the set up and operation of the CamAPS FX app ONLY. Please
+refer to the manufacturers' documentation for all issues relating to:
+    •   Insulin pump
+    •   CGM monitor
+    •   CGM receiver (optional)
+    •   Cloud data upload system
+    •   Smart device
+
+
+
+
+                                                                             Page 18
+5 Getting Started
+
+
+5    GETTING STARTED
+In this section you will learn how to:
+    •   Setup your CamAPS FX account
+    •   Complete in-app training
+    •   Link your insulin pump and your continuous glucose monitor (CGM)
+    •   Start a new sensor
+
+Setting up your CamAPS FX Account
+Open the CamAPS FX app and you will see the login screen. If you already have a CamAPS
+FX account, simply login with your credentials. A verification code will be sent to the account
+email address. Check your email and enter the verification code into the verification code
+field of the login screen.
+
+
+If you don’t have an account, tap on the ‘Sign up’ button at the bottom of the screen to
+register. You must give a valid email address, a confirmation code will be sent to this
+address. Enter the code to confirm your account.
+
+
+Note: To log out of your CamAPS FX account go to the Account in the app Menu. Please
+be aware that logging out will permanently remove all app data from your smart device. You
+will need to log in again to continue using the app.
+
+
+Note: You will be automatically logged out of your CamAPS FX account if you do not use
+the CamAPS FX app for 90 days.
+
+
+
+
+                                                                                      Page 19
+5 Getting Started
+
+                             Once you have logged in to your account the Welcome screen
+                             will appear. Read the information on the screen and tap ‘Start’
+                             to proceed. You will now be able to select the in-app training.
+                             If you wish to access the user manual, you can do it via the link
+                             at the bottom of the Welcome screen.
+
+
+
+
+In-App Training
+Before you start using the CamAPS FX with real devices, you will need to familiarise
+yourself with the app and its functionality. After you have logged in to the CamAPS FX
+personal account for the first time, you will be taken directly to the in-app training. You will
+have to complete the mandatory sections of the training to be able to proceed to pairing the
+CamAPS FX with real devices, your insulin pump and the CGM.
+
+
+The essential training will take approximately 60 minutes to complete and will be done in a
+virtual mode, using virtual devices. The training comprises several animations that must be
+watched and some competency-based tasks that need to be completed to progress to the
+next step. Once the training is completed you can stay in the virtual mode or proceed to
+pairing with your insulin pump and CGM to start using CamAPS FX with real devices.
+
+
+A record of successful completion of the training is stored on CamDiab cloud against the
+user’s account details. Users will not have to re-do this mandatory in-app training if the
+same account is used in future, for example following re-installation of the CamAPS FX
+app.
+
+
+Should you need a refresher training at any time later, you will be able access the training
+resources by going to the Help menu of CamAPS FX app.
+
+
+
+
+                                                                                       Page 20
+5 Getting Started
+
+
+Using Existing CamAPS FX Account
+Once you login into an existing CamAPS FX account, such as when you re-install the
+CamAPS FX app or when you install the CamAPS FX app on a different smart device, you
+may receive a notification that CamAPS FX settings have been restored.
+The following CamAPS FX settings are restored from cloud CamAPS FX repository:
+    •   Alarm/alert settings
+    •   CGM transmitter details (if using Dexcom, Dexcom G6 transmitter serial number)
+    •   Followers settings
+    •   Cloud data upload settings
+    •   Hidden messages
+    •   Personal glucose target
+    •   Personalised meal sizes
+    •   Carbohydrate units
+    •   Bolus increment
+    •   Bolus calculator settings (when linked to YpsoPump only)
+
+
+You will be able to review these settings after you completed the remaining login steps.
+
+
+
+Linking your Pump and CGM to CamAPS FX1
+The app needs to link with an insulin pump and a glucose sensor. You may need to refer
+to your pump and CGM system User Guides for pairing instructions.
+
+
+To link your pump to the app, begin by tapping ‘Start’ on the Welcome screen. ‘Select pump’
+screen appears: Please allow CamAPS FX to access your location, should the pop-up
+window appear.
+
+
+Note: Linking instructions for insulin pumps differ slightly. Please refer to the relevant
+section below depending on the type of pump you wish to link.
+
+
+Linking to YpsoPump
+    •   Select ‘ YpsoPump’ from the list
+    •   Read the information on the Help screens then tap ‘Continue’
+
+
+
+
+1 The availability of CGM and insulin pump devices varies depending on your country and the
+
+operating system of your smart device.
+
+
+
+                                                                                       Page 21
+5 Getting Started
+
+
+    •   Select your country of residence
+    •   Wait until serial number of your pump appears on the ‘Scanning’ screen, select it
+        and tap ‘Continue’
+
+
+
+
+    •   Activate pairing on your pump
+    •   Pop-up window appears: confirm the pump serial number
+    •   When prompted enter pairing code displayed on your pump
+    •   A confirmation message appears that the pump is now linked
+    •   You will be required to set up your bolus calculator settings, see details in section
+        Bolus Calculator Settings
+
+
+Linking to Dana Diabecare RS
+    •   Select ‘Dana Diabecare RS’ from the list
+    •   Read the information on the Help screens then tap ‘Continue’
+    •   Wait until serial number of your pump appears on the ‘Scanning’ screen, select it
+        and tap ‘Continue’
+
+
+
+
+                                                                                    Page 22
+5 Getting Started
+
+
+
+
+    •   Pop-up window appears: confirm the pump serial number
+    •   When prompted confirm pairing by pressing ‘OK’ on your pump
+
+
+    •   For the earlier version of Dana Diabecare RS pump
+           o   A confirmation message appears that the pump is now linked
+
+
+    •   For the recent version of Dana Diabecare RS pump
+           o   You are requested to enter Pairing key 1 and Pairing key 2 as shown on the
+               pump
+
+
+
+
+                                                                                Page 23
+5 Getting Started
+
+
+Linking to DANA-i
+    •   Select ‘DANA-i’ from the list
+    •   Read the information on the Help screens then tap ‘Continue’
+    •   Wait until serial number of your pump appears on the ‘Scanning’ screen, select it
+        and tap ‘Continue’
+
+
+
+
+    •   Pop-up window appears: confirm the pump serial number
+    •   When prompted, start pairing by pressing ‘OK’ on your smartphone and then on
+        your pump
+    •   You are requested to enter pairing PIN shown on the pump
+
+
+
+
+                                                                                Page 24
+5 Getting Started
+
+Linking to virtual pump
+    •   Select ‘Virtual pump’ from the list
+    •   Read the information on the Help screens then tap ‘Continue’
+    •   Select the suggested serial number of virtual pump and tap ‘Continue’
+    •   Pop-up window appears: confirm the virtual pump serial number
+
+
+
+
+Note: Virtual pump should be used for training and demonstration purposes only. Not
+all CamAPS FX features are available when using virtual pump. No insulin is actually
+administered.
+
+
+
+
+                                                                                Page 25
+5 Getting Started
+
+Linking to Companion
+
+
+                      •     Select ‘Companion’ from the list
+                      •     Read the information on the Help screen, then tap ‘Continue’
+                      •     Select your invitation from the list of invitations and tap
+                            ‘Continue’
+                      •     Pop-up window appears; confirm the invitation
+
+
+
+
+Note: Companion is used to receive and display data from a pump and glucose sensor
+worn by another person. Not all CamAPS FX features are available when using Companion.
+
+
+
+
+                                                                                    Page 26
+5 Getting Started
+
+
+
+Linking to your Continuous Glucose Monitor
+
+Note: Linking instructions for CGM monitor differ slightly. Please refer to the relevant
+section below depending on the type of CGM Monitor you wish to link.
+
+
+Linking to the Dexcom G6 sensor
+Note: Before linking, insert a sensor and attach the transmitter.
+
+
+                           • Select CGM device screen appears: select Dexcom G6 from
+                            the list
+                            • Enter your CGM transmitter Serial Number and tap ‘Continue’
+                            • Confirm the serial number of your CGM transmitter
+
+
+
+
+Linking to the Dexcom G7 sensor
+    •   Select CGM device screen appears: select Dexcom G7 from the list
+
+
+Linking to the FreeStyle Libre 3 System sensor
+    •   Select CGM device screen appears: select the FreeStyle Libre 3 System sensor
+        from the list
+
+
+Linking to virtual CGM
+    •   Select CGM device screen appears: select your device from the list
+    •   Confirm the suggested serial number of your CGM transmitter
+
+Note: A virtual CGM is available for use with virtual pump only. It cannot be used in
+combination with a real pump.
+
+
+
+
+                                                                                  Page 27
+5 Getting Started
+
+Note: A virtual CGM should be used for demonstration and training purposes only. No
+alerts and alarms will be sounded. Not all CGM features will be available. For example, you
+will not be able to start and stop sensor.
+
+
+
+
+                                                                                  Page 28
+5 Getting Started
+
+
+Entering Weight and Total Daily Insulin Dose
+    •   Weight screen appears
+    •   Tap in the field to enter body weight in kg (allowed range 10 to 300kg in 1kg
+        increments) then tap ‘Continue’
+    •   Confirmation screen appears – check the entered value and tap ‘Confirm’ or tap
+        ‘Cancel’ if you wish to make a correction
+    •   Total daily insulin dose (TDD) screen appears
+    •   Enter an average of TDD over the past 5 days (allowed range 5 to 350 Units in
+        1U increments) and press ‘Continue’
+    •   Confirmation screen appears – check the entered value and tap ‘Confirm’ or tap
+        ‘Cancel’ if you wish to make a correction
+
+    When using Dexcom G6, the following applies
+    •   Message appears ‘Now connecting to transmitter’: make sure the sensor is inserted
+        and the transmitter is attached and ready for pairing
+    •   Screen appears ‘Now connecting to transmitter’: note the time delay and the timer
+        at the top right of the screen
+
+
+
+
+    •   The home screen appears. If your sensor had already been started, you should see
+        sensor glucose displayed on the screen and the set-up is complete.
+
+
+
+
+                                                                                Page 29
+5 Getting Started
+
+
+Starting a New Sensor
+If your sensor had not been started yet, or the current sensor session has ended, you will
+see a ‘Start Sensor’ button on the screen.
+
+
+To initiate a new sensor:
+    •   When using Dexcom G6
+           o   Tap on the ‘Start Sensor’ button; sensor code entry screen appears
+           o   Tap in the entry field and enter the sensor code, then tap ‘Continue’
+           o   Confirmation screen appears, tap ‘Confirm’
+
+
+
+
+           o   Pop-up window appears informing you that a 2-hour long sensor warmup
+               has started; read then dismiss
+           o   Message ‘Sensor warmup. Wait 120 minutes’ appears on the screen; timer
+               to the right of the message shows how much time is left until the end of
+               warmup
+           o   After 120 minutes, your sensor glucose value will appear on the screen
+
+
+
+
+                                                                                   Page 30
+5 Getting Started
+
+
+    •   When using Dexcom G7
+           o   Tap on the ‘Start Sensor’ button
+           o   If you are starting a Dexcom G7 sensor for the first time, you will be asked
+               to sign in to your Dexcom account or create a new Dexcom account. You
+               cannot proceed without a Dexcom account
+           o   On the next screen, enter the pairing code found on the sensor applicator
+           o   Confirm the pairing code
+
+
+
+
+           o   The screen will show ‘Now connecting to sensor’. Note the delay and the
+               timer at the top right of the screen
+           o   You may be asked to confirm pairing on your smart device.
+           o   Once pairing is successful, the screen will show ‘Sensor warmup. Wait 30
+               minutes’. The timer next to the message shows the time remaining until
+               warmup ends
+           o   After 30 minutes, your sensor glucose value will appear on the screen
+
+
+    Note: The Dexcom G7 SDK (software development kit) manufactured by Dexcom is
+    incorporated into the CamAPS FX app to communicate with the Dexcom G7 sensor and
+    to send data to your Dexcom account. Privacy settings in your Dexcom account
+    determine what data is shared with Dexcom. Consult the Dexcom G7 user manual and
+    the Dexcom Privacy Policy for details on data sharing.
+
+
+
+
+                                                                                  Page 31
+5 Getting Started
+
+
+    •   When using the FreeStyle Libre 3 System sensor
+
+
+
+
+           o   Tap on the ‘Start Sensor’ button
+           o   Follow instructions how to insert and start sensor
+           o   After starting sensor, message ‘Sensor warmup. Wait 60 minutes’ appears
+               on the screen; timer to the right of the message shows how much time is left
+               until the end of warmup
+           o   After 60 minutes, your sensor glucose value will appear on the screen
+
+
+The set-up is now complete and the closed loop system is ready to use.
+
+
+Note: Before you turn Auto mode on, familiarise yourself with the information on the home
+screen (The ‘Home Screen’ section), learn how to navigate between the different screens
+and access additional information (‘Status and Navigation’ section) and how to personalise
+the system settings (‘Settings’).
+
+
+
+
+                                                                                  Page 32
+5 Getting Started
+
+
+Replacing CGM Transmitter when using Dexcom G6
+To replace a transmitter that has expired or needs to be changed:
+    •   Go to the Main Menu and tap on the current transmitter Serial Number
+    •   ‘Select CGM device’ screen appears; select CGM type and press ‘Continue’
+    •   Follow linking instructions for the selected CGM device.
+
+
+
+
+Replacing or Re-linking Insulin Pump
+To replace or re-link the insulin pump:
+    •   Go to the Main Menu and tap on the current pump Serial Number
+    •   ‘Select pump’ screen appears; select the pump type and press ‘Continue’
+    •   Follow linking instructions for the selected pump type.
+
+
+
+
+                                                                                  Page 33
+6 The Basics
+
+
+6   THE BASICS
+This section includes:
+    •   An overview of the Home Screen and the Main Menu
+    •   Instructions on how to access additional information
+    •   Information about alarms and alerts and how to personalise them
+    •   Instructions on how to start and stop closed loop
+
+
+
+
+The Home Screen
+The Home Screen consists of three main sections:
+    •   The top section shows the phone status and displays the navigation icons
+    •   The middle section displays closed loop and sensor glucose information, your
+        sensor glucose profile, and has the ‘Boost’ and the ‘Ease off’ tabs at the bottom
+    •   The bottom section shows closed loop status and the Auto mode On/Off button
+
+
+Note: The accuracy of the sensor glucose measurement is determined by the manufacturer
+of your CGM device. Please refer to the manufacturer's documentation.
+
+
+The colour of the home screen background changes depending on the status of the Auto
+mode:
+    •   Auto mode ‘Off’ (Dark grey)
+    •   Auto mode ‘Attempting’ (Orange)
+    •   Auto mode ‘On’ (Green)
+
+
+
+
+                                                                                   Page 34
+6 The Basics
+
+ Home Screen Overview
+ The navigation icons and other symbols shown at the top of the home screen:
+
+                   CamAPS FX
+                   app running
+
+
+
+
+    Menu
+
+
+
+
+                        Home screen     Bolus         Calibration
+                                        calculator    (Dexcom only)
+
+
+
+ Other Home Screen information is shown below.
+
+
+                                                                 Additional
+                                                                 information icon
+
+                                                                 Sensor glucose
+Current sensor                                                   trend and range
+glucose                                                          indicator
+
+Personal glucose                                                 Screen rotation icon
+target active
+
+                                                                 Glucose target
+Sensor glucose                                                   range indicator
+profile
+
+                                                                ‘Ease-off’ mode tab
+
+‘Boost’ mode tab
+                                                                 Auto mode
+                                                                 On/Off switch
+Auto mode status
+
+
+
+
+                                                                                   Page 35
+6 The Basics
+
+Tap on the ‘Additional information icon’ at the top right corner of the home screen to view
+additional useful information:
+
+
+   •   Active insulin from bolus calculator (excludes algorithm
+       driven insulin)
+   •   Current insulin infusion rate
+   •   Amount of insulin remaining in the pump
+       reservoir
+   •   Pump battery level
+   •   Last time connected to pump
+   •   Last time sensor glucose received
+   •   Average glucose today
+   •   Average glucose yesterday
+   •   Insulin today
+   •   Insulin yesterday
+
+
+
+Sensor Glucose Trend and Range
+The sensor glucose trend and range indicator is represented by a large coloured circle at
+the top right corner of the main section of the home screen.
+
+
+The background colour of the circle indicates sensor glucose status:
+   •   Above high glucose alert level (yellow)
+   •   Below low glucose alert level or will be below within 20 minutes in urgent low soon
+       alert state (red)
+   •   Within target range (grey)
+
+
+The white arrow inside the circle shows the speed and direction of your glucose trend based
+on recent readings. A double arrow head indicates a rapid glucose rise or fall.
+
+
+
+
+                   Glucose within target range and steady
+
+
+
+
+                   Glucose within target range and falling
+
+
+
+
+                                                                                  Page 36
+6 The Basics
+
+
+
+                   Glucose within target range and rising
+
+
+
+
+                   Glucose within target range and falling fast
+
+
+
+
+                   Glucose within target range and rising fast
+
+
+
+
+                   Glucose below low glucose alert range and falling slowly
+
+
+
+
+                   Glucose above high glucose alert range and steady
+
+
+
+
+Status and Navigation
+This section includes:
+   •   How to get around the app
+   •   How to take a quick view of the closed loop and the glucose sensor status
+
+
+The Navigation Icons
+Tapping on one of the four icons at the top of the Home Screen will take you to the following
+relevant screen:
+   •   Tap on the ‘Bolus Calculator’ icon to open the Bolus Calculator screen where you
+       will be able to initiate your meal bolus
+   •   Tap on the ‘Calibration’ icon to open the calibration screen where you will be able
+       to calibrate your glucose sensor
+   •   Tap on the ‘Home’ icon to return to the Home Screen
+   •   Tap on the ‘Menu’ icon at the top left of the screen to open the main menu
+
+
+
+
+                                                                                    Page 37
+6 The Basics
+
+The Menu Overview
+Tapping on the ‘Menu’ icon at the top left of the screen, or swiping from left to right, opens
+up the main menu. From the main menu, you can access the following:
+   •   Add a meal
+   •   Your pump and sensor information
+   •   Personalise your settings
+   •   Add followers to share your data
+   •   Setup cloud data upload account
+   •   View your account details
+   •   Access the help screen
+   •   Stop sensor when using Dexcom G6 or Dexcom G7 sensor
+   •   Start sensor when using FreeStyle Libre 3 System
+
+
+Scroll down the list to view all items. Tap on an item to move to the selected item.
+The middle sections provide information about your insulin pump and the continuous
+glucose monitor. In these two sections, only fields in blue can be edited.
+
+
+Quick Status Check (Android)
+Sensor glucose and closed loop status information, including alerts and alarm information,
+is displayed on the locked screen for quick viewing. To access this information on an
+unlocked screen on your device, just swipe the screen from the top down to bring it to view.
+
+
+
+
+                                                                                       Page 38
+6 The Basics
+
+Status check widget (iOS)
+You can view your glucose sensor readings, trend arrow, and Auto Mode status directly on
+your Home Screen or Today View using a widget. The widget is updated by the Apple
+operating system, and the time elapsed since the last update is displayed on the widget.
+
+
+To open the CamAPS FX app, simply tap on the widget. For guidance on adding a widget
+to your screen, refer to your smart device's instructions.
+
+
+Note: This feature is not available in a Companion mode.
+
+
+
+
+                                                                                 Page 39
+6 The Basics
+
+
+Starting Auto mode
+To start Auto mode, tap the ‘Auto mode On/Off’ button at the bottom right of the screen or
+slide the button to the right. The confirmation screen will appear, tap ‘Confirm’ or ‘Cancel’.
+
+
+Once confirmed the following changes will be observed:
+   •   Information screen appears: review the provided information
+   •   The screen background turns orange indicating that Auto mode is attempting to start
+       – the initialisation may take a few minutes
+   •   Auto mode status at the bottom of the screen changes to ‘starting’
+
+
+If sensor glucose data are available and after a short while, Auto mode should be
+successfully started.
+
+The following changes will be observed on the screen:
+   •   The screen background turns green
+   •   Auto mode status changes to ‘On’
+
+
+
+
+                                                                                     Page 40
+6 The Basics
+
+
+Stopping Auto mode
+To stop Auto mode, tap the ‘Auto mode On/Off’ button at the bottom right of the screen or
+slide it to the left. The confirmation screen will appear, tap ‘Confirm’ or ‘Cancel’.
+Once confirmed:
+   •   The screen background turns orange
+   •   Auto mode status changes to ‘stopping’
+
+
+After a short while, the screen background will turn dark grey and the Auto mode status will
+change to ‘Off’.
+
+
+
+
+Note: Turning Auto mode On and Off is disallowed when the ‘Block’ feature is turned On.
+
+
+
+
+                                                                                        Page 41
+7 The Next Steps
+
+
+7    THE NEXT STEPS
+In this section you will learn how to:
+    •   Access and interpret the detailed graph
+    •   View summary statistics
+    •   Use the Boost/Ease-off modes
+    •   Use the Bolus Calculator
+    •   Add a meal
+    •   Calibrate your sensor (Dexcom G6 and Dexcom G7 sensor only)
+
+
+
+Detailed Graph
+To view the detailed graph, featuring sensor glucose values and insulin delivery, turn the
+Home Screen to a landscape position or tap on the ‘rotate screen’ icon.
+
+
+As well as your sensor glucose and insulin delivery, the graph displays usual (pre-
+programmed) basal rate, meals, insulin boluses, target glucose range, high and low glucose
+range and the closed loop status with a resolution as obtained during data acquisition.
+
+
+The Auto mode status is indicated by a black horizontal bar at the top of the graph (‘closed
+loop status bar’)
+    •   The solid bar indicates Auto mode ‘On’
+    •   The dashed bar indicates Auto mode ‘Attempting’
+    •   No line indicates Auto mode ‘Off’
+
+
+The glucose range is shown on the right side of the graph. The yellow line represents the
+high glucose range (if high glucose alert is on) and the red line represents the low glucose
+range (if low glucose alert is activated).
+
+The horizontal grey shaded area represents the target glucose range used for visual display
+and to calculate statistics.
+
+
+The vertical pink shaded area represents the period when ‘Boost’ was active.
+
+
+The vertical yellow shaded area represents the period when ‘Ease-off’ was active.
+
+
+
+
+                                                                                   Page 42
+  7 The Next Steps
+
+                              Meal and pre-meal bolus
+                                                                                Insulin
+ Auto mode Off     Auto mode On                  Auto mode attempting      Meal bolus
+
+
+
+
+                                                                                                 Auto mode
+                                                                                                 status bar
+
+
+
+
+                                                                                                 High alert
+                                                                                                 range
+
+
+
+                                                                                                 Low alert
+                                                                                                 range
+
+
+
+
+Delivered     ‘Boost’     Sensor        Sensor              ‘Ease-off’      Usual basal
+insulin                   glucose in    glucose out
+                          range         of range
+
+
+
+   Pinch the time axis to extend or to shrink it, swipe the screen to move the graph back and
+   forth in time. The maximum time-period that can be displayed on the graph is about 15 days.
+   The data are retained when your smart device is depowered or its battery is depleted.
+
+
+
+
+                                                                                     Page 43
+7 The Next Steps
+
+
+Summary Statistics
+To view summary statistics over a chosen period, go to the main menu and tap on
+‘Statistics’. You will be able to choose between daily, weekly and monthly summaries, and
+a summary of the past three months (the maximum period). Once on the
+daily/weekly/monthly summary screen swipe left and right to move back and forth. Scroll
+down to view more data.
+
+
+You can change the threshold values used to calculate the time when glucose was in, above
+and below target by going to ‘Statistics’ in the ‘Settings’ menu. When changing to pregnancy
+specific target range, user is provided with an option to confirm the pregnancy status and
+provide the expected due date.
+
+It is possible to generate a two-week summary statistics and detailed data review as a PDF
+file by selecting the relevant option in the ‘Statistics’ screen.
+
+
+It is also possible to export your data into a text file. Make sure you have a text file
+editor/viewer installed on your smart device.
+
+
+Note: Daily, weekly, monthly, and three months summaries are calculated using data
+stored on your smart device. Data used to generate the PDF report are retrieved from
+CamAPS service cloud.
+Note: PDF reader is required to generate the report.
+
+
+
+
+                                                                                   Page 44
+7 The Next Steps
+
+
+Boost
+What is ‘Boost’ and when should you use it?
+   •   'Boost' is a mode that provides extra insulin when needed.
+   •   CamAPS FX adjusts insulin delivery to maintain glucose levels, but if they are higher
+       than usual, use ‘Boost.’
+   •   ‘Boost’ makes CamAPS FX more responsive, helping bring glucose levels back into
+       range quickly.
+   •   During ‘Boost,’ CamAPS FX still targets personal glucose levels, reducing or
+       stopping insulin to prevent low blood glucose levels.
+   •   Extended use of ‘Boost’, for over 9 hours, can increase time spent below the target
+       range (<3.9mmol/L for non-pregnancy and <3.5mmol/L for pregnancy) to over 4%.
+
+
+Causes of high glucose levels
+   •   Temporary highs may result from illness, pain, stress, hormones, or medications
+       like steroids.
+   •   Forgetting or delaying a meal bolus, or consuming hard-to-count carbs, can cause
+       a one-off high.
+   •   If the infusion set or cannula is blocked, replace them before using ‘Boost.’
+   •   Consistently high glucose? Check for ketones and contact your clinical team if
+       present.
+
+
+Use of ‘Boost’ during pregnancy
+   •   If your glucose levels are consistently going above your target during pregnancy,
+       think about activating the 'Boost' feature. This is particularly helpful around meal
+       times from 16 to 20 weeks of pregnancy, when insulin resistance is rising.
+   •   You may want to preset 'Boost' to start before waking up and during breakfast to
+       better control post-meal glucose levels.
+   •   'Boost' can be a useful tool to limit the impact of hyperglycemia following antenatal
+       corticosteroids, if they are needed before delivery.
+
+
+To start ‘Boost’:
+   •   Tap on the ‘Boost’ tab located on the home screen
+   •   Help screen appears; read and dismiss
+   •   ‘Boost duration’ window appears; tap in the Hrs/Mins entry fields to enter duration
+       (0 to 12 hours)
+
+
+
+
+                                                                                    Page 45
+7 The Next Steps
+
+
+
+
+    •   Tap ‘Next’
+    •   ‘Boost start’ window appears; tap ‘Confirm’ if you want Boost to start immediately
+    •   Blue ‘Boost’ status tab appears below the graph showing that the Boost mode is
+        now active; note the timer on the left of the tab indicating how much time is left
+        before Boost expires
+    •   Should you wish ‘Boost’ to start at a later time, select the desired duration as before
+        and tap ‘Next’; then in the ‘Boost start’ window select ‘Later’
+    •   Clock dial appears; select time to start ‘Boost’ then tap ‘Confirm’
+    •   ‘Planned Boost’ status tab appears below the graph showing that the Boost mode
+        is due to start at a set time; note the clock symbol and the time on the left of the tab
+        indicating the planned time of ‘Boost’
+
+
+Note: ‘Boost’ and ‘Planned Boost’ can be cancelled at any time by tapping on ‘Cancel’ icon
+on the right. When cancelled, the ‘Confirmation’ screen appears; tap ‘Confirm’ to proceed.
+
+
+Note: It is strongly recommended that the user closely monitors CGM during periods when
+‘boost’ is active, as to ensure setting is correct.
+
+
+
+
+                                                                                       Page 46
+7 The Next Steps
+
+
+Ease-off
+What is ‘Ease-off’ and when should it be used?
+   •   ‘Ease-off’ is a setting that can be used by people of any age when they require less
+       insulin.
+   •   The CamAPS FX app usually determines the right amount of insulin needed
+       throughout the day. However, if someone needs less insulin than usual, they can
+       activate ‘Ease-off.’
+   •   ‘Ease-off’ reduces the amount of insulin delivered by CamAPS FX to minimize the
+       risk of low glucose levels.
+   •   When ‘Ease-off’ is active, the algorithm targets a slightly higher glucose level. It uses
+       more cautious settings, such as sensitivity factors, to calculate insulin delivery.
+   •   It is suggested to start ‘Ease-off' 60 to 90 minutes before a period of heightened
+       insulin sensitivity, such as before exercise, following guidelines for managing
+       exercise in closed-loop systems. It is advisable to continue ‘Ease-off' during the
+       exercise/activity period if the activity heightens the risk of low glucose levels.
+   •   Extended use of ‘Ease-off', for over 9 hours, can increase time spent above the
+       target range (>10.0mmol/L) to over 30%.
+
+
+What might make someone require less insulin than usual?
+   •   Your need for insulin might temporarily decrease if you are more active than usual.
+       This could be due to planned sports, a school gym class, a workout at the gym, or
+       any physical activity you engage in once or twice a week.
+   •   Everyday activities like gardening, shopping, or doing housework can also reduce
+       the need for insulin. Physical activity increases your body's sensitivity to insulin
+       during and after exercise.
+   •   If a certain activity is part of your daily routine, you might not need to make
+       adjustments. For instance, if you walk your dog every morning before breakfast, the
+       insulin delivery algorithm will automatically account for this regular exercise.
+   •   Factors like drinking alcohol, hot weather, certain illnesses causing vomiting and
+       diarrhea, and hormonal changes (such as the start of a woman's period) can
+       increase the risk of low blood sugar. In such situations, ‘Ease-off’ can be beneficial
+       to manage insulin levels.
+
+
+Use of ‘Ease-off’ during pregnancy
+   •   'Ease-off' can be especially beneficial during the first trimester when sensitivity to
+       insulin may increase.
+
+
+
+                                                                                      Page 47
+7 The Next Steps
+
+
+    •   Think about using 'Ease-off' whenever you face a series of low glucose events.
+    •   Consider incorporating 'Ease-off' during planned or unplanned periods of activity or
+        exercise.
+    •   'Ease-off' can also be useful to avoid hypoglycemia during labor and in the initial
+        hours after giving birth, when there are rapid changes in insulin sensitivity and
+        reduce insulin dose requirements.
+
+
+To start ‘Ease off’:
+    •   Tap on the ‘Ease-off’ tab on the home screen
+    •   Help screen appears, read then dismiss
+    •   ‘Ease-off duration’ window appears; tap in the Hrs/Mins entry fields to enter duration
+        (0 to 24 hours)
+
+
+
+
+    •   Tap ‘Next’
+    •   ‘Ease-off start’ window appears; tap ‘Confirm’ if you want ‘Ease-off’ to start
+        immediately
+    •   Blue ‘Ease-off’ status tab appears below the graph showing that ‘Ease-off’ is now
+        active; note the timer on the left of the tab indicating how much time is left before
+        ‘Ease-off’ expires
+
+
+If you wish to start ‘Ease-off’ at a later time, select the desired duration as before and tap
+‘Next’; then in ‘Ease-off start’ window select ‘Later’
+    •   Clock dial appears; select the time to start ‘Ease-off’ then tap ‘Confirm’
+
+
+
+                                                                                     Page 48
+7 The Next Steps
+
+
+    •   Blue ‘Planned Ease-off’ status tab appears below the graph showing that the ‘Ease-
+        off’ is due to start at a set time; note the clock symbol and the time on the left of the
+        tab indicating the planned time of start
+
+
+
+
+                                            ‘Block’ icon
+
+
+
+
+                                                                                      ‘Boost’ and
+                                                                                      ‘Ease-off’ tabs
+                                                                                      inactive
+
+
+
+
+Note: ‘Ease-off’ and ‘Planned Ease-off’ can be cancelled at any time by tapping on the
+‘Cancel’ icon on the right. When cancelled, the ‘Confirmation’ screen appears; tap ‘Confirm’
+to proceed.
+
+
+Note: ‘Boost’ and ‘Ease-off’ cannot be activated when the ‘Block’ setting is On.
+
+
+Note: It is strongly recommended that the user closely monitors CGM during periods when
+‘Ease-off’ is active, as to ensure setting is correct.
+
+
+
+
+                                                                                       Page 49
+7 The Next Steps
+
+
+Bolus Calculator
+The Bolus Calculator allows you to bolus for meals and snacks, or to calculate and deliver
+a correction bolus. You are able to initiate a bolus when the Auto mode is On or Off. Only
+a standard bolus can be administered via the Bolus calculator. An extended bolus or
+combination bolus (standard bolus combined with an extended bolus) cannot be delivered.
+
+
+The bolus step size, 0.1 unit or 0.05 unit, can be selected in ‘Settings’. This option is not
+available for YpsoPump as the bolus step size is set at 0.1 unit.
+
+
+Note: You will not be able to start the bolus calculator if your smart device is not secure,
+e.g. not protected by a PIN.
+
+
+To start a correction bolus:
+   •   Tap on the Bolus Calculator icon at the top of the screen and wait for a connection
+       to the pump to be established; this may take a short while
+   •   Bolus Calculator set-up screen appears
+   •   Tap in the ‘Glucose’ entry field; the current sensor glucose level appears; you can
+       change it by tapping on the value in blue; tap ‘Confirm’ when ready
+   •   Bolus amount based on your insulin sensitivity factor appears to the right of the
+       glucose level; below in brackets is the active insulin on board (this amount will be
+       subtracted) Total amount of insulin to be delivered as bolus is shown at the bottom
+   •   For a correction bolus, leave the Carbs field empty and tap ‘Next’ to start the delivery
+
+
+
+
+                                                                                      Page 50
+7 The Next Steps
+
+
+   •   Bolus delivery screen appears; tap on ‘Deliver’ to proceed or tap on the amount in
+       blue to edit and change the amount
+   •   Delivery screen appears and the countdown begins;
+   •   Once the insulin has been delivered a confirmation screen appears
+
+
+To start a meal bolus:
+   •   Tap the ‘Carbs’ entry field and enter the size of meal in the units shown;
+       alternatively, tap on one of the pre-defined meal size icons along the selection line
+       at the top to select a small, medium, large or a very large meal (these can be
+       personalised via ‘Meal size’ in ‘Settings’); tap ‘Confirm’ when ready
+   •   While in Auto mode it is advised not to enter the glucose level when bolusing for a
+       meal, current sensor glucose is greyed out in the ‘Glucose’ entry field and will not
+       be used in the bolus calculation; if Auto mode is off or you wish the glucose level to
+       be taken into account just tap in the Glucose entry field and change or confirm the
+       sensor glucose value; then tap ‘Confirm’
+   •   Bolus amount based on your insulin-to-carb ratio appears to the right of the ‘Carbs’
+       amount;
+   •   Total amount of insulin to be delivered as bolus is shown at the bottom; tap ‘Next’
+       to start the delivery
+   •   Bolus delivery screen appears; tap on ‘Deliver’ to proceed or tap on the amount in
+       blue to edit and change the amount
+   •   Delivery screen appears and the countdown begins;
+   •   Once the insulin has been delivered a confirmation screen appears
+
+
+Note: You can stop the delivery at any time by tapping on the ‘Cancel’ icon at the bottom
+of the screen.
+Note: Glucose and carbs can be entered when Auto mode is Off.
+Note: When using Dana pump, settings of your bolus calculator, i.e. insulin-to-carbohydrate
+ratio and correction factor, are read from your pump.
+
+
+Note: Bolus Calculator is disallowed when ‘Block’ feature is turned On.
+
+
+
+
+                                                                                    Page 51
+7 The Next Steps
+
+
+Add a meal
+To add a meal/snack outside of the Bolus Calculator, go to main menu:
+
+
+                           •   Select ‘Add meal’
+                           •   Tap the ‘Amount’ field to enter the size of the meal
+                           •   You may indicate that this is
+                                   o   a meal or snack, or
+                                   o   a hypoglycaemia treatment, or
+                                   o   a slowly absorbed meal
+                           •   Tap ‘Continue’
+                           •   ‘Meal’ confirmation screen appears; confirm the amount to
+                           return to the home screen
+
+
+
+
+Note: When hypoglycaemia treatment is selected, the meal is shown on the detailed graph.
+However, the control algorithm is prevented from delivering insulin to cover the meal. This
+reduces the risk of follow up hypoglycaemia.
+
+
+Note: When slowly absorbed meal is selected, insulin for these carbohydrates will be
+delivered gradually over the following three (3) to four (4) hours in response to rising glucose
+levels. Auto mode must be turned on to receive this additional insulin.
+
+
+
+
+                                                                                       Page 52
+7 The Next Steps
+
+
+Calibrate (Dexcom G6 and Dexcom G7 sensors only)
+To calibrate your glucose sensor:
+   •   Perform a fingerstick test
+          o   Wash and dry your hands
+          o   Take fingerstick with your meter
+   •   Tap on the ‘Calibration’ icon; ‘BG value’ screen appears
+   •   Enter glucose value and tap ‘Confirm’
+
+
+
+
+                                                                  Page 53
+8 Settings
+
+
+8    SETTINGS
+In this section, you will learn how to:
+    •   Setup alarms and alerts
+    •   Change weight
+    •   Personalise meal sizes
+    •   Change carbohydrate unit
+    •   Setup a personal glucose target
+    •   Bolus calculator settings (applies to YpsoPump only)
+    •   Use the Block feature
+    •   Use CamAPS Liberty feature
+
+
+Go to the CamAPS FX menu and scroll down the list to below the CGM section to access
+the ‘Settings’. From the ‘Settings’ menu you can also access Statistics settings, select the
+bolus step size (when using Dana pump only), select the bolus speed (when using Dana
+pump only), restore hidden messages and personalise notifications.
+
+
+
+
+                                                                                   Page 54
+8 Settings
+
+
+Alarm and Alerts
+When your glucose level exceeds the set alarm or alert threshold a message accompanied
+by an audio sound or vibration is displayed on the screen.
+The alarm or alert threshold, repeat time and the type of sound can be personalised. Tap
+on ‘Alerts’ at the top of the main dropdown menu to open the submenu with all available
+alarms and alerts. Alarms and alerts are specific to the CGM device you are using.
+
+
+Menu items from top down (may differ depending on CGM device):
+•   Urgent low alarm: alarms when glucose falls below the set level (cannot be turned off)
+•   Urgent low soon: alerts when glucose is falling fast and will be at Urgent low level in <
+    20mins
+•   Low: alerts when glucose falls below the set level
+•   High: alerts when glucose rises above the set level
+•   Rise rate: alerts when glucose is rising at or above the set rate
+•   Fall rate: alerts when glucose is falling at or below the set rate
+•   Sensor signal loss: alerts when the app stops receiving glucose readings from your
+    sensor
+•   Pump refill: when it is time to refill your pump with insulin
+
+
+All alerts can be turned off using the On and Off toggle at the top of the Alerts menu.
+
+
+Use the "Sound test" and "Vibration test" options in the Notifications menu to perform a test
+to confirm that the notifications will sound/vibrate on your device.
+
+
+Note: The ‘Urgent low’ glucose alarm cannot be turned off.
+
+
+Note: No alerts, except the ‘Urgent low’, will sound on smart device when the silent mode
+switch is on, but vibration will occur.
+
+
+Note: No alerts, except the ‘Urgent low’, will sound if the smart device sound setting is on
+the most restrictive Do Not Disturb or Focus Mode. While the smart device is on a
+telephone call, alarm/alerts may not sound.
+
+
+
+
+                                                                                    Page 55
+8 Settings
+
+
+                    ‘Silenced
+                    alerts’
+                    icon
+
+
+
+
+Note: The image indicates that alert sounds may be silenced due to the smart device’s
+settings.
+
+
+It is also possible to ‘Snooze’ alerts for between 10 and 120 minutes.
+
+
+Tap on the alarm or alert name to change the settings such as the alarm threshold, repeat
+time and the type of sound, or to turn the individual alert on or off.
+
+
+The Alert Schedule lets you pick how your alarm/alerts notify you at different times and on
+different days. For example, you may choose loud alarm/alerts when you are not at work,
+but have them only vibrate during work hours.
+
+
+Alert Schedule lets you add one schedule.
+When you turn on the Alert Schedule for the first time, your glucose alert settings are copied
+into your schedule. The Alert Schedule guides you through creating the name, start time
+and end time of an additional schedule. You can then change glucose alert settings and
+select days of the week when Alert Schedule should be used to fit your needs.
+
+
+
+
+                                                                                     Page 56
+8 Settings
+
+
+Change Weight
+During Auto mode, body weight is used to approximate glucose and insulin concentrations
+within the body. It is advisable to update weight when it has increased or reduced
+significantly.
+
+
+To change weight:
+    •   Tap ‘Settings’ and then ‘Change weight’
+    •   ‘Enter body weight’ screen appears showing your current weight
+    •   Tap in the entry field to update the weight and tap ‘Continue’
+    •   Confirmation window appears; tap to confirm the change
+    •   Confirmation message appears
+
+
+
+Personalise Meal Size
+The meal size icons at the top of the Bolus Calculator represent a small, medium, large and
+a very large meal. These categories can be personalised.
+
+
+To personalise meal sizes:
+    •   Tap on ‘Meal size’ in the ‘Settings’ menu; ‘Meal size’ screen appears
+    •   Select each of the categories to update the corresponding meal size
+    •   When updating the ‘Small meal’ size, tap on the icon at the top
+    •   ‘Meal size’ entry screen appears; dial to the desired amount and tap ‘Confirm’
+    •   Note the updated meal size corresponding to the ‘Small meal’
+
+
+
+
+                                                                                  Page 57
+8 Settings
+
+
+Change Carbohydrate Unit
+It is possible to change the carbohydrate unit from grams of carbs (default) to one of the
+‘Exchange units’ commonly used in some countries.
+To change the carbohydrate unit:
+    •   Tap on ‘Carbohydrate unit’ in the ‘Settings’ menu; ‘Carbohydrate unit’ screen
+        appears
+    •   Select the required unit from the list and go back to the main ‘Settings’ menu
+    •   The new unit will now be used; select ‘Meal size’ option to view the meal sizes
+        expressed in the newly selected units
+
+
+
+
+                                                                                   Page 58
+8 Settings
+
+
+Setting up a Personal Glucose Target
+The default glucose target of 5.8 mmol/L used during Auto mode can be personalised. You
+can set your own target in 30min steps via the ‘Personal glucose target’ option in ‘Settings’.
+Before activating, please read the help information about personal targets by tapping the
+information icon at the top right of the ‘Personal target’ screen.
+
+
+To activate your personal target:
+
+
+                                • Tap on ‘Personal glucose target’ in ‘Settings’
+                                • ‘Personal glucose target’ screen appears; tap on the
+                                information icon to familiarise yourself with the personal target
+                                feature
+                                • Toggle the switch at the top right of the screen to turn the
+                                personal target feature on
+                                • To add new target, tap on the green ‘+’ button at the bottom
+                                right of the screen
+
+
+
+
+Example: In order to have a glucose target of 6.5mmol/L between 6:00 am and 8:00 pm
+followed by the default target of 5.8mmol/L for the rest of the day, complete the following
+steps:
+    •    Tap the green ‘+’ icon
+    •    A window labeled 'Start time' will pop up. The app uses your phone's time format,
+         either 12 or 24 hours. Enter your desired start time, like 6:00 am, and tap confirm.
+         The 'End time' window will then appear. Enter the end time, such as 8:00 pm, then
+         tap ‘Confirm’
+    •    Next, a window for 'Target glucose' will appear. Enter your target glucose value, like
+         6.5mmol/L, and click confirm.
+    •    Your personal target will now be displayed on the screen for the selected hours,
+         with the default value of 5.8 mmol/L shown for the remaining hours of the day. For
+         example, if you set a target from 6:00 am to 8:00 pm, your goal of 6.5 mmol/L will
+         be shown during that time, and the default value of 5.8 mmol/L will be displayed for
+         the rest of the day.
+
+
+
+
+                                                                                        Page 59
+8 Settings
+
+
+    •   To make another entry, tap the green '+' icon again.
+    •   If needed, you can tap on the blue text to edit any time block.
+
+
+Once activated, the personal target icon will be shown on the home screen (see Home
+Screen overview). To deactivate, slide or tap the toggle in the top part of the ‘Personal
+glucose target’ screen. The nominal (i.e. default) glucose target will then apply, and the
+personal target icon will disappear from the home screen.
+
+
+When should you set a personal glucose target?
+    •   Some people prefer to have a slightly lower target from midnight to waking, slightly
+        higher during the daytime and then a slightly lower from bedtime to midnight, as
+        shown in the example above.
+    •   On starting the system, users may consider a slightly higher personal glucose target
+        while they are optimizing their settings and the system is learning. This starting
+        personal glucose target should be discussed and agreed with your diabetes team.
+        If the personal glucose target has been raised for a particular reason, it should be
+        gradually reduced by 0.5-1.0 mmol/L over time to achieve desired time in range.
+    •   Personal glucose target of <5.0mmol/L should not be used outside of pregnancy.
+    •   Utilizing a higher personal glucose target results in extended periods above the
+        target range (>10mmol/L). A higher personal glucose target of ≥8.9mmol/L may not
+        be suitable for all individuals without guidance from their healthcare provider.
+
+
+Consider temporarily setting a higher personal glucose target for one to two weeks
+or longer if needed when
+    •   You are experiencing frequent low glucose levels or hypoglycemia events.
+    •   Your glucose levels fluctuate widely.
+    •   Your HbA1c has been considerably higher than your target before using the system,
+        or you have difficulty sensing low glucose levels known as hypo unawareness.
+    •   Your daily routine changes, like
+             o   starting a new job
+             o   returning to school or work after a holiday
+             o   going on a day trip with all-day activity,
+             o   participating in an active holiday,
+             o   or consuming more alcohol than usual.
+
+
+
+
+                                                                                     Page 60
+8 Settings
+
+Think about setting a lower personal glucose target in these situations
+    •   At night, once you are familiar with the system, to increase the time your blood sugar
+        stays in the right range.
+    •   During pregnancy or when you are getting ready to have a baby.
+    •   If your glucose levels consistently stay in a narrow range (with minimal ups and
+        downs).
+
+
+Use of personal glucose target during pregnancy
+    •   For the first trimester, aim for a personal glucose level of 5.5mmol/L since insulin
+        sensitivity is higher during this time.
+    •   Starting from the second trimester, target a personal glucose level of 5.0mmol/L.
+    •   If you notice low glucose variability, especially overnight, think about setting a
+        personal glucose target of 4.5mmol/L from dinner until midnight and midnight until
+        waking up.
+    •   After giving birth, consider raising your personal glucose target to 6.0 to 6.6mmol/L
+        to adapt to the quick changes in insulin sensitivity and needs.
+
+
+Note: We recommend discussing any adjustments to your personal glucose target with your
+healthcare team.
+
+
+
+
+                                                                                     Page 61
+8 Settings
+
+
+Bolus Calculator Settings (YpsoPump only)
+Bolus calculator settings must be setup on the CamAPS FX app when the app is linked to
+YpsoPump.
+
+
+Bolus calculator settings are not available on the CamAPS FX app when linked to other
+insulin pumps. In such a case, bolus calculator settings stored on the insulin pump are used
+by the CamAPS FX bolus calculator.
+
+
+The bolus calculator settings determine how the bolus calculator calculates your suggested
+bolus. It is therefore very important that these settings are correct. Do not make any settings
+without discussing these previously with your physician or diabetes counsellor. Please
+make sure that a trained healthcare professional with experience in diabetes management
+supervises the initiation and programming of the bolus calculator.
+
+
+
+
+Note: The bolus calculator settings do not affect how Auto mode operates.
+Note: Refer to section Setting Up a Personal Glucose Target for information how to set up
+personal glucose target during Auto mode.
+
+
+Bolus calculator settings include the following items:
+    •   Minimum glucose value for calculation
+    •   Maximum bolus suggestion
+    •   Glucose target value
+    •   Correction factor
+    •   Insulin-to-carb ratio
+    •   Duration of insulin action
+
+
+Minimum Glucose Value for Calculation
+Here you can define the minimum limit of the glucose value for bolus calculation. If you
+enter a lower current glucose value, the bolus calculator will alert you that your current
+glucose value is too low to calculate a bolus suggestion.
+
+
+The permitted range for the minimum glucose value used in bolus calculation is between
+2.8 and 4.4 mmol/L.
+
+
+
+
+                                                                                      Page 62
+8 Settings
+
+Maximum Bolus Suggestion
+You can specify the maximum dose of insulin that the bolus calculator is permitted to
+suggest. If the calculated dose exceeds this limit, it will be capped at the specified
+maximum.
+
+
+The permitted range for the maximum dose is between 0.5 and 30 units of insulin in 0.5 unit
+increments.
+
+
+Bolus Glucose Target Value
+The bolus calculator will determine the bolus amount needed to adjust high or low blood
+glucose measurements to the bolus target glucose value. Glucose measurements above
+this value will trigger a (positive) correction bolus dose. Conversely, a glucose
+measurement below the target value will prompt a negative correction bolus dose, which
+will be applied to reduce the total suggested bolus.
+
+
+The permitted range for the bolus glucose target value is between 4.4 and 11.0 mmol/L.
+
+
+Note: The bolus glucose target value is SOLELY used to calculate the insulin bolus dose
+by bolus calculator. It does not impact how the CamAPS FX algorithm determines
+automated insulin delivery when Auto mode is active.
+
+
+If you have different glucose target throughout the day, you can define those in the
+corresponding time segments in 30 min increments. The process of entering insulin-to-carb
+ratio throughout the day is identical to that when entering personal glucose target value,
+see section ‘Setting up Personal Glucose Target’.
+
+
+Correction Factor
+Enter your correction factor here (example: if 1 unit of insulin lowers your blood glucose by
+2 mmol/L, your correction factor is 2).
+
+
+If you have different correction factors throughout the day, you can define those in the
+corresponding time segments in 30 min increments. The process of entering correction
+factor throughout the day is identical to that when entering personal glucose target value,
+see section ‘Setting up Personal Glucose Target’.
+
+
+
+
+                                                                                    Page 63
+8 Settings
+
+Insulin-to-Carb Ratio
+The insulin-to-carb ratio describes the number of grams of carbohydrates (or bread units)
+covered by one unit of insulin.
+
+
+If you have different insulin-to-carb ratios over the course of the day, you can define those
+in the corresponding time segments in 30 min increments. The process of entering
+insulin-to-carb ratio throughout the day is identical to that when entering personal glucose
+target value, see section ‘Setting up Personal Glucose Target’.
+
+
+Duration of Insulin Action
+This setting defines how long your injected insulin remains active in your body to lower your
+blood glucose. This setting is used for insulin on board calculation.
+
+
+The permitted range of duration of insulin action is between 2 and 8 hours,
+
+
+Note: The duration of insulin action is SOLELY used to calculate the insulin bolus dose by
+bolus calculator. It does not impact how the CamAPS FX algorithm determines automated
+insulin delivery when Auto mode is active.
+
+
+Note: Information about handling of insulin on board by the bolus calculator:
+    •   Insulin on board is subtracted only from the correction bolus
+    •   Insulin on board is never subtracted from the meal bolus
+
+
+
+
+                                                                                    Page 64
+8 Settings
+
+
+Using Block Feature
+The Block feature is used to prevent the use of certain app functionality in order to prevent
+unauthorised or unintended entry. This may be helpful when the app is used by children.
+When the Block feature is activated, certain app functionality will not be allowed including:
+    •   Stopping or starting Auto mode
+    •   Bolus calculator
+    •   Sensor calibration
+    •   ‘Boost’ and ‘Ease-off’
+    •   CamAPS Liberty
+
+
+Deactivate the Block feature in the Settings menu to be able to use these functions again.
+
+
+
+Using CamAPS Liberty Feature
+The CamAPS Liberty feature lets the user run CamAPS FX in a fully closed-loop mode,
+removing the need to bolus for meals and snacks. While Auto mode is On, all insulin
+delivery is managed by CamAPS Liberty. When Auto mode is Off, CamAPS Liberty does
+not affect insulin delivery, and you should bolus for meals and snacks as usual.
+
+
+The feature can be activated by sliding the toggle in the App ‘Settings’ menu and confirming
+the selection. Once selected, you will be presented with a training video to help you use
+this feature safely and effectively.
+
+
+
+
+                                                                                    Page 65
+8 Settings
+
+When CamAPS Liberty is active, a purple badge will be visible at the top of the home screen
+as shown below. You will also see purple shading on the landscape graph indicating the
+time periods when CamAPS Liberty was active.
+
+
+
+
+Note: The feature is not recommended for young people under 13 years old or during
+pregnancy. Its performance has not been evaluated in these user groups.
+
+
+Note: The availability of this feature depends on your country and the manufacturer of your
+insulin pump.
+
+
+
+
+                                                                                  Page 66
+9 Data upload and remote monitoring
+
+
+9   DATA UPLOAD AND REMOTE MONITORING
+Data upload to the cloud
+The CamAPS FX app supports data upload to the cloud. Data including glucose, insulin,
+meal intake, Auto mode, Boost and Ease-off status, will be uploaded during Auto mode and
+when Auto mode is off.
+
+
+Supported cloud upload portals are listed in Appendix C. You may need to register with the
+cloud upload system provider in advance and provide your account details to the app.
+
+
+You can link cloud upload accounts via the ‘Share’ option in the main menu:
+    •   Tap on the ‘User 1’ or ‘User 2’ field to open the account details entry screen
+    •   Enter your account details including email address and password
+    •   Tap on ‘Link’ to link the account to the app
+
+
+To stop uploading data to this account, turn the toggle to ‘off’. To unlink the account, tap on
+the active user then tap ‘Unlink’.
+
+
+Please refer to the cloud upload provider user guide for detailed instructions regarding the
+account setup and data viewing.
+
+
+Note: Prior to taking any action in response to analysis of CamAPS FX data on the Cloud,
+it is advised that user/guardian or clinician validates the information by speaking to the user
+or reviewing graphs on the active system.
+
+
+
+Companion Remote Monitoring
+The CamAPS FX app allows glucose levels, insulin delivery and other data to be shared
+with “Companions”.
+
+
+Companion setup is located in ‘Share’ option of the main menu:
+    •   For each Companion, provide a nickname and a valid email address
+    •   An invitation email is sent to Companion’s email address
+    •   The Companion must install the CamAPS FX app, create personal CamAPS
+        account using the same email address, and select ‘Companion’ from the list of
+        pumps when initialising the CamAPS FX app
+    •   Data are sent to the Companion using end-to-end encryption
+
+
+
+                                                                                      Page 67
+9 Data upload and remote monitoring
+
+Data shared with Companions include:
+   •   Sensor and blood glucose levels
+   •   Insulin delivery
+   •   Meal intake
+   •   Auto mode status
+   •   Ease-off and Boost (except for planned Ease-off and Boost)
+   •   Amount of insulin remaining in the pump
+       reservoir
+   •   Pump battery level
+
+
+Note: Urgent Low alert may not sound if Do Not Disturb or Focus Mode is activated or a
+silent mode enabled on the Companion’s iOS smart device.
+
+
+Note: Internet connectivity is required to receive data by Companions; possible delays in
+receiving data may be caused by unreliable internet connectivity, delays in cloud data
+processing or inappropriate smart device settings.
+
+
+Note: Delays in receiving and processing data may lead to differences between the
+summary statistics displayed on the user’s smartphone and the Companion.
+
+
+Note: It is not possible to share data with Companion while using virtual pump.
+
+
+
+
+                                                                                  Page 68
+9 Data upload and remote monitoring
+
+
+SMS-based Remote Monitoring
+The CamAPS FX app supports SMS-based remote monitoring during Auto mode On and
+Off. All app generated alarms and alerts will be sent via SMS message to active ‘Followers’.
+Follower setup is located in the ‘Share’ option of the main menu:
+   •   For each Follower, provide a nickname and a valid mobile number; an
+       authentication code will be sent to that mobile number for verification purposes
+   •   Once verified, the Follower nickname will be shown on the ‘Share’ screen
+
+
+To stop sending messages to a Follower, turn off the toggle next to the Follower’s nickname.
+
+
+To remove a Follower, tap on the Follower’s nickname and tap ‘Unlink’.
+
+
+To test sending an alert, tap on ‘Send test SMS’. A SMS message will be send to all active
+Followers.
+
+
+Note: SMS messages are sent directly from the smartphone to the Follower(s) and a SIM
+card has to be inserted in the smartphone to send the SMS messages.
+
+
+Note: The SMS-based remote monitoring feature is currently available exclusively on
+Android devices.
+
+
+Note: Please be aware that any SMS messages sent or received as part of this service
+may incur charges from your mobile service provider. You are responsible for any
+associated costs according to your carrier’s pricing plan.
+
+
+
+
+                                                                                   Page 69
+10 Technical information
+
+
+10 TECHNICAL INFORMATION
+How does it work?
+The CamAPS FX app uses a mathematical model of insulin action to determine insulin
+infusion leading to a target glucose of around 5.8mmol/L.
+
+
+For the model of insulin action to operate correctly, information is needed at setup and then
+during the system operation. The body weight is used to approximate glucose and insulin
+concentrations within the body. The total daily dose of insulin is an initial indicator of
+insulin sensitivity, which is further refined by analysing continuous glucose monitor (CGM)
+data, previously administered insulin infusion and boluses, and meal intake.
+
+
+                                        CGM data
+
+
+
+
+   Insulin infusion                   Learn insulin
+   Insulin boluses
+     Meal data                         sensitivity
+
+
+
+
+                                     Predict future
+                                     glucose levels
+
+                                                       Model of insulin
+                                                                action
+
+
+
+
+                                     Optimum insulin
+                                         infusion
+
+
+
+
+Previous insulin infusion and boluses, together with CGM and meal data are used to update
+insulin sensitivity and other subject specific characteristics. The mathematical model then
+uses these characteristics together with information about active insulin and active meals
+to predict future glucose concentrations and to determine the optimum insulin infusion
+leading to the target glucose level. The maximum of insulin infusion rate is determined on
+individual basis and is limited to reduce the risk of hypoglycaemia. In certain situations such
+as when CGM glucose is low or is decreasing fast, the control algorithm may further reduce
+insulin to reduce the risk of hypoglycaemia.
+
+
+
+
+                                                                                      Page 70
+11 Specification and Performance Characteristics
+
+
+11 SPECIFICATION AND PERFORMANCE CHARACTERISTICS
+Medical Indication
+Type 1 diabetes (including type 1 diabetes pregnancy with hybrid closed-loop approach)
+
+
+
+Target Population
+Age                     Hybrid closed-loop approach: 1 year and older
+                        Fully closed-loop approach: 13 years and older
+Sex                     Male/Female
+Weight                  10kg – 300kg
+Total daily insulin     5 U/day – 350 U/day
+Condition               Adequate hearing to hear alarms
+                        Adequate vision to view display
+
+
+
+User Profile
+People with type 1 diabetes and their guardians
+
+
+
+User Training Requirements
+Training is carried out by certified healthcare professional or by completing in-App training
+
+
+
+Operating Environment
+As defined by the manufacturer of your smart device
+
+
+
+Supported Devices
+Insulin pumps
+Compatible insulin pumps must have the following characteristics:
+    •    Receive regulatory approval in the territory where used including regulatory
+         approval of secure Bluetooth communication protocol for remote pump control
+    •    Allow Auto mode to be carried out using (i) 15 to 60 minute long temporary basal
+         insulin rates, or (ii) 15 to 60 minute long extended boluses, or (iii) a combination of
+         (i) and (ii)
+    •    Have delivery accuracy for basal rate ±5% [±0.05U/h for rates < 1.0U/h] or better
+    •    Have delivery accuracy for bolus ±5% [±0.05U for boluses < 1.0U] or better
+
+
+
+
+                                                                                       Page 71
+11 Specification and Performance Characteristics
+
+
+    •   Enable maximum delivery of at least 10 U per 5 to 15 minute long closed loop cycle
+        during Auto mode
+    •   Enable resolution of insulin delivery of at least 0.05 U per 5 to 15 minute long closed
+        loop cycle during Auto mode
+    •   Communicate via Bluetooth over a range of at least 1.5 meters
+    •   Provide downloadable time-stamped history of insulin delivery
+    •   Provide status information including time, pre-programmed basal settings, ongoing
+        bolus, ongoing temporary basal rate, suspended state, and error status
+
+
+A complete list of insulin pumps that can be presently used with the CamAPS FX app is
+provided in Appendix A. Additional pumps may be added in the future.
+
+
+
+Continuous Glucose Monitoring Devices
+Compatible continuous glucose monitoring devices must have the following characteristics:
+    •   Receive regulatory approval in the territory where used including regulatory
+        approval of secure Bluetooth communication protocol
+    •   Have mean absolute relative deviation ≤14% or be approved for insulin dosing
+    •   Provide sensor glucose readings with a resolution of at least 0.1mmol/L / 1mg/dL
+    •   Provide nominally glucose reading at least once every 5 minutes
+    •   Communicate via Bluetooth over a range of at least 1.5 meters
+    •   Provide downloadable time-stamped history of sensor glucose readings
+    •   Provide status information including calibration state, sensor expiry, and error status
+
+
+A complete list of continuous glucose monitoring devices that can be presently used with
+the CamAPS FX app is provided in Appendix B. Additional continuous glucose monitoring
+devices may be added in the future.
+
+
+Cloud Upload Portals
+Compatible cloud upload portals must have the following characteristics:
+    •   Receive regulatory approval in the territory where used including approval of secure
+        communication protocol
+    •   Allow secure authentication for individual users
+    •   Enable upload of relevant diabetes therapy related information
+
+
+A complete list of cloud upload portals that can be used with the CamAPS FX app is
+provided in Appendix C. Additional cloud upload portals may be added in the future.
+
+
+
+                                                                                      Page 72
+11 Specification and Performance Characteristics
+
+Compatible Smart Devices and Operating Systems
+For a list of current compatible operating systems, please visit https://camdiab.com/faq
+‘What smartphones are compatible with CamAPS FX?’.
+
+
+Please ensure that your smart device and the operating system are supported by your CGM
+provider.
+
+
+If using a Dexcom sensor see Dexcom Mobile App recommended smart devices on
+http://www.dexcom.com/compatibility
+
+
+If using a FreeStyle Libre 3 System, please ensure you have a smart device with NFC (near
+field communication). A list of smart devices that have been shown to be compatible with
+the FreeStyle Libre 3 System sensor and the FreeStyle Libre 3 app can be found at
+https://www.diabetescare.abbott/support/manuals.html in the “Mobile Device & OS
+Compatibility” guide.
+
+
+To establish compatibility, users should verify that both their smart device and its operating
+system are supported by the CamAPS FX app and the connected CGM.
+
+
+
+Communication Protocols
+Secure communication protocols are used by the CamAPS FX app for communicating with
+your insulin pump, your continuous glucose monitoring device, and cloud portals.
+
+
+
+Cybersecurity Considerations
+Your smartphone's biometric security or PIN/password prevents unauthorized access to the
+device and your CamAPS FX app. You should not share your security PIN/password or
+authorize any other person to access your smartphone via their biometric information to
+avoid unintentional changes in your delivery of insulin or your application configuration.
+
+
+As noted in section ‘Important Safety Information’, DO NOT use a smartphone that has
+been rooted, jailbroken, or with developer mode on. Your data may become vulnerable if
+you install the CamAPS FX mobile app on a smartphone that has been rooted, or that uses
+an unreleased or pre-released operating system. Only download the CamAPS FX app from
+the app store. See section ‘CamAPS FX Availability, Installation and Updates’ for the
+CamAPS FX app for installation instructions.
+
+
+
+
+                                                                                     Page 73
+11 Specification and Performance Characteristics
+
+
+
+The mobile app has a feature that allows you to check if the mobile phone passes an
+integrity check and confirms that the app has not been modified or had its signature altered,
+and that it was properly installed from the app store rather than being sideloaded. If your
+device fails this integrity check or your app fails, you should contact customer support. The
+application may cease functioning if it identifies an integrity failure, so you should work to
+correct the situation immediately.
+
+
+If the app becomes corrupted or compromised, uninstall the CamAPS FX app and follow
+the instructions in section ‘CamAPS FX Availability, Installation and Updates’ to regain a
+known configuration of the CamAPS FX app.
+
+
+
+Insulin
+All rapid or ultra-rapid insulin analogues including diluted insulin analogues.
+
+
+
+
+                                                                                     Page 74
+12 Failure Modes and Troubleshooting
+
+
+12 FAILURE MODES AND TROUBLESHOOTING
+Introduction
+This section will help you figure out what to do if you encounter problems. The next section
+describes typical failure modes and their possible causes. The following subsections
+provide troubleshooting advice categorised by components, i.e. the CamAPS FX app,
+insulin pump, CGM, and the cloud upload portal.
+
+Failure modes
+The table below depicts common failure modes, how they appear on the screen, and what
+you should do to resolve them.
+ Failure mode              Screen appearance                Cause and resolution
+ Unable to use                   Information                This information screen appears
+ bolus calculator     Unable to start bolus calculator as   when your smart device does not
+                      your device is not secure.            have a secure lock. Please set
+                      Set PIN or similar on your mobile     up a PIN or other secure method
+                      device to be able to use bolus
+                      calculator.                           such as a password, fingerprint
+                                                            or face recognition.
+ Unable to connect                   Alert                  This alert screen appears when
+ to pump during       Unable to start step bolus.           the CamAPS FX App is unable to
+ bolus delivery                                             connect to the pump to start
+                      Please try again.
+ attempt                                                    bolus delivery. Try moving smart
+                                                            device closer to the pump.
+                                                            Ensure pump is not in an
+                                                            ‘airplane mode’ and Bluetooth on
+                                                            your smart device is turned on.
+ Unable to             “Your pump cannot be accessed        The App must be connected to
+                        as key exchange failed. Please
+ reconnect to            connect to the internet. If the    the internet at least once within a
+ Ypsopump             issue does not resolve in 10 to 20    28-day window in order to
+                        minutes, then re-link your pump
+                          to be able to connect to it."     exchange the pairing keys
+ Transmitter not      Transmitter not found.                This screen indicates that the
+ found (Dexcom                                              transmitter could not be linked.
+ G6 only)                                                   To resolve, follow the
+                                                            troubleshooting steps in ‘Dexcom
+                                                            G6’ section below.
+
+
+
+
+                                                                                         Page 75
+12 Failure Modes and Troubleshooting
+
+
+ Sensor not found     Sensor not found.                  This screen indicates that the
+ (Dexcom G7 only)                                        sensor could not be linked. To
+                                                         resolve, follow the
+                                                         troubleshooting steps in ‘Dexcom
+                                                         G7’ section below.
+ Lost connection to   Signal loss.                       This screen indicates that the
+ transmitter/sensor                                      connection to transmitter/sensor
+                                                         has been lost. To resolve, follow
+                                                         the troubleshooting steps in the
+                                                         relevant CGM device section
+                                                         below.
+ Transmitter/sensor Sensor error. Wait up to 3 hours.    The screen indicates that the
+ not providing                                           transmitter/sensor and smart
+ sensor data                                             device are communicating but
+                                                         there is a problem with the data
+                                                         arriving from the sensor. The
+                                                         issue could be due to (i) a sensor
+                                                         error or (ii) disrupted
+                                                         communication between the
+                                                         sensor and transmitter. As
+                                                         applicable, please check if the
+                                                         transmitter is snapped in
+                                                         properly.
+ ‘Boost’ and ‘Ease-   Boost / Ease-off                   The screen shows that ‘Boost’
+ Off’ features        Auto mode                          and ‘Ease-off’ features have
+ disabled             Off                                been disabled. This could be due
+                                                         to (i) ‘Block’ feature being turned
+                                                         on, (ii) insecure lock on your
+                                                         smart device. To resolve, disable
+                                                         the ‘Block’ feature or secure your
+                                                         smart device with a PIN, a
+                                                         password or a more secure
+                                                         method.
+ Unable to link to    Unable to proceed to link with     Disconnect and reconnect to the
+                      Freestyle Libre 3 system sensor.
+ FreeStyle Libre 3    Please connect to the internet     internet.
+ system sensor        and restart the CamAPS app.
+
+
+
+
+                                                                                      Page 76
+12 Failure Modes and Troubleshooting
+
+                      You can also try later but you    On occasion this message can
+                      should maintain connectivity to
+                      the internet                      occur due to the phone not
+                                                        passing the integrity test.
+                                                        For App version 1.4(170) and
+                                                        above, please go to the “Help”
+                                                        Menu and touch “phone integrity
+                                                        check” to find out if your phone is
+                                                        not failing this test.
+
+
+
+CamAPS FX App
+Unable to login to CamAPS FX account
+    Likely cause
+   •   No internet connection
+   •   Unregistered account
+   •   Incorrect login details
+
+    Solution
+   •   Make sure your smart device is connected to the internet; confirm the connection
+       by opening a popular website
+   •   If not already registered, open the CamAPS FX app and click on ‘Register’ to create
+       your CamAPS FX account
+   •   Make sure your login details, i.e. the username and password are correct; request
+       the password reminder to be sent to the email address linked with your account
+
+
+
+Unable to setup a SMS follower
+    Likely cause
+   •   Unable to send SMS from the smart device hosting the CamAPS FX app
+   •   No phone signal or no data on the SIM. Incorrect mobile number of the follower
+
+
+    Solution
+   •   Make sure mobile number of the follower is correct
+   •   Confirm the phone hosting the CamAPS FX app has an active SIM card with
+       sufficient funds available to send SMS
+   •   Attempt to send SMS or make a call using the phone
+   •   Check balance on the SIM account
+   •   If in doubt, use another SIM card to setup a follower
+
+
+
+                                                                                      Page 77
+12 Failure Modes and Troubleshooting
+
+
+   •   Check mobile network reception on the smartphone
+
+
+Cannot hear alarm/alerts
+    Likely cause
+   •   Your smartphone volume is turned off
+   •   The sound setting on your smartphone is on Do Not Disturb
+   •   Alerts are turned off in the app
+   •   Individual pre-selected alerts are turned off or set to ‘vibration only’
+   •   Selected ring tone is not easily heard
+
+
+    Solution
+   •   Make sure the volume on your smart device is turned on and sufficiently high
+   •   Make sure Do Not Disturb setting on your smart device is turned off
+   •   Make sure all alerts are turned on in Main Menu > Alerts
+   •   Check individual alerts settings to ensure your selected alert is turned on and
+       ‘vibration only’ option is turned off; if desirable, change the ring tone and make sure
+       you can hear it well
+Alarm/alerts repeat too often
+    Likely cause
+   •   Alarm/Alert not acknowledged on the smart device
+   •   ‘Repeat’ option in Alarm/Alert settings is set too short
+
+
+    Solution
+   •   Acknowledge every alarm/alert message on the smart device
+   •   Set the ‘Repeat’ option in alarm/alert settings to a longer period
+
+
+
+CamAPS FX app stops working/crashes
+    Likely cause
+   •   Internal error, e.g. error message “CamAPS stopping. Update info or close app”
+
+
+    Solution
+   •   Turn off your smart device
+   •   Wait for 1 minute and turn your smart device back on
+   •   If the CamAPS FX app is still not working uninstall, re-install the app (follow steps
+       below ‘Having to re-install the CamAPS FX app’)
+
+
+
+
+                                                                                     Page 78
+12 Failure Modes and Troubleshooting
+
+Having to re-install the CamAPS FX app (using Dana pump or YpsoPpump pump)
+    Before Uninstalling
+   •   Make sure you have your CamAPS FX account details at hand
+   •   Make a note of the average total daily insulin dose (TDD) from your insulin pump or
+       from the app: Main Menu > Statistics > Week > TDD
+   •   Make a note of your weight from the app: Main Menu > Settings > Change weight
+   •   Although the rest of settings will be restored such as alarm settings, meal sizes,
+       personal target settings, share/ followers settings, Dexcom G6 transmitter serial
+       number (if using Dexcom G6 sensor), and Dexcom G7 pairing code (if using
+       Dexcom G7 sensor), you may want to take note of these settings
+
+
+    After Uninstalling
+   •   Install the CamAPS FX app from app store
+   •   Open the app and log in with your CamAPS FX username and password
+   •   Proceed with linking the pump
+   •   Enter weight and TDD when prompted
+   •   In the rare case your settings were not restored and before initiating the Auto mode
+       please remember to set the following settings (in any case, you may want to review
+       these settings after they were restored):
+   •   Reset your alarm/alerts settings and other personal settings
+   •   Link your Glooko account with the app: Main Menu > Share > User 1 account details
+   •   Add any followers: Main Menu > Share > Follower
+
+
+
+
+Dexcom G6
+General guidelines and troubleshooting about Dexcom G6 system are provided in Dexcom
+user manual. The following section covers issues related to the use of Dexcom G6 from
+within the CamAPS FX app.
+
+
+Unable to link the app with Dexcom G6 transmitter
+    Likely cause
+   •   Dexcom G6 transmitter already linked to another app, i.e. Dexcom app
+   •   Incorrect Dexcom G6 transmitter serial number
+   •   Electronic background noise interference, e.g. the use of a mobile phone signal
+       booster or a close proximity of WiFi router may affect connectivity
+
+
+
+
+                                                                                  Page 79
+12 Failure Modes and Troubleshooting
+
+    Solution
+   •   Check Bluetooth is turned on in your smart device settings
+   •   Turn Bluetooth off and on
+   •   Check ‘Location‘ or ‘Nearby Devices’ is set to ‘On‘ in your smart device
+       privacy/security settings
+   •   Restart your smart device
+   •   If linking for the first time, check transmitter not already linked to Dexcom app; unlink
+       and try again
+
+
+    Transmitter already linked with CamAPS FX
+   •   Unpair the transmitter in Bluetooth settings on the phone: Settings > Connections>
+       Bluetooth > Paired devices > Dexcom device Settings > Unpair
+   •   Enter correct Dexcom serial number into the CamAPS FX app: Main Menu >
+       Dexcom G6; wait a while
+   •   If the above fails after several tries, link Dexcom G6 receiver or Dexcom app to
+       the transmitter to check that it works
+
+
+Note: Only one app, Dexcom app or the CamAPS FX app, can connect to the Dexcom
+transmitter at any one time, while Dexcom G6 receiver and the CamAPS FX app can be
+connected at the same time.
+
+
+The app losing communication with G6 transmitter
+    Likely Cause
+   •   Use of unapproved smart device/phone
+   •   High level of electronic background noise interferes with connection
+   •   Battery optimisation or ‘Low power mode’ enabled on smart device/phone
+
+
+    Solution
+   •   Use smart device/phone approved for use with Dexcom G6 (Visit
+       http://www.dexcom.com/compatibility for list of approved devices)
+   •   Keep your transmitter and the smart device within 20 feet / 6 meters of each other;
+       if you are showering or swimming keep them closer as the Bluetooth range is
+       reduced in water; wait 30 minutes
+   •   Reduce the level of electronic background noise – it may be helpful to restart the
+       smart device every few days to improve connectivity
+   •   Turn off battery optimisation or ‘Low power mode’ on your device
+   •   Follow solutions in ‘Unable to link the app with Dexcom G6 transmitter’
+
+
+
+
+                                                                                      Page 80
+12 Failure Modes and Troubleshooting
+
+
+
+No G6 readings for the last 20 minutes: ‘No Readings’ alert
+    Likely cause
+   •   Sensor error or sensor failure
+   •   G6 transmitter not providing sensor signal
+
+    Solution
+   •   Tap on the information icon in the message alert window to get more information
+   •   Make sure your sensor is secure and G6 transmitter is snapped flat in its holder
+
+
+No G6 readings for the last 20 minutes: ‘Signal Loss’ alert
+    Likely cause
+   •   G6 transmitter not communicating with your smart device
+
+
+    Solution
+   •   Keep your transmitter and your smart device within 20 feet / 6 meters of each other;
+       wait 30 minutes
+   •   Turn Bluetooth on and off on your smart device; wait 10 minutes
+   •   Restart your smart device and reopen the CamAPS FX app
+   •   Follow solutions in ‘The app losing communication with G6 transmitter’
+
+
+New sensor not starting
+    Likely cause
+   •   Previous sensor not stopped in the CamAPS FX app
+   •   Sensor ended prematurely or fell out
+
+
+    Solution
+   •   Stop previous sensor in the app: Main Menu > Stop sensor
+   •   Wait for ‘Sensor warmup’ message to appear on the home screen
+
+
+
+Dexcom G7
+General guidelines and troubleshooting about Dexcom G7 system are provided in Dexcom
+user manual. The following section covers issues related to the use of Dexcom G7 from
+within the CamAPS FX app.
+
+
+
+
+                                                                                  Page 81
+12 Failure Modes and Troubleshooting
+
+Unable to link the app with Dexcom G7 sensor
+    Likely cause
+   •   Dexcom G7 sensor already linked to another app, i.e. Dexcom app
+   •   Incorrect Dexcom G7 pairing code
+   •   Electronic background noise interference, e.g. the use of a mobile phone signal
+       booster or a close proximity of WiFi router may affect connectivity
+
+
+    Solution
+   •   Check Bluetooth is turned on in your smart device settings
+   •   Turn Bluetooth off and on
+   •   Check ‘Location‘ or ‘Nearby Devices’ is set to ‘On‘ in your smart device
+       privacy/security settings
+   •   Restart your smart device
+   •   Check Dexcom G7 pairing code
+   •   Check sensor not already linked to Dexcom app; unlink or uninstall Dexcom app
+       and try again
+   •   Stop and restart sensor in the app: Main Menu > Stop sensor and then tap ‘Start
+       sensor’ on the home screen and enter correct pairing code
+
+
+Note: Only one app, Dexcom app or the CamAPS FX app, can connect to the Dexcom
+sensor at any one time.
+
+
+The app losing communication with G7 sensor
+    Likely Cause
+   •   Use of unapproved smart device/phone
+   •   High level of electronic background noise interferes with connection
+   •   Battery optimisation or ‘Low power mode’ enabled on smart device/phone
+
+
+    Solution
+   •   Use smart device/phone approved for use with Dexcom G7 (Visit
+       http://www.dexcom.com/compatibility for list of approved devices)
+   •   Keep your transmitter and the smart device within 20 feet / 6 meters of each other;
+       if you are showering or swimming keep them closer as the Bluetooth range is
+       reduced in water; wait 30 minutes
+   •   Reduce the level of electronic background noise – it may be helpful to restart the
+       smart device every few days to improve connectivity
+   •   Turn off battery optimisation or ‘Low power mode’ on your device
+
+
+
+                                                                                  Page 82
+12 Failure Modes and Troubleshooting
+
+
+   •   Follow solutions in ‘Unable to link the app with Dexcom G7 sensor’
+
+
+No G7 readings for the last 20 minutes: ‘No Readings’ alert
+    Likely cause
+   •   Sensor error or temporary sensor failure
+   •   G7 sensor not providing sensor signal
+
+    Solution
+   •   Review the message alert window to get more information
+   •   If temporary sensor failure, wait up to 3 hours for the temporary failure to resolve
+
+
+No G7 readings for the last 20 minutes: ‘Signal Loss’ alert
+    Likely cause
+   •   G7 sensor not communicating with your smart device
+
+
+    Solution
+   •   Keep your sensor and your smart device within 20 feet / 6 meters of each other;
+       wait 30 minutes
+   •   Turn Bluetooth on and off on your smart device; wait 10 minutes
+   •   Restart your smart device and reopen the CamAPS FX app
+   •   Follow solutions in ‘The app losing communication with G7 sensor’
+
+
+New sensor not starting
+    Likely cause
+   •   Previous sensor not stopped in the CamAPS FX app
+   •   Sensor ended prematurely or fell out
+
+
+    Solution
+   •   Stop previous sensor in the app: Main Menu > Stop sensor
+   •   Tap ‘Start sensor’ on the home screen and enter correct pairing code
+   •   Wait for ‘Sensor warmup’ message to appear on the home screen
+
+
+Data not shared with your Dexcom account
+    Likely cause
+   •   Connection to your Dexcom account timed out
+   •   Incorrect privacy settings of your Dexcom account
+
+
+
+
+                                                                                    Page 83
+12 Failure Modes and Troubleshooting
+
+    Solution
+   •   Go to the Main Menu, CGM section and tap ‘Info’
+   •   The Info screen shows the username of your Dexcom account
+   •   If a ‘Sign-in’ button appears next to the username, tap it and sign in to your Dexcom
+       account. If the ‘Sign-in’ button is not shown, data are already being shared with
+       Dexcom
+   •   Check and adjust the privacy settings in your Dexcom account to allow data sharing
+       with Dexcom
+   •   Reinstall the app to reconnect to your Dexcom account (note the pairing code of
+       your sensor before uninstalling)
+
+
+
+FreeStyle Libre 3 System
+General guidelines and troubleshooting about the FreeStyle Libre 3 system sensor are
+provided in the FreeStyle Libre 3 system user manual. The following section covers issues
+related to the use of the FreeStyle Libre 3 system sensor from within the CamAPS FX app.
+
+
+Unable to start the FreeStyle Libre 3 system sensor
+    Likely cause
+   •   The FreeStyle Libre 3 system sensor started by another app, i.e. the FreeStyle Libre
+       3 app
+   •   Incorrect positioning of NFC reader on your smart device
+   •   NFC turned off on your smart device
+
+
+    Solution
+   •   Turn NFC off and on
+   •   Tap Main Menu > Start new sensor and follow the instructions
+   •   Scan a new sensor with the back of your smart device. Each smart device is
+       different. You may need to touch the sensor with your smart device or move your
+       smart device slowly until you learn how to scan your smart device settings
+
+
+Note: If sensor is started by the FreeStyle Libre 3 app, CamAPS FX is unable to receive
+sensor data and vice versa.
+
+
+The app is not receiving data from the FreeStyle Libre 3 system sensor
+    Likely Cause
+
+
+
+
+                                                                                    Page 84
+12 Failure Modes and Troubleshooting
+
+
+   •   Use of unapproved smart device/phone
+   •   High level of electronic background noise interferes with connection
+   •   Battery optimisation or ‘Low power mode’ enabled on the smart device/ phone
+
+
+    Solution
+   •   Use smart device/phone approved for use with FreeStyle Libre 3 system
+       (Visit https://www.diabetescare.abbott/support/manuals.html for list of approved
+       devices)
+   •   Keep your sensor and the smart device within 33 feet / 10 meters of each other; if
+       you are showering or swimming keep them closer as the Bluetooth range is reduced
+       in water; wait 30 minutes
+   •   Reduce the level of electronic background noise – it may be helpful to restart the
+       smart device every few days to improve connectivity
+   •   Turn off battery optimisation or ‘Low power mode’ on your device
+   •   Follow solutions in ‘Unable to start FreeStyle Libre 3 system sensor’
+
+
+No sensor readings for the last 20 minutes: ‘Sensor Error’ message
+    Likely cause
+   •   Temporary sensor error or sensor failure
+
+    Solution
+   •   Wait until the issue resolves
+   •   Follow solutions in ‘Unable to start FreeStyle Libre 3 system sensor’
+
+
+No sensor readings for the last 20 minutes: ‘Signal Loss’ alert
+    Likely cause
+   •   Sensor not communicating with your smart device
+
+
+Solution
+   •   Keep your sensor and your smart device within 33 feet / 10 meters of each other;
+       wait 30 minutes
+   •   Turn Bluetooth on and off on your smart device; wait 10 minutes
+   •   Follow solutions in ‘Unable to start FreeStyle Libre 3 system sensor’
+   •   Restart your smart device and reopen the CamAPS FX app
+
+
+No sensor readings: ‘Sensor too cold’ or ‘Sensor too hot’ message
+    Likely cause
+
+
+
+
+                                                                                 Page 85
+12 Failure Modes and Troubleshooting
+
+
+   •   Sensor temperature too low / too high
+
+    Solution
+   •   Slowly warm up / cool down skin in the area where sensor is placed
+
+
+
+
+                                                                            Page 86
+12 Failure Modes and Troubleshooting
+
+
+YpsoPump, Dana Diabecare RS and DANA-i
+General guidelines and troubleshooting about YpsoPump, Dana Diabecare RS and DANA-
+i insulin pumps are provided in the pump’s user manual. The following section covers issues
+related to the use of the pump from within the CamAPS FX app.
+
+
+Unable to link the insulin pump to the CamAPS FX app
+    Likely cause
+   •   Bluetooth communication issues:
+           o   Your smart device Bluetooth not working
+           o   Pump Bluetooth not working
+           o   High level of electronic background noise interferes with connection
+   •   Internet connection issues:
+           o   Your smart device lost connection to the internet and is unable to confirm if
+               your pump is registered
+   •   Other issues:
+           o   Privacy/security settings of your smart device
+           o   Unregistered pump used
+
+
+    Solution
+   •   Update the CamAPS FX app to the latest version; check for updates on app store
+   •   Check Bluetooth is turned on in your smart device settings; turn Bluetooth off and
+       on again
+   •   Check your smart device is connected to the internet by opening a known website
+       in browser
+   •   Check Bluetooth is turned on in the pump, i.e. the pump is not in flight mode
+   •   Check ‘Location‘ or ‘Nearby Devices’ is set to ‘On‘ in your smart device
+       privacy/security settings
+   •   Initiate bolus calculator using the CamAPS FX app and observe if pump connection
+       is established
+   •   Try re-linking the pump; make sure to confirm the linking on the pump screen
+   •   If still unsuccessful, restart your smart device and try again
+   •   If still unsuccessful, remove pump battery and reinsert after a few minutes; then try
+       again
+
+
+
+
+                                                                                   Page 87
+12 Failure Modes and Troubleshooting
+
+App losing communication with the insulin pump
+    Likely cause
+   •   Bluetooth communication between the pump and your smart device interrupted
+   •   Internet connection is required at least once within a 28-day window in order to stay
+       connected.
+   •   Pump too far away from your smart device
+
+
+    Solution
+   •   Check Bluetooth is turned on your smart device; turn it off and on
+   •   Turn off battery optimisation or ‘Low power mode’ on your device
+   •   Check your smart device is connected to the internet by opening a known website
+       in browser
+   •   Initiate bolus calculator on the CamAPS FX app and observe if pump connection is
+       established
+   •   Restart your smart device and reopen the app
+   •   Try re-linking the pump: make sure to confirm the linking on the pump screen
+   •   Remove pump battery and reinsert after a few minutes
+
+
+
+ Glooko2
+Unable to link Glooko account to CamAPS FX app
+    Likely cause
+   •   No internet connection
+   •   Incorrect login details
+   •   Unregistered Glooko account
+
+
+    Solution
+   •   Make sure your smart device is connected to the internet; confirm the connection
+       by opening a known website
+   •   If not already registered, create a personal account on Glooko website
+   •   Log in to Glooko website with your personal account
+
+
+
+
+2 Applicable to other cloud upload portals compatible with the CamAPS FX
+
+
+
+
+                                                                                   Page 88
+13 Appendix A Supported Insulin Pumps
+
+
+13 APPENDIX A SUPPORTED INSULIN PUMPS
+The following insulin pumps are supported:
+   •   YpsoPump (mylife Diabetes Care, Switzerland)
+   •   Dana Diabecare RS (Sooil, South Korea)
+   •   DANA-i (Sooil, South Korea)
+   •   Virtual pump
+   •   Companion
+
+
+
+
+YpsoPump specific instructions
+   •   Use YpsoPump compatible with CamAPS FX (consult insulin pump instructions for
+       use).
+   •   Bolus calculator settings must be entered on the CamAPS FX app.
+   •   YpsoPump pump will become unlinked from the app if the pump is linked to another
+       app such as the mylife App. If you want to continue to use the pump, you must
+       reinitiate linking the pump by tapping Main Menu > YpsoPump.
+   •   During Auto mode, delayed bolus initiated manually by the user will be stopped.
+       When in Auto mode, apply standard boluses to bolus for meals and snacks.
+   •   The maximum recommended distance between the smart device hosting the
+       CamAPS FX app and the pump is 5 to 10 meters or 16 to 30 feet.
+   •   Internet connection is required at least once within a 28-day window so the app can
+       complete key exchange and maintain secure pump pairing. Re-linking the pump will
+       trigger a new key exchange restarting a new 28-day window.
+
+
+
+Dana Diabecare RS specific instructions
+   •   Ensure ‘Extended bolus’ is enabled and the ‘Beep’ sound is turned off on the pump.
+       Refer to pump user manual for specific instructions.
+   •   Ensure ‘Bolus increment’ on the pump is set to 0.05U.
+   •   For an earlier version of Dana Diabecare RS pump, ensure correct value of
+       ‘Decreasing ratio’ is entered on the app by tapping Main Menu > Settings >
+       Decreasing ratio. In such a case, the app disregards ‘Decreasing ratio’ entered on
+       the pump.
+   •   Dana Diabecare RS pump will become unlinked from the app if the pump is linked
+       to another app such as the ANYDANA mobile app, or password is changed on the
+
+
+
+
+                                                                                 Page 89
+13 Appendix A Supported Insulin Pumps
+
+       pump. If you want to continue to use the pump, you must reinitiate linking the pump
+       by tapping Main Menu > Dana Diabecare RS.
+   •   During Auto mode, extended bolus initiated manually by the user will be stopped.
+       When in Auto mode, apply step boluses to bolus for meals and snacks.
+   •   The maximum recommended distance between the smart device hosting the
+       CamAPS FX app and the pump is 5 to 10 meters or 16 to 30 feet.
+   •   Internet connection is required at least once every 30 days in order to stay
+       connected.
+
+
+
+DANA-i specific instructions
+   •   Ensure ‘Extended bolus’ is enabled and the ‘Beep’ sound is turned off on the pump.
+       Refer to pump user manual for specific instructions.
+   •   Ensure ‘Bolus increment’ on the pump is set to 0.05U.
+   •   DANA-i pump will become unlinked from the app if the pump is linked to another
+       app such as the ANYDANA mobile app, or password is changed on the pump. If
+       you want to continue to use the pump, you must reinitiate linking the pump by
+       tapping Main Menu > DANA-i.
+   •   During Auto mode, extended bolus initiated manually by the user will be stopped.
+       When in Auto mode, apply step boluses to bolus for meals and snacks.
+   •   The maximum recommended distance between the smart device hosting the
+       CamAPS FX app and the pump is 5 meters or 16 feet.
+   •   Internet connection is required at least once every 30 days in order to stay
+       connected.
+
+
+
+Virtual pump specific instructions
+   •   Virtual pump should be used for training and demonstration purposes only.
+   •   Not all CamAPS features are available when using virtual pump.
+   •   No insulin is actually administered.
+
+
+
+Companion specific instructions
+   •   Companion is used to display data from a pump and glucose sensor worn by
+       another person.
+   •   The other person must invite you to view his/her data, see ‘Companion Remote
+       Monitoring’ section of this User Manual.
+
+
+
+
+                                                                                 Page 90
+13 Appendix A Supported Insulin Pumps
+
+
+   •   Not all CamAPS FX features are available when using Companion.
+   •   You can set up your own alarms and alerts.
+   •   Data are received using end-to-end encryption.
+   •   Internet connectivity is required to receive the data.
+   •   The top of the home screen shows the name of the person whose data are being
+       displayed.
+
+
+
+
+   •   When no data are received for more than 12 minutes, a disconnect icon is shown
+       next to the name of the person whose data are being followed. Tapping on the icon
+       shows the last time data have been received.
+
+
+
+
+                                                                               Page 91
+14 Appendix B Supported CGM Systems
+
+
+14 APPENDIX B SUPPORTED CGM SYSTEMS
+The following CGM systems are supported:
+   •      Dexcom G6 (Dexcom, San Diego, CA, USA)
+   •      Dexcom G7 (Dexcom, San Diego, CA, USA)
+   •      FreeStyle Libre 3 system (Abbott Diabetes Care, Witney, Oxon, UK)
+             o   FreeStyle Libre 3
+             o   FreeStyle Libre 3 Plus
+   •      Virtual CGM
+
+
+
+Dexcom G6 specific instructions/information
+   •      The maximum recommended distance between the smart device hosting the
+          CamAPS FX app and the Dexcom G6 transmitter is 6 meters or 20 feet.
+   •      When starting a new sensor, you must enter the sensor code into your smart device
+          to use G6 sensor without fingerstick calibrations; if you do not enter the sensor code
+          you will be expected to calibrate the sensor every 12 hours.
+   •      When calibrating the sensor, calibrations must be entered within 5 minutes of taking
+          fingerstick glucose measurement.
+   •      G6 sensor reading updates every 5 minutes.
+
+
+
+Note: The Dexcom G6 app cannot be used while using the CamAPS FX app. This is due
+to the restriction of the Dexcom G6 transmitter being connected to a single app/smart
+device.
+
+
+
+
+Dexcom G7 specific instructions/information
+   •      The maximum recommended distance between the smart device hosting the
+          CamAPS FX app and the Dexcom G7 transmitter is 6 meters or 20 feet.
+   •      When calibrating the sensor, calibrations must be entered within 5 minutes of taking
+          fingerstick glucose measurement.
+   •      G7 sensor reading updates every 5 minutes.
+
+
+
+Note: The Dexcom G7 app cannot be used while using the CamAPS FX app. This is due
+to the restriction of the Dexcom G7 sensor being connected to a single app/smart device.
+
+
+
+
+                                                                                       Page 92
+14 Appendix B Supported CGM Systems
+
+
+FreeStyle Libre 3 system specific instructions/information
+   •   The maximum recommended distance between the smart device hosting the
+       CamAPS FX app and FreeStyle Libre 3 system sensor is 10 meters or 33 feet.
+   •   FreeStyle Libre 3 system sensors are factory calibrated and do not require manual
+       calibration.
+   •   FreeStyle Libre 3 system sensor reading updates every 1 minute.
+
+
+
+Note: If sensor is started by the FreeStyle Libre 3 app, CamAPS FX is unable to receive
+sensor data and vice versa.
+
+
+
+
+Virtual CGM specific instructions/information
+   •   A virtual CGM should be used for demonstration and training purposes only.
+   •   No alerts and alarms will be sounded.
+   •   Not all CGM features will be available. For example, you will not be able to start and
+       stop sensor.
+
+
+
+
+                                                                                    Page 93
+15 Appendix C Supported Cloud Upload Portals
+
+
+15 APPENDIX C SUPPORTED CLOUD UPLOAD PORTALS
+The following cloud upload portals are supported3:
+    •   Glooko
+    •   mylife Cloud
+
+
+
+
+3 The availability of a specific cloud upload portal depends on your country, the manufacturer of
+
+your insulin pump, and the operating system of your smart device.
+
+
+
+                                                                                           Page 94
+16 Appendix D Clinical Benefits
+
+
+16 APPENDIX D CLINICAL BENEFITS
+Summary
+The CamAPS FX app uses a control algorithm which has been evaluated in a series of
+randomised clinical studies to assess its safety and efficacy [1]. Early clinical studies
+focused on iterative enhancements and optimisation of algorithm performance. This was
+followed by longer clinical studies demonstrating improved glucose control and reduced
+burden of diabetes [2-4]. The use of the control algorithm led to increased time when sensor
+glucose was in the target range, reduced glycated haemoglobin, reduced mean sensor
+glucose and reduced time when glucose was in the hypoglycaemia range. These benefits
+were particularly pronounced overnight.
+
+
+
+Key Clinical Study - APCam11 study
+The APCam11 study was a multinational study evaluating day-and-night closed-loop insulin
+delivery in the home setting in youth and adults, aged 6 years and above with sub-optimally
+controlled type 1 diabetes [3].
+
+
+Study participants
+All participants had type 1 diabetes for at least one year, were on insulin pump therapy for
+at least three months, and had glycated haemoglobin between 7.5% and 10% (58 to
+86 mmol/mol). Participants were at least six years old with an equal proportion of youths
+between six and 21 years, and adults aged 22 years and older. Key exclusion criteria
+included regular use of real-time continuous glucose monitoring in preceding three months,
+history of one or more episodes of severe hypoglycaemia in preceding six months, and
+significantly reduced hypoglycaemia awareness in subjects aged 18 years and older
+defined by Gold score of greater than four.
+
+
+Eligible adults were identified from diabetes clinics attending Addenbrooke’s Hospital
+(Cambridge, UK), Manchester Royal Infirmary (Manchester, UK), International Diabetes
+Center at Park Nicollet (Minneapolis, USA), and Barbara Davis Center for Childhood
+Diabetes (Aurora, USA). Children and adolescents were recruited from paediatric diabetes
+centres at Addenbrooke’s Hospital (Cambridge, UK), Royal Hospital for Sick Children
+(Edinburgh, UK), Leeds Teaching Hospital (Leeds, UK), and the International Diabetes
+Center at Park Nicollet, (Minneapolis, USA).
+
+
+
+
+                                                                                   Page 95
+16 Appendix D Clinical Benefits
+
+Study design and procedures
+The study had an open-label, multi-centre, multi-national (UK, USA), randomised, one-
+period, parallel design contrasting day-and-night hybrid closed-loop (closed-loop group)
+and sensor-augmented pump therapy (control group) during free-living over 12 weeks.
+
+
+Participants in both study groups used modified 640G insulin pump (Medtronic, Northridge,
+CA, USA), Enlite 3 glucose sensor (Medtronic), and Contour Next Link 2.4 glucometer
+(Ascensia Diabetes Care, Basel, Switzerland). Participants were not remotely monitored or
+supervised. They were free to consume any meals of their choice and were allowed to
+choose any indoor or outdoor physical activity. Blood samples were drawn for glycated
+haemoglobin measurements at enrolment, before and after each treatment period.
+
+
+On enrolment following training on the study pump and continuous glucose monitoring,
+participants underwent at least a 4-week run-in period. Eligible subjects were randomised
+using randomisation software to the use of day-and-night hybrid closed-loop or sensor-
+augmented pump therapy.
+
+
+Participants randomised to the closed-loop group attended the clinical research facility for
+a two- to three-hour visit. Training was provided on initiation and discontinuation of the
+hybrid closed-loop system which comprised the CamAPS FX control algorithm running on
+a lockdown Android smartphone, switching between closed-loop and standard insulin pump
+therapy, meal bolus procedure, and the use of study devices during exercise. After
+discharge, participants applied the closed-loop system for the following 12 weeks.
+
+
+Participants randomised to the control group (sensor-augmented insulin pump therapy),
+received additional training on the effective use of real-time continuous glucose monitoring
+for optimisation of insulin therapy. Participants were instructed not to activate pump’s
+threshold suspend or predictive low-glucose features. Participants were free to optimise
+their treatment independently or on advice from health care professionals.
+
+
+
+
+                                                                                     Page 96
+16 Appendix D Clinical Benefits
+
+                       Table 1. Baseline characteristics of study participants.
+
+                                                        Closed-loop                Control
+                                                           (N=46)                  (N=40)
+ Sex no.(%)
+        Female                                             22 (48)                  22 (55)
+       Male                                                24 (52)                  18 (45)
+ Age (years)
+                                                        22 (13 to 36)         21 (11 to 36)
+ Age subgroup no.(%)
+      6-<13 yr
+                                                           11(24)                   12(30)
+      13-<22 yr
+                                                           11(24)                    8(20)
+      22-<40 yr
+                                                           18(39)                   14(35)
+      >40yr
+                                                            6(13)                    6(15)
+
+ BMI (for age>20)                                      28 ± 4 (N=24)          27 ± 3 (N=21)
+ BMI* Z Score (for age≤20)                           0.70±0.92 (N=22)       0.69±0.86 (N=19)
+ Duration of diabetes (years)                            13 (7 to 20)             10 (7 to 19)
+ Total daily insulin dose (U/kg/day)                     0.62±0.15                0.89±0.24
+ Glycated haemoglobin at screening
+        (mmol/mol)                                          67±7                     66±6
+        (%)                                                8.3±0.6                  8.2±0.5
+Data are mean (SD) or median (IQR), unless otherwise stated
+*BMI z-score adjusted for age and gender based on 2000 CDC growth charts
+
+
+
+Results
+86 eligible participants were randomised, 46 participants assigned to the closed-loop group
+and 40 participants to the control group. Of those, 43 participants were 22 years and older,
+19 were 13 to 21 years old, and 33 were 6 to 12 years old. Baseline characteristics are
+shown in Table 1.
+
+
+The proportion of time when sensor glucose was in the target range between 3.9 and
+10.0 mmol/L, was 10.8 percentage points higher (95% CI 8.2 to 13.5 percentage points,
+p<0.001) in the closed-loop group (65±8%, mean±SD) than in the control group (54±9%)
+(Table 2).
+Improvements in time in range did not differ among the three age groups (< 13 years, 13 to
+22 years, ≥22 years). All participants in the closed-loop group experienced an improvement
+in percentage time spent with glucose levels in target range compared to run-in period.
+
+
+In both groups, glycated haemoglobin reduced from a screening value (closed-loop:
+8.3 ± 0.6%; control: 8.2 ± 0.5%) to post run-in assessment (closed-loop: 8.0±0.6%; control:
+7.8 ± 0.6%). Glycated haemoglobin levels were significantly lower post closed-loop
+intervention (7.4 ± 0.6%) compared to control intervention (7.7 ± 0.5%) with a mean
+difference between groups favouring the closed-loop group by 0.36% (95% CI, 0.19% to
+
+
+
+
+                                                                                                 Page 97
+16 Appendix D Clinical Benefits
+
+0.53%; p<0.001). Glycated haemoglobin improvements were not different among children,
+adolescents and adults.
+
+
+Day-and-night closed-loop significantly reduced mean glucose (p<0.001) and time spent
+above target (p<0.001) compared to the control group. Glucose variability measured as the
+standard deviation of sensor glucose was lower in the closed-loop group (p<0.001). The
+coefficient of variation of sensor glucose was not different between groups (p=0.5).
+
+
+Closed-loop significantly reduced the percentage of time sensor glucose was below
+3.9 mmol/L (p=0.008). The percentage of time spent with sensor readings below
+3.5 mmol/L and below 2.8 mmol/L were low and not different between interventions (Table
+2).
+
+
+Increased time when glucose was in target range, reduced mean glucose, reduced time
+when glucose was below target, and a reduction in glycated haemoglobin was brought
+about by closed-loop without significantly increasing total daily insulin (p=0.09). Higher
+basal insulin delivery during closed-loop (p<0.001) was offset by lower bolus delivery
+(p<0.001) presumably due to lower glucose levels resulting in a reduced amount of insulin
+delivered as correction boluses. There was no significant between-group difference in the
+change of body weight from the screening value (2.2 ± 2.3 vs. 1.4 ± 2.6, closed-loop vs.
+control; p=0.19).
+
+
+Adverse events
+After randomisation, no severe hypoglycaemia occurred in either study group. One diabetic
+ketoacidosis presented in closed-loop group due to infusion set failure and was not closed-
+loop related. Two participants in each study group experienced significant hyperglycaemia
+with capillary glucose greater than 16.7 mmol/L and elevated plasma ketones
+(>0.6 mmol/L). There were other 13 adverse events in the closed-loop group and 3 in the
+control group. All participants recovered fully without clinical sequelae.
+
+
+
+
+                                                                                   Page 98
+16 Appendix D Clinical Benefits
+
+                                   Table 2. Comparison of day-and-night glucose control during closed-loop and control periods.
+
+                                                           Baseline                          12 weeks
+                                                 Closed-loop        Control        Closed-loop        Control              Difference            P value*
+                                                    (N=46)          (N=40)            (N=46)          (N=40)        (95% Confidence Interval)*
+ Time spent at glucose level in range (%)
+
+          3.9 to 10.0 mmol/L                       62 ± 10           52 ± 9           65 ± 8           54 ± 9          +10.8 (+8.2 to +13.5)     <0.0001
+                                                      3.5              3.3              2.6              3.9
+          < 3.9 mmol/L                                                                                                 -0.83 (-1.40 to -0.16)ǂ   0.0130
+                                                  (2.0 to 5.4)     (1.2 to 5.5)     (1.9 to 3.6)     (1.7 to 5.3)
+                                                      1.8              1.9              1.4              2.0
+          < 3.5 mmol/L                                                                                                -0.33 (-0.81 to +0.04)ǂ     0.08
+                                                  (0.8 to 3.2)     (0.6 to 3.3)     (0.9 to 1.9)     (0.9 to 3.0)
+                                                      0.4              0.5              0.3              0.5
+          <2.8 mmol/L                                                                                                 -0.09 (-0.24 to +0.01)ǂ     0.11
+                                                  (0.1 to 1.0)     (0.1 to 1.0)     (0.2 to 0.6)     (0.2 to 0.9)
+          >10.0 mmol/L                             44 ± 11          44 ± 11           32 ± 8           42 ± 10         -10.3 (-13.2 to +7.5)     <0.0001
+                                                      5.5              4.9              3.5              4.4
+          >16.7 mmol/L                                                                                                 -1.42 (-2.20 to -0.69)ǂ   <0.0001
+                                                  (3.3 to 8.3)     (2.7 to 7.3)     (1.9 to 4.6)     (2.9 to 6.5)
+ Glycated haemoglobin (%)                          8.0 ± 0.6        7.8 ± 0.6        7.4 ± 0.6        7.7 ± 0.5        -0.36 (-0.53 to -0.19)    <0.0001
+ Glycated haemoglobin (mmol/mol)                    63 ± 7           62 ± 6           57 ± 7           60 ± 6            -4.0 (-5.8 to -2.2)     <0.0001
+ Mean glucose (mmol/L)                             9.8 ± 1.1        9.8 ± 1.1        8.9 ± 0.7        9.7 ± 1.0        -0.82 (-1.06 to -0.57)    <0.0001
+ Glucose SD (mmol/L)                               3.9 ± 0.5        3.8 ± 0.5        3.5 ± 0.5        3.8 ± 0.5        -0.35 (-0.48 to -0.22)    <0.0001
+ Glucose CV (%)                                     40 ± 5           39 ± 5           40 ± 4           40 ± 4            -0.4 (-1.4 to +0.7)       0.5
+ Total daily insulin (U/kg/day)                   0.75 ± 0.22      0.70 ± 0.18      0.81 ± 0.25      0.71 ± 0.19     +0.031 (-0.005 to +0.067)    0.09
+ Total daily basal insulin (U/kg/day)             0.32 ± 0.07      0.31 ± 0.08      0.46 ± 0.13      0.32 ± 0.10     +0.124 (+0.099 to +0.150)   <0.0001
+ Total daily bolus insulin (U/kg/day)             0.43 ± 0.19      0.39 ± 0.14      0.34 ± 0.17      0.39 ± 0.13     -0.087 (-0.114 to -0.060)   <0.0001
+ Body weight change from screening (kg)                                              2.2 ± 2.3        1.4 ± 2.6        +0.68 (-0.34 to +1.69)     0.19
+Data are mean (SD) or median (IQR)
+* Difference is “Closed-loop minus Control”
+
+
+
+
+                                                                                                                                                  Page 99
+16 Appendix D Clinical Benefits
+
+
+Conclusions
+This multinational, multi-centre, open-label, randomised trial demonstrated that 12-week
+use of a day-and-night hybrid closed-loop insulin delivery system compared to sensor-
+augmented insulin pump therapy was associated with an improvement in overall glucose
+control and a reduction in hypoglycaemia risk in sub-optimally controlled type 1 diabetes
+including children, adolescents and adults. The hybrid closed-loop system was used safely
+during daily living without supervision or remote monitoring.
+
+
+The study reports a 10.8 percentage point increase in time with glucose levels in target
+glucose range across all age groups. This improvement resulted from a reduction of time
+spent in hyperglycaemia without change in total insulin delivery. The study observed a lower
+amount of bolus insulin and a higher amount of basal insulin in the closed-loop group
+compared to the control group. Lower bolus insulin requirements could be explained by
+lower glucose levels during closed-loop use lessening the need for correction boluses.
+Insulin to carbohydrate ratio did not need to be increased. Benefits of closed-loop appeared
+greater overnight as daytime control is confounded by meals and physical activity even with
+the use of a closed-loop system. These improvements are attributable to the use of the
+closed-loop system alone as no regular health-care professional driven adjustments of
+insulin pump therapy took place.
+
+
+
+
+                                                                                  Page 100
+16 Appendix D Clinical Benefits
+
+
+Key Clinical Study – KidsAP02
+The KidsAP02 study was a multinational study evaluating day-and-night hybrid closed-loop
+insulin delivery in the home setting in young children, aged 1 to 7 years with type 1 diabetes
+and comparing it to sensor-augmented pump therapy [5].
+
+
+Study participants
+Key inclusion criteria were type 1 diabetes for ≥6 months, insulin pump therapy for
+≥3 months, and screening HbA1c ≤11% (96.7mmol/mol). Participants were aged 1 to
+7 years. Key exclusion criteria included current use of closed-loop therapy and concomitant
+disease affecting metabolic control or interpretation of HbA1c levels.
+
+
+Study design and procedures
+The study adopted an open-label, multicenter, multinational, randomized, crossover design
+comparing 16-week use of hybrid closed-loop insulin delivery followed by 16-week use of
+sensor-augmented pump therapy, or vice versa. Participants were recruited from outpatient
+clinics at diabetes centers in the UK (Cambridge, Leeds), Austria (Graz, Innsbruck, Vienna),
+Germany (Leipzig), and Luxembourg (Luxembourg).
+
+
+The hybrid closed-loop system comprised an unlocked smartphone hosting the CamAPS
+FX app, which ran the Cambridge model predictive control algorithm (version 0.3.71).
+CamAPS FX communicated wirelessly with the Dana Diabecare RS insulin pump (Sooil,
+South Korea), and Dexcom G6 transmitter (Dexcom, USA).
+
+
+The CamAPS FX app was used during both study periods. During the sensor-augmented
+pump therapy period, closed-loop functionality was disabled.
+
+
+Participants were screened for eligibility, including HbA1c measurement. Following
+enrolment, parents/guardians were trained on the use of the study glucose sensor, study
+insulin pump, and the CamAPS FX app. The app was used in open-loop mode for two to
+four weeks during run-in. Investigators were free to adjust insulin therapy according to
+clinical judgement prior to randomization. A minimum of 8 days of sensor data and
+demonstrated safe use of study devices was required for a child to be eligible for
+randomization.
+
+
+Following randomization, the parents/guardians of participants allocated to initial use of
+closed-loop insulin delivery were trained on the use of the closed-loop system, while those
+
+
+
+
+                                                                                   Page 101
+16 Appendix D Clinical Benefits
+
+allocated to initial use of sensor-augmented pump therapy received refresher training.
+Participants used their allocated initial treatment for 16 weeks, following which participants
+crossed over to the second study arm after 1 to 4 weeks washout.
+
+
+Results
+Overall, 74 children were randomized (mean±SD age 5.6±1.6 years, baseline HbA1c
+7.3±0.7% (56.6 ± 7.2mmol/mol) (Table 3). There was one post-randomization withdrawal;
+that participant withdrew after commencing sensor-augmented pump therapy in the first
+period due to difficulties accessing study consumables at their local clinic.
+
+
+The study endpoints for all randomized participants are shown in Table 4. The time in target
+range 3.9 to 10mmol/L was 8.7 percentage points (95% confidence interval [CI] 7.4 to 9.9;
+p<0.001) higher in the 16-week closed-loop period compared to the 16-week sensor-
+augmented pump (SAP). The time in hyperglycemia (>10mmol/L) was 8.5 percentage
+points (95% CI 7.1 to 9.9; p<0.001) lower in closed-loop compared to the SAP period. At
+the end of the closed-loop period, HbA1c was 0.4% ([3.9mmol/mol], 95% CI 0.3 to 0.5 [2.9
+to 4.9]; p<0.001) lower compared to the SAP period. Mean sensor glucose was 0.7mmol/L
+(95% CI 0.5 to 0.8; p<0.001) lower in closed-loop period. The time in hypoglycemia
+<3.9mmol/L, which was not different between interventions (p=0.74).
+
+
+Percentage time with glucose <3.5mmol/L and <3.0mmol/L was not different between
+interventions (Table 4). Time in hyperglycemia >16.7mmol/L was 1.0% (95% CI 0.6 to 1.6)
+lower in closed-loop compared to SAP period. Glucose variability as measured by standard
+deviation of glucose was lower in closed-loop period (3.3 vs 3.6mmol/L), but there was no
+difference in the coefficient of variation of glucose between closed-loop and SAP periods.
+
+
+While total daily insulin dose was similar between treatment periods, basal insulin dose,
+i.e., insulin delivered by the closed-loop algorithm, was higher during closed-loop compared
+to SAP period, with a reduction in bolus insulin dose (Table 4).
+
+
+Glucose sensor use was high in both treatment periods at >99% (99%, >99%) in closed-
+loop and 96% (94%, 97%) in SAP period. In the closed-loop period, closed-loop was used
+for 95% (92%, 97%) of the time.
+
+
+
+
+                                                                                   Page 102
+16 Appendix D Clinical Benefits
+
+          Table 3. Characteristics of study participants at baseline (KidsAP02 study).
+
+
+                                                                                               Sensor-
+                                                                      Closed-loop
+                                                   Overall                                augmented pump
+                                                                           first
+                                                                                                 first
+
+ No. of participants                                  74                    39                    35
+ Age, years
+          Mean                                    5.6 ± 1.6             5.5 ± 1.5             5.6 ± 1.7
+          Range                                   2.3 to 7.9            2.5 to 7.9            2.3 to 7.9
+          2-<5 years
+                                                  27 (36%)              14 (36%)              13 (37%)
+          5-<7 years
+                                                  29 (39%)              17 (44%)              12 (34%)
+          7-<8 years
+                                                  18 (24%)               8 (21%)              10 (29%)
+ Sex, n (%)
+          Female                                   31 (42)               21 (54)               10 (29)
+          Male                                     43 (58)               18 (46)               25 (71)
+ Ethnicity, n (%)
+          White                                    66 (89)               34 (87)               32 (91)
+          Black / African-American                   2 (3)                 2 (5)                 0 (0)
+          Asian                                      2 (3)                 1 (3)                 1 (3)
+          Native Hawaiian/Other Pacific
+                                                     0 (0)                 0 (0)                 0 (0)
+          Islander
+          More than one race                         4 (5)                 2 (5)                 2 (6)
+          Unknown / Not reported                    0 (0)                 0 (0)                 0 (0)
+                                                  2.6 ± 1.8             2.5 ± 1.7             2.7 ± 1.9
+ Duration of diabetes, years [range]
+                                                   [0 to 6]              [0 to 6]              [0 to 6]
+ Glycated hemoglobin at screening %               7.3 ± 0.7             7.3 ± 0.7             7.4 ± 0.6
+          [mmol/mol]                             [56.6 ± 7.2]          [56.3 ± 7.4]          [57.0 ± 7.1]
+ Total daily insulin dose (U/kg/day)          0.76 (0.67 to 0.85)   0.76 (0.67 to 0.83)   0.77 (0.69 to 0.86)
+ Age-gender adjusted BMI percentile            69.1% ± 23.8%         67.3% ± 23.2%         71.1% ± 24.6%
+ Use of continuous glucose monitor, n (%)
+          Current                                  67 (91)               35 (90)               32 (91)
+          In past, but not current                   1 (1)                 0 (0)                 1 (3)
+          Never                                      6 (8)                4 (10)                 2 (6)
+ CGM metrics at baseline
+          Time in range 3.9-10mmol/L (%)         61.2 ± 10.1            61.5 ± 9.5           60.8 ± 10.9
+          Mean sensor glucose (mmol/L)             9.0±1.2               9.0±1.2               9.0±1.2
+          Glucose SD (mmol/L)                  3.7 (3.2 to 4.1)      3.7 (3.3 to 4.1)      3.7 (3.1 to 4.3)
+          Coefficient of variation (%)        41.6 (36.7 to 44.5)   42.4 (36.9 to 45.0)   41.1 (36.6 to 43.9)
+ Percentage time with sensor glucose (%)
+          >10mmol/L                           34.4 (24.0 to 42.2)   32.2 (24.0 to 42.7)   36.7 (21.6 to 41.8)
+          >16.7mmol/L                          3.7 (1.8 to 7.9)      3.4 (2.0 to 7.9)      3.8 (1.2 to 8.5)
+          <3.9mmol/L                           4.4 (2.3 to 7.0)      4.5 (2.4 to 6.7)      3.9 (2.0 to 7.4)
+          <3.0mmol/L                           0.7 (0.3 to 1.6)      0.8 (0.2 to 1.8)      0.6 (0.3 to 1.4)
+Data are n (%), mean ± SD, or median (IQR).
+
+
+
+
+                                                                                                  Page 103
+16 Appendix D Clinical Benefits
+
+Adverse events
+One severe hypoglycemic event occurred in the closed-loop period. The event occurred as
+a result of a very low nocturnal personal glucose target and parents not responding to
+hypoglycemia alarms over the 3 hours prior to the event. The closed-loop system
+functioned as intended. There were no episodes of diabetic ketoacidosis. One non-
+treatment related serious adverse event (hospital admission for gastroenteritis) occurred in
+the SAP period.
+
+
+Conclusions
+The KidsAP02 study demonstrated that the Cambridge hybrid closed-loop algorithm
+significantly improves glycemic control over 16-weeks compared with sensor-augmented
+pump therapy in very young children with type 1 diabetes, and with an acceptable safety
+profile. The HbA1c reduction of 0.4% (3.9mmol/mol) is important in a population that had
+tight glycemic control at baseline. This result was achieved without an increase in
+hypoglycemic episodes.
+
+
+The of 71.6±5.9% time in target range 3.9 to 10mmol/L in the closed-loop group is similar
+to other studies in very young children but was sustained over 16-weeks of home use. The
+increase of 8.7 percentage points in the time in target range translates to a clinically
+meaningful 125 minutes per day.
+
+
+The study was of sufficient duration to report HbA1c outcomes in the very young
+participants who used the hybrid closed-loop therapy, and results are similar to those
+reported in studies of commercially available closed-loop systems in older children and
+adolescents. Given the low baseline HbA1c the improved levels in the present study are
+noteworthy, as higher baseline HbA1c levels are associated with greater HbA1c reduction
+when using hybrid closed-loop therapy. Closed-loop usage was consistently high at 95%,
+supporting longer-term usability in this age group.
+
+
+
+
+                                                                                  Page 104
+16 Appendix D Clinical Benefits
+
+          Table 4. Comparison of day-and-night glucose control during closed-loop and sensor-augmented pump therapy (KidsAP02 study).
+
+
+                                                            Closed-loop        Sensor augmented        Mean adjusted difference    P value
+                                                               (N=73)            pump therapy         (95% Confidence Interval)*
+                                                                                    (N=74)
+ Time spent at glucose level in range (%)
+         3.9 to 10 mmol/L                                     71.6 ± 5.9           62.9 ± 9.0               8.7 (7.4 to 9.9)       <0.001
+         < 3.9 mmol/L                                      4.9 (3.3 to 6.7)      4.5 (2.9 to 7.3)           0.1 (-0.4 to 0.5)       0.74
+         < 3.5 mmol/L                                      2.6 (1.8 to 3.7)      2.4 (1.4 to 4.2)          0.04 (-0.3 to 0.3)           -
+         < 3.0 mmol/L                                      1.0 (0.6 to 1.4)      0.9 (0.4 to 1.6)          0.02 (-0.1 to 0.1)           -
+         > 10 mmol/L                                     22.9 (19.3 to 27.3)   31.7 (23.4 to 40.1)         -8.5 (-9.9 to -7.1)     <0.001
+         > 16.7 mmol/L                                     2.0 (1.2 to 3.1)      3.1 (1.3 to 5.7)          -1.0 (-1.6 to -0.6)          -
+ HbA1c (%)                                                     6.6 ± 0.6            7.0 ± 0.7            -0.36 (-0.53 to -0.19)    <0.001
+         [mmol/mol]                                          [49.0 ± 5.9]          [52.8 ± 7.2]           [-3.9 (-4.9 to -2.9)]    <0.001
+ Mean glucose (mmol/L)                                         8.1 ± 0.7            8.9 ± 1.0              -0.7 (-0.8 to -0.5)     <0.001
+ Glucose SD (mmol/L)                                       3.3 (3.0 to 3.6)      3.6 (3.2 to 4.0)           0.3 (0.3 to 0.4)            -
+ Glucose CV (%)                                             41 (39 to 43)         41 (38 to 44)            -0.7 (-1.5 to 0.05)          -
+ Total daily insulin (U/day)                             16.9 (13.2 to 21.5)   17.6 (13.6 to 20.3)          0.3 (-0.1 to 0.8)           -
+ Total daily basal insulin (U/kg/day)                      8.0 (5.8 to 10.9)     5.7 (4.0 to 6.9)           2.5 (2.1 to 2.9)            -
+ Total daily bolus insulin (U/kg/day)                      8.6 (6.9 to 10.6)    11.0 (9.1 to 13.5)         -2.3 (-2.7 to -1.9)          -
+Data are mean ± SD or median (IQR)
+* Difference is “Closed-loop minus sensor augmented pump therapy”
+
+
+
+
+                                                                                                                                   Page 105
+16 Appendix D Clinical Benefits
+
+
+Key Clinical Study - AiDAPT
+The AiDAPT study was a multicenter, parallel-group randomized clinical trial evaluating
+automated insulin delivery with CamAPS FX in the home setting in women with pregnancy
+complicated by type 1 diabetes [6].
+
+
+Study participants
+The study recruited pregnant women, aged between 18 and 45 years, with a duration of
+type 1 diabetes of at least 12 months, as soon as possible after ultrasound confirmation of
+a viable pregnancy and before 14 weeks gestation. Participants using intensive insulin
+therapy (multiple daily injections or insulin pump) were eligible if they had a glycated
+hemoglobin level of ≥6.5% during early pregnancy and ≤10% at randomization.
+
+
+Study design and procedures
+This was open-label, multicenter, randomized, controlled trial. The participants were
+recruited from nine National Health Service sites in England, Scotland and Northern Ireland.
+Participants were randomized to receive automated hybrid closed-loop insulin delivery
+(intervention group) or to continue standard intensive insulin therapy (via multiple daily
+injections or insulin pump) with continuous glucose monitoring (control group).
+
+
+Participants were screened for eligibility by local clinic teams. All participants provided
+written informed consent and completed a 4 to 10-day run-in phase to provide a baseline
+glycemic assessment and to ensure continuous glucose monitoring use was tolerated.
+Eligible participants were randomized 1-2 weeks after recruitment and before 16 weeks’
+gestation, to either the ‘closed-loop system group’ or ‘standard care group’.
+
+
+The hybrid closed-loop system comprised a smartphone (Galaxy S8-12, Samsung) hosting
+the CamAPS FX app (CamDiab, Cambridge, UK), running the Cambridge model predictive
+control algorithm (version 0.3.71). The smartphone communicated via Bluetooth with the
+insulin pump (Dana Diabecare RS, Sooil, South Korea) and continuous glucose monitor
+(Dexcom G6, Dexcom, CA, USA). Personal glucose targets were user-specified but
+recommended targets were 5.6mmol/L in early pregnancy, and 4.5-5.0mmol/L from
+16-20 weeks’ gestation onwards.
+
+
+In the standard care group, participants continued multiple daily injections or insulin pump
+therapy with insulin dose adjustment as directed by their local clinical teams aiming for
+standard glucose targets (pre-meal 3.5-5.6mmol/L and one-hour post meal <7.8mmol/L).
+
+
+
+
+                                                                                  Page 106
+16 Appendix D Clinical Benefits
+
+            Table 5. Characteristics of study participants at baseline (AiDAPT study).
+
+                                                          Closed-loop                       Standard care
+                                                             (N=61)                            (N=63)
+ Age (years)                                               32.0 ± 5.0                          30.2 ± 5.5
+ White race/ethnicity                                       58 (95%)                           57 (90%)
+ Diabetes duration (years)                                   18 ± 8                              16 ± 7
+ Maternal BMI (kg/m2)                                      27.9 ± 5.9                          26.9 ± 4.8
+ Higher education                                           36 (59%)                           33 (52%)
+ Recruitment gestation (weeks)                         10.3 (8.0 to 11.7)                  10.0 (8.4 to 11.3)
+ Randomization gestation (weeks)                       11.3 (9.6 to 13.0)                  11.0 (9.6 to 12.4)
+ Past Diabetes / Medical History
+ Diabetes complications                                     35 (57%)                           35 (56%)
+      Retinopathy                                           35 (57%)                           34 (54%)
+      Nephropathy                                            4 (7%)                              5 (8%)
+      Neuropathy                                             4 (7%)                              2 (3%)
+ Prior diabetic ketoacidosis a                               1 (2%)                            10 (16%)
+ Prior severe hypoglycemia b                                 4 (7%)                              5 (8%)
+ Pregnancy history
+ Primiparous / no previous births c                         21 (34%)                           38 (60%)
+ Previous pregnancy loss d                                  21 (34%)                           20 (32%)
+ Pre-pregnancy factors
+       Folic acid                                           38 (62%)                           34 (54%)
+       Alcohol                                              36 (59%)                           36 (57%)
+       Smoking                                              10 (16%)                           14 (22%)
+ HbA1c during early pregnancy e
+      ≥ 6.0% - <7.0%                                        23 (38%)                           13 (21%)
+      ≥ 7.0% - <8.0%                                        21 (34%)                           24 (38%)
+      ≥ 8.0%                                                17 (28%)                           26 (41%)
+      Mean ±SD                                              7.6 ± 1.1                          7.9 ± 1.3
+      Range                                                6.0 to 11.6                        6.5 to 14.0
+ Continuous glucose monitoring                              59 (97%)                           62 (98%)
+      Abbott Freestyle Libre                                43 (73%)                           47 (76%)
+      Dexcom CGM                                            12 (20%)                           14 (23%)
+      Medtronic CGM                                          4 (7%)                              1 (2%)
+ Insulin delivery
+      Insulin pump                                          32 (52%)                           25 (40%)
+      Multiple daily injections                             27 (44%)                           37 (59%)
+      Automated insulin delivery f                           2 (3%)                              1 (2%)
+ Total daily insulin (U/kg/day)                             0.7 ± 0.2                          0.7 ± 0.2
+Data are n (%); mean ± SD; or median (IQR)
+a
+  Participants in standard care had more diabetic ketoacidosis events in the 12 months before enrollment
+b
+  Severe hypoglycemia events defined as requiring third party assistance in the 12 months before enrolment
+c
+  Participants in closed-loop had more previous births
+d
+  Includes previous miscarriages and pregnancy terminations
+e
+  One participant with HbA1c 6.0% was entered during the pandemic whilst experiencing frequent hypoglycemia using an
+alternative closed-loop (Tandem Control IQ) system
+f
+  Participants using alternative hybrid closed-loop systems were eligible
+
+
+
+
+                                                                                                            Page 107
+16 Appendix D Clinical Benefits
+
+Results
+A total of 124 participants with a mean age of 31.1 ± 5.3 years and a mean baseline glycated
+hemoglobin level of 7.7±1.2% were randomized, 61 to closed-loop intervention group and
+63 to the standard care control group. Participants were from nine maternity clinics and
+were representative of the pregnant women with type 1 diabetes in the United Kingdom.
+The baseline characteristics of the study participants are presented in Table 5.
+
+
+Almost all (98%) were using continuous glucose monitoring and approximately half were
+using insulin pump therapy at enrolment. Despite the impact of the Covid-19 pandemic, the
+proportion of completed study visits was high, ~95% from 16 weeks until delivery. The
+frequency of sensor use was consistently high, median 97% across both treatment groups.
+The frequency of closed-loop use was high (median 96%) and remained >95% throughout
+pregnancy.
+
+
+The mean (±SD) percentage of time that maternal glucose levels were within the pregnancy
+target range differed between study arms from 47.8±16.4% to 68.2±10.5% in the closed-
+loop group and from 44.5±14.4% to 55.6±12.5% in the control group (Table 6). Mean
+adjusted difference was 10.5% percentage points, 95% CI 7.0% to 14%; P<0.001. There
+were no variations in the treatment effect among trial sites, and no differential effects across
+maternal age, glycated hemoglobin or insulin delivery categories.
+
+
+Participants randomized to closed-loop spent less time with glucose levels above target
+range (mean difference -13.8% to -6.6%) (Table 6). The effects of the intervention during
+the overnight period (23.00 - 07.00) closely followed the 24-hour results (mean difference
+12.3%; 95% CI 8.3% to 16.2%). This was accompanied by improved control in the closed-
+loop group including, lower mean glucose, lower glycated hemoglobin and fewer nocturnal
+hypoglycemic events, notable since participants spent ~70% time in the near-optimal
+(3.5-10mmol/L) target range at baseline (Table 6). Furthermore, participants who started
+closed-loop therapy during the first trimester had 5% higher time-in-range by the end of
+12 weeks gestation.
+
+
+Attainment of the sensor glucose target of >70% time (16 hours 48 mins) within the
+pregnancy-specific range was achieved by 28 (47%) closed-loop and 7 (11%) standard-
+care participants. Maternal glucose improvements were achieved with lower glucose
+targets (from 5.7±0.1 to 5.2±0.3 mmol/L) across gestation and without additional
+hypoglycemia, weight gain or total daily insulin dose.
+
+
+
+
+                                                                                     Page 108
+16 Appendix D Clinical Benefits
+
+                                                   Table 6. Primary and secondary maternal outcomes (AiDAPT study).
+
+                                                               Baseline a                             Antenatal intervention phase b
+                                                                                                                                                   Adjusted difference c
+                                                     Closed-loop      Standard care                  Closed-loop        Standard care                                                P-value c
+                                                                                                                                                 (95% Confidence Interval)
+                                                        (N=59)            (N=59)                        (N=59)              (N=61)
+
+ Time in range 3.5-7.8mmol/L (%) d                    47.8 ± 16.4             44.5 ± 14.4             68.2 ± 10.5            55.6 ± 12.5                10.5 (7.0, 14.0)              <0.001
+ Key secondary endpoints
+      Time >7.8mmol/L (%)                             48.7 ± 18.0             51.8 ± 16.2             29.2 ± 10.6            41.4 ± 13.2             -10.2 (-13.8 to -6.6)               -
+      Overnight time in range
+                                                      47.4 ± 20.8             44.5 ± 16.6             70.8 ± 11.2            56.7 ± 13.6               12.3 (8.3 to 16.2)                -
+      3.5-7.8mmol/L (2300-0700) (%)
+ Secondary endpoints
+      Time 3.5-10.0 mmol/l (%)                          71 ± 16                 68 ± 15                 87 ± 9                 80 ± 10                     6 (3 to 9)                    -
+      Time >10mmol/L (%)                                26 ± 17                 28 ± 16                 11 ± 9                 17 ± 11                    -6 (-9 to -3)                  -
+      Mean glucose (mmol/L)                             8.3 ± 1.6              8.4 ± 1.3               7.0 ± 0.8               7.6 ± 0.9                -0.5 (-0.8, -0.3)                -
+      Glycated hemoglobin (HbA1c) (%)                   7.6 ± 1.1              7.9 ± 1.3               6.0 ± 0.5               6.4 ± 0.5             -0.31 (-0.50 to -0.12)              -
+      Glucose SD (mmol/L)                               3.0 ± 0.8              3.1 ± 0.7               2.3 ± 0.6               2.6 ± 0.6                -0.3 (-0.4, -0.1)                -
+      Glucose CV (%)                                     36 ± 5                  37 ± 6                 33 ± 5                  34 ± 5                 -1.1 (-2.6 to 0.3)                -
+ Hypoglycemia
+                                                          2.75                   2.22                   2.26                    2.02
+      Time < 3.5mmol/L (%)                                                                                                                              -0.4 (-1 to 0.2)                 -
+                                                     (0.86 to 4.87)          (0.72 to 6.00)         (1.54 to 3.31)          (1.25 to 4.37)
+                                                          1.05                   0.79                   0.71                    0.73
+      Time < 3.0mmol/L (%)                                                                                                                            -0.2 (-0.45 to 0.1)                -
+                                                     (0.07 to 2.37)          (0.18 to 2.28)         (0.49 to 1.19)          (0.36 to 1.67)
+                                                           6.4                                                                   5.7
+      Mild hypoglycemia e                                                  5.5 (2.4 to 11.1)        6.7 (4.6 to 9.4)                                    0.2 (-1.1 to 1.4)                -
+                                                      (2.2 to 11.5)                                                          (3.1 to 9.4)
+                                                           2.2                    2.2                     2.3                    2.1
+      Moderate hypoglycemia f                                                                                                                          0.0 (-0.47 to 0.7)                -
+                                                       (0.0 to 5.7)           (0.0 to 5.9)            (1.6 to 3.8)           (1.1 to 4.4)
+Data are mean ± SD or median (IQR)
+a
+  Baseline sensor glucose metrics calculated using data from the pre-randomization run-in phase
+b
+  Antenatal intervention phase is from 16 weeks gestation until delivery. Endpoints are calculated using sensor glucose data except for glycated hemoglobin which was measured at trial sites. The
+glycated hemoglobin level at 34-36 weeks reflects maternal glycemia over the preceding 10-12 weeks
+c
+  Difference is “Closed-loop minus standard care”. Model adjusted for baseline value, insulin delivery modality, and site as a random effect
+d
+  Results were similar when adjusting for number of previous DKA events, or previous pregnancies as covariates and when treating site as a fixed effect (mean diffefernce 10.6% 95% CI 7.0% to
+14.1%)
+e
+  Mild hypoglycemia is sensor glucose <3.5mmol/L for at least 15 consecutive minutes. Episodes separated by 30 minutes
+f
+  Moderate hypoglycemia is sensor glucose<3.0mmol/L for at least 15 consecutive minutes. Episodes separated by 30 minutes
+
+
+
+
+                                                                                                                                                                                    Page 109
+16 Appendix D Clinical Benefits
+
+There was one shoulder dystocia in the closed-loop group. There was one neonatal death
+and three serious birth injuries in the standard care group. We observed less new-onset
+hypertension and more repeat caesarean sections (scheduled prior to onset of labor) in the
+closed-loop group, likely related to their previous pregnancies. Babies of mothers in the
+closed-loop group were delivered 4.5 days earlier, without differences in preterm births,
+birthweight, neonatal complications, or neonatal care admissions.
+
+
+Adverse events
+There were six severe hypoglycemia events in the closed-loop group, and five in standard
+care. There was one diabetic ketoacidosis event in each group. One participant with severe
+hyperemesis experienced 20 non-acidotic ketosis events. She did not use closed-loop
+between 16 weeks and delivery but contributed to more ketosis and serious adverse events
+in the closed-loop group. The rate of adverse device events for the closed-loop system was
+24.3 per 100 person years, with seven events related to closed-loop use and seven to the
+continuous glucose sensor.
+
+
+Conclusions
+We found that the percentage of time that glucose levels were within the pregnancy-specific
+target range of 3.5 to 7.8 mmol/L from 16 weeks gestation until delivery was
+10.5 percentage points higher (additional 2.5 hours per day) in participants assigned to
+closed-loop, compared to those assigned to continuous glucose monitoring alongside their
+usual insulin-delivery method. The time-in-range benefits were achieved by reducing
+maternal hyperglycemia and increasing nocturnal time-in-range. Improvements in glucose
+outcomes were consistent across baseline maternal age, glycemic categories, clinical sites
+and pre-trial insulin delivery method.
+
+
+Furthermore, there was no increase in gestational weight gain or maternal insulin doses.
+The incidence of hypoglycemia was low at baseline, and apart from nighttime reductions,
+did not differ between groups. A five-percentage point increased time-in-range was
+apparent by the end of the first trimester, suggesting that the benefits occurred soon after
+closed-loop initiation (~12 weeks gestation), which is crucially important for women and
+clinicians considering therapeutic changes during early pregnancy.
+
+
+In conclusion, hybrid closed-loop with CamAPS FX was effective in pregnancy complicated
+by type 1 diabetes, accommodating the marked gestational changes in insulin doses in
+study participants.
+
+
+
+
+                                                                                  Page 110
+16 Appendix D Clinical Benefits
+
+
+References
+1. Hovorka R: Artificial Pancreas project at Cambridge 2013. Diabet Med 2015,
+   32(8):987-992.
+2. Thabit H, Tauschmann M, Allen JM, Leelarathna L, Hartnell S, Wilinska ME, Acerini CL,
+   Dellweg S, Benesch C, Heinemann L et al: Home use of an artificial beta cell in type
+   1 diabetes. N Engl J Med 2015, 373(22):2129-2140.
+3. Tauschmann M, Thabit H, Bally L, Allen JM, Hartnell S, Wilinska ME, Ruan Y, Sibayan
+   J, Kollman C, Cheng P et al: Closed-loop insulin delivery in suboptimally controlled
+   type 1 diabetes: a multicentre, 12-week randomised trial. Lancet 2018,
+   392(10155):1321-1329.
+4. Barnard KD, Wysocki T, Ully V, Mader JK, Pieber TR, Thabit H, Tauschmann M,
+   Leelarathna L, Hartnell S, Acerini CL et al: Closing the loop in adults, children and
+   adolescents with suboptimally controlled type 1 diabetes under free living
+   conditions: a psychosocial substudy. J Diabetes Sci Technol 2017, 11(6):1080-1088.
+5. Ware J, Allen JM, Boughton CK, Wilinska ME, Hartnell S, Thankamony A, de Beaufort
+   C, Schierloh U, Frohlich-Reiterer E, Mader JK et al: Randomized trial of closed-loop
+   control in very young children with type 1 diabetes. N Engl J Med 2022, 386(3):209-
+   219.
+6. Lee TTM, Collett C, Bergford S, Hartnell S, Scott EM, Lindsay RS, Hunt KF, McCance
+   DR, Barnard-Kelly K, Rankin D et al: Automated insulin delivery in women with
+   pregnancy complicated by type 1 diabetes. N Engl J Med 2023, 389(17):1566-1578.
+
+
+
+
+                                                                              Page 111
+17 Appendix E Explanation of Universal Symbols
+
+
+17 APPENDIX E EXPLANATION OF UNIVERSAL SYMBOLS
+
+
+
+                        Refer to Instruction Manual/Booklet
+
+
+
+
+                        Warning
+
+
+
+
+                        Manufacturer
+
+
+
+
+                        Date of manufacture
+
+
+
+
+                        CE Mark
+
+
+
+
+                        EU Authorised Representative
+
+
+
+
+                        UKCA Mark
+
+
+
+
+                                                              Page 112
+© 2026 CamDiab Ltd. All rights reserved. CamDiab and CamAPS are registered
+trademarks of CamDiab Ltd in the United Kingdom and may be in other countries. Bluetooth
+is a registered trademark owned by Bluetooth SIG Inc. Android is a registered trademark
+owned by Alphabet Inc. All other marks are property of their respective owners.
+               CamDiab Ltd
+  Level 4, Institute of Metabolic Science
+Box 289, Addenbrooke’s Hospital, Hills Rd
+          Cambridge CB2 0QQ
+              United Kingdom
+        support@camdiab.com
+
+
+
+
+             0086       2797
+
+
+
+            AR Experts BV
+          Boeingavenue 209
+         1119 PD Schiphol-Rijk
+           The Netherlands
+
+
+         Sponsor in Australia
+       Mylife DC Australia Pty Ltd
+             36.01 Level 36
+          201 Elizabeth Street
+                Sydney
+               NSW 2000
+                Australia
+   info@mylife-diabetescare.cam.au
+        Free Call: 1800 447042
+
+       Sponsor in New Zealand
+          Pharmaco (N.Z.) Ltd
+    4 Fisher Crescent, Mt Wellington
+             Auckland 1060
+              New Zealand
+  support@pharmacodiabetes.co.nz
+      Customer Care: 800 458 267
+

@@ -6,6 +6,11 @@ code that produces them are in the preprint and its repository, linked at the en
 
 ---
 
+As the makers of automated insulin delivery systems, CamDiab among them, work to bring fully closed
+loop, a system that needs no meal boluses at all, into wider use, the system that decides which
+insulins people are offered has conspired to take away a key part of that equation: the fastest
+insulin available. This is a story of inertia, ineptitude and indifference.
+
 In March 2026 a pump user in Switzerland went to order more Lyumjev and was told it could not be
 ordered. "There's no press release, pharmacy just says they can't order it anymore due to being
 discontinued," they wrote on Reddit. Lilly had told Swiss specialists the previous autumn. It had not
