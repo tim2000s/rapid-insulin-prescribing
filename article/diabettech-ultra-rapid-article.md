@@ -174,9 +174,10 @@ A specialist nurse told another that their clinic would move only NovoRapid user
 the time that "Many HCPs will not prescribe it until they see the outcome of this trial because they
 don't want to get in to trouble for prescribing something they don't have details of."
 
-Some consultants in England went further, and said plainly that they did not believe a faster insulin
-offered people any benefit, and would not prescribe Fiasp for that reason. [Tim: confirm this as your
-own account, or reword.] That is a clinical judgement made against the trials' own meal-test results
+People told me at the time that some consultants in England went further and said they did not
+believe a faster insulin offered any benefit, and would not prescribe Fiasp for that reason. I did
+not hear that said myself, so I report it as hearsay; the nurse's view that there was not "much
+difference" is the documented version. That is a clinical judgement made against the trials' own meal-test results
 and against what the people asking for it were saying, and in the years when it cost nothing to let
 them try.
 
