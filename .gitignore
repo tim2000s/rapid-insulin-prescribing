@@ -10,3 +10,4 @@ international/scoping/**/__pycache__/
 international/scoping/us/cms_catalog.json
 international/scoping/us/partd_quarterly_2026Q1.csv
 international/scoping/france/medicam/*.zip
+withdrawals_eu/captures/
