@@ -163,6 +163,23 @@ Fiasp as "Not approved for: Adults with Type 1 diabetes" in November 2018. Birmi
 restricted it to pregnancy in June 2019. South East London made it a second-line option in January
 2020. None of those decisions could have been about cost.
 
+It was not only committees. In June 2017, four months after Fiasp arrived, people on the
+diabetes.co.uk forum were describing what happened when they asked for it. One was given "a straight
+'No'" by a diabetes consultant: "Apparently I am too well controlled to change anything!" A pump user
+was told "no your a1c is low enough as it is, we don't want it going any lower!!" and got it only after
+arguing. Another had been told by a consultant and a specialist nurse that Fiasp "is still undergoing
+trials, and is not available on their formulary", and after three or four attempts had got nowhere.
+A specialist nurse told another that their clinic would move only NovoRapid users across, because
+"they don't think there is much difference between Humalog and Fiasp". I wrote in the same thread at
+the time that "Many HCPs will not prescribe it until they see the outcome of this trial because they
+don't want to get in to trouble for prescribing something they don't have details of."
+
+Some consultants in England went further, and said plainly that they did not believe a faster insulin
+offered people any benefit, and would not prescribe Fiasp for that reason. [Tim: confirm this as your
+own account, or reword.] That is a clinical judgement made against the trials' own meal-test results
+and against what the people asking for it were saying, and in the years when it cost nothing to let
+them try.
+
 Most of it was inaction. A prescriber renewing a NovoRapid or Humalog prescription had, at the same
 price or a little less, an insulin that let people eat without waiting, and almost every time the
 prescription stayed as it was. Hospital diabetes teams, which prescribe the faster insulins at twice

@@ -1,0 +1,63 @@
+
+
+
+
+Guidance to companies on medicines outwith SMC remit
+
+SMC review new medicines that have received a marketing authorisation from the Medicines and Healthcare products Regulatory Agency (MHRA – the licensing body for the UK).  We also review new formulations of, and new ways to use, established medicines.  SMC does not review unlicensed medicines or off-label uses of licensed medicines. 
+Some medicines are considered outwith SMC remit and a submission is not required.  Before making a submission to SMC, the Marketing Authorisation Holder (MAH) should consider whether any of the following exclusion criteria apply.  If you are unsure whether a product falls within these exclusion criteria, please contact the SMC secretariat for advice. 
+Outwith remit criteria:
+1.
+The medicine was initially licensed and made available to the UK market prior to 31 January 2002, for the indication in question, that is, prior to the inception of SMC.
+2.
+The medicine is not a Prescription Only Medicine (PoM).  The SMC remit covers proprietary medicines categorised as PoMs only and excludes Pharmacy and General Sales List medicines. 
+3.
+The medicine is used in immunisation and guidance on its use is issued by the Joint Committee on Vaccination and Immunisation. 
+4.
+The product is a medical device and is not licensed as a medicine by MHRA. 
+5.
+The product is used in diagnosis not treatment. SMC does not consider medicines licensed for use only in a diagnostic setting. 
+6.
+The product is classified as a blood product (excluding anti-bradykinin and C1 inhibitor therapies).  SMC reserves the right to request a submission for a new blood derived product if an assessment of clinical and cost effectiveness is required by NHS Boards.  Please consult the SMC secretariat for further advice. 
+7.
+The product is a medical gas. 
+8.
+The product is a parenteral preparation for fluid and electrolyte imbalance or parenteral nutrition. 
+9.
+The product is used as a supportive intervention in surgical procedures or wound management. Please consult the SMC secretariat for further advice. 
+10.
+The product is used for the acute treatment of poisoning. 
+11.
+The product is a medicine used in tropical diseases. 
+12.
+There has been a change to the MAH, trade name or manufacturer, with no increase in product cost. 
+13.
+The Marketing Authorisation update is solely for a new strength or new presentationA of an existing proprietary medicine(s) (accepted for use by SMC/HIS or which pre-dates SMC), with no associated change to the licensed indication or route of administration and the new product costs the same per patient or less. 
+	•	Please note that if a Patient Access Scheme (PAS) is in place for the existing proprietary medicine then the MAH is asked to contact the PASAG secretariat at nss.np-pasag@nhs.scot to update the existing PAS application to include the new product. 
+
+14.
+The product is a new formulation (or fixed dose combination in a single pharmaceutical form) of an established medicine(s) which is either: 
+	•	An oral formulation of an established genericB medicine intended for patients unable to swallow tablets or capsules, or
+
+	•	An alternative formulation (or fixed dose combination in a single pharmaceutical form) of an established medicine(s) (accepted for use by SMC/HIS or which pre-dates SMC) which costs the same per patient or less.  
+15.
+The product is a generic, branded generic or hybrid medicine.B   
+Health boards may make decisions about the continued application of  ‘not recommended’ advice for the reference product when generic, branded generic or hybrid medicines become available.
+16.
+The product is a biosimilar medicine.  
+Health boards may make decisions about the continued application of  ‘not recommended’ advice for the reference product when biosimilar medicines become available.
+17.
+In certain circumstances, where there are no patients in Scotland who are eligible for treatment a submission may not be required. Please consult the SMC secretariat before assuming that this criterion is satisfied.
+18.
+For some products where there is a large number of proprietary medicines with the same active substance(s) and similar costs, SMC may occasionally advise Area Drug and Therapeutics Committees (ADTCs) that these are outwith remit.  ADTCs should make local decisions on these products as required.  These products are testosterone products for testosterone replacement therapy in male hypogonadism (from June 2019), ursodeoxycholic acid products (from February 2016), colecalciferol products for vitamin D deficiency (from February 2015), some combined oral contraceptives (from April 2012), and some preparations of mesalazine (from January 2011).  Please consult the SMC secretariat for further advice on medicines in these categories.
+
+APresentation
+Presentation may relate to factors such as pack size, packaging, administration or delivery device. 
+BGeneric, branded generic and hybrid medicines
+Generic medicines contain the same active substance(s) as the previously authorised reference medicine, and it is used for the same indication(s).  Generics are authorised to the same standards of safety, quality and efficacy as the reference medicines, and have to demonstrate in clinical studies that they are bioequivalent to the original product: that is, they deliver equal medical benefits to the patient.  Generics can only be marketed once the marketing protection has expired, usually from 10 or 11 years from the date of first authorisation of the reference product.
+Branded generic medicines are generic medicines that are marketed under a brand name.
+Hybrid medicines are medicines whose marketing authorisation depends partly on the results of tests on the reference medicine and partly on new data from clinical trials of the generic medicine.
+This happens when a manufacturer develops a generic medicine that is based on a reference medicine, but has a different strength, a different route of administration or a slightly different indication from the reference medicine.
+
+Updated:           October 2024	
+Review date:	  March 2025

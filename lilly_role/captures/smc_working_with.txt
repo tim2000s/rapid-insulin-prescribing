@@ -1,0 +1,601 @@
+Working with SMC – A Guide
+for Manufacturers
+
+March 2023
+
+
+
+
+                         1
+Contents
+                                                                                      Page
+  1. About the Scottish Medicines Consortium                                          2
+     1.1    SMC remit                                                                 2
+     1.2    SMC organisation                                                          3
+     1.3    Professional support staff                                                4
+     1.4    Contact with SMC staff and members                                        5
+
+
+
+  2. Notes for manufacturers on submissions                                           6
+     2.1    Abbreviated submissions                                                   6
+     2.2    Full submissions                                                          7
+     2.3    Positioning within license                                                7
+     2.4    Submissions for medicines for end of life or rare conditions (orphan)     8
+     2.5    Submissions for medicines with a GB conditional marketing authorisation   8
+     2.6    Ultra-orphan medicines                                                    8
+     2.7    Resubmissions                                                             9
+
+
+
+  3. New product assessment form (NPAF)                                               9
+     3.1   SMC review checklists                                                      10
+     3.2   Key points on methods                                                      10
+     3.3   Key points on references                                                   10
+     3.4   Confidentiality of information                                             11
+
+
+
+  4. SMC decision making                                                              12
+     4.1   Where a higher cost per QALY may be accepted                               12
+     4.2   Modifiers                                                                  12
+     4.3   PACE meetings                                                              12
+     4.4   Patient access schemes                                                     12
+     4.5   Company attendance at virtual SMC meetings                                 13
+
+
+
+  5. Freedom of information                                                           13
+
+
+
+
+                                                                                             1
+1.     About the Scottish Medicines Consortium (SMC)
+The Scottish Medicines Consortium (SMC) was formed in 2001 to benefit patients by providing NHS
+Scotland with a single source of advice about the value of new medicines. Before SMC was set up local
+Area Drug & Therapeutics Committees (ADTC) advised Health Boards on which new medicines should
+be approved for use in the local area. The introduction of SMC provided a single point of advice and
+reduced the duplication of effort across Scotland’s Health Boards and the differences in availability of
+medicines between local areas.
+
+1.1 SMC Remit
+The purpose of SMC is to assess the comparative clinical-effectiveness and cost-effectiveness of new
+medicines and accept for use those that clearly represent good value for money to NHS Scotland.
+SMC has a remit to advise Health Boards across NHS Scotland and their Area Drug and Therapeutics
+Committees (ADTCs) about the status of newly licensed medicines and new indications for established
+medicines. SMC was formed as a consortium of ADTCs, capturing the best of existing practice,
+experience and skills from across the country, with each Health Board represented in the consortium
+and participating in its decision-making. SMC has also adopted a cooperative approach beyond
+clinicians by having senior NHS managers, representatives of the public and the pharmaceutical
+industry involved in its process.
+
+The SMC process for assessing new medicines in NHSScotland has become more transparent, with SMC
+meetings held in public since 2014. In 2018 Public Summaries for all decisions were introduced. These,
+and other changes, to the way SMC operates, have occurred partly as a consequence of the Scottish
+Government Health and Sport Committee’s 2013 review on access to new medicines and the
+subsequent Montgomery Review of Access to New Medicines, published in December, 2016.
+
+SMC aims to issue its advice as soon as is practical after a new medicine becomes available for use, and
+therefore requests that companies liaise closely with SMC regarding submission plans and make
+submissions as soon as possible and.
+
+The SMC remit is confined to prescription-only medicines (POMs); it does not assess vaccines, branded
+generics, blood products (with the exception of anti-bradykinin and C1 inhibitor therapies) and
+diagnostic drugs. Guidance on the types of medicines that are outwith SMC’s remit is available on our
+website.
+
+In some circumstances an abbreviated submission can be made. Guidance on when an abbreviated
+submission might be appropriate can be found on the SMC website. If you are uncertain whether a
+product is within SMC remit or whether an abbreviated submission is appropriate, an enquiry can be
+made via a company information request form available on the website.
+
+SMC also has a horizon scanning function that aims to improve financial and service planning within
+NHS Boards through the provision of early intelligence on new medicines in clinical development.
+Information on the horizon scanning initiative can be found on our website. In order to ensure that
+company products are considered in Health Board financial planning cycles, companies are requested
+to ensure that they enter all relevant data on medicines in phase III clinical development or those that
+
+
+
+                                                                                                           2
+are three years from being made available to prescribe in the UK onto UK PharmaScan. This will allow
+SMC to extract most of the required horizon scanning data from this source.
+
+1.2 SMC Organisation
+SMC, the organisation, consists of the Executive, professional support staff and two committees.
+
+The Executive’s role is to guide the strategic direction of SMC and make decisions on process and policy
+issues. It consists of the chair, the vice chairs of the SMC and New Drugs Committee (NDC), and
+members of the SMC senior staff.
+
+The SMC committee is the body that makes the decision as to whether a medicine is accepted for use
+in NHSScotland, or not. It is made up of around 40 members, some of whom are nominated by ADTCs
+and others who serve in a personal capacity. All 14 Health Boards are represented and there is a wide
+mixture of backgrounds to ensure that decisions are made from an appropriately wide societal
+perspective, not simply from the viewpoint of the clinical evidence. Healthcare managers, public
+partners and the pharmaceutical industry are all members of SMC and take a full part in its decision-
+making.
+
+The NDC is smaller committee comprising of clinicians, pharmacists and two pharmaceutical industry
+members (around 20 members). It has an academic, technical remit and its role is to complete the
+technical assessment of a company’s submission and make a recommendation to the SMC committee.
+NDC meetings are not held in public.
+
+As an example, the mix of members in 2020 is summarised below, but there will be some changes over
+time:
+
+                Committee Members                    SMC          NDC
+                                                    Number       Number
+
+  Doctors                                              12            8
+
+  Primary care                                         1             -
+
+  Secondary care                                      11             8
+
+  Pharmacists                                          4             9
+
+  Healthcare Management                                2             -
+
+  Public Partners                                      3             -
+
+  Pharmaceutical Industry                              3             2
+
+  Health Economist                                     1             -
+
+  Nurse                                                1             -
+
+
+
+
+                                                                                                        3
+Meetings and related timelines
+Once a submission is entered into the workflow, an assessment team reviews the submission. This
+often includes an e-mail exchange of questions and answers with the submitting company. Assessment
+teams complete both clinical and economic checklists, which, with the original submission and clinical
+expert comments, go to the NDC, who reviews the evidence and make a preliminary recommendation
+to the SMC committee. Positive recommendations by the NDC are considered by the SMC Executive
+and negative recommendations are considered the SMC committee. The SMC committee, when it
+meets to consider the medicine, considers other information, such as patient group submissions, and
+often takes a broader view than the strictly evidence-based approach of NDC. All meetings are held
+virtually.
+
+Both SMC and NDC meet monthly, with, a gap of usually six or ten weeks between a medicine being
+assessed at NDC and then SMC, depending on whether or not the medicine is eligible for the Patient
+and Clinician Engagement (PACE) process. Timelines are followed closely to ensure that decisions meet
+the needs of patients, prescribers and the healthcare system.
+
+Medicines which treat rare and end-of–life conditions are eligible for the more flexible decision making
+process, involving a PACE meeting. If the NDC advice for these products is ‘not recommended’, the
+pharmaceutical company can request that SMC convenes a PACE meeting. This process adds an
+additional one to three months to the assessment timelines. The benefit is, however that clinicians
+and patients have a stronger voice in the assessment of these types of medicines and decision making
+is more flexible. In addition, companies may submit a new or revised Patient Access Scheme (PAS) at
+this stage in the process, which in turn may avoid some of the resubmissions that would previously
+have been made.
+
+Discussion of Confidential Information
+When assessing each medicine, SMC aims to hold all of the discussion in public (Part 1). On occasions
+however, there may be a need to hold some of the discussion in a closed session (Part 2) without the
+presence of the public. This may happen if there is a need to discuss in depth data highlighted by the
+manufacturer as confidential for commercial reasons or if there is a need to impose an SMC identified
+restriction. Further details on confidentiality of information are provided in section 3.4 below.
+
+Voting
+After the discussion for all submissions has finished, the meeting moves to a closed session (Part 2) and
+each voting member of SMC casts their vote for each medicine electronically. The outcome is based on
+a simple majority and the number of votes is confidential. The decision on each medicine is then made
+known to the committee.
+
+1.3 Professional Support Staff
+The two Committees are supported by a team of clinical reviewers made up of pharmacists, health
+economists, health service researchers and statisticians experienced in critical appraisal, health
+technology assessment and health economic modelling. For each full submission or resubmission being
+
+
+                                                                                                         4
+assessed a team comprising a pharmacist, health economist, health services researcher and an NDC
+committee member (known as the lead assessor) are allocated to review the company’s submission.
+
+The whole organisation is underpinned by a secretariat that provides full administrative and logistical
+support to the Committees and Assessment Teams and also liaises with the pharmaceutical industry
+and other external agencies. The work programme and outputs from SMC assessment are all available
+in the public domain on the SMC website.
+
+1.4 Contact with SMC staff and members
+The point of contact for a pharmaceutical company should be the SMC secretariat. The secretariat will
+be aware of possible upcoming submissions via the horizon scanning process and, as the expected date
+of marketing authorisation comes closer, will contact the company asking for confirmation of the
+submission date. This will generally happen at the time the Medicines and Healthcare products
+Regulatory Agency (MHRA) grants a GB marketing authorisation or the Committee for Medicinal
+Products for Human Use (CHMP) issues a positive opinion for the product. At this time the company
+will be asked to advise the date they intend to make their submission and whether the product could
+be considered as an end-of-life medicine or orphan a medicine. The submission requirements are
+different for ultra-orphan medicines – see below for more detail. The secretariat can give advice on
+submission requirements and timings of submissions. The submission should then be made, as per the
+Guidance on the New Product Assessment Form, via the secretariat.
+
+At present, members of the SMC professional support staff do not routinely meet with submitting
+companies – there is no option for a ‘scoping meeting’. However if a manufacturer has a specific
+question, this can be submitted to SMC in advance of the submission, by sending a Request for
+Information form to the secretariat. If possible the question will be answered.
+
+SMC offers Early Engagement meetings only under specific circumstances: when there is a suggestion
+that a submission may not be forthcoming and there is exceptionally high patient need, for example a
+medicine used for a condition where no other treatment is available (including MHRA Early Access to
+Medicines Schemes medicines); or when a company has limited previous experience of engagement
+with SMC, and/or aspects of the submission suggest there would be mutual benefit from a meeting, to
+discuss concerns or issues relating to SMC process or policy at an early stage.
+
+SMC aims to issue timely advice, ideally as soon as possible after the product becomes available for
+prescribing in the UK. If a submission may be delayed, companies should inform the secretariat as
+soon as possible stating the reasons for delay and their intended submission timeline.
+
+SMC follows very tight timelines, with an 18-week period for standard submissions or 22-week period
+for PACE medicines between scheduling the company submission for review and publication of advice.
+SMC staff will contact companies regarding their submission at set stages throughout the process
+providing information on the progress of their submission, sharing draft documents about their
+medicine and sometimes seeking clarification on points of fact.
+
+Companies should be aware that, following submission and before the medicine is considered by the
+NDC, they will often be contacted by the SMC secretariat for further information, clarification on
+information already submitted or additional analyses in relation to the health economics component of
+
+
+                                                                                                       5
+the submission. In some cases the company will be expected to provide significant amounts of
+information within tight timescales.
+
+While the SMC professional support staff are happy to answer questions about a company’s
+submission at other points of the process, the staff cannot comment or give opinions on specific
+aspects of the evaluation of a submission while the assessment process is underway.
+
+After NDC has considered the submission (NDC usually meets on the last Tuesday of every month) each
+submitting company will be sent, in confidence, preliminary advice on the Friday following the
+meeting. The company is given an opportunity to comment on this with a 10 working day deadline for
+response – see company comments guidance on our website. At this stage there may also be requests
+for clarification of information submitted or further analysis of information already submitted. Once
+the company response has been received, it is included in the paperwork for SMC members, alongside
+the submission.
+
+For end-of–life and orphan medicines, if the NDC advice is ‘not recommended’ and the company
+wishes SMC to convene a PACE meeting, the company is asked to submit a PACE statement alongside
+comments on the NDC draft advice. The company also has the opportunity to submit a new or revised
+Patient Assess Scheme (PAS) at this time. Further detail on PAS provided below.
+
+After SMC has reviewed the submission, (SMC usually meets on the first Tuesday of every month), the
+submitting company will be informed in confidence of the SMC decision, and sent the Detailed Advice
+Document (DAD), on the following Friday. SMC does not anticipate notification of any further changes
+after the Company Comments deadline.
+
+NHS Boards are also informed of the advice, in confidence, at this stage. This information will not be
+made public, however, via the SMC website, until 4 weeks after the SMC meeting. In the intervening
+period, NHS Boards are expected to prepare for the consequences of the decision.
+
+If relevant, competitor companies are sent a copy of the advice on the Monday of the week following
+the SMC meeting, to enable them to review statements on their product in the DAD.
+
+If a product is ‘not recommended’ for use, and the company wishes to consider making a resubmission,
+a meeting with SMC representatives is recommended. These company meetings are arranged via the
+Secretariat and are held following publication of the DAD on the SMC website; they normally involve a
+member of the SMC Executive (usually the vice chairs of NDC and SMC), and a member of the
+secretariat. It should be noted that individual members of the assessment team are not involved in
+these meetings. Guidance on meetings with pharmaceutical companies post-SMC can be found on the
+website.
+
+2.     Notes for Manufacturers on Submissions
+2.1 Abbreviated submissions
+The SMC will consider an abbreviated submission in some circumstances
+
+Separate guidance on abbreviated submissions is published on the SMC website. Manufacturers should
+seek confirmation from the SMC secretariat that an abbreviated submission is appropriate prior to
+making the submission.
+                                                                                                         6
+2.2 Full submissions
+SMC makes recommendations on new medicines to NHS Boards based on an assessment of the clinical
+and cost-effectiveness within the NHS in Scotland. It is therefore important that manufacturers submit
+clinical and economic evidence according to the principles and standard outlined in the guidance
+documents.
+
+The only exception to the requirement for an economic evaluation is where a medicine fulfils the SMC
+criteria for an abbreviated submission (see above).
+
+The SMC assessment of the likely clinical and cost-effectiveness of a medicine is based on the evidence
+in the manufacturer’s submission. In their submission, the manufacturer needs to demonstrate the
+case for the clinical and cost-effectiveness of the medicine through a clear, concise, unbiased and
+robust case to support the application. Each SMC meeting involves around six submissions, therefore it
+is imperative that manufacturers provide a concise case. Robustness will be judged on the basis of the
+methodological quality of the case submitted. The application needs to show that the medicine will:
+
+       (i) provide additional health benefits that are valued by patients compared to current
+       Scottish practice and that this is at a net cost to the NHS that offers acceptable value in relation
+       to other uses of the same resources,
+
+or
+
+       (ii) offer equivalent levels of health benefit to patients at an equivalent or lower net cost to
+       the NHS.
+
+2.3 Positioning within license
+SMC has a remit to consider the full indication covered by the marketing authorisation for a new
+medicine. In some circumstances, however, the company may wish to make a case for the clinical and
+cost effectiveness of the medicine for a narrower population than that covered by the full licensed
+indication(s). For example, where the company wishes to make the case for the medicine when
+positioned for use in a specific patient sub-group in order to maximise its cost-effectiveness.
+
+       (i) Where a submission covers only part of the marketing authorisation for a product the
+       submitting company must detail all other aspects of the marketing authorisation that are within
+       SMC remit but have not been covered in the submission.
+
+       (ii) Where a submission positions a medicine for use in a sub-group of patients narrower than
+       that covered by the marketing authorisation, the submitting company should ensure that the
+       proposed population for treatment is appropriate and valid within the licensed indication under
+       consideration in the submission.
+
+The manufacturer must state explicitly on the registration page under 1b) that SMC is asked to
+consider the use of the medicine when positioned for use in a sub-group of the population covered by
+the marketing authorisation.
+
+
+
+
+                                                                                                          7
+2.4 Submissions for medicines for end of life or rare conditions (orphan)
+SMC has a special process for the above medicines, primarily related to the ability to request a PACE
+meeting should the NDC be minded to not recommend the medicine. Companies should therefore
+read the appropriate guidance on the SMC website. The definitions of orphan/orphan equivalent
+medicines are based on the full population of the licensed indication irrespective of whether or not the
+company wishes SMC to consider the product when positioned for use in a sub-population of the
+licensed indication. The definition of an end of life medicine may be based on a sub-population of the
+licensed indication where the manufacturer provides adequate justification. In addition to requesting a
+PACE meeting, the submitting company may also submit a new or revised PAS to improve the cost-
+effectiveness of their medicine at this stage.
+
+2.5 Submissions for medicines with GB conditional marketing authorisation
+SMC can now accept some medicines on a conditional basis subject to further evaluation. All
+medicines with GB conditional marketing authorisation are eligible for this decision option. SMC may
+issue interim accepted (or interim accepted with a restriction) advice if the committee considers that
+the additional efficacy and / or safety data requirements in the MHRA specific obligations are expected
+to address the key uncertainties in the evidence presented by the submitting company. The company
+will be required to provide a full updated submission to SMC when the conditional marketing
+authorisation is converted to a standard marketing authorisation, typically after 2-3 years. Further
+information can be found in the appropriate guidance on the SMC website.
+
+2.6 Ultra-Orphan medicines
+Following the 2016 Review of Access to New Medicines, the Scottish Government introduced a
+pathway to support patient access to medicines for extremely rare conditions – the Ultra-Orphan
+Pathway. This requires the company to submit their medicine for validation as an ultra-orphan
+medicine, using the proforma available on the SMC website, which details the criteria against which
+the medicine will be validated. Following validation, the company can request an Early Engagement
+meeting with SMC to discuss the challenges within their submission, the uncertainties that they
+foresee and their proposed submission timelines. The company is required to provide a full submission
+using the Ultra-orphan New Product Assessment Form (NPAF). The company must also provide a PAS
+(this is a condition of the pathway). The submission is reviewed by NDC and SMC and an Ultra-orphan
+Medicines Assessment Report (UMAR) is issued, but no decision on availability in NHSScotland is made.
+Instead, the company enters into a data collection agreement with Scottish Government, with the aim
+of exploring and addressing the key uncertainties in their submission. At the end of the data collection
+period (after approximately 3 years), the company submits for re-assessment, incorporating the new
+data in their submission. Full information on this pathway and the requirements for
+inclusion/submission can be found on the SMC website and in Scottish Government guidance.
+
+2.7 Resubmissions
+If ‘not recommended’ advice has been issued for a product, and the company wishes to consider a
+resubmission, they can request, via the Secretariat, a meeting with SMC, with the aim of better
+understanding why their product was not recommended, thus allowing an appropriate focus for the
+resubmission.
+
+
+                                                                                                       8
+A resubmission requires new clinical evidence or a new analysis of existing information about the
+medicine. In most cases the resubmission will follow the same process and timelines as all other
+submissions. Where possible SMC will ensure that the assessment team involves a pharmacist and an
+economist who were not involved in the previous submission, but the assessors can be briefed by the
+original assessor if required. If, however, the only change is a new or improved simple PAS, the
+company may resubmit using a fast-track process which allows the submission to proceed directly to
+SMC within a shorter assessment timeline.
+
+3.      The New Product Assessment Form (NPAF)
+The NPAF provides a template for the evidence to be provided within the company submission.
+Detailed guidance notes for the completion of the new product assessment form are available on the
+SMC website. These include a description of the type of information expected to be submitted within
+each section of the form; an indication, where appropriate, of the expected source of the information;
+and how the information should be presented.
+
+There is a separate NPAF for ultra-orphan medicines. The detailed guidance notes for the completion
+of the NPAF is a useful reference as is the supplement entitled ‘Submissions for medicines for
+extremely rare conditions (ultra-orphan medicines)’.
+
+The deadline dates for submitting NPAFs to SMC can be found in a timetable on the website.
+Incomplete submissions cannot be scheduled for assessment. Once an NPAF has been submitted to
+SMC no amendments can be made.
+
+Submissions should be concise, but also include all relevant data. The required information is stated
+for each section of the document and applicants should focus on these requirements and not include
+information that is not directly relevant to the indication under review. As far as possible,
+manufacturers should limit the electronic size of the document since it may have to be distributed
+across servers with varying limits to file size. For guidance, most submissions have a file size of around
+1 to 2 megabytes.
+
+The submission should be a stand-alone document. It should focus on information related to the
+indication for which approval is sought, rather than all available data for the medicine. Appendices may
+be used for information that exceeds the level of detail requested in the guidance but only when
+considered essential – they should not present core information. For example it is not acceptable to
+attach a key study as an appendix and to complete the efficacy section with 'see Appendix X.' In some
+cases it will be more appropriate to include data as a supporting document, referenced in the text,
+than as an appendix. SMC also requires completion of an Excel budget impact template for all full
+submissions. A blank template can be found on the SMC website.
+
+3.1 SMC Review Checklists
+The SMC/NDC use checklists as part of their review process, as these improve consistency and aid in
+supporting an efficient review process. Blank copies of the economics checklist and clinical checklist
+are made available to industry, via the SMC website. It should be noted, however, that this is provided
+to aid understanding of the SMC review process. It is not a ‘tick-list’ for submitting companies i.e.
+providing all the information on the checklist does not mean that no other information is required. The
+full NPAF Guidance must be followed.
+                                                                                                             9
+3.2 Key points on methods
+       •   It is the company’s responsibility to clearly demonstrate the case for the cost-effectiveness
+           of a medicine submitted to SMC. If the company does not submit economic evidence
+           according to the principles and standard outlined in the guidance the SMC will be unable to
+           accept the medicine for use in NHS Scotland
+       •   The perspective adopted on costs should be that of the NHS in Scotland and social work.
+       •   The evidence submitted must be assembled systematically and synthesised in a transparent
+           and reproducible way.
+       •   All data used to estimate clinical and cost effectiveness must be presented clearly in tabular
+           form and include details of data sources.
+       •   Clinical and cost-effectiveness needs to be considered over an appropriate time horizon
+           relevant to Scottish practice and patients and all relevant treatment options for the specific
+           patient groups should be compared.
+       •   In general, cost-utility analysis is the preferred form of economic evaluation, with health
+           effects expressed in terms of quality-adjusted life-years (QALYs).
+       •   The SMC considers modelling a relevant framework within which available evidence can be
+           synthesised and estimates of clinical and cost-effectiveness generated.
+       •   The annual discount rate recommended for both costs and benefits is 3.5%.
+       •   Uncertainty surrounding the estimates of cost-effectiveness needs to be included.
+
+Further guidance on methods is provided in the Guidance to Submitting Companies for Completion of
+the NPAF.
+
+For the assessment of ultra-orphan medicines, the ultra-orphan framework will be used, similar to that
+used by the National Institute of Health and Care Excellence (NICE) for highly specialised technologies
+(HST). The QALY will be requested but a wider perspective will be taken on the value of the medicine.
+
+3.3 Key points on references
+       •   All evidence included in the submission should be referenced throughout the NPAF and
+           references should be numbered in the order in which they first appear in the text. Each
+           reference should have only one number that is repeated if it is cited more than once.
+       •   At the end of the submission a list of all references should be provided in the Vancouver
+           style, numbered and ordered strictly in accordance with their numbering in the text.
+           Author/date styles of referencing should not be used. Submissions have been received
+           where listed references did not correspond to the citation in the text, including some with
+           mixed referencing styles. These are unacceptable. Referencing through the use of word
+           processing devices such as footnotes/endnotes is also not acceptable.
+       •   Electronic copies of all references cited in the submission should be sent to the secretariat
+           in a zipped file to be received no later than the monthly deadline for receipt of company
+           submissions. Should the file size exceed 20 MB, please condense into separate files and
+           send each file separately. Each reference should be provided as an individual electronic file
+           and should be in an electronic format that can be searched i.e. Word or Portable Document
+           Format (PDF). Scanned documents are not acceptable other than in exceptional cases where
+           it is impossible to provide a document in a searchable format.
+
+
+                                                                                                       10
+       •   Full versions of in-house clinical study reports and/or drafts for publication should be
+           provided where these have been used as data sources. These are required for assessors to
+           make factual checks and to gain a comprehensive understanding of relevant study
+           methodology, conduct and results. Synopses and selective extracts are not sufficient.
+       •   On request from the submitting company, SMC will treat data from these sources
+           (that are not otherwise in the public domain) as confidential and the information will not be
+           disclosed in any form to persons or organisations outwith the SMC committee and NDC,
+           SMC clinical and economic assessors and secretarial staff.
+       •   These data will be annotated (by underlining) to indicate that they are confidential in
+           paperwork provided to the SMC committee and NDC, and will be removed from the SMC
+           Detailed Advice Documents that are issued to the NHS and posted on the SMC website.
+       •   While SMC encourages full referencing of the evidence presented, please avoid the
+           inclusion of unnecessary references such as those that duplicate evidence provided by more
+           robust sources.
+
+Further guidance on referencing, including the use of abstracts and posters as sources of information,
+is provided in the Guidance to Submitting Companies for Completion of the NPAF.
+
+3.4 Confidentiality of Information
+SMC is committed to transparency in its decision-making, for this reason confidential information
+should be kept to a minimum and only data that are genuinely confidential, such as actual numbers
+should be marked by the company as ‘in confidence’. If the medicine is subject to a confidential Patient
+Access Scheme (PAS), SMC preference is to quote the with-PAS incremental cost effectiveness ratio
+(ICER) used for decision making at the SMC meeting and to publish this figure in the final DAD.
+
+Information provided in company submissions will only be available to members of SMC and NDC, SMC
+clinical and economic assessors and secretarial staff. Academic in confidence (AiC) information will
+also be available to members of the PACE group within the NDC preliminary advice.
+
+Information that is commercial in confidence (CiC) or academic in confidence (AiC) will be annotated by
+underlining and highlighting in the DAD made available to committee members and will be removed
+before making the DAD available to the public. During SMC meetings in public, confidential
+information will be redacted from PowerPoint slide presentations, AiC data may be verbalised unless
+the company notifies SMC that the data are not theirs and therefore, they cannot grant permission.
+Should CiC information need to be discussed, a closed ‘Part 2’ meeting will be held.
+
+Companies are required to state why the data are confidential and the timescale within which they will
+remain confidential should be detailed within the NPAF. SMC will respect confidentiality, but reserves
+the right to include data that are already in the public domain e.g. as a published abstract or
+conference poster. In such cases, SMC will not exceed the level of detail in the published source and
+the submitting company will have an opportunity to review the Detailed Advice Document (DAD) as
+part of the routine consultation process, as outlined below. It should be noted that SMC’s critique of
+the clinical and economic evidence as summarised in the DAD is owned by SMC and may not be
+marked as confidential (excluding information that is genuinely confidential as described above). SMC
+is committed to adhering to the guidelines agreed with ABPI that appear on the SMC website.
+
+
+                                                                                                     11
+4.     SMC decision making
+4.1 Where a higher cost per QALY may be accepted
+The SMC does not have a formal threshold cost per QALY below which cost-effectiveness would be
+considered demonstrated. Nor does SMC have a fixed upper limit on willingness- to-pay for a QALY.
+The cost per QALY is only part of a wider judgement of the value of a new medicine. Where the cost
+per QALY is relatively high, other factors also play a role in SMC’s assessment and may modify the final
+decision (see below).
+
+4.2 Modifiers
+In assessing the relative clinical and cost effectiveness of new medicines, the SMC requires a robust
+clinical and economic case to be made and for the medicine to demonstrate value for money. In some
+specific situations SMC may exercise greater flexibility in its decision making to allow consideration of
+additional factors. These additional factors, known as modifiers, may allow SMC to accept either more
+uncertainty in the health economic case (or a higher cost per QALY).
+
+Further information on SMC modifier’s policy can be found in the website.
+
+4.3 PACE Meetings
+When a PACE meeting has been convened, the output from this meeting, which includes a wider
+perspective from clinician and patient groups who are experts in this disease area, will be considered
+by the SMC when making its recommendation. The output from the PACE meeting will be an important
+factor in the SMC decision.
+
+4.4 Patient Access Schemes
+Patient access schemes (PAS) are schemes proposed by pharmaceutical companies to improve the
+cost-effectiveness of medicines, thereby facilitating patient access. Patient access schemes will be
+considered by NHS Scotland to facilitate access by patients to medicines that are not, or might not be,
+in the first instance found to be cost-effective by SMC
+
+PAS schemes are examined by a body separate from SMC. The Patient Access Scheme Assessment
+Group (PASAG) has been established to undertake an objective and independent assessment of PAS
+submitted by companies on a national basis.
+
+Manufacturers should submit any PAS at the same time as they are making their submission to SMC.
+Both submissions must be made via the SMC secretariat. PASAG then reviews and makes a
+recommendation on the proposed PAS to SMC for consideration alongside the manufacturer’s SMC
+submission. For medicines to treat end-of-life or orphan conditions, if the NDC advice is ‘not
+recommended’, the company has the option to submit a PAS at that point, or to modify the current
+PAS.
+
+The submission of a PAS is a condition for entry into the ultra-orphan pathway.
+
+Full guidance covering submission of a patient access scheme and the SMC approach where a
+comparator medicine has been accepted for use on the basis of a confidential PAS is available on the
+SMC website.
+
+                                                                                                       12
+4.5 Company attendance at virtual SMC Meetings
+Companies have participated in SMC meetings since November 2014. The purpose of their attendance
+is to allow them to address any questions that SMC members have and provide clarification on any
+outstanding issues which they believe SMC should be aware of prior to reaching its decision on advice
+to NHSScotland. It is expected that two participants from the submitting company will attend: ideally
+the participants will have been involved in the development of the submission and therefore have the
+ability to respond on cost and clinical-effectiveness issues. Further information regarding company
+participation can be found in the Toolkit for Engaging with SMC Appraisals. It is recommended that
+company participants attend at least one previous meeting as a member of the public, to observe the
+process.
+
+5.     Freedom of Information
+SMC is part of the Evidence Directorate in Healthcare Improvement Scotland (HIS), a public authority
+covered by the Freedom of Information (Scotland) Act 2002. Information on how to make a freedom of
+information request, and on your information rights, can be found on the HIS website.
+
+April 2017 (updated March 2023)
+
+
+
+
+                                                                                                   13
+

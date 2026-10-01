@@ -1,0 +1,743 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
+
+   
+        <title>Search</title>
+    <meta name="description" />
+
+            <link rel="canonical" href="/search/?keywords=lispro" />
+
+
+<link href="/css/jquery-ui.css?cdv=971313061" type="text/css" rel="stylesheet"/><link href="/css/styles.min.css?cdv=971313061" type="text/css" rel="stylesheet"/>
+
+    <!--[if lt IE 9]>
+      <link href="/css/ie8.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script>
+        document.createElement('header');
+        document.createElement('footer');
+        document.createElement('section');
+        document.createElement('aside');
+        document.createElement('nav');
+        document.createElement('article');
+        document.createElement('time');
+        // Picture element HTML shim|v it for old IE (pairs with Picturefill.js)
+        document.createElement( "picture" );
+    </script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+    <![endif]-->
+
+<script src="/scripts/jquery-3.7.1.min.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/jquery-ui-1.13.2.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/jquery.validate.min.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/jquery.validate.unobtrusive.min.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/picturefill.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/menu-tabbing.js?cdv=971313061" type="text/javascript"></script><script src="/scripts/scripts.js?cdv=971313061" type="text/javascript"></script>
+
+    <!-- Remove if not needed for image cropping -->
+    
+
+    <!-- Facebook -->
+    <meta property="fb:app_id" content='' />
+    <meta property="og:title" content='Search' />
+    <meta property="og:description" content='' />
+    <meta property="og:url" content='https://scottishmedicines.org.uk/search/?keywords=lispro' />
+    <meta property="og:image" content='' />
+    <meta property="og:site_name" content='Scottish Medicines Consortium' />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content='summary_large_image' />
+    <meta name="twitter:site" content='' />
+    <meta name="twitter:title" content='Search' />
+    <meta name="twitter:description" content='' />
+    <meta name="twitter:creator" content='' />
+    <meta name="twitter:image:src" content='' />
+    <meta name="twitter:domain" content='https://scottishmedicines.org.uk/search/?keywords=lispro' />
+
+    <!-- Google -->
+    <meta itemprop="name" content='Search' />
+    <meta itemprop="description" content='' />
+    <meta itemprop="image" content='' />
+  
+    <link rel="icon" type="image/x-icon" href="/images/favicons/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57"   href="/images/favicons/apple-touch-icon-57x57.png"   />
+<link rel="apple-touch-icon-precomposed" sizes="60x60"   href="/images/favicons/apple-touch-icon-60x60.png"   />
+<link rel="apple-touch-icon-precomposed" sizes="72x72"   href="/images/favicons/apple-touch-icon-72x72.png"   />
+<link rel="apple-touch-icon-precomposed" sizes="76x76"   href="/images/favicons/apple-touch-icon-76x76.png"   />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png"  />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png"   sizes="16x16"   />
+<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png"   sizes="32x32"   />
+<link rel="icon" type="image/png" href="/images/favicons/favicon-96x96.png"   sizes="96x96"   />
+<link rel="icon" type="image/png" href="/images/favicons/favicon-128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="/images/favicons/favicon-196x196.png" sizes="196x196" />
+<meta name="msapplication-TileColor"         content="#FFFFFF" />
+<meta name="msapplication-square70x70logo"   content="/images/favicons/mstile-70x70.png"   />
+<meta name="msapplication-TileImage"         content="/images/favicons/mstile-144x144.png" />
+<meta name="msapplication-square150x150logo" content="/images/favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo"   content="/images/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/images/favicons/mstile-310x310.png" />
+
+<meta name="google-site-verification" content="j5Zhdi9Zgs7QDkTnHmHy4jsMzyVFt0M1ZzJeaZGg2T8" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBFTZMP');</script>
+<!-- End Google Tag Manager -->
+    
+
+
+</head>
+<body class="smc"
+>
+    <div class="wrapper">
+        
+
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBFTZMP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- SmartSurvey -->
+<!-- <script id="ss-popup-1804257">var _ssq={'cid':1804257};window.onload=function(){var ss=document.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==document.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/popup/'+_ssq.cid+'/js/';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ss,s);};</script> -->
+        
+        <header class="header">
+            <div class="shorcut-holder">
+                <a href="#main-menu" class="skiptonav hide">skip to navigation</a>
+                <a href="#main-content" class="skiptocontent hide">skip to content</a>
+            </div>
+            <div class="header__container">
+
+                        <span class="logo--main">
+            <span itemscope itemtype="http://schema.org/Organization" class="schema">
+                <a class="logoholder" itemprop="url" href="/">
+                    
+
+        <picture>
+            <!--[if IE 9]><video style="display:none;"><![endif]-->
+            <source srcset="/media/3203/smc_logo-1.png" media="(min-width:1230px)" type="image/png">
+            <source srcset="/media/3203/smc_logo-1.png" media="(min-width:769px)" type="image/png">
+            <source srcset="/media/3203/smc_logo-1.png" media="(min-width:480px)" type="image/png">
+	        <!--[if IE 9]></video><![endif]-->
+	        <img src="/media/3203/smc_logo-1.png" alt="" itemprop='logo' class='logo'>
+        </picture>
+
+                </a>
+            </span>
+        </span>
+
+                        <span id="header-search" class="header-search">
+
+            <form class="header-search__box" action="/search/" method="get">
+                <input type="text" id="keywords-header" name="keywords" title="search keywords" maxlength="524287"/>
+                
+                <button type="submit" class="header-search__button--active button--primary" title="Search">Search</button>
+                
+                <div class="header-search__button--close" title="close search">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+                        <circle fill="#FFFFFF" cx="20" cy="20.3" r="19.1" />
+                        <g>
+                            <path fill="#6C3882" d="M20,3c9.4,0,17,7.6,17,17s-7.6,17-17,17S3,29.4,3,20S10.6,3,20,3 M20,0C9,0,0,9,0,20s9,20,20,20s20-9,20-20	S31,0,20,0L20,0z" />
+                        </g>
+                        <polygon fill="#6C3882" points="29.2,12.9 27.1,10.8 20,17.9 12.9,10.8 10.8,12.9 17.9,20 10.8,27.1 12.9,29.2 20,22.1 27.1,29.2 29.2,27.1 22.1,20 " />
+                    </svg>
+                </div>
+            </form>
+
+            <span class="header-search__button">
+                <img class="header-search__icon" src="/images/search-icon.png" alt="search" />
+            </span>
+
+        </span>
+
+
+
+                <div class="toggleMenuHolder">
+                    <div class="toggleMenu">
+                        <span></span>
+                    </div>
+                </div>
+
+                <div class="main-menu__wrapper" id="main-menu-wrapper">
+                        <nav class="main-menu" id="main-menu">
+        <div id="mobile-search"></div>
+
+        <ul class="main-menu__list">
+                        <li class="parent main-menu__item">
+                            <a class="main-menu__link" href="/about-us/">
+                                About us
+                            </a>
+
+                                <div class="more">
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+                                        <g>
+                                            <path class="st0" d="M15.6,28l7.8-7.9l-7.8-7.9l2.1-2.1l9.9,10l-9.9,10L15.6,28z" />
+                                        </g>
+                                    </svg>
+                                </div>
+                                <ul class="dropdown">
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/who-we-are/">
+                                                    Who we are
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/horizon-scanning/">
+                                                    Horizon scanning
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/public-involvement/">
+                                                    Public involvement
+                                                </a>
+                                                    <div class="more">
+                                                        <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+                                                            <g>
+                                                                <path class="st0" d="M15.6,28l7.8-7.9l-7.8-7.9l2.1-2.1l9.9,10l-9.9,10L15.6,28z" />
+                                                            </g>
+                                                        </svg>
+                                                    </div>
+                                                    <ul class="dropdown level-3">
+                                                                <li class="main-menu__item">
+                                                                    <a href="/about-us/public-involvement/public-involvement-network-advisory-group/">
+                                                                        Public Involvement Network Advisory Group
+                                                                    </a>
+                                                                </li>
+                                                                <li class="main-menu__item">
+                                                                    <a href="/about-us/public-involvement/patient-group-partners/">
+                                                                        Patient group partners
+                                                                    </a>
+                                                                </li>
+                                                                <li class="main-menu__item">
+                                                                    <a href="/about-us/public-involvement/public-partners/">
+                                                                        Public partners
+                                                                    </a>
+                                                                </li>
+                                                    </ul>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/policies-publications/">
+                                                    Policies &amp; publications
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/minutes/">
+                                                    Minutes
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/meetings/">
+                                                    Meetings
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/register-for-a-meeting/">
+                                                    Register for a meeting
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/innovative-licensing-and-access-pathway/">
+                                                    ILAP
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/latest-update/">
+                                                    Latest update
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/about-us/contact-us/">
+                                                    Contact us
+                                                </a>
+                                            </li>
+                                </ul>
+                        </li>
+                        <li class=" main-menu__item">
+                            <a class="main-menu__link" href="/medicines-advice/">
+                                Medicines advice
+                            </a>
+
+                        </li>
+                        <li class="parent main-menu__item">
+                            <a class="main-menu__link" href="/how-we-decide/">
+                                How we decide
+                            </a>
+
+                                <div class="more">
+                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+                                        <g>
+                                            <path class="st0" d="M15.6,28l7.8-7.9l-7.8-7.9l2.1-2.1l9.9,10l-9.9,10L15.6,28z" />
+                                        </g>
+                                    </svg>
+                                </div>
+                                <ul class="dropdown">
+                                            <li class="main-menu__item">
+                                                <a href="/how-we-decide/pace/">
+                                                    PACE
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/how-we-decide/interim-acceptance-decision-option/">
+                                                    Interim acceptance decision option
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/how-we-decide/ultra-orphan-medicines-for-extremely-rare-conditions/">
+                                                    Ultra-orphan medicines for extremely rare conditions
+                                                </a>
+                                            </li>
+                                            <li class="main-menu__item">
+                                                <a href="/how-we-decide/abbreviated-submissions/">
+                                                    Abbreviated submissions
+                                                </a>
+                                            </li>
+                                </ul>
+                        </li>
+                        <li class=" main-menu__item">
+                            <a class="main-menu__link" href="/making-a-submission/">
+                                Making a submission
+                            </a>
+
+                        </li>
+        </ul>
+    </nav>
+
+                </div>
+
+                
+
+
+
+
+
+
+            </div>
+        </header>
+
+        
+
+
+
+
+        <div class="banner">  
+            <div class="banner__image">
+                
+
+        <picture>
+            <!--[if IE 9]><video style="display:none;"><![endif]-->
+            <source srcset="/media/1073/sub-banner-pills.png?crop=0,0,0,0&amp;cropmode=percentage&amp;width=1920&amp;height=250&amp;rnd=133630841430000000" media="(min-width:1230px)" type="image/png">
+            <source srcset="/media/1073/sub-banner-pills.png?crop=0,0,0,0&amp;cropmode=percentage&amp;width=1200&amp;height=156&amp;rnd=133630841430000000" media="(min-width:769px)" type="image/png">
+            <source srcset="/media/1073/sub-banner-pills.png?anchor=center&amp;mode=crop&amp;width=768&amp;height=220&amp;rnd=133630841430000000" media="(min-width:480px)" type="image/png">
+	        <!--[if IE 9]></video><![endif]-->
+	        <img src="/media/1073/sub-banner-pills.png?anchor=center&amp;mode=crop&amp;width=480&amp;height=138&amp;rnd=133630841430000000" alt="Pills image" >
+        </picture>
+
+            </div>
+          
+            <div class="banner__content">
+                    <h1 class="banner__heading">Search results</h1>
+                            </div>            
+        </div>
+
+
+
+
+<section class="standard-list search-list"> 
+    <div class="container">
+        
+        <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumbs-holder">
+            <div class="container">
+                <ul class="breadcrumbs">
+                                <li>
+                                    <a href="/" class="breadcrumbs__link" itemprop="url">
+                                        <span itemprop="title">Home</span>
+                                    </a>
+                                </li>
+                                <li>/</li>
+                                <li>
+                                    <div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                        <a href="/search/" class="breadcrumbs__link--active" itemprop="url">
+                                            <span itemprop="title">Search</span>
+                                        </a>
+                                    </div>
+                                </li>
+
+                </ul>
+            </div>
+        </div>
+
+
+
+        <form action="." enctype="multipart/form-data" method="get">
+            <div class="grid__col--8">
+                <div class="search-results__wrapper">
+                        <p class="results-count">Your search  for &quot;lispro&quot;  produced <span>3</span> results</p>
+
+                            <div class="search-results">
+            <article class="search-results__item">
+                <a class="search-results__link" href="/medicines-advice/insulin-lispro-humalog-kwikpen-abbreviatedsubmission-50808/" title="insulin lispro (Humalog KwikPen)">                   
+                    <div class="search-results__content">
+                        <h3>
+                            insulin lispro (Humalog KwikPen)
+                        </h3>                        
+                        <p>for adults and children with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.</p> 
+                    </div>
+                </a>
+            </article>
+            <article class="search-results__item">
+                <a class="search-results__link" href="/medicines-advice/insulin-lispro-humalog-mix25-mix50-kwikpen-abbreviatedsubmission-50908/" title="insulin lispro (Humalog Mix25, Mix50 KwikPen)">                   
+                    <div class="search-results__content">
+                        <h3>
+                            insulin lispro (Humalog Mix25, Mix50 KwikPen)
+                        </h3>                        
+                        <p>for patients with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.</p> 
+                    </div>
+                </a>
+            </article>
+            <article class="search-results__item">
+                <a class="search-results__link" href="/medicines-advice/biphasic-insulin-aspart-30-novomix-30-resubmission-0602/" title="Biphasic insulin aspart 30 (NovoMix 30)">                   
+                    <div class="search-results__content">
+                        <h3>
+                            Biphasic insulin aspart 30 (NovoMix 30&#174;)
+                        </h3>                        
+                        <p>Diabetes mellitus</p> 
+                    </div>
+                </a>
+            </article>
+            <div class="clearboth"></div>
+        </div>
+
+                    
+                </div>
+            </div>
+            <div class="grid__col--4">
+                        <div class="list-filters">
+            <div class="list-filters__holder">
+                <fieldset id="list-filters" class="list-filters__fieldset">
+                    <legend>
+                        Search Filters
+                    </legend>
+
+                        <div class="list-filters__keyword">
+                            <label for="keywords">
+                                Search again 
+                            </label>
+                            <input id="keywords" type="text" name="keywords" value="lispro" placeholder="Keyword" />
+                        </div>
+
+                    <div class="list-filters__filters-wrapper">
+
+                            <div class="list-filters__list">
+                                <div class="list-filters__date-item">
+                                    <label for="from">
+                                        From
+                                    </label>
+                                    <div class="list-filters__date-wrapper">
+                                        <input class="datepicker" id="from" type="text" name="from" value="" />
+                                    </div>
+                                </div>
+
+                                <div class="list-filters__date-item">
+                                    <label for="to">
+                                        To
+                                    </label>
+                                    <div class="list-filters__date-wrapper">
+                                        <input class="datepicker" id="to" type="text" name="to" value="" />
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="list-filters__submit">
+                        <input type="submit" value="Search" class="button--filter-search" />
+                    </div>
+                </fieldset>            
+            </div>
+        </div>
+
+                
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div >
+        
+        <div class='container-fluid'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div >
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+            </div>
+        </form>
+    </div>
+</section>
+
+        <footer class="footer">
+            <div class="container">
+                       <div class="footer-menu">
+            <ul class="footer-menu__list">
+                    <li class="footer-menu__item">
+                        <a href="/about-us/contact-us/" >Contact us</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a href="/about-us/register-for-a-meeting/" >Register for a meeting</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a href="/accessibility/" >Accessibility</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a href="/terms-and-conditions/" >Terms and conditions</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a href="/respecting-your-privacy/" >Respecting your privacy</a>
+                    </li>
+                    <li class="footer-menu__item">
+                        <a href="/freedom-of-information/" >Freedom of information</a>
+                    </li>
+            </ul>
+      </div>
+
+                <div class='footer-text'><p>© Scottish Medicines Consortium</p></div>
+                
+        <div class="footer-logos">                   
+            <ul class="footer-logos__list">
+                        <li class="footer-logos__item">
+                           <a href="http://www.scot.nhs.uk/" title="opens new window" target=_blank>
+
+                        
+
+        <picture>
+            <!--[if IE 9]><video style="display:none;"><![endif]-->
+            <source srcset="/media/1067/nhs-logo.png" media="(min-width:1230px)" type="image/png">
+            <source srcset="/media/1067/nhs-logo.png" media="(min-width:769px)" type="image/png">
+            <source srcset="/media/1067/nhs-logo.png" media="(min-width:480px)" type="image/png">
+	        <!--[if IE 9]></video><![endif]-->
+	        <img src="/media/1067/nhs-logo.png" alt="NHS Scotland Logo" >
+        </picture>
+
+
+                        </a>
+                    </li>
+            </ul>
+        </div>
+
+
+
+            </div>
+        </footer>
+        ﻿<style type="text/css">
+           #ccc #ccc-title {
+              font-weight: 400;
+           }
+           #ccc h2, #ccc #ccc-title {
+                font-size: 1.8em;
+                margin-bottom: 20px;
+            }
+
+           #ccc h2 {
+               margin-top: 20px;
+               font-weight: 400;
+               font-size: 1.2em !important;
+           }
+           #ccc h3 {
+               font-weight: 400;
+               font-size: 1.2em !important;
+           }
+
+             #ccc hr{
+                 height: 1px;
+                 opacity: 0.4;
+             }
+
+             #ccc p {
+                 line-height: 1.6em;
+             }
+
+             #ccc .optional-cookie:last-child hr {
+               display: none;
+             }
+
+            #ccc #ccc-reject-settings{
+              display:none;
+            }
+
+            #ccc  .ccc-notify-button.ccc-accept-button{
+                 width: 100%;
+            }
+
+          	#ccc #ccc-recommended-settings,
+            #ccc #ccc-dismiss-button
+           {
+
+               border: 2px solid #6C3882 !important;
+               border-radius: 50px;
+               outline: none;
+            }
+
+    	     #ccc #ccc-recommended-settings,
+             #ccc #ccc-recommended-settings:focus
+             {
+               color: #6C3882;
+               background-color: transparent;
+               font-weight: 700;
+             }
+
+            #ccc #ccc-recommended-settings:hover,
+            #ccc #ccc-dismiss-button:hover,
+            #ccc #ccc-recommended-settings:hover span,
+            #ccc #ccc-dismiss-button:hover span,
+            #ccc #ccc-dismiss-button:focus
+
+            {
+                  color: #fff !important;
+                  background-color: #6C3882 !important;
+            }           
+
+            #ccc-statement a .ccc-svg-element svg {
+                visibility: hidden;
+            }
+            #ccc a {
+                 text-decoration: underline;
+             }
+             #ccc-icon, #ccc-icon svg{
+			     outline: none;
+			 }
+            @media only screen and (min-width: 480px) {
+                    #ccc #cc-panel {
+                        left: 50px;
+                        right: 50px;
+                    }
+            }
+</style>   
+<script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
+<script>
+       var isGoogleAnalyticsKey = 0;       
+       var config = {
+        apiKey: 'a1b4b1e559466a3ce822c90ee3f1f0a90cc32410',
+        product: 'PRO_MULTISITE',
+        setInnerHTML: true,
+        text: {
+            title: 'This site uses cookies',
+            intro: 'Some of these cookies are necessary to allow the site to function properly, while others help us to improve your experience by providing insights into how the site is being used.',
+            necessaryTitle: 'Necessary cookies',
+            necessaryDescription: 'These cookies are required for the website to function properly and deliver the content you have requested. They can only be disabled by changing your browser preferences.',
+            notifyTitle: "",
+            notifyDescription: "This website uses cookies to ensure you get the best experience on our website.",
+            accept: "Accept all cookies",
+            settings: "Customise cookie settings",
+            acceptRecommended: "Accept recommended settings",
+            acceptSettings: "Accept recommended settings",
+            closeLabel: "Close"
+
+        },      
+        necessaryCookies: ['UMB-XSRF-TOKEN','UMB-XSRF-V','UMB_UCONTEXT','UMB_UCONTEXT_C','XSRF-TOKEN', 'XSRF-V', 'UMB_UCONTEXT', 'UMB_UPDCHK', '__RequestVerificationToken', 'ASP.NET_SessionId','tabs-*','__cflb','ss_ssPopup','__cf_bm','cookiefirst-consent'],
+        optionalCookies: [
+             {
+                name: 'non-essential',
+                label: 'Non-essential cookies',
+                description: 'Non-essential cookies allow us to gather insights into how our website is being used and allow us to deliver content and functionality from our video and social media sites.<br/><br/>For more detailed information on the cookies we use, please check our <a href="/respecting-your-privacy/">cookie information page</a>.',
+                cookies: ['_ga_PEYC9R313P', '_ga_S1SG57Q9E9','_ga', '_gat_', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv', 'DSID', 'IDE', '_fbp', '__Secure-3PSIDCC', '__Secure-3PAPISID', '__Secure-1PAPISID', '__Secure-1PSIDCC', 'SSID', 'HSID', 'APISID', '__Secure-3PSID', 'SAPISID', '__Secure-1PSID', 'SID', 'SIDCC', 'LOGIN_INFO', '__Secure-YEC', 'CLID', '_clck', '_clsk', 'YSC', 'VISITOR_INFO1_LIVE', 'PREF','CONSENT', 'MUID','SRM_B','SM','ANONCHK'],
+                    onAccept: function () {  
+					
+                      if (isGoogleAnalyticsKey && typeof ga === "function") {                     
+                       window['ga-disable-'] = false;                     
+                      }					
+                        window.dataLayer = window.dataLayer || [];
+                        dataLayer.push({
+                            'event': 'non-essential_consent_given'
+                        });
+
+                        if (typeof fbq === "function") {
+                            fbq('consent', 'grant');
+                        }
+                    },
+                onRevoke: function () {
+                    if (isGoogleAnalyticsKey && typeof ga === "function") {
+                      // Disable Google Analytics
+                       window['ga-disable-'] = true;
+                      // End Google Analytics
+                    }
+                    window.dataLayer = window.dataLayer || [];
+                    dataLayer.push({
+                        'event': 'non-essential_consent_removed'
+                    });
+
+                   if (typeof fbq === "function") {
+                        // safe to use the function
+                        fbq('consent', 'revoke');
+                   }
+                 },
+                 recommendedState: true,
+              }
+        ],
+
+        position: 'RIGHT',
+        theme: 'DARK',
+        layout: "slideout",
+        toggleType: 'checkbox',
+        closeStyle: 'button',
+        initialState: 'open',
+            branding: {
+            fontFamily: "roboto, Helvetica, Arial, sans-serif",
+            fontColor: "#333e48",
+            fontSizeTitle: "1.6em",
+            fontSizeIntro: "1em",
+            fontSizeHeaders: "1em",
+            fontSize: "0.9em",
+            backgroundColor: "#fff",           
+            acceptText: "#6C3882",
+            acceptBackground: "transparent",
+            rejectText: "#6C3882",
+            rejectBackground: "transparent",
+            toggleText: "#fff",
+            toggleColor: "#6C3882",
+            toggleBackground:"#6C3882",
+            alertBackground: "#6C3882",
+            buttonIcon: null,
+            buttonIconWidth: "64px",
+            buttonIconHeight: "64px",
+            removeIcon: false,
+            removeAbout: true,
+            rejectButton: false
+        }
+    };
+
+    CookieControl.load( config );
+ </script>
+
+
+        
+        
+    <script>
+       $(function () {
+            $(".datepicker").datepicker({
+                changeMonth: true,
+                changeYear: true,
+                dateFormat: 'dd/mm/yy'
+            });  
+
+     });
+    </script>
+
+    </div>
+</body>
+</html>
