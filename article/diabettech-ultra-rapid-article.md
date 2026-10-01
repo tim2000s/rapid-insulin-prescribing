@@ -184,6 +184,26 @@ trial found glucose drifting upwards over each infusion set's life. The loss of 
 in England and in Australia, made the most widely used presentation unavailable at the point where
 uptake had been growing fastest.
 
+### Withdrawals across Europe
+
+The question I started with was whether low uptake has made these insulins easier to withdraw. In
+Europe, presentations are going. Neither product has lost its EU licence, but the Fiasp PumpCart, a
+pump cartridge we never had in the UK, is being withdrawn across the whole EU by the end of 2026. The
+Lyumjev Tempo Pen was deleted from the EU licence in July 2026. In March 2026 Lilly announced that
+it would stop selling selected presentations of several insulins in selected countries before 2027,
+Lyumjev among them. Since then Lyumjev cartridges have gone in France and Belgium, two of its pens in
+Norway, and the vial, cartridges and standard pen in Switzerland.
+
+No manufacturer says this is about low uptake. The reasons given are "commercial reasons" and
+rationalising the range to protect supply of "the insulins most commonly used by patients". The
+German endocrine society called the PumpCart "very little used", and the Norwegian medicines agency
+said most of Novo Nordisk's discontinued products "have low sales and are not very profitable",
+although that list was mostly older insulins. Lilly is cutting Humalog, Humulin and Abasaglar
+presentations too, so this looks like both companies shrinking their insulin ranges rather than
+retreating from the faster products. Within a shrinking range, though, the presentation fewer people
+use is the easier one to cut, and that is how slow uptake can cost access without ever being named
+as the reason.
+
 ## What I take from this
 
 None of the reasons above rests on evidence that the older insulins are better. Each one is a default
