@@ -6,8 +6,7 @@ statements, not advice about which insulin anyone should use. The method, every 
 ---
 
 As MiniMed, Insulet, Tandem and CamDiab work to bring fully closed loop, a system that needs no meal boluses at all, into wider use, the system that decides which
-insulins people are offered has conspired to take away a key part of that equation: the fastest
-insulin available. This is a story of inertia, ineptitude and indifference.
+insulins people are offered has conspired to take away a key part of that equation: the fastest subcutaneous insulin available. This is a story of inertia, ineptitude and indifference.
 
 In March 2026 a pump user in Switzerland went to order more Lyumjev and was told it could not be
 ordered. "There's no press release, pharmacy just says they can't order it anymore due to being
@@ -24,8 +23,7 @@ decides which insulins people are offered did not offer it, including in the yea
 NHS nothing extra to do so. People with diabetes are now losing an insulin on the grounds of low
 demand that prescribers, formulary committees and guideline writers created.
 
-I should say where I stand. I have used the fastest mealtime insulin available since each one reached
-the UK, some of the time on private prescription, because I read the pharmacology and the trials and
+I should say where I stand. I have used the fastest subcutaneous mealtime insulin available since each one reached the UK, some of the time on private prescription, because I read the pharmacology and the trials and
 decided that an insulin which starts working sooner was worth having.
 
 ## What is being lost
@@ -300,8 +298,7 @@ As one person put it in September 2026: "every minute counts with a system worki
 
 What is happening in Europe runs the other way. Pump presentations are among the losses: the Fiasp
 PumpCart across the EU, Lyumjev vials and cartridges in some countries. Pump users can still fill
-reservoirs from Fiasp vials, as the German Diabetes Society has pointed out. But the fastest insulin
-available is going country by country, with low use given as the reason in Norway and Switzerland, as
+reservoirs from Fiasp vials, as the German Diabetes Society has pointed out. But the fastest subcutaneous insulin available is going country by country, with low use given as the reason in Norway and Switzerland, as
 fully closed loop is starting to need it.
 
 The UK still has every Lyumjev presentation except the Tempo Pen. Whether it keeps them will depend on
