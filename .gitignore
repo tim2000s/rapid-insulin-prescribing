@@ -11,3 +11,5 @@ international/scoping/us/cms_catalog.json
 international/scoping/us/partd_quarterly_2026Q1.csv
 international/scoping/france/medicam/*.zip
 withdrawals_eu/captures/
+withdrawals_eu/concerns/*
+!withdrawals_eu/concerns/lyumjev_statements.csv
