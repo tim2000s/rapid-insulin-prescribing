@@ -1,0 +1,39 @@
+nation,area,lyumjev_class,basis_in_entry
+England,Leicester Leicestershire and Rutland,open,Green (June 2022)
+England,North East and North Cumbria,open,Green
+England,Greater Manchester,specialist_or_criteria,Green after specialist advice; 2 h glucose >10 mmol/L
+England,Lancashire and South Cumbria,specialist_or_criteria,Green (restricted); clinical criteria
+England,Hampshire and Isle of Wight,specialist_or_criteria,Amber initiation
+England,Devon,specialist_or_criteria,Specialist recommendation
+England,"Bath and North East Somerset, Swindon and Wiltshire",specialist_or_criteria,Amber; GP initiation after specialist recommendation
+England,Kent and Medway,behind_another_insulin,Second line to Humalog
+England,Cheshire and Merseyside,behind_another_insulin,If HbA1c target not achieved on other short-acting insulins
+England,Humber and North Yorkshire,behind_another_insulin,Second-line agent after rapid-acting analogues
+England,Nottingham and Nottinghamshire,behind_another_insulin,For inadequate post-prandial glucose on NovoRapid/Humalog
+England,Herefordshire and Worcestershire,behind_another_insulin,Only after first-line aspart or lispro tried and failed
+England,South East London,behind_another_insulin,Second line (Recommendation 151)
+England,Norfolk and Suffolk (Norfolk and Waveney part),behind_another_insulin,Not recommended routinely; after failure; specialist only
+England,South West London,not_listed,Not listed
+England,Birmingham and Solihull,not_listed,Not listed
+England,West and North London,not_listed,NCL not listed; NWL second line
+Scotland,Highland,open,Listed without restriction
+Scotland,Western Isles,open,Uses Highland Formulary
+Scotland,Lothian,behind_another_insulin,Third choice; specialist initiation (East Region Formulary)
+Scotland,Fife,behind_another_insulin,Third choice; specialist initiation (East Region Formulary)
+Scotland,Borders,behind_another_insulin,Third choice; specialist initiation (East Region Formulary)
+Scotland,Greater Glasgow and Clyde,not_listed,Not named (pre-July 2026 GGC formulary)
+Scotland,Ayrshire and Arran,not_listed,Not listed
+Scotland,Forth Valley,not_listed,Not named (pre-July 2026 formulary)
+Scotland,Dumfries and Galloway,not_listed,Not listed
+Scotland,Tayside,not_listed,Not listed
+Scotland,Grampian,not_listed,Not listed
+Scotland,Orkney,not_listed,Uses Grampian Formulary; not listed
+Scotland,Shetland,not_listed,Uses Grampian Formulary; not listed
+Wales,Aneurin Bevan,open,Green in the Humalog entry
+Wales,Cwm Taf Morgannwg,specialist_or_criteria,S 1st - Specialist initiated 1st Line
+Wales,Hywel Dda,specialist_or_criteria,Specialist initiated in selected patients
+Wales,Swansea Bay,specialist_or_criteria,For specialist initiation/recommendation
+Wales,Betsi Cadwaladr,behind_another_insulin,Second-line where patients have failed to achieve adequate control
+Wales,Powys,behind_another_insulin,Second line; 2 h glucose >10 mmol/L despite optimised conventional analogue
+Wales,Cardiff and Vale,not_listed,Not listed
+Northern Ireland,Northern Ireland Formulary,not_listed,Not listed
