@@ -14,7 +14,7 @@ it is fair to say so at the start.
 The question is a simple one. Fiasp, faster insulin aspart, arrived in England in February 2017.
 Lyumjev, ultra rapid lispro, followed in October 2020. Nine years after the first of them, how much of
 the rapid-acting insulin that people with diabetes are dispensed is one of these, and how much is
-still NovoRapid, Humalog and their relatives? And if the answer is "not much", why?
+still NovoRapid, Humalog and their relatives? And what explains the answer?
 
 ## What a faster insulin is for
 
@@ -86,7 +86,7 @@ twice the rate of GPs: 35.6% of what they prescribe against 17.6% in primary car
 small, about 2% of the total, so it does not change the national figure, but it says something about
 where these insulins get started.
 
-## Where you live matters more than anything else
+## The spread between areas
 
 The national figure hides a ninefold spread between English integrated care boards, from 3.2% in
 Birmingham and Solihull to 30.0% in Leicester, Leicestershire and Rutland.
@@ -114,15 +114,14 @@ So England is not unusual by international standards. The surprise is inside the
 
 ## Why
 
-### The trials were designed to show they were no worse
+### What the trials were designed to show
 
 Every head-to-head trial of Fiasp or Lyumjev against its parent insulin used HbA1c as its main
 outcome and tested whether the new insulin was no worse, within 0.4 percentage points. They all
 passed. Pooled across nine trials, the difference in HbA1c was 0.02 percentage points, which is to
 say nothing. The one-hour post-meal benefit was there, but as a secondary result.
 
-That is a reasonable way to get a new insulin licensed. It is a poor way to persuade anyone to
-prescribe it. HbA1c is what guidance, audits and incentive schemes look at, and an insulin whose
+That design is enough to get a new insulin licensed, and it gives prescribers little reason to use it. HbA1c is what guidance, audits and incentive schemes look at, and an insulin whose
 headline result is "no different on HbA1c" gives a busy clinician no reason to switch someone whose
 HbA1c is fine. NICE's guidance for adults with type 1 diabetes recommends rapid-acting analogues as a
 class, names no product, and has not looked at that recommendation since 2015.
@@ -132,7 +131,7 @@ insulin added about one percentage point of time in range. It is worth noting, t
 fully closed-loop systems tested in UK trials without meal boluses were run on an ultra-rapid
 insulin. The people building systems that do away with pre-bolusing chose the faster insulins.
 
-### Formularies decide the default
+### Formularies
 
 Each area has a formulary that sets which insulins are first choice. I read them for 17 English ICBs
 and for every Scottish and Welsh board, and sorted them into three groups: open, needing a specialist
@@ -159,10 +158,9 @@ cannot see, and my best guess is the habits of the local specialist service, whi
 with hospital prescribers using these insulins at twice the GP rate. A test is coming: from 30 July
 2026 the new West of Scotland Formulary puts Trurapi first and Fiasp and Lyumjev third across five
 boards, including Greater Glasgow and Clyde, which currently has one of Scotland's highest shares.
-If uptake there falls, formulary position matters even where the service is already using the
-faster insulins.
+A fall in uptake there would show that formulary position matters even where the local service already uses the faster insulins.
 
-### Cost pushes towards the cheaper slow insulin
+### Cost
 
 It is tempting to assume the faster insulins are restricted because they cost more. At list price
 they do not. A box of five Fiasp cartridges costs £28.31, the same as five NovoRapid cartridges, and
@@ -175,7 +173,7 @@ pays primary care networks to get biosimilar aspart above half of all aspart pre
 of those documents excludes Fiasp from the switch, but once Trurapi is first choice, an ultra-rapid
 insulin becomes a second step, and the trial evidence gives that step very little to stand on.
 
-### The skin, and the supply
+### Site reactions and supply
 
 Site pain gives both the person and the clinician a reason to go back to what they used before, and
 the accounts show people doing exactly that. On pumps, the faster insulins also come with shorter
@@ -199,10 +197,8 @@ rationalising the range to protect supply of "the insulins most commonly used by
 German endocrine society called the PumpCart "very little used", and the Norwegian medicines agency
 said most of Novo Nordisk's discontinued products "have low sales and are not very profitable",
 although that list was mostly older insulins. Lilly is cutting Humalog, Humulin and Abasaglar
-presentations too, so this looks like both companies shrinking their insulin ranges rather than
-retreating from the faster products. Within a shrinking range, though, the presentation fewer people
-use is the easier one to cut, and that is how slow uptake can cost access without ever being named
-as the reason.
+presentations too, so this looks like both companies shrinking their whole insulin ranges, with the faster products cut alongside the rest. Within a shrinking range, though, the presentation fewer people
+use is the easier one to cut, so slow uptake can cost access without being given as the reason.
 
 ## What I take from this
 
@@ -212,32 +208,28 @@ that put the faster products behind a hurdle, cost programmes that make a cheape
 first choice, and pump users who quite reasonably go back to the insulin that does not hurt.
 
 The Welsh figures are the most encouraging thing here. They show that the 11% to 15% level that
-France, Denmark and England have settled at is not a natural ceiling: across a whole nation, a third
+France, Denmark and England have settled at can be exceeded: across a whole nation, a third
 of rapid-acting insulin is ultra-rapid, and in one health board more than half. I cannot tell from
 these data exactly why Wales is different, and that is the question I would most like answered.
 
 The evidence that would shift the picture is evidence on the outcomes these insulins are meant to
-improve, which are not HbA1c: how long people wait between injecting and eating, what their glucose
-does in the hour after a meal, and which insulin they choose when they have tried both. Until
-somebody measures those, the faster insulins will keep being judged on a test they were designed only
-to pass.
+improve: how long people wait between injecting and eating, what their glucose does in the hour after
+a meal, and which insulin they choose when they have tried both. The phase 3 trials that licensed
+them used HbA1c as their main outcome and treated these as secondary or left them out.
 
 ## The limits
 
-These are dispensing data. They show what was supplied, not what was injected, and they include
-stock held at home.
+These are dispensing data. They show what was supplied, which includes stock held at home that has not yet been injected.
 
 The comparison between countries mixes different kinds of data. France and Denmark are national
-dispensing in units; Australia counts subsidised prescriptions only and cannot include Lyumjev; the
-US figures cover two public programmes, not the country; Germany is a range.
+dispensing in units; Australia counts subsidised prescriptions only and cannot include Lyumjev; the US figures cover only two public programmes; Germany is a range.
 
 The formulary sorting was done by one person who had already seen the uptake figures, the English
 pattern is confounded by geography (three of the five most restrictive ICBs are in London), and the
 formulary wording does not explain the Welsh figures or the low Scottish boards, so whatever drives
 most of the variation is not measured here.
 
-The user accounts are self-selected and show the range of experience rather than how common any of
-it is.
+The user accounts are self-selected and show the range of experience. They cannot say how common any of it is.
 
 The preprint, with the full method, all 53 references and the formulary wording area by area, is at
 [Zenodo DOI to be added]. The code and outputs behind every number are at
