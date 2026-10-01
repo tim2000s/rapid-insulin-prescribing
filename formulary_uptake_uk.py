@@ -14,9 +14,10 @@ sensitivity analysis recodes Tayside ("2nd line bolus insulin for those who requ
 of action") as second line, and Greater Glasgow and Clyde and Forth Valley (a requirement, applying
 to every insulin, that a clinician experienced in diabetes recommends it) as open.
 
-A finding the coding rule cannot capture: in much of Scotland and Wales the specialist requirement
-applies to every mealtime insulin, including NovoRapid and Trurapi, so "specialist" there does not
-mark ultra-rapid products out. The rule was set for England, where restrictions attach to the
+A finding the coding rule cannot capture: in several Scottish boards and in Cwm Taf Morgannwg and
+Hywel Dda the specialist requirement applies to every mealtime insulin, including NovoRapid and
+Trurapi, so "specialist" there does not mark ultra-rapid products out; in Betsi Cadwaladr and Swansea
+Bay it does, and uptake there is still high. The rule was set for England, where restrictions attach to the
 ultra-rapid products specifically, and is applied unchanged rather than refitted after seeing the
 devolved data.
 
