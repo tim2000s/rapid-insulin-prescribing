@@ -1,8 +1,7 @@
 # Losing Lyumjev: how the system let its patients down
 
 *The usual preamble. This is analysis of published prescribing data, published trials and public
-statements, not advice about which insulin anyone should use. The full method, every number and the
-code that produces them are in the preprint and its repository, linked at the end.*
+statements, not advice about which insulin anyone should use. The method, every number and the code that produces them are in the repository linked at the end, and the sources are listed there too.*
 
 ---
 
@@ -346,6 +345,4 @@ drives the variation is not measured here.
 The user accounts and community posts are self-selected and show the range of experience. They
 cannot say how common any of it is.
 
-The preprint, with the full method, all references and the formulary wording area by area, is at
-[Zenodo DOI to be added]. The code and outputs behind every number are at
-https://github.com/tim2000s/rapid-insulin-prescribing.
+The method, the code, the formulary wording area by area and the outputs behind every number are at https://github.com/tim2000s/rapid-insulin-prescribing.
