@@ -28,7 +28,7 @@ each one reached the UK, some of the time on private prescription, because I rea
 and the trials and decided that an insulin which starts working sooner was worth having. I built
 Boost, the open-source automated insulin delivery algorithm I develop, around the pharmacology of
 Lyumjev, and with it my own time in range (3.9 to 10 mmol/L) is about 84% without announcing meals
-or bolusing for them. That is one person on experimental software, not a trial, but it is the kind of
+or bolusing for them. That is one person using experimental software. It is also the kind of
 result fully closed loop is aiming for, and it depends on the insulin.
 
 ## What is being lost
