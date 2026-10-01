@@ -13,3 +13,4 @@ international/scoping/france/medicam/*.zip
 withdrawals_eu/captures/
 withdrawals_eu/concerns/*
 !withdrawals_eu/concerns/lyumjev_statements.csv
+lilly_role/captures/
