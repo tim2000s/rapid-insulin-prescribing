@@ -135,8 +135,15 @@ Each area has a formulary that sets which insulins are first choice. I read the 
 in 38 areas across the UK: 17 English integrated care boards, 13 Scottish health boards, all seven
 Welsh health boards and Northern Ireland. Lyumjev was open to any prescriber in five of them. In eight
 it needed a specialist or set clinical criteria. In twelve it was placed behind another insulin, as a
-second or third choice or only after the standard insulin had failed. In thirteen it was not on the
-formulary at all, including eight of the thirteen Scottish boards and Northern Ireland.
+second or third choice or only after the standard insulin had failed. In thirteen it was not on the formulary at all, including eight of the thirteen Scottish boards and Northern Ireland.
+
+Some of those gaps were made by the process itself. From October 2020 the Scottish Medicines
+Consortium stopped requiring a submission for "an alternative formulation of an established medicine
+... which costs the same per patient or less", which Lyumjev is, so there is no Scottish advice on it
+at all. The All Wales Medicines Strategy Group excluded Lyumjev from appraisal on the same grounds, as
+it had Fiasp. Northern Ireland adopts NICE decisions first, then the Scottish Consortium's, then the
+Welsh group's, and none of them had made one, so Lyumjev had no route onto the Northern Irish
+formulary. A rule meant to spare same-priced medicines unnecessary paperwork left one with no decision anywhere, and no public record shows anyone, Lilly included, trying to close the gap.
 
 Across both ultra-rapid insulins, the English pattern is clear. Where formularies left them open, the
 median ultra-rapid share was 26.8%; where they were second line, restricted to pregnancy or not
@@ -202,6 +209,39 @@ prescribing. Those documents exclude Fiasp from the switch, but once Trurapi is 
 ultra-rapid insulin becomes a second step, and the trial evidence gives that step little to stand on.
 Trurapi reached 7.5% of units within five years. Lyumjev, after six, is at 3.7%. By then the period in
 which the faster insulins could have become the default at no extra cost was over.
+
+### Lilly's part
+
+Lilly cannot be left out of this. On the evidence I could find, it did the formal work each country
+required and very little that was visible beyond it.
+
+In France, Lilly applied for reimbursement and claimed no added benefit over Humalog for its own new
+insulin. The transcript of the French assessment committee records that "Le laboratoire demandait un
+SMR important, pas d'ASMR" (the company asked for an important clinical benefit rating, and no added
+benefit rating), and that is what it got. In Germany it agreed rebate contracts covering Humalog,
+Lyumjev and Abasaglar for "nearly all" people with statutory insurance. In Wales and Scotland the
+processes asked nothing more of it.
+
+What I could not find was any sign of an effort to create demand in the UK. When Fiasp reached the UK
+in April 2017, it was reported as "made available to the NHS at no additional cost compared to
+NovoRapid". I found no comparable UK announcement for Lyumjev in 2020, in the diabetes press or from
+Lilly. Lilly's 2020 annual report names Lyumjev among its products; none of its annual reports since
+does, while Humalog, Humulin and Basaglar stay listed. By 2025, Mounjaro and Zepbound "accounted for
+56 percent of our total revenues".
+
+The device picture is similar. Lilly was a named collaborator on Tandem and Medtronic trials that led
+to US clearances of Lyumjev with Tandem's t:slim X2 in 2025 and with Medtronic's MiniMed 780G in
+December 2025, and every site in both trials was in the United States. In the UK, Medtronic's 780G
+page still lists "Humalog and NovoRapid" only. Omnipod 5 lists neither ultra-rapid insulin, in the UK
+or the US. Tandem's UK and European t:slim X2 guide does list Lyumjev. The Tempo Pen, Lilly's
+connected-pen system, was launched and then removed from the EU licence in July 2026 for Humalog,
+Lyumjev and Abasaglar together.
+
+Lilly priced Lyumjev the same as Humalog, which removed the most obvious barrier, and several of the
+obstacles above applied to Novo Nordisk's Fiasp just the same. But a company that wanted its fastest
+insulin used would have made a case for it, in the UK and in Europe, to the prescribers and committees
+that this piece blames. Lilly met its obligations and let the product find its own level, and in Norway it has described the presentations it is withdrawing as little used. Its marketing and education spending are not public, so
+this is a judgement from what is visible.
 
 ## What "commercial reasons" means in money
 
@@ -272,9 +312,7 @@ a commercial judgement in which the UK's own low use counts against it.
 
 None of the reasons Lyumjev was so little used rests on evidence that the older insulins are better.
 Each one is a default that left them in place: trials built to show equivalence on the measure
-everyone watches, guidance that never named the faster insulins, formularies that left Lyumjev off or
-put it behind the insulin people were already on, and cost programmes that made a cheaper slow insulin
-the first choice once there was one.
+everyone watches, guidance that never named the faster insulins, formularies that left Lyumjev off or put it behind the insulin people were already on, cost programmes that made a cheaper slow insulin the first choice once there was one, and a manufacturer that did the minimum to get its own product used.
 
 The part I find hardest to accept is the years when switching was free. The faster insulins cost the
 NHS no more than the ones they would have replaced, and the system moved less than 3% of rapid-acting
