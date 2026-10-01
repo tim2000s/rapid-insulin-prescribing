@@ -1,0 +1,230 @@
+ Important Safety Information for t:slim X2 with Control-IQ Technology | Tandem Diabetes Care Skip to Main Content 
+ EN-GB 
+ Tandem Source Login 
+ Products 
+ Support 
+ Documents 
+ About Tandem 
+ Contact Us 
+ Contact Us 
+ Legal Disclosures 
+ Important Safety Information 
+t:slim X2 Insulin Pump with Control-IQ Technology 
+Contents 
+ Warning 
+ Indications for Use 
+ System Warnings 
+ System Precautions 
+ Potential Benefits from Using the System 
+ Potential Risks from Using the System 
+ Working with Your Healthcare Provider 
+ Emergency Kit 
+ Verification of Proper Functionality 
+ Wireless Coexistence and Data Security 
+ Warning 
+Control-IQ technology should not be used in anyone under the age of six years old. Control-IQ technology should also not be used in patients who require less than a total daily insulin dose of 10 units per day and should not be used by people who weigh less than 25 kilograms (55 pounds), as those are the required minimum values needed in order for Control-IQ technology to operate safely. Back to top 
+ Indications for Use 
+The t:slim X2 insulin pump is intended for the subcutaneous delivery of insulin, at set and variable rates, for the management of diabetes mellitus in persons requiring insulin. The pump is able to reliably and securely communicate with compatible, digitally connected devices. 
+Control-IQ technology is intended for use with a compatible continuous glucose monitor (CGM) and the t:slim X2 insulin pump to automatically increase, decrease, and suspend delivery of basal insulin based on CGM readings and predicted glucose values. It can also deliver correction boluses when the glucose value is predicted to exceed a predefined threshold. 
+The pump is indicated for use in persons six years of age and greater. who require a total daily insulin dose of at least 10 units and who weigh at least 25 kilograms. 
+The pump is intended for single patient use. 
+The Tandem t:slim mobile app is an accessory intended for use as a connected software device that is able to reliably and securely communicate with compatible insulin pumps, including receiving and displaying pump information and sending insulin delivery commands to a user's connected and compatible t:slim X2 insulin pump. 
+Contraindications 
+The t:slim X2 pump, transmitter, and sensor must be removed before Magnetic Resonance Imaging (MRI), Computed Tomography (CT) scan, or diathermy treatment. Exposure to MRI, CT, or diathermy treatment can damage the components. 
+DO NOT use Control-IQ technology if you are taking hydroxyurea, a medication used in the treatment of diseases including cancer and sickle cell anemia. Your Dexcom G6 CGM readings may be falsely elevated and result in over-delivery of insulin that could result in severe hypoglycemia. Back to top 
+ System Warnings 
+ / ! \ t:slim X2 Insulin Pump Warnings 
+DO NOT start to use your pump or the Tandem t:slim mobile app before reading the user guide. Failure to follow the instructions in this user guide can result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. If you have questions or need further clarification on your pump use, ask your healthcare provider or call your local customer support. 
+DO NOT start to use your pump before you have been appropriately trained on its use by a certified trainer or through the training materials available online if you are updating your pump. Consult with your healthcare provider for your individual training needs for the pump. Failure to complete the necessary training on your pump could result in serious injury or death. 
+ONLY use insulin analogs that have been tested and found to be compatible for use in the pump listed in Section 1.7 Compatible Insulins. Use of insulin with of greater or lesser concentration can result in an over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+DO NOT put any other drugs or medications in the pump. The pump has only been tested for continuous subcutaneous insulin infusion (CSII) with U-100 insulin analogs listed in Section 1.7 Compatible Insulins. The pump may be damaged if other medicines are used and an infusion may result in damage to health. 
+DO NOT use manual injections or inhaled insulins while using the pump. Using insulin not provided by the pump can cause the system to over deliver insulin, which can lead to severe hypoglycemia (low BG) events. 
+The pump is not intended for anyone unable or unwilling to: 
+Use the pump, CGM, and all other system components in accordance with their respective instructions for use 
+Test BG levels as recommended by a healthcare provider 
+Demonstrate adequate carbohydrate-counting skills 
+Maintain sufficient diabetes self- care skills 
+See a healthcare provider(s) regularly 
+The user must also have adequate vision and/or hearing in order to recognize all functions of the pump, including alerts, alarms, and reminders. 
+DO NOT start to use your pump before consulting with your healthcare provider to determine which features are most appropriate for you. Only your healthcare provider can determine and help you adjust your basal rate(s), carb ratio(s), correction factor(s), target BG, and duration of insulin action. In addition, only your healthcare provider can determine your CGM settings and how you should use your sensor trend information to help you manage your diabetes. Incorrect settings can result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+ALWAYS be prepared to inject insulin with an alternative method if delivery is interrupted for any reason. Your pump is designed to deliver insulin reliably, but because it uses only rapid-acting insulin, you will not have long-acting insulin in your body. Failure to have an alternative method of insulin delivery can lead to very high BG or Diabetic Ketoacidosis (DKA). 
+ONLY use cartridges and infusion sets with matching connectors and follow their instructions for use. Failure to do so may result in over delivery or under delivery of insulin and may cause hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+DO NOT place your infusion set on any scars, lumps, moles, stretch marks or tattoos. Placing your infusion set in these areas can cause swelling, irritation or infection. This can affect insulin absorption and cause high or low BG. 
+ALWAYS carefully follow the instructions for use accompanying your infusion set for proper insertion and infusion site care, as failure to do so could result in over delivery or under delivery of insulin or infection. 
+NEVER fill your tubing while your infusion set is connected to your body. Always ensure that the infusion set is disconnected from your body before changing the cartridge or filling the tubing. Failure to disconnect your infusion set from your body before changing the cartridge or filling the tubing can result in over delivery of insulin. This can cause hypoglycemia (low BG) events. 
+NEVER reuse cartridges or use cartridges other than those manufactured by Tandem Diabetes Care. Use of cartridges not manufactured by Tandem Diabetes Care or reuse of cartridges may result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+ALWAYS ensure there is a tight connection between the cartridge tubing and the infusion set tubing. A loose connection can cause insulin to leak, resulting in under delivery of insulin. If the connection comes loose, disconnect the infusion set from your body before tightening. This can cause hyperglycemia (high BG). 
+DO NOT disconnect the tubing connector between the cartridge tubing and the infusion set tubing. If the connection comes loose, disconnect the infusion set from your body before tightening. Failure to disconnect before tightening can result in over delivery of insulin. This can cause hypoglycemia (low BG). 
+DO NOT remove or add insulin from a filled cartridge after loading onto the pump. This will result in an inaccurate display of the insulin level on the Home screen and you could run out of insulin before the pump detects an empty cartridge. This can cause very high BG, or Diabetic Ketoacidosis (DKA). 
+DO NOT deliver a bolus until you have reviewed the calculated bolus amount on the pump display. If you deliver an insulin amount that is too high or too low, this could cause hypoglycemia (low BG) or hyperglycemia (high BG) events. You can always adjust the insulin units up or down before you decide to deliver your bolus. 
+Delivering large boluses, or delivering multiple boluses back to back may cause hypoglycemia (low BG) events. Pay attention to IOB and the bolus calculator recommended dose before delivering large or multiple boluses. 
+If you do not see a reduction in BG after initiating a bolus, it is recommended that you check your infusion set for an occlusion, air bubbles, or for leaks or cannula dislodgement. If the condition persists, contact your local customer support or seek medical attention as required. 
+ALWAYS use the USB cable provided with your t:slim X2 insulin pump to minimize the risk of fires or burns. 
+DO NOT allow small children (either pump users or non-users) to ingest small parts, such as the rubber USB port cover and cartridge components. Small parts could pose a choking hazard. If ingested or swallowed, these small component pieces may cause internal injury or infection. 
+The pump includes parts (such as the USB cable and infusion set tubing) that could pose a strangulation or asphyxiation hazard. ALWAYS use the appropriate length of infusion set tubing and arrange cables and tubing to minimize the risk of strangulation. ENSURE that these parts are stored in a secure place when not in use. 
+For patients who do not self-manage their disease, the Security PIN function should ALWAYS be on when the pump is not being used by a caregiver. The Security PIN function is intended to prevent inadvertent screen taps or button presses that may lead to insulin delivery or changes in the pump settings. These changes can potentially lead to hypoglycemic or hyperglycemic events. 
+For patients whose insulin administration is managed by a caregiver, ALWAYS turn off the Quick Bolus feature to avoid inadvertent bolus delivery. If the Security PIN is turned on, the Quick Bolus feature is automatically disabled. Inadvertent screen taps, button presses, or tampering with the insulin pump could result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+Use of accessories, cables, adapters, and chargers other than those specified or provided by the manufacturer of this equipment could result in increased electromagnetic emissions or decreased electromagnetic immunity of this equipment and result in improper operation. 
+Portable RF communications equipment (including peripherals such as antenna cables and external antennas) should be used no closer than 12 inches to any part of the t:slim X2 pump, including cables specified by the manufacturer. Otherwise, degradation of the performance of this equipment could result. 
+Use of this equipment adjacent to or stacked with other equipment should be avoided because it could result in improper operation. If such use is necessary, this equipment and the other equipment should be observed to verify that they are operating normally. 
+ / ! \ Magnetic Resonance Imaging Safety 
+The pump is magnetic resonance (MR) unsafe. You must take off your pump and CGM components and leave them outside the procedure room. 
+ / ! \ Radiology and Medical Procedures and Your t:slim X2 Pump 
+ALWAYS notify the provider/technician about your diabetes and your pump. If you need to discontinue use of the pump for medical procedures, follow your healthcare provider’s instructions to replace missed insulin when you reconnect to the pump. Check your BG before disconnecting from the pump and again when you reconnect and treat high BG levels as recommended by your healthcare provider. 
+DO NOT expose your pump or CGM components to: 
+X-ray 
+Computed Tomography (CT) scan 
+Magnetic Resonance Imaging (MRI) 
+Positron Emission Tomography (PET) scan 
+Other exposure to radiation 
+There is no need to disconnect for electrocardiograms (EKGs) or colonoscopies. If you have questions, contact your local customer support. 
+DO NOT use the pump if you have a condition which, in the opinion of your healthcare provider, would put you at risk. Examples of individuals who should not use the pump include those with uncontrolled thyroid disease, renal failure (e.g. dialysis or eGFR <30), hemophilia, or another major bleeding disorder, or unstable cardiovascular disease. 
+DO NOT expose your pump or CGM components to: 
+Pacemaker/Automatic Implantable Cardioverter Defibrillator (AICD) placement or reprogramming 
+Cardiac Catheterization 
+Nuclear Stress Test 
+You must take off your pump and CGM components and leave them outside the procedure room if you are going to have any of the above medical procedures. 
+There are other procedures where you should proceed with caution: 
+Laser Surgery – Your pump can usually be worn during the procedure. However, some lasers can create interference and cause the pump to alarm. 
+General Anesthesia – Depending on the equipment being used, you may or may not need to remove your pump. Be sure to ask your healthcare provider. 
+ / ! \ Tandem t:slim Mobile App Warnings 
+DO NOT start to use the bolus feature of the Tandem t:slim mobile app before you have been appropriately trained on its use. Failure to follow the instructions in this user guide and in-app help on the bolus feature of the Tandem t:slim mobile app could result in delay of therapy. If the information displayed to you in your Tandem t:slim mobile app does not match your signs and symptoms, ALWAYS refer to the t:slim X2 insulin pump before making any treatment decisions. 
+DO NOT use a smartphone that has been jailbroken or rooted, or with Android developer mode on. Data may become vulnerable if you install the Tandem t:slim mobile app on a smartphone that has been jailbroken or rooted, or uses an unreleased or pre-released operating system. Only download the Tandem t:slim mobile app on Google Play™ or from the App Store. See Chapter 4 Getting to Know Your Tandem t:slim Mobile App for Tandem t:slim mobile app installation. 
+Any time you request any bolus, you have 10 seconds to cancel the bolus after requesting it to completely avoid insulin delivery. Both the pump and the Tandem t:slim mobile app will say “requesting bolus” during this time as long as your pump and the Tandem t:slim mobile app are connected. You can cancel the bolus from either the pump or the app regardless of how you requested it. 
+ALWAYS rely on your pump to make therapy decisions when using a smartphone that is incompatible with the Bolus Delivery feature. 
+ALWAYS use your t:slim X2 insulin pump for therapy decisions if your Bluetooth connection between your smartphone and pump is disabled. 
+Use of accessories, cables, adapters, and chargers other than those specified or provided by the manufacturer of this equipment could result in increased electromagnetic emissions or decreased electromagnetic immunity of this equipment and result in improper operation. 
+Portable RF communications equipment (including peripherals such as antenna cables and external antennas) should be used no closer than 30.5 cm (12 inches) to any part of the t:slim X2 pump, including cables specified by the manufacturer. Otherwise, degradation of the performance of this equipment could result. 
+ / ! \ CGM Warnings 
+DO NOT ignore symptoms of high and low glucose. If your sensor glucose alerts and readings do not match your symptoms, measure your BG with a BG meter even if your sensor is not reading in the high or low range. 
+DO NOT expect CGM alerts until after the 2-hour startup. You will NOT get any sensor glucose readings or alerts until after the 2-hour startup ends. During this time you might miss severe hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+If a sensor session is ended, either automatically or manually, you will not receive any CGM alerts. In order to receive CGM alerts, a sensor session must be started and transmitting sensor values to the pump based on a sensor code or sensor calibration. Back to top 
+ System Precautions 
+ / ! \ t:slim X2 Insulin Pump Precautions 
+DO NOT open or attempt to repair your insulin pump. The pump is a sealed device that should be opened and repaired only by Tandem Diabetes Care. Modification could result in a safety hazard. If your pump seal is broken, the pump is no longer watertight and the warranty is voided. 
+CHANGE your infusion set every 48 hours if using Humalog or Admelog/Insulin lispro Sanofi, or Lyumjev insulin; every 72 hours if using NovoLog/NovoRapid or Trurapi/Insulin aspart Sanofi insulin. Wash your hands with anti-bacterial soap before handling the infusion set and thoroughly clean the insertion site on your body to avoid infection. Contact your healthcare provider if you have symptoms of infection at your insulin infusion site. 
+ALWAYS remove all air bubbles from the pump before beginning insulin delivery. Ensure there are no air bubbles when drawing insulin into the filling syringe, hold the pump with the white fill port pointed up when filling the tubing, and ensure that there are no air bubbles in the tubing when filling. Air in the cartridge and tubing takes space where insulin should be and can affect insulin delivery. 
+CHECK your infusion site daily for proper placement and leaks. REPLACE your infusion set if you notice leaks around the site. Improperly placed sites or leaks around the infusion site can result in under delivery of insulin. 
+CHECK your infusion set tubing daily for any leaks, air bubbles, or kinks. Air in the tubing, leaks in the tubing, or kinked tubing may restrict or stop insulin delivery and result in under delivery of insulin. 
+CHECK the tubing connection between your cartridge tubing and infusion set tubing daily to ensure it is tight and secure and that there are no cracks, chips, or other damage. Leaks around the tubing connection can result in under delivery of insulin. 
+DO NOT change your infusion set before bedtime or if you will not be able to test your BG 1–2 hours after the new infusion set is placed. It is important to confirm that the infusion set is inserted correctly and delivering insulin. It is also important to respond quickly to any problems with the insertion to ensure continued insulin delivery. 
+ALWAYS check that your cartridge has enough insulin to last through the night before going to bed. If you are sleeping, you could fail to hear the Empty Cartridge Alarm and miss part of your basal insulin delivery. 
+CHECK your pump’s personal settings regularly to ensure they are correct. Incorrect settings can result in over delivery or under delivery of insulin. Consult with your healthcare provider as needed. 
+ALWAYS make sure that the correct time and date are set on your insulin pump. Not having the correct time and date setting may affect safe insulin delivery. When editing time, always check that the AM/PM setting is accurate, if using the 12 hour clock. AM is to be used from midnight until 11:59 AM. PM is to be used from noon until 11:59 PM. 
+CONFIRM that the screen display turns on, you can hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button when you connect a power source to the USB port. These features are used to notify you about alerts, alarms, and other conditions that require your attention. If these features are not working, discontinue use of the pump and contact your local customer support. 
+CHECK your pump regularly for potential alarm conditions that may display. It is important to be aware of conditions that may affect insulin delivery and require your attention so you can respond as soon as possible. 
+DO NOT use the vibrate feature for alerts and alarms during sleep unless otherwise directed by your healthcare provider. Having the volume for alerts and alarms set to high will help ensure that you don’t miss an alert or alarm. 
+ALWAYS look at the screen to confirm correct programming of the bolus amount when you first use the Quick Bolus feature. Looking at the screen will ensure that you are correctly using the beep/vibration commands to program the intended bolus amount. 
+DO NOT use your pump if you think it might be damaged due to dropping it or hitting it against a hard surface. Check that the pump is working properly by plugging a power source into the USB port and confirming that the display turns on, you hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button. If you are unsure about potential damage, discontinue use of the pump and contact your local customer support. 
+AVOID exposure of your pump to temperatures below 5°C (40°F) or above 37°C (99°F). Insulin can freeze at low temperatures or degrade at high temperatures. Insulin that has been exposed to conditions outside of the manufacturer’s recommended ranges can affect the safety and performance of the pump. 
+AVOID submerging your pump in fluid beyond a depth of 0.91 m (3 feet) or for more than 30 minutes (IP27 rating). If your pump has been exposed to fluid beyond these limits, check for any signs of fluid entry. If there are signs of fluid entry, discontinue use of the pump and contact your local customer support. 
+AVOID areas where there may be flammable anesthetics or explosive gases. The pump is not suitable for use in these areas and there is a risk of explosion. Remove your pump if you need to enter these areas. 
+MAKE SURE to not move further than the length of the USB cable when you are connected to the pump and to a charging source. Moving further than the length of the USB cable may cause the cannula to be pulled out of the infusion site. For this reason it is recommended not to charge the pump while sleeping. 
+DISCONNECT your infusion set from your body while on high-speed/high gravity amusement park thrill rides. Rapid changes in altitude or gravity can affect insulin delivery and cause injury. 
+DISCONNECT your infusion set from your body before flying in an aircraft without cabin pressurization or in planes used for aerobatics or combat simulation (pressurized or not). Rapid changes in altitude or gravity can affect insulin delivery and cause injury. 
+CONSULT your healthcare provider about lifestyle changes such as weight gain or loss, and starting or stopping exercise. Your insulin needs may change in response to lifestyle changes. Your basal rate(s) and other settings may need adjustment. 
+CHECK your BG using a BG meter following a gradual elevation change of up to each 305 meters (1,000 feet), such as when snow skiing or driving on a mountain road. Delivery accuracy can vary up to 15% until 3 units of total insulin have been delivered or elevation has changed by more than 305 meters (1,000 feet). Changes in delivery accuracy can affect insulin delivery and cause injury. 
+ALWAYS check with your healthcare provider for specific guidelines if you want or need to disconnect from the pump for any reason. Depending on the length of time and reason you are disconnecting, you may need to replace missed basal and/or bolus insulin. Check your BG before disconnecting from the pump and again when you reconnect, and treat high BG levels as recommended by your healthcare provider. 
+ENSURE that your personal insulin delivery settings are programmed into the pump before use if you receive a warranty replacement pump. Failure to enter your insulin delivery settings could result in over delivery or under delivery of insulin. This can cause hypoglycemia (low BG) or hyperglycemia (high BG) events. Consult your healthcare provider as needed. 
+Interference with your pump’s electronics by cell phones can occur if worn in close proximity. It is recommended that your pump and cell phone be worn at least 16.3 cm (6.4 inches) apart. 
+ALWAYS dispose of used components such as cartridges, syringes, needles, infusion sets, and CGM sensors following local regulations. Needles should be disposed in an appropriate sharps container. Do not attempt to recap needles. Wash your hands thoroughly after handling used components. 
+If you choose to use a pump case or other accessories not provided by Tandem, DO NOT cover the six vent holes on the back of the pump. Covering the vent holes could affect insulin delivery. 
+ / ! \ Tandem t:slim Mobile App Precautions 
+ALWAYS turn Zoom Mode off when using the Tandem t:slim mobile app. If your smartphone has Zoom Mode turned on, you should rely on your pump for all therapy decisions. 
+If you start a manual bolus request on the pump, you must complete it on the pump. You cannot request a bolus from the Tandem t:slim mobile app while a bolus request is active on the pump. 
+Pump notifications cannot be cleared from your Tandem t:slim mobile app. Pump alerts, alarms, and notifications can be viewed on your smartphone, but must be cleared on the t:slim X2 pump. 
+The Tandem t:slim mobile app receives data from the connected pump via a secure Bluetooth wireless technology connection. If the Bluetooth connection between the pump and the Tandem t:slim mobile app is lost, the Tandem t:slim mobile app will not display current insulin pump information and cannot be used to request a bolus. To help maintain the wireless connection between the insulin pump and the Tandem t:slim mobile app, it is recommended the smartphone running the Tandem t:slim mobile app is within 1.5 meters (5 feet) of the compatible insulin pump. 
+ALWAYS ensure your pump has established a Bluetooth wireless connection with your smartphone before you use the Tandem t:slim mobile app. Confirm that the information displayed to you matches your signs and symptoms. 
+Use of the Tandem t:slim mobile app together with your insulin pump may impact the battery life of your pump due to the wireless data transmission between the devices. 
+ALWAYS turn on notifications to receive your pump alerts, alarms, and notifications on your smartphone. Notifications must be enabled on your smartphone, and the Tandem t:slim mobile app must be open in the background for pump notifications to be received on your smartphone. If you close or force stop your Tandem t:slim mobile app, it will not be running in the background. 
+DO NOT ignore symptoms of high and low glucose. If your Tandem t:slim mobile app readings do not match your symptoms, check your pump display and confirm that your pump has established a Bluetooth connection with your smartphone. 
+ALWAYS rely on your pump for therapy decisions if: 
+Your smartphone is incompatible with the Bolus Delivery feature of the Tandem t:slim mobile app 
+Your smartphone is lost or damaged 
+Your smartphone loses Bluetooth connectivity with your pump 
+DO NOT update your smartphone operating system prior to confirming that it is compatible with the Bolus Delivery plus Display and Data Upload feature of the Tandem t:slim mobile app. If you update to an incompatible operating system version, you will lose the ability to request, stop, or cancel a bolus from the Tandem t:slim mobile app. 
+DISCONTINUE use of the Tandem t:slim mobile app if your smartphone is damaged, or if a significant portion of its display is damaged or does not illuminate. 
+The Tandem t:slim mobile app is not intended to replace self-monitoring practices as advised by a physician. 
+The Tandem t:slim mobile app is not intended for use by anyone unable to use a smartphone proficiently. Users must have adequate vision and/or hearing in order to use the Tandem t:slim mobile app. 
+Use of mobile devices not complying with either IEC 60950-1, IEC 62368-1, or an equivalent standard may increase the risk of electrical hazards. 
+Supported mobile devices and the charging equipment provided by their manufacturers are compliant with appropriate electrical safety standards (IEC 60950-1, IEC 62368-1, or equivalent). For more information on supported devices, please visit tandemdiabetes.com/compatibility, or tap Help on the Tandem t:slim mobile app Settings screen, then tap App Guide. 
+ / ! \ CGM Precautions 
+AVOID injecting insulin or placing an infusion set within 7.6 cm (3 inches) of the sensor. The insulin might affect sensor accuracy and could result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+PAY ATTENTION to the trend information on your CGM Home screen, as well as your symptoms, before using CGM values to calculate and deliver a correction bolus. Individual CGM values may not be as accurate as BG meter values. 
+AVOID separating the transmitter and pump by more than 6 meters (20 feet). The transmission range from the transmitter to the pump is up to 6 meters (20 feet) without obstruction. Wireless communication does not work well through water so the range is reduced if you are in a pool, bathtub, or on a water bed, etc. To ensure communication, it is suggested that you face your pump screen out and away from the body, and wear the pump on the same side of the body that you wear your CGM. Types of obstruction differ and have not been tested. If your transmitter and pump are farther than 6 meters (20 feet) apart or are separated by an obstruction, they might not communicate or the communication distance may be shorter and result in you missing severe hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+ENSURE that your transmitter ID is programmed into the pump before you use the pump if you receive a warranty replacement pump. The pump cannot communicate with the transmitter unless the transmitter ID is entered. If the pump and transmitter are not communicating, you will not receive sensor glucose readings and you might miss severe hypoglycemia (low BG) or hyperglycemia (high BG) events. 
+Hydroxyurea is a medication used in the treatment of diseases including cancer and sickle cell anemia. It is known to interfere with glucose readings from the Dexcom sensor. The use of hydroxyurea will result in sensor glucose readings that are higher than actual glucose levels. The level of inaccuracy in sensor glucose readings is based on the amount of hydroxyurea in the body. Relying on sensor glucose results while taking hydroxyurea could result in missed hypoglycemia alerts or errors in diabetes management, such as giving a higher dose of insulin than necessary to correct falsely high sensor glucose values. It can also result in errors when reviewing, analyzing and interpreting historical patterns for assessing glucose control. DO NOT use the Dexcom CGM readings to make diabetes treatment decisions or assess glucose control when taking hydroxyurea. Use your BG meter and consult with your healthcare provider about alternative glucose monitoring approaches. Back to top 
+ Potential Benefits from Using the System 
+Potential Benefits From Using Your Pump 
+The pump provides an automated way to deliver basal and bolus insulin. Delivery can be fine-tuned based on up to six customizable Personal Profiles, each with up to 16 time-based settings for basal rate, carb ratio, correction factor, and target BG. In addition, the temp rate feature allows you to program a temporary basal rate change for up to 72 hours. 
+The pump gives you the option of delivering a bolus all at once, or delivering a percentage over an extended period of time without navigating to different menus. You can also program a bolus more discreetly using the Quick Bolus feature, which can be used without looking at the pump, and can be programmed in increments of either units of insulin or grams of carbohydrate. 
+From the Bolus screen, the “calculator within a calculator” feature allows you to enter multiple carbohydrate values and add them together. The insulin pump’s bolus calculator will recommend a bolus based on the entire amount of carbohydrates entered, which can help eliminate guesswork. 
+The pump keeps track of the amount of active insulin from food and correction boluses (IOB). When programming additional food or correction boluses, the pump will subtract the amount of IOB from the recommended bolus if your BG is below the target set in your active Personal Profile. This can help prevent insulin stacking, which can lead to hypoglycemia (low BG). 
+You can program a number of reminders that will prompt you to retest your BG after a low or high BG is entered, as well as a “Missed Meal Bolus Reminder” which will alert you if a bolus isn’t entered during a specified period of time. If activated, these can help reduce the likelihood that you will forget to check your BG or bolus for meals. 
+You have the ability to view a variety of data right on your screen, including the time and amount of your last bolus, your total insulin delivery by day, as well as broken into basal, food bolus, and correction bolus. 
+Potential Benefits From Using the t:slim X2 Insulin Pump with CGM 
+When paired with a compatible CGM, your pump can receive CGM readings every 5 minutes, which are displayed as a trend graph on the Home screen. You can also program your pump to alert you when your CGM readings are above or below a given level, or are rising or falling quickly. Unlike the readings from a standard blood glucose meter, CGM readings allow you to view trends in real time, as well as capture information when you would otherwise be unable to check your blood sugar, such as while you are asleep. This information can be useful for you and your healthcare provider when considering changes to your therapy. In addition, the programmable alerts can help you to spot potential low or high BG sooner than you would using a only a blood glucose meter. Back to top 
+ Potential Risks from Using the System 
+Possible Risks From Using Your Pump 
+As with any medical device, there are risks associated with using your pump. Many of the risks are common to insulin therapy in general, but there are additional risks associated with continuous insulin infusion and continuous glucose monitoring. Reading your user guide and following the instructions for use are critical for the safe operation of your pump. Consult your healthcare provider about how these risks may impact you. 
+Inserting and wearing an infusion set might cause infection, bleeding, pain or skin irritations (redness, swelling, bruising, itching, scarring, or skin discoloration). 
+There is a remote chance that an infusion set cannula fragment could remain under your skin if the cannula breaks while you are wearing it. If you think a cannula has broken under your skin, contact your healthcare provider and call your local customer support. 
+Other risks associated with infusion sets include occlusions and air bubbles in the tubing or dislodged cannula, which can affect insulin delivery. If your BG does not decrease after initiating a bolus, or you have other unexplained high BG, it is recommended that you check your infusion set for an occlusion or air bubbles, and verify that the cannula has not dislodged. If the condition persists, call your local customer support or seek medical attention as required. 
+Risks that could result from pump failure include the following: 
+possible hypoglycemia (low BG) from over-delivery of insulin due to a hardware defect or software anomaly. 
+hyperglycemia (high BG) and ketosis possibly leading to Diabetic Ketoacidosis (DKA) due to pump failure resulting in cessation of insulin delivery due to either a hardware defect, software anomaly, or infusion set failure. Having a backup method of insulin delivery greatly reduces your risk of severe hyperglycemia or DKA. 
+Possible Risks From Using the t:slim X2 Insulin Pump with CGM 
+There is a remote chance that a sensor wire fragment could remain under your skin if the sensor wire breaks while you are wearing it. If you think a sensor wire has broken under your skin, contact your healthcare provider and call your local customer support. 
+Other risks associated with CGM use include the following: 
+You will not get sensor glucose alerts when the alert function is turned off, your transmitter and pump are out of range, or when your pump is not showing sensor glucose readings. You might not notice alerts if you are unable to hear them or feel the vibration. 
+There are a number of risks as a result of the fact that the Dexcom G6 CGM takes readings from fluid below the skin (interstitial fluid) instead of blood. There are differences in how glucose is measured in the blood compared to how it is measured in interstitial fluid, and glucose is absorbed into the interstitial fluid slower than it is absorbed into the blood, which can cause CGM readings to lag behind readings from a BG meter. 
+ Back to top 
+ Working with Your Healthcare Provider 
+Any clinical language presented in this user guide is based on the assumption that you have been educated by your healthcare provider on certain terms and how they apply to you in your diabetes management. Your healthcare provider can help you establish diabetes management guidelines that best fit your lifestyle and needs. 
+Consult your healthcare provider before using the pump to determine which features are most appropriate for you. Only your healthcare provider can determine and help you adjust your basal rate(s), insulin-to-carbohydrate ratio(s), correction factor(s), target BG, and duration of insulin action. In addition, only your healthcare provider can determine your CGM settings and how you should use your sensor trend information to help you manage your diabetes. Back to top 
+ Emergency Kit 
+You should always have an appropriate emergency kit with you. At the very least, this kit should include an insulin syringe and vial of insulin or a prefilled insulin pen with you as a backup for emergency situations. Talk with your healthcare provider regarding what items this kit should include. 
+Some examples of what to include in your everyday emergency kit are: 
+BG testing supplies: meter, strips, control solution, lancets, meter batteries 
+Fast-acting carbohydrate to treat low BG 
+Extra snack for longer coverage than fast-acting carbohydrate 
+Glucagon emergency kit 
+Rapid-acting insulin and syringes or a prefilled insulin pen and pen needles 
+Infusion sets (minimum of 2) 
+Insulin pump cartridges (minimum of 2) 
+Infusion site preparation products (antiseptic wipes, skin adhesive) 
+Diabetes identification card or jewelry 
+ Back to top 
+ Verification of Proper Functionality 
+A power supply (AC adapter with micro-USB connector) is provided with your pump. Before using your pump, ensure that the following occur when you connect a power supply into the USB port of your pump: 
+You hear an audible alert 
+You see the green light illuminate from the edge around the Screen On/Quick Bolus button 
+You feel a vibratory alert 
+You see a charge symbol (lightning bolt) on the battery level indicator 
+In addition, before using your pump, ensure the following: 
+Press the Screen On/Quick Bolus button to turn the screen on so that you can see the display 
+When the display screen is on, the touchscreen responds to your finger tap 
+ / ! \ Precaution 
+CONFIRM that the screen display turns on, you can hear audible beeps, feel the pump vibrate, and see the green LED light blinking around the edge of the Screen On/Quick Bolus button when you connect a power source to the USB port. These features are used to notify you about alerts, alarms, and other conditions that require your attention. If these features are not working, discontinue use of your pump and contact your local customer support. Back to top 
+ Wireless Coexistence and Data Security 
+The pump and CGM are designed to work safely and effectively in the presence of wireless devices typically found at home, work, retail stores, and places of leisure where daily activities occur. 
+ / ! \ Warning 
+Portable RF communications equipment (including peripherals such as antenna cables and external antennas) should be used no closer than 12 inches to any part of the t:slim X2 pump, including cables specified by the manufacturer. Otherwise, degradation of the performance of this equipment could result. 
+The pump and CGM are designed to send and accept Bluetooth wireless technology communication. Communication is not established until you enter the appropriate credentials into your pump. 
+The pump and CGM and their components are designed to ensure data security and patient confidentiality using a series of cybersecurity measures, including device authentication, message encryption, and message validation. Back to top 
+ Back to top 
+Resources 
+ Documents 
+ Software Updates 
+Contact 
+ Contact Us 
+Disclosures 
+ Important Safety Information 
+ Privacy Notices 
+ Warranty 
+ Intellectual Property 
+ Modern Slavery Transparency 
+ Other Disclosures 
+ English (United Kingdom) 
+© 2026 Tandem Diabetes Care, Inc.
+All rights reserved. 

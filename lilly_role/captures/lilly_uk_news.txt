@@ -1,0 +1,33 @@
+ 
+ Latest news from Lilly UK 
+News 
+PRESS RELEASES 
+The Latest from Lilly 
+Find information on our company news. 
+ See all press releases 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+Explore More 
+Key Facts 
+card, titleone-fs-32px, description-fs-20px, ctaselection-link, ctatarget-sametab, ctaexitinterstitial-select, ctatarget-sametab-two, ctaexitinterstitial-select-two, ctanumber-one 
+Since 1876, we have focused on scientific research and the development of medicines to address health needs worldwide. 
+ Learn more about Lilly 
+additionalPadding 
+narrow 
+Media Contacts: 
+Email our UK Corporate Affairs team ( UKPublicAffairs@lilly.com ) or call 020 3162 0046 
+style 
+background-primary-red 
+additionalPadding 
+narrow 
+additionalMargin 
+narrow 
+roundedBorders 
+true 
+CMAT-06519 August 2026 
+style 
+background-none 
+additionalPadding 
+narrow 

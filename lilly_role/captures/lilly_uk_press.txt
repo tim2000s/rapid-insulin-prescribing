@@ -1,0 +1,33 @@
+ 
+ Press Releases for Journalists | Lilly UK 
+Press
+releases 
+additionalPadding 
+narrow 
+This page is intended only for UK journalists 
+style 
+background-primary-red 
+additionalPadding 
+wide 
+additionalMargin 
+narrow 
+roundedBorders 
+true 
+Read the press release 
+24/08/2026
+Orforglipron (Foundayo▼) launched in the UK following recent authorisation for weight management and type 2 diabetes mellitus in adults. 
+ Read the press release 
+09/01/2026 
+Lilly's Taltz (ixekizumab) and Mounjaro▼ (tirzepatide) used together demonstrated significant efficacy in adults with active psoriatic arthritis and obesity or overweight. 
+ Read the press release 
+style 
+background-none 
+additionalPadding 
+narrow 
+CMAT-06521 August 2026 
+text 
+nonsmallcelllungcancer 
+style 
+background-none 
+additionalPadding 
+narrow 

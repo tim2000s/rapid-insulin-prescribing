@@ -1,0 +1,169 @@
+ 
+ Media | Eli Lilly and Company 
+imageSlide 
+ Media 
+100px 
+Ringside 
+medium 
+Woman with dark hair laughing 
+white 
+one 
+spacer 
+large 
+primary 
+small 
+left 
+ Press and media inquiries 
+100px 
+Working on a news story, newsletter, digital content, podcast or other media project involving Lilly or our products?
+Submit your request below and a member of our communications team will respond as soon as possible. Send requests for b-roll or executive biographies to b-roll@lilly.com .
+Please do not submit requests for donations, sponsorships, employment or medical advice via this form.
+Non-press or media-related inquiries can be directed to Lilly’s Contact Us page or call Lilly Support Services (1-800-LillyRX) for assistance. 
+20px 
+sameTab 
+select 
+spacer 
+large 
+spacer 
+large 
+backgroundColor 
+none 
+additionalPadding 
+none 
+additionalMargins 
+none 
+spacer 
+small 
+left 
+Media kits 
+100px 
+Media members may access multimedia resources such as fact sheets, infographics, photos, logos, select press releases and more, all for use in stories in development. 
+28px 
+sameTab 
+select 
+spacer 
+large 
+spacer 
+large 
+Ebglyss® (lebrikizumab-lbkz) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/ebglyss 
+Read more about Ebglyss's Media Kit 
+Foundayo™ (orforglipron) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/foundayo 
+Read more about Inluriyo's media kit 
+spacer 
+large 
+primary 
+small 
+spacer 
+large 
+Inluriyo® (imlunestrant) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/inluriyo 
+Read more about Inluriyo's media kit 
+image 
+icon-dark 
+Kisunla® (donanemab-azbt) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/kisunla 
+Read more about Inluriyo's media kit 
+image 
+icon-dark 
+spacer 
+large 
+spacer 
+large 
+primary 
+small 
+Mounjaro® (tirzepatide) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/mounjaro 
+Read more about Mounjaro's Media Kit 
+Omvoh® (mirikizumab-mrkz) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/omvoh 
+Read more about Omvoh's Media Kit 
+image 
+icon-dark 
+spacer 
+large 
+primary 
+small 
+spacer 
+large 
+primary 
+small 
+Zepbound® (tirzepatide) 
+32px 
+20px 
+one 
+Read more 
+link 
+ /news/media/zepbound 
+Read more about Zepbound's Media Kit 
+image 
+icon-dark 
+backgroundColor 
+none 
+additionalPadding 
+narrow 
+additionalMargins 
+none 
+spacer 
+large 
+OTHER REQUESTS 
+Looking for something else? 
+60px 
+ You can request additional B-roll footage or executive biography images by emailing us here. 
+If you are a customer and have questions regarding Lilly medicines, please call The Lilly Answers Center at 1-800-LillyRx (1-800-545-5979). 
+20px 
+spacer 
+large 
+backgroundColor 
+primary-red 
+additionalPadding 
+narrow 
+center 
+Social media guidelines 
+48px 
+View our corporate social media guidelines. We look forward to connecting and engaging with you. 
+24px 
+one 
+Read the guidelines 
+link 
+ /news/media/social-media-guidelines 
+Read the social media guidelines 
+backgroundColor 
+tertiary-blue 
+additionalPadding 
+wide 
+additionalMargins 
+narrow 
+roundedBorders 
+true 

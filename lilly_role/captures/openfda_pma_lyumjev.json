@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-09-21",
+    "results": {
+      "skip": 0,
+      "limit": 50,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "pma_number": "P160017",
+      "supplement_number": "S125",
+      "applicant": "Medtronic Minimed, Inc.",
+      "street_1": "18000 Devonshire St.",
+      "street_2": "",
+      "city": "Northridge",
+      "state": "CA",
+      "zip": "91325",
+      "zip_ext": "",
+      "generic_name": "Automated insulin dosing device system, single hormonal control",
+      "trade_name": "MiniMed 780G System",
+      "product_code": "OZP",
+      "advisory_committee": "CH",
+      "advisory_committee_description": "Clinical Chemistry",
+      "supplement_type": "Panel Track",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2025-04-30",
+      "decision_date": "2025-12-11",
+      "docket_number": "25M-7061",
+      "fed_reg_notice_date": "2025-12-16",
+      "decision_code": "APPR",
+      "ao_statement": "Approval of expanding the compatible insulins for use with the MiniMed 780G system to include Fiasp and Lyumjev.",
+      "openfda": {
+        "registration_number": [
+          "3014353045",
+          "3012118659",
+          "3009882464",
+          "3038419886",
+          "3004167884",
+          "3014498598",
+          "3009171251",
+          "1000134386",
+          "2032227",
+          "3042027705",
+          "3011121740",
+          "2134850",
+          "3006371704",
+          "1810909",
+          "1037998",
+          "3011393376"
+        ],
+        "fei_number": [
+          "3003007876",
+          "3010700165",
+          "3014353045",
+          "3009882464",
+          "3012118659",
+          "3006759904",
+          "3038419886",
+          "3004167884",
+          "3014498598",
+          "1000134386",
+          "3042027705",
+          "3003166194",
+          "3006371704",
+          "1810909",
+          "1037998",
+          "3011393376"
+        ],
+        "device_name": "Automated Insulin Dosing Device System, Single Hormonal Control",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    }
+  ]
+}

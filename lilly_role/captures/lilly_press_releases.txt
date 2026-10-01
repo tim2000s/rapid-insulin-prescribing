@@ -1,0 +1,11 @@
+ 
+ Press Releases | News | Eli Lilly and Company 
+spacer 
+large 
+spacer 
+medium 
+entirefeed 
+Press releases 
+100px 
+additionalPadding 
+narrow 
