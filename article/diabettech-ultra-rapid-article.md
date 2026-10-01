@@ -6,7 +6,7 @@ code that produces them are in the preprint and its repository, linked at the en
 
 ---
 
-As MiniMed, Insulet and CamDiab work to bring fully closed loop, a system that needs no meal boluses at all, into wider use, the system that decides which
+As MiniMed, Insulet, Tandem and CamDiab work to bring fully closed loop, a system that needs no meal boluses at all, into wider use, the system that decides which
 insulins people are offered has conspired to take away a key part of that equation: the fastest
 insulin available. This is a story of inertia, ineptitude and indifference.
 
@@ -246,7 +246,15 @@ including children. There, at least, demand grew where people were offered it.
 
 The loss matters most where closed loop is heading. A fully closed loop, with no meal boluses at all,
 has to catch a meal from the glucose rise alone, and the faster its insulin acts the less of the rise
-it misses. The large manufacturers are moving the same way. In March 2026 MiniMed presented a new algorithm, Vivera, at the ATTD conference in Barcelona, described as "a fully closed-loop insulin delivery system" in which "meal announcements become fully optional", with a feasibility study in 14 adults and 13 children and a pivotal trial to follow (as reported by Diabetech). Insulet has reported study results for a fully closed-loop version of its system in 2026. Neither report says which insulin was used. Both fully closed-loop systems tested in UK trials, CamDiab's CamAPS HX among them, were run on ultra-rapid insulin, Lyumjev in adults and Fiasp in adolescents. The authors of a UK trial comparing Lyumjev with standard lispro
+it misses. The large manufacturers are moving the same way. In May 2026 Insulet enrolled the first participant in
+EVOLVE, a pivotal randomised trial of up to 350 adults at 40 US sites, of a fully closed-loop system
+for type 2 diabetes that it says eliminates "user interactions for bolusing and mealtime
+announcements". In June 2026 MiniMed said it was about halfway through enrolling a pivotal trial of
+an algorithm, for type 1 as well as type 2 diabetes, that "would remove the need for pre-meal insulin
+doses"; in its early testing, people spent 82% of the time in range when they announced meals and
+about 74% when they did not. MedTech Dive described MiniMed as racing Insulet and Tandem, and MiniMed's chief product officer
+said: "we're clearly ahead right now." Neither company has said
+which insulin its system is designed around. Both fully closed-loop systems tested in UK trials, CamDiab's CamAPS HX among them, were run on ultra-rapid insulin, Lyumjev in adults and Fiasp in adolescents. The authors of a UK trial comparing Lyumjev with standard lispro
 in fully closed loop concluded that "Further advancements in faster-acting insulins are needed to
 alleviate the burden of pre-meal bolusing and enhance fully closed-loop performance in the future."
 As one person put it in September 2026: "every minute counts with a system working on a time offset."
