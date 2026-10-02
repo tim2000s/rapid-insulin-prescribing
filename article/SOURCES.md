@@ -42,7 +42,7 @@ Sources for "Losing Lyumjev: how the system let its patients down", in approxima
 38. National Institute for Health and Care Excellence. Type 1 diabetes in adults: diagnosis and management (NG17), recommendations 1.7.10 to 1.7.12. Published 26 August 2015, last updated 17 August 2022. https://www.nice.org.uk/guidance/ng17
 39. Norfolk and Waveney Therapeutics Advisory Group. Biosimilar insulin aspart (Trurapi) position statement, version 1.1. September 2025.
 40. Cheshire and Merseyside Area Prescribing Group. Biosimilar insulin aspart position statement. Approved 19 September 2024.
-41. NHS Dorset. Primary care medicines optimisation incentive scheme 2026/27. 31 March 2026.
+41. NHS Dorset Medicines Optimisation. Insulin aspart biosimilar switch (prescribing incentive scheme 2026/27, PINH 2627). 31 March 2026. https://nhsdorset.nhs.uk/medicines/value/insulin-aspart/ (accessed 2 October 2026)
 42. Diabetes Forum (diabetes.co.uk). Fiasp experiences, thread, June 2017. https://www.diabetes.co.uk/forum/threads/fiasp-experiences.121804/
 43. Diabetes.co.uk. New faster-acting insulin Fiasp now available in the UK. 11 April 2017. https://www.diabetes.co.uk/news/2017/apr/new-faster-acting-insulin-fiasp-now-available-in-the-uk-97369705.html
 44. Scottish Medicines Consortium. Guidance on medicines outwith SMC remit. Updated October 2020. https://www.scottishmedicines.org.uk/media/5429/guidance-on-medicines-outwith-smc-remit-october-2020.pdf

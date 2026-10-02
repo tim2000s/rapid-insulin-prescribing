@@ -246,8 +246,8 @@ under 6% of the rapid-acting insulin dispensed in England.
 From 2021 there was a cheaper insulin to protect. Trurapi and the other biosimilars are about 30%
 cheaper than NovoRapid and work at the same speed. Norfolk and Waveney estimated that moving 80% of
 people from NovoRapid to Trurapi would save about £340,000 a year, and Cheshire and Merseyside about £1
-million. Dorset now pays primary care networks to get biosimilar aspart above half of all aspart
-prescribing. Those documents exclude Fiasp from the switch, but once Trurapi is first choice an
+million. NHS Dorset's [2026/27 prescribing incentive scheme](https://nhsdorset.nhs.uk/medicines/value/insulin-aspart/)
+asks primary care networks to make biosimilar aspart at least half of all aspart prescribing. Those documents exclude Fiasp from the switch, but once Trurapi is first choice an
 ultra-rapid insulin becomes a second step, and the trial evidence gives that step little to stand on.
 Trurapi reached 7.5% of units within five years. Lyumjev, after six, is at 3.7%.
 
