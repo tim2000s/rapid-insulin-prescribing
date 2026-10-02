@@ -242,6 +242,25 @@ plays a part. Tresiba still reached places the faster mealtime insulins did not.
 insulin in primary care goes to people with type 2 diabetes, so these are not the same patients, and
 the timing fits the trials without showing that they caused the rise.
 
+Abroad the route differs, and appraisal can shut a door as well as open one. France's assessment
+committee re-rated Tresiba in 2019 as a minor improvement over glargine (ASMR IV) for people at high
+risk of hypoglycaemia, on the strength of those trials, while it rated
+[Fiasp](https://www.has-sante.fr/jcms/c_2788573) and [Lyumjev](https://www.has-sante.fr/jcms/p_3190312) as no improvement (ASMR V). In Germany
+every benefit assessment of degludec found no added benefit, and
+[Novo Nordisk took Tresiba off the market](https://www.deutsche-apotheker-zeitung.de/news/artikel/2015/12/16/endgultiges-aus-fur-tresiba)
+from January 2016 until December 2018. Australia's
+[PBAC rejected it](https://www.pbs.gov.au/industry/pbac/psd/2013/03/insulin-psd-032013.pdf) in
+2013, and it was subsidised only from July 2026, while Fiasp was listed there by the end of 2019 at
+the same price as NovoRapid. Outside Australia, wherever both can be measured, Tresiba now takes a larger share of
+long-acting insulin than the ultra-rapid insulins take of rapid-acting: 22% against 15% in France in
+2025, 41% against 11% in Denmark, and 20% against 9% in the US Medicare drug programme in 2024
+([figures](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/international/output/BASAL_INTL.md)).
+Price parity for the faster insulins was also a mostly British arrangement. In France Fiasp is listed
+at €2.09 per 100 units against €1.48 for NovoRapid, and in Denmark at 32.1 kroner against 16.7.
+Denmark's reimbursement committee counted Fiasp among "de dyrere lægemidler" (the more expensive
+medicines) in 2019, and since 2022 it has been reimbursed only for people whose after-meal glucose is
+not managed on another rapid insulin.
+
 ### Cost before biosimilars
 
 For much of the period, the price of the insulin offers little explanation. Lyumjev has cost English
@@ -430,6 +449,32 @@ Wales shows it did not have to go this way. Across a whole nation a third of rap
 dispensed is ultra-rapid, and in one health board more than half. I cannot tell from these data
 exactly why Wales is different, and it is the question I would most like answered while the UK still
 has Lyumjev.
+
+What I want to see now is the diabetes charities and patient organisations of Europe standing up and
+being counted, and so far they have barely made a sound. I found nothing from Diabetes UK about
+Lyumjev; its page on insulin supply deals with the Humulin vials. Norway's diabetes association
+reported the withdrawals and quoted a professor reassuring readers that there were good alternatives
+to every insulin going. diabetesschweiz complained to Lilly, then passed on Lilly's explanation that
+hardly anyone used it. Reporting a withdrawal and relaying the manufacturer's reasons is the least an
+organisation can do, and these organisations exist to speak for the people who use these insulins.
+They should be demanding that the faster insulins stay on the market, that they are part of the fully
+closed-loop systems now in trials, that formularies stop parking them behind the insulin people are
+already on, and that clinicians offer them to everyone who might benefit and let each person decide
+for themselves whether to turn them down. When they stay quiet, the manufacturer's account of low
+demand is the only one anyone hears.
+
+Is this a failure of the system? Yes, at every level, and nobody escapes the blame. The licensing
+trials were built to show the new insulins were no worse on HbA1c, and that was read as showing they
+were no better. NICE left its mealtime insulin advice as it stood in 2015, looked at it again in
+January 2026 and left it there. The Scottish and Welsh appraisal bodies wrote rules that left Lyumjev
+without a decision in either country, and Northern Ireland, which depends on them, inherited the gap.
+Formulary committees left it off or put it behind the insulin people were already using, while
+finding a written place for Tresiba, which costs a third more than Lantus. Consultants told people who
+asked for a faster insulin that they were too well controlled to need one. Lilly priced Lyumjev the
+same as Humalog and then, as far as the public record shows, did almost nothing to make the case for
+it in the UK, and did not even tell the Swiss patient organisation that it was going. The charities,
+whose whole purpose is to make noise about exactly this, have barely raised their voices. The cost of
+all of it falls on the people with diabetes who were never offered the choice.
 
 ## The limits
 

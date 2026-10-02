@@ -67,11 +67,12 @@ def main():
             title = "Replacement paragraph"
         else:
             where = f"Insert after {last(before)}" + (f" and before {first(after)}." if after else ".")
-            title = "New subsection" if new[0].startswith("#") else "New paragraph"
+            title = ("New subsection" if new[0].startswith("#") else
+                     "New paragraphs" if len(new) > 1 else "New paragraph")
         changes.append(dict(title=title, where=where, md=new))
     srcs = (HERE / "SOURCES.md").read_text().split("\n", 2)[2].strip()
     changes.append(dict(title="New: sources at the foot", where="Add at the very end of the post, after the closing "
-                        "paragraph \"...The sources follow.\": a heading \"Sources\" and the numbered list (60 entries).",
+                        f"paragraph \"...The sources follow.\": a heading \"Sources\" and the numbered list ({sum(1 for ln in srcs.splitlines() if re.match(r'[0-9]+[.] ', ln))} entries).",
                         md=["## Sources", srcs]))
 
     heads = {"Replacement paragraph": "", "New paragraph": "", "New subsection": ""}
