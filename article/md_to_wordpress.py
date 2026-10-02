@@ -4,12 +4,18 @@ lists). An optional third argument names a sources file (SOURCES.md), which is a
 both take it from there.
 
     python3 md_to_wordpress.py article.md article-wordpress.html SOURCES.md
+
+The output is the post body only: everything up to the first horizontal rule (title and preamble) is
+left out, since WordPress holds the title, and the published post carries neither. Image file names
+are replaced by their uploaded media URLs from wordpress_media.json beside the script.
 """
-import html, re, sys
+import html, json, re, sys
 from pathlib import Path
 
 src = Path(sys.argv[1]); out = Path(sys.argv[2])
 text = src.read_text()
+text = text.split("\n---\n", 1)[1]                      # body starts after the title and preamble
+media = json.loads((Path(__file__).parent / "wordpress_media.json").read_text())
 if len(sys.argv) > 3:
     srcs = Path(sys.argv[3]).read_text().split("\n", 2)[2]   # drop the file's own heading
     text = text.rstrip() + "\n\n## Sources\n\n" + srcs.strip() + "\n"
@@ -34,7 +40,7 @@ for b in blocks:
     elif b == "---":
         parts.append('<!-- wp:separator -->\n<hr class="wp-block-separator has-alpha-channel-opacity"/>\n<!-- /wp:separator -->')
     elif (m := re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)):
-        cap, img = inline(m.group(1)), m.group(2)
+        cap, img = inline(m.group(1)), media.get(m.group(2), m.group(2))
         parts.append(f'<!-- wp:image {{"sizeSlug":"large"}} -->\n<figure class="wp-block-image size-large"><img src="{img}" alt="{html.escape(" ".join(m.group(1).split()))}"/><figcaption class="wp-element-caption">{cap}</figcaption></figure>\n<!-- /wp:image -->')
     elif re.match(r"\d+\. ", b):
         items = re.split(r"\n(?=\d+\. )", b)

@@ -3,7 +3,7 @@
 *The usual preamble. This is analysis of published dispensing data, published trials and public
 statements, not advice about which insulin anyone should use. The method, every number and the code
 that produces them are in the [repository](https://github.com/tim2000s/rapid-insulin-prescribing),
-and the sources are listed there too.*
+and the sources are listed at the end.*
 
 ---
 
@@ -35,8 +35,7 @@ each one reached the UK, some of the time on private prescription, because I rea
 and the trials and decided that an insulin which starts working sooner was worth having. I built
 Boost, the open-source automated insulin delivery algorithm I develop, around the pharmacology of
 Lyumjev, and with it my own time in range (3.9 to 10 mmol/L) was about 83% between 1 April and 31
-August 2026, without announcing meals or bolusing for them. That is one person using experimental
-software.
+August 2026, without announcing meals or bolusing for them. This is a major reason for my concern.
 
 ## What is being lost
 
