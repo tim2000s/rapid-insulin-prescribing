@@ -17,6 +17,12 @@ from pathlib import Path
 
 from md_to_wordpress import convert
 
+import docx
+from docx.enum.text import WD_COLOR_INDEX
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Pt, RGBColor
+
 HERE = Path(__file__).parent
 OUT = HERE / "additions"
 PUBLISHED = "b6d7a42"
@@ -91,7 +97,68 @@ def main():
     OUT.mkdir(exist_ok=True)
     (OUT / "changes_since_publication.md").write_text("\n".join(L) + "\n")
     (OUT / "changes_since_publication_wordpress.html").write_text("\n".join(H) + "\n")
+    write_docx(changes, OUT / "Losing Lyumjev - updates since publication.docx")
     print("\n".join(f"{n}. {c['title']} | {c['where']}" for n, c in enumerate(changes, 1)))
+
+
+def add_link(par, text, url):
+    """python-docx has no hyperlink API; this builds the w:hyperlink element with a relationship."""
+    rid = par.part.relate_to(url, docx.opc.constants.RELATIONSHIP_TYPE.HYPERLINK, is_external=True)
+    h = OxmlElement("w:hyperlink")
+    h.set(qn("r:id"), rid)
+    r = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    for tag, val in (("w:color", "1155CC"), ("w:u", "single")):
+        e = OxmlElement(tag)
+        e.set(qn("w:val"), val)
+        rpr.append(e)
+    r.append(rpr)
+    t = OxmlElement("w:t")
+    t.text = text
+    t.set(qn("xml:space"), "preserve")
+    r.append(t)
+    h.append(r)
+    par._p.append(h)
+
+
+def add_text(par, text):
+    """Markdown links and bare URLs become hyperlinks; everything else is plain text."""
+    pat = re.compile(r"\[([^\]]+)\]\((https?://[^)]+)\)|(https?://[^\s)]+[^\s.,)])")
+    pos = 0
+    for m in pat.finditer(text):
+        par.add_run(text[pos:m.start()])
+        add_link(par, m.group(1) or m.group(3), m.group(2) or m.group(3))
+        pos = m.end()
+    par.add_run(text[pos:])
+
+
+def write_docx(changes, path):
+    d = docx.Document()
+    st = d.styles["Normal"]
+    st.font.name, st.font.size = "Georgia", Pt(11)
+    d.add_heading("Losing Lyumjev: updates since publication", 0)
+    d.add_paragraph("Each update below is headed with where it goes in the live post. Text in the shaded "
+                    "\"Where to add it\" line is an instruction and is not part of the article; everything under it "
+                    "is the text to add. Links are live and can be pasted into WordPress as they are. The WordPress "
+                    "block HTML for the same updates is in changes_since_publication_wordpress.html in this folder.")
+    for n, c in enumerate(changes, 1):
+        label = c["title"] + (f": {c['md'][0][4:]}" if c["md"][0].startswith("### ") else "")
+        d.add_heading(f"Update {n}. {label}", 1)
+        w = d.add_paragraph()
+        run = w.add_run("Where to add it: ")
+        run.bold = True
+        r2 = w.add_run(c["where"])
+        for r in (run, r2):
+            r.font.highlight_color = WD_COLOR_INDEX.YELLOW
+        for b in c["md"]:
+            if b.startswith("### ") or b.startswith("## "):
+                h = d.add_heading(b.lstrip("# ").strip(), 3 if b.startswith("### ") else 2)
+            elif re.match(r"\d+\. ", b):
+                for item in re.split(r"\n(?=\d+\. )", b):
+                    add_text(d.add_paragraph(style="List Number"), norm(re.sub(r"^\d+\. ", "", item)))
+            else:
+                add_text(d.add_paragraph(), norm(b))
+    d.save(path)
 
 
 if __name__ == "__main__":
