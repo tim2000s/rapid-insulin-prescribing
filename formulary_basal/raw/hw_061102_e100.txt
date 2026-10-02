@@ -1,0 +1,4 @@
+ 
+ Microsoft SQL Server Native Client 11.0 error '80004005' 
+ TCP Provider: Timeout error [258]. 
+ /functions/getSubChapters.asp , line 28 

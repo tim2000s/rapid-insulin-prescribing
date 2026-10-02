@@ -1,0 +1,10 @@
+nenc_061102 https://www.northeastnorthcumbriaformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+kent_061102 https://www.kentandmedwayformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+swl_061102 https://www.swljointmedicinesformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+bsol_061102 https://www.birminghamandsurroundsformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+ncl_061102 https://www.ncl-jointformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+nw_061102 https://www.norfolkandwaveneyformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+notts_061102 https://www.nottsapc.nhs.uk/formulary/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+bsw_061102 https://bswformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+panmersey_061102 https://www.formulary.panmerseyapc.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+cm_061102 https://www.cheshireandmerseysideformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02

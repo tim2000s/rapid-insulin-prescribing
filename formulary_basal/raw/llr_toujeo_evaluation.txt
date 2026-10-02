@@ -1,0 +1,267 @@
+                         Product Submission to the Therapeutic Advisory Service
+                                   Meeting Date: 8th September 2015
+
+Toujeo:      U300     Insulin      Glargine     requested       by    Dr     Kong,      Consultant       Diabetologist
+
+TAS Minutes / Decision:
+This is a licensed, more concentrated product which could be used in place of U500 insulin. TAS
+members were broadly supportive of use but concerns expressed about the number of insulins available,
+particularly as biosimilar insulin glargine has just been launched. The speciality is asked to review current
+choices with a view to rationalisation. Further members wished to know if this would replace U500 insulin
+completely
+TAS decision: Deferred
+
+October 15:
+Feedback from diabetologists was that this couldn’t directly replace an existing product but it has a
+specific place in therapy. Re rationalisation of products there were some concerns within the speciality
+that not having an extensive range of products available could result in missed doses with dire
+consequences. Notwithstanding they would look at currently available products with a view to
+rationalisation but with the caveat above. LG advised that she could supply current primary care data to
+support this review. There were still governance and risk concerns expressed by the committee about the
+number of products available. It was agreed by TAS that following establishing current product use if we
+could identify small usage of specific products then controlled switching could be considered.
+
+TAS decision: Supported for use. Review of current prescribing to be undertaken with a view to reducing
+the number of products available
+
+                                    INFORMATION SUPPLIED BY REQUESTOR
+
+Consultant              Dr Marie-France Kong         Clinical Management             Acute Medicine / ED
+                                                     Group                           Specialist Medicine
+Speciality              Diabetes                     CMG Support for                 Pending
+                                                     Funding
+Drug Name            Insulin Glargine 300            Drug Name Proprietary           Toujeo®
+Generic              units/mL
+Formulation and strength                             Insulin glargine 300 units/mL
+
+Typical Maintenance dose                             30 to 450 units daily
+
+Clinical Indication: Diabetes mellitus in adults
+
+Licensed Indication? Yes                             Licensed product? Yes
+
+Are patients currently using this agent in           How many patients per year? Initially 50-60 per year
+UHL as part of a clinical trial? No
+
+                            INFORMATION SUPPLIED BY MEDICINES INFORMATION
+SUMMARY
+
+       Toujeo® (Insulin glargine 300units/mL) is a long acting insulin analogue for treatment of diabetes mellitus in
+        adults
+       Several randomised controlled trials have shown Toujeo® to be non-inferior to Lantus® (Insulin glargine
+        100units/mL) in terms of safety and efficacy
+       Toujeo® was associated with a lower incidence of confirmed hypoglycaemia or nocturnal hypoglycaemic
+        episodes when compared to Lantus®
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+       The cost is similar to other long acting insulin analogues and lower than the imported, unlicensed U500
+        insulin
+
+
+COST                  Product               Manufacturer        Dose              Cost per       Cost for whole packs
+COMPARISON *                                                                      dose           dispensed**
+For 28 days           Toujeo® (Insulin      Sanofi-Aventis      50 units daily    £1.23          £44.17 (4x1.5mL pens
+treatment             glargine U300)                                                             providing 1800 units)
+                      Lantus® (Insulin      Sanofi-Aventis      50 units daily    £1.38          £41.50 (5x3mL pens
+                      glargine U100)                                                             providing 1500 units)
+                      Levemir® (Insulin     Novo-Nordisk        50 units daily    £1.40          £42.00 (5x3mL pens
+                      detemir U100)                                                              providing 1500 units)
+                      Tresiba® (Insulin     Novo-Nordisk        50 units daily    £2.40          £86.40 (3x3mL pens
+                      degludec U200)                                                             providing 1800 units)
+                      U500 Insulin          Lilly USA           50 units daily    £1.25          £250.74 (1 20mL vial
+                      (unlicensed)          (imported)                                           providing 10000units)
+* eMIMS 02/09/2015
+**Hospital prices may vary
+
+Patent Expiries of note: Insulin glargine (brand name not specified): May 2015
+Current Status
+TAS                                                      Not previously reviewed
+NICE                                                     ESNM due October 2015
+SMC                                                      Due September 2015
+Pharmaceutical Risk assessment                           Low
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+                                                   Literature Search
+
+
+Background
+In patients with type 2 diabetes requiring insulin, basal insulin is often preferred as they are associated with fewer
+incidents of hypoglycaemia and less weight gain. This new 300unit/ml insulin glargine has been shown to be safe
+and effective when compared to 100units/ml insulin glargine [1].
+
+Current Use (Local)
+Long acting insulins on the Leicestershire Medicines Formulary include insulin glargine, insulin detemir and insulin
+degludec. In addition there are several patients managed on U500 insulin (Humulin R) [2].
+
+Current Use (Other centres)
+Not known
+
+Clinical Trials
+The key trials investigating the safety and efficacy of Toujeo® come from the EDITION series. EDITION 1, 2 and 3
+were all multi-centre, randomised, open-label, two arm, parallel group, phase III studies enrolling adults with a
+diagnosis of type 2 diabetes mellitus. Each study included a 2-week screening phase, a 6-month treatment period
+followed by a 6-month safety extension period. EDITION 4 compared insulin glargine 300 units/mL with insulin
+glargine 100 units/mL in patients with type 1 diabetes.
+
+EDITION 1
+Patients enrolled in EDITION 1 were current users of basal (≥42 units daily) and mealtime insulin therapy with an
+HbA1c between 7.0 and 10%. Of the 807 patients enrolled, 404 received insulin glargine 300 units/mL (Gla-300) and
+403 received insulin glargine 100 units/mL (Gla-100). The primary end point was HbA1c change from baseline to
+month 6. The main secondary efficacy endpoint was the percentage of patients with one or more confirmed (≤3.9
+mmol/L) or severe nocturnal hypoglycaemic event reported between week 9 and month 6. Baseline HbA1c was
+8.15% and 8.16% for the Gla-300 and Gla-100 groups respectively. At the end of the 6 month treatment period mean
+HbA1c had decreased to 7.25% (SD 0.85) with Gla-300 vs. 7.28% (SD 0.92) with Gla-100 which was shown to meet
+the non-inferiority criteria (LS mean change -0.83% (SE 0.06) for both groups, difference -0.00%; 95%CI -0.11 to
+0.11). The proportion of participants with one or more confirmed hypoglycaemic event or severe nocturnal
+hypoglycaemia in the Gla-300 group was 36% compared to 46% in the Gla-100 group (p=0.0045) [3].
+
+EDITION 2
+Patients enrolled in EDITION 2 were current users of basal insulin (≥42 units daily) and oral antihyperglycaemic
+drugs (except sulphonylureas) with an HbA1c between 7.0 and 10%. A total of 811 patients were randomised to
+receive Gla-300 (n=404) or Gla-100 (n=407). Efficacy and safety analysis included change in HbA1c, total daily
+insulin dose, body weight and confirmed (≤3.9 mmol/L) hypoglycaemic events. The mean HbA1c decreased from
+baseline to month 12 in both groups. At month 12 the mean HbA1c for Gla-300 was 7.62% (SD 1.03) vs. 7.64% (SD
+1.21) in the Gla-100 group (LS mean difference -0.06; 95%CI: -0.22 to 0.1%; p value not stated).Over the treatment
+period insulin doses increased in both groups. The mean dose of Gla-300 was 0.97 units/kg/day compared to 0.87
+units/kg/day of Gla-100 (mean difference 0.11 (SE 0.02), p<0.0001 at month-12). The mean change (SD) in body
+weight was statistically significantly lower with Gla-300 (0.4 (4.1) kg) than Gla-100 (1.2 (3.6) kg) (LS mean difference
+at month 12 was -0.7; 95% CI: -1.3 to -0.2kg; p=0.009). The number of patients with confirmed hypoglycaemic
+events was lower in the Gla-300 group compared to the Gla-100 group (numbers not stated) however this was not
+statistically significant [4].
+
+EDITION 3
+Patients enrolled EDITION 3 were insulin naive patients using oral anti hyperglycaemics, with an HbA1C between 7
+and 11%. Patients were randomised to receive Gla-300 (n=439) or Gla-100 (n=439). The primary endpoint was
+change in HbA1C from baseline to month 6. The main secondary end point was the percentage of patients
+experiencing one or more nocturnal confirmed or severe hypoglycaemic event reported between week 9 and month
+6. Additional secondary endpoints included mean change in basal insulin dose, and body weight. The mean
+decrease in HbA1c was equivalent in the two treatment groups at month 6 (LS mean difference in change of HbA1c:
+0.04%; 95% CI -0.09 to 0.17). Therefore non-inferiority was shown. The percentage of patients experiencing at least
+one nocturnal hypoglycaemic event was 16% with Gla-300 vs. 17% with Gla-100 (RR 0.89; 95% CI 0.66 to 1.2). The
+mean insulin dose increased in both groups over the treatment period but more so in the Gla-300 group to mean
+dose of 0.62 (0.29) units/kg/day with Gla-300 and to 0.53 (0.24) units/kg/day with Gla-100. Weight gain was lower
+with Gla-300 (LS mean increase 0.49kg; 95% CI 0.14 to 0.83) compared to Gla-100 (LS mean increase 0.71kg 95%
+CI 0.36 to 1.06) although this difference was found to be non-significant [5].
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+EDITION 4
+Patients enrolled in this study had type 1 diabetes, an average HbA1c of 8.1% and used basal-bolus insulin. A total
+of 549 patients were randomised 1:1:1:1 to received once daily Gla-300 or Gla-100, morning or evening, while
+continuing their mealtime insulin. Gla-300 was non-inferior to Gla-100 for HbA1c change from baseline (primary
+endpoint) (LS mean change [SE] - 0.40 [0.05] % and - 0.44 [0.05] %; LS mean difference 0.04 [95% CI: - 0.10 to
+0.19] %). Event rates of confirmed (≤3.9 mmol/L]) or severe hypoglycemia at any time (24 h) were similar for the two
+groups; nocturnal hypoglycemia was lower for Gla-300 versus Gla-100 during the first 8 weeks. Severe
+hypoglycemia was observed in 6.6% (Gla-300) and 9.5% (Gla-100) of participants. Neither glycemic control nor
+hypoglycemia differed between insulins or times for morning and evening injection groups. Total insulin dose
+increased more with Gla-300 versus Gla-100 (change from baseline + 0.19 versus + 0.10 U/kg). However weight
+gain was significantly lower with Gla-300 versus Gla-100 (LS mean difference - 0.56 [-1.09 to -0.03] kg, p = 0.037)
+[7].
+
+Adverse Effects / safety issues
+Across the EDITION 1, 2 and 3 studies no between-treatment differences in safety profile were identified. Treatment-
+emergent adverse events (TEAEs) were reported by 712 (57.3%) participants in the Gla-300 groups and 669
+(53.7%) participants in the Gla-100 groups. The most common TEAEs were infection and infestations, nervous
+system disorders, GI disorders, musculoskeletal and connective tissue disorders and administration site conditions.
+In total, across all 3 studies 17 (1.4%) Gla-300 participants and 16 (1.3%) Gla-100 participants discontinued
+treatment due to a TEAE. No deaths were considered related to the study mediation in any of the trials [1]. No
+difference was seen between the groups in the EDITION 4 study [6]
+
+Other points to note
+    NICE are considering an insulin glargine biosimilar and are due to publish an ESNM for this in October 2015.
+    The U100 and U300 glargine preparations are not bio equivalent and a dose conversion is needed. When
+       switching from insulin glargine 100 units/ml to Toujeo a higher dose (approximately 10-18%) may be needed
+       to achieve target ranges for plasma glucose levels [7]
+    U500 is excluded to tariff; Insulin glargine 300units/mL is not.
+
+References
+
+    1. Ritzel R., Roussel R., Bolli G.B., et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies:
+       glycemic control and hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people
+       with type 2 diabetes. Diabetes Obesity and Metabolism. 2015; 17:859-867.
+    2. Leicestershire Medicines Formulary available at http://netformulary.xuhl-tr.nhs.uk/netformulary/ <accessed
+       <01/09/2015>
+    3. Riddle M.C., Bolli G.B., Ziemen M., et al. New Insulin Glargine 300 Units/mL versus Glargine 100 Units/mL in
+       People With Type 2 Diabetes Using Basal and Mealtime Insulin: Glucose Control and Hypoglycemia in a 6-
+       month Randomised Controlled Trial (EDITION 1). Diabetes Care. 2014; 37: 2755-2762
+    4. Yki-Jarvinen H., Bergenstal R.M., Bolli G.B., et al. Glycaemic control and hypoglycaemia with new insulin
+       glargine 300U/mL versus glargine 100U/mL in people with type 2 diabetes using basal insulin and oral
+       antihyperglycaemic drugs (EDITION 2 randomised 12-month trial including 6-month extension) Diabetes
+       Care. 2014; 37(12):3235-3243
+    5. Bolli G.B., Riddle M.C., Bergenstal R.M., et al. New insulin glargine 300 U/ml compared with glargine 100
+       U/ml in insulin naive people with type 2 diabetes on oral glucose-lowering drugs: a randomised controlled
+       trial (EDITION 3). Diabetes, Obesity and Metabolism. 2015; 17: 386-394
+    6. Home P.D., Bergenstal R., Riddle M.C., et al. Glycemic control and hypoglycaemia with new insulin glargine
+       300 U/mL in people with type 1 diabetes (EDITION 4). Diabetes Technology and Therapeutics. 2015;
+       17:A103-A104
+                     ®
+    7. SPC Toujeo (Insulin glargine ) accessed at www.medicines.org.uk last updated 22/06/2015 <accessed
+       01/09/2015>
+
+
+Kelly Thompson, Medicines Information Pharmacist
+Leicestershire Medicines Information Service
+Date 02/09/2015
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+Additional Information supplied by requestor
+
+Place in therapy / Advantages over existing treatments. Include which drugs (if any) this will replace
+Toujeo® is a long acting analogue insulin with a duration of action >24 hours after a single injection and it shows low
+day-to-day variability of glucose-lowering effect within-subjects. Compared to Lantus, Toujeo® offers a more stable
+and prolonged activity profile, lasting beyond 24 hours, similar rates of confirmed (≤3.9 mmol/L) total hypoglycaemia
+in patients with type 1 diabetes, with similar HbA1c reduction and a lower incidence of confirmed (≤3.9 mmol/L) total
+hypoglycaemia in patients with type 2 diabetes, with similar HbA1c reduction and once daily dosing with the benefit
+of flexibility when needed (± 3 hours). It is a new basal higher strength insulin preparation available in the UK for both
+type 1 and type 2 patients requiring analogue long acting insulin. In addition it will benefit patients who are insulin
+resistant and requiring large doses of insulin. It is administered with a pre-filled pen injector that is calibrated for the
+strength of insulin therefore significantly reducing the risk associated with U500 Humulin R®. (Patients on U500
+currently use U100 insulin syringes which administer 5x the stated number of units on the syringe per injection.)
+*Shelf life of 30 months vs. 28 days. Potential for less wastage according to dose required. Toujeo® will also be an
+alternative to unlicensed U500 Humulin R® in treating insulin resistant patients who require >200 units insulin per
+day to achieve adequate glycaemic control. This includes switching a proportion of those currently taking doses of
+U500 Humulin R® at the lower end of the dose range, and thereafter starting insulin resistant patients on this product
+before progressing to unlicensed U500 Humulin R®. Toujeo® (U300 insulin glargine) would be used to provide the
+basal requirement with prandial doses of standard (U100) strength short-acting insulin. The cost of Toujeo® is
+comparable to insulin glargine U100. Procurement, prescribing, and dispensing are standard rather than a unique
+process requiring additional pharmacy resources to administer for an unlicensed drug.
+
+*Not able to confirm 28 day shelf life, expiry is not reduced by out patient pharmacy and products have standard
+shelf life when they are received into stock.
+
+DOI: Members of the Department have at various times received speaker fees, sponsored places at meetings, and
+educational support from Sanofi. Individual consultants serve or have served on its advisory board.
+
+References provided:
+   1. Riddle M et al. on behalf of the EDITION 1 Study Investigators. New Insulin Glargine 300 Units/mL Versus
+       Glargine 100 Units/mL in People with Type 2 Diabetes Using Basal and Mealtime Insulin: Glucose Control
+       and Hypoglycemia in a 6-Month Randomized Controlled Trial (EDITION 1). Diabetes Care 2014; 37:2755–
+       2762 | DOI: 10.2337/dc14-0991.
+   2. Yki-Jarvinen H et al on behalf of the EDITION 2 Study Investigators. New Insulin Glargine 300Units/mL
+       Versus Glargine 100 Units/mL in People With Type 2 Diabetes Using Oral Agents and Basal Insulin: Glucose
+       Control and Hypoglycemia in a 6-Month Randomized Controlled Trial (EDITION 2). Diabetes Care 2014;
+       37:3235–3243 | DOI: 10.2337/dc14-0990.
+
+Pharmacoeconomic category
+D – New Treatment less expensive or similar cost and more effective than comparable therapy.
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+

@@ -1,0 +1,31 @@
+Source: https://www.nice.org.uk/guidance/ng17/chapter/Recommendations, read 2 October 2026. Extract of section 1.7 (insulin therapy) for adults with type 1 diabetes.
+
+1.7.1 Offer multiple daily injection basal–bolus insulin regimens as the insulin injection regimen of choice for all adults with type 1 diabetes. Provide guidance on using this regimen. [2015]
+
+1.7.2 Do not offer adults newly diagnosed with type 1 diabetes non‑basal–bolus insulin regimens (that is, twice‑daily mixed, basal only or bolus only). [2015] Long-acting insulin Levemir insulin (insulin detemir), in both its Penfill and Flexpen presentations, is to be discontinued, with an anticipated supply end date of December 2026. A Medicine Supply Notification (MSN/2025/036U) has been issued about the discontinuation. For information on alternative basal insulins, see the Association of British Clinical Diabetologists and the Primary Care Diabetes & Obesity Society guidance on discontinuation of Levemir (insulin detemir) . NICE is assessing the impact of the discontinuation of insulin detemir on recommendations in this guideline.
+
+1.7.3 Offer twice‑daily insulin detemir as basal insulin therapy for adults with type 1 diabetes. [2021]
+
+1.7.4 Consider 1 of the following as an alternative basal insulin therapy to twice-daily insulin detemir for adults with type 1 diabetes: an insulin regimen that is already being used by the person if it is meeting their agreed treatment goals (such as meeting their HbA1c targets or time in target glucose range and minimising hypoglycaemia) once-daily insulin glargine (100 units/ml) if insulin detemir is not tolerated or the person has a strong preference for once‑daily basal injections once-daily insulin degludec (100 units/ml) if there is a particular concern about nocturnal hypoglycaemia once-daily ultra-long-acting insulin such as degludec (100 units/ml) for people who need help from a carer or healthcare professional to administer injections. There is a risk of severe harm and death due to inappropriately withdrawing insulin from pen devices. See NHS England's patient safety alert for further information. [2021]
+
+1.7.5 When starting an insulin for which a biosimilar is available, use the product with the lowest acquisition cost. [2021]
+
+1.7.6 Ensure the risk of medication errors with insulins is minimised by following Medicines and Healthcare products Regulatory Agency (MHRA) guidance on minimising the risk of medication error with high strength, fixed combination and biosimilar insulin products , which includes advice for healthcare professionals when starting treatment with a biosimilar. [2021]
+
+1.7.7 When people are already using an insulin for which a lower cost biosimilar is available, discuss the possibility of switching to the biosimilar. Make a shared decision with the person after discussing their preferences. [2021]
+
+1.7.8 Consider other basal insulin regimens for adults with type 1 diabetes only if the regimens in recommendations
+
+1.7.3 and
+
+1.7.4 do not meet their agreed treatment goals. When choosing an alternative insulin regimen, take account of: the person's preferences comorbidities risk of hypoglycaemia and diabetic ketoacidosis any concerns around adherence acquisition cost. [2021]
+
+1.7.9 When prescribing, ensure that insulins are prescribed by brand name. [2021] For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on long-acting insulin . Full details of the evidence and the committee's discussion are in evidence review A: long-acting insulins in type 1 diabetes . Rapid-acting insulin
+
+1.7.10 Offer rapid‑acting insulin analogues that are injected before meals, rather than rapid‑acting soluble human or animal insulins, for mealtime insulin replacement for adults with type 1 diabetes. [2015]
+
+1.7.11 Do not advise routine use of rapid‑acting insulin analogues after meals for adults with type 1 diabetes. [2015]
+
+1.7.12 If an adult with type 1 diabetes has a strong preference for an alternative mealtime insulin, respect their wishes and offer the preferred insulin. [2015] Mixed insulin
+
+1.7.13 Consider a twice‑daily human mixed insulin regimen for adults with type 1 diabetes if a multiple daily injection basal–bolus insulin regimen is not possible and a twice‑daily mixed insulin regimen is used. [2015] 

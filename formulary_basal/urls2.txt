@@ -1,0 +1,12 @@
+kent_061102b https://www.kentandmedwayformulary.nhs.uk/formulary/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+kent_home https://www.kentandmedwayformulary.nhs.uk/
+notts_home https://www.nottsapc.nhs.uk/formulary/
+llr_home https://www.leicestershireformulary.nhs.uk/
+gmmmg_home https://gmmmg.nhs.uk/formulary/
+lsc_home https://www.lancsmmg.nhs.uk/formulary/
+hiow_home https://www.hiowformulary.nhs.uk/
+devon_home https://www.devonformularyguidance.nhs.uk/
+hw_home https://www.hwformulary.nhs.uk/
+sel_home https://www.selondonjointmedicinesformulary.nhs.uk/
+humber_home https://www.humberformulary.nhs.uk/
+nyy_home https://www.nyyformulary.nhs.uk/

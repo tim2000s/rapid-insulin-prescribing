@@ -1,0 +1,8 @@
+lsc_lyumjev_ref https://lancsmmg.nhs.uk/medicines-library/insulin-lispro-lyumjev/
+lsc_degludec https://lancsmmg.nhs.uk/medicines-library/insulin-degludec-tresiba/
+lsc_toujeo https://lancsmmg.nhs.uk/medicines-library/insulin-glargine-toujeo/
+lsc_search_degludec https://lancsmmg.nhs.uk/?s=degludec
+lsc_search_toujeo https://lancsmmg.nhs.uk/?s=toujeo
+notts_jf https://www.nottsapc.nhs.uk/joint-formulary/
+gmmmg_search_degludec https://gmmmg.nhs.uk/?s=degludec
+gmmmg_search_toujeo https://gmmmg.nhs.uk/?s=toujeo

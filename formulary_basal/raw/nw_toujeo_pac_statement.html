@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Common meta tags -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" property="schema:description" content="">
+    <title property="schema:name"></title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;700;800&amp;display=swap">
+    <link rel="stylesheet" href="/css/blockgrid.css">
+    <!-- Core Css -->
+    <link href="/sb/head-css.css.v1" rel="stylesheet">
+    <!-- Additional Meta -->
+    <link rel="canonical" href="https://www.prescqipp.info/login/">
+</head>
+<body class=" bluetheme ">
+    
+<div class="modal fade" id="globalModal" tabindex="-1" aria-labelledby="globalModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-body">
+                ...Loading
+            </div>
+            <button type="button" class="btn-close position-absolute end-0 mt-1 me-1" data-bs-dismiss="modal" aria-label="Close">
+                <span class="visually-hidden" aria-hidden="true">close</span>
+            </button>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="tableauModal" tabindex="-1" aria-labelledby="tableauModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="tableauModalLabel">Loading...</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+        <div class="alert" role="alert" style="border-bottom:solid 1px #005eb8;text-align:center;margin-bottom:1rem;"><p></p></div>
+    <div class="container-xxl">
+        
+<header class="mb-3">
+    <div class="row justify-content-between">
+        <div class="col-12 col-sm mb-2 mb-sm-0">
+            <a href="/" title="PrescQIPP"><img src="/img/prescqipp-logo.png" alt="PrescQIPP" class="img-fluid" width="300"></a>
+        </div>
+        <div class="col-12 col-sm-auto text-end">
+            <div class="row">
+                <div class="col">
+                    <a href="https://bsky.app/profile/prescqipp.info" title="PrescQIPP on Bluesky" target="_blank" class="d-inline-block me-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-bluesky" viewBox="0 0 512 512">
+                            <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z" />
+                        </svg>
+                    </a>
+                    <a href="https://twitter.com/PrescQIPP" title="PrescQIPP on Twitter" target="_blank" class="d-inline-block me-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+                            <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z" />
+                        </svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/prescqipp" title="PrescQIPP on LinkedIn" target="_blank" class="d-inline-block">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                            <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm col-md mb-2 mb-sm-0 pe-sm-0">
+                        <form action="/search-page/" method="get">
+                            <div class="input-group">
+                                <input type="search" name="keyword" id="newsSearch" class="txtsearch" placeholder="Search" maxlength="50" aria-label="Search">
+                                <button class="btn btn-secondary" type="submit">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                                    </svg>
+                                </button>
+                            </div>
+                        </form>
+                </div>
+                <div class="col-sm-auto" id="header-buttons">
+                            <a href="/login/" class="btn btn-secondary" title="Register">Register</a>
+                            <a href="/login/?returnurl=/login/" class="btn btn-secondary" title="Login">Login</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <nav class="navbar navbar-expand-lg navbar-light flex-lg-row-reverse">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item dropdown">
+                                    <div class="btn-group d-flex flex-wrap">
+                                        <a class="nav-link"  href="/about-us/" title="Find out what we do, our principles, structure and history.">About us</a>
+                                        <a class="btn dropdown-toggle dropdown-toggle-split flex-fill" id="navDdl-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="visually-hidden">Toggle Dropdown</span>
+                                        </a>
+                                        <ul class="dropdown-menu w-100 w-lg-auto" aria-labelledby="navDdl-about-us">
+                                                <li><a class="dropdown-item"  href="/about-us/about-prescqipp/" title="Find out what we do, our principles, structure and history.">About PrescQIPP</a></li>
+                                                <li><a class="dropdown-item"  href="/about-us/governance/" title="Our Council of Members provides strategic oversight, ensures that we operate for the benefit of the community.">Governance</a></li>
+                                                <li><a class="dropdown-item"  href="/about-us/meet-the-team/" title="Find out about our team and their responsibilities.">Meet the team</a></li>
+                                                <li><a class="dropdown-item"  href="/about-us/stakeholders/" title="Stakeholders">Stakeholders</a></li>
+                                                <li><a class="dropdown-item"  href="/about-us/subscribers/" title="Details about the organisations that subscribe to our services and decide what we will produce in our annual work plan.">Subscribers</a></li>
+                                        </ul>
+                                    </div>
+                            </li>
+                            <li class="nav-item">
+                                    <a class="nav-link"  href="/news/" title="The latest news and updates.">News</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                    <div class="btn-group d-flex flex-wrap">
+                                        <a class="nav-link"  href="/our-resources/" title="Explore our extensive catalogue of support.">Our resources</a>
+                                        <a class="btn dropdown-toggle dropdown-toggle-split flex-fill" id="navDdl-our-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="visually-hidden">Toggle Dropdown</span>
+                                        </a>
+                                        <ul class="dropdown-menu w-100 w-lg-auto" aria-labelledby="navDdl-our-resources">
+                                                <li><a class="dropdown-item"  href="/our-resources/webkits/" title="Information hubs pulling together all resources and good practice in key therapeutic (e.g. diabetes) or strategic (e.g. polypharmacy) areas.">Webkits</a></li>
+                                                <li><a class="dropdown-item"  href="/our-resources/bulletins/" title="Evidence-based clinical guidance with practical implementation materials for local delivery, all robustly quality assured with input from key stakeholders.">Bulletins</a></li>
+                                                <li><a class="dropdown-item"  href="/our-resources/data-and-analysis/" title="A suite of powerful prescribing data intelligence reports, across strategic, financial, project (scorecards) and clinical (snapshots) areas.">Data and analysis</a></li>
+                                                <li><a class="dropdown-item"  href="/our-resources/resource-pipeline/" title="Details our most recently published resources and those passing through quality assurance.">Resource pipeline</a></li>
+                                                <li><a class="dropdown-item"  href="/our-resources/primary-care-rebates/" title="Details of the process and schemes assessed by our Pharmaceutical Industry Scheme Governance Review Board.">Primary Care Rebates</a></li>
+                                                <li><a class="dropdown-item"  href="/our-resources/prescqipp-podcast-talking-meds/" title="Monthly podcast with our host Jonathan Underhill and guests">PrescQIPP Podcast</a></li>
+                                        </ul>
+                                    </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                    <div class="btn-group d-flex flex-wrap">
+                                        <a class="nav-link"  href="/learning/" title="Improve your knowledge with webinars, skills training and e-learning.">Learning</a>
+                                        <a class="btn dropdown-toggle dropdown-toggle-split flex-fill" id="navDdl-learning" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="visually-hidden">Toggle Dropdown</span>
+                                        </a>
+                                        <ul class="dropdown-menu w-100 w-lg-auto" aria-labelledby="navDdl-learning">
+                                                <li><a class="dropdown-item"  href="/learning/webinars/" title="Details of all our forthcoming and recorded webinars">Webinars</a></li>
+                                                <li><a class="dropdown-item"  href="/learning/practice-plus/" title="PrescQIPP Practice Plus is a professional network which is free of charge for all our subscribers. ">Practice Plus</a></li>
+                                                <li><a class="dropdown-item"  href="/learning/leadership-at-lunch/" title="Six one-hour sessions covering the fundamental elements and considerations of leadership whether for projects, teams or systems.">Leadership at lunch</a></li>
+                                                <li><a class="dropdown-item"  href="/learning/therapeutic-workshops/" title="Details of facilitated training workshops on a range of key therapeutic topics that can be delivered virtually or in person. ">Therapeutic workshops</a></li>
+                                                <li><a class="dropdown-item"  href="/learning/e-learning-courses/" title="Details of all our published e-learning courses and flyers for promotion to colleagues.">E-learning courses</a></li>
+                                        </ul>
+                                    </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                    <div class="btn-group d-flex flex-wrap">
+                                        <a class="nav-link"  href="/community-resources/" title="Examples of innovation and best practice from our large community.">Community resources</a>
+                                        <a class="btn dropdown-toggle dropdown-toggle-split flex-fill" id="navDdl-community-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="visually-hidden">Toggle Dropdown</span>
+                                        </a>
+                                        <ul class="dropdown-menu w-100 w-lg-auto" aria-labelledby="navDdl-community-resources">
+                                                <li><a class="dropdown-item"  href="/community-resources/award-winners/" title="Details of the winning teams and projects from our Annual Awards ceremonies.">Award winners</a></li>
+                                                <li><a class="dropdown-item"  href="/community-resources/virtual-professional-groups/" title="Regular virtual meetings for subscribers to connect and share experiences on a range of important topics. ">Virtual professional groups</a></li>
+                                                <li><a class="dropdown-item"  href="/community-resources/innovation-and-best-practice/" title="Case studies of good practice from our community and NHS. Includes links to all entries to our annual awards.">Innovation and best practice</a></li>
+                                        </ul>
+                                    </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                    <div class="btn-group d-flex flex-wrap">
+                                        <a class="nav-link"  href="/help/" title="Information about how to get the most out of your subscription.">Help</a>
+                                        <a class="btn dropdown-toggle dropdown-toggle-split flex-fill" id="navDdl-help" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="visually-hidden">Toggle Dropdown</span>
+                                        </a>
+                                        <ul class="dropdown-menu w-100 w-lg-auto" aria-labelledby="navDdl-help">
+                                                <li><a class="dropdown-item"  href="/help/virtual-induction/" title="Hints and tips about how to get the most out of the site, resources and subscription.">Virtual induction</a></li>
+                                                <li><a class="dropdown-item"  href="/help/prescqipp-champions/" title="Help from colleagues to get the most out of PrescQIPP.">PrescQIPP Champions</a></li>
+                                                <li><a class="dropdown-item"  href="/help/help-centre/" title="Answers to the most frequently asked questions and queries and a form to contact us.">Help centre</a></li>
+                                                <li><a class="dropdown-item"  href="/help/useful-documents/" title="Links to our annual work plan, QA process, and annual report">Useful documents</a></li>
+                                        </ul>
+                                    </div>
+                            </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+</header>
+    </div>
+            <div class="container-xxl">
+            <div id="primary-theme">
+                        <div class="row">
+            <div class="col">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/" title="Home">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Login</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+
+                <div class="row">
+                    <div class="col">
+                        
+<div class="umb-block-grid__layout-container">
+    
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="fullWidthGridColumnArea"
+             data-content-element-type-key="b164956c-beb9-44ed-bca7-711ff687a4ef"
+             data-element-udi="umb://element/e53d0252017246dda1963de58d2dcca4"
+             data-col-span="12"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 12; --umb-block-grid--item-row-span: 1; ">
+            <div class="umb-block-grid__area-container"
+                 style="--umb-block-grid--area-grid-columns: 1;">
+
+<div class="umb-block-grid__area"
+     data-area-col-span="6"
+     data-area-row-span="1"
+     data-area-alias="Full"
+     style="--umb-block-grid--grid-columns: 6;--umb-block-grid--area-column-span: 6; --umb-block-grid--area-row-span: 1;">
+    
+<div class="umb-block-grid__layout-container">
+        <div class="umb-block-grid__layout-item"
+             data-content-element-type-alias="alertBlock"
+             data-content-element-type-key="cd2f0b26-5e20-40e4-9d74-5993287b36d7"
+             data-element-udi="umb://element/1dd890724d4341efa79d79c154f9f7c4"
+             data-col-span="6"
+             data-row-span="1"
+             style=" --umb-block-grid--item-column-span: 6; --umb-block-grid--item-row-span: 1; ">
+    <div class="alert alert-info" role="alert">
+            <h4>Important: Please note</h4>
+<ul>
+<li><strong><a href="/learn"><u>To access e-learning courses register or login to our e-learning platform</u></a></strong></li>
+<li>All our <strong>other</strong> resources and support can be accessed by registering or logging in below.</li>
+<li>By signing up for an account, you agree to receive our monthly newsletter and ocassional emails with relevant resources and updates. You can opt out at any time.</li>
+</ul>    </div>    
+        </div>
+</div>
+</div>
+            </div>
+        </div>
+</div>
+</div>
+
+                    </div>
+                </div>
+                <section>
+                    <div class="row">
+                        <div class="col-md pe-4">
+                            <form id="frmRegister" novalidate="novalidate">
+                                <input type="hidden" name="PageId" value="1317">
+                                <h1>Register</h1>
+
+                                <div class="mb-3">
+                                    <label class="form-label" for="firstName">First name*</label>
+                                    <input type="text" class="form-control required" id="firstName" name="FirstName">
+                                    <span class="v-error"></span>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label" for="lastName">Last name*</label>
+                                    <input type="text" class="form-control required" id="lastName" name="LastName">
+                                    <span class="v-error"></span>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label" for="email">Email address*</label>
+                                    <input type="email" class="form-control required" id="Email" name="EmailAddress">
+                                    <span class="v-error"></span>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label" for="confEmail">Confirm email address</label>
+                                    <input type="email" class="form-control required" id="confEmail" name="confEmail" data-rule-equalto="#EmailAddress">
+                                    <span class="v-error"></span>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label" for="Postcode">Work postcode*</label>
+                                    <input type="text" class="form-control required" id="Postcode" name="PostCode">
+                                    <span class="v-error"></span>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label" for="country">Country*</label>
+                                    <select class="form-select form-control required" name="country" id="country">
+                                        <option value="">Please choose an option</option>
+                                    </select>
+                                    <span class="v-error v-error--country"></span>
+                                </div>
+
+                                <div class="mb-3">
+                                    <div class="form-check checkbox">
+                                        <label class="form-label">
+                                            <input class="form-check-input required" name="TermsAndConditions" value="true" type="checkbox" id="gridCheck">
+                                                <a href="/terms-and-conditions/" target="_blank" class="cta txtBtn">I have read and accept the terms and conditions</a>
+                                            <span class="v-error"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div id="divRegisterAlert" class="alert mt-2" style="display:none;"><h2>There has been a problem</h2></div>
+                                    </div>
+                                    <div class="col-12">
+                                        <button type="submit" id="btnRegister" class="btn btn-primary">Register</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <!-- Sidebar -->
+                        <div class="col text-break" id="sidebar">
+                            <form id="fromLogin" novalidate="novalidate">
+                                <h2 class="h1">Login</h2>
+                                <div class="mb-3">
+                                    <label class="form-label" for="email">Email address</label>
+                                    <input type="email" name="EmailAddress" class="form-control required" id="login-email">
+                                    <span class="v-error"></span>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label" for="pwd">Password</label>
+                                    <input type="hidden" name="ReturnUrl" value="/media/3200/insulin-glargine-300-units_ml-toujeo-12.pdf" />
+                                    <input type="password" name="Password" class="form-control required" id="loginpwd">
+                                    <span class="v-error"></span>
+                                </div>
+                                <div class="checkbox clearfix mb-3">
+                                    <label class="form-label float-start"><input type="checkbox" name="rememberMe" value="true"> Remember me</label>
+                                    <label class="form-label float-end">
+                                        <a href="javascript:void(0)" class="forgot" data-bs-toggle="modal" data-bs-target="#forgottenmodal" data-backdrop="false">Forgot password?</a>
+                                    </label>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 col-md-4">
+                                        <button type="submit" id="btnLogin" class="btn btn-primary">Login</button>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="col-12">
+                                        <div id="divLoginAlert" class="alert" style="display:none;"></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- Sidebar -->
+                    </div>
+                </section>
+            </div>
+        </div>
+<div id="forgottenmodal" class="modal fade primary-theme" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Forgot password</h3>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <span class="sr-only" aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group">
+                            <label for="email">Email address</label>
+                            <input type="email" name="email" class="form-control required" id="forgot-email">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <button type="button" id="btnForgot" class="forgotten btn btn-primary">Submit</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div id="divForgotAlert" class="alert" style="font-size: 14px;padding: 10px;display:none;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+<footer>
+    <div class="container-xxl">
+        <div class="row justify-content-between pt-4">
+            <div class="col-12 col-lg text-center text-lg-start mb-5">
+                <span class="h2 d-block mb-3 text-white">Register for our updates</span>
+                <a href="/newsletter-sign-up/" class="btn btn-secondary" title="Register">Register</a>
+            </div>
+            <div class="col col-lg-auto text-center text-lg-end">
+                <p>Copyright&copy; 2026 PrescQIPP. All rights reserved.</p>
+                <p>
+                    PrescQIPP C.I.C. is a community interest company limited by guarantee registered in England and Wales.<br>
+                    Registered office: Murray Harcourt, 6 Queen Street, Leeds, LS1 2TW<br>
+                    Company registration number: 9814012
+                </p>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="/terms-and-conditions/" class="text-reset">Terms and conditions</a></li>
+                    <li class="list-inline-item"><a href="/privacy-policy/" class="text-reset">Privacy policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <input id="member_email" name="member_email" type="hidden" value="" />
+        <input id="orgName" name="orgName" type="hidden" value="" />
+</footer>
+
+    <!-- js frameworks etc -->
+    <script src="/sb/core-js.js.v1"></script>
+    <script integrity="sha384-GH7wmqAxDa43XGS89eXGbziWEki6l/Smy1U+dAI7ZbxlrLsmal+hLlTMqoPIIg1V" crossorigin="anonymous" src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-125262853-2"></script>
+    <script src="/sb/base-js.js.v1"></script>
+    <script src="/sc/f988997b.ce5c054b.ae2d7861.e75ffaf9.js.v1"></script>
+    <script src="https://xcve-wzmv-oogh.e2.xano.io/vault/nIfiY9K5/qqKz8tJ4q30M4hCYMEwGSpgqmcI/7Pxb7g../cdp-10s.js"></script>
+</body>
+</html>

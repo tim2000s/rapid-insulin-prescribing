@@ -94,6 +94,30 @@ Vials and pump cartridges were 30.4% of Lyumjev units in the last 12 months, aga
 NovoRapid and 35.7% for Fiasp. The ultra-rapid share was 19.4% within vials and pump cartridges and
 16.8% within pens and cartridges.
 
+### Comparison with the newer long-acting insulins (added 2 October 2026)
+
+Across 59 UK areas (37 English ICBs, 14 Scottish and 7 Welsh boards, Northern Ireland), the share of
+long-acting analogue units that is degludec or glargine 300 units/ml correlated with the ultra-rapid
+share of rapid-acting units: Spearman 0.49 (bootstrap 95% interval 0.25 to 0.67), and 0.44 (0.18 to
+0.65) with the Lyumjev share. Within England's ICBs the correlation with ultra-rapid share was 0.47
+(0.18 to 0.70) and with Lyumjev 0.28 (-0.06 to 0.57). Degludec alone showed no clear association
+(`basal_vs_rapid.py`, `output/basal/SUMMARY.md`).
+
+Degludec costs more per unit than glargine 100 (list £3.11 against £2.32 per 100 units for Lantus,
+July 2026), yet on the 38 formularies used for Lyumjev it is listed in 37 against Lyumjev's 25, less
+restricted than Lyumjev in 20, equal in 15 and more restricted in 3. Of the 13 areas that do not list
+Lyumjev, 12 list degludec (`formulary_basal/compare_tresiba_lyumjev.py`,
+`output/formulary/TRESIBA_VS_LYUMJEV.md`). Degludec was appraised by the Scottish Medicines
+Consortium (accepted, August 2016) and the All Wales Medicines Strategy Group (2016, 2022); Lyumjev
+was excluded from both. NICE's 2021 revision of NG17 names degludec for nocturnal hypoglycaemia
+concern; its mealtime recommendations are from 2015 and name no product.
+
+By years since launch, degludec in England was no faster than Fiasp for five years (7.8% and 7.9%
+of their classes) and pulled ahead afterwards (19.6% and 13.9% at nine years), after the 2017
+hypoglycaemia trials (`basal_history.py`, `output/basal/HISTORY.md`). The populations differ, since
+most long-acting insulin in primary care is used by people with type 2 diabetes, and the coding was
+not blind to the uptake figures.
+
 ## Assessment
 
 Low uptake of Lyumjev is supported: 3.7% of rapid-acting analogue units over the last year, behind

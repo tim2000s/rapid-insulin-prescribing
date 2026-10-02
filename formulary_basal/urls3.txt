@@ -1,0 +1,5 @@
+llr_061102 https://www.leicestershireformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+hiow_061102 https://www.hiowformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+sel_061102 https://www.selondonjointmedicinesformulary.nhs.uk/chaptersSubDetails.asp?FormularySectionID=6&SubSectionRef=06.01.01.02
+kent_search_degludec https://www.kentandmedwayformulary.nhs.uk/search/?q=degludec
+kent_search_toujeo https://www.kentandmedwayformulary.nhs.uk/search/?q=toujeo

@@ -198,6 +198,46 @@ Northern Ireland dispenses Lyumjev at 1.6 times the English rate without listing
 practice clearly matters as well. But a formulary that leaves an insulin off, or puts it behind the
 one most people are already on, makes it harder to prescribe.
 
+### The insulin that got through
+
+Tresiba (insulin degludec), Novo Nordisk's ultra-long-acting insulin, is a useful comparison: a newer
+insulin that the same formularies did make room for. It also costs more than the insulin it would
+replace, £3.11 per 100 units at list price in English primary care in July 2026 against £2.32 for
+Lantus. The ultra-rapid insulins cost no more than theirs.
+
+I read the same 38 formularies for Tresiba, using the same documents and the same four categories as
+for Lyumjev. Tresiba is on 37 of them and Lyumjev on 25. Of the 13 areas that leave Lyumjev off, 12
+list Tresiba, Northern Ireland and seven Scottish boards among them. Tresiba is the less restricted of
+the two in 20 areas and Lyumjev in 3; in the other 15 they are treated alike
+([table](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/output/formulary/TRESIBA_VS_LYUMJEV.md)).
+Tresiba is seldom open to any prescriber either. Most formularies tie it to a specialist or to named
+uses, such as night-time hypoglycaemia or a carer giving the injection. What it has, almost everywhere,
+is a written place.
+
+Part of the difference is process. As a new molecule, Tresiba had to be appraised. The
+[Scottish Medicines Consortium](https://www.scottishmedicines.org.uk/medicines-advice/insulin-degludec-tresiba-resubmission-85613/)
+accepted it for use in NHS Scotland in August 2016, and the All Wales Medicines Strategy Group
+recommended it in 2016 and again in 2022, so every board had a decision to adopt. Lyumjev, as a
+same-priced version of an existing insulin, was spared appraisal and was given no decision at all.
+
+Part is the kind of evidence each had. Tresiba was tested in trials whose main outcome was
+hypoglycaemia: in [SWITCH 1](https://doi.org/10.1001/jama.2017.7115), people with type 1 diabetes had
+fewer episodes on degludec than on glargine. When NICE revised its type 1 guidance on long-acting
+insulin in 2021, it named degludec for people with "a particular concern about nocturnal
+hypoglycaemia". Its mealtime recommendations still date from 2015 and name no product. A committee
+could point to a problem Tresiba addressed and a group of people to give it to. For the ultra-rapid
+insulins the headline was no difference in HbA1c, and the problem they address, waiting before a
+meal, is not one formularies record.
+
+The dispensing follows a similar course. Counted from launch, Tresiba was taken up in England no
+faster than Fiasp for five years: 7.8% of long-acting analogue units at five years, against 7.9% of
+rapid-acting units for Fiasp. They separated after the 2017 hypoglycaemia trials, and at nine years
+Tresiba was at 19.6% and Fiasp at 13.9%. Areas that use more Tresiba and Toujeo also tend to use more
+ultra-rapid insulin (Spearman 0.49, 95% interval 0.25 to 0.67, across 59 UK areas), so local habit
+plays a part. Tresiba still reached places the faster mealtime insulins did not. Most long-acting
+insulin in primary care goes to people with type 2 diabetes, so these are not the same patients, and
+the timing fits the trials without showing that they caused the rise.
+
 ### Cost before biosimilars
 
 For much of the period, the price of the insulin offers little explanation. Lyumjev has cost English

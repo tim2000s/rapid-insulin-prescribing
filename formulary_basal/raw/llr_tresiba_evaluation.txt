@@ -1,0 +1,548 @@
+                         Product Submission to the Therapeutic Advisory Service
+                                        Meeting Date: 24th September
+Minutes / TAS decision
+Members noted that both strengths have shown non-inferiority to insulin glargine but have the advantage
+of longer half-life allowing greater flexibility of dosing. Reduction in volume is possible using 200unit per
+ml – this is a licensed product whereas U500 which it would replace is not. Dr Gregory had provided
+detailed algorithms of place in therapy and review / stopping criteria.
+Cost is significantly higher than glargine. Patent expiry of glargine due in 2014/15 Possibility of biosimilars
+in production.
+
+TAS decision: Supported for use in the specific patient groups in the algorithm supplied
+
+                                    INFORMATION SUPPLIED BY REQUESTOR
+
+Consultant              Dr Rob Gregory               Clinical Business Unit          Acute
+
+Speciality              Metabolic medicine           Divisional Support for          Pending
+                                                     Funding
+Drug Name            Insulin degludec                Drug Name Proprietary           Tresiba®
+Generic
+Formulation and strength                             Solution for injection containing 100 units or 200 units of
+                                                     insulin degludec per ml.
+Typical Maintenance dose                             Approx 40 to 400 units per day
+
+Clinical Indication: Treatment of diabetes mellitus in adults
+Licensed Indication? Yes                             Licensed product? Yes
+
+Are patients currently using this agent in           How many patients per year?
+UHL as part of a clinical trial? No                  100 units per ml – 30 patients
+                                                     200 units per ml – 30 initially then 20 per year.
+
+                             INFORMATION SUPPLIED BY MEDICINES INFORMATION
+SUMMARY
+
+       New basal insulin with long half life available in higher strength formulation
+       Phase III controlled trials have shown insulin degludec to be non-inferior to insulin glargine at controlling
+        HbA1c and in patients with type 2 diabetes incidence rate of severe hypoglycaemia was reduced
+       Safety assessed over 104 weeks was in line with other long acting insulin preparations
+       Insulin degludec is more expensive than comparators glargine and detemir
+       Long half life would allow greater dosing flexibility, and higher dose would allow lower volumes to be
+        administered.
+       Not approved by the FDA
+
+COST                Product                           Manufacturer                    Dose          Cost **
+COMPARISON *        Insulin degludec 100units/ml      Novo Nordisk Ltd                Variable      £72.00 for five 3ml
+Per pack            (Tresiba®)                                                                      pre-filled pens
+                    Insulin degludec 200units/ml      Novo Nordisk Ltd                Variable      £144.00 for five 3ml
+                    (Tresiba®)                                                                      pre-filled pens
+                    Insulin glargine 100units/ml      Sanofi                          Variable      £41.50 for five 3ml
+                    (Lantus®)                                                                       pre-filled pens
+                    Insulin detemir 100units/ml       Novo Nordisk Ltd                Variable      £42.00 for five 3ml
+                    (Levemir®)                                                                      pre-filled pens
+                    Humulin R 500units/ml             Eli Lilly USA (Unlicensed in    Variable      £250.74 for one
+                                                      UK)                                           20ml vial
+* MIMS 02/09/13
+**Hospital prices may vary
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+Patent expiries of note: Insulin glargine expires in 2014
+
+Current Status
+TAS                                       Not previously reviewed
+NICE                                      Not reviewed. Two evidence summaries on type 1 (ESNM24) and 2
+                                          (ESNM25) diabetes.
+SMC                                       Not supported 856/13
+Pharmaceutical Risk assessment            Low
+
+                                                    Literature Search
+
+Background
+Insulin degludec (Tresiba®) is new long-acting basal insulin for the treatment of diabetes mellitus in adults. It is
+available in two strengths, 100 units per ml and 200 units per ml, making it the only licensed high strength insulin
+                     1
+available in the UK.
+
+Current Use (Local)
+The Leicestershire Medicines Formulary includes insulin glargine as first choice, and insulin detemir is reserved for
+those patients unable to manage the insulin glargine device. Patients with type 1 diabetes should be offered an
+intermediate acting insulin first line; however a long-acting insulin analogue may be preferred in adolescents. An
+intermediate acting insulin is also considered first line for patients with type 2 diabetes requiring insulin. However
+long-acting insulin analogues may be considered where the patient requires assistance to inject and use the insulin,
+where hypoglycaemic episodes are affecting the patients lifestyle, where target HbA 1C is not reached with the
+intermediate insulin or where the patient would otherwise need twice daily intermediate acting insulin in combination
+                                     2
+with oral glucose-lowering drugs. Some profoundly insulin resistant type 2 diabetics require large insulin doses to
+achieve glycaemic control, however large volumes of the standard insulin can cause considerable pain and
+discomfort on injection. One solution which has been used at UHL is the stronger unlicensed U500 insulin which
+                           3
+contains 500 units per ml.
+
+Clinical Trials
+(See Nice Evidence Summaries)
+
+References
+   1. Insulin degludec for diabetes mellitus. Drug and therapeutics bulletin. 2013; 51(7):78-81
+   2. Leicestershire Medicines Formulary. Available at http://netformulary.xuhl-tr.nhs.uk/netformulary/ accessed
+       03/09/2013
+   3. Crasto W., Jarvis J., Hackett E. et al. Insulin U-500 in severe insulin resistance in type 2 diabetes mellitus.
+       Postgraduate Medical Journal. 2009; 85 (1002): 219-222
+
+Kelly Anderson, Formulary Support Pharmacist
+Leicestershire Medicines Information Service
+Date 03/09/13
+
+
+
+
+Additional Information supplied by requestor
+
+What drug(s) if any would Tresiba® 100untis/ml replace?
+Lantus® (insulin glargine), or as an alternative to CSII (insulin pump).
+What are the advantages of Tresiba® 100untis/ml over existing treatments?
+Tresiba® (insulin degludec) is the only ultra-long-acting analogue insulin preparation. Its duration of action is >24
+hours after a single injection, and it shows low day-to-day variability of glucose-lowering effect within-subjects. It
+offers an option as once daily basal insulin in the following circumstances: Type 1 patients who fulfil NICE criteria for
+a long-acting basal insulin, but who cannot achieve their target HbA1c because they experience nocturnal
+hypoglycaemia or morning hyperglycaemia while taking Lantus® (insulin glargine). The only current alternative is a
+trial of CSII (insulin pump) for patients with type 1 diabetes, an approach that is not acceptable to all eligible patients.
+(SEE ALGORITHM) Patients with type 1 and type 2 diabetes treated with a basal-bolus regimen based on once daily
+Lantus® (insulin glargine) who work variable shift patterns that prevents them injecting the basal insulin at the same
+time every day. The flexibility of dose interval offered by Tresiba® may deliver improved glucose control with variable
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+dose intervals (minimum 8 hours). This property offers an alternative basal insulin for patients with type 1 diabetes
+whose failure to meet target HbA1c is in part attributable to forgetting to take a proportion of basal insulin doses.
+Type 1 or type 2 patients who need the assistance of a District Nurse to inject insulin, but who have unacceptably
+large variations in pre-injection capillary blood glucose concentration reflecting in part the variation in arrival time of
+the nurse.
+
+What drug(s) if any would Tresiba® 200units/ml replace?
+U500 Humulin R®
+What are the advantages of Tresiba® 200units/ml over existing treatments?
+It is the only basal higher strength insulin preparation available in the UK. It is administered with a pen injector that is
+calibrated for the strength of insulin – significantly reducing the risk associated with U500 Humulin R®. (Patients
+currently use U100 insulin syringes which administer 5x the stated number of units per injection.) Shelf life of 8
+weeks vs. 28 days. Potential for less wastage according to dose required. Procurement, prescribing, and dispensing
+is standard rather than a unique process requiring additional pharmacy resources to administer for an unlicensed
+drug. As an alternative to unlicensed U500 Humulin R® in treating insulin resistant patients who require >200 units
+insulin per day to achieve adequate glycaemic control. This includes switching a proportion of those currently taking
+doses of U500 Humulin R® at the lower end of the dose range, and thereafter starting insulin resistant patients on
+this product before progressing to unlicensed U500 Humulin R®. Patients treated with U500 Humulin R® take it
+before meals, but it contributes to their basal and prandial insulin requirements. Tresiba® (insulin degludec) U200
+would be used to provide the basal requirement with prandial doses of standard (U100) strength short-acting insulin.
+
+Is Tresiba® being used by other centres in the country? Please give specific details:
+Insulin Degludec formulary inclusions – June 2013 (NB This list includes approvals for U100 and for U200 strength
+preparations.)
+Chelsea and Westminster Hospital NHS Foundation Trust: After insulin glargine for Type 1 patients experiencing
+nocturnal hypoglycaemia on other basal insulins. Type 1 patients awaiting pump therapy. Type 2 patients on large
+basal doses Type 2 patients on large basal doses who would benefit from an OD vs. BD dosing regimen. Type 2
+patients on Humulin R 500units/mL who are still not achieving glycaemic control.
+Hillingdon Hospital NHS Foundation Trust: Type 1 only in adults over 18years with eGFR over 30, not during
+pregnancy. To be started in secondary care only in: Those poorly compliant with OD basal regime (shift, lifestyle
+etc.). Those with frequent/severe hypoglycaemia (notably nocturnal) and for whom other insulin titration/intervention
+(i.e. CSII) has already been tried or is inappropriate.
+Walsall Healthcare NHS Trust Joint formulary via the APC. Specialist initiation only. Patient types not specified.
+Worcestershire Acute Hospitals NHS Trust Joint formulary via the APC. Specialist initiation by consultant, DSN and
+GPwSI. Patient types not specified.
+West Suffolk NHS Foundation Trust Type 1 & Type 2 patients struggling to obtain glycaemic control with their basal
+insulin on the current pathway (Insulin Glargine/Insulin Detemir) and/or at risk of hypoglycaemia, in particular
+nocturnal hypoglycaemia. Patients who require high dose of basal insulin and would benefit from 200 units/mL high
+dose formulation.
+Basildon and Thurrock University Hospitals NHS Foundation Trust Hard to control Type 1 patients Type 1 patients
+pre-pump.
+Bedford Hospital NHS Trust Luton and Dunstable Hospital NHS Foundation Trust Type 1 patients with unresolved
+nocturnal hypoglycaemia, chaotic/psychiatric patients, allergy to Lantus/Levemir, uncontrolled at high doses. Amber
+status for secondary care consultant initiation or primary care DSN
+South Tyneside NHS Foundation Trust Patient types not specified Pan-Mersey Area Prescribing Committee This
+APC covers: • Aintree University Hospital NHS Foundation Trust • St Helens and Knowsley Teaching Hospitals NHS
+Trust • Warrington and Halton Hospitals NHS Foundation Trust • The Royal Liverpool and Broadgreen University
+Hospitals NHS Trust Patients who are considered suitable for treatment with Tresiba can only be approved following
+a meeting of the patient’s Consultant, GP and Prescribing Adviser from the Trust. On a named patient basis.
+Bolton NHS Foundation Trust Uncontrolled Type 1 patients & high dose insulin glargine patients
+Hampshire Hospitals NHS Foundation Trust University Hospital Southampton NHS Foundation Trust Degludec
+supported for specialist recommendation only in: • poorly controlled type 1 patients • recurrent DKA • as a licensed
+option to large doses of insulin instead of Humulin R 500units/mL • Type 1 patients who experience frequent
+hypoglycaemic events (more than 3 in a year) • Type 2 larger patients requiring more than 80 units per shot
+United Lincolnshire Hospitals NHS Trust Patients with Type 1 Diabetes Mellitus who have recurrent admissions with
+diabetic ketoacidosis due to poor adherence. Patients with Type 1 Diabetes Mellitus with problematic or recurrent
+nocturnal hypoglycaemia on other long-acting analogues and are not suitable for insulin pump therapy. A small
+number of patients with Type 2 Diabetes Mellitus with significant insulin resistance who might otherwise need large
+doses of Humulin R 500 units/mL insulin
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+DOI: Members of the Department have at various times received speaker fees, sponsored places at meetings, and
+educational support from NovoNordisk. Individual consultants serve or have served on its advisory board.
+
+References provided:
+   1.   Heller S, Buse J, Fisher M et al. Insulin degludec, an ultra-long-acting basal insulin, versus insulin glargine in basal-bolus
+        treatment with mealtime insulin aspart in type 1 diabetes. Lancet. 2012; 379(985): 1489-1497
+   2.   Ratner RE, Gough S, Mathieu C et al. Hypoglycaemia risk with insulin degludec compared with insulin glargine in type 2
+        and type 1 diabetes: a pre-planned meta-analysis of Phase 3 trials. Diabetes, Obesity and Metabolism, 2012 doi:
+        10.1111/dom.12032.
+
+Pharmacoeconomic category
+B – New Treatment more effective but more expensive than comparable therapy.
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+Supporting Information – Insulin Degludec
+
+    1. Algorithm for prescription of 100 unit per ml
+    2. Algorithm for prescription of 200 unit per ml
+    3. Proposed SCA 200 unit per ml
+
+    1. Algorithm for prescription of 100 unit per ml
+
+This applies to patients aged over 18 years with type 1 diabetes who are taking basal-bolus insulin regimen.
+
+Q1 Is the patient using Lantus® (insulin glargine) as basal insulin?
+N – This algorithm does not apply Y – Go to Q2
+
+Q2 Has the patient attended a DAFNE course or received instruction in carbohydrate counting and insulin dose
+adjustment?
+Y – Go to Q3 N – Arrange for the patient to receive this before proceeding.
+
+Q3 Does the patient fulfil NICE criteria for using long-acting analogue insulin*?
+N – The algorithm does not apply Y – Go to Q4
+
+Q4 Does the patient have satisfactory diabetes control – ie acceptable HbA1c, infrequent hypoglycaemia?
+Y – The algorithm does not apply N – Go to Q5
+
+Q5 Has the patient tried CSII (insulin pump) treatment but has either stopped it or wishes to stop it?
+Y – Offer a trial of Tresiba® (insulin degludec). Go to review N – Go to Q6
+
+Q6 Does the patient want a trial of CSII (insulin pump) treatment?
+Y –Arrange this N – Offer a trial of Tresiba® (insulin degludec). Go to review.
+
+Review
+Since Tresiba® (insulin degludec) is more expensive than Lantus® (insulin glargine) it is important to establish that it
+is delivering the improvement required of it.
+
+After a 3 month trial the specialist team will assess the response to Tresiba® and decide whether to ask the GP to
+prescribe under the shared care agreement or to stop it.
+
+If the reason for using it was to reduce nocturnal hypoglycaemia, the frequency and severity of hypoglycaemia
+must be documented before starting and after 3 months. If there has been no significant improvement then the
+Tresiba® should be stopped.
+
+If the reason for prescribing it was to address variably high fasting glucose concentrations, the patient’s glucose log
+(preferably on a memory meter) before and after 3 months should be scrutinised and if there has been no
+significant improvement then the Tresiba® should be stopped.
+
+If failure to meet HbA1c target was part of the rationale to start Tresiba®, then a repeat measurement after 3
+months should be compared with the initial value and a failure to improve should normally result in stopping
+Tresiba®.
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+    2. Algorithm for assessment of suitability for treatment with Tresiba® (insulin degludec) 200 units/mL
+
+    Q1. Is the patient 18 years or above?
+    N – This algorithm does not apply Y – Go to Q2
+
+    Q2. Does the patient have diabetes?
+    N – This algorithm does not apply Y – Go to Q3
+
+    Q3 Is the patient currently taking insulin?
+    N – This algorithm does not apply Y – Go to Q4
+
+    Q4 Is the patient taking more than 200 units per day?
+    N – This algorithm does not apply Y – Go to Q5
+
+    Q5 Does the patient show signs of insulin resistance – acanthosis nigricans and/or multiple skin tags?
+    N – Check patient’s compliance with insulin doses prescribed. This algorithm may not apply.
+    Y – The patient is insulin resistant – go to Q6
+
+    Q6 Is the patient taking standard strength (U100) insulin?
+    Y – Go to Q7 N.- Go to Q9
+
+    Q7 – Does the patient have acceptable diabetes control on their current treatment regimen?
+    Y – A change of treatment is probably not indicated at the moment. N – Go to Q8
+
+    Q8 – Have all reasonable attempts been made to address the patient’s insulin resistance (modifications to diet,
+    physical activity, medication including where appropriate GLP1 mimetics, pioglitazone and bariatric surgery)?
+    N – Consider these options before returning to Q8.
+    Y – The patient is probably eligible for a trial of Tresiba® (insulin degludec) 200 units/mL. Go to ‘review’.
+
+    Q9 Is the patient taking U500 Humulin R® insulin?
+    N – This algorithm does not apply Y – Go to Q10
+
+    Q10 Is the patient taking more than 480 units per day?
+    Y – The dose is high enough to suggest that a trial of Tresiba® (insulin degludec) 200 units/mL is unlikely to be
+    beneficial.
+    N - The patient is probably eligible for a trial of Tresiba® (insulin degludec) 200 units/mL. Go to ‘review’.
+
+    Review
+    Treatment with Tresiba® (insulin degludec) 200 units/mL is considerably more expensive dose-for-dose than
+    treatment with standard strength (U100) insulins, and even more expensive than treatment with unlicensed
+    U500 Humulin R® insulin. Patients should be monitored carefully during the first 3 months of treatment to
+    assess whether the trial of treatment has been successful, and whether continued prescribing under a shared
+    care agreement is justified. Criteria for success will be improvement in diabetes control as measured by HbA1c,
+    stability of diabetes control as indicated by acceptable frequency and severity of hypoglycaemia, and absence
+    of side-effects. Weight gain is not a stop criterion.
+    3. Tresiba® (insulin degludec) U200 Shared Care Guideline (draft)
+
+Tresiba® (insulin degludec) U200 for patients with severe insulin resistance
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+Scope
+       Prescribing by General Practitioners
+Purpose
+       To provide advice on the safe prescribing of Tresiba® U200 insulin for patients with severe insulin
+       resistance.
+Introduction
+       In the UK insulin is usually formulated at a concentration of 100 units per ml. Tresiba® U200 insulin is a
+       concentrated formulation of insulin (200 units per ml).
+
+        Patients with severe insulin resistance may have significantly higher insulin dose requirements than other
+        patients with diabetes. The insulin dose can often reach more than 200 and up to 2000 units per day. Each
+        insulin dose then requires two or three injections as the maximum insulin that can be injected in one
+        injection is about 60-80 units. Larger volumes injected subcutaneously may affect the pharmacokinetics of
+        the insulin. Large volume and multiple injections can also cause discomfort, leading to poor compliance
+        and poor glycaemic control. Hitherto the only available higher strength insulin has been U500 Humulin R®
+        (500 units/mL), which is only available in 20 ml vials, and has to be administered using standard U100
+        insulin syringes, calibrated to deliver one fifth of the true dose. This is unsatisfactory at best, and
+        dangerous at worst.
+
+        Tresiba® U200 insulin should be considered for patients who require large doses of insulin (usually above
+        200 units per day), as this can reduce the volume of injected insulin, improve compliance, and can lead to
+        improvements in glycaemic control by improvement in absorption.
+
+Shared care
+       Sharing of care assumes communication between the specialist, GP and the patient. The intention to share
+       care should be explained to the patient and accepted by them. Patients are under regular follow-up and
+       this provides an opportunity to discuss drug therapy. The doctor who prescribes the medication has the
+       clinical responsibility for the drug and the consequences of its use.
+
+Shared care responsibilities
+5.1    Consultant
+       The decision to start Tresiba® U200 insulin will be made by a Consultant Diabetologist providing specialist
+       care. A copy of the shared care guideline will be sent to the GP. If the GP has any queries about the
+       prescribing of Tresiba® U200, they should contact the relevant hospital specialist as soon as possible.
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+          The consultant and the specialist team will:
+         Educate the patient fully regarding safe administration, dosing schedule and storage of Tresiba® U200
+          insulin, and provide guidance to the patient on appropriate blood glucose monitoring.
+         Provide the patient with written information regarding safe administration, dosing schedule and storage of
+          Tresiba® U200 insulin and guidance in dealing with hypoglycaemia, concurrent illnesses and hospital
+          admission.
+         Send a letter to the GP requesting shared care for this patient.
+         Provide specialist clinic follow-up on a regular basis.
+         Send a letter to the GP after each clinic attendance documenting current dose and most recent blood
+          results.
+         Evaluate any reported adverse effects by GP or patient.
+         Advise GP on review, duration or discontinuation of treatment with Tresiba® U200 insulin where necessary.
+         Inform GP of patients who do not attend clinic appointments.
+         Ensure that backup advice for the patient and GP is available.
+
+Hospital Pharmacy
+    Provide initial supplies of Tresiba® U200 for a maximum of 3 months.
+
+
+5.2       General Practitioner
+         Monitor patient’s overall health and well being.
+         Prescribe the Tresiba® U200 insulin.
+         Prescribe blood glucose monitoring strips as required.
+         Report any adverse events to the hospital specialist, where appropriate.
+
+5.3       Patient
+         Discuss potential benefits and side effects of treatment with the specialist and GP, to identify whether they
+          have a clear picture of these from the specialist and to raise any queries.
+         Check that the specialists have provided a patient-held record or information sheet to alert other clinical
+          staff to the treatment they are receiving.
+         Share any concerns they have in relation to treatment with Tresiba® U200 insulin.
+         Report any adverse effects to their specialist or GP whilst taking Tresiba® U200 insulin.
+         Report to the specialist or GP if they do not have a clear understanding of their treatment.
+         Participate in the monitoring of blood glucose, to assist health professionals to provide effective, safe,
+          appropriate treatment.
+         Inform relevant health professionals of the use of Tresiba® U200 insulin at every contact and during any
+          admission to hospital.
+
+Dose and administration
+       Tresiba® U200 insulin is a long-acting insulin analogue synthesized by rDNA technology in Saccharomyces
+       cerevisiae. It is a basal insulin for once daily administration, preferably at the same time each day.
+
+          It binds specifically to the human insulin receptor and has the same actions as human insulin.
+
+          Upon subcutaneous injection it forms soluble multi-hexamers resulting in a depot from which insulin
+          degludec is continuously and slowly absorbed into the circulation leading to a flat and stable glucose
+          lowering effect over 24 hours. The duration of action is >42 hours in the therapeutic dose range. Steady
+          state will occur after 2-3 days of administration.
+
+          Tresiba® U200 insulin is for subcutaneous injection only. It must not be used intravenously or
+          intramuscularly, or in insulin infusion pumps.
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+       Tresiba® U200 insulin comes in a pre-filled pen (FlexTouch) designed to be used with NovoFine or
+       NovoTwist needles. The pen delivers 2-160 units per injection, in steps of 2 units. The dose counter shows
+       the number of units and no dose conversion is required.
+
+       Tresiba® U200 insulin will be commenced by specialist clinic at University Hospitals of Leicester NHS Trust.
+       The Clinic will provide the prescriptions for the first three months and the GP will provide prescriptions
+       thereafter. The starting dose will be decided on the basis of the doses of insulin already being taken by the
+       patient. This will include patients currently taking high doses of 100 units/mL insulin preparations, and
+       selected patients taking Humulin R® U500 insulin (500 units/mL), an unlicensed medication in the UK. The
+       doses will be titrated according to the regular blood glucose monitoring performed by the patient and by
+       the presence/absence of hypoglycaemia. The patient will be stabilized on Tresiba® U200 insulin by the
+       specialist team.
+
+       The patient will be given education regarding the safe storage and administration of the insulin by the
+       specialist team.
+
+       The patient will be issued with a treatment card with details of their insulin and doses and instructions to
+       be followed in case of illness, emergency, hypoglycaemia or hospital admission.
+
+
+
+Adverse Effects
+       Hypoglycaemia
+
+       As with all insulins, the most frequent adverse event is hypoglycaemia. As with all basal insulin products,
+       the prolonged effect of Tresiba® U200 may delay recovery from hypoglycaemia.
+
+       Symptoms of mild to moderate hypoglycaemia may occur suddenly and can include:
+       • sweating • drowsiness
+       • dizziness • sleep disturbances
+       • palpitations • anxiety
+       • tremor • blurred vision
+       • hunger • slurred speech
+       • restlessness • depressed mood
+       • tingling in the hands, feet, lips, or tongue • irritability
+       • light headedness • abnormal behaviour
+       • inability to concentrate • unsteady movement
+       • headache • personality changes
+
+
+       Signs of severe hypoglycaemia can include:
+       • disorientation • seizures
+       • unconsciousness • coma
+       • death
+
+       Early warning symptoms of hypoglycaemia may be different or less pronounced under certain conditions,
+       such as long duration of diabetes, autonomic diabetic neuropathy, use of medications such as beta
+       blockers, changing insulin preparations, or intensified control of diabetes. Without recognition of early
+       warning symptoms, the patient may not be able to take steps to avoid more serious hypoglycaemia.
+       Patients who experience hypoglycaemia without early warning symptoms should monitor their blood
+       glucose more frequently, especially prior to activities such as driving.
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+       Mild to moderate hypoglycaemia may be treated by eating foods or taking drinks that contain sugar.
+       Patients should always carry a quick source of sugar, such as fruit juice, non-diet carbohydrate-containing
+       drinks or glucose tablets.
+
+       The patient will receive education by the specialist team regarding safe detection and management of
+       hypoglycaemia.
+
+       Hypokalaemia
+       Insulin stimulates potassium movement into the cells, possibly leading to hypokalaemia, which if untreated
+       may cause respiratory paralysis, ventricular arrhythmia, and death. Use caution in patients who may be at
+       risk of hypokalaemia (e.g., patients using potassium-lowering medication e.g. thiazide diuretics).
+
+       Hypersensitivity and Allergic Reactions
+       Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, and this
+       would be expected to apply to Tresiba® U200 insulin. Localized reactions and generalized myalgias have
+       been reported with the use of metacresol as an injectable excipient.
+
+       Local Allergy —Patients occasionally experience erythema, local oedema, and pruritus at the site of
+       injection. This condition usually is self-limiting. In some instances, this condition may be related to factors
+       other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
+
+       Weight gain
+       Weight gain can occur with some insulin therapies and has been attributed to the anabolic effects of insulin
+       and the decrease in glycosuria.
+
+       Peripheral Oedema
+       Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is
+       improved by intensified insulin therapy.
+
+       Hyperglycaemia, Diabetic Ketoacidosis, and Hyperosmolar Non-Ketotic Syndrome
+       Hyperglycaemia, diabetic ketoacidosis, or hyperosmolar coma may rarely develop if the patient takes less
+       Tresiba® U200 insulin than needed to control blood glucose levels. This could be due to increases in insulin
+       demand during illness or infection, neglect of diet, omission or improper administration of prescribed
+       insulin doses or use of drugs that affect glucose metabolism or insulin sensitivity. Early signs of diabetic
+       ketoacidosis include glycosuria and ketonuria. Polydipsia, polyuria, loss of appetite, fatigue, dry skin,
+       abdominal pain, nausea and vomiting and compensatory tachypnoea come on gradually, usually over a
+       period of some hours or days, in conjunction with hyperglycaemia and ketonaemia. Severe sustained
+       hyperglycaemia may result in hyperosmolar coma or death.
+
+       Renal or Hepatic Impairment
+       Frequent glucose monitoring and insulin dose reduction may be required in patients with renal or hepatic
+       impairment.
+
+       See the Summary of Product Characteristics (SPC) for further information on adverse events.
+
+
+Monitoring Standards
+ Blood glucose monitoring                        By the patient and reviewed by the specialist team and the GP
+ HbA1c/ blood glucose/U&E/eGFR lipid             Will be measured by hospital clinic initially – this may pass to
+ profile/FBC                                     the GP but only after consultation between the hospital
+                                                 specialist and the GP
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+ The specialist team will inform GPs and the patients of the frequency of blood glucose monitoring and HBA1c and
+ other blood testing as required.
+
+Actions to take in the event of abnormal test results/symptoms
+        If any unusual or serious adverse effect is reported please contact the specialist team for further advice.
+
+
+
+Contact numbers for advice and support
+         Specialist                           Post                           Telephone
+Specialist on call via
+Hospital Switchboard
+Dr Robert Gregory             Consultant                            0116 2588017
+
+
+
+
+    4.
+
+
+
+
+                                        Not to be used for commercial purposes.
+The information in this review is believed to be true and accurate. It is issued on the understanding that it is the best
+                           available from the resources at our disposal at the time of issue.
+
