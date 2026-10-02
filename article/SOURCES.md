@@ -40,8 +40,8 @@ Sources for "Losing Lyumjev: how the system let its patients down", in approxima
 36. Novo Nordisk. Fiasp 100 units/mL solution for injection in vial: Summary of Product Characteristics. electronic medicines compendium. https://www.medicines.org.uk/emc/product/8109/smpc (accessed 30 September 2026)
 37. Eli Lilly. Lyumjev 100 units/mL solution for injection in vial: Summary of Product Characteristics. electronic medicines compendium. https://www.medicines.org.uk/emc/product/11533/smpc (accessed 30 September 2026)
 38. National Institute for Health and Care Excellence. Type 1 diabetes in adults: diagnosis and management (NG17), recommendations 1.7.10 to 1.7.12. Published 26 August 2015, last updated 17 August 2022. https://www.nice.org.uk/guidance/ng17
-39. Norfolk and Waveney Therapeutics Advisory Group. Biosimilar insulin aspart (Trurapi) position statement, version 1.1. September 2025.
-40. Cheshire and Merseyside Area Prescribing Group. Biosimilar insulin aspart position statement. Approved 19 September 2024.
+39. Norfolk and Waveney Therapeutics Advisory Group. Biosimilar insulin aspart (Trurapi) guidance, version 1.1. September 2025; review date July 2027. https://nwknowledgenow.nhs.uk/wp-content/uploads/2025/09/Trurapi-2025-Guidance-v1.1-Sept-2025.pdf (accessed 2 October 2026)
+40. NHS Cheshire and Merseyside. Biosimilar insulin aspart (Trurapi) position statement, version 1.0. ICB approval 19 September 2024; review date September 2026. https://www.cheshireandmerseysideformulary.nhs.uk/docs/files/trurapi_position.pdf (accessed 2 October 2026)
 41. NHS Dorset Medicines Optimisation. Insulin aspart biosimilar switch (prescribing incentive scheme 2026/27, PINH 2627). 31 March 2026. https://nhsdorset.nhs.uk/medicines/value/insulin-aspart/ (accessed 2 October 2026)
 42. Diabetes Forum (diabetes.co.uk). Fiasp experiences, thread, June 2017. https://www.diabetes.co.uk/forum/threads/fiasp-experiences.121804/
 43. Diabetes.co.uk. New faster-acting insulin Fiasp now available in the UK. 11 April 2017. https://www.diabetes.co.uk/news/2017/apr/new-faster-acting-insulin-fiasp-now-available-in-the-uk-97369705.html
