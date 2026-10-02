@@ -1,9 +1,18 @@
-"""Convert the article markdown to WordPress block HTML (headings, paragraphs, figures, rule)."""
+"""Convert the article markdown to WordPress block HTML (headings, paragraphs, figures, rule, numbered
+lists). An optional third argument names a sources file (SOURCES.md), which is appended under a
+"Sources" heading as a numbered list, so the list lives in one file and the article and the preprint
+both take it from there.
+
+    python3 md_to_wordpress.py article.md article-wordpress.html SOURCES.md
+"""
 import html, re, sys
 from pathlib import Path
 
 src = Path(sys.argv[1]); out = Path(sys.argv[2])
 text = src.read_text()
+if len(sys.argv) > 3:
+    srcs = Path(sys.argv[3]).read_text().split("\n", 2)[2]   # drop the file's own heading
+    text = text.rstrip() + "\n\n## Sources\n\n" + srcs.strip() + "\n"
 blocks = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
 
 def inline(t):
@@ -27,6 +36,11 @@ for b in blocks:
     elif (m := re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)):
         cap, img = inline(m.group(1)), m.group(2)
         parts.append(f'<!-- wp:image {{"sizeSlug":"large"}} -->\n<figure class="wp-block-image size-large"><img src="{img}" alt="{html.escape(" ".join(m.group(1).split()))}"/><figcaption class="wp-element-caption">{cap}</figcaption></figure>\n<!-- /wp:image -->')
+    elif re.match(r"\d+\. ", b):
+        items = re.split(r"\n(?=\d+\. )", b)
+        lis = "".join(f'<!-- wp:list-item -->\n<li>{inline(re.sub(r"^\d+\. ", "", i))}</li>\n<!-- /wp:list-item -->\n'
+                      for i in items)
+        parts.append(f'<!-- wp:list {{"ordered":true}} -->\n<ol class="wp-block-list">\n{lis}</ol>\n<!-- /wp:list -->')
     else:
         parts.append(f"<!-- wp:paragraph -->\n<p>{inline(b)}</p>\n<!-- /wp:paragraph -->")
 out.write_text("\n\n".join(parts) + "\n")

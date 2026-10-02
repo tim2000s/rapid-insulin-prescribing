@@ -408,5 +408,5 @@ Norway and Switzerland, and the account of Lilly's activity rests on what is pub
 The user accounts and community posts are self-selected and show the range of experience. They cannot
 say how common any of it is.
 
-The method, the code, the formulary wording area by area, the outputs behind every number and the full
-list of sources are at https://github.com/tim2000s/rapid-insulin-prescribing.
+The method, the code, the formulary wording area by area and the outputs behind every number are at
+https://github.com/tim2000s/rapid-insulin-prescribing. The sources follow.
