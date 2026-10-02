@@ -1,0 +1,22 @@
+class,brand,units,nic,gbp_per_100u
+long-acting,Lantus,1808811700.0,41930832.06,2.318
+long-acting,Toujeo,1507807350.0,35894935.8,2.381
+long-acting,Tresiba,1392965400.0,43274745.16,3.107
+long-acting,Levemir,635074800.0,17782148.55,2.8
+long-acting,Abasaglar,543451200.0,12782000.9,2.352
+long-acting,Semglee,120529500.0,2409795.38,1.999
+long-acting,generic glargine 100units/ml,38871300.0,903130.1,2.323
+long-acting,generic detemir 100units/ml,12518100.0,350506.8,2.8
+long-acting,generic degludec 100units/ml,8896500.0,276384.6,3.107
+long-acting,generic degludec 200units/ml,7782600.0,241779.44,3.107
+long-acting,generic glargine 300units/ml,4581900.0,109077.57,2.381
+rapid-acting,NovoRapid,4966375740.0,88267350.12,1.777
+rapid-acting,Fiasp,1122871100.0,19317856.3,1.72
+rapid-acting,Humalog,968303700.0,18351587.6,1.895
+rapid-acting,Trurapi,556110300.0,7798067.18,1.402
+rapid-acting,Lyumjev,299677700.0,5586850.33,1.864
+rapid-acting,Apidra,160991100.0,2997900.02,1.862
+rapid-acting,generic aspart 100units/ml,11197700.0,192877.36,1.722
+rapid-acting,generic lispro 100units/ml,10947800.0,199569.59,1.823
+rapid-acting,Admelog,7562600.0,109195.26,1.444
+rapid-acting,generic glulisine 100units/ml,1388100.0,25174.02,1.814

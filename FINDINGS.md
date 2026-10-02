@@ -103,8 +103,9 @@ share of rapid-acting units: Spearman 0.49 (bootstrap 95% interval 0.25 to 0.67)
 (0.18 to 0.70) and with Lyumjev 0.28 (-0.06 to 0.57). Degludec alone showed no clear association
 (`basal_vs_rapid.py`, `output/basal/SUMMARY.md`).
 
-Degludec costs more per unit than glargine 100 (list £3.11 against £2.32 per 100 units for Lantus,
-July 2026), yet on the 38 formularies used for Lyumjev it is listed in 37 against Lyumjev's 25, less
+Degludec costs more per unit than glargine 100 (list £3.11 per 100 units against £2.32 for Lantus,
+£2.35 for Abasaglar and £2.00 for Semglee, August 2025 to July 2026, `basal_prices.py`; Semglee
+dispensed since 2019, Abasaglar since 2016), yet on the 38 formularies used for Lyumjev it is listed in 37 against Lyumjev's 25, less
 restricted than Lyumjev in 20, equal in 15 and more restricted in 3. Of the 13 areas that do not list
 Lyumjev, 12 list degludec (`formulary_basal/compare_tresiba_lyumjev.py`,
 `output/formulary/TRESIBA_VS_LYUMJEV.md`). Degludec was appraised by the Scottish Medicines

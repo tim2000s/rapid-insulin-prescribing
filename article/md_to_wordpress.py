@@ -12,14 +12,8 @@ are replaced by their uploaded media URLs from wordpress_media.json beside the s
 import html, json, re, sys
 from pathlib import Path
 
-src = Path(sys.argv[1]); out = Path(sys.argv[2])
-text = src.read_text()
-text = text.split("\n---\n", 1)[1]                      # body starts after the title and preamble
-media = json.loads((Path(__file__).parent / "wordpress_media.json").read_text())
-if len(sys.argv) > 3:
-    srcs = Path(sys.argv[3]).read_text().split("\n", 2)[2]   # drop the file's own heading
-    text = text.rstrip() + "\n\n## Sources\n\n" + srcs.strip() + "\n"
-blocks = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
+MEDIA = json.loads((Path(__file__).parent / "wordpress_media.json").read_text())
+
 
 def inline(t):
     t = html.escape(" ".join(t.split()), quote=False)
@@ -28,26 +22,43 @@ def inline(t):
     t = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", t)
     return t
 
-parts = []
-for b in blocks:
-    if b.startswith("# "):
-        parts.append(f'<!-- wp:heading {{"level":1}} -->\n<h1 class="wp-block-heading">{inline(b[2:])}</h1>\n<!-- /wp:heading -->')
-        parts.append('<!-- wp:paragraph -->\n<p><em>Tim Street | Diabettech | October 2026</em></p>\n<!-- /wp:paragraph -->')
-    elif b.startswith("### "):
-        parts.append(f'<!-- wp:heading {{"level":3}} -->\n<h3 class="wp-block-heading">{inline(b[4:])}</h3>\n<!-- /wp:heading -->')
-    elif b.startswith("## "):
-        parts.append(f'<!-- wp:heading -->\n<h2 class="wp-block-heading">{inline(b[3:])}</h2>\n<!-- /wp:heading -->')
-    elif b == "---":
-        parts.append('<!-- wp:separator -->\n<hr class="wp-block-separator has-alpha-channel-opacity"/>\n<!-- /wp:separator -->')
-    elif (m := re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)):
-        cap, img = inline(m.group(1)), media.get(m.group(2), m.group(2))
-        parts.append(f'<!-- wp:image {{"sizeSlug":"large"}} -->\n<figure class="wp-block-image size-large"><img src="{img}" alt="{html.escape(" ".join(m.group(1).split()))}"/><figcaption class="wp-element-caption">{cap}</figcaption></figure>\n<!-- /wp:image -->')
-    elif re.match(r"\d+\. ", b):
-        items = re.split(r"\n(?=\d+\. )", b)
-        lis = "".join(f'<!-- wp:list-item -->\n<li>{inline(re.sub(r"^\d+\. ", "", i))}</li>\n<!-- /wp:list-item -->\n'
-                      for i in items)
-        parts.append(f'<!-- wp:list {{"ordered":true}} -->\n<ol class="wp-block-list">\n{lis}</ol>\n<!-- /wp:list -->')
-    else:
-        parts.append(f"<!-- wp:paragraph -->\n<p>{inline(b)}</p>\n<!-- /wp:paragraph -->")
-out.write_text("\n\n".join(parts) + "\n")
-print(f"{len(parts)} blocks -> {out}")
+
+def convert(text):
+    """Markdown blocks to WordPress block HTML; returns the list of blocks."""
+    blocks = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
+    parts = []
+    for b in blocks:
+        if b.startswith("# "):
+            parts.append(f'<!-- wp:heading {{"level":1}} -->\n<h1 class="wp-block-heading">{inline(b[2:])}</h1>\n<!-- /wp:heading -->')
+        elif b.startswith("### "):
+            parts.append(f'<!-- wp:heading {{"level":3}} -->\n<h3 class="wp-block-heading">{inline(b[4:])}</h3>\n<!-- /wp:heading -->')
+        elif b.startswith("## "):
+            parts.append(f'<!-- wp:heading -->\n<h2 class="wp-block-heading">{inline(b[3:])}</h2>\n<!-- /wp:heading -->')
+        elif b == "---":
+            parts.append('<!-- wp:separator -->\n<hr class="wp-block-separator has-alpha-channel-opacity"/>\n<!-- /wp:separator -->')
+        elif (m := re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)):
+            cap, img = inline(m.group(1)), MEDIA.get(m.group(2), m.group(2))
+            parts.append(f'<!-- wp:image {{"sizeSlug":"large"}} -->\n<figure class="wp-block-image size-large"><img src="{img}" alt="{html.escape(" ".join(m.group(1).split()))}"/><figcaption class="wp-element-caption">{cap}</figcaption></figure>\n<!-- /wp:image -->')
+        elif re.match(r"\d+\. ", b):
+            items = re.split(r"\n(?=\d+\. )", b)
+            lis = "".join(f'<!-- wp:list-item -->\n<li>{inline(re.sub(r"^\d+\. ", "", i))}</li>\n<!-- /wp:list-item -->\n'
+                          for i in items)
+            parts.append(f'<!-- wp:list {{"ordered":true}} -->\n<ol class="wp-block-list">\n{lis}</ol>\n<!-- /wp:list -->')
+        else:
+            parts.append(f"<!-- wp:paragraph -->\n<p>{inline(b)}</p>\n<!-- /wp:paragraph -->")
+    return parts
+
+
+def main():
+    src, out = Path(sys.argv[1]), Path(sys.argv[2])
+    text = src.read_text().split("\n---\n", 1)[1]          # body starts after the title and preamble
+    if len(sys.argv) > 3:
+        srcs = Path(sys.argv[3]).read_text().split("\n", 2)[2]   # drop the file's own heading
+        text = text.rstrip() + "\n\n## Sources\n\n" + srcs.strip() + "\n"
+    parts = convert(text)
+    out.write_text("\n\n".join(parts) + "\n")
+    print(f"{len(parts)} blocks -> {out}")
+
+
+if __name__ == "__main__":
+    main()

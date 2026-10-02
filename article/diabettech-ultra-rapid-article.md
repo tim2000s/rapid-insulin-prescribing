@@ -30,7 +30,7 @@ uncomfortable question: did health systems help create the low-demand market tha
 now retreating from? I think the answer is largely yes, and the rest of this piece sets out why, and
 where the evidence stops.
 
-I should say where I stand. I have used the fastest subcutaneous mealtime insulin available since
+I have used the fastest subcutaneous mealtime insulin available since
 each one reached the UK, some of the time on private prescription, because I read the pharmacology
 and the trials and decided that an insulin which starts working sooner was worth having. I built
 Boost, the open-source automated insulin delivery algorithm I develop, around the pharmacology of
@@ -201,9 +201,13 @@ one most people are already on, makes it harder to prescribe.
 ### The insulin that got through
 
 Tresiba (insulin degludec), Novo Nordisk's ultra-long-acting insulin, is a useful comparison: a newer
-insulin that the same formularies did make room for. It also costs more than the insulin it would
-replace, £3.11 per 100 units at list price in English primary care in July 2026 against £2.32 for
-Lantus. The ultra-rapid insulins cost no more than theirs.
+insulin that the same formularies did make room for. It also costs more than the insulins it would
+replace: £3.11 per 100 units at list price in English primary care in the year to July 2026, against
+£2.32 for Lantus and £2.00 for Semglee, the cheapest glargine biosimilar, which has been dispensed in
+England since 2019 ([prices](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/output/basal/PRICES.md)).
+Formularies made room for Tresiba with a cheaper long-acting insulin to protect. The ultra-rapid
+insulins were in that position only after Trurapi arrived in 2021, and before then they cost no more
+than the insulins they would replace.
 
 I read the same 38 formularies for Tresiba, using the same documents and the same four categories as
 for Lyumjev. Tresiba is on 37 of them and Lyumjev on 25. Of the 13 areas that leave Lyumjev off, 12
