@@ -1,0 +1,500 @@
+Adresseinformasjon fylles inn ved ekspedering. Se
+mottakerliste nedenfor.
+
+Deres ref.:
+
+Dato:
+25.01.2021
+
+Vår ref.:
+20/18154-4
+
+Saksbehandler:
+Malene Nerland
+
+REFUSJONSVEDTAK
+Statens legemiddelverk viser til deres dokumentasjon innsendt 20-10-2020 i forbindelse med
+vurdering av forhåndsgodkjent refusjon for insulin lispro (Lyumjev) etter folketrygdloven § 5-14, jf.
+blåreseptforskriften § 2 og legemiddelforskriften kapittel 14.
+Vedtak
+Med hjemmel i legemiddelforskriften § 14-8, er insulin lispro (Lyumjev) innvilget forhåndsgodkjent
+refusjon etter blåreseptforskriftens §§ 2, jf. 1b med følgende informasjon:
+Refusjonsberettiget bruk:
+Behandling av diabetes mellitus.
+Refusjonskoder:
+ICPC
+
+ICD
+
+Kode
+
+Tekst
+
+Vilkår
+
+Kode
+
+Tekst
+
+Vilkår
+
+T89
+T90
+W85
+
+Diabetes type 1
+Diabetes type 2
+Svangerskapsdiabetes
+
+---
+
+E10
+E11
+E13
+
+Diabetes mellitus type 1
+Diabetes mellitus type 2
+Andre spesifiserte typer
+diabetes mellitus
+Uspesifisert diabetes
+mellitus
+Diabetes mellitus som
+oppstår under svangerskap
+
+----
+
+E14
+O24.4
+
+Vilkår:
+----
+
+Statens legemiddelverk
+Postboks 240 Skøyen, 0213 Oslo
+Besøksadresse: Grensesvingen 26, 0663 Oslo
+post@legemiddelverket.no
+legemiddelverket.no
+
+Brev stiles til Statens legemiddelverk. Vennligst oppgi vår referanse.
+Tlf.: 22 89 77 00
+Kto.: 7694 05 00903
+Org.nr. 974 761 122
+
+25.01.2021
+
+20/18154-4
+
+Malene Nerland
+
+side 2 av 5
+
+Vedtaket gjelder følgende varenummer:
+067303
+391879
+546786
+553635
+467025
+Refusjonsinformasjonen skal fremkomme tydelig i alt markedsføringsmateriell.
+Vedtaket gjelder kun den bruken av legemidlet som er metodevurdert. Eventuelle andre
+bruksområder/ indikasjoner er ikke omfattet av dette vedtaket.
+Preparatet er gitt refusjon med følgende priser, jf. legemiddelforskriften § 14-9:
+Varenummer
+
+Styrke
+(E/ml)
+
+067303
+391879
+546786
+553635
+467025
+
+200 E/ml
+100 E/ml
+100 E/ml
+100 E/ml
+100 E/ml
+
+Pakningsstørrelse Mengde AIP
+per
+beholder
+(ml)
+5
+3
+579,57
+5
+3
+296,06
+5
+3
+296,06
+5
+3
+283,66
+1
+10
+148,23
+
+AUP
+
+Refusjonspris
+
+778,80
+415,60
+415,60
+399,70
+226,20
+
+778,80
+415,60
+415,60
+399,70
+226,20
+
+Refusjonspris gjelder så lenge preparatet har refusjon. Refusjonsprisen settes slik at døgnkostnaden
+for insulin lispro (Lyumjev) ikke skal være høyere enn maksimalpris/ refusjonspris/ trinnpris for
+referansealternativet, som i denne vurderingen er Humalog. Ved en eventuell revurdering av prisen
+for preparatet og/ eller referansealternativet, vil den til enhver tid laveste pris av maksimalpris,
+refusjonspris og trinnpris beregnet etter hovedregelen i legemiddelforskriften kapittel 12 legges til
+grunn. Dette gjelder også hvis Humalog inngår i bytteordningen for legemidler og det fastsettes en
+trinnpris. Forslag til endring i apotekloven § 6-6 om at biotilsvarende legemidler kan omfattes av
+bytteordningen i apotek er under behandling av Helse- og omsorgsdepartementet (1).
+Vedtaket trer i kraft 15-02-2021. Forhåndsgodkjent refusjon gjelder tidligst fra denne dato, men
+ikke før markedsføringsdato i Norge. Vedtaket kan revurderes og endres dersom det tilkommer nye
+forhold som endrer grunnlaget eller premissene for refusjonsvedtaket, jf. legemiddelforskriften §
+14-11.
+Begrunnelse
+Vilkårene i blåreseptforskriften § 1b er oppfylt.
+Legemiddelverket har gjennomført en forenklet metodevurdering hvor det har blitt vurdert om
+kostnadene ved bruk av Lyumjev står i et rimelig forhold til den forventede effekten av
+behandlingen. Legemiddelverket vurderer at relevant komparator vil være andre insulin lispro
+preparater med forhåndsgodkjent refusjon (Humalog og Insulin lispro Sanofi).
+Klinisk dokumentasjon
+Lyumjev er insulin lispro i en ny formulering, kalt LY900014, som inneholder to ekstra hjelpestoffer:
+treprostinil og sitrat som er ment å gi raskere innledende absorpsjon av insulin lispro etter
+
+25.01.2021
+
+20/18154-4
+
+Malene Nerland
+
+side 3 av 5
+
+injeksjon/infusjon, og dermed føre til en tidligere glukosesenkende effekt sammenlignet med
+Humalog. Den kliniske effekten er i EMA vurdert til at den overordnede glukosesenkende effekten
+er sammenlignbar mellom Lyumjev og Humalog, og at én enhet med Lyumjev tilsvarer én enhet
+med Humalog (2). Lilly beskriver i sin innsendte dokumentasjon at det ikke er noen mereffekt eller
+endring i sikkerhet som følge av å bruke Lyumjev sammenlignet med Humalog og at en
+sammenligning av kostnad per dag for de to legemidlene vil være grunnlag for å kunne gjøre en
+vurdering av refusjon.
+Det er tre fase 3 studier som støtter søknaden, hvor til sammen 1944 pasienter med T1DM
+(diabetes mellitus type 1) eller T2DM (diabetes mellitus type 2) er behandlet med enten Lyumjev
+eller Humalog. I de to hovedstudiene Pronto-T1D (N=1222) og Pronto-T2D (N=673) ble pasientene
+randomisert til å få enten Lyumjev eller Humalog. I EPAR konkluderes det med at Lyumjev ikke har
+dårligere effekt (non-inferior) sammenlignet med Humalog når det gjelder endring av HbA1c etter
+26 uker (2).
+Det er antatt at pasientpopulasjonen for Lyumjev vil være lik som for Humalog. Foreløpig er
+imidlertid sikkerhet og effekt av Lyumjev hos barn og ungdom under 18 år ikke blitt fastslått, mens
+Humalog er godkjent til barn.
+Helseøkonomisk analyse og budsjettmessige konsekvenser
+Lilly har levert en prissammenligning av Lyumjev og Humalog. Tabellen under viser en
+sammenligning av enhetsprisene per pakke, per mg og døgnkostnad for alle legemidlene med
+virkestoffet insulin lispro. I sammenligningen av døgnkostnad har Lilly brukt en dosering på 40
+enheter per dag.
+Legemiddel Styrke
+
+Insulin
+lispro
+Sanofi
+
+Humalog
+
+100 E/ml
+(ferdigfylt
+penn,
+SoloStar)
+100 E/ml
+(sylinderamp.
+til AllStar
+Pro/JuniorStar)
+100 E/ml
+(hettegl.)
+100 E/ml
+(sylinderamp.)
+100 E/ml
+(hettegl.)
+100 E/ml
+(ferdigfylt
+penn,
+KwikPen)
+
+Kostnad per enhet
+Styrke Pakning Enhetspris
+per
+per
+pakke
+pakning
+(E)
+(AUP,NOK)
+1500
+5x3 ml 335,1
+
+Enhetspris
+per mg
+(AUP,
+NOK)
+0,22
+
+1500
+
+5x3 ml
+
+313
+
+1000
+1500
+
+1x10
+ml
+5x3 ml
+
+1000
+1500
+
+Kostnad per dag
+Dose
+Døgnkostnad
+per dag (AUP, NOK)
+(E)
+40
+
+8,9
+
+0,21
+
+40
+
+8,3
+
+224,3
+
+0,22
+
+40
+
+9,0
+
+399,7
+
+0,27
+
+40
+
+10,7
+
+10 ml
+
+226,2
+
+0,23
+
+40
+
+9,0
+
+5x3 ml
+
+415,6
+
+0,28
+
+40
+
+11,1
+
+25.01.2021
+
+Lyumjev
+
+20/18154-4
+
+100 E/ml
+(ferdigfylt
+penn, Junior
+KwikPen)
+200 E/ml
+(ferdigfylt
+penn,
+KwikPen)
+100 E/ml
+(sylinderamp.)
+100 E/ml
+(hettegl.)
+100 E/ml
+(ferdigfylt
+penn,
+KwikPen)
+100 E/ml
+(ferdigfylt
+penn, Junior
+KwikPen)
+200 E/ml
+(ferdigfylt
+penn,
+KwikPen)
+
+Malene Nerland
+
+side 4 av 5
+
+1500
+
+5x3 ml
+
+415,6
+
+0,28
+
+40
+
+11,1
+
+3000
+
+5x3 ml
+
+778,8
+
+0,26
+
+40
+
+10,4
+
+1500
+
+5x3 ml
+
+399,70
+
+0,27
+
+40
+
+10,7
+
+1000
+
+1x10ml
+
+226,20
+
+0,23
+
+40
+
+9,0
+
+1500
+
+5x3ml
+
+415,60
+
+0,28
+
+40
+
+11,1
+
+1500
+
+5x3ml
+
+415,60
+
+0,28
+
+40
+
+11,1
+
+3000
+
+5x3 ml
+
+778,80
+
+0,26
+
+40
+
+10,4
+
+Fra tabellen vises det at Lyumjev har lik pris for alle pakningene sammenlignet med Humalog.
+Insulin lispro Sanofi er et biotilsvarende legemiddel til Humalog, og har noe lavere pris. Lyumjev må
+følge prisen for de ulike pakningene med Humalog ved en endring i pris per pakning for Humalog.
+Legemiddelverket vurderer at forhåndsgodkjent refusjon for Lyumjev ikke vil gi budsjettvirkninger
+av betydning.
+Kriteriene for innvilgelse av forhåndsgodkjent refusjon er oppfylt, jf. legemiddelforskriften kapittel
+14.
+Statens legemiddelverk har på dette grunnlag vedtatt å føre legemidlet opp i refusjonslisten, jf.
+legemiddelforskriften kapittel 14 og blåreseptforskriften § 2.
+Klage
+Vedtaket kan påklages til Helse- og omsorgsdepartementet. Klagen sendes Statens legemiddelverk.
+For nærmere informasjon om klageretten, se melding om rett til å klage over forvaltningsvedtak.
+Saksbehandlingstid
+Det følger av legemiddelforskriften § 14-10 at vedtak etter § 14-8 skal fattes senest 180 dager etter
+at Statens legemiddelverk har mottatt opplysninger etter § 14-4. Statens legemiddelverk viser til
+følgende saksbehandlingstider:
+
+25.01.2021
+
+20/18154-4
+
+Malene Nerland
+
+side 5 av 5
+
+Innsendt dokumentasjon: 20-10-2020
+Mottatt og validert dokumentasjon (7 dager): 27-10-2020
+Opphold i saksbehandlingstiden: 0 dager
+Ferdig behandlet: 25-01-2021
+Total saksbehandlingstid: 90 dager
+Publisering
+Statens legemiddelverk vil publisere refusjonsvedtaket på våre nettsider:
+www.legemiddelverket.no.
+Statens legemiddelverk vil imidlertid ikke publisere opplysninger som anses for å være
+forretningshemmeligheter etter taushetspliktbestemmelsen i legemiddelloven § 30:
+"Enhver som i medhold av stilling eller verv etter loven får kjennskap til drifts- eller
+forretningshemmelighet skal med de begrensninger som følger av hans gjøremål etter loven, tie
+med det han slik får vite."
+Retningslinjer om taushetsplikt i forbindelse med metodevurderinger er publisert på Statens
+legemiddelverk sine nettsider.
+Statens legemiddelverk ber på dette grunnlag om deres tilbakemelding med hensyn til om vedtaket
+må anses for å inneholde forretningshemmeligheter. I så fall ber vi om en redegjørelse for hvilke
+opplysninger dette er, og en begrunnelse om hvorfor det vil være av konkurransemessig betydning
+å hemmeligholde opplysningene. Vi ber om at deres tilbakemelding er oss i hende senest tre uker
+etter mottak av dette vedtaket.
+
+Vennlig hilsen
+Statens legemiddelverk
+
+Hallstein Husbyn
+enhetsleder
+
+Kirsti Hjelme
+lagleder
+
+Dokumentet er elektronisk godkjent og har derfor ikke håndskrevne signaturer.
+Kopi:
+Helse- og omsorgsdepartementet
+Helsedirektoratet - Divisjon for finansiering og helseøkonomi, avd ref
+HELFO (Helseøkonomiforvaltningen)
+Helseklage
+
+Mottaker:
+Eli Lilly Norge AS, Postboks 6090 Etterstad, 0601 OSLO
+
+

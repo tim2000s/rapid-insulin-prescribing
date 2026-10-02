@@ -1,0 +1,1351 @@
+                    COMMISSION DE LA TRANSPARENCE
+                                                 Avis
+                                            6 février 2019
+
+                           Date d’examen par la Commission : 23 janvier 2019
+
+
+
+                                         insuline dégludec
+
+
+    TRESIBA 100 unités/ml, solution injectable en cartouche
+    B/5 cartouches de 3 mL (CIP : 34009 268 5 33 8 9)
+    TRESIBA 100 unités/ml, solution injectable en stylo prérempli
+    B/5 stylos de 3 mL (CIP : 34009 268 531 5 0)1
+    TRESIBA 200 unités/ml, solution injectable en stylo prérempli
+    B/2 stylos de 3 mL (CIP : 34009 268 578 1 3)
+    TRESIBA 200 unités/ml, solution injectable en stylo prérempli
+    B/3 stylos de 3 mL (CIP : 34009 268 579 8 1)
+
+
+    Laboratoire NOVO NORDISK
+
+    Code ATC                A10AE06 (insuline et analogue pour injection, d’action lente)
+
+
+
+                            Réévaluation de l’Amélioration du Service Médical Rendu à la demande
+    Motif de l’examen
+                            du laboratoire.
+
+
+
+                            Sécurité Sociale (CSS L.162-17)
+    Listes concernées
+                            Collectivités (CSP L.5123-2)
+
+                            « TRESIBA est indiqué dans le traitement du diabète de l’adulte à haut
+    Indication concernée
+                            risque d’hypoglycémie. »2
+
+
+
+
+1
+   Cette présentation a fait l’objet d’un avis favorable au remboursement (Avis du 02/04/2014) mais n’est pas
+remboursable, à ce jour.
+2
+  Il s’agit d’une sous-population de l’indication AMM de TRESIBA (cf. paragraphe 03).
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         1/25
+Avis 2 modifié le 13/03/2019
+                     Compte tenu :
+                          - de la supériorité démontrée de TRESIBA 100 unités/ml par rapport à
+                              l’insuline glargine 100 UI/ml en termes de moindre survenue
+                              d’épisodes hypoglycémiques sévères ou symptomatiques confirmés,
+                              dans 2 études randomisées, en double aveugle, réalisées l’une chez
+                              le patient adulte diabétique de type 1 et l’autre chez le patient adulte
+                              diabétique type 2, sur une durée de 64 semaines,
+                          - des résultats d’une étude de tolérance cardiovasculaire portant sur
+                              une large population de patients diabétiques de type 2 à risque
+ASMR
+                              cardiovasculaire, ayant mis en évidence la non infériorité de
+                              TRESIBA 100 unités/ml par rapport à insuline glargine 100 UI/ml sur
+                              le taux d’événements cardiovasculaires et une moindre fréquence
+                              d’hypoglycémies avec TRESIBA par rapport à l’insuline glargine 100
+                              UI/ml,
+                     la Commission estime que TRESIBA apporte une amélioration du service
+                     médical rendu mineure (ASMR IV) en termes de tolérance par rapport à
+                     l’insuline glargine 100 UI/ml, chez les patients adultes diabétiques de type 1
+                     ou 2, à haut risque d’hypoglycémie.
+                     Chez les patients adultes diabétiques de type 1 ou de type 2 à haut risque
+                     d’hypoglycémie :
+                     L’éducation thérapeutique a une place primordiale dans la prévention des
+Place dans la
+                     hypoglycémies. Compte tenu des nouvelles données disponibles en termes
+stratégie
+                     de moindre survenue d’épisodes hypoglycémiques sévères ou
+thérapeutique
+                     symptomatiques confirmés par rapport à l’utilisation de l’insuline glargine,
+                     TRESIBA est un traitement insulinique basal d’action lente adapté aux
+                     patients adultes diabétiques à haut risque d’hypoglycémie.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    2/25
+Avis 2 modifié le 13/03/2019
+01 INFORMATIONS ADMINISTRATIVES ET REGLEMENTAIRES
+                                       Date initiale (procédure centralisée) : 21/01/2013
+    AMM
+                                       Plan de gestion des risques
+    Conditions de prescription et
+    de délivrance / statut             Liste II
+    particulier
+                                       2019
+                                       A             Voies digestives et métabolisme
+                                       A10           Médicaments du diabète
+    Classification ATC
+                                       A10A          Insulines et analogues
+                                       A10AE         Insulines et analogues pour injection, d’action lente
+                                       A10AE06       Insuline dégludec
+
+
+
+02 CONTEXTE
+Le laboratoire sollicite une réévaluation de l’amélioration du service médical rendu (ASMR) de
+TRESIBA, à base d’insuline dégludec, qui est une insuline basale, analogue de l’insuline d’action
+lente, dans le traitement des patients adultes diabétiques à haut risque d’hypoglycémie sur la
+base de 3 études de tolérance :
+    - les études SWICTH 1 et 2, randomisées, en double aveugle qui avaient pour objectif de
+        comparer TRESIBA 100 unités/ml à l’insuline glargine 100 UI/ml, en termes de taux
+        d’épisodes hypoglycémiques sévères ou symptomatiques confirmés, chez des patients à
+        haut risque d’hypoglycémie ayant un diabète de type 1 (SWITCH 1) ou de type 2 (SWITCH
+        2),
+    - une étude de tolérance cardiovasculaire ayant comparé TRESIBA 100 unités/ml à l’insuline
+        glargine 100 UI/ml.
+
+Les évaluations antérieures du SMR et de l’ASMR de TRESIBA sont rappelées dans le tableau
+suivant :
+                       Date avis
+                          (motif)                          SMR                             ASMR
+                        Indication
+                 TRESIBA 100 UI/ml3                                     ASMR V dans la prise en charge par les
+                      2 avril 2014                                      analogues lents de l’insuline (LANTUS et
+                                                         Important
+                      (Inscription)                                     LEVEMIR) des patients adultes atteints
+          Traitement du diabète de l’adulte.                            de diabète de type 1 ou de type 2.
+                  TRESIBA 200 UI/ml
+                  22 novembre 2017                                      ASMR V par rapport à TRESIBA 100
+                                                         Important
+                      (Inscription)                                     unités/ml.
+          Traitement du diabète de l’adulte.
+                  TRESIBA 100 UI/ml
+                  TRESIBA 200 UI/ml                                     ASMR V par rapport à l’insuline détémir
+                   5 septembre 2018                                     dans la prise en charge du diabète de
+                                                         Important
+               (Extension d’indication)                                 type 1 de l’enfant âgé de plus de 1 an et
+     Traitement du diabète de l’adolescent et de                        de l’adolescent.
+               l’enfant à partir de 1 an.
+
+
+
+3
+  La présentation TRESIBA 100 unités/ml, solution injectable en stylo prérempli, B/5 stylos de 3 mL (CIP : 34009
+268 531 5 0) a fait l’objet d’un avis favorable au remboursement (Avis du 2/04/2014) mais n’est pas remboursable, à ce
+jour.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                 3/25
+Avis 2 modifié le 13/03/2019
+03 INDICATION THERAPEUTIQUE
+« TRESIBA est indiqué dans le traitement du diabète de l’adulte, de l’adolescent et de l’enfant à
+partir de l’âge de 1 an. »
+
+
+
+04 POSOLOGIE
+« Ce médicament est une insuline basale pour administration sous-cutanée une fois par jour à
+n’importe quel moment de la journée, de préférence au même moment chaque jour.
+La teneur en insuline des analogues de l’insuline, y compris l’insuline dégludec, est exprimée en
+unités. Une (1) unité d’insuline dégludec correspond à 1 unité internationale d’insuline humaine, à
+1 unité d’insuline glargine (100 unités/ml) ou à 1 unité d’insuline détémir.
+Chez les patients diabétiques de type 2, ce médicament peut être administré seul ou en
+association avec des antidiabétiques oraux, des agonistes des récepteurs du GLP-1 ou une
+insuline en bolus Chez les patients diabétiques de type 1, TRESIBA doit être associé à une
+insuline d’action courte/rapide afin de couvrir les besoins en insuline lors des repas.
+La dose de TRESIBA doit être ajustée en fonction des besoins individuels du patient. Il est
+recommandé d’optimiser le contrôle glycémique par l’ajustement de la dose d’insuline en fonction
+de la glycémie à jeun.
+Un ajustement de la dose peut être nécessaire si le patient augmente son activité physique,
+modifie son régime alimentaire habituel ou en cas de maladie concomitante. » […]
+Flexibilité de l’heure d’administration de la dose
+Occasionnellement, lorsque l’administration de la dose n’est pas possible au même moment de la
+journée, TRESIBA permet une flexibilité de l’heure d’administration de l’insuline (voir rubrique 5.1).
+Un intervalle minimum de 8 heures entre deux injections devra toujours être respecté. Il n’y a pas
+d’expérience clinique concernant la flexibilité de l’heure d’administration de la dose avec TRESIBA
+chez les enfants et les adolescents.
+Il est conseillé aux patients qui oublient une injection de la faire dès qu’ils s’en rendent compte,
+puis de reprendre leur schéma posologique habituel en une fois par jour. »
+
+
+
+05 BESOIN MEDICAL
+05.1 Diabète de type 1
+Les patients DT1 doivent bénéficier d’une prise en charge nutritionnelle et d’un traitement par
+l’insuline avec auto surveillance glycémique systématique et pluriquotidienne. La répartition de
+l’apport alimentaire en énergie et en glucides doit correspondre au profil d’action des insulines et à
+l‘activité physique. L’objectif principal du traitement est le contrôle de la glycémie pour prévenir les
+complications vasculaires à long terme et éviter les complications métaboliques aiguës. Selon les
+recommandations de la HAS4, le traitement du DT1 a pour objectif de maintenir l’hémoglobine
+glyquée (HbA1c) à moins de 7 ou 7,5%, en prenant garde au risque d'hypoglycémie.
+
+
+05.2 Diabète de type 2
+Selon les recommandations de la HAS5, une cible d’HbA1c ≤ 7% est recommandée pour la plupart
+des patients DT2. Dans le cas général, l’insulinothérapie est recommandée si l’objectif glycémique
+
+4
+  HAS. Guide –Affection de longue durée. Diabète de type 1 de l’adulte. Juillet 2007.
+5
+  HAS. ANSM. Recommandation de Bonne Pratique. Stratégie médicamenteuse du contrôle glycémique du diabète de
+type 2. Janvier 2013.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                        4/25
+Avis 2 modifié le 13/03/2019
+n’est pas atteint avec les antidiabétiques oraux (ADO) ou en cas d’intolérance ou de contre-
+indication aux ADO. Lors de la mise en place de l’insulinothérapie, il est recommandé de débuter
+de préférence par une insuline d’action intermédiaire (NPH) au coucher ou par un analogue à
+longue durée d’action, si le risque d’hypoglycémie nocturne est préoccupant. En cas de non
+atteinte de l’objectif glycémique malgré la mise en place de l’insulinothérapie, celle-ci sera
+intensifiée. Les analogues du GLP-1 sont une alternative à l’insuline en cas d’indice de masse
+corporelle (IMC) ≥ 30 kg/m² ou si la prise de poids sous insuline est préoccupante.
+
+Le besoin médical en insuline d’action lente dans la prise en charge du diabète de type 1 et
+de type 2 est couvert.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique             5/25
+Avis 2 modifié le 13/03/2019
+06 COMPARATEURS CLINIQUEMENT PERTINENTS
+06.1 Médicaments
+      Nom               CPT*                                                                                                                                               Prise en
+      (DCI)           identique           Indication             Date de l’avis de la CT     SMR                              ASMR (Libellé)                               charge
+   Laboratoire         Oui/Non                                                                                                                                            (Oui/Non)
+INSUMAN
+BASAL
+                                  Diabète sucré nécessitant
+(Insuline NPH)          Oui                                     19/03/2014 (RI)            Important   Sans objet                                                           Oui
+                                  un traitement à l’insuline.
+Sanofi-Aventis
+France
+INSULATARD                                                      21/02/2001 (Inscription                Inscription stylo INNOLET : ASMR V par rapport aux
+(Insuline NPH)          Oui       Traitement du diabète         stylo INNOLET)             Important   présentations en stylo pré-rempli jetable actuellement               Oui
+Novo Nordisk                                                    03/02/2016 (RI)                        commercialisées.
+                                  Diabète          insulino-
+UMULINE NPH
+                                  dépendant ou insulino-
+(Insuline NPH)          Oui                                     03/05/2017 (RI)            Important   Sans objet                                                           Oui
+                                  nécessitant   et     leurs
+Lilly
+                                  complications
+                                                                                                       ASMR III par rapport aux insulines NPH en termes de
+                                                                                                       tolérance avec moins d’hypoglycémies nocturnes et en
+                                                                22/01/2003 (Inscription)   Important                                                                        Oui
+                                                                                                       termes de commodité d’emploi (1 injection par jour sans
+                                                                                                       remise en suspension).
+                                                                                                       Dans la population pédiatrique, les données disponibles,
+                                                                23/07/2003 (Modification               selon lesquelles l’insuline glargine ne se démarque pas, ni en
+                                                                                           Important                                                                        Oui
+                                                                de l’indication)                       terme d’efficacité, ni en terme de tolérance, de l’insuline NPH,
+                                                                                                       ne peuvent conduire à proposer une ASMR.
+LANTUS 100                        Diabète sucré de l’adulte,
+                                                                                                       Compte tenu des résultats des études cliniques disponibles
+unités/ml                         de l’adolescent et de
+                                                                                                       et de l'étude observationnelle réalisée qui a confirmé l'apport
+(Insuline glargine)     Oui       l’enfant à partir de 2 ans    21/01/2009 (RI)            Important                                                                        Oui
+                                                                                                       de LANTUS en conditions réelles d'utilisation, LANTUS
+Sanofi-Aventis                    nécessitant un traitement
+                                                                                                       apporte une ASMR IV en termes de tolérance.
+France                            par insuline
+                                                                                                       Dans l’attente des résultats des études demandées par
+                                                                                                       l’EMA, la Commission considère qu’elle ne peut confirmer
+                                                                25/05/2011
+                                                                                                       l’avantage en termes de tolérance qu’elle avait reconnu à
+                                                                (Réévaluation SMR,         Important                                                                        Oui
+                                                                                                       LANTUS. […] dans l’état actuel du dossier, que l’insuline
+                                                                ASMR)
+                                                                                                       glargine n’apporte pas d’ASMR (niveau V) par rapport aux
+                                                                                                       autres insulines.
+                                                                18/12/2013 (Extension                  LANTUS n’apporte pas d’ASMR (V) dans la prise en charge
+                                                                                           Important                                                                        Oui
+                                                                d’indication)                          des enfants âgés de 2 à 5 ans atteints de diabète de type 1.
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                              6/25
+Avis 2 modifié le 13/03/2019
+      Nom               CPT*                                                                                                                                              Prise en
+      (DCI)           identique           Indication              Date de l’avis de la CT      SMR                             ASMR (Libellé)                             charge
+   Laboratoire         Oui/Non                                                                                                                                           (Oui/Non)
+
+                                                                                                         LANTUS n’apporte pas d’ASMR (V) dans la prise en charge
+                                                                 07/05/2014 (Réévaluation)
+                                                                                             Important   des patients adultes ou adolescents et des enfants âgés de        Oui
+                                                                 18/04/2018 (RI)
+                                                                                                         plus de 2 ans atteints de diabète de type 1 ou de type 2.
+
+TOUJEO 300
+                                                                                                         Compte tenu des données disponibles, à savoir des études
+unités/ml
+                                  Traitement du        diabète   07/10/2015 (Inscription)                de non infériorité versus LANTUS, et de son profil de
+(Insuline glargine)     Oui                                                                  Important                                                                     Oui
+                                  sucré de l’adulte.             18/04/2018 (RI)                         tolérance, TOUJEO 300 UI/ml n’apporte pas d’ASMR (V)
+Sanofi-Aventis
+                                                                                                         par rapport à LANTUS 100 UI/ml.
+France
+                                                                                                         En tant que médicament biosimilaire de la spécialité
+ABASAGLAR 100                     Traitement du diabète                                                  LANTUS, ABASAGLAR n’apporte pas d’ASMR (V) dans la
+                                                                 23/09/2015 (Inscription)    Important                                                                     Oui
+unités/ml                         sucré de l’adulte, de                                                  prise en charge du diabète sucré de l’adulte, de l’adolescent
+                        Oui
+(Insuline glargine)               l’adolescent et de l’enfant                                            et de l’enfant à partir de 2 ans.
+Lilly                             à partir de 2 ans              25/05/2016 (Inscription                 Complément de gamme qui n’apporte pas d’ASMR (V) par
+                                                                                             Important                                                                     Oui
+                                                                 complément de gamme)                    rapport aux présentations déjà inscrites.
+                                                                                                         Compte-tenu des faits suivants :
+                                                                                                         -    LEVEMIR,       comme     LANTUS,     entraîne   moins
+                                                                                                         d’hypoglycémies nocturnes que la NPH,
+                                                                                                         - LANTUS peut le plus souvent être administrée en 1 seule
+                                                                 30/03/2005 : Inscription    Important   injection par jour,                                               Oui
+                                                                                                         - La variation moyenne de poids a été plus faible, dans les
+                                                                                                         études cliniques, chez les patients sous LEVEMIR que chez
+                                                                                                         les patients sous NPH, LEVEMIR partage l’ASMR de
+                                                                                                         LANTUS versus NPH.
+
+LEVEMIR                           Traitement du diabète de                                               Au vu des données cliniques limitées, reposant sur des
+(Insuline détémir)      Oui       l’adulte, de l’adolescent et   20/06/2012                              résultats d’efficacité descriptifs issus d’un sous-groupe,
+Novo Nordisk                      de l’enfant à partir de 1 an   (Extension d’indication :   Important   LEVEMIR n’apporte pas d’ASMR (V) par rapport àl’insuline          Oui
+                                                                 enfant de 2 à 5 ans)                    NPH dans la prise en charge des patients atteints de diabète
+                                                                                                         de type 1 âgés de 2 à 5 ans.
+                                                                                                         LEVEMIR n’apporte pas d’ASMR (V) dans la prise en
+                                                                 18/12/2013 (RI)                         charge des patients adultes ou adolescents et des enfants
+                                                                                             Important                                                                     Oui
+                                                                 04/03/2015 (RI)                         âgés de plus de 2 ans atteints de diabète de type 1 ou de
+                                                                                                         type 2.
+                                                                                                         Compte tenu des données cliniques limitées, la LEVEMIR
+                                                                 21/09/2016 (Extension
+                                                                                                         n’apporte pas d’ASMR (V) par rapport à l’insuline dégludec
+                                                                 d’indication : enfant à     Important                                                                     Oui
+                                                                                                         dans la prise en charge du diabète de type 1 de l’enfant âgé
+                                                                 partir de 1 an)
+                                                                                                         de 1 à 2 ans.
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                7/25
+Avis 2 modifié le 13/03/2019
+06.2 Comparateurs non médicamenteux
+Sans objet.
+
+ Conclusion
+Les comparateurs cités dans le tableau sont tous cliniquement pertinents.
+
+
+
+07 INFORMATIONS SUR LE MEDICAMENT AU NIVEAU INTERNATIONAL
+La spécialité TRESIBA est prise en charge dans ses indications dans les autres pays Européens.
+
+
+
+08 RAPPEL DES PRECEDENTES EVALUATIONS
+    TRESIBA 100 U/mL
+
+    Date de l’avis          2 avril 2014
+    (motif de la demande)   (Inscription Sécurité Sociale et Collectivités)
+
+    Indication              Traitement du diabète de l’adulte.
+
+    SMR                     Important dans le traitement du diabète de l’adulte.
+
+                            Compte tenu :
+                            - du contrôle glycémique obtenu avec TRESIBA (insuline dégludec)
+                            comparable à celui observé avec l’insuline glargine (LANTUS) dans le
+                            diabète de type 1 et de type 2 et l’insuline détémir (LEVEMIR) dans le
+                            diabète de type 1,
+                            - de la pertinence clinique difficilement appréciable d’un éventuel avantage
+                            en termes de réduction de la survenue d’hypoglycémies notamment
+                            nocturnes au vu des différences très faibles observées par rapport aux
+                            autres analogues lents et ce, malgré une évaluation méthodologique
+    ASMR
+                            rigoureuse,
+    (libellé)
+                            - de la non-démonstration d’un impact en termes de morbi-mortalité
+                            notamment cardiovasculaire,
+                            - de l’absence de donnée robuste permettant de recommander
+                            préférentiellement un analogue lent de l’insuline,
+                            la Commission de la Transparence considère que TRESIBA
+                            n’apporte pas d’amélioration du service médical rendu (ASMR V,
+                            inexistante) dans la prise en charge par les analogues lents de
+                            l’insuline (LANTUS et LEVEMIR) des patients adultes atteints de
+                            diabète de type 1 ou de type 2.
+
+
+    TRESIBA 200 U/mL
+
+    Date de l’avis          22 novembre 2017
+    (motif de la demande)   (Inscription Sécurité Sociale et Collectivités)
+
+
+    Indication              Traitement du diabète de l’adulte.
+
+    SMR                     Important uniquement dans le traitement du diabète de l’adulte.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       8/25
+Avis 2 modifié le 13/03/2019
+                                Dans le traitement du diabète de l’adulte, cette spécialité est un
+     ASMR
+                                complément de gamme qui n’apporte pas d’amélioration du service
+     (libellé)
+                                médical rendu (ASMR V) par rapport à TRESIBA 100 unités/ml.
+
+
+     TRESIBA 100 U/mL et 200 U/mL
+
+     Date de l’avis             5 septembre 2018
+     (motif de la demande)      (Extension d’indication)
+
+
+                                TRESIBA est indiqué dans le traitement du diabète de l’adolescent
+     Indication                 et de l’enfant à partir de 1 an.
+
+
+     SMR                        Important.
+
+                                Compte tenu de :
+                                    - la démonstration de la non-infériorité de l’insuline dégludec
+                                        (TRESIBA) par rapport à l’insuline détémir, en association
+                                        avec l’insuline asparte chez l’adolescent et l’enfant à partir
+                                        de 1 an en termes de variation d’HbA1c après 26 semaines
+     ASMR                               de traitement,
+     (libellé)                      - et de l’absence d’avantage démontré en termes de tolérance,
+                                        de qualité de vie ou de commodité d’emploi,
+                                la Commission considère que TRESIBA n’apporte pas d’amélioration
+                                du Service Médical Rendu (niveau V) par rapport à l’insuline détémir
+                                dans la prise en charge du diabète de type 1 de l’enfant âgé de plus
+                                de 1 an et de l’adolescent.
+
+
+
+
+09 ANALYSE DES DONNEES DISPONIBLES
+La demande de réévaluation s’appuie sur 3 études de phase IIIb chez des patients DT1 et DT2 à
+haut risque d’hypoglycémie ou à haut risque cardiovasculaire :
+    - L’étude SWITCH 1, de non-infériorité suivie d’une analyse de supériorité, visait à évaluer le
+        nombre d’épisodes hypoglycémiques de TRESIBA 100 unités/ml + insuline asparte versus
+        insuline glargine 100 UI/ml6 + insuline asparte selon un schéma basal bolus, chez des
+        patients DT1 à haut risque d’hypoglycémie,
+    - L’étude SWITCH 2 de supériorité visait à évaluer le nombre d’épisodes hypoglycémiques
+        de TRESIBA 100 unités/ml ± antidiabétique oral (ADO) versus insuline glargine 100 UI/ml6
+        ± ADO, chez des patients DT2 à haut risque d’hypoglycémie, traités par une insuline
+        basale ± ADO.
+Le critère d’évaluation principal de ces 2 études est un critère de tolérance, à savoir le nombre
+d’épisodes hypoglycémiques sévères ou symptomatiques confirmés et non un critère d’efficacité
+glycémique.
+    - L'étude DEVOTE a évalué la tolérance cardiovasculaire de TRESIBA 100 unités/ml par
+        rapport à l’insuline glargine 100 UI/ml chez des patients DT2 à haut risque
+        cardiovasculaire.
+
+
+09.1 Tolérance/Effets indésirables
+
+6
+    L’étude a été réalisée versus LANTUS.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     9/25
+Avis 2 modifié le 13/03/2019
+9.1.1 Etudes versus insuline glargine 100 UI/ml chez des patients DT1 (SWITCH 1)
+      et DT2 (SWITCH 2) à haut risque d’hypoglycémie
+
+9.1.1.1 Méthodologie des études
+
+La méthodologie des 2 études de comparaison de TRESIBA versus l’insuline glargine 100 UI/ml,
+comportait les caractéristiques communes suivantes :
+    elles ont été réalisées en double-aveugle et ont porté uniquement sur les hypoglycémies
+      symptomatiques,
+    elles ont inclus une population de patients avec au moins un risque d’hypoglycémie,
+    l’horaire d’injection de l’insuline faisait l’objet d’une randomisation et a été déterminé pour
+      toute la durée de l’étude,
+    les doses d’insuline glargine et de TRESIBA ont été réduites de la même façon au début de
+      l’étude, pour obtenir des doses d’insuline similaires pendant la phase de titration.
+
+
+
+Référence               Etude SWITCH 1 et étude SWITCH 2
+
+
+                        Phase IIIb en titration forcée, multicentriques, contrôlées, randomisées (1:1) en
+Type de l’étude
+                        double-aveugle avec un schéma thérapeutique croisé, réalisées sur 64 semaines.
+                        Démontrer que TRESIBA 100 unités/ml, comparé à l’insuline glargine 100 UI/ml
+                        administrée une fois par jour, était associé à un taux plus faible d’épisodes
+Objectif de l’étude     hypoglycémiques sévères (nécessitant l’intervention d’un tiers et validés par un
+                        comité d’évaluation indépendant, autrement dit « adjudiqués ») ou symptomatiques
+                        confirmés (glycémie mesurée <3,1 mmol/L (0,56 g/l)).
+                                               METHODE
+                        Critères d’inclusion SWITCH 1 :
+                             18 ans ou plus avec DT1 ≥ 52 semaines avant la première visite
+                             Sous traitement basal bolus (avec insuline NPH i.d/b.i.d ou insuline detemir
+                                 i.d/b.i.d avec 2 à 4 injections/ jour de n’importe quelle insuline à action
+                                 rapide prise lors des repas) ou sous perfusion d’insuline sous-cutanée en
+                                 continu (avec une insuline à action rapide) depuis au moins 26 semaines
+                                 avant la première visite
+                             Taux d’HbA1c ≤10 %
+                        Critères d’inclusion SWITCH 2 :
+                             18 ans ou plus avec DT2 ≥ 26 semaines avant la première visite
+                             Sous traitement avec n’importe quelle insuline basale (i.d ou b.i.d) ± ADO
+                                 depuis au moins 26 semaines avant la première visite. Pour les patients
+                                 avec insuline basale b.i.d, la dose journalière doit être <75 unités
+                             Taux d’HbA1c ≤9,5 %
+                        Critères d’inclusion communs :
+Critères de sélection        Patient avec au moins un des critères suivants :
+                        -Survenue d’au moins un épisode d’hypoglycémie sévère durant l’année
+                        précédente
+                        - Insuffisance rénale chronique modérée, définie par un taux de filtration
+                        glomérulaire de 30 à 59 mL/min/1,73m2 mesurée par la formule CKD-Epi
+                        - N’a pas conscience et ne ressent pas les symptômes liés à l’hypoglycémie
+                        - Est diabétique depuis plus de 15 ans (SWITCH 1) ; exposition à l’insuline > 5 ans
+                        (SWITCH 2)
+                        - Survenue d’un épisode récent d’hypoglycémie (apparition de symptômes
+                        d’hypoglycémie et/ou une glycémie mesurée ≤0,70 g/l [≤3,9 mmol/L]) durant les 12
+                        semaines précédant la première visite (visite 1 de sélection)
+                             IMC ≤45 kg/m2
+                        Principaux critères de non inclusion :
+                             Traitement avec l’insuline glargine U100 ou TRESIBA U100 dans les 26
+                                 semaines précédant l’inclusion (SWITCH 1) ; traitement avec une insuline
+                                 bolus administrée séparément ou dans un mix dans une période de moins
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                      10/25
+Avis 2 modifié le 13/03/2019
+                                     de 26 semaines avant l’inclusion (SWITCH 2)
+                                    Traitement abaissant la glycémie autre que ceux cités dans les critères
+                                     d’inclusion dans une période de moins de 26 semaines avant l’inclusion
+                                    Accident coronaire ou vasculaire cérébral, déficience cardiaque de classe
+                                     III ou IV (New York Heart Association), infarctus du myocarde, angine de
+                                     poitrine instable, greffe de pontage d’artère coronaire ou angioplastie dans
+                                     les 26 semaines précédant la visite 1
+                                    Hypertension sévère non contrôlée ou non traitée définie par une tension
+                                     artérielle systolique ≥ 180 mmHg et / ou une tension artérielle diastolique
+                                     ≥100 mmHg
+                                    Fonction hépatique altérée (mesure de l’Alanine aminotransférase (ALAT)
+                                     ou de l’Aspartate aminotransférase (ASAT) ≥ 2,5 fois supérieure à la
+                                     normale)
+                                    Insuffisance rénale sévère définie par un taux de filtration glomérulaire
+                                     <30mL/min/1,73m² (formule CKD-Epi)
+Cadre et lieu de
+                            Etats Unis (SWITCH 1 et 2) et Pologne (SWITCH 1)
+l’étude
+                            TRESIBA 100 unités/ml + IAsp puis insuline glargine 100 UI/ml + IAsp et
+Produits étudiés
+                            inversement
+                            Nombre d’épisodes hypoglycémiques sévères nécessitant l’intervention d’un
+                            tiers et validés par un comité d’évaluation indépendant, autrement dit «
+Critère de jugement         adjudiqués ») ou symptomatiques confirmés (glycémie mesurée <3,1 mmol/L
+principal                   (0,56 g/l) survenus durant la phase d’entretien, c’est-à-dire après les 16
+                            semaines de titration dans les deux périodes de traitement (semaines 16 à 32
+                            et 48 à 64).
+                                - Nombre d’épisodes hypoglycémiques sévères ou symptomatiques
+                                    confirmés nocturnes pendant la phase d’entretien (après les 16 semaines
+                                    de titration dans les 2 périodes de traitement (semaines 16 à 32 et 48 à
+Critères de jugement
+                                    64)).
+secondaires
+                                -   Proportion de patients avec au moins un épisode hypoglycémique sévère
+                                    pendant la phase d’entretien, c’est-à-dire après les 16 semaines de titration
+                                    dans les deux périodes de traitement (semaines 16 à 32 et 48 à 64).
+Groupes de
+                            Les patients recevaient les mêmes traitements dans les 2 groupes.
+traitement
+                            Visite de sélection (visite 1) puis visite de randomisation (visite 2) suivies par 2
+                            périodes (période 1 et période 2) de traitement croisées (TRESIBA U100 + IAsp
+                            puis l’insuline glargine U100 + IAsp et inversement)7.
+                            Chacune des périodes de traitement se composait d’une phase de titration de 16
+                            semaines (pour atteindre un contrôle glycémique équivalent entre les 2 groupes)
+                            suivie d’une phase d’entretien de 16 semaines.
+                            Afin de réduire le risque initial d’hypoglycémie lors du passage vers une nouvelle
+                            insuline, une diminution de 20% de la dose de l’insuline basale lors de la
+                            randomisation et lors du cross-over était prévue. Dans chaque séquence de
+Déroulement de              traitement, une deuxième randomisation (1:1) a eu lieu par rapport à l’horaire de
+l’étude                     prise de l’insuline (matin ou soir)8.
+
+
+
+
+7
+  Ce schéma réduisait la variabilité interindividuelle en permettant aux patients de fonctionner comme leurs propres
+témoins.
+8
+  Le temps de 1/2 vie de TRESIBA est nettement supérieur à l’insuline glargine : 25 heures versus 12 heures. L’horaire
+de prise de l’insuline peut influencer l’intervalle de temps durant lequel les patients sont le plus à risque d’avoir des
+épisodes hypoglycémiques.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                  11/25
+Avis 2 modifié le 13/03/2019
+                          Figure 1: Schéma de l’étude SWITCH 1
+
+
+
+
+                          Figure 2: Schéma de l’étude SWITCH 2
+
+
+
+
+                          SWITCH 1 : La non-infériorité de TRESIBA versus insuline glargine 100 UI/ml était
+                          confirmée si la borne supérieure de l’intervalle de confiance à 95 % du ratio du taux
+                          d’épisodes hypoglycé miques symptomatiques TRESIBA + IAsp versus insuline
+                          glargine 100 UI/ml + IAsp était inférieure ou égale à 1,10.
+                          En supposant un taux d’épisodes hypoglycémiques sévères ou symptomatiques
+                          confirmés de 5 patients-années, un ratio de taux réel de 0,90 et que 10 % des
+                          patients randomisés ne contribuent pas à l’analyse, 446 patients étaient
+Taille de l’échantillon   nécessaires pour démontrer la non-infériorité avec une puissance de 94 %.
+                          SWITCH 2 : La supériorité était confirmée si la borne supérieure de l’intervalle de
+                          confiance à 95 % du ratio du taux d’épisodes hypoglycémiques symptomatiques
+                          TRESIBA/insuline glargine 100 UI/ml était strictement inférieure à 1,00. En
+                          supposant un taux d’épisodes hypoglycémiques sévères ou symptomatiques
+                          confirmés de 0,5 patients-années, un ratio de taux réel d e 0,62 et que 10 % des
+                          patients randomisés ne contribuent pas à l’analyse, 668 patients étaient
+                          nécessaires pour démontrer la supériorité avec une puissance de 92%.
+                          Full Analysis Set (FAS) : tous les patients randomisés pour une analyse des
+                          données cliniques en i ntention de traiter.
+                          Safety Analysis Set (SAS) : tous les patients randomisés qui ont reçu au moins
+                          une dose du traitement expérimental. Selon le traitement qu’ils ont réellement reçu,
+                          les patients dans le SAS contribuent à l’évaluation « patients traités ».
+                          Completer Analysis set (CAS): tous les patients qui ont achevés les 2 périodes
+                          de traitement.
+                          Prérequis pour tester le critère principal : le critère secondaire d’efficacité,
+                          prérequis pour tester l e critère principal, comparait le changement du taux d’HbA1c
+                          entre TRESIBA et l’insuline glargine 100 UI/ml (% et mmol/mol) de l’inclusion
+                          jusqu’à la fin des 32 semaines de traitement dans les périodes 1 et 2. Le seuil de
+Méthode d’analyse
+                          non-infériorité était de 0,4%.
+des résultats
+                          SWITCH 1 : TRESIBA était considéré comme non-inférieur à l’insuline glargine 100
+                          UI/ml si la borne supérieure de l’IC 95% du rati o du taux d’épisodes
+                          hypoglycémiques symptomatiques entre les 2 traitem ents (TRESIBA/insuline
+                          glargine) était inférieure ou égale à 1,10. Le seuil de non-infériorité était de 0,4 %.
+                          Si la non-infériorité était établie, une analyse de supériorité était prévue sur ce
+                          critère (supériorité établie si borne supérieure de l’intervalle de confiance à 95%
+                          inférieure à 1,00).
+                          SWITCH 2 : TRESIBA était considéré comme supérieur à l’insuline glargine 100
+                          UI/ml si la borne supérieure de l’intervalle de confiance à 95 % du ratio du taux
+                          d’épisodes hypoglycémiques symptomatiques entre les 2 traitements était
+                          strictement inférieure à 1,00.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                           12/25
+Avis 2 modifié le 13/03/2019
+9.1.1.2 Résultats de l’étude SWITCH 1 dans le DT1
+Au total 501 patients ont été randomisés (1:1) entre les 2 périodes de traitement en schéma croisé
+et entre les horaires de prise d’insuline (50,1 % le matin et 49,9% le soir).
+Le traitement complet sur les 2 périodes a été mené à terme chez 395 patients (78,8%). La durée
+importante de l’étude (64 semaines) et le fait que l’utilisation de flacons et seringues pour que les 2
+insulines soient indiscernables à l’administration (méthode d’administration considérée comme
+lourde en comparaison des stylos à insuline) peuvent expliquer le taux important de patients ayant
+abandonné l’étude. Les groupes d’analyse FAS, SAS et CAS comportaient 501, 500 et 395
+patients respectivement.
+
+ Caractéristiques des patients à l’inclusion
+La moyenne d’âge des patients était de 45,9 ans, avec une majorité (89,4%) âgés entre 18 et 64
+ans. En moyenne, les patients étaient diabétiques depuis 23,4 ans avec un taux moyen d’HbA1c à
+l’inclusion de 7,6% (±1,0) [min 4,1 ; max 9,8] et une glycémie à jeun (GAJ) de 9,4 mmol/L (1,70
+g/l).
+Le traitement antidiabétique en cours avant la randomisation le plus fréquemment observé (plus de
+80% des patients) était un schéma basal-bolus avec une insuline basale 1 à 2 fois par jour et une
+insuline bolus 2 à 4 fois par jour. Les autres patients (19,4%) étaient sous insuline à action rapide
+en injection sous-cutanée continue.
+
+   Résultats sur le critère de jugement principal : nombre d’épisodes hypoglycémiques
+    sévères ou symptomatiques confirmés survenus durant la phase d’entretien
+Durant les phases d’entretien, un total de 5 898 épisodes hypoglycémiques sévères ou
+symptomatiques confirmés ont eu lieu (sur l’ensemble de la journée : diurne et nocturne) dont
+2 772 sous TRESIBA et 3 126 sous insuline glargine 100 UI/ml (Population Tolérance).
+Un taux de 77,3% des patients sous TRESIBA versus 79,9% des patients sous insuline glargine
+100 UI/ml ont eu des épisodes hypoglycémiques sévères ou symptomatiques confirmés durant la
+phase d’entretien (Population Tolérance).
+Le taux (nombre d’événements divisé par PYE (Patient Years Of Exposure) et multiplié par 100)
+relatif aux épisodes hypoglycémiques sévères ou symptomatiques confirmés durant la phase
+d’entretien était de 2 200,8 sous TRESIBA versus 2 462,68 sous insuline glargine 100 UI/ml.
+La différence absolue du taux d’événements pour 100 patients années entre TRESIBA et l’insuline
+glargine 100 UI/ml était de -130,31 IC95% [-193,5; -67,16].
+Le ratio TRESIBA/insuline glargine 100 UI/ml en termes de taux d’épisodes hypoglycémiques
+sévères ou symptomatiques confirmés pour 100 patients-année était de 0,89 [0,85; 0,94]
+démontrant la non infériorité (ratio ≤ au seuil de non infériorité de 1,10) (population FAS). Des
+analyses de sensibilité sur la population CAS confirmaient ce résultat.
+
+Tableau 1 : Episodes hypoglycémiques sévères ou symptomatiques confirmés en phases d’entretien
+(FAS)
+
+                                                                FAS           N        Estimation     95% IC
+     LS Means, événements pour 100 patients-année
+     TRESIBA                                      501                       418          1227,03
+     Insuline glargine 100 UI/ml                  501                       422          1372,32
+     Ratio TRESIBA/insuline glargine 100 UI/ml                                            0,89      [0,85 ; 0,94]
+    N : nombre de patients, IC : Intervalle de confiance ; 1 patients-année = 365,25 jours
+
+La supériorité (ratio < au seuil de supériorité de 1,00) de TRESIBA par rapport à l’insuline glargine
+100 UI/ml a été démontrée sur le critère principal de l’étude (Population FAS).
+L’analyse met en évidence une diminution statistiquement significative de 11% du taux d’épisodes
+hypoglycémiques sévères ou symptomatiques confirmés durant la phase d’entretien avec
+TRESIBA comparée à l’insuline glargine 100 UI/ml (p<0,0001), sans impact de l’horaire
+d’administration de l’insuline (matin ou soir).
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                               13/25
+Avis 2 modifié le 13/03/2019
+ Résultats sur les critères de jugement secondaires
+Nombre d’épisodes hypoglycémiques sévères ou symptomatiques confirmés nocturnes
+survenus durant la phase d’entretien
+Un total de 893 épisodes a été rapporté, dont 349 sous TRESIBA et 544 sous l’insuline glargine
+100 UI/ml (Population Tolérance). Un taux de 32,8 % des patients sous TRESIBA versus 43,1 %
+des patients sous l’insuline glargine 100 UI/ml ont eu des épisodes hypoglycémiques sévères ou
+symptomatiques confirmés nocturnes (Population Tolérance). Le taux (nombre d’événements
+divisé par PYE et multiplié par 100) relatif aux épisodes était de 277,10 sous TRESIBA versus
+428,57 sous insuline glargine 100 UI/ml (Population Tolérance). La différence absolue du taux
+d’événements pour 100 patients années entre TRESIBA et l’insuline glargine 100 UI/ml était de -
+61,94 IC95% [- 83,85; - 40,03].
+Le ratio TRESIBA/insuline glargine 100 UI/ml en termes de taux d’épisodes était de 0,64 ; IC95%
+[0,56; 0,73] confirmant la non-infériorité (ratio ≤ au seuil de non infériorité de 1,10) puis la
+supériorité (ratio < au seuil de supériorité de 1,00) de TRESIBA par rapport à l’insuline glargine
+100 UI/ml sur ce critère (Population FAS). L’analyse mettait en évidence une diminution
+statistiquement significative de 36% du taux d’épisodes avec TRESIBA par rapport à l’insuline
+glargine 100 UI/ml (résultats indépendants de l’horaire de prise de l’insuline) (p<0,0001).
+
+Proportion de patients avec des épisodes hypoglycémiques sévères durant la phase
+d’entretien
+Un taux de 10,3% des patients sous TRESIBA versus 17,1% des patients sous l’insuline glargine
+100 UI/ml ont rapporté des épisodes hypoglycémiques sévères (p=0,002) (Population Tolérance).
+
+Taux d’épisodes hypoglycémiques sévères durant la phase d’entretien
+Un total de 204 épisodes hypoglycémiques sévères ont été rapportés, dont 87 sous TRESIBA et
+117 sous l’insuline glargine 100 UI/ml. Le taux (nombre d’événements divisé par PYE et multiplié
+par 100) relatif d’épisodes était de 69,08 sous TRESIBA versus 92,17 sous l’insuline glargine 100
+UI/ml. La différence absolue du taux d’événements pour 100 patients années entre TRESIBA et
+l’insuline glargine 100 UI/ml était de −13,65 IC95% [−23,66 ; −3,65]. Le ratio TRESIBA/insuline
+glargine 100 UI/ml était de 0,65 IC95% [0,48-0,89] (p=0,007).
+
+ Autre résultat de tolérance
+La proportion de patients rapportant des EI était de 64,8% sous TRESIBA versus 67,4% sous
+insuline glargine 100 UI/ml.
+
+9.1.1.3 Résultats de l’étude SWITCH 2 dans le DT2
+Au total 721 patients ont été randomisés (1:1) entre les 2 périodes de traitement en schéma croisé
+et entre les horaires de prise d’insuline (50,1 % le matin et 49,9 % le soir). Un total de 580 patients
+(80,4%) ont reçu le traitement complet sur les 2 périodes. Le taux de patients ayant abandonné
+l’étude peut s’expliquer par la durée importante de l’étude (64 semaines) et par l’utilisation de
+flacons et seringues (méthode d’administration considérée comme lourde en comparaison des
+stylos à insuline) pour assurer le double aveugle. Les groupes d’analyse FAS, SAS et CAS étaient
+composés de 720, 713 et 580 patients respectivement.
+
+ Caractéristiques des patients à l’inclusion
+La moyenne d’âge des patients était de 61,4 ans, avec une majorité (62,5 %) entre 18 et 64 ans.
+En moyenne, les patients étaient diabétiques depuis 14,1 ans avec un taux moyen d’HbA1c à
+l’inclusion de 7,6% [min 4,7 ; max 10,8] et une GAJ de 7,6 mmol/L (1,37 g/l). A l’inclusion, tous les
+patients étaient sous insuline basale (8,2% sous insuline NPH, 22,1% sous insuline detemir et 69,7
+% sous insuline glargine) et pour 79,2% en association à des ADO. A l’inclusion, l’insuline basale
+était majoritairement administrée à raison d’une injection par jour (84,2%) à une dose journalière
+moyenne de 40 unités dans le groupe TRESIBA et 43 unités dans le groupe insuline glargine 100
+UI/ml.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                  14/25
+Avis 2 modifié le 13/03/2019
+   Résultats sur le critère de jugement principal : nombre d’épisodes hypoglycémiques
+    sévères ou symptomatiques confirmés survenus durant la phase d’entretien
+Un total de 849 épisodes hypoglycémiques sévères ou symptomatiques confirmés ont été
+rapportés (sur l’ensemble de la journée) en phase d’entretien, dont 353 sous TRESIBA et 496
+sous insuline glargine 100 UI/ml. Un taux de 22,5 % des patients sous TRESIBA et 31,6% des
+patients sous insuline glargine 100 UI/ml ont rapporté des épisodes. Le taux (nombre
+d’événements divisé par PYE (Patient Years Of Exposure) et multiplié par 100) relatif aux épisodes
+hypoglycémiques sévères ou symptomatiques confirmés était de 185,6 sous TRESIBA versus
+265,36 sous insuline glargine 100 UI/ml. La différence absolue du taux d’événements pour 100
+patients années entre TRESIBA et l’insuline glargine 100 UI/ml était de -23,66 IC95% [–33,98; –
+13,33]. Le ratio TRESIBA/Insuline glargine 100 UI/ml en termes de taux d’épisodes pour 100
+patients années était de 0,70 IC95% [0,61; 0,80] confirmant la supériorité (ratio < au seuil de
+supériorité de 1,00) de TRESIBA par rapport l’insuline glargine 100 UI/ml (Population FAS). Des
+analyses de sensibilité sur la population CAS confirmaient ce résultat.
+L’analyse mettait en évidence une diminution statistiquement significative de 30% du taux
+d’épisodes avec TRESIBA versus insuline glargine 100 UI/ml (sans différence selon l’horaire de
+prise de l’insuline) (p<0,001).
+
+Tableau 2 : Episodes hypoglycémiques sévères ou symptomatiques confirmés en phases d’entretien
+(FAS)
+
+                                                  FAS        N        Estimation       95% IC
+    LSMeans, événements pour 100 patients-année
+    TRESIBA                                     720         632         99,10
+    Insuline glargine 100 UI/ml                 720         619         142,17
+    Ratio TRESIBA/Insuline glargine 100 UI/ml                            0,70        [0,61 ; 0,80]
+
+    Résultats sur les critères de jugement secondaires
+      Nombre d’épisodes hypoglycémiques sévères ou symptomatiques confirmés
+        nocturnes survenus durant la phase d’entretien
+Un total de 280 épisodes hypoglycémiques sévères ou symptomatiques confirmés nocturnes a été
+rapporté en phase d’entretien dont 105 sous TRESIBA et 175 sous Insuline glargine 100 UI/ml. Un
+taux de 9,7% des patients sous TRESIBA versus 14,7% des patients sous insuline glargine 100
+UI/ml ont rapporté ces épisodes. Le taux (nombre d’événements divisé par PYE et multiplié par
+100) relatif aux épisodes était de 55,21 sous TRESIBA versus 93,63 sous insuline glargine 100
+UI/ml, soit une différence absolue du taux d’événements pour 100 patients années entre TRESIBA
+et l’insuline glargine 100 UI/ml de -7,41 ; IC95% [–11,98; –2,85]. Le ratio TRESIBA/Insuline
+glargine 100 UI/ml en termes de taux d’épisodes était de 0,58 [0,46; 0,74] confirmant la supériorité
+(ratio < au seuil de supériorité de 1,00) de TRESIBA par rapport à l’insuline glargine 100 UI/ml sur
+ce critère. L’analyse mettait en évidence une diminution statistiquement significative de 42% du
+taux d’épisodes avec TRESIBA comparée à l’insuline glargine 100 UI/ml (indépendamment de
+l’horaire de prise de l’insuline) (p<0,001).
+
+      Proportion de patients avec des épisodes hypoglycémiques sévères durant la phase
+       d’entretien
+Un taux de 1,6% des patients sous TRESIBA versus 2,4 % des patients sous insuline glargine 100
+UI/ml ont rapporté des épisodes hypoglycémiques sévères durant la phase d’entretien (NS).
+
+      Taux d’épisodes hypoglycémiques sévères durant la phase d’entretien
+Un total de 27 épisodes hypoglycémiques sévères ont été rapporté dont 10 sous TRESIBA versus
+17 sous insuline glargine 100 UI/ml. Le taux (nombre d’événements divisé par PYE et multiplié par
+100) relatif à ces épisodes était de 5,26 sous TRESIBA versus 9,10 sous insuline glargine 100
+UI/ml. La différence absolue du taux d’événements pour 100 patients années entre TRESIBA et
+l’insuline glargine 100 UI/ml était de −1,18 IC95% [−2.77 ; 0.41]. Le ratio TRESIBA/insuline
+glargine 100 UI/ml était de 0,54 IC95% [0.21-1.42].
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                15/25
+Avis 2 modifié le 13/03/2019
+ Autres résultats de tolérance
+Les EIG ont été rapportés par 9,5% patients sous TRESIBA et 9,8% patients sous insuline glargine
+100 UI/ml. Le taux des EIG (événements par 100 PYE) était de 20,58 avec TRESIBA et 25,03
+avec l’insuline glargine 100 UI/ml. Au total 16 patients ont arrêté le traitement à cause d’EI liés au
+traitement : 6 avec TRESIBA et 10 avec l’insuline glargine 100 UI/ml.
+
+9.1.1.4 Etude de tolérance cardio-vasculaire
+
+ Méthodologie
+L’objectif principal de cette étude de phase IIIb multicentrique, randomisée (1 : 1), en double-
+aveugle et contrôlée par un comparateur actif, visait à confirmer la tolérance cardiovasculaire de
+TRESIBA 100 unités/ml comparé à l’insuline glargine 100 UI/ml (borne supérieure de l’intervalle de
+confiance < 1,3). L’essai était réalisé en titration forcée, avec des objectifs glycémiques prédéfinis
+à atteindre pour les 2 groupes de traitement. L’étude devait se poursuivre jusqu’à la survenue de
+633 premiers événements du critère composite MACE (événements cardiovasculaires majeurs)
+adjudiqués en 3 points : décès cardiovasculaire, infarctus du myocarde (IM) non-fatal et accident
+vasculaire cérébral (AVC) non-fatal (validés par un comité externe et indépendant d’adjudication
+(EAC)).
+
+Il était prévu de randomiser 7 500 patients DT2 âgés de 50 ans minimum et souffrant d’une
+pathologie cardiovasculaire ou d’une insuffisance rénale chronique ou bien des sujets âgés de 60
+ans minimum avec des facteurs de risque de maladie cardiovasculaire.
+
+Les principaux critères d’inclusion étaient :
+   - Taux d’HbA1c ≥ 7,0 % ou < 7,0 % sous insuline basale ≥ 20 unités/jour,
+   - Sous traitement oral ou injectable d’agent(s) antidiabétique(s)
+   - Âgés de 50 ans ou plus au moment de l’inclusion et remplissant au moins 1 des conditions
+       suivantes :
+       o   Antécédent d’IDM
+       o   Antécédents d’AVC ou d’accident ischémique transitoire
+       o   Antécédents de revascularisation coronarienne, carotidienne ou artérielle périphérique
+       o   Angiographie montrant une sténose > 50 % ou autre imagerie coronarienne, carotidienne ou
+           encore des artères des membres inférieurs
+       o   Antécédents de maladie cardiaque coronarienne documentée par un test d’effort positif ou
+           quelconque imagerie cardiaque ; ou un angor instable avec modification de
+           l’électrocardiogramme (ECG)
+       o   Ischémie cardiaque asymptomatique documentée par un test d’imagerie nucléaire positif ou un
+           test d’effort positif ou échographie à la dobutamine
+       o   Insuffisance cardiaque chronique de classe II-III selon la New York Heart Association (NYHA)
+       o   Maladie chronique rénale correspondant à un taux de filtration glomérulaire de 30-59
+           mL/min/1,73m² mesurée par la formule CKD-Epi «Chronic Kidney Disease - Epidemiology
+           Collaboration»
+   -   Ou âgés de 60 ans ou plus au moment de l’inclusion et avec au moins 1 des facteurs de
+       risque suivants :
+       o   Microalbuminurie ou protéinurie
+       o   Hypertension et hypertrophie ventriculaire gauche montrée par ECG ou imagerie
+       o   Dysfonctions systolique et diastolique du ventricule gauche montrées par imagerie
+
+Les principaux critères de non inclusion étaient :
+Accident coronaire aigu ou cérébrovasculaire dans les 60 derniers jours.
+Planification de revascularisation coronarienne, carotidienne ou artérielle périphérique.
+Insuffisance cardiaque chronique de classe IV (selon la classification NYHA).
+Patient sous hémodialyse ou dialyse péritonéale ou avec un taux de filtration glomérulaire (eGFR)
+<30 mL/min/1,73m² mesuré par la formule CKD-Epi «Chronic Kidney Disease - Epidemiology
+Collaboration».
+
+Le critère de jugement principal était un critère composite cardiovasculaire (temps de survenue
+d’un premier événement adjudiqué du critère composite MACE en 3 points) et non un critère
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                      16/25
+Avis 2 modifié le 13/03/2019
+d’efficacité glycémique. Il s’agissait de la période de temps écoulée entre la randomisation et la
+première occurrence d’un événement du critère composite MACE adjudiqué en 3 points (décès
+cardiovasculaire, IDM non-fatal ou AVC non-fatal).
+Les critères secondaires comportaient :
+    - Le nombre d’épisodes hypoglycémiques sévères adjudiqués,
+    - L’occurrence d’au moins 1 épisode hypoglycémique sévère adjudiqué chez un sujet
+        (Oui/Non).
+
+Le calcul de la taille de l’échantillon était basé sur le nombre de 1ers événements du critère
+composite MACE adjudiqué survenus sur l’ensemble des patients randomisés. Un total de 633
+premiers événements du critère composite MACE adjudiqués était nécessaire pour démontrer la
+non-infériorité de TRESIBA versus insuline glargine 100 UI/ml avec une puissance de 91% avec
+une borne supérieure de l’intervalle de confiance inférieure à 1,3. Un total de 7 500 patients était
+nécessaire.
+
+Deux populations d’analyse ont été définies :
+   - Full Analysis Set (FAS) : tous les patients randomisés pour une analyse des données
+        cliniques en intention de traiter.
+   - Per protocole Analysis Set (PP) : tous les patients qui ont été traités continuellement par
+        un des médicaments expérimentaux durant les 3 premiers mois qui suivent la
+        randomisation, ainsi que les patients qui ont manifesté un MACE adjudiqué durant les 3
+        premiers mois et qui ont pris au moins 1 dose d’un des traitements expérimentaux avant la
+        survenue de cet événement.
+Toutes les analyses sont basées sur la population FAS à l’exception d’une analyse de sensibilité
+du critère d’évaluation principal basée sur la population PP.
+
+L’analyse du critère de jugement principal reposait sur un modèle de régression de Cox
+(modèle à risque proportionnel) avec le groupe de traitement comme facteur et en se basant sur le
+groupe d’analyse FAS. TRESIBA était considéré comme non-inférieur à l’insuline glargine 100
+UI/ml si la borne supérieure de l’intervalle de confiance à 95 % de l’Hazard ratio (HR) était
+inférieure à 1,3 ou équivalente si le « p » du test unilatéral H0 : HR≥1,3 contre l’hypothèse
+alternative : HR<1,3 était inférieur à 2,5 %.
+
+L’analyse statistique suivait la séquence hiérarchique suivante :
+   1. Tester la non-infériorité de TRESIBA versus insuline glargine 100 UI/ml sur la période de
+       temps écoulée entre la randomisation et la 1ère survenue d’un événement du critère
+       composite MACE adjudiqué en 3 points (décès cardiovasculaire, IDM non-fatal ou AVC
+       non-fatal).
+   2. Tester la supériorité de TRESIBA versus insuline glargine 100 UI/ml sur le nombre
+       d’épisodes hypoglycémiques sévères adjudiqués.
+   3. Tester la supériorité de TRESIBA versus insuline glargine 100 UI/ml sur la survenue d’au
+       moins 1 épisode hypoglycémique sévère adjudiqué chez un sujet (Oui/Non).
+
+ Résultats
+Effectifs des patients
+Au total 7 637 patients ont été randomisés (1 :1) entre les 2 groupes : TRESIBA (3 818 patients)
+ou insuline glargine 100 UI/ml (3 819 patients). Plus de 98% des patients ont complété l’étude. Le
+statut vital à la fin de l’essai était inconnu pour 5 patients du groupe TRESIBA versus 3 patients du
+groupe insuline glargine 100 UI/ml (soit 0,1 % de la population totale de l’essai). En moyenne, les
+patients ont été suivis sur une durée de 2 ans. Parmi tous les patients randomisés, 99,7% ont été
+exposés aux traitements expérimentaux et 0,6% se sont retirés de l’essai. Les résultats principaux
+et le statut vital étaient connus pour 99,9% des patients randomisés. Au total, les informations en
+lien avec l’analyse principale sont complètes pour 98,2% des patients.
+
+Caractéristiques des patients à l’inclusion
+L’âge moyen des patients était de 65,0 ans. L’IMC moyen était de 33,6kg/m². La pression artérielle
+et la fréquence cardiaque étaient similaires entre les 2 groupes de traitement, de même que
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                17/25
+Avis 2 modifié le 13/03/2019
+l’antériorité du diabète avec en moyenne un diagnostic établi depuis 16,4 ans. Le taux moyen
+d’HbA1c à l’inclusion était de 8,4 % dans les 2 groupes.
+
+Sur les 7 637 patients randomisés, 85,2% étaient âgés de plus de 50 ans avec un diagnostic de
+maladie cardiovasculaire ou de maladie rénale chronique alors que 14,5% étaient âgés de plus de
+60 ans avec des facteurs de risques cardiovasculaires à l’inclusion. Un taux de 0,3% des patients
+avaient un risque inconnu de maladie cardiovasculaire à l’inclusion.
+
+L’utilisation de médicaments cardiovasculaires à l’inclusion concernait 98,3% des patients, en
+majorité un traitement antihypertenseur (93,1% des patients). Environ 84% des patients étaient
+traités par de l’insuline à l’inclusion.
+
+Résultat sur le critère de jugement principal : temps de survenue d’un premier événement
+adjudiqué du critère composite MACE en 3 points
+Un total de 681 premiers événements du critère composite MACE adjudiqué en 3-points ont été
+rapportés, dont 325 dans le groupe TRESIBA versus 356 dans le groupe insuline glargine 100
+UI/ml. Le HR était égal à 0,91 IC95% [0,78; 1,06] (p<0,001) pour TRESIBA comparé à l’insuline
+glargine 100 UI/ml. La borne supérieure de l’intervalle de confiance à 95%, inférieure à 1,3,
+confirmait la non-infériorité de TRESIBA par rapport à l’insuline glargine 100 UI/ml sur la sécurité
+cardiovasculaire.
+
+Tableau 3 : Premiers événements du critère composite MACE adjudiqués en 3 points – FAS
+
+                                                    TRESIBA               Insuline glargine 100 UI/ml
+                                              N         %         R          N        %          R
+ Patients                                   3818                           3819
+ Patients années                            7568                           7558
+ Premier événement MACE adjudiqué            325       8,5       4,29      356        9,3      4,71
+ IDM non-fatal                               143       3,7       1,89       163       4,3      2,16
+ AVC non-fatal                               68        1,8       0,90       74        1,9      0,98
+ Décès cardiovasculaire                      114       3,0       1,51       119       3,1      1,57
+
+Le résultat sur le critère principal a été confirmé par une analyse de sensibilité.
+
+Résultats sur les critères de jugement secondaires (hiérarchisés)
+    - Nombre d’épisodes hypoglycémiques sévères adjudiqués
+Un total de 280 épisodes hypoglycémiques sévères survenus chez 187 patients a été adjudiqué
+pour le groupe TRESIBA versus 472 épisodes survenus chez 252 patients pour le groupe insuline
+glargine 100 UI/ml, soit un RR de 0,60 IC95% [0,48; 0,76]I (p<0.001) pour TRESIBA comparé à
+insuline glargine 100 UI/ml.
+
+   -    Occurrence d’au moins 1 épisode d’hypoglycémie sévère adjudiqué chez un sujet
+        (Oui/Non)
+Un total de 187 (4,9 %, 3,70 épisodes pour 100 patients années) patients dans le groupe
+TRESIBA versus 252 (6,6 %, 6,25 épisodes pour 100 patients années) patients dans le groupe
+insuline glargine 100 UI/ml ont rapporté la survenue d’au moins 1 épisode hypoglycémique sévère
+adjudiqué, soit un OR égal à 0,73 IC95% [0,60; 0,89] (p<0,001) pour TRESIBA comparé à insuline
+glargine 100 UI/ml, confirmant ainsi la supériorité de TRESIBA comparé à l’insuline glargine 100
+UI/ml au regard de la proportion de patients ayant présenté au moins un épisode hypoglycémique
+sévère adjudiqué.
+
+9.1.2 Données issues des PSUR
+
+Le laboratoire a fourni des rapports périodiques de pharmacovigilance qui ont précédemment
+examinés dans la cadre de l’examen de l’extension d’indication chez l’enfant (cf. avis de la CT du
+05/09/2018).
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   18/25
+Avis 2 modifié le 13/03/2019
+9.1.3 Données issues du RCP
+
+« Résumé du profil de sécurité
+L’effet indésirable le plus fréquemment rapporté lors du traitement est l’hypoglycémie. […]
+Hypoglycémie
+L’hypoglycémie peut survenir lorsque la dose d’insuline est trop importante par rapport aux
+besoins insuliniques. L’hypoglycémie sévère peut entraîner une perte de connaissance et/ou des
+convulsions et peut causer une altération transitoire ou définitive des fonctions cérébrales, voire le
+décès. Les symptômes de l’hypoglycémie surviennent habituellement de manière soudaine. Ils
+peuvent inclure : sueurs froides, pâleur et froideur cutanées, fatigue, nervosité ou tremblement,
+anxiété, asthénie ou faiblesse inhabituelles, confusion, difficulté de concentration, somnolence,
+sensation de faim excessive, troubles visuels, maux de tête, nausées et palpitations. »
+
+9.1.4 Données issues d’autres sources
+
+Sans objet.
+
+
+09.2 Efficacité
+Le laboratoire n’a pas fourni de nouvelle étude dont l’objectif principal visait à évaluer l’efficacité de
+TRESIBA. Les résultats en terme d’efficacité sur le taux d’HbA1c de TRESIBA présentés ci-après
+sont issus des études SWITCH 1 et 2 détaillées aux paragraphes 9.1.1 et 9.1.2 et de l’étude de
+tolérance cardiovasculaire détaillée au paragraphe 9.1.3. Dans ces études, la variation d’HbA1c
+était un critère de jugement secondaire.
+
+9.2.1 Etude SWITCH 1 dans le DT1
+
+Dans cette étude versus insuline glargine 100 UI/ml ayant randomisé 501 patients sur 2 périodes
+de 32 semaines, TRESIBA 100 unités/ml a démontré sa non-infériorité à l’insuline glargine 100
+UI/ml pour diminuer le taux d’HbA1C avec une différence moyenne estimée TRESIBA - insuline
+glargine 100 UI/ml de 0,03 %, IC95% [-0,10; 0,15] pendant la 1ère période de 32 semaines et de
+0,11 %, IC95% [-0,00; 0,23] pendant la 2ème période de 32 semaines. La variation de la glycémie à
+jeun (GAJ) de l’inclusion à 32 semaines de traitement était similaire entre les 2 groupes avec -1,44
+mmol/L en moyenne pour le groupe TRESIBA versus -1,30 mmol/L en moyenne pour le groupe
+insuline glargine 100 UI/ml. Dans la 2ème période, la GAJ a augmenté pour les patients sous
+l’insuline glargine 100 UI/ml (+1,14 mmol/L en moyenne) et a diminué pour les patients sous
+TRESIBA (-0,55 mmol/L en moyenne).
+La dose journalière moyenne d’insuline basale était de 29,01 unités avec TRESIBA et de 24,23
+unités avec l’insuline glargine 100 UI/ml à l’inclusion, de 38,61 unités TRESIBA et 35,64 unités
+insuline glargine 100 UI/ml en fin de 1ère période et de 36,61 unités TRESIBA et 40,58 unités
+insuline glargine 100 UI/ml en fin de 2ème période. La dose journalière moyenne d’insuline totale
+(basale + bolus) était de 53,43 unités avec TRESIBA et de 45,69 unités avec l’insuline glargine
+100 UI/ml à l’inclusion, 68,95 unités TRESIBA et 62,96 unités insuline glargine 100 UI/ml en fin de
+1ère période et de 63,68 unités TRESIBA) et 69,23 unités insuline glargine 100 UI/ml en fin de 2ème
+période.
+
+9.2.2 Etude SWITCH 2 dans le DT2
+
+Dans cette étude versus insuline glargine 100 UI/ml ayant randomisé 721 patients entre les 2
+périodes de traitement de 32 semaines en schéma croisé, TRESIBA 100 unités/ml a démontré sa
+non-infériorité versus l’insuline glargine 100 UI/ml pour diminuer le taux d’HbA1c, avec une
+différence moyenne estimée TRESIBA - insuline glargine 100 UI/ml de 0,09%, IC95% [-0,04; 0,23]
+pendant la 1ère période de 32 semaines et de 0,06%, IC95% [-0,07; 0,18] pendant la 2ème période
+de 32 semaines. La variation de la GAJ de l’inclusion à 32 semaines de traitement était similaire
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     19/25
+Avis 2 modifié le 13/03/2019
+entre TRESIBA et l’insuline glargine 100 UI/ml (-1,51 mmol/L en moyenne pour le groupe
+TRESIBA versus -1,22 mmol/L en moyenne pour le groupe insuline glargine 100 UI/ml). Dans la
+2ème période de traitement de 32 semaines, la GAJ a davantage augmenté pour les patients sous
+insuline glargine 100 UI/ml (+0,43 mmol/L en moyenne) que pour les patients sous TRESIBA (+
+0,07 mmol/L en moyenne).
+
+9.2.3 Etude de tolérance cardiovasculaire par rapport à l’insuline glargine
+
+Cette étude a randomisé 7 637 patients entre les 2 groupes : TRESIBA (3 818 patients) ou insuline
+glargine 100 UI/ml (3 819 patients). A l’inclusion, le taux moyen d’HbA1c était de 8,4% dans les 2
+groupes de traitement. A 24 mois après le début de l’étude, le taux moyen d’HbA1c était de 7,5%
+dans les 2 groupes de traitement, correspondant à une diminution depuis l’inclusion de 0,9%.
+
+9.2.4 Qualité de vie
+
+Dans l’étude SWITCH 1 dans le DT1, l’analyse des scores SF-36 (domaines santé physique et
+mentale) et TRIM-HYPO (domaines bien être et activité au quotidien) a montré que la qualité de
+vie des patients DT1 était maintenue au cours des 64 semaines de traitement, sans différence
+observée entre TRESIBA et l’insuline glargine 100 UI/ml en termes d’impact sur la qualité de vie
+du patient.
+Dans l’étude SWITCH 2 dans le DT2, les scores TRIM-HYPO diminuaient, synonyme
+d’amélioration des domaines bien être et activité au quotidien avec TRESIBA comparé à l’insuline
+glargine 100 UI/ml. Les scores SF-36 ne démontraient aucune différence entre TRESIBA et
+l’insuline glargine 100 UI/ml pour les domaines santé physique et mentale.
+
+
+09.3 Données d’utilisation/de prescription
+Selon les données du panel IMS (cumul mobile annuel automne 2018), TRESIBA a fait l’objet de
+21 359 prescriptions, dont 1689 pour la cartouche et 19 670 pour le stylo.
+
+
+09.4 Résumé & discussion
+La demande du laboratoire de réévaluer TRESIBA dans une sous population de l’AMM, à savoir
+les patients adultes DT1 ou DT2 « à haut risque hypoglycémique » s’appuie sur 3 nouvelles
+études qui sont des études de tolérance relatives au nombre d’épisodes hypoglycémiques sévères
+ou symptomatiques confirmés chez des patients DT1 et DT2, à haut risque d’hypoglycémie ou à
+haut risque cardiovasculaire :
+    - L’étude SWITCH 1, de non-infériorité suivie d’une analyse de supériorité, visait à évaluer le
+        profil hypoglycémique de TRESIBA 100 unités/ml + insuline asparte versus insuline
+        glargine 100 UI/ml + insuline asparte selon un schéma basal bolus, chez des patients DT1
+        à haut risque d’hypoglycémie,
+    - L’étude SWITCH 2 de supériorité visait à évaluer le profil hypoglycémique de TRESIBA 100
+        unités/ml ± antidiabétique oral (ADO) versus insuline glargine 100UI/ml ± ADO, chez des
+        patients DT2 à haut risque d’hypoglycémie, traités par une insuline basale ± ADO.
+    - L'étude DEVOTE a évalué la tolérance cardiovasculaire de TRESIBA 100 unités/ml par
+        rapport à l’insuline glargine 100 UI/ml chez des patients DT2 à haut risque
+        cardiovasculaire.
+Le laboratoire n’a pas fourni de nouvelle étude dont l’objectif principal visait à évaluer l’efficacité de
+TRESIBA.
+
+   Rappel des conclusions précédentes de la CT sur l’évaluation de la survenue des
+    hypoglycémies avec TRESIBA (avis du 2/04/2014) :
+« Dans les études de phase III à 26 et 52 semaines, les critères secondaires liés à l’évaluation de
+la survenue d’hypoglycémie ont été analysés rigoureusement (selon une procédure séquentielle
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     20/25
+Avis 2 modifié le 13/03/2019
+hiérarchisée limitant une surestimation de l’effet). Leurs résultats peuvent donc être pris en
+compte.
+Chez les diabétiques de type 1, une différence en termes d’épisodes hypoglycémiques nocturnes
+a été rapportée en faveur de l’insuline degludec par rapport à l’insuline glargine à 52 et à 104
+semaines (étude 3583 et sa phase d’extension) de traitement et par rapport à l’insuline détémir à
+26 et 52 semaines (étude 3585 et son suivi).
+En revanche, aucune différence n’a été observée sur la survenue d’hypoglycémies confirmées
+(mineures et sévères aussi bien diurnes que nocturnes) et d’hypoglycémies sévères dans chacune
+des études et leur phase d’extension.
+Chez les patients diabétiques de type 2, dans l’étude 3579, il n’y a pas eu de différence sur les
+épisodes hypoglycémiques confirmés à 52 et 104 semaines entre insulines degludec et glargine.
+Dans l’étude 3582, une différence a été observée sur ce critère à 52 semaines en faveur de
+l’insuline degludec mais pas à 104 semaines.
+A 104 semaines, dans l’étude d’instauration de l’insulinothérapie (3579), une différence a été
+observée en faveur de l’insuline degludec en termes d’hypoglycémies sévères et nocturnes. Dans
+l’étude d’intensification, il n’y a pas eu de différence.
+Au total, à contrôle glycémique équivalent,
+-        les résultats à court terme, malgré leur bonne évaluation sur un plan méthodologique, ne
+permettent pas de tirer de conclusion sur l’avantage d’une insuline par rapport à l’autre en termes
+de risque survenue d’hypoglycémies car les différences en valeur absolue entre les traitements
+sont très faibles
+-        les résultats à long terme sont à interpréter avec prudence compte tenu de la multiplicité
+des tests réalisés lors de l’analyse des différents épisodes hypoglycémiques.
+Une méta-analyse prospective prévue dans le plan de développement clinique de l’insuline
+degludec, avait pour objectif de comparer l’insuline degludec à l’insuline glargine en termes de
+survenue d’hypoglycémies confirmées (critère principal de jugement). Ses résultats sont à
+interpréter avec précaution en raison des biais méthodologiques. Elle a analysé 4 330 patients
+âgés de 55 ans en moyenne, en surpoids, avec un taux d’HbA1c de 8,2% et en majorité avec un
+diabète de type 2. Une différence en faveur de l’insuline degludec a été observée par rapport à la
+glargine sur le critère principal de jugement dans la population globale de diabétiques. Ce même
+résultat est retrouvé uniquement dans la population de diabétiques de type 2. Concernant les
+critères secondaires (exploratoires), une différence a été observée sur les épisodes
+hypoglycémiques nocturnes. Il n’y a pas eu de différence sur les épisodes sévères.
+Le niveau de preuve de la démonstration peu robuste ne permet pas de conclure sur une
+éventuelle pertinence clinique des réductions de risque observées.
+
+Dans une méta-analyse relative à la tolérance cardiovasculaire en termes de survenue
+d’événements cardiovasculaires majeurs de l’insuline degludec par rapport aux comparateurs
+utilisés dans l’ensemble des études, il n’a pas été rapporté de différence entre les groupes de
+traitement en termes de délai de survenue du 1er événement majeur (critère principal de
+jugement). Aucune conclusion ne peut être tirée de ce résultat qui doit être interprété avec
+prudence compte tenu des biais méthodologiques inhérents à cette méta-analyse et
+l’augmentation du risque d’événements cardiovasculaires majeurs sous insuline degludec montrée
+lors d’analyses post hoc réalisées par la FDA. De ce fait, la FDA elle a demandé la réalisation
+d’une étude évaluant spécifiquement la tolérance cardiovasculaire.
+On ne dispose pas de données à long terme sur les complications micro-vasculaires et macro-
+vasculaires, ni de données sur la qualité de vie. »
+
+ Nouvelles données
+L’étude réalisée dans le DT1 (SWITCH 1) a randomisé 501 patients (1:1) entre 2 périodes de
+traitement en schéma croisé et entre les horaires de prise d’insuline (50,1 % le matin et 49,9% le
+soir), avec seulement 395 patients (78,8%) qui ont reçu le traitement complet sur les 2 périodes.
+En moyenne, les patients étaient diabétiques depuis 23,4 ans avec un taux moyen d’HbA1c à
+l’inclusion de 7,6% [min 4,1 ; max 9,8] et une glycémie à jeun (GAJ) de 9,4mmol/L (1,70 g/l). Le
+traitement antidiabétique en cours avant la randomisation le plus fréquemment observé (plus de
+80% des patients) était un schéma basal-bolus
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique               21/25
+Avis 2 modifié le 13/03/2019
+Le résultat du critère de jugement principal a mis en évidence 5 898 épisodes hypoglycémiques
+sévères ou symptomatiques confirmés (sur l’ensemble de la journée : diurne et nocturne) durant
+les 2 phases d’entretien de 16 semaines dont 2 772 sous TRESIBA (soit 77,3% des patients) et
+3 126 sous insuline glargine 100 UI/ml (soit 79,9% des patients). Le taux (nombre d’événements
+divisé par PYE (Patient Years Of Exposure) et multiplié par 100) relatif aux épisodes
+hypoglycémiques sévères ou symptomatiques confirmés durant la phase d’entretien était de 2
+200,8 sous TRESIBA versus 2 462,68 sous insuline glargine 100 UI/ml, avec une différence
+absolue de -130,31 [–193,5; –67,16]. Le ratio TRESIBA/insuline glargine 100 UI/ml en termes de
+taux d’épisodes hypoglycémiques sévères ou symptomatiques confirmés durant la phase
+d’entretien était de 0,89 [0,85; 0,94] confirmant la non infériorité (ratio ≤ au seuil de non infériorité
+de 1,10, analyse sur la population FAS avec analyse de sensibilité confirmatoire sur la population
+CAS) et la supériorité (ratio < au seuil de supériorité de 1,00) de TRESIBA par rapport à l’insuline
+glargine 100 UI/ml sur le critère principal de l’étude (Population FAS).
+
+L’étude réalisée dans le DT2 a randomisé 721 patients (1:1) entre les 2 périodes de traitement
+en schéma croisé et entre les horaires de prise d’insuline (50,1 % le matin et 49,9 % le soir), avec
+seulement 580 patients (80,4%) qui ont reçu le traitement complet sur les 2 périodes.
+En moyenne, les patients étaient diabétiques depuis 14,1 ans avec un taux moyen d’HbA1c à
+l’inclusion de 7,6% [min 4,7 ; max 10,8] et une GAJ de 7,6 mmol/L (1,37 g/l). A l’inclusion, tous les
+patients étaient sous insuline basale et pour 79,2% en association à des ADO. Le résultat du
+critère de jugement principal a mis en évidence 849 épisodes hypoglycémiques sévères ou
+symptomatiques confirmés (sur l’ensemble de la journée) durant les 2 phases d’entretien de 16
+semaines, dont 353 sous TRESIBA (soit 22,5 % des patients) et 496 sous insuline glargine 100
+UI/ml (soit 31,6% des patients). Le taux (nombre d’événements divisé par PYE (Patient Years Of
+Exposure) et multiplié par 100) relatif aux épisodes hypoglycémiques sévères ou symptomatiques
+confirmés était de 185,6 sous TRESIBA versus 265,36 sous insuline glargine 100 UI/ml, soit une
+différence absolue de -23,66 IC95% [–33,98; –13,33]. Le ratio TRESIBA/Insuline glargine 100
+UI/ml en termes de taux d’épisodes était de 0,70 IC95% [0,61; 0,80] confirmant la supériorité (ratio
+< au seuil de supériorité de 1,00) de TRESIBA par rapport l’insuline glargine 100 UI/ml (Population
+FAS).
+
+L’étude de tolérance cardiovasculaire a randomisé 7 637 patients (1 :1) entre les 2 groupes :
+TRESIBA (3 818 patients) ou insuline glargine 100 UI/ml (3 819 patients). Plus de 98% des
+patients ont complété l’étude. En moyenne, les patients ont été suivis sur une durée de 2 ans,
+avec 99,7% des patients exposés aux traitements expérimentaux et 0,6% se sont retirés de l’essai.
+La population incluse était âgée en moyenne de 65,0 ans, avec un IMC moyen de 33,6kg/m². La
+pression artérielle et la fréquence cardiaque étaient similaires entre les 2 groupes de traitement, de
+même que l’antériorité du diabète avec en moyenne un diagnostic établi depuis 16,4 ans. Le taux
+moyen d’HbA1c à l’inclusion était de 8,4 % dans les 2 groupes.
+Sur les 7 637 patients randomisés, 85,2% étaient âgés de plus de 50 ans avec un diagnostic de
+maladie cardiovasculaire ou de maladie rénale chronique alors que 14,5% étaient âgés de plus de
+60 ans avec des facteurs de risques cardiovasculaires à l’inclusion. Un taux de 0,3% des patients
+avaient un risque inconnu de maladie cardiovasculaire à l’inclusion.
+L’utilisation de médicaments cardiovasculaires à l’inclusion concernait 98,3% des patients, en
+majorité un traitement antihypertenseur (93,1% des patients). Environ 84% des patients étaient
+traités par de l’insuline à l’inclusion.
+Le résultat sur le critère de jugement principal, à savoir le temps de survenue d’un premier
+événement adjudiqué du critère composite MACE en 3 points, a mis en évidence 681 événements,
+dont 325 dans le groupe TRESIBA versus 356 dans le groupe insuline glargine 100 UI/ml. Le HR
+était égal à 0,91 IC95% [0,78; 1,06] (p<0,001) pour TRESIBA comparé à l’insuline glargine 100
+UI/ml. La borne supérieure de l’intervalle de confiance à 95%, inférieure à 1,3, confirmait la non-
+infériorité de TRESIBA par rapport à l’insuline glargine 100 UI/ml sur la tolérance cardiovasculaire.
+Cette étude rassure sur la tolérance cardiovasculaire de TRESIBA.
+L’étude a mis en évidence une supériorité de TRESIBA par rapport à l’insuline glargine 100 UI/ml
+en termes d’épisodes hypoglycémiques sévères (critère secondaire hiérarchisé). Un total de 280
+épisodes hypoglycémiques sévères survenus chez 187 patients ont été adjudiqués pour le groupe
+TRESIBA versus 472 épisodes survenus chez 252 patients pour le groupe insuline glargine 100
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    22/25
+Avis 2 modifié le 13/03/2019
+UI/ml, soit un RR de 0,60 IC95% [0,48; 0,76]I (p<0.001) pour TRESIBA comparé à insuline glargine
+100 UI/ml.
+
+Les 2 études SWITCH 1 et 2 ont inclus une population de patients avec au moins un risque
+d’hypoglycémie. On relève un taux élevé d’arrêts dans les 2 études pouvant être expliqués par la
+durée longues et les conditions de l’étude (injections multiples). Les 2 études comportaient des
+analyses hiérarchisées. Les résultats en termes de qualité de vie n’ont pas mis en évidence de
+différence entre TRESIBA et l’insuline glargine 100 UI/ml.
+
+Compte tenu des nouvelles données d’efficacité et de tolérance, il est attendu un impact de
+TRESIBA en termes de moindre survenue d’épisodes hypoglycémiques sévères ou
+symptomatiques confirmés par rapport à l’utilisation de l’insuline glargine 100 UI/ml9, sans impact
+supplémentaire démontré de TRESIBA sur la qualité de vie ou sur l’organisation des soins dans le
+sous-groupe de patients adultes DT1 ou DT2 à haut risque d’hypoglycémie.
+En conséquence, TRESIBA apporte une réponse supplémentaire au besoin de santé médical déjà
+couvert.
+
+
+09.5 Programme d’études
+Il n’y a pas d’étude en cours ou à venir avec TRESIBA.
+
+
+
+010                PLACE DANS LA STRATEGIE THERAPEUTIQUE
+Place de TRESIBA dans la stratégie thérapeutique
+     Dans le diabète de type 1
+TRESIBA peut être utilisé comme insuline basale dans un schéma basal-bolus (en association
+avec une insuline d’action rapide ou un analogue d’action rapide) au même titre que les autres
+analogues à longue durée d’action, l’insuline glargine (LANTUS) et l’insuline détémir (LEVEMIR).
+TRESIBA est un traitement de première intention dans le diabète de type 1 de l’adolescent et de
+l’enfant à partir de 1 an, en association avec une insuline d’action rapide ou un analogue d’action
+rapide, dans le cadre d’un schéma basal-bolus.
+La Commission relève qu’« il n’y a pas d’expérience clinique concernant la flexibilité de l’heure
+d’administration de la dose avec Tresiba chez les enfants et les adolescents10. », contrairement à
+l’adulte.
+
+     Dans le diabète de type 2
+Lors de la mise sous insuline, l’objectif glycémique doit tenir compte du bénéfice et des risques
+potentiels de l’intensification en particulier chez les patients âgés et/ou présentant des co-
+morbidités en particulier cardiovasculaires et rénales.
+Les recommandations actuelles ne privilégient plus systématiquement les schémas insuliniques
+intensifiés.
+TRESIBA, comme les autres analogues à longue durée d’action, peut être utilisé :
+       - lors de la mise en place d’une insulinothérapie, comme insuline basale (en association
+       avec un ou plusieurs antidiabétiques oraux). Selon la recommandation récente de la HAS, il
+       est préconisé de débuter de préférence par une insuline intermédiaire (NPH) au coucher. La
+       prescription d’un analogue lent de l’insuline, en alternative à l’insuline intermédiaire, est à
+       discuter si le risque d’hypoglycémie nocturne sévère est préoccupant.
+       - lors de la mise en place d’un schéma insulinique intensifié, comme insuline basale dans un
+       schéma basal-bolus (en association avec une insuline ou un analogue rapide ou
+       ultrarapide)11.
+
+9
+    Aucune étude TRESIBA versus insuline glargine 300 unités/ml n’a été fournie par le laboratoire.
+10
+     Base de données publique des médicaments. Résumé des caractéristiques du produit de TRESIBA
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                          23/25
+Avis 2 modifié le 13/03/2019
+Lorsque l’administration de la dose n’est pas possible au même moment de la journée, TRESIBA
+permet une flexibilité de l’heure d’administration de l’insuline.
+
+     Patients adultes diabétiques de type 1 ou de type 2 à haut risque d’hypoglycémie
+L’éducation thérapeutique a une place primordiale dans la prévention des hypoglycémies. Compte
+tenu des nouvelles données disponibles en termes de moindre survenue d’épisodes
+hypoglycémiques sévères ou symptomatiques confirmés par rapport à l’utilisation de l’insuline
+glargine, TRESIBA est un traitement insulinique basal d’action lente adapté aux patients adultes
+diabétiques à haut risque d’hypoglycémie.
+Le résumé des caractéristiques du produit doit être respecté.
+L’usage de ce médicament chez la femme enceinte ou allaitante doit respecter le RCP
+(http://lecrat.fr/).
+
+
+
+
+11
+     Dès lors que l’intensification du traitement est nécessaire pour atteindre l’objectif en termes d’HbA1c
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                      24/25
+Avis 2 modifié le 13/03/2019
+011                 CONCLUSIONS DE LA COMMISSION
+
+Considérant l’ensemble de ces informations et après débat et vote, la Commission estime :
+
+
+011.1               Amélioration du Service Médical Rendu
+Compte tenu :
+    - de la supériorité démontrée de TRESIBA 100 unités/ml par rapport à l’insuline
+       glargine 100 UI/ml en termes de moindre survenue d’épisodes hypoglycémiques
+       sévères ou symptomatiques confirmés, dans 2 études randomisées, en double
+       aveugle, réalisées l’une chez le patient adulte diabétique de type 1 et l’autre chez le
+       patient adulte diabétique type 2, sur une durée de 64 semaines,
+    - des résultats d’une étude de tolérance cardiovasculaire portant sur une large
+       population de patients diabétiques de type 2 à risque cardiovasculaire, ayant mis en
+       évidence la non infériorité de TRESIBA 100 unités/ml par rapport à insuline glargine
+       100 UI/ml sur le taux d’événements cardiovasculaires et une moindre fréquence
+       d’hypoglycémies avec TRESIBA par rapport à l’insuline glargine 100 UI/ml,
+la Commission estime que TRESIBA apporte une amélioration du service médical rendu
+mineure (ASMR IV) en termes de tolérance par rapport à l’insuline glargine 100 UI/ml, chez
+les patients adultes diabétiques de type 1 ou 2, à haut risque d’hypoglycémie.
+
+
+011.2               Population cible
+Dans l’avis de Transparence du 02/04/2014, la population cible de TRESIBA a été estimée à
+environ 810 000 patients diabétiques de type 1 ou 2 (DT1 et DT2), dont 620 000 patients
+diabétiques déjà traités par insuline (dont 140 000 patients DT1 et 480 000 patients DT2) et
+190 000 patients DT2 traités par antidiabétiques oraux seuls, non équilibrés et éligibles à
+l’insulinothérapie, avec un intervalle de plausibilité compris entre 620 000 patients (borne basse) et
+915 000 patients (borne haute).
+D’après l’étude Entred 2007-201012, environ 10% des patients diabétiques de type 2 et 39% des
+patients diabétiques de type 1 déclaraient avoir eu au moins une hypoglycémie sévère au cours de
+l’année passée (correspondant à des patients à haut risque d’hypoglycémie). En extrapolant cette
+fréquence à la population de patients diabétiques déjà traités par insuline (soit 140 000 patients
+DT1 et 480 000 patients DT2), cela correspondrait à une population de 102 600 patients étant à
+haut risque d’hypoglycémie.
+
+Estimation
+Au sein de la population de 810 000 patients diabétiques DT1 et DT2 nécessitant une
+insulinothérapie, le nombre de patients adultes diabétiques à haut risque d’hypoglycémie
+peut être estimé à 102 600 patients.
+
+
+
+
+12
+     InVS. Échantillon national témoin représentatif des personnes diabétiques, Entred 2007-2010.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                           25/25
+Avis 2 modifié le 13/03/2019
+

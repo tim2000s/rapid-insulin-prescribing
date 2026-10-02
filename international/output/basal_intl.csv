@@ -1,0 +1,124 @@
+country,year,degludec_pct,glargine300_pct,ultra_pct
+Australia,2021,0.0,20.49,7.0
+Australia,2022,0.0,21.28,8.17
+Australia,2023,0.0,21.63,9.54
+Australia,2024,0.0,22.1,5.26
+Australia,2025,0.0,22.48,8.14
+Australia,2026,0.0,23.24,9.78
+Denmark,2012,0.0,0.0,
+Denmark,2013,0.39,0.0,
+Denmark,2014,1.52,0.0,
+Denmark,2015,2.39,2.42,
+Denmark,2016,13.75,12.52,
+Denmark,2017,28.6,16.92,2.33
+Denmark,2018,37.24,19.42,7.24
+Denmark,2019,41.76,21.35,10.01
+Denmark,2020,43.24,21.94,11.32
+Denmark,2021,43.89,21.35,11.96
+Denmark,2022,43.77,20.47,11.51
+Denmark,2023,42.6,19.4,11.37
+Denmark,2024,41.68,18.5,11.4
+Denmark,2025,40.86,17.83,11.02
+England,2014,0.97,0.0,0.0
+England,2015,1.95,0.0,0.0
+England,2016,3.01,2.04,0.0
+England,2017,5.82,4.9,0.25
+England,2018,9.84,7.86,1.33
+England,2019,13.53,10.65,2.64
+England,2020,16.24,13.64,4.38
+England,2021,18.39,15.22,6.44
+England,2022,20.87,16.46,9.48
+England,2023,23.62,17.99,12.89
+England,2024,22.73,21.57,15.07
+England,2025,22.59,23.59,16.58
+England,2026,24.15,26.05,
+France,2017,0.0,12.78,0.0
+France,2018,2.19,18.74,4.35
+France,2019,8.89,21.73,8.78
+France,2020,13.04,23.34,10.32
+France,2021,16.19,24.91,11.99
+France,2022,18.47,26.47,13.41
+France,2023,19.77,28.23,14.18
+France,2024,21.19,29.4,14.95
+France,2025,22.06,30.65,14.58
+Germany,2012,0.0,0.0,
+Germany,2013,0.0,0.0,
+Germany,2014,1.93,0.0,
+Germany,2015,4.26,3.98,
+Germany,2016,0.21,16.56,
+Germany,2017,0.0,21.92,
+Germany,2018,0.19,25.68,
+Germany,2019,5.39,26.95,
+Germany,2020,9.35,27.73,9.11
+Germany,2021,11.58,29.08,9.76
+Germany,2022,14.37,29.86,10.3
+Germany,2023,14.66,31.91,11.1
+Germany,2024,15.54,32.69,11.49
+Germany,2025,,,12.11
+Northern Ireland,2014,,,0.0
+Northern Ireland,2015,,,0.0
+Northern Ireland,2016,,,0.0
+Northern Ireland,2017,,,0.73
+Northern Ireland,2018,,,3.37
+Northern Ireland,2019,,,6.07
+Northern Ireland,2020,,,9.13
+Northern Ireland,2021,,,12.26
+Northern Ireland,2022,,,15.66
+Northern Ireland,2023,,,18.37
+Northern Ireland,2024,,,18.91
+Northern Ireland,2025,,,23.89
+Norway,2004,0.0,,
+Norway,2005,0.0,,
+Norway,2006,0.0,,
+Norway,2007,0.0,,
+Norway,2008,0.0,,
+Norway,2009,0.0,,
+Norway,2010,0.0,,
+Norway,2011,0.0,,
+Norway,2012,0.0,,
+Norway,2013,0.0,,
+Norway,2014,0.01,,
+Norway,2015,0.42,,
+Norway,2016,3.23,,
+Norway,2017,11.0,,
+Norway,2018,20.59,,
+Norway,2019,26.84,,
+Norway,2020,34.01,,
+Norway,2021,39.66,,
+Norway,2022,43.05,,
+Norway,2023,44.95,,
+Norway,2024,45.98,,
+Norway,2025,45.75,,
+Scotland,2016,,,0.0
+Scotland,2017,,,0.63
+Scotland,2018,,,2.91
+Scotland,2019,,,4.67
+Scotland,2020,,,5.95
+Scotland,2021,,,7.38
+Scotland,2022,,,9.53
+Scotland,2023,,,11.96
+Scotland,2024,,,13.62
+Scotland,2025,,,14.05
+US Medicaid,2015,0.0,0.37,
+US Medicaid,2016,0.79,3.13,
+US Medicaid,2017,3.24,5.19,0.0
+US Medicaid,2018,5.17,4.59,0.09
+US Medicaid,2019,6.41,2.78,0.24
+US Medicaid,2020,6.88,2.34,0.36
+US Medicaid,2021,7.0,2.48,0.55
+US Medicaid,2022,7.07,3.07,0.85
+US Medicaid,2023,6.74,3.42,1.18
+US Medicaid,2024,7.58,3.89,1.49
+US Medicaid,2025,7.68,4.38,1.89
+US Medicare Part D,2015,0.0,0.93,
+US Medicare Part D,2016,1.81,5.35,
+US Medicare Part D,2017,5.37,7.86,0.0
+US Medicare Part D,2018,10.39,7.92,0.13
+US Medicare Part D,2019,13.3,8.62,0.42
+US Medicare Part D,2020,14.69,9.07,0.8
+US Medicare Part D,2021,15.53,9.47,1.41
+US Medicare Part D,2022,16.4,9.95,2.37
+US Medicare Part D,2023,17.31,11.19,3.55
+US Medicare Part D,2024,20.25,13.07,8.97
+US Medicare Part D,2025,,,5.32
+Wales,2025,,,30.92

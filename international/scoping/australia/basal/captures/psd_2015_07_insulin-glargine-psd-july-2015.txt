@@ -1,0 +1,985 @@
+                    Public Summary Document – July 2015 PBAC Meeting
+
+5.08 INSULIN GLARGINE, injection, 300 units per mL, Toujeo®,
+     Sanofi Aventis Australia Pty Ltd.
+1     Purpose of Application
+
+1.1   An unrestricted listing for insulin glargine 300 units/mL (U300). The ACPM
+      recommended indication is for the treatment of adults with diabetes mellitus.
+
+2     Requested listing
+
+2.1   The submission sought the following unrestricted listing:
+
+                                                              Effective
+      Name, Restriction,                Max.       №.of                   Proprietary Name and
+                                                          Dispensed Price
+      Manner of administration and form Qty        Rpts                       Manufacturer
+                                                            for Max. Qty
+      INSULIN GLARGINE
+      injection, 300 international       1          1         $''''''''''''''     Toujeo   Sanofi
+      units/mL, 1 x 1.5 mL cartridge
+      INSULIN GLARGINE
+      injection, 300 international       5          1        $'''''''''''''''     Toujeo   Sanofi
+      units/mL, 3 x 1.5 mL cartridge
+      INSULIN GLARGINE
+      injection, 300 international       5          1        $'''''''''''''''''   Toujeo   Sanofi
+      units/mL, 5 x 1.5 mL cartridge
+
+2.2   The requested prices in the submission were stated to be effective prices. The
+      sponsor intended to request a Special Pricing Arrangement for the U300 formulation
+      based on the price for the insulin glargine 100 units/mL (U100; Lantus) formulation.
+
+2.3   For type 1 diabetes mellitus (T1DM) listing was requested on a cost-minimisation
+      basis compared with U100. For type 2 diabetes mellitus (T2DM) listing was
+      requested on a cost-effectiveness basis compared with U100.
+
+2.4   An unrestricted listing was proposed for U300 and thus the PBS population was
+      potentially broader than the ACPM suggested indication, in adults, and the trial
+      populations. In particular, the PBS population may include patients with an HbA1c
+      <7% and >10%, T1DM patients aged <18 years, insulin naïve T1DM patients and
+      insulin experienced T2DM patients treated with lower doses of basal insulin.
+
+      For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+
+3     Background
+
+3.1   TGA status: The submission was made under TGA/PBAC Parallel Process. TOUJEO
+      insulin glargine 300 units/mL solution for injection injector pen was registered on
+      30 June 2015.
+
+3.2   U300 has not been considered by the PBAC previously.
+
+
+
+
+                                               1
+                    Public Summary Document – July 2015 PBAC Meeting
+
+3.3   U100 was recommended for listing as an unrestricted benefit on a cost-effectiveness
+      basis versus insulin NPH at an extraordinary PBAC meeting on 29 March 2006. The
+      recommendation was on the basis of a reduction in hypoglycaemic events with U100
+      compared with insulin NPH. With U100 the risk of symptomatic hypoglycaemia in
+      T1DM was estimated to be reduced by 10%, from 43.32 to 39.00 events/patient/year
+      (March 2006 PBAC Public Summary Document (PSD)). The current submission
+      claimed a reduction in hypoglycaemia in T2DM, and the risk of symptomatic
+      hypoglycaemia with U100 in the T2DM trials presented is substantially lower (3.76 to
+      14.76 events/patient/year).
+
+3.4   U300 is supplied in 1.5mL cartridges sealed into a disposable pen injector. A single
+      cartridge (1.5 mL) of U300 contains 450 units of insulin glargine. A single cartridge
+      (3.0 mL) of U100 contains 300 units of insulin glargine. If the shelf-life for both
+      products is the same (28 days), the increase in the number of units per cartridge may
+      result in increased wastage, especially in T2DM. The ACPM was concerned that if a
+      42-day open shelf life was accepted, then this could cause confusion among
+      diabetes educators and patients because a standard open shelf life of 28 days
+      applied to all the other insulin products. The ACPM noted that a 42 day open shelf
+      life for this product had not been accepted by the EMA or FDA and advised that the
+      open shelf life should be 28 days.
+
+3.5   Three pack sizes (1, 3 and 5 pens) are proposed for the U300 listing. One pack size
+      (5 cartridges/pens) is listed for U100.
+
+3.6   The single cartridge pack was intended for patients currently using insulin pump
+      therapy as a back-up supply of basal insulin should there be a malfunction of their
+      insulin pump. In most cases the back-up basal insulin supply is not used, and, once it
+      passes it usable shelf life, is discarded. The availability of a single cartridge pack was
+      to reduce the additional wastage which would occur if only multiple cartridge packs
+      were available. Similarly, the 3 pack was to allow patients who require lower doses to
+      avoid the wastage that would otherwise occur if only a 5 pack was available.
+
+
+4     Clinical place for the proposed therapy
+
+4.1   Patients with T1DM cannot produce insulin and require lifelong insulin replacement
+      therapy. Patients with T2DM produce insulin, but may not produce enough of it or
+      cannot use it effectively.
+
+4.2   The submission proposed U300 as an alternative basil insulin treatment. A
+      formulation of insulin glargine (100 units/mL) is already PBS listed. U300 is a more
+      concentrated form of insulin glargine (300 units/mL).
+
+5     Comparator
+
+5.1   Insulin glargine 100 units per mL (U100). The ESC considered this was the
+      appropriate comparator.
+
+      For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+6     Consideration of the evidence
+
+                                              2
+                         Public Summary Document – July 2015 PBAC Meeting
+
+
+Sponsor hearing
+
+6.1    There was no hearing for this item.
+
+Consumer comments
+
+       The PBAC noted and welcomed the input from individuals (2) and health care
+       professionals (4) via the Consumer Comments facility on the PBS website. The
+       comments described a range of benefits of treatment with U300 including: less
+       nocturnal hypoglycaemia; smaller volumes of insulin required will be more convenient
+       for patients with T2DM with severe insulin resistance requiring large doses of insulin
+       and may mean better compliance; and insulin expected to last beyond 24 hours may
+       reduce the need for a second daily dose.
+
+Clinical trials
+
+6.2    The submission was based on three head-to-head trials comparing U300 to U100 in
+       T2DM (EDITION I, EDITION II and EDITION III) and one head-to-head trial in T1DM
+       (EDITION IV).
+
+6.3    Two head-to-head trials of U300 and U100 were excluded from the submission due
+       to being conducted in Japan only (EDITION JPI and EDITION JPII). The submission
+       stated EDITION JPI was similar in design to EDITION IV, and EDITION JPII was
+       similar in design to EDITION II. No results were provided in the submission for the
+       excluded trials. Based on conference abstracts located during the evaluation, the
+       results of the excluded trials appear consistent with those for the included trials. The
+       ESC considered the exclusion of these trials may not be appropriate given the
+       EDITION trials included in the submission are multinational.
+
+6.4    Details of the trials presented in the submission are provided in the table below.
+
+       Table 1: Trials and associated reports presented in the submission
+       Trial ID                           Protocol title/ Publication title                               Publication
+                                                                                                           citation
+        Direct randomised trials
+        EDITION EFC11628: 6-Month, Multicentre, Randomized, Open-label, Parallel-group Study             23 December
+        I         Comparing the Efficacy and Safety of a New Formulation of Insulin Glargine and         2013
+                  Lantus® both plus Mealtime Insulin in Patients with Type 2 Diabetes Mellitus with a 6-
+                  month Safety Extension Period
+                  Riddle MC, Bolli GB, Ziemen M, Muehlen-Bartmer I, Bizet F, Home PD, et al. New         Diabetes Care
+                  insulin glargine 300 units/mL versus glargine 100 units/mL in people with type 2       2014; 37:2755–62
+                  diabetes using basal and mealtime insulin: glucose control and hypoglycemia in a 6-
+                  month randomized controlled trial (EDITION 1)
+                  Riddle MC, Yki-Jarvinen H, Bolli GB, Ziemen M, Muehlen-Bartmer I, Cissokho S, et al. Diabetologia
+                  Sustained glycaemic control and less hypoglycaemia with new insulin glargine 300       2014; 57 (Suppl.
+                  U/ml vs 100 U/ml: 1-year results in type 2 diabetes with basal and mealtime insulin    1): S402
+                  (EDITION 1)
+                  Home PD, Bolli GB, Ziemen M, Muehlen-Bartmer I, Bizet F, Riddle MC. Investigational Diabetic Medicine
+                  new insulin glargine U300: Glucose control and hypoglycaemia in people with Type 2 2014; 31 (Suppl.
+                  diabetes using a basal plus mealtime insulin regimen (EDITION I)                       1): 61
+
+
+                                                         3
+                   Public Summary Document – July 2015 PBAC Meeting
+
+           Bolli GB, Home PD, Ziemen M, Muehlen-Bartmer I, Bizet F, Riddle MC. Investigational Diabetes
+           new insulin glargine U300: Glycaemic control and hypoglycaemia in type 2 diabetes    Technology and
+           using a mealtime+basal insulin regimen (edition I)                                   Therapeutics
+                                                                                                2014; 16: A89
+           Riddle MC, Bolli GB, Ziemen M, Muehlen-Bartmer I, Bizet F, Home PD. New insulin      Diabetologia
+           glargine formulation: Glucose control and hypoglycaemia in people with type 2        2013; 56 (Suppl1):
+           diabetes using basal and mealtime insulin (EDITION I)                                S97
+           Riddle MC, Yki-Jarvinen H, Bolli GB, Cissokho S, Home PD. Sustained glycemic         Diabetes
+           control and less hypoglycemia with new insulin glargine 300 u/ml vs 100 u/ml: 1-year Technology and
+           results in t2dm with basal + mealtime insulin (EDITION 1)                            Therapeutics
+                                                                                                2015; 17: A15
+EDITION EFC11629: 6-Month, Multicentre, Randomized, Open-label, Parallel-group Study            23 December
+II      Comparing the Efficacy and Safety of a New Formulation of Insulin Glargine and          2013
+        Lantus® both in combination with oral anti hyperglycaemic drug(s) in Patients with
+        Type 2 Diabetes Mellitus with a 6-month Safety Extension Period
+        Yki-Jarvinen H, Bergenstal R, Ziemen M, Wardecki M, Muehlen-Bartmer I, Boelle E, et Diabetes Care
+        al. New insulin glargine 300 units/mL versus glargine 100 units/mL in people with type 2014; 37 (12):
+        2 diabetes using oral agents and basal insulin: glucose control and hypoglycemia in a 3235-43
+        6-month randomized controlled trial (EDITION 2)
+        Yki-Jarvinen H, Bergenstal RM, Bolli GB, Ziemen M, Wardecki M, Muehlen-Bartmer I, Diabetologia
+        et al. Less nocturnal hypoglycaemia and weight gain with new insulin glargine 300       2014; 57
+        U/ml vs 100 U/ml: 1-year results in people with type 2 diabetes using basal insulin and (Suppl.1): S387
+        OADs (EDITION 2)
+        Bergenstal RM, Riddle MC, Ziemen M, Wardecki M, Muehlen-Bartmer I, Boelle E, et Diabetes
+        al. Investigational new insulin U300: Glucose control and hypoglycaemia in type 2       Technology and
+        diabetes people on basal insulin and OADs (EDITION II)                                  Therapeutics
+                                                                                                2014; 16: A28
+        Yki-Järvinen H, Bergenstal RM, Boll GB, Wardęcki M, Maroccia M and Riddle MC.           Conference
+        Less nocturnal hypoglycaemia and weight gain with new insulin glargine 300 U/mL vs abstract, citation
+        100 U/mL: 1-year results in T2DM using basal insulin+OADs (EDITION 2)                   not provided in
+                                                                                                submission
+EDITION EFC12347: 6-month, Multicentre, Randomized, Open-label, Parallel-group Study            10 January 2014
+III     Comparing the Efficacy and Safety of a New Formulation of Insulin Glargine and
+        Lantus® in Insulin-Naïve Patients with Type 2 Diabetes Mellitus not Adequately
+        Controlled with Non-Insulin Anti hyperglycaemic Drugs with a 6-month Safety
+        Extension Period
+        Bolli GB, Riddle MC, Bergenstal RM, Ziemen M, Sestakauskas K et al. New insulin         Diabetes, Obesity
+        glargine 300 U/ml compared with glargine 100 U/ml in insulin-naïve people with type 2 and Metabolism
+        diabetes on oral glucose-lowering drugs: a randomized controlled trial (EDITION 3)      2015; 17:386-394
+        Bolli GB, Riddle MC, Bergenstal RM, Ziemen M, Sestakauskas K, Goyeau H, et al.          Diabetes 2014;
+        New insulin glargine 300 U/ML: Glycemic control and hypoglycemia in insulin naive       63: A19
+        people with T2DM (edition 3)
+        Bolli GB, Riddle MC, Bergenstal RM, Ziemen M, Sestakauskas K, Goyeau H, et al.          Diabetologia
+        New insulin glargine 300 U/ml: Glycaemic control and hypoglycaemia in insulin-naive 2014; 57
+        people with type 2 diabetes mellitus (EDITION 3)                                        (Suppl.1): S387
+EDITION EFC12456: A 6-Month, Multicentre, Randomized, Open-label, Parallel-group Study          4 March 2014
+IV      Comparing the Efficacy and Safety of a New Formulation of Insulin Glargine and
+        Lantus® Injected in the Morning or Evening in Patients with Type 1 Diabetes Mellitus
+        with a 6-month Safety Extension Period
+Source: Table B.4, p38 of the submission; Attachments 3, 4, 5 and 6 of the submission
+
+
+
+
+                                                        4
+                        Public Summary Document – July 2015 PBAC Meeting
+
+6.5   The key features of the direct randomised trials are summarised in the following
+      table.
+
+      Table 2: Key features of the included evidence
+                         Design/ duration/ Risk of                                                     Use in modelled
+      Trial        N                                          Patient population       Outcomes
+                              dosing           bias                                                      evaluation
+                                                         T2DM treated with basal
+                          R, OL, NI, MC, 6
+      EDITION I 807                               Low      insulin plus mealtime
+                        months, evening dose                                                           Outcomes used in
+                                                                   insulin            HbA1c,
+                                                                                                           modelled
+      EDITION             R, OL, NI, MC, 6               T2DM treated with basal >1Nocturnal
+                  811                             Low                                                   evaluation are
+      II                months, evening dose                 insulin plus OADs     severe and/or
+                                                                                                       symptomatic and
+                                                           T2DM, insulin naïve,      confirmed
+                                                                                                            severe
+      EDITION             R, OL, NI, MC, 6               treated with non-insulin hypoglycaemia
+                  878                             Low                                                   hypoglycaemia
+      III               months, evening dose                antihyperglycaemic
+                                                                    drugs
+                                                                                      HbA1c,
+                         R, OL, NI, MC, 6
+                                                         T1DM treated with basal >1 Nocturnal
+      EDITION          months, randomised
+                  549                             Low      insulin plus mealtime   severe and/or               NA
+      IV              to morning or evening
+                                                                   insulin           confirmed
+                              dose
+                                                                                  hypoglycaemia
+      Abbreviations: HbA1c=glycosylated haemoglobin; MC=multi-centre; OADs=oral anti-diabetic drugs; OL=open label; NA=not
+      applicable; NI = non-inferiority, R=randomised; T1DM=type 1 diabetes mellitus; T2DM=type 2 diabetes mellitus
+      Source: compiled during the evaluation
+
+6.6   The four trials were open-label with no blinding of either investigators or participants.
+      The risk of bias due to lack of blinding is considered low for the primary efficacy
+      outcome of HbA1c. The risk of bias is higher for the hypoglycaemia outcomes as
+      participants on U300 treatment may be more likely to test for hypoglycaemic events.
+      The pre-PBAC response considered if patients treated with U300 reported a higher
+      rate of hypoglycaemic events due to increased testing, the difference between the
+      U300 and U100 treatment arms would have been underestimated and, consequently,
+      the true benefit of U300 in the reduction of the risk of hypoglycaemia would be
+      underestimated. Any such bias would therefore benefit the comparator rather than
+      U300.
+
+6.7   The trial patients were likely to have had a higher risk of hypoglycaemia compared
+      with patients treated in clinical practice due to aiming for lower glucose targets, and
+      in EDITION I and II, due to enrolling patients with a long duration of disease and
+      insulin use, and whose diabetes remained uncontrolled despite being on a high dose
+      of basal insulin. Although the PSCR argued that the high doses of basal insulin would
+      not result in a higher risk of hypoglycaemia, this contradicted the submission
+      statement in Section C, page 151, which stated that patients enrolled in the EDITION
+      I and II trials would be expected to have a high risk of hypoglycaemia. This is
+      because the trials enrolled patients with inadequate glycaemic control whilst being
+      treated with basal insulin, and the inadequate control may have been as a result of
+      being unable to optimise the insulin dose due to hypoglycaemia.
+
+6.8   Nocturnal severe and/or confirmed hypoglycaemia between the start of week 9 and
+      month 6 was defined as a main secondary endpoint in EDITION I, II and III. A severe
+      event required assistance of another person to actively administer carbohydrate,
+      glucagon or other resuscitative action. A confirmed event required a measured
+      plasma glucose concentration of ≤3.9 mmol/L occurring as soon as possible after a
+      patient-recorded hypoglycaemic episode, and could be symptomatic or
+
+                                                          5
+                          Public Summary Document – July 2015 PBAC Meeting
+
+       asymptomatic. Nocturnal events occurred between 00:00 and 05:59 hours. Unless
+       severe, this relies on patients being able to detect a hypoglycaemic event and in the
+       case of nocturnal episodes, overnight. The ESC considered this would possibly
+       overestimate the effectiveness in practice given patients with a history of
+       hypoglycaemic unawareness were excluded from the trials.
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Comparative effectiveness
+
+6.9    The HbA1c results for the direct randomised trials are summarised below.
+
+       Table 3: Mean change in HbA1c from baseline to month 6 (%) across the direct randomised trials
+                                   U300                             U100
+                                                                                          LS mean difference
+       Trial ID              Baseline,    LS mean               Baseline,    LS mean
+                       N                                 N                                     (95% CI)
+                             mean (SD) change (SE)             mean (SD) change (SE)
+       EDITION I      404 8.14 (0.78) -0.83 (0.060)     400    8.14 (0.76) -0.83 (0.061) -0.00 (-0.112, 0.107)
+       EDITION II     403 8.28 (0.87) -0.57 (0.094)     405    8.22 (0.77) -0.56 (0.093) -0.01 (-0.139, 0.119)
+       EDITION III    402 8.49 (1.04) -1.42 (0.047)     394    8.58 (1.07) -1.46 (0.048) 0.04 (-0.090, 0.174)
+       EDITION IV     273 8.13 (0.77) -0.40 (0.051)     273    8.12 (0.79) -0.44 (0.051) 0.04 (-0.098, 0.185)
+       Abbreviations: CI=confidence interval; LS=least squares; SD=standard deviation; SE=standard error
+       Source: Table B.19, p63 of the submission
+
+6.10   For the four trials the upper 95% confidence limit for the difference between the
+       treatment groups was below the 0.3%-0.4% non-inferiority margin previously used by
+       the PBAC.
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+
+
+
+                                                              6
+                    Public Summary Document – July 2015 PBAC Meeting
+
+Comparative harms
+
+6.11   In the four trials a slightly higher proportion of patients treated with U300 had a
+       treatment emergent adverse event compared with patients treated with U100 (the
+       difference was statistically significant in EDITION II only; see Table 4 below). Most of
+       the events were non-specific (e.g. viral infections and gastrointestinal disorders) and
+       were not considered to be related to treatment.
+
+6.12   In EDITION IV (T1DM) the incidence of hypoglycaemia was similar with U300 and
+       U100.
+
+6.13   In EDITION I, II and III (T2DM) there was a non-statistically significant trend for a
+       lower incidence of hypoglycaemia in patients treated with U300. The difference
+       between the treatment groups was generally larger for nocturnal events. The
+       reduction in nocturnal events may be associated with the evening dosing and slower
+       release of insulin glargine from the U300 formulation compared with the U100
+       formulation. The ACPM noted that the claimed reduction in severe and/or confirmed
+       nocturnal hypoglycaemia was only in a subgroup of the target population (T2DM,
+       evening dose).
+
+6.14   In the four trials the incidence of severe hypoglycaemia was low and similar for both
+       treatment groups.
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Benefits/harms
+
+6.15   A summary of the comparative benefits and harms for U300 versus U100 is
+       presented in the following table.
+
+
+
+
+                                              7
+                   Public Summary Document – July 2015 PBAC Meeting
+
+Table 4: Summary of comparative benefits and harms for U300 and U100
+Benefits
+Change from baseline to month 6 in HbA1c (%)
+                           U300                                 U100                     Mean difference:
+Trial                   Mean ∆                                Mean ∆                      U300 vs. U100
+                n                        SE           n                       SE
+                       baseline                              baseline                         (95% CI)
+EDITION I 404            -0.83          0.060        400       -0.83         0.061     -0.00 (-0.112, 0.107)
+EDITION
+               403       -0.57          0.094        405       -0.56         0.093     -0.01 (-0.139, 0.119)
+II
+EDITION
+               402       -1.42          0.047        394       -1.46         0.048      0.04 (-0.090, 0.174)
+III
+EDITION
+               273       -0.40          0.051        273       -0.44         0.051      0.04 (-0.098, 0.185)
+IV
+Proportion of patients with at least 1 severe and/or confirmed nocturnal hypoglycaemic event between the
+start of week 9 and month 6
+                                                 Event rate/100 pts per 6 months
+Trial         U300    U100       RR (95% CI)                                              RD (95% CI)
+                                                       U300            U100
+EDITION I 146/404 184/400 0.79 (0.67, 0.93)            36.1             46.0       -0.099 (-0.165, -0.031)
+EDITION
+             87/403 113/405 0.77 (0.61, 0.99)          21.6             27.9       -0.063 (-0.122, -0.004)
+II
+EDITION
+             67/432 75/430 0.89 (0.66, 1.20)           15.5             17.4        -0.019 (-0.069, 0.030)
+III
+EDITION
+            162/273 153/273 1.06 (0.92, 1.23)          59.3             56.0        0.033 (-0.050, 0.115)
+IV
+Harms
+                                                 Event rate/100 pts per 6 months
+Trial         U300    U100       RR (95% CI)                                              RD (95% CI)
+                                                       U300             U100
+Any treatment emergent adverse event (TEAE)
+EDITION I 228/404 218/402 1.04 (0.92, 1.18)             56.4            54.2           0.02 (-0.05, 0.09)
+EDITION 237/403 206/406
+                               1.16 (1.02, 1.31)        58.8            50.7            0.08 (0.01, 0.15)
+II
+EDITION 247/435 245/438
+                               1.02 (0.90, 1.14)        56.8            55.9           0.01 (-0.06, 0.07)
+III
+EDITION 167/274 160/275
+                               1.05 (0.91, 1.20)        60.9            58.2           0.03 (-0.05, 0.11)
+IV
+Documented symptomatic hypoglycaemia (≤3.9 mmol/L)
+EDITION I 283/404 313/402 0.90 (0.83, 0.98)             70.0            77.9          -0.08 (-0.14, -0.02)
+EDITION                                                 49.6            57.4
+            200/403 233/406 0.86 (0.76, 0.89)                                         -0.08 (-0.15, -0.01)
+II
+EDITION                                                 30.6            35.8
+            133/435 157/438 0.85 (0.71, 1.03)                                          -0.05 (-0.11, 0.01)
+III
+EDITION                                                 85.0            83.6
+            233/274 230/275 1.02 (0.95, 1.09)                                          0.01 (-0.05, 0.08)
+IV
+Severe hypoglycaemia
+EDITION I 20/404 23/402 0.87 (0.48, 1.55)                5.0             5.7           -0.01 (-0.04, 0.02)
+EDITION                                                  1.0             1.5
+             4/403 6/406 0.67 (0.19, 2.37)                                             -0.00 (-0.02, 0.01)
+II
+EDITION                                                  0.9             0.9
+             4/435 4/438 1.00 (0.31, 3.23)                                             0.00 (-0.02, 0.02)
+III
+EDITION                                                  6.6             9.5
+            18/274 26/275 0.71 (0.41, 1.24)                                            -0.03 (-0.08, 0.02)
+IV
+Abbreviations: CI=confidence interval; RD=risk difference; RR=risk ratio; SE=standard error. Source: Table B.19, p63; Table
+B.20, p65; Table B.33, p86; Table B.39, p119; Table B.42, p124; Table B.45, 128; Table B.48, p132 of the submission.
+
+
+
+
+                                                       8
+                    Public Summary Document – July 2015 PBAC Meeting
+
+6.16   On the basis of one head-to-head trial (EDITION IV) presented in the submission,
+       U300 appears to have the same effect as U100 in the treatment of T1DM. On the
+       basis of three head-to-head trials (EDITION I, II and III), U300 appears to have the
+       same effect as U100 in the treatment of T2DM. For T1DM and T2DM, the outcome
+       assessed was glycosylated haemoglobin.
+
+6.17   On the basis of one head-to-head trial (EDITION IV), the frequency of adverse
+       events appears to be the same for U300 and U100 in the treatment of T1DM.
+
+6.18   On the basis of three head-to-head trials (EDITION I, II and III), with the possible
+       exception of hypoglycaemia, the frequency of adverse events appears to be the
+       same for U300 and U100 in the treatment of T2DM. Based on two of the trials in
+       patients previously treated with insulin (EDITION I and II), U300 given at night
+       appears less likely to cause hypoglycaemia during the night compared to night-time
+       dosing of U100. Per 100 patients treated, 6-10 are less likely to have severe and/or
+       confirmed hypoglycaemia during the night over a maximum duration of follow-up of 6
+       months. However, there was no evidence of a difference in severe hypoglycaemia in
+       EDITION I and II. Based on the third trial in patients not previously treated with
+       insulin (EDITION III), the frequency of severe and/or confirmed hypoglycaemic
+       events was similar for U300 and U100.
+
+6.19   On the basis of three head-to-head trials (EDITION I, II and III), the frequency of
+       severe hypoglycaemic events, defined as an event requiring assistance from another
+       person to actively administer carbohydrate, glucagon or other resuscitative action,
+       appears to be the same for U300 and U100.
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Clinical claim
+
+6.20   For the treatment of T1DM the submission describes U300 as non-inferior in terms of
+       comparative effectiveness and comparative safety over U100. The ESC considered
+       this claim was adequately supported.
+
+6.21   The PBAC considered that the claim of non-inferior comparative effectiveness was
+       reasonable.
+
+6.22   The PBAC considered that the claim of non-inferior comparative safety was
+       reasonable.
+
+6.23   For the treatment of T2DM the submission describes U300 as non-inferior in terms of
+       comparative effectiveness and superior in terms of comparative safety (reduced risk
+       of hypoglycaemia) over U100. The ESC considered the claim of non-inferiority for
+       comparative effectiveness was adequately supported. The ESC considered the
+       clinical significance of the claimed reduction in hypoglycaemia was questionable
+       given:
+       • A statistically significant reduction in the proportion of patients with at least one
+           nocturnal severe and/or confirmed hypoglycaemic event between the start of week
+           9 and month 6 was observed with U300 in EDITION I and II but not EDITION III.
+       • In the three trials patients were dosed in the evening, and a reduction in nocturnal
+           hypoglycaemia with U300 may not be observed for patients dosed at other times
+
+                                              9
+                    Public Summary Document – July 2015 PBAC Meeting
+
+         of the day. Evidence comparing the impact of the time of injection on the
+         occurrence of hypoglycaemia in T2DM is not available (PSCR)
+       • The incidence of hypoglycaemia in the trials may be higher than in clinical practice
+         due to the aggressive glucose targets, and in EDITION I and II, due to enrolling
+         patients with a range of risk factors for hypoglycaemia (e.g. uncontrolled diabetes
+         despite high doses of basal insulin, long duration of disease, long duration of
+         insulin therapy). Additionally, patients with a history of hypoglycaemic
+         unawareness were excluded from the trials.
+       • A reduction in the incidence of severe hypoglycaemia was not observed with U300
+         in any of the trials, noting that the EDITION trials were not powered to detect a
+         difference in severe events alone.
+
+6.24   The PBAC considered that the claim of non-inferior comparative effectiveness was
+       reasonable.
+
+6.25   The PBAC considered that the claim of superior comparative safety was not
+       adequately supported by the data.
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Economic analysis
+
+6.26   Cost-minimisation analysis for T1DM: The submission estimated that U300 40.46
+       units daily and U100 34.12 units daily were equi-effective (i.e. 1 unit of U300 is
+       equivalent to 0.84 units of U100). The equi-effective doses were based on the mean
+       doses at 6 months in EDITION IV. The equi-effective doses differed for morning
+       versus evening dosing. For patients dosed in the morning, 1 unit of U300 was
+       equivalent to 0.90 units of U100. For patients dosed in the evening, 1 unit of U300
+       was equivalent to 0.78 units of U100. In EDITION IV approximately 50% of patients
+       were dosed in the evening and 50% in the morning. The PSCR stated that data on
+       the relative proportions of patients dosing at different times of the day in Australian
+       clinical practice were not available.
+
+6.27   In EDITION IV, at month 6 the mean daily mealtime insulin dose was higher for
+       patients randomised to U300 compared with U100 (28.66 vs 27.11 units). The cost of
+       mealtime insulin was not included in the T1DM economic analysis. Including the cost
+       of mealtime insulin reduces the cost-minimisation ex-manufacturer price for U300
+       from $'''''''''''''' to approximately $''''''''''''' per 450 unit pen.
+
+6.28   Cost-effectiveness analysis for T2DM: In the submission each of the EDITION trials
+       were modelled separately and sequentially (i.e. EDITION III followed by EDITION II
+       followed by EDITION I). The models presented were an adaption of the model
+       included in the March 2006 U100 PBAC submission in which a disutility was applied
+       for symptomatic and severe hypoglycaemic events and for fear of future events. In
+       the clinical trials symptomatic and severe hypoglycaemia were safety endpoints. The
+       difference between the U300 and U100 treatment groups was not statistically
+       significant (in post-hoc analyses) for symptomatic events in EDITION I and II and for
+       severe events in the three trials. In the trials there was no difference between the
+       treatment groups in the perceived frequency of hypoglycaemia, fear of
+       hypoglycaemia or EQ-5D utility scores.
+
+
+                                             10
+                    Public Summary Document – July 2015 PBAC Meeting
+
+6.29   The Public Summary Document for the March 2006 U100 submission notes that the
+       PBAC had a number of major concerns with the economic model for the listing of
+       U100, and the PBAC’s recommendation did not rely on the model presented. The
+       following PBAC concerns were not addressed in this submission:
+       • The utility gain associated with a reduction in fear of future events may only arise
+            in a small subset of patients with a directly perceptible reduction in
+            hypoglycaemic events. The PSCR disagreed and suggested that all patients in
+            the trials who experienced hypoglycaemic events were at risk of fear of
+            hypoglycaemia, and the risk increased with repeated episodes, and likewise
+            decreased as the number of events reduced. However, the ESC considered the
+            argument that there was a significant difference in reduced fear of
+            hypoglycaemia between treatment groups to be flawed given the data collected
+            in the EDITION trials suggested there is no difference between the U300 and
+            U100 treatment groups in perceived frequency of hypoglycaemia, fear of
+            hypoglycaemia or EQ-5D utility scores. The PBAC agreed with the ESC that this
+            was a significant issue with the model and did not believe the argument in the
+            pre-PBAC response that the lack of a significant difference in fear of
+            hypoglycaemia in the trials was due to the fact that majority of patients had
+            experienced a hypoglycaemic event and therefore most patients were at risk of
+            fear of hypoglycaemia.
+       • The health states used for the time trade off (TTO) study described a typical
+            week and did not capture the chronic nature of the disease, in which there will be
+            considerable variability in symptoms over time.
+       • The assumption inherent in the disutilities for fear of hypoglycaemia is that
+            hypoglycaemic events disappear upon treatment with U300 (based on the way
+            the disutilities from the TTO study have been calculated), whereas in reality
+            these events occur at a reduced rate.
+       • The model is independent of the time horizon due to the event rates, costs and
+            disutilities being the same for every 3 month cycle.
+
+6.30   In the sequential model the hypoglycaemic event rates from EDITION III were
+       applied for 3.75 years, the rates from EDITION II for 2.75 years and the rates from
+       EDITION I for 13.5 years. The three trials enrolled distinct patient populations based
+       on diabetes treatments received. The PBAC noted the Pre-PBAC response
+       continued to argue the differences in the patient populations made them appropriate
+       for use in the sequential model, but the Committee agreed with the ESC that the
+       patient populations in the EDITION I, II and III trials do not reflect the continuum of
+       disease progression. Thus, the sequential model does not appropriately address the
+       concern regarding the use of constant event rates and is not a reliable construct for
+       the economic evaluation.
+
+
+
+
+                                             11
+                          Public Summary Document – July 2015 PBAC Meeting
+
+       Table 5: Summary of model structure and rationale
+       Component                                                          Summary
+                                        20 years in the model base case versus 6 months in trials. The individual trial
+       Time horizon
+                                        models are independent of the time horizon.
+       Outcomes                         QALYs
+       Methods used to generate results Cohort expected value analysis, Markov model
+       Health states                    Alive and dead
+       Cycle length                     3 months. The individual trial models are independent of the cycle length.
+                                        31/100,000 population per year. The same constant death rate is assumed for
+       Transition from alive to dead
+                                        U300 and U100. The individual trial models are independent of the death rate.
+       Hypoglycaemic event rates        Rate of symptomatic and severe events from EDITION I, II and III
+       Costs                            U300 or U100, mealtime insulin and treatment of severe hypoglycaemia events
+       Source: compiled during the evaluation
+
+6.31   The key model drivers are summarised in the following table.
+
+       Table 6: Key drivers of the model
+       Description                                            Method/Value                                       Impact
+       Risk of hypoglycaemia     Sourced from the EDITION I, II and III trials. Trial patients likely to have High, favours
+       with U100 (baseline risk) higher risk of events compared with PBS patients.                                U300
+                                 Sourced from the EDITION I, II and III trials. Reduction not statistically
+       Reduction in risk of                                                                                   High, favours
+                                 significant for symptomatic events in EDITION I and II, and for severe
+       hypoglycaemia with U300                                                                                    U300
+                                 events in the 3 trials.
+                                 Values sourced from U100 March 2006 PBAC submission. In March
+                                 2006 the PBAC had a number of concerns regarding the utility values
+       Disutility values for                                                                                  High, favours
+                                 (see above) and data collected in the EDITION trials suggests no
+       hypoglycaemia events                                                                                       U300
+                                 difference between the treatment groups in the perceived frequency of
+                                 hypoglycaemia, fear of hypoglycaemia or health utility scores.
+       Source: compiled during the evaluation
+
+6.32   The results of the stepped economic evaluation are presented in the following table.
+
+
+
+
+                                                          12
+                                  Public Summary Document – July 2015 PBAC Meeting
+
+       Table 7: Results of the stepped economic evaluation
+                                                 EDITION I                                              EDITION II                                          EDITION III
+       Step and component
+                                 U300               U100 Increment U300                                  U100 Increment U300                                   U100 Increment
+       Step 1: trial-based costs and outcomes (6 month time horizon)
+       Costs                      $'''''''''        $''''''''''      $''''''''''''''   $''''''''''        $'''''''''       $''''''''''''     $'''''''''        $'''''''''        $''''''''''''''
+       Symptomatic + severe
+                                  6.92               7.50               -0.58           3.09               4.09             0.99             1.04               1.89               0.85
+       hypoglycaemia events
+       Incremental cost/event avoided                                $''''''''''''                                         $''''''''''                                           $''''''''''''
+       Upper 95% CL of differences in outcome Dominated                                                                  Dominated                                              $'''''''''''''''
+       Lower 95% CL of differences in outcome $'''''''''''                                                                $''''''''''''                                          $''''''''''''
+       Step 2: trial results and premodelling (extrapolation to 20 year time horizon, inclusion of cost of mealtime
+       insulin (EDITION I), undiscounted)
+       Costs                   $''''''''''''''' $''''''''''''''''     $'''''''''''' $'''''''''''''''''' $'''''''''''''''' $''''''''''''''' $'''''''''''''''' $''''''''''''''''' $'''''''''''''
+       Symptomatic + severe
+                                   276                299             -22.97             123               163             -39.50               42                75              33.74
+       hypoglycaemia events
+       Incremental cost/event avoided                                $'''''''''''                                          $''''''''''                                           $'''''''''''
+       Step 3: modelled evaluation (inclusion of cost for treating severe hypoglycaemic events, undiscounted)
+       Costs                   $'''''''''''''''' $''''''''''''''''' $'''''''''''''' $'''''''''''''''' $''''''''''''''''' $'''''''''''' $'''''''''''''''' $''''''''''''''''' $'''''''''''''
+       Symptomatic + severe
+                                   276                299             -22.97             123               163             -39.50               42                75              33.74
+       hypoglycaemia events
+       Incremental cost/event avoided                                $'''''''''''                                         $'''''''''''                                           $''''''''''
+       Step 4: modelled evaluation (transformation to QALYs gained, discounted)
+       Costs                   $''''''''''''''' $''''''''''''''''     $'''''''''''' $'''''''''''''''' $''''''''''''''''' $''''''''''''' $'''''''''''''''' $''''''''''''' $''''''''''''''
+       QALYs                    '''''''''''''''   '''''''''''''''    '''''''''''''''' ''''''''''''''' '''''''''''''''' ''''''''''''''''' ''''''''''''''''' ''''''''''''''' ''''''''''''''''''
+       Incremental cost/extra QALY gained                           $''''''''''''''                                       $''''''''''''                                          $''''''''''''
+       Step 5: modelled evaluation (sequential model, EDITION III → EDITION II → EDITION I)
+                                              Sequential model
+       Costs                   $'''''''''''''''' $''''''''''''''''    $''''''''''''
+       QALYs                   ''''''''''''''''' ''''''''''''''''''   '''''''''''''''
+       Incremental cost/extra QALY gained                           $'''''''''''''''
+       Source: Table D.20, p179 of the submission; values in italics corrected during the evaluation.
+
+6.33   The T2DM cost-effectiveness analysis was based on a reduction in symptomatic and
+       severe hypoglycaemia. These were safety endpoints in the trials.
+
+6.34   The difference between the U300 and U100 treatment groups in symptomatic events
+       was not statistically significant in EDITION I and II. The lower event rate reduction
+       with U300 in EDITION I (0.08) compared with EDITION II (0.24) and III (0.45)
+       resulted in higher ICERs despite the higher baseline risk of events (EDITION I:
+       14.76; EDITION II: 8.11; EDITION III: 3.76 per patient year).
+
+6.35   The difference in severe events was not statistically significant in any of the trials.
+       The PSCR argued that the trials were not powered to detect a difference in these
+       outcomes, but there was a consistent numeric reduction in events and thus the
+       model accurately reflects the treatment benefits. The ESC remained concerned that
+       by using the point estimates in the model, the base case essentially assumes that
+       these are statistically significant and clinically meaningful differences. The sensitivity
+       analyses in the evaluation using the upper 95% confidence intervals show that U300
+       could be dominated by U100. The PBAC considered the use of these non-statistically
+       significant differences in the model to be problematic.
+
+6.36   The results of univariate sensitivity analyses indicate that the model was also
+       sensitive to the disutilities for fear of future symptomatic hyperglycaemic events. If
+
+                                                                                     13
+                            Public Summary Document – July 2015 PBAC Meeting
+
+          the disutility for fear of future symptomatic events was removed, for the EDITION I
+          model U300 was dominated by U100 (i.e. is less effective and more costly), and for
+          the EDITION II and III models the cost/QALY gained was $75,000/QALY -
+          $105,000/QALY and more than $200,000/QALY, respectively.
+
+6.37      As was the case in 2006, the disutility for fear of hypoglycaemia was a key driver of
+          the model, with sensitivity analyses showing the ICERs for each trial dramatically
+          changed with the removal of this disutility.
+
+6.38      The PBAC considered that the fear of an event such as hypoglycaemia would be
+          real, but the fear of having a particular event would exist for most conditions. Without
+          clear evidence that treatment with the intervention would eliminate this fear, this is
+          not a health state which should be modelled.
+
+6.39      A biosimilar for insulin glargine 100 units/mL (Basaglar) was recommended for listing
+          at the March 2015 PBAC meeting. Movement of insulin glargine 100 units/mL to the
+          F2 formulary would trigger a 16% price cut. Reducing the price of U100 by 16%
+          increases the cost/QALY gained to $75,000/QALY - $105,000/QALY for EDITION I,
+          $15,000/QALY - $45,000/QALY for EDITION II and $15,000/QALY - $45,000/QALY
+          for EDITION III.
+
+6.40      The ESC proposed the following equi-effective doses in T2DM would be valid if the
+          model was rejected and non-inferiority with U100 was accepted:
+             • Based on EDITION I: 103.29 units of U300 and 93.64 units of U100 i.e. 1 unit
+                of U300 is equivalent to 0.91 units of U100
+             • Based on EDITION II: 91.02 units of U300 and 81.88 units of U100 i.e. 1 unit
+                of U300 is equivalent to 0.90 units of U100
+             • Based on EDITION I: 59.37 units of U300 and 52.03 units of U100 i.e. 1 unit
+                of U300 is equivalent to 0.88 units of U100.
+
+6.41      The proposed price for U300 is based on ''''''% use in T1DM and ''''''% use in T2DM.
+          The proportions are based on an analysis of the 10% PBS sample. Patients
+          dispensed a basal insulin with a history of oral antidiabetic therapy were identified as
+          T2DM patients whilst patients with no history of oral antidiabetic therapy were
+          identified as being T1DM patients. Limited details of the analysis were provided and
+          the reliability of the estimates could not be verified.
+
+          For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Drug cost/patient/year
+
+6.42      Treatment with U300 is ongoing and doses are titrated based on blood glucose
+          levels. The mean dose of U300 in the trials at 6 months ranged from 40 to 103 units.
+          Assuming an average dose of 70 units, and ''''''% use of the 5 pack of U300 and '''''''%
+          use of the 3 pack, the monthly and yearly cost of U300 is $'''''''''''' ($''''''''''''''''' 1 x 30 x 70)
+          and $'''''''''''''''''' ($'''''''''''''''' x 365 x 70), respectively.
+
+
+
+1
+  Weighted dispensed unit cost = '''''''' x (''''''''''''''''''/[3 x 5 x 450]) + '''''''' x (''''''''''''''''''/[5 x 5 x 450]) =
+$''''''''''''''''
+
+                                                              14
+                                                  Public Summary Document – July 2015 PBAC Meeting
+
+6.43              The effective ex-manufacturer price for 25 x 300 unit pens of U100 is $''''''''''''''''' or
+                  $''''''''''' per 300 unit pen. This is equivalent to $'''''''''''''' per 450 units of insulin glargine.
+                  • For T1DM a lower unit price is requested for U300 ($''''''''''''' per 450 units of insulin
+                       glargine). This is because of the requirement for an 18.6% higher unit dose with
+                       U300 compared with U100 (i.e. '''''''''''''' x 1.186 = $'''''''''''''').
+                  • For T2DM the same unit price is requested for U300. However, a 10.3-14.1%
+                       higher unit dose is required with U300 compared with U100. Adjusting for the
+                       higher dose, a premium of between $'''''''''''' 2 ('''''''''''%) and $''''''''''' 3 (''''''''''%) per pen
+                       (450 units) is requested for U300.
+
+Estimated PBS usage & financial implications
+
+6.44              This submission was not considered by DUSC. A market share approach with U300
+                  replacing U100 was used in the submission.
+
+                  Table 8: Estimated use and financial implications
+                                                                   Year 1                      Year 2                       Year 3                       Year 4                        Year 5
+                  Estimated extent of use
+                  U100 prescriptions, 5 pack                    ''''''''''''''''''''         ''''''''''''''''''         ''''''''''''''''''''''          '''''''''''''''''           ''''''''''''''''''''
+                  Uptake T1DM/T2DM                            '''''''''''''''''''''''' '''''''''''''''''''''' ''''''''''''''''''''''''                '''''''''''''''''''''       '''''''''''''''''''''''
+                  U300 prescriptions
+                    1 pack                                           ''''''''''''             ''''''''''''''''              ''''''''''''''''            '''''''''''''''''             ''''''''''''''''
+                    3 pack                                        '''''''''''''''''           '''''''''''''''''             '''''''''''''''              ''''''''''''''''              '''''''''''''''
+                    5 pack                                         ''''''''''''''''          ''''''''''''''''''           '''''''''''''''''''          ''''''''''''''''''''          '''''''''''''''''''
+                  Estimated net cost to PBS/RPBS
+                  U300 net cost to PBS/RPBS (less co-pay)    $''''''''''''''''''''''''' $'''''''''''''''''''''''''' $'''''''''''''''''''''''''''' $''''''''''''''''''''''''''''' $''''''''''''''''''''''''''
+                  U100 net cost offset to PBS/RPBS (less co-
+                                                             $''''''''''''''''''''''''''' $''''''''''''''''''''''''' $''''''''''''''''''''''''''''' $'''''''''''''''''''''''''' $''''''''''''''''''''''''''
+                  pay)
+                  Estimated total net cost
+                  Net cost to PBS/RPBS                        $''''''''''''''''''''''' $''''''''''''''''''''''''' $''''''''''''''''''''''''' $'''''''''''''''''''''''''' $''''''''''''''''''''''''''''
+                  Source: Table E.2, p188; Table E.4, p188, Table E.7, p189; Table E.13, p193; Table E.18, p194 of the submission; values in
+                  italics corrected during the evaluation.
+
+                  The redacted table above shows that the estimated use and financial implications of
+                  U300 to the PBS/RPBS for the treatment of type 1 and type 2 diabetes is less than
+                  $10 million in years 1 and 2 and $10-20 million in years 3-5.
+
+6.45              The submission estimated a net PBS/RPBS cost in year 5 of $10 - 20 million. This
+                  was likely to be an overestimate because the submission assumed 1 pack of U300
+                  would replace 1 pack of U100, but on average a pack of U300 contains more units of
+                  insulin glargine. However, adjusting the pack equivalents ratio and simultaneously
+                  reducing the price of U100 by 16% resulted in a net PBS/RPBS cost in year 5 of $17-
+                  $26m. The net PBS/RPBS cost was also sensitive to the assumed growth of the
+                  insulin glargine market and the uptake of U300. Both the growth and uptake
+                  estimates used in the submission were uncertain.
+
+6.46              The PBAC noted, at the revised cost-minimised price for T2DM, the net PBS/RPBS
+                  cost in year 5 would be less than the $10 - 20 million calculated by the submission.
+
+
+2
+    '''''''''''''-(''''''''''''''/'''''''''''')
+3
+    '''''''''''''-('''''''''''''/'''''''''''')
+
+                                                                                                    15
+                    Public Summary Document – July 2015 PBAC Meeting
+
+Quality Use of Medicines
+
+6.47   No information provided by the submission. However, as noted above, the
+       unrestricted listing means the PBS population may be broader than the ACPM
+       suggested indication, in adults, and the trial populations. The U300 pen is more
+       concentrated than U100 cartridge/pen and there may be safety concerns, particularly
+       with respect to use in children in T1DM.
+
+
+7      PBAC Outcome
+
+7.1    The PBAC recommended insulin glargine U300 as an unrestricted benefit on the
+       basis of cost-minimisation to U100 for both T1DM and T2DM. The PBAC rejected the
+       claimed benefit in hypoglycaemic events and the modelled cost effectiveness in
+       T2DM. The PBAC noted the supportive comments from consumers but considered
+       there was low clinical need for this additional formulation of insulin glargine.
+
+7.2    The PBAC noted the unrestricted PBS listing could result in use in patient
+       populations that are broader than the ACPM indication but did not consider the
+       possibility of use outside the indication to be a significant issue.
+
+7.3    The PBAC agreed that insulin glargine U100 was the appropriate comparator.
+
+       Type 1 diabetes
+
+7.4    Based on the head-to-head trial EDITION IV, the PBAC accepted the claim of non-
+       inferior efficacy and safety in patients with T1DM. For mean change in in HbA1c, the
+       upper 95% confidence limit for the difference between the U300 and U100 treatment
+       groups was below the 0.3%-0.4% non-inferiority margin previously used by the
+       PBAC. The incidence of hypoglycaemia was similar with U300 and U100.
+
+7.5    The PBAC accepted the estimated equi-effective dose of 1 unit of U300 being
+       equivalent to 0.84 units of U100. The equi-effective dose was based on the mean
+       dose at 6 months in EDITION IV. The equi-effective dose differed for morning versus
+       evening dosing. For patients dosed in the morning, 1 unit of U300 was equivalent to
+       0.90 units of U100. For patients dosed in the evening, 1 unit of U300 was equivalent
+       to 0.78 units of U100. In EDITION IV approximately 50% of patients were dosed in
+       the evening and 50% in the morning. The PBAC noted that data on the relative
+       proportions of patients dosing at different times of the day in Australian clinical
+       practice are not available, but considered the 50% estimate to be conservative and
+       favour the U300.
+
+7.6    The PBAC considered the cost of mealtime insulin should have been included in the
+       calculation for T1DM. At month 6 the mean daily mealtime insulin dose was higher
+       for patients randomised to U300 compared with U100 (28.66 vs 27.11 units).
+
+       Type 2 diabetes
+
+7.7    Based on three head-to-head trials (EDITION I, EDITION II and EDITION III)
+       comparing U300 to U100 in T2DM, the PBAC accepted U300 as non-inferior to U100
+
+
+                                            16
+                    Public Summary Document – July 2015 PBAC Meeting
+
+       in terms of comparative effectiveness but rejected the claim of superior comparative
+       safety (reduced risk of hypoglycaemia) over U100 for T2DM.
+
+7.8    For mean change in in HbA1c, the upper 95% confidence limit for the difference
+       between the U300 and U100 treatment groups was below the 0.3%-0.4% non-
+       inferiority margin previously used by the PBAC.
+
+7.9    For the safety claim, the PBAC noted the statistically significant difference in the
+       proportion of patients with at least one severe and/or confirmed nocturnal
+       hypoglycaemic event between the start of week 9 and month 6, in the EDITION I and
+       II trials. No statistically significant difference in this outcome was observed in
+       EDITION III. The PBAC had several issues with the interpretation of these outcomes
+       as superior safety:
+           • As noted by ACPM, the evening doses in the trials may have contributed to
+                the incidence of nocturnal hypoglycaemia. The Committee noted that eTG
+                stated: “There is some evidence to suggest that administering basal insulin in
+                the morning is associated with less hypoglycaemia than evening dosing.
+                Consider changing to morning administration if nocturnal hypoglycaemia
+                becomes a problem.”
+           • The incidence of hypoglycaemia in the trials may have been higher than in
+                clinical practice due to a range of factors, including the aggressive glucose
+                targets. The PBAC noted the arguments in the PSCR and Pre-PBAC
+                response that the targets in the trials were higher than recommended in
+                Australian clinical practice, but the attainment of these targets was balanced
+                with the need to avoid hypoglycaemia. The PBAC disagreed that the trials
+                enrolled patients with similar risk of hypoglycaemia as the Australian
+                population.
+           • The definition of nocturnal events in the trials may not have captured what is
+                considered a nocturnal event in practice, given the trial definition restricted
+                these events to between 00:00 and 05:59 hours and nocturnal hypoglycaemia
+                usually encompasses the night-time sleeping hours rather than restricting to a
+                6-hour window.
+           • There was no difference in the rates of documented symptomatic
+                hypoglycaemia, per patient year, in EDITION I and II.
+           • There was no evidence of a difference in severe hypoglycemia (requiring
+                assistance) in any of the three trials.
+
+7.10   The PBAC did not accept U300 to have superior comparative safety in terms of
+       reduced risk of hypoglycaemia.
+
+7.11   The PBAC rejected the model in this submission, given a significant improvement in
+       hypoglycaemia with U300 was not accepted and noting the issues with the 2006
+       model not addressed in this submission as outlined in paragraph 6.30.
+
+7.12   Based on the acceptance of non-inferiority of both comparative clinical effectiveness
+       and safety, the PBAC agreed with the following equi-effective doses for T2DM:
+          • EDITION I:      1U of U300 = 0.91U of U100
+          • EDITION II: 1U of U300 = 0.90U of U100
+          • EDITION III: 1U of U300 = 0.88U of U100
+
+
+
+                                             17
+                     Public Summary Document – July 2015 PBAC Meeting
+
+7.13   The PBAC noted the 28 day shelf life of the U300 and that the increase in the
+       number of units per cartridge may result in increased wastage in a small group of
+       patients. The PBAC considered a small reduction in the price of the U300 was
+       appropriate to account for the potential wastage.
+
+7.14   The PBAC advised that insulin glargine is suitable for prescribing by nurse
+       practitioners.
+
+7.15   The PBAC recommended that the Safety Net 20 Day Rule should not apply.
+
+
+Outcome:
+Recommended
+
+8      Recommended listing
+
+8.1    Add new item:
+
+       Unrestricted listing.
+
+       Name, Restriction,                Max.        №.of   Proprietary Name and
+       Manner of administration and form Qty         Rpts       Manufacturer
+       INSULIN GLARGINE
+       injection, 300 international       1           1     Toujeo    Sanofi
+       units/mL, 1 x 1.5 mL cartridge
+       INSULIN GLARGINE
+       injection, 300 international       5           1     Toujeo    Sanofi
+       units/mL, 3 x 1.5 mL cartridge
+       INSULIN GLARGINE
+       injection, 300 international       5           1     Toujeo    Sanofi
+       units/mL, 5 x 1.5 mL cartridge
+
+
+9      Context for Decision
+
+The PBAC helps decide whether and, if so, how medicines should be subsidised in
+Australia. It considers submissions in this context. A PBAC decision not to recommend
+listing or not to recommend changing a listing does not represent a final PBAC view about
+the merits of the medicine. A company can resubmit to the PBAC or seek independent
+review of the PBAC decision.
+
+
+10     Sponsor’s Comment
+
+       The sponsor had no comment.
+
+
+
+
+                                                18
+

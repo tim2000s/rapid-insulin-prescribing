@@ -1,0 +1,232 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+7500 Security Boulevard
+Baltimore, Maryland 21244-1850
+
+
+
+Centers for Medicare & Medicaid Services
+
+
+DATE:          April 9, 2020
+
+TO:            All Part D Sponsors
+
+FROM:          Laura McWright, Deputy Director, Seamless Care Models Group
+               Center for Medicare & Medicaid Innovation
+
+SUBJECT:       Part D Senior Savings Model – Calendar Year (CY) 2021 – Frequently Asked
+               Questions.
+
+The parameters for the Part D Senior Savings Model in CY 2021 are outlined in the Part D
+Senior Savings Model CY 2021 Request for Applications (RFA) for Part D Sponsors:
+https://innovation.cms.gov/files/x/partd-seniorsav-plan-rfa.pdf. While the RFA describes Model
+requirements, CMS has received operational questions from Part D sponsors and other
+stakeholders. The information included in this frequently asked questions document (FAQ)
+serves to provide further clarity and transparency to the Model requirements and flexibilities
+raised by Part D sponsors and other stakeholders. This FAQ addresses questions on Model drugs
+(hereinafter “Model drugs” or “Model insulins”), cost sharing, formulary tier(s), days’ supply,
+deductible, and supplemental files.
+
+CMS would like to remind Part D sponsors to submit a Notice of Intent by Friday, April 10,
+2020 through the following link, available on the Model website and here:
+https://cms.gov1.qualtrics.com/jfe/form/SV_e2vWrogMTY4B5it.
+
+The week of April 13th, CMS will make available the application portal link for Part D sponsors
+on the Model website. CMS will review and notify sponsors of their approval or any changes on
+an on-going basis as applications are submitted. Part D sponsors have until May 1, 2020 to
+submit their applications. Part D sponsors will finalize their participation through the bid
+submission on June 1, 2020.
+
+Additional questions on the Part D Savings Model should be sent to
+PartDSavingsModel@cms.hhs.gov or visit https://innovation.cms.gov/innovation-models/part-d-
+savings-model.
+
+
+
+
+                                               1
+Frequently Asked Questions
+
+Q1. Can the cost sharing differ by pharmacy type (preferred and non-preferred
+pharmacies) and location (retail and mail) or must it remain the same?
+
+A1. In the RFA CMS stated that for CY 2021, Model-participating Part D sponsors must offer a
+cost sharing no greater than their maximum copay (whether that is $35 or lower) at all pharmacy
+types (preferred and non-preferred) and locations (retail and mail) for Model insulin.
+
+CMS has received a number of questions about whether Model-participating Part D sponsors
+retain the flexibility to offer a benefit with different cost sharing at preferred and non-preferred
+pharmacies and retail and mail locations. Therefore, CMS is clarifying that for CY 2021,
+provided that the cost-sharing at all pharmacy types and locations is not greater than their
+maximum copay, Part D sponsors will be allowed to offer lower cost sharing at preferred
+pharmacies and select pharmacy locations for Model insulin. Any cost-sharing differential
+offered by pharmacy type and/or location must follow all current CMS program regulations and
+guidance.
+
+Part D sponsors that want to offer differential cost sharing by pharmacy type and/or location for
+Model insulin products must: 1) Include this information in their application (due May 1, 2020);
+2) Submit the non-preferred cost sharing for Model insulins offered by the Part D sponsor in the
+CY 2021 Part D Senior Savings Model Supplemental File (Please see Appendix 1 for the file
+record layout); and 3) Submit an additional supplemental file (Health Plan Management System
+(HPMS) upload to the Model Documentation section) during the Part D bid and benefit review,
+that contains the preferred cost sharing for Model insulins. The preferred cost-sharing
+information, provided to CMS via the additional supplemental file, will not be available for
+display on Plan Finder for CY 2021.
+
+Q2. If a Part D sponsor has a $0 deductible plan, could that plan continue charging a $0
+deductible and a maximum of $35 copay in the deductible, initial coverage, and coverage
+gap phases for Model insulins?
+
+A2. Yes, if the Part D sponsor has a $0 deductible plan, the sponsor could continue to offer this
+$0 deductible plan with a maximum of a $35 copay for a 30-days’ supply in the initial coverage
+and coverage gap phases of the benefit. The cost sharing (e.g., $35) in the deductible, initial
+coverage, and coverage gap phases of the benefit will be the amount submitted for the associated
+cost sharing for Model insulins offered by the Part D sponsor in the CY 2021 Part D Senior
+Savings Model Supplemental File.
+
+Q3. How should the cost share for a Model insulin be applied in the deductible phase? For
+example, if the member cost share is capped at $35, what should apply to the deductible
+calculation? Should it be only the member cost share or the entire drug cost?
+
+
+                                                  2
+A3. The entire drug cost should be applied in the deductible phase. Part D sponsors are reminded
+of the requirement that beneficiaries move through the deductible and initial coverage phases of
+the Part D benefit based on the total gross drug costs accumulated, which includes costs for
+drugs that might not be subject to a deductible. Unless otherwise noted in Model materials, plans
+should continue to report prescription drug event data according to current CMS guidance
+located in HPMS and on the Customer Support Services Contract (CSSC) website at
+https://www.csscoperations.com.
+
+Q4. If a Model insulin is on a participating plan’s formulary tier where a deductible
+applies, will the deductible apply to Model insulins on that formulary tier?
+
+A4. No, the deductible would not apply to Model insulins that have a maximum copay of $35 per
+30-day supply. The deductible would apply to all other drugs on the tier. Please see (Q3) and
+(A3) for additional information on the deductible.
+
+Q5. If a plan defines “one-month” in the plan benefit package (PBP) as a days’ supply
+between 30 and 34 days (for example “one-month” equals 31 days), is the intent of the
+Model to follow the plan’s definition of a one-month supply (31 days) or is the cost share
+for Model insulin to be based on a 30-day supply, regardless of plan definition of a one-
+month supply?
+
+A5. The intent of the Model is to follow the plan’s definition (consistent with current program
+regulations and guidance) of a one-month (30-day equivalent) supply, in the plan benefit
+package, for the maximum $35 copay for a 30-days’ supply of Model insulin.
+
+Q6. Can you please clarify the cost-sharing requirements for those claims that are
+dispensed beyond a 30 days’ supply including 60 or 90 days for both retail and mail order
+pharmacy locations?
+
+A6. CMS has received a number of questions about whether Model-participating Part D sponsors
+retain the flexibility to offer a benefit that includes a 60-day equivalent and 90-day equivalent
+supply for Model insulin and the associated cost sharing. Therefore, CMS is clarifying that for
+CY 2021, provided that the cost-sharing is consistent with Chapter 5 of the Prescription Drug
+Benefit Manual - https://www.cms.gov/Medicare/Prescription-Drug-
+Coverage/PrescriptionDrugCovContra/Downloads/MemoPDBManualChapter5_093011.pdf - the
+cost sharing for a 60-day equivalent supply and 90-day equivalent supply, respectively, must not
+exceed what the enrollee would have paid for multiple 30-day (one-month) equivalent supply
+increments, Part D sponsors may offer extended day supplies at both retail and mail pharmacy
+locations for Model insulin. The 30-day equivalent cost-sharing provided to CMS via the Part D
+Senior Savings Model File (Please see Appendix 1 for the file record layout), will be multiplied
+by two-times and three-times respectively to determine the 60-day and 90-day equivalent cost-
+sharing for display on Plan Finder for CY 2021.
+
+                                                3
+Q7. What are the cost-sharing requirements for the formulary tier that the Part D sponsor
+elects to place the Model insulin on for the participating plan’s CY 2021 Part D formulary?
+
+A7. Part D sponsors may include Model insulin on any formulary tier that is consistent with
+current program regulations and guidance including formulary design. The cost sharing for the
+formulary tier(s) that contain(s) Model insulin must be greater than or equal to the cost sharing of
+the Model insulin, a maximum $35 copay for 30-days’ supply.
+
+Q8. If the selected formulary tier has a $45 copay for all other non-model drugs would it be
+possible to offer the $35 copay on only the Model insulins, or would all drugs on the tier
+need to offer the $35 copay in order to participate in the Model?
+
+A8. The cost sharing for Model insulins may be less than the cost sharing on the selected
+formulary tier for non-model drugs on that tier. Please note (A7) the cost sharing for non-Model
+drugs on a formulary tier(s) that contain(s) Model insulin products must be greater than or equal
+to the cost sharing for the Model insulin on that tier (i.e., a maximum $35 copay for 30-days’
+supply). During the Part D bid and benefit review, Model applicants will submit a supplemental
+file that contains the reduced cost sharing for Model insulin.
+
+Q9. Do Model insulins have to be included on the participating plan’s formulary to be
+included on the CY 2021 Part D Senior Savings Model Supplemental File?
+
+A9. Yes, participating plans’ formularies must include at least one vial dosage form and one pen
+dosage form, when available as part of the Part D sponsors formulary, of each of the following:
+rapid-acting, short-acting, intermediate-acting, and long-acting insulins, at a maximum of $35
+copay for 30 days’ supply. Model applicants will submit a supplemental file that contains the
+RxCUI concept unique identifier for each of the Model insulins that will be included on the
+formulary and the associated cost sharing. The RxCUI must be on the Part D sponsor’s
+formulary to be included on the CY 2021 Part D Senior Savings Model Supplemental File.
+
+Q10. Can different Model insulins have different cost sharing?
+
+A10. Yes, the maximum cost share for a 30-days’ supply of a Model insulin that the participating
+plan includes on its formulary and in this Model is $35. Part D sponsors have the flexibility to
+offer a lower cost share for different types (e.g., rapid-acting, short-acting, intermediate-acting,
+and long-acting) and/or forms (e.g., pen, vial) of Model insulins that it is offering under the
+Model.
+
+Q11. What is the format of the Model Insulin Supplemental file template and when will it
+be available?
+
+A11. As part of the application process, Model applicants will submit via a supplemental file
+which will be available through the Model application portal: 1) the name, strength, and dosage
+form of each Model insulin the Part D sponsor will offer at a maximum of $35 copayment for a
+
+                                                 4
+30-days’ supply and 2) the specific enrollee cost sharing for each such Model insulin. CMS will
+review the application for the contracts and PBP(s) that Part D sponsors submit. Once approved,
+the Part D sponsor will indicate its intended participation in the Model in HPMS as part of its
+Part D bid. In addition, during the Part D bid and benefit review, Model applicants will submit a
+supplemental file that contains the Model insulins and associated cost sharing for those Model
+insulins offered by the Part D sponsor through HPMS. The file format for the CY 2021 Part D
+Senior Savings Model is included in Appendix 1.
+
+Q12. The Model RFA states that supplemental benefits in the coverage gap are reported on
+prescription drug event (PDE) data as “patient liability reduction due to other payer”
+(PLRO) and supplemental benefits outside of the coverage gap are “non-covered plan
+paid” (NPP). Can you please clarify if a plan can submit all supplemental benefits as either
+NPP or PLRO?
+
+A12. CMS is clarifying that a plan cannot submit all supplemental benefits inside and outside of
+the coverage gap as NPP or as PLRO. Rather, CMS is requiring Model-related supplemental
+benefits be reported differently inside versus outside of the coverage gap. Specifically,
+participating plans should report the supplemental benefits provided through this Model in the
+PLRO field while in the coverage gap and in the NPP field while in phases other than the
+coverage gap.
+
+
+
+
+                                                5
+Appendix 1
+
+
+            CY 2021 Part D Senior Savings Model File Record Layout
+
+
+       Field Name               Field Type          Maximum                Field Description              Sample Field
+                                                      Field                                                 Value(s)
+                                                     Length
+
+         RxCUI                    Number                 8        RxCUI concept unique                   210597
+                                                                  identifier from the active
+                           Always Required                        Formulary Reference File.
+         Copay               Alphanumeric                6        Model-drug beneficiary                 $35.00
+                                                                  copay
+                           Always Required
+
+ Required File Format = ASCII File – Tab Delimited
+ Do not include a header record
+ Filename extension should be “.TXT”
+ Please Note: Certain characters are restricted from HPMS. The submitted file will be rejected if any of the
+ following characters are included in any field: 1) greater than sign (>), 2) less than sign (<), and 3) semi- colon
+ (;).
+

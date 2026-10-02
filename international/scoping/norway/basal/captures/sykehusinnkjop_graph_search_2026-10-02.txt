@@ -1,0 +1,214 @@
+_note: Optimizely Graph fulltext search restricted to Url startsWith https://www.sykehusinnkjop.no, public SingleKey from page source; run 2026-10-02
+insulin: total=6
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/ | Insulinpumper tildeling
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/ | Klage på utstyrsavtale for diabetespasienter tas ikke til følge
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/ | Ny utstyrsavtale for diabetespasienter på plass
+  https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/ | Insulinpumper, CGM og forbruksmateriell
+  https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx | Avtaleoversikt basislegemidler.xlsx
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/ | Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer
+insulin anbefaling: total=92
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/ | Insulinpumper tildeling
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/ | Klage på utstyrsavtale for diabetespasienter tas ikke til følge
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/ | Ny utstyrsavtale for diabetespasienter på plass
+  https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/ | Insulinpumper, CGM og forbruksmateriell
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/ | Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/blodkoagulasjonsfaktorer/ | Blodkoagulasjonsfaktorer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/plasmaderiverte-legemidler/ | Plasmaderiverte legemidler
+  https://www.sykehusinnkjop.no/avtaler-legemidler/pulmonal-arteriell-hypertensjon-pah/ | Pulmonal arteriell hypertensjon (PAH)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/tnf-bio/ | TNF BIO
+  https://www.sykehusinnkjop.no/avtaler-legemidler/sjeldne/ | Sjeldne sykdommer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/hepatitt-b-og-c/ | Hepatitt B og C
+  https://www.sykehusinnkjop.no/avtaler-legemidler/alvorlig-astma/ | Alvorlig astma
+  https://www.sykehusinnkjop.no/avtaler-legemidler/gauchers-sykdom/ | Gauchers sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/hereditert-angioodem-hae/ | Hereditært angioødem (HAE)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/nevroendokrine-svulster/ | Nevroendokrine svulster
+  https://www.sykehusinnkjop.no/avtaler-legemidler/wilsons-sykdom/ | Wilsons sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/Hjerteamyloidose/ | Hjerteamyloidose
+  https://www.sykehusinnkjop.no/avtaler-legemidler/kronisk-nyresykdom/ | Kronisk nyresykdom inkl. anemi
+  https://www.sykehusinnkjop.no/avtaler-legemidler/transplantasjon/ | Transplantasjon
+  https://www.sykehusinnkjop.no/avtaler-legemidler/veksthormonmangel/ | Veksthormonmangel
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/ny-legemiddelavtale-skal-bidra-til-a-hindre-mangelsituasjoner/ | Ny legemiddelavtale skal bidra til å hindre mangelsituasjoner
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/lavere-priser-kan-spare-sykehusene-for-200-millioner-pa-kreftmedisiner/ | Lavere priser kan spare sykehusene for 200 millioner på kreftmedisiner
+  https://www.sykehusinnkjop.no/avtaler-legemidler/multippel-sklerose-ms/ | Multippel sklerose (MS)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/fabry-sykdom/ | Fabry sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/humant-immunsviktvirus-hiv/ | Humant immunsviktvirus (HIV)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/legemiddelassistert-rehabilitering-lar/ | Legemiddelassistert rehabilitering (LAR)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/immunologisk-trombocytopeni-itp/ | Immunologisk trombocytopeni (ITP)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/idiopatisk-lungefibrose/ | Progressiv fibroserende interstitiell lungesykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/ | Antineovaskulariserende midler (våt AMD)
+  https://www.sykehusinnkjop.no/om-oss/baerekraft/global-uro-og-krav-til-aktsomhetsvurderinger/ | Global uro og krav til aktsomhetsvurderinger
+  https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-onkologi-2026/ | Helseforetakenes anbudsseminar onkologi 2026
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/masteroppgave-belyser-legemiddelbytter-ved-nye-avtaler/ | Masteroppgave belyser legemiddelbytter ved nye avtaler
+  https://www.sykehusinnkjop.no/avtaler-legemidler/onkologi/ | Onkologi
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/internrevisjon-viser-god-styring-og-kontroll/ | Internrevisjon viser god styring og kontroll
+  https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-tnf-bio-2026/ | Helseforetakenes anbudsseminar TNF BIO 2026
+  https://www.sykehusinnkjop.no/avtaler-legemidler/vaksiner/ | Vaksiner
+  https://www.sykehusinnkjop.no/legemidler/ | Legemidler
+  https://www.sykehusinnkjop.no/nyheter/2026/informasjonsmote-om-ny-prosess-for-medisinsk-utstyr-i-nye-metoder/ | Informasjonsmøte om ny prosess for medisinsk utstyr i Nye metoder
+  https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-tnf-bio-2022/ | Helseforetakenes anbudsseminar TNF BIO 2022
+  https://www.sykehusinnkjop.no/om-oss/baerekraft/kontroll-av-renholdsavtaler/ | Kontroll av renholdsavtaler
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/helseforetakene-kan-spare-ca-500-millioner-pa-ny-legemiddelavtale/ | Helseforetakene kan spare ca. 500 millioner på ny legemiddelavtale
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2025/styrker-systemet-for-vurdering-av-medisinsk-utstyr-i-spesialisthelsetjenesten/ | Styrker systemet for vurdering av medisinsk utstyr i spesialisthelsetjenesten
+  https://www.sykehusinnkjop.no/om-oss/divisjoner/ | Divisjoner
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2024/far-plass-i-critical-medicines-alliance/ | Nordisk legemiddelforum får plass i Critical Medicines Alliance
+  https://www.sykehusinnkjop.no/4aec95/siteassets/avtaledokumenter/avtaler-legemidler/sesonginfluensavaksiner/anbefaling-vaksiner-sesonginfluensa.pdf | Anbefaling vaksiner sesonginfluensa.pdf
+  https://www.sykehusinnkjop.no/49bb24/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-sesonginfluensa.pdf | Anbefaling vaksiner sesonginfluensa.pdf
+  https://www.sykehusinnkjop.no/49c054/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkvaksine-til-voksenvaksinasjonsprogrammet.pdf | Anbefaling pneumokokkvaksine til voksenvaksinasjonsprogrammet.pdf
+  https://www.sykehusinnkjop.no/4945ca/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-hpv.pdf | Anbefaling vaksiner HPV.pdf
+  https://www.sykehusinnkjop.no/4968b0/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-c.pdf | Anbefaling hepatitt C.pdf
+  https://www.sykehusinnkjop.no/49c058/siteassets/avtaledokumenter/avtaler-legemidler/ms/anbefaling-multippel-sklerose.pdf | Anbefaling multippel sklerose.pdf
+  https://www.sykehusinnkjop.no/4a2436/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-bcg-vaksine.pdf | Anbefaling BCG vaksine.pdf
+  https://www.sykehusinnkjop.no/49c007/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-mmr-vaksine.pdf | Anbefaling MMR vaksine.pdf
+  https://www.sykehusinnkjop.no/4a828d/siteassets/avtaledokumenter/avtaler-legemidler/onkologi/anbefaling-onkologiske-og-kolonistimulerende-legemidler.pdf | Anbefaling onkologiske og kolonistimulerende legemidler.pdf
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-kirurgiske-produkter/ | Kategoriplan for kirurgiske produkter
+  https://www.sykehusinnkjop.no/4ad9d3/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-helse-vest-og-helse-midt.pdf | Anbefaling plasma Helse Vest og Helse Midt.pdf
+  https://www.sykehusinnkjop.no/4ad9d8/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-for-helse-nord-og-helse-sor-ost.pdf | Anbefaling plasma for Helse Nord og Helse Sør Øst.pdf
+  https://www.sykehusinnkjop.no/4a7ec4/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-rotavirusvaksine.pdf | Anbefaling rotavirusvaksine.pdf
+  https://www.sykehusinnkjop.no/49edd9/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksine-mot-hepatitt-b.pdf | Anbefaling vaksine mot hepatitt-B.pdf
+  https://www.sykehusinnkjop.no/4a3946/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkonjugatvaksine.pdf | Anbefaling pneumokokkonjugatvaksine.pdf
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-medisinske-forbruksvarer/ | Kategoriplan for medisinske forbruksvarer
+  https://www.sykehusinnkjop.no/4af63c/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-dtp-ipv-og-dtp-ipv-vaksiner.pdf | Anbefaling DTP-IPV og dTp-IPV vaksiner.pdf
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/fare-for-antibiotikamangel-gjer-at-noreg-ma-ta-grep/ | Fare for antibiotikamangel gjer at Noreg må ta grep
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-bygg-og-eiendomsdrift/ | Kategoriplan for bygg og eiendomsdrift
+  https://www.sykehusinnkjop.no/49e539/siteassets/avtaledokumenter/avtaler-legemidler/hjerteamyloidose/anbefaling-hjerteamyloidose.pdf | Anbefaling hjerteamyloidose.pdf
+  https://www.sykehusinnkjop.no/4ae06e/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-79-2025-status-pa-oppfolging-av-internrevisjonsrapporter.pdf | Sak 79-2025 Status på oppfølging av internrevisjonsrapporter.pdf
+  https://www.sykehusinnkjop.no/498892/siteassets/avtaledokumenter/avtaler-legemidler/fabry-sykdom/fabry.pdf | Anbefaling Fabry sykdom.pdf
+  https://www.sykehusinnkjop.no/4a29d1/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-gjeldende-fra-1.-september-2026-wilsons-sykdom.pdf | Anbefaling gjeldende fra 1. september 2026 Wilsons sykdom.pdf
+  https://www.sykehusinnkjop.no/4a298c/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-wilsons-sykdom.pdf | Anbefaling Wilsons sykdom.pdf
+  https://www.sykehusinnkjop.no/49d056/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon---treprostinil.pdf | Anbefaling pulmonal arteriell hypertensjon - treprostinil.pdf
+  https://www.sykehusinnkjop.no/49e701/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon.pdf | Anbefaling pulmonal arteriell hypertensjon.pdf
+  https://www.sykehusinnkjop.no/48e0df/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-b.pdf | Anbefaling hepatitt B.pdf
+  https://www.sykehusinnkjop.no/498f87/siteassets/avtaledokumenter/avtaler-legemidler/itp/anbefaling-immunologisk-trombocytopeni.pdf | Anbefaling immunologisk trombocytopeni.pdf
+  https://www.sykehusinnkjop.no/4a2adf/siteassets/avtaledokumenter/avtaler-legemidler/transplantasjon/anbefaling-transplantasjon.pdf | Anbefaling transplantasjon.pdf
+  https://www.sykehusinnkjop.no/495f1c/siteassets/avtaledokumenter/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/anbefaling-antineovaskulariserende-midler.pdf | Anbefaling antineovaskulariserende midler.pdf
+  https://www.sykehusinnkjop.no/4a83c8/siteassets/avtaledokumenter/avtaler-legemidler/veksthormonmangel/anbefaling-veksthormonmangel.pdf | Anbefaling veksthormonmangel.pdf
+  https://www.sykehusinnkjop.no/4a2e33/siteassets/avtaledokumenter/avtaler-legemidler/gaucher/anbefaling-gauchers-sykdom.pdf | Anbefaling Gauchers sykdom.pdf
+  https://www.sykehusinnkjop.no/4a1dae/siteassets/avtaledokumenter/avtaler-legemidler/progressiv-fibroserende-interstitiell-lungesykdom/anbefaling-progressiv-fibroserende-interstitiell-lungesykdom.pdf | Anbefaling progressiv fibroserende interstitiell lungesykdom.pdf
+  https://www.sykehusinnkjop.no/498903/siteassets/avtaledokumenter/avtaler-legemidler/hae/hae.pdf | Anbefaling Hereditært angioødem.pdf
+  https://www.sykehusinnkjop.no/499353/siteassets/avtaledokumenter/avtaler-legemidler/sjeldne-sykdommer/anbefaling-ekulizumab.pdf | Anbefaling ekulizumab.pdf
+  https://www.sykehusinnkjop.no/48e6f6/siteassets/avtaledokumenter/avtaler-legemidler/hiv/anbefaling-humant-immunsviktvirus.pdf | Anbefaling humant immunsviktvirus.pdf
+  https://www.sykehusinnkjop.no/4a4d32/siteassets/avtaledokumenter/avtaler-legemidler/alvorlig-astma/anbefaling-alvorlig-astma.pdf | Anbefaling alvorlig astma.pdf
+  https://www.sykehusinnkjop.no/4a831d/siteassets/avtaledokumenter/avtaler-legemidler/nevroendokrine-svulster/anbefaling-nevroendokrine-svulster.pdf | Anbefaling nevroendokrine svulster.pdf
+  https://www.sykehusinnkjop.no/49335c/siteassets/avtaledokumenter/avtaler-legemidler/kronisk-nyresykdom/anbefaling-kronisk-nyresykdom-anemi-og-hyperkalemi.pdf | Anbefaling kronisk nyresykdom, anemi og hyperkalemi.pdf
+  https://www.sykehusinnkjop.no/4a9447/siteassets/dokumenter/styremoter/2025/styremote-21.-oktober-2025/sak-65-2025-virksomhetsrapport-september-2025-vedlegg-2-risikovurdering-anskaffelser---veileder.pdf | Sak 65-2025 Virksomhetsrapport september 2025 Vedlegg 2 Risikovurdering Anskaffelser - Veileder.pdf
+  https://www.sykehusinnkjop.no/4a96ae/siteassets/avtaledokumenter/avtaler-legemidler/lar/anbefaling-legemiddelassistert-rehabilitering.pdf | Anbefaling legemiddelassistert rehabilitering.pdf
+  https://www.sykehusinnkjop.no/4a7492/siteassets/avtaledokumenter/avtaler-legemidler/blodkoagulasjonsfaktorer/anbefaling-blodkoagulasjonsfaktorer.pdf | Anbefaling blodkoagulasjonsfaktorer.pdf
+  https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx | Avtaleoversikt basislegemidler.xlsx
+  https://www.sykehusinnkjop.no/4940ed/siteassets/dokumenter/styremoter/2026/styremote-19.-mars-2026/sak-31-2026-orientering-fra-administrerende-direktor.pdf | Sak 31-2026 Orientering fra administrerende direktør.pdf
+  https://www.sykehusinnkjop.no/4ae066/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-81-2025-status-beredskapsarbeid.pdf | Sak 81-2025 Status beredskapsarbeid.pdf
+  https://www.sykehusinnkjop.no/49c87f/siteassets/dokumenter/styremoter/2026/styremote-16.-juni-2026/sak-49-2026-status-kardia-fase-i.pdf | Sak 49-2026 Status Kardia fase I.pdf
+  https://www.sykehusinnkjop.no/49cd7e/siteassets/avtaledokumenter/avtaler-legemidler/tnf-bio/anbefaling-tnfbio-for-helse-nord-og-helse-sor-ost.pdf | Anbefaling TNFBIO for Helse Nord og Helse Sør Øst.pdf
+  https://www.sykehusinnkjop.no/49cd8d/siteassets/avtaledokumenter/avtaler-legemidler/tnf-bio/anbefaling-tnfbio-for-helse-vest-og-helse-midt.pdf | Anbefaling TNFBIO for Helse Vest og Helse Midt.pdf
+LIS-anbefaling insulin: total=112
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/ | Insulinpumper tildeling
+  https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-onkologi-2026/ | Helseforetakenes anbudsseminar onkologi 2026
+  https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-tnf-bio-2022/ | Helseforetakenes anbudsseminar TNF BIO 2022
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/ | Klage på utstyrsavtale for diabetespasienter tas ikke til følge
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/ | Ny utstyrsavtale for diabetespasienter på plass
+  https://www.sykehusinnkjop.no/om-oss/divisjoner/ | Divisjoner
+  https://www.sykehusinnkjop.no/legemidler/ | Legemidler
+  https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-tnf-bio-2026/ | Helseforetakenes anbudsseminar TNF BIO 2026
+  https://www.sykehusinnkjop.no/en/legemidler/joint-nordic-procurement/ | Joint Nordic procurement
+  https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/ | Insulinpumper, CGM og forbruksmateriell
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/ | Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/blodkoagulasjonsfaktorer/ | Blodkoagulasjonsfaktorer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/plasmaderiverte-legemidler/ | Plasmaderiverte legemidler
+  https://www.sykehusinnkjop.no/avtaler-legemidler/pulmonal-arteriell-hypertensjon-pah/ | Pulmonal arteriell hypertensjon (PAH)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/tnf-bio/ | TNF BIO
+  https://www.sykehusinnkjop.no/avtaler-legemidler/sjeldne/ | Sjeldne sykdommer
+  https://www.sykehusinnkjop.no/avtaler-legemidler/hepatitt-b-og-c/ | Hepatitt B og C
+  https://www.sykehusinnkjop.no/avtaler-legemidler/alvorlig-astma/ | Alvorlig astma
+  https://www.sykehusinnkjop.no/avtaler-legemidler/gauchers-sykdom/ | Gauchers sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/hereditert-angioodem-hae/ | Hereditært angioødem (HAE)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/nevroendokrine-svulster/ | Nevroendokrine svulster
+  https://www.sykehusinnkjop.no/avtaler-legemidler/wilsons-sykdom/ | Wilsons sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/Hjerteamyloidose/ | Hjerteamyloidose
+  https://www.sykehusinnkjop.no/avtaler-legemidler/kronisk-nyresykdom/ | Kronisk nyresykdom inkl. anemi
+  https://www.sykehusinnkjop.no/avtaler-legemidler/transplantasjon/ | Transplantasjon
+  https://www.sykehusinnkjop.no/avtaler-legemidler/veksthormonmangel/ | Veksthormonmangel
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/ny-legemiddelavtale-skal-bidra-til-a-hindre-mangelsituasjoner/ | Ny legemiddelavtale skal bidra til å hindre mangelsituasjoner
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/lavere-priser-kan-spare-sykehusene-for-200-millioner-pa-kreftmedisiner/ | Lavere priser kan spare sykehusene for 200 millioner på kreftmedisiner
+  https://www.sykehusinnkjop.no/avtaler-legemidler/multippel-sklerose-ms/ | Multippel sklerose (MS)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/fabry-sykdom/ | Fabry sykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/humant-immunsviktvirus-hiv/ | Humant immunsviktvirus (HIV)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/legemiddelassistert-rehabilitering-lar/ | Legemiddelassistert rehabilitering (LAR)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/immunologisk-trombocytopeni-itp/ | Immunologisk trombocytopeni (ITP)
+  https://www.sykehusinnkjop.no/avtaler-legemidler/idiopatisk-lungefibrose/ | Progressiv fibroserende interstitiell lungesykdom
+  https://www.sykehusinnkjop.no/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/ | Antineovaskulariserende midler (våt AMD)
+  https://www.sykehusinnkjop.no/om-oss/baerekraft/global-uro-og-krav-til-aktsomhetsvurderinger/ | Global uro og krav til aktsomhetsvurderinger
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2021/revidert-oppgjorsavtale-apner-for-generisk-legemiddelbytte/ | Revidert oppgjørsavtale åpner for generisk legemiddelbytte
+  https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-hiv-2022/ | Helseforetakenes anbudsseminar HIV 2022
+  https://www.sykehusinnkjop.no/om-oss/informasjon-og-opplering/ | Informasjon og opplæring
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2020/masteroppgave-belyser-legemiddelbytter-ved-nye-avtaler/ | Masteroppgave belyser legemiddelbytter ved nye avtaler
+  https://www.sykehusinnkjop.no/avtaler-for-helse-nord/medisinsk-koderevisjon-regional/ | Medisinsk koderevisjon
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/felles-nordisk-legemiddelanskaffelse-offentliggjort/ | Felles nordisk legemiddelanskaffelse offentliggjort
+  https://www.sykehusinnkjop.no/avtaler-legemidler/onkologi/ | Onkologi
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/internrevisjon-viser-god-styring-og-kontroll/ | Internrevisjon viser god styring og kontroll
+  https://www.sykehusinnkjop.no/avtaler-legemidler/vaksiner/ | Vaksiner
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2018/velkommen-til-nye-sykehusinnkjopno/ | Velkommen til nye sykehusinnkjop.no
+  https://www.sykehusinnkjop.no/nyheter/2026/informasjonsmote-om-ny-prosess-for-medisinsk-utstyr-i-nye-metoder/ | Informasjonsmøte om ny prosess for medisinsk utstyr i Nye metoder
+  https://www.sykehusinnkjop.no/en/legemidler/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf/ | Pharmaceutical Strategy of The Norwegian Hospital Procurement Trust (Sykehusinnkjøp HF)
+  https://www.sykehusinnkjop.no/om-oss/baerekraft/kontroll-av-renholdsavtaler/ | Kontroll av renholdsavtaler
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2019/helseforetakene-kan-spare-ca-500-millioner-pa-ny-legemiddelavtale/ | Helseforetakene kan spare ca. 500 millioner på ny legemiddelavtale
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2025/styrker-systemet-for-vurdering-av-medisinsk-utstyr-i-spesialisthelsetjenesten/ | Styrker systemet for vurdering av medisinsk utstyr i spesialisthelsetjenesten
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2024/far-plass-i-critical-medicines-alliance/ | Nordisk legemiddelforum får plass i Critical Medicines Alliance
+  https://www.sykehusinnkjop.no/4aec95/siteassets/avtaledokumenter/avtaler-legemidler/sesonginfluensavaksiner/anbefaling-vaksiner-sesonginfluensa.pdf | Anbefaling vaksiner sesonginfluensa.pdf
+  https://www.sykehusinnkjop.no/49bb24/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-sesonginfluensa.pdf | Anbefaling vaksiner sesonginfluensa.pdf
+  https://www.sykehusinnkjop.no/49c054/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkvaksine-til-voksenvaksinasjonsprogrammet.pdf | Anbefaling pneumokokkvaksine til voksenvaksinasjonsprogrammet.pdf
+  https://www.sykehusinnkjop.no/4945ca/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-hpv.pdf | Anbefaling vaksiner HPV.pdf
+  https://www.sykehusinnkjop.no/4968b0/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-c.pdf | Anbefaling hepatitt C.pdf
+  https://www.sykehusinnkjop.no/49c058/siteassets/avtaledokumenter/avtaler-legemidler/ms/anbefaling-multippel-sklerose.pdf | Anbefaling multippel sklerose.pdf
+  https://www.sykehusinnkjop.no/4a2436/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-bcg-vaksine.pdf | Anbefaling BCG vaksine.pdf
+  https://www.sykehusinnkjop.no/49c007/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-mmr-vaksine.pdf | Anbefaling MMR vaksine.pdf
+  https://www.sykehusinnkjop.no/4a828d/siteassets/avtaledokumenter/avtaler-legemidler/onkologi/anbefaling-onkologiske-og-kolonistimulerende-legemidler.pdf | Anbefaling onkologiske og kolonistimulerende legemidler.pdf
+  https://www.sykehusinnkjop.no/nasjonale-avtaler/peritonealdialyse-utstyr-og-vesker/ | Peritonealdialyse - utstyr og væsker 2025
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-kirurgiske-produkter/ | Kategoriplan for kirurgiske produkter
+  https://www.sykehusinnkjop.no/4ad9d3/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-helse-vest-og-helse-midt.pdf | Anbefaling plasma Helse Vest og Helse Midt.pdf
+  https://www.sykehusinnkjop.no/4ad9d8/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-for-helse-nord-og-helse-sor-ost.pdf | Anbefaling plasma for Helse Nord og Helse Sør Øst.pdf
+  https://www.sykehusinnkjop.no/4a7d1b/siteassets/dokumenter/legemidler/radgivere-pa-helseforetak/radgivere-legemiddelinnkjop-per-25.09.2026.xlsx | Rådgivere legemiddelinnkjop per 25.09.2026.xlsx
+  https://www.sykehusinnkjop.no/4a7ec4/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-rotavirusvaksine.pdf | Anbefaling rotavirusvaksine.pdf
+  https://www.sykehusinnkjop.no/49edd9/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksine-mot-hepatitt-b.pdf | Anbefaling vaksine mot hepatitt-B.pdf
+  https://www.sykehusinnkjop.no/avtaler-for-helse-nord/bakgrunns-sikkerhetssjekk-regional/ | Bakgrunns-/sikkerhetssjekk til Helse Nord IKT og Helse Nord RHF
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2018/kan-lar-avtalen-komme-pasientene-til-gode/ | Kan LAR-avtalen komme pasientene til gode?
+  https://www.sykehusinnkjop.no/4a3946/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkonjugatvaksine.pdf | Anbefaling pneumokokkonjugatvaksine.pdf
+  https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/infusjon-og-transfusjonsprodukter-ny-avtale-fra-14-21/ | infusjon og transfusjonsprodukter
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-medisinske-forbruksvarer/ | Kategoriplan for medisinske forbruksvarer
+  https://www.sykehusinnkjop.no/4af63c/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-dtp-ipv-og-dtp-ipv-vaksiner.pdf | Anbefaling DTP-IPV og dTp-IPV vaksiner.pdf
+  https://www.sykehusinnkjop.no/nyheter/nyheter-2023/fare-for-antibiotikamangel-gjer-at-noreg-ma-ta-grep/ | Fare for antibiotikamangel gjer at Noreg må ta grep
+  https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/tuber-masker-og-oksygenbehandling/ | Tuber, masker og oksygenbehandling
+  https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-bygg-og-eiendomsdrift/ | Kategoriplan for bygg og eiendomsdrift
+  https://www.sykehusinnkjop.no/avtaler-for-helse-nord/1-mal2/ | Bedriftshelsetjenester til helseforetak i Nord
+  https://www.sykehusinnkjop.no/49e539/siteassets/avtaledokumenter/avtaler-legemidler/hjerteamyloidose/anbefaling-hjerteamyloidose.pdf | Anbefaling hjerteamyloidose.pdf
+  https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/filter-anestesi-og-intensiv/ | Filter anestesi og intensiv
+  https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/pvk-svk-vap/ | PVK, SVK, VAP
+  https://www.sykehusinnkjop.no/nasjonale-avtaler/hygieneprodukter-desinfeksjonsmidler/ | Hygieneprodukter - Desinfeksjonsmidler 2022
+  https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/saarbehandlingsprodukter/ | Sårbehandlingsprodukter
+  https://www.sykehusinnkjop.no/4ae06e/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-79-2025-status-pa-oppfolging-av-internrevisjonsrapporter.pdf | Sak 79-2025 Status på oppfølging av internrevisjonsrapporter.pdf
+  https://www.sykehusinnkjop.no/498892/siteassets/avtaledokumenter/avtaler-legemidler/fabry-sykdom/fabry.pdf | Anbefaling Fabry sykdom.pdf
+  https://www.sykehusinnkjop.no/4a29d1/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-gjeldende-fra-1.-september-2026-wilsons-sykdom.pdf | Anbefaling gjeldende fra 1. september 2026 Wilsons sykdom.pdf
+  https://www.sykehusinnkjop.no/4a298c/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-wilsons-sykdom.pdf | Anbefaling Wilsons sykdom.pdf
+  https://www.sykehusinnkjop.no/49d056/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon---treprostinil.pdf | Anbefaling pulmonal arteriell hypertensjon - treprostinil.pdf
+  https://www.sykehusinnkjop.no/49e701/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon.pdf | Anbefaling pulmonal arteriell hypertensjon.pdf
+  https://www.sykehusinnkjop.no/48e0df/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-b.pdf | Anbefaling hepatitt B.pdf
+  https://www.sykehusinnkjop.no/498f87/siteassets/avtaledokumenter/avtaler-legemidler/itp/anbefaling-immunologisk-trombocytopeni.pdf | Anbefaling immunologisk trombocytopeni.pdf
+  https://www.sykehusinnkjop.no/4a2adf/siteassets/avtaledokumenter/avtaler-legemidler/transplantasjon/anbefaling-transplantasjon.pdf | Anbefaling transplantasjon.pdf
+  https://www.sykehusinnkjop.no/495f1c/siteassets/avtaledokumenter/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/anbefaling-antineovaskulariserende-midler.pdf | Anbefaling antineovaskulariserende midler.pdf
+  https://www.sykehusinnkjop.no/4a83c8/siteassets/avtaledokumenter/avtaler-legemidler/veksthormonmangel/anbefaling-veksthormonmangel.pdf | Anbefaling veksthormonmangel.pdf
+  https://www.sykehusinnkjop.no/4a2e33/siteassets/avtaledokumenter/avtaler-legemidler/gaucher/anbefaling-gauchers-sykdom.pdf | Anbefaling Gauchers sykdom.pdf
+  https://www.sykehusinnkjop.no/4a1dae/siteassets/avtaledokumenter/avtaler-legemidler/progressiv-fibroserende-interstitiell-lungesykdom/anbefaling-progressiv-fibroserende-interstitiell-lungesykdom.pdf | Anbefaling progressiv fibroserende interstitiell lungesykdom.pdf
+  https://www.sykehusinnkjop.no/498903/siteassets/avtaledokumenter/avtaler-legemidler/hae/hae.pdf | Anbefaling Hereditært angioødem.pdf
+  https://www.sykehusinnkjop.no/499353/siteassets/avtaledokumenter/avtaler-legemidler/sjeldne-sykdommer/anbefaling-ekulizumab.pdf | Anbefaling ekulizumab.pdf
+  https://www.sykehusinnkjop.no/48e6f6/siteassets/avtaledokumenter/avtaler-legemidler/hiv/anbefaling-humant-immunsviktvirus.pdf | Anbefaling humant immunsviktvirus.pdf
+  https://www.sykehusinnkjop.no/4a4d32/siteassets/avtaledokumenter/avtaler-legemidler/alvorlig-astma/anbefaling-alvorlig-astma.pdf | Anbefaling alvorlig astma.pdf
+degludek: total=0
+
+glargin: total=1
+  https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx | Avtaleoversikt basislegemidler.xlsx
+Fiasp: total=0
+
+Lyumjev: total=1
+  https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx | Avtaleoversikt basislegemidler.xlsx
+Tresiba: total=0
+
+Toujeo: total=1
+  https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx | Avtaleoversikt basislegemidler.xlsx

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><ajax-response><component id="ergW" ><![CDATA[<div id="ergW" class="">
+         <h2>Ergebnis</h2>
+
+         <table>
+            <thead>
+               <tr>
+                  <th id="id8c" class="">Wirkstoffgruppe</th>
+                  <th id="id8d" class="">Jahr</th>
+                  <th id="id8e" class="">ATC-Code</th>
+                  <th id="id8f" class="">Verordnungen<br/>in Tsd.</th>
+                  <th id="id90" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id91" class="">Nettokosten<br/>in Tsd. Euro</th>
+                  <th id="id92" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id93" class="">Tagesdosen<br/>in Tsd. DDD</th>
+                  <th id="id94" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id95" class="hidden">Nettokosten je<br/>Verordnung</th>
+                  <th id="id96" class="hidden">Nettokosten je<br/>Tagesdosis</th>
+               </tr>
+               <tr>
+                  <td id="id97" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;"> 
+                      <img src="sort_asc.png" title="aufsteigend sortieren" id="id10"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id11"/>
+                  </div></td>
+                  <td id="id98" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;"> 
+                      <img src="sort_asc.png" title="aufsteigend sortieren" id="id12"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id13"/>
+                  </div></td>
+                  <td id="id99" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id14"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id15"/>
+                  </div></td>
+                  <td id="id9a" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id16"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id17"/>
+                  </div></td>
+                  <td id="id9b" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id18"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id19"/>
+                  </div></td>
+                  <td id="id9c" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id1a"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id1b"/>
+                  </div></td>
+                  <td id="id9d" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id1c"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id1d"/>
+                  </div></td>
+                  <td id="id9e" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id1e"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id1f"/>
+                  </div></td>
+                  <td id="id9f" class=""><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id20"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id21"/>
+                  </div></td>
+                  <td id="ida0" class="hidden"><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id22"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id23"/>
+                  </div></td>
+                  <td id="ida1" class="hidden"><div style="margin-right:auto; margin-left:auto; text-align:center;">
+                     <img src="sort_asc.png" title="aufsteigend sortieren" id="id24"/>  <img src="sort_dsc.png" title="absteigend sortieren" id="id25"/>
+                  </div></td>
+               </tr>
+            </thead>
+            <tfoot>
+               <tr>
+                  <td id="ida2" class="">Summe</td>
+                  <td class="" id="ida3"></td>
+                  <td id="ida4" class=""></td>
+                  <td class="number" id="ida5">4.036,4</td>
+                  <td class="number" id="ida6">5,4</td>
+                  <td class="number" id="ida7">503.926,8</td>
+                  <td class="number" id="ida8">6,4</td>
+                  <td class="number" id="ida9">275.306,9</td>
+                  <td class="number" id="idaa">6,8</td>
+                  <td class="hidden" id="idab">124,85</td>
+                  <td class="hidden" id="idac">1,83</td>
+               </tr>
+               <tr>
+                  <td id="idae" class="">Anteil an Gesamt in %</td>
+                  <td id="idaf" class=""></td>
+                  <td id="idb0" class=""></td>
+                  <td class="number" id="idb1">0,6</td>
+                  <td class="number" id="idb2"></td>
+                  <td class="number" id="idb3">1,2</td>
+                  <td class="number" id="idb4"></td>
+                  <td class="number" id="idb5">0,6</td>
+                  <td class="number" id="idb6"></td>
+                  <td class="hidden" id="idb7"></td>
+                  <td class="hidden" id="idb8"></td>
+               </tr>
+               <tr>
+                  <td id="idb9" class="">Gesamt GKV</td>
+                   <td id="idba" class=""></td>
+                  <td id="idbb" class=""></td>
+                  <td class="number" id="idbc">682.781,1</td>
+                  <td class="number" id="idbd"></td>
+                  <td class="number" id="idbe">41.372.848,5</td>
+                  <td class="number" id="idbf"></td>
+                  <td class="number" id="idc0">42.877.827,3</td>
+                  <td class="number" id="idc1"></td>
+                  <td class="hidden" id="idc2"></td>
+                  <td class="hidden" id="idc3"></td>
+               </tr>
+            </tfoot>
+            <tbody>
+               <tr>
+                  <th>Insulin glargin</th>
+                  <td>2018</td>
+                  <td>A10AE04</td>
+                  <td class="number">3.207,0</td>
+                  <td class="number">7,4</td>
+                  <td class="number">401.419,1</td>
+                  <td class="number">8,7</td>
+                  <td class="number">219.796,5</td>
+                  <td class="number">9,1</td>
+                  <td class="hidden number">125,17</td>
+                  <td class="hidden number">1,83</td>
+               </tr><tr>
+                  <th>Insulin detemir</th>
+                  <td>2018</td>
+                  <td>A10AE05</td>
+                  <td class="number">821,3</td>
+                  <td class="number">-2,8</td>
+                  <td class="number">101.814,9</td>
+                  <td class="number">-2,5</td>
+                  <td class="number">54.980,9</td>
+                  <td class="number">-2,5</td>
+                  <td class="hidden number">123,97</td>
+                  <td class="hidden number">1,85</td>
+               </tr><tr>
+                  <th>Insulin degludec</th>
+                  <td>2018</td>
+                  <td>A10AE06</td>
+                  <td class="number">8,1</td>
+                  <td class="number">17.014,4</td>
+                  <td class="number">692,8</td>
+                  <td class="number">9.861,5</td>
+                  <td class="number">529,4</td>
+                  <td class="number">24.937,3</td>
+                  <td class="hidden number">85,82</td>
+                  <td class="hidden number">1,31</td>
+               </tr>
+               
+            </tbody>
+         </table>
+         <form>
+            <input id="submitWirkExp" type="submit" value="Exportieren" class="floatleft" onclick="var win = this.ownerDocument.defaultView || this.ownerDocument.parentWindow; if (win == window) { window.location.href=&#039;./?0-1.ILinkListener-wirkstoff-wirkErg-btnWirkExp&#039;; } ;return false"/>
+            <br class="break" />      
+         </form>
+      </div>]]></component><component id="id8b" ><![CDATA[<div class="feedback" id="id8b">
+  
+</div>]]></component><header-contribution><![CDATA[<head xmlns:wicket="http://wicket.apache.org"><script type="text/javascript" src="./wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-1.12.3-ver-9627302BCA7713E7962ECD0CF6A0EF8A.js"></script>
+<script type="text/javascript" src="./wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-event-jquery-ver-87FD5918098397E3944A1056474D2CD1.js"></script>
+<script type="text/javascript" src="./wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-ajax-jquery-ver-CE0BDB76A6D37ECCC590F7F314E8D8F5.js"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="?0";
+/*]]]]><![CDATA[>*/
+</script>
+</head>]]></header-contribution><evaluate><![CDATA[(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo23-woa23","c":"id10","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo23-wod23","c":"id11","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo0-woa0","c":"id12","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo0-wod0","c":"id13","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo9-woa9","c":"id14","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo9-wod9","c":"id15","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo10-woa10","c":"id16","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo10-wod10","c":"id17","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo19-woa19","c":"id18","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo19-wod19","c":"id19","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo12-woa12","c":"id1a","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo12-wod12","c":"id1b","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo21-woa21","c":"id1c","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo21-wod21","c":"id1d","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo13-woa13","c":"id1e","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo13-wod13","c":"id1f","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo22-woa22","c":"id20","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo22-wod22","c":"id21","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo24-woa24","c":"id22","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo24-wod24","c":"id23","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo25-woa25","c":"id24","e":"click"});})();(function(){Wicket.Ajax.ajax({"u":"./?0-1.IBehaviorListener.0-wirkstoff-wirkErg-wo25-wod25","c":"id25","e":"click"});})();]]></evaluate></ajax-response>

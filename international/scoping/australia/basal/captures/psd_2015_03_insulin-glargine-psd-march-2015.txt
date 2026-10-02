@@ -1,0 +1,984 @@
+                                               Public Summary Document – March 2015 PBAC Meeting
+
+
+5.31 INSULIN GLARGINE
+     3 mL cartridges, 100 IU/mL;
+     Basaglar®; Eli Lilly.
+
+1                    Purpose of Application
+
+1.1                  The PBAC was requested to consider:
+                     a. The unrestricted benefit listing of insulin glargine (Basaglar®), a biosimilar of the
+                        PBS-listed insulin glargine, Lantus®.
+                     b. The marking as equivalent (i.e. “a” flagging) in the Schedule of Pharmaceutical
+                        Benefits (the Schedule) of the insulin glargine products, Basaglar and Lantus.
+
+1.2                  Note: the sponsor’s submission did not request an “a” flag. The Minister (delegate)
+                     had requested PBAC to provide advice on this matter under section 101(3) of the
+                     National Health Act 1953 (the Act). The advice is not being published at this stage.
+
+
+2                    Requested listing
+
+2.1                  The submission requested the following new listing:
+
+Name, Restriction,                          Max.                                                                                №.of                         Dispensed Price for                                           Proprietary Name and Manufacturer
+Manner of administration and form           Qty                                                                                 Rpts                         Max. Qty
+INSULIN GLARGINE                            5                                                                                   1                            $'''''''''''''''#                                             Basaglar*                                            Eli Lilly
+Insulin glargine 100 international units/mL                                                                                                                                                                                Basaglar*
+injection, 5 x 3 mL cartridges                                                                                                                                                                                             KwikPen
+ *Trade name was previously Abasria
+                                                                                   ®
+
+     '''''' ''''''''' ''''''''''''''''' ''''' '''''' ''''' ''''''' ''''''''''''''''' ''''''''''''''''' ''''''''''''''' '''''''''''''''''''''''''''''' '''''''''''''''' ''''' '''''''''''''''''' '''' '''''''''''''''''''''' ''''''''''''''''' '''''' '''''''''''''''''' '''''''''' ''''''''''' '''' '''''''
+ '''
+
+ '''''''''''''''''' '''''''''''''''''''''' '''''''''''''''' ''''''' ''''''''' '''''''''''''''''''''''''''''''' ''''''''' ''''''''''''''''''''' '''''''' '''''''''''''' '''' '''''''''''' '''''''''''''''''''''' '''''''''''' '''''''''''''''''''' ''''''' ''''''''''''''' '''''''''''''''''''''
+ ''''''''''''''''''''''' ''''''''' '''''''''' '''''''''''''''''' ''''''''''' '''''''''''''''''''' ''''''''''''''''' ''''' '''''''' ''''''''''''''''' ''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''''''''''''''''' ''''''''''' '''''''''''''''''''' '''''''' '''' '''' '''''''''''''''''''' '''''''''
+ '''''''''''''''''' '''''' ''''''''' ''''''''''''''''' '''' '''''''''''''''' '''''''''''''''''''''''' ''''''''''''''''''' ''''''''' '''''''''''''''''''''''''' ''''' '''''''' '''''''''''' '''''''''''''''''''''''
+ Category /                                                     GENERAL – General Schedule (Code GE)
+ Program
+ Prescriber type:                                                      Medical Practitioners                                           Nurse practitioners
+
+
+3                    Background
+
+3.1                  The following information is outlined below:
+                     •       TGA consideration of Basaglar
+                     •       PBS history of insulin glargine and other insulins
+                     •       The TGA/PBD 2010 discussion paper on Similar Biological Medicinal
+                             Products
+                     •       Previous PBAC consideration of biosimilars
+                     •       The PBS and substitution at the pharmacist level (“a” flagging)
+                     •       Substitution of biosimilars in overseas jurisdictions.
+
+
+
+
+                                                                                                                                                     1
+              Public Summary Document – March 2015 PBAC Meeting
+
+
+TGA consideration of Basaglar
+
+3.2   Basaglar (the trade name was previously Abasria®) was registered by the TGA on
+      21 November 2014 as:
+            “an insulin analogue indicated for once daily subcutaneous administration in
+            the treatment of type 1 diabetes mellitus in adults and children and type 2
+            diabetes mellitus in adults who require insulin for the control of
+            hyperglycaemia.”
+
+3.3   Basaglar was submitted to the TGA as an abridged biosimilar submission.
+
+3.4   The European Medicines Agency (EMA) has issued the following regulatory
+      guidance for biosimilars in general, and for biosimilar insulin products:
+          • The Committee for Medicinal Products for Human Use (CHMP) of the EMA
+             produced the first overarching biosimilar guideline, “Guideline on similar
+             biological medicinal products." CHMP/437/04”, in 2005;
+          • CHMP         released      an      insulin-specific      guideline  in  2006
+             (EMEA/CHMP/BMWP/32775/2005); and
+          • The Biosimilar Medicinal Products Working Group (BMWG) produced a
+             concept paper for revision of the guideline in 2011; and a revised guideline
+             has been produced (EMEA/CHMP/BMWP/32775/2005_Rev.2).
+
+3.5   In summary, the EMA regulatory guidelines for insulin biosimilars are more stringent
+      than for new brands of non-biological medicines. The EMA guidelines for insulin
+      biosimilars require the applicant to conduct a mix of pharmacodynamic,
+      pharmacokinetic and clinical studies. In contrast a new brand of a small chemical
+      molecule drug used in the treatment of diabetes, for example pioglitazone, would
+      only be required to demonstrate bioequivalence.
+
+3.6   The TGA Delegate’s Overview noted that, for Basaglar “The sponsor’s clinical
+      development program was conducted according to EMA guidelines and after
+      discussion with EMA” (page 1 of Delegate’s Overview).
+
+3.7   The Delegate’s Overview goes on to say:
+          “the draft CHMP guidance states that PK/PD insulin clamp studies represent the
+          mainstay of the proof of similar efficacy of the biosimilar insulin and the reference
+          product. The guidance further states that Phase-3 efficacy studies cannot be
+          used to establish efficacy because the endpoints HbA1c are not sufficiently
+          sensitive for the purposes of showing biosimilarity. In other words, Phase-3
+          studies (endpoint: HbA1c) only provide supportive evidence of efficacy; the
+          pivotal evidence for claims of equivalent efficacy must come from the PK/PD
+          studies. (The main role of the Phase-3 studies is to establish safety [and exclude
+          any reduction in efficacy]; by measuring immunogenicity endpoints.)” (page 5-6
+          of Delegate’s Overview)
+
+3.8   The Advisory Committee on Prescription Medicines (ACPM) resolution stated that the
+      ACPM:
+          “considered that the data demonstrated that Abasria (Basaglar) and Lantus EU
+          are equivalent in terms of pharmacokinetics and that Lantus USA and Lantus EU
+          are also equivalent to each other in terms of pharmacokinetics.” And that the
+          “pharmacodynamics results are not statistically different for Lantus EU compared
+          to Abasria (Basaglar)”. (pg 3 of the ACPM Resolution).
+
+
+                                             2
+                                  Public Summary Document – March 2015 PBAC Meeting
+
+
+
+'''''''''''' '''''''''' ''''''''''''''' '''''''''''''''''''''''''''''''''''' ''''' ''''''''''''''''' '''' '''''''''''''''''''''''''''''''''''' ''''' ''''''''''''''''''' ''''''''' ''''''''''''''
+
+'''''''''''''''''' '''''''''' '''''''''''''''''''' ''''''''''''''''''''' '''''' '''''''''''''''''''' ''''''''' ''''''' ''''''''''''''''''' '''''''' '''''''''''''' ''''' '''''''''''''''''''''''''''''''''
+                 '''' ''''''''' '''''''''''''''''''''''' '''''''''''' '''''' ''''''' '''''''''''''' ''''' '''''''''' ''''''''''''''''''''''' '''' '''''''' ''''''''''''''''''' '''''''''''''''''''''''''
+                 '''''''''''''''' ''' ''''''''''''''''''''''' ''''''''' '''''''''''' '''''''''''''''''''''' ''''''''''''''' ''''''''''''''''''''''''' '''''
+                 '''''''''''''''''''''''''''' '''''''''''''' '''''''''' ''''''''''''' '''''' ''''''
+                 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+                 ''''' ''''''''''''''''''''''''''''''''''' '''''''' '''''''''''''''''''' ''''' '''''''''''''''''''''' ''''''''''''''''' ''''' ''''''' '''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''
+                 '''' '''''''' '''''''''''''''''' ''''''''''''''''''''''''''
+
+''''''''''''''''''' '''''' ''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''' ''''' '''''''' '''''''''' ''''''''''''''''''' ''''''''' '''''''''''''''''''''''' '''''''''' '''''''' ''''''''''''
+                 '''''''''''''''''''''' '''''' '''' '''''''''''''''''''''' ''''''''''''''''''
+
+PBS History of insulin glargine and other insulins
+
+3.9             Insulin glargine (Lantus) was first recommended by the PBAC at its March 2006
+                extraordinary meeting on a cost effectiveness basis. The PBAC recommended the
+                listing of insulin glargine on the basis that the clinical benefit over NPH insulin
+                (improvement in hypoglycaemic event rates) in some patients was similar to the
+                clinical benefit shown for insulin lispro over neutral insulin. In March 2006, the PBAC
+                concluded that insulin glargine offers a small hypoglycaemia benefit over NPH, in
+                some, but not all patients.
+
+3.10            Basaglar was the first insulin glargine biosimilar registered in Australia and has not
+                been previously considered by PBAC. No other insulin biosimilar had previously
+                been registered by TGA or considered for PBS subsidy by PBAC.
+
+2010 TGA/PBD Discussion Paper on Similar Biological Medicinal Products
+
+3.11            In July 2010, the TGA and the Pharmaceutical Benefits Division (PBD) issued a joint
+                discussion paper on Similar Biological Medicinal Products (SBMPs, also known as
+                biosimilars). This paper captured policy that was current at the time the first
+                biosimilars were considered by PBAC.
+
+3.12            In the five years since this discussion paper was released, biosimilars policy has
+                evolved such that the discussion paper is no longer current and has been removed
+                from the PBS website.
+
+Previous PBAC consideration of biosimilars
+
+3.13            The PBAC has previously recommended the subsidy for biosimilars of epoetin alfa
+                and filgrastim.
+
+3.14            The epoetin alfa biosimilar is registered in Australia under the Australian Biological
+                Name (ABN), epoetin lambda, trade name Novicrit (Sandoz). Filgrastim has three
+                registered biosimilars, all with the same ABN as filgrastim. These products are
+                marketed as Nivestim (Hospira), Zarzio (Sandoz) and TevaGrastim (Aspen).
+
+3.15            The Novicrit epoetin lambda was recommended for subsidy by the PBAC in July
+                2010. At the time PBAC made this recommendation, there were already two epoetins
+                on the PBS – epoetin alfa and epoetin beta. These had been declared to be different
+                PBS drugs under section 85(2) of the Act. Epoetin lambda was subsequently also
+
+
+
+                                                                                                       3
+                 Public Summary Document – March 2015 PBAC Meeting
+
+
+        declared a different drug, and all three epoetin drugs remain on the PBS F1
+        formulary.
+
+3.16    The PBAC recommended the listing of filgrastim products as biosimilars of
+        Neupogen®: Nivestim® (November 2010 meeting); TevaGrastim® (November 2011)
+        and Zarzio® (March 2013). The PBAC recommended listing of the two latest
+        products under the same listing conditions and price as Nivestim.
+
+The PBS and substitution at the pharmacist level (“a” flagging)
+
+3.17    The Act makes it an offence for a pharmacist to supply a pharmaceutical benefit
+        other than the benefit directed to be supplied in a prescription except when, amongst
+        other criteria, the Schedule of Pharmaceutical Benefits issued by the Department of
+        Health states that the specified benefit and the substitute benefit are equivalent. The
+        relevant section of the Act is reproduced below.
+
+Extract from National Health Act 1953
+s103 Offences
+…
+      (2) Except as prescribed, a pharmacist to whom a prescription is presented shall not:
+      (a) supply, in purported pursuance of this Part, anything other than the pharmaceutical
+            benefit that is directed to be supplied in the prescription; or
+      (b) in exchange for the prescription make a payment in money or give any other
+            consideration to the person presenting the prescription.
+
+Penalty:     $2,000 or imprisonment for 12 months, or both.
+
+       (2A) Paragraph (2)(a) does not prohibit a pharmacist from supplying, instead of the
+            pharmaceutical benefit that is directed to be supplied in a prescription (the specified
+            benefit), another pharmaceutical benefit (the substitute benefit) if:
+       (a) the person who prescribed the specified benefit did not indicate on the prescription that
+            only that benefit was to be supplied; and
+       (b) the Schedule of Pharmaceutical Benefits issued by the Department states that the
+            specified benefit and the substitute benefit are equivalent; and
+       (c) the substitute benefit is a listed brand of a pharmaceutical item; and
+       (d) the supply of the substitute benefit is not prohibited by a law of the State or Territory in
+            which the substitute benefit is supplied.
+
+3.18    The Schedule of Pharmaceutical Benefits (Schedule) uses “a” flags to indicate that
+        different pharmaceutical benefits are equivalent for the purposes of substitution by
+        the pharmacist at the time of dispensing. An “a” flag can apply to different brands of
+        the same pharmaceutical item or to different forms of different pharmaceutical items.
+        Where substitution between different forms of pharmaceutical items is permitted, a
+        note stating the specified forms are equivalent for the purposes of substitution is
+        included.
+
+
+
+
+                                                    4
+                 Public Summary Document – March 2015 PBAC Meeting
+
+
+3.19    The explanatory notes to the Schedule provide the following definition of brand
+        equivalence:
+
+Extract from the Explanatory Notes to the PBS Schedule
+BRAND EQUIVALENCE
+
+'a' located immediately before brand names of a particular strength of an item indicates that the
+sponsors of these brands have submitted evidence that they have been demonstrated to be
+bioequivalent or therapeutically equivalent, or that justification for not needing bioequivalence or
+therapeutic equivalence data has been provided to and accepted by the Therapeutic Goods
+Administration. It would thus be expected that these brands may be interchanged without differences
+in clinical effect.
+
+For other brands of an item, i.e., those not indicated as above, it is unknown whether or not they are
+equivalent. There may be several reasons for this, such as bioequivalence data not being considered
+necessary when the products were approved for marketing, or that advice or data have not been
+forthcoming from sponsors. This does not necessarily suggest a lack of safety or efficacy, but in these
+circumstances caution should be taken if brands are interchanged.
+
+'b' attached to brand names indicates that these brands are also equivalent, but that it is not known if
+there is equivalence between brands marked 'a' and brands marked 'b'.
+
+
+Substitution of biosimilars in overseas jurisdictions
+
+3.20    The approach taken by various overseas jurisdictions to the substitution of biosimilar
+        brands of the same drug at the pharmacist level was examined by Tóthfalusi [2014].
+        In summary, Tóthfalusi found:
+    •   In the EU, the procedures of approving a biosimilar and making a statement about its
+        interchangeability are clearly separated. The first is a centralized procedure, i.e. the
+        decision is made at the Community level. In contrast, the issue of substitutability is
+        delegated to the national level. In the 28 member states, different usage patterns
+        have emerged such as substitution in special cases, switching, or restricting the use
+        of biosimilars only to previously untreated patients. The scientific background behind
+        these policies is unclear but setting clear criteria for interchangeability and
+        prescribability are not planned in any of the member states or at the EU level.
+    •   The position of Health Canada on the substitution of biological products (biosimilars
+        are called “subsequent-entry” products in Canada) is: “Health Canada does not
+        support the automatic substitution of a subsequent-entry biologic for its reference
+        biologic drug. Health Canada therefore recommends that physicians make only well-
+        informed decisions regarding therapeutic interchange”. Funds for the reimbursement
+        of pharmaceutical expenses are dispensed by the provinces.
+
+3.21    More recent information provided to the Department indicated that some Canadian
+        provinces are allowing substitution of biosimilars for treatment - naïve patients only.
+
+
+
+
+                                                    5
+                           Public Summary Document – March 2015 PBAC Meeting
+
+
+3.22      Barlas 2014 1 reported that, in the US, the BCPI Act of 2009 ‘allows the FDA to
+          declare a biosimilar interchangeable – and thereby substitutable without a physician’s
+          consent - if two conditions are met. The biosimilar must be expected to produce the
+          same clinical result in any given patient, and the risk in terms of safety or diminished
+          efficacy cannot be greater for a switch from a patented to a biosimilar product than
+          continued use of the innovator drug, when the drug is used more than once by the
+          same patient.’ Barlas also outlines that it is up to individual states, under pharmacy
+          practice statutes, whether pharmacists have to notify physicians when pharmacists
+          substitute an interchangeable biosimilar for the innovator biologic.
+
+3.23      ''''' ''''''''''''''''''''' '''' '''' '''''''''''''''''' ''''' '''''''''''''''' ''''''''''''''''''''''''''''' '''''' ''''''' '''''''''''''''''''''''''''''''''' ''''''''''' '''''''''
+          '''''''''''''' ''''' ''''''''''''''''''''' '''''''''' ''''''''''''''' '''''''''''''''''''''''''''''''''''' ''''''' ''''''''''''''''''''' ''''''''''''''''''''''' '''''''''''
+          '''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''''''''''' '''''''''''' '''''''' '''''''''''
+          ''''''''''''''''' '''''''''''''''' ''''''''' '''''''''''''''''''''''''                 ''''''''''''''''''''''' ''' '''' '''''''''''''''''''''''' '''''''''' ''''''''''''''''''''''
+          ''''''''''''''''''''''''''''' ''''''' ''''''' '''''' ''''''''''''''''''' ''''' ''''''''''''' '''''''''''''''''''''''''''' ''''''''''''''''''''
+
+4         Clinical place for the proposed therapy
+
+4.1       The submission requested an identical place in the clinical management of type 1
+          and type 2 diabetes to Lantus. The submission claimed that no other changes in the
+          clinical management of type 2 diabetes are expected as a result of using Basaglar in
+          place of Lantus.
+
+5         Comparator
+
+5.1       The minor submission appropriately nominated Lantus as the comparator.
+
+6         Clinical Trials
+
+6.1       The clinical evidence presented in the submission was based on two phase 3 trials,
+          which are outlined in the table below. The primary objective of both trials was to test
+          the non-inferiority of Basaglar to Lantus as measured by change in HbA1c from
+          baseline to 24 weeks.
+
+          Trials and associated reports in the submission
+           Trial ID            Brief Description and list of associated reports
+           ABEB                Description: Phase 3, randomized, multicenter, 2-arm, active-controlled, open-label,
+           (ELEMENT 1)         parallel, 24-week treatment study to compare LY2963016 [BASAGLAR] and LANTUS®
+                               with mealtime insulin lispro in adult patients with type 1 diabetes mellitus with a 28-
+           NCT: 01421147       week extension and a 4-week post-treatment follow-up.
+                               Main report: I4L-MC-ABEB Final Clinical Study Report (10th September 2013)
+                               Additional citations: None
+           ABEC                Description: Phase 3, randomized, multicenter, 2-arm, active-controlled, double-blind,
+           (ELEMENT 2)         parallel, 24-week treatment study (with a 4-week post-treatment follow-up) to compare
+                               LY2963016 [BASAGLAR] and LANTUS® in adult patients with type 2 diabetes mellitus.
+           NCT: 01421459       Main report: I4L-MC-ABEC Clinical Study Report (12th March 2013)
+                               Additional citations: None
+          Source: Section B, p22 of the submission
+
+6.2       The TGA considered that these two Phase 3 studies (ABEB, ABEC) provided
+          supportive evidence for efficacy and that the primary focus of the two studies ‘was
+
+ Barlas, S. "The Pharmaceutical Industry Tussles Over Biosimilars: Federal and State Decisions Will Have a Big Impact on Pharmacists."
+1
+
+Pharmacy and Therapeutics 39.4 (2014): 278-80.
+
+
+
+                                                                                                6
+              Public Summary Document – March 2015 PBAC Meeting
+
+
+      the evaluation of immunogenicity and implications this might have for safety (or any
+      reduction in efficacy).’ The pharmacokinetic and pharmacodynamic studies that the
+      TGA relied on as pivotal evidence to demonstrate equivalent efficacy are discussed
+      in paragraphs 6.9 to 6.12.
+
+6.3   The key features of the ABEB study (also referred to as ELEMENT 1) and ABEC
+      study (also referred to as ELEMENT 2) are presented in in the table below. Of
+      particular note:
+      - ABEB was conducted in patients with type 1 diabetes, while ABEC was
+         conducted in patients with type 2 diabetes.
+      - Patients in ABEB were on basal-bolus insulin for at least one year prior to
+         enrolment, and patients in ABEC were on at least two oral anti-hyperglycaemic
+         medicines with or without Lantus.
+
+          Prior insulin exposure
+      -   With regard to prior exposure to insulin glargine, all patients in ABEB were on
+          basal-bolus insulin for at least one year prior to enrolment, and 84.5% were on
+          Lantus as their basal insulin. ABEC enrolled a mixture of patients who were
+          insulin-naïve and patients who were on Lantus; In ABEC 39.6% of patients were
+          on Lantus at enrolment.
+          The table below outlines the trial protocols for switching from Lantus to the study
+          drug. Patients who were on Lantus and switched to Basaglar seem to have
+          directly switched at a dose equivalent to the dose of Lantus that was ceased,
+          followed by titration.
+      -   The pre-PBAC response outlined that, “in the ABEB (ELEMENT-1) and ABEC
+          (ELEMENT-2) trials, the medical supervision for patients switching from Lantus to
+          Basaglar was not different from the supervision in patients who stayed on Lantus.
+          Both patient groups followed the same visits schedule to assess patients’
+          response to study drug which included in-office visits and telephone visits. In both
+          trials, patients who switched from Lantus to Basaglar demonstrated similar
+          glycaemic control and safety profile (hypoglycaemia rate, AEs, immunogenicity)
+          to patients who remained on Lantus.”
+
+          Concomitant anti-hyperglycaemic therapy
+      -   Patients in ABEB received pre-meal short acting insulin (insulin lispro) three times
+          daily and Basalgar or Lantus once daily.
+      -   Patients in ABEC continued their pre-study oral anti-hyperglycaemic medicines
+          and received Basalgar or Lantus once daily.
+
+
+
+
+                                             7
+                 Public Summary Document – March 2015 PBAC Meeting
+
+
+       Key features of the two phase 3 trials presents (ABEB and ABEC)
+                          ABEB (ELEMENT 1)                                   ABEC (ELEMENT 2)
+       Patient            Type 1 diabetes                                    Type 2 diabetes
+       population         On basal-bolus insulin for at least one year.      on at least two oral anti-hyperglycaemic
+                                                                             medicines (+/- Lantus).
+       Number of          534                                                756
+       participants
+       Study design       Non-inferiority (pre-defined margin of 0.4% Non-inferiority (pre-defined margin of 0.4%
+                          and 0.3% change in HbA1c)                          and 0.3% change in HbA1c)
+       Primary            change in HbA1c from baseline to 24 weeks          change in HbA1c from baseline to 24 weeks
+       outcome
+       Concomitant        In combination with pre-meal insulin lispro in combination with other oral anti-diabetes
+       medicines          (short acting insulin, three times a day)          medicines
+       Previous           Had to be on basal-bolus insulin for at least 1 Patients were either:
+       insulin therapy year (page 56 of CSR)                                 - insulin naïve with inadequate glycaemic
+                                                                                 control, or
+                                                                             - on LANTUS with adequate or inadequate
+                                                                                 glycaemic control
+       Percent of         100%                                               39.6% on Lantus
+       patients on        - 84.5% on Lantus                                  60.4% on none (per page 86 of CSR)
+       basal insulin at - 15.5% on ‘other’
+       study
+       commencement
+       Study blinding     Open label for subjects and investigators (but Double-blinded
+                          assessors were blinded)
+       Duration of        24 weeks                                           24 weeks
+       treatment
+       Duration of        32 weeks (56 weeks from commencement)              4 weeks (28 weeks from commencement)
+       follow-up
+       Dosage             Basaglar: The dose of Basaglar was Basaglar: Insulin naive: Starting dose 10 IU
+       regimen during equivalent to the dose of the individual QD, followed by patient-driven titration of 1
+       the trial          patient’s pre-study QD basal insulin that was IU/day until FBG ≤100 mg/dL (5.6 mmol/L).
+       (Study protocol discontinued.
+       for switching Basaglar was administered subcutaneously Patients entering from Lantus: Starting
+       from      Lantus QD.                                                  dose equivalent to Lantus, followed by
+       onto       study                                                      patient-driven titration of 1 IU/day until FBG
+       drug)              Lantus The dose of Lantus was equivalent ≤100 mg/dL (5.6 mmol/L).
+                          to the dose of the individual patient’s pre- Basaglar was administered subcutaneously
+                          study QD basal insulin that was discontinued. QD.
+                          Lantus was administered subcutaneously Lantus Insulin naïve with inadequate
+                          QD.                                                glycaemic control: Starting dose 10 IU QD,
+                                                                             followed by patient-driven titration of 1 IU/day
+                                                                             until FBG ≤100 mg/dL (5.6 mmol/L).
+                                                                             Patients entering on Lantus (with
+                                                                             adequate or inadequate glycaemic
+                                                                             control) started on an equivalent dose.
+                                                                             Lantus was administered subcutaneously
+                                                                             QD.
+       Source: Complied during evaluation.
+       Abbreviations: QD = once daily: IU = international unit; FBG = fasting blood glucose; QD = once daily
+
+Patient population enrolled in the phase 3 trials
+
+6.4    The table below summarises the baseline characteristics of patients recruited in the
+       phase 3 trials.
+
+
+
+
+                                                            8
+                  Public Summary Document – March 2015 PBAC Meeting
+
+
+       Baseline disease characteristics in ABEB and ABEC
+                       ABEB/ELEMENT 1 (T1DM)                                      ABEC/ELEMENT 2 (T2DM)
+                          Basaglar          Lantus        Overall                   Basaglar       Lantus                   Overall
+                          (N= 268)         (N=267)       (N=535)                    (N= 376)      (N=380)                   (N=756)
+        Duration of diabetes (years)
+        Mean (SD)       16.23 (11.0)     16.56 (10.83) 16.39 (10.91)                11.66 (6.79)       11.24 (6.82)      11.45 (6.80)
+        Range           1.00, 54.31       1.13, 55.20   1.00, 55.20                 0.52, 40.44        0.44, 33.45       0.44, 40.44
+        Baseline HbA1c (%)
+        Mean (SD)        7.75 (1.13)      7.79 (1.03)   7.77 (1.08)                  8.34 (1.09)        8.31 (1.06)      8.33 (1.08)
+        Range           4.80, 11.50       5.20, 10.30   4.80, 11.50                  4.90, 11.30        5.90, 11.20      4.90, 11.30
+        Entry basal insulin, n (%)
+        Lantus           218 (81.3)       234 (87.6)    452 (84.5)                  155 (41.2)       144 (37.9)           299 (39.6)
+        Other             50 (18.7)        33 (12.4)     83 (15.5)                  221 (58.8)       236 (62.1)           457 (60.4)
+        Entry short-acting insulin, n (%)                                         Sulfonylurea use, n (%)
+        Insulin                                                                   Yes      315       315 (82.9)           630 (83.3)
+                         124 (46.4)       121 (45.3)    245 (45.9)
+        lispro                                                                            (83.8)
+                                                                                   No       61        65 (17.1)           126 (16.7)
+        Other              143 (53.6)         146 (54.7)          289 (54.1)
+                                                                                          (16.2)
+        Body weight (kg)
+                                                                                                           89.83             90.09
+        Mean (SD)         75.80 (16.76)      74.77 (15.36)      75.29 (16.07)       90.35 (20.02)
+                                                                                                          (19.25)           (19.62)
+                                                                                                           44.20,            44.20,
+        Range            42.40, 117.70       43.40, 120.00      42.40, 120.00       49.50, 165.40
+                                                                                                          176.00            176.00
+       Source: Section B of the submission ( p27) aPage 86 of CSR clarifies that this row is ‘None’, not ‘Other’ as reported in the
+       submission.
+
+Comparative effectiveness
+
+Non-inferiority to Lantus®
+
+6.5    Both studies nominated a pre-specified non-inferiority margin of 0.4% change in
+       HbA1c. If the 0.4% non-inferiority margin was met, the upper limit of the 95% CI was
+       compared with the 0.3% non-inferiority margin. This is reasonable and in line with
+       PBAC’s previous acceptance of a minimum clinical important difference (MCID) of
+       0.3% - 0.4% for anti-hyperglycaemic agents.
+
+6.6    The trial results for the primary outcome from the Phase 3 studies are summarised in
+       the table below.
+
+       Change in HbA1c (%) from ABEB and ABEC (24 weeks)
+                                       ABEB (T1DM) n=535                                   ABEC (T2DM) n=756
+        Full analysis set
+        HbA1c (%)                       Basalgar n=267      Lantus n=267                    Basalgar n=369          Lantus n=375
+        Least squares mean change from   -0.352 (0.053)     -0.460 (0.054)                   -1.286 (0.06)          -1.338 (0.06)
+        baseline (LOCF)
+        LS mean difference (95% CI)            0.108 (-0.002, 0.219)                                0.052 (-0.070, 0.175)
+
+        Per protocol analysis set
+        HbA1c (%)                                Basaglar n=251          Lantus n=256       Basalgar n=314          Lantus n=308
+        Least squares mean change from               -0.370                 -0.468              -1.286                 -1.338
+        baseline (LOCF)
+        LS Mean difference                               0.098 (-0.014, 0.209)                      0.116 (-0.010, 0.242)
+       Source: Tables B7 and B9 of the submission, Delegate’s Overview
+       Abbreviation: LOCF- last observation carried forward
+
+
+
+
+                                                              9
+                   Public Summary Document – March 2015 PBAC Meeting
+
+
+6.7     The LS mean difference between treatments (Basaglar – Lantus) in change from
+        baseline to the 24-week endpoint (LOCF) was 0.108% (95% CI: -0.002%, 0.219%)
+        for the ABEB study and 0.052% (95% CI: -0.070%, 0.175%) for the ABEC study. As
+        the upper limit of the 95% CI for the LS mean difference is <0.3%, non-inferiority of
+        Basaglar to Lantus was demonstrated at both the 0.4% and 0.3% non-inferiority
+        margins, in both studies.
+
+6.8     The TGA Delegate’s Overview (pg10) stated that the results from ABEB and ABEC
+        ‘meet the non-inferiority margin 0.3% at 24 weeks for the endpoint of “change in
+        HbA1c”, although the point estimates show that Basaglar was slightly worse than
+        Lantus, in terms of HbA1c.’
+
+Pharmacokinetic/Pharmacodynamic studies
+
+6.9     Six pharmacokinetic/pharmacodynamic studies were presented to the TGA in
+        support of the claim of biosimilarity. The ABEA insulin clamp study in healthy
+        volunteers was the pivotal study that the TGA used to establish biosimilarity, and the
+        details of this study are summarised in the table below.
+
+        Pivotal study details used to determine efficacy by the TGA
+         Study Objective             Design                                    Treatments             Healthy Subjects N
+         ABEA Comparison of          Phase 1, single-center,                   Single 0.5-U/kg        N=80 (56 males/ 24
+                   the PK and PD     randomized, subject and                   doses of Basaglar      females)
+                   of Basaglar and investigator blind, 4 period                and Lantus
+                   EU Lantus         replicate crossover, 24 hour              administered by SC     Mean age – 32 years
+                                     euglycaemic glucose clamp                 injection              (18-60)
+                                     study
+                                                                                                      Mean BMI = 24.9 (19.4-
+                                                                                                      32.0)
+        Source: Clinical Evaluation Report (p83)
+        Abbreviations: PK- pharmacokinetics, PD- pharmacodynamics, EU-European Union, SC- subcutaneous, N- number of subjects
+        enrolled, BMI- body mass index
+
+6.10    The results of ABEA are summarised in the table below.
+
+        Results for pivotal ABEA study in healthy volunteers, with insulin dose of = 0.5 U/kg
+                 Pharmacokinetic (PK) parameters             Pharamcodynamic (PD) parameters
+               AUC[0‐24]                  Cmax                    Gtot                   Rmax
+               pmol.hr/L                  pmol/L                 mg/Kg                  mg/Kg
+                    n                        n                      n                      n
+                  Point                    Point                  Point                  Point
+                estimate                 estimate               estimate               estimate
+                (90% CI)                (90% CI)                [95% CI]               [95% CI]
+                 N = 76                    n=78                   n=78                   n=78
+                  0.91                     0.95                   0.95                   0.99
+              (0.87, 0.96)             (0.91, 1.00)           [0.90, 1.01]           [0.93, 1.05]
+       Source: TGA Delegate’s Overview (p6)
+       Abbreviations: Gtot (total amount of glucose infused during the euglycaemic clamp procedure)
+       Rmax (maximum glucose infusion rate)
+
+6.11    The Clinical Evaluation Report stated that “The AUC and Cmax were indicative of
+        biosimilarity using the 90% confidence intervals of 80%-125% acceptance limits. The
+        comparative PK and PD studies demonstrated highly similar PK and PD of Basaglar
+        to Lantus (ABEA) within predefined bioequivalence acceptance limits” (p 14).
+
+
+
+
+                                                               10
+                Public Summary Document – March 2015 PBAC Meeting
+
+
+6.12   The ACPM ‘advised that acceptable similarity between Abasria (Basaglar) and
+       Lantus had been demonstrated by the PK and PD studies’ (page 2 of ACPM Ratified
+       minutes).
+
+       For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Comparative harms
+
+6.13   The table below summarises the adverse events reported in the ABEB and ABEC
+       trials.
+
+       Summary of adverse events reported in ABEB and ABEC trials
+                                                               ABEB                             ABEC
+                                                              52 weeks                         24 weeks
+                                                    Basaglar     Lantus        p-    Basaglar Lantus          p-
+                                                      n (%)       n (%)     value      n (%)      n (%)     value
+        Deaths                                       1 (0.3)     1 (0.3)    >0.999    0 (0.0)     1 (0.4)
+        Serious Adverse Events                       15 (4.0)    18 (4.7)    0.723    20 (7.5)   24 (9.0)   0.534
+        Discontinuations due to Adverse Events       6 (1.6)     11 (2.9)    0.327    2 (0.7)     6 (2.2)   0.176
+        Injection site Adverse Events                13 (3.5)    11 (2.9)    0.684    7 (2.6)     3 (1.1)   0.339
+        Treatment-Emergent Adverse Events          196 (52.1)      184       0.310      167        166     >0.999
+                                                                  (48.4)               (62.3)     (62.2)
+            TEAE possibly related to study drug      26 (6.9)    23 (6.1)    0.660    17 (6.3)   14 (5.2)   0.712
+            TEAE possibly related to study           6 (1.6)     8 (2.1)     0.789    2 (0.7)     2 (0.7)  >0.999
+            procedure
+            TEAE possibly related to study           19 (5.1)    18 (4.7)    0.868    21 (7.8)   16 (6.0)   0.496
+            disease state (diabetes)
+            TEAE with special topic assessment       21 (5.6)    27 (7.1)    0.456    20 (7.5)   11 (4.1)   0.138
+            of adverse (allergic) events
+       Source: Table B-11 and B-14 of the submission
+       Abbreviations: AEs = adverse events; SAEs = serious adverse events; TEAEs = treatment-emergent adverse
+       events
+
+6.14   The Delegate’s Overview (pages 9-10) stated that “there were no imbalances in
+       serious adverse events or deaths”, and ‘’there were no clinically meaningful
+       differences in total, severe or nocturnal hypoglycaemia for Basaglar versus Lantus”,
+       and “there were no differences in treatment-emergent allergic events (e.g arthralgia,
+       pruritus, rash, asthma, injection-site reactions). The majority of these events were
+       mild and none led to discontinuation.”
+
+Immunogenicity/Proportion of patients with detectable insulin antibodies
+
+6.15   The Delegate’s Overview outlined the history of, and rationale for, immunogenicity
+       concerns with biosimilars (pages 2-3).
+
+6.16   The Delegate’s Overview stated:
+           “The general corresponding concern for biosimilars is that even small and
+           innocuous differences in manufacture, formulation, or presentation could lead to
+           unforseen clinical consequences associated with immunogenicity, which could
+           lead to reduced efficacy or new safety problems.” (pg 3)
+
+6.17   The Delegate’s Overview (pg 3) stated that ‘formation of antibodies to insulin occurs
+       frequently, without major consequences for efficacy and safety’. The Overview further
+       stated ‘Antibodies could have an effect on efficacy, with larger doses of insulin
+
+
+                                                      11
+                   Public Summary Document – March 2015 PBAC Meeting
+
+
+        required (neutralising antibodies) or safety, with injection site reactions or very rarely
+        IgE mediated anaphylaxis (non-neutralising antibodies).’
+
+ 6.18   The TGA evaluated the proportions of patients with detectable antibodies and
+        treatment-emergent antibody response in the two phase 3 studies. “The ACPM
+        advised that the results from the two phase III clinical trials (ABEC and ABEB)
+        demonstrated similarity of the two products, including for immunogenicity.” (page 2 of
+        the ACPM Resolution). The results are outlined in in the table below.
+
+        Proportion of patients with detectable insulin antibodies at baseline, endpoint, and overall (anytime),
+        ABEB, ABEC, to 24 weeks
+                               ABEB (T1DM) N=535               ABEC (T2DM) N=756
+                               Basaglar         Lantus         Basaglar          Lantus
+                               N=265            N=267          N=365             N=365
+                               n (%)            n (%)          n (%)             n (%)
+         Baseline              45 (17)          55 (21)        20 (6)             13 (4)
+         Endpoint (LOCF)       50 (19)          51 (19)        30 (8)            22 (6)
+         Overall (anytime)     79 (30)          90 (34)        56 (15)           40 (11)
+        Source: Delegate’s Overview, page 8. a) overall (anytime) during treatment period, not including baseline
+
+ 6.19   The Clinical Study Report for ABEC (ELEMENT-2) presented a subgroup analysis for
+        the incidence of Treatment Emergent Antibody Response by entry basal insulin
+        treatment (that is, whether patients were taking Lantus® or no insulin at baseline).
+
+        The Delegate’s Overview stated:
+            “For ABEC, a difference in the proportion of patients with detectable antibodies
+            was reported for insulin-naïve patients (e.g., overall [anytime] at 24 weeks:
+            Abasria (Basaglar) 19% versus Lantus 8%). This is difficult to interpret, given the
+            multiple statistical comparisons. Also, no difference was found in study ABEB,
+            which was the study with the most sensitive population for detecting
+            immunogenicity (i.e., T1D).”
+
+        The Delegate’s Overview (pg 9) stated that “for ABEB, at 52 weeks, the proportions
+        of patients with detectable antibodies was similar.” Note that all patients in ABEB
+        were on basal insulin prior to enrolment, and 84.5% were on Lantus.
+
+Pharmacovigilance
+
+ 6.20   “The EMA guidelines suggest the implementation of a pharmacovigilance programme
+        that will rapidly detect any clinically significant immunogenicity that may emerge over
+        extended time periods” (page 4 of the Delegate’s Overview).
+
+        For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+ Clinical claim
+
+ 6.21   The submission claimed non-inferior comparative effectiveness and non-inferior
+        comparative safety of Basaglar compared to Lantus.
+
+ 6.22   The PBAC noted that the ACPM was satisfied that the submitted data (including
+        ABEB and ABEC) showed that Basaglar is similar to Lantus in terms of efficacy and
+        safety and the TGA registered Basaglar as a biosimilar medicine. Therefore, the
+        clinical claim appears to be reasonable.
+
+
+
+
+                                                                12
+                                  Public Summary Document – March 2015 PBAC Meeting
+
+
+                For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Other matters – “a” flagging
+
+6.23            As outlined in Paragraphs 1.1 and 1.2, the Minister (delegate) requested PBAC
+                provide advice, under sub-section 101(3) of the Act, on the marking of Basaglar and
+                Lantus as equivalent for the purposes of substitution by the pharmacist at the point of
+                dispensing (i.e., “a” flagged in the Schedule of Pharmaceutical Benefits).
+
+''''''''''''''''''''' ''''''''''''' ''''''''''''''''''''''' '''''''''''''' ''''''''' '''''''''''''' '''''''''''''''''''' '''''''''''''''''''' '''''''''''' ''''''''''''''' '''' '''''''''''''''''''''' '''''
+                 ''''''''' ''''''''''''''' '''' ''''''''''''''' '''''''''''''' ''' ''''''''''' ''''''''''''''' ''''''''''''' ''''''''' '''''''''''''''''''' '''' ''''''' ''''''''''''''' ''' '''''''''''''''''
+                 ''''''''''' ''''''''''' '''''''''''''''''''' '''''''''''' '''''''''''''''''' ''''' '''''''''''''''''''''' '''''''''''''' '''''''''' '''''''''''' ''''''''''''''''''' '''''''''''' '''''''''
+                 '''''''' '''''''''''''''''''' '''''''''''''''
+
+'''''''''''''''''' '''''''''''''''''' ''' ''''''' '''''''''''''''''
+
+6.24            ''''''''' ''''''''''''''''''''''''''' '''''''''''''''''''''''''' '''''''''''''''''''''' ''''''' '''''''''' '''''''''''' '''''''''' '''' '''''''''''''''''''' ''''''''''' ''''''''''' '''''''''''
+                ''''' '''''''''''''''''' '''''''''' ''''''''''''''''''''''''''' '''''''''''''''' ''''''' ''''''''''''''''''''''' ''''''' '''''''' ''''''''''''''''''' '''''' ''''''' ''''''''''''''''' '''''
+                '''' ''''''''''''''''''''''' '''''''''''' '''''''''''' '''''' '''''''''''''''''''' '''' ''''''''' ''''''''''''''''' '''''''''' ''''''''''''''''''' '''''''' ''''''' '''''''''''''''''''' ''''''
+                '''''''''''''' '''''''''''''''''''''''''''''''''' ''''''' ''' ''''''''''''''''''''''''' ''''''''''''' ''''''''''' ''' ''''''''''''''''''''' '''''''''''' ''''''''''''' ''''''
+                ''''''''''''''''''''' '''' ''''''''''''''''''''' ''''' '''''''''''' ''''' '''''''''''''''' '''''''''' '''''''''''''''''''''''' ''''''' ''''''''' ''''''''''''''''''''''''''''''''
+                ''''''''''''''''''' ''''' '''''''' ''''''''''''' '''' '''''''''''''''''''''''''''''''' '''''''''' '''''''''''''''' '''''''''''''''''''''' ''''''''' ''''''''''''''''''''''''''''''
+                ''''''''''''''''' ''''''''' '''''''''' ''''''''''''' ''''''' '''''' '''''''''''''''''''''' '''''''''' '''''''' ''''''''''''''' '''''''''''''''''''' ''''' '''''''''''''' ''''''''''''''' ''''
+                '''''''' '''''''''''''' '''''''''''''''''''''''''''''''''''''' ''''''''''' ''''''''''''''''' '''''''' ''''''''''''' '''''''''' '''''''''' '''''''''''' '''' ''''''''''''''''' '''''''''''''
+                ''''''''''''''' '''''''''''' '''''''''''' '''''''''''''' ''''''''''''''' ''''''' ''''''''' ''''''' '''''''''''''''''''''
+
+''''''''''''''''''' ''''''''''''''''''''''''''' ''''''''''''''' ''''''''' ''''''''''''''''''''''' '''''''''''''''''' ''''''' ''''''''''''''''''''''''''' '''''''''' '''''''''''''''' ''''''' '''''''''
+                 '''''''''''''''' ''''' ''''''' '''''''''''''''''''''''' '''''''''''''' ''''''' ''''''' '''''''' '''''''''''''''' '''''''''' '''''''''' ''''' ''''''''''''''''''' '''''''''' ''''''''''
+                 ''''''''''''''' ''''''''''' ''' '''''''' '''' ''''''''''''''''' '''''''' '''''' ''''''''''''' '''''''''''' '''''''''''' ''''''' ''''''''''''''''''''' ''''''''''''''''''''''''''''''
+                 '''''''''''''''''' '''' ''''''' '''''''''' '''''''
+
+''''''''''''''' '''''''''''''''' '''' '''''''' '''''''''''''''''''''' ''''' '''''''' ''''''''''''''''''''''''''' '''''''''''''''''' '''''''''''''''''''''' '''''''''''''''''''''' ''''''''' '''''''''''''''''''''
+                 '''''''' '''''''''''''''''''''''' '''''''''''''''''''''' '''''''''''''''' ''''''''''''
+                          '''''''''''' '''''''''' '''''''''''''''''''''''''''''''' '''''''''''''''''''''''' '''''' ''''''''''' ''''''''''''' ''''''''' '''' '''''''''''''''''''''' '''''''''''''''''''''''
+                          ''''''''' '''''''''''''''''''''''' ''''''''''''''''''''''' '''''''''' '''''''''''''''''''''''' '''''' '''''''''' ''''''''''' '''' '''''''''''''''''''''''''''' ''''''''''''''''''''''''
+                          ''''''''' ''''''''''''''''''''''''''' ''''''''''''''' ''''''' '''''''''' ''''''''''''''''''''''''''' ''''' ''''''' '''''''' '''''''''''''''''''''''''''''' '''' ''''''''''''''''''''''
+                          ''''''''''''' ''''''''' '''''''''''''''''''''''' '''' ''''''''' '''''''''''''' ''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' '''' ''''''''''''''' '''''''''' ''''
+                          '''''''''''''''''''''''''' ''''''''''''''''''' '''''''''''''''''''''''' ''''''''''''' '''''''''''' ''''' ''''''''''''''''''''''''' ''''''''''''''' '''''''''''''''''''' ''''' '''''''
+                          ''''''''''''''' ''''' '''''''''''''''''' '''''''''''' ''' ''''''''''''''''''''''''''' ''''''''''''''''''''''' ''''''''''' '''''''''' ''''''''''''''''''''' '''''''''''''''''''''''
+                          ''''''''''''''''''''' ''' '''''''''''''' '''''''' ''''''' '''''''''''''''''''' '''''' '''''''''''''''''''' '''''''''''''''''''' ''''''''' ''''''''''''''''''''' ''''' ''''''
+                          ''''''''''''''''''''''''''''''''' '''' ''''''''' ''''''''''''''''''''''''''' ''''''''''' ''''''''' '''''''''''''''''''' '''''' '''''''''' ''''''''''''' ''''''''''''''''''''''''
+                          '''''''''''''' '''''''''''''''' ''''''''''''''''''''''''' ''''''''''''''''' '''''''' '''''''''''''''''''' '''''''''''''''''''' '''''''''' ''''''' ''''''''''''''''' '''''''''''''''''''
+                          ''''''''''''''''''''''' ''''''''''''''''''''' ''''' ''''''''''''''''''''''' ''''''''''''''''' '''''' '''''''''''''''''''' ''''' ''''''' ''''''''''' '''''
+                          '''''''''''''''''''''''''''''' '''''''''''''' ''''''' '''''''''''''''''' '''''''''' ''''''' ''''''''''''''''''''''''' '''' '''''''''''''''''''' '''''''' ''''''''''''''''''''''''''
+                          '''''' '''''''''''''''''''''' ''''''''''''''''' ''''''''' '''''' ''''''''''''''''''''''' '''''''''' ''''''''''' '''''''''''''''''''' ''''' ''''''''''''''
+                          ''''''''''''''''''''''''''''''
+
+                          ''''''''' '''''''''''' '''''''''''''' ''''''' ''''''''''''''''''' ''''''''''' '''''''''' ''''''''''''''''' ''' ''''''''''''''' ''''''''''''''''''''''''
+
+Economic analysis
+
+6.25            The submission presented a cost minimisation analysis against Lantus. Based on the
+                results of the two phase 3 trials (ABEB and ABEC), the submission proposed that
+
+
+
+                                                                                                     13
+                                 Public Summary Document – March 2015 PBAC Meeting
+
+
+                100IU/ml of Lantus is equivalent to 100IU/ml of Basaglar. This is consistent with
+                PBAC guidelines and TGA’s acceptance of biosimilarity between Basaglar and
+                Lantus.
+
+6.26            The submission factored in the impact of the 16% statutory price reduction that it
+                stated “is expected to apply to all brands of insulin glargine” (pg 43).” This is
+                consistent with the statutory price reduction provisions of the Act. The listing of
+                Basaglar on the PBS would also result in insulin glargine being moved to the F2
+                formulary and being subject to price disclosure.
+
+                For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+Estimated PBS usage & financial implications
+
+6.27            The current market growth for Lantus was extrapolated using PBS item report data
+                from November 2009 to October 2014. '''''''''' '''''''''''''''''' '''''''''''''' ''''' ''''''''''''''''''' ''''''''' '''''''''''''''
+                ''''''' ''''''' '''''''''''''''''''''''''''''' ''''''''' '''''''''''''''''''' ''''''''''''''''''''' ''''''' ''''''''''''''''' '''''''' ''''''' ''''''''''''''' ''''' '''''''''''''''''''''
+
+'''''''''''''''''' ''''''''''''' ''''''''''''''''''''' '''''''''''''' ''''''''' ''' '''''''' ''''''''''''''' ''''''''''' ''''' ''''''''''''''''''''' ''''''''' ''''''' ''''''''' '''''''''''''''' '''''''
+                 '''''''''''''''' ''''''' '''''''''''''''''''''''''''''' ''''' ''''''' ''''''''''''''''''''''''' '''''''''''' ''''' ''''''''''''''' '''''' ''''' '''''''''''''''''''''''''''''''''''''' ''''''''
+                 ''''''''''''''''''''''''' ''''''''''''''' '''''''' '''''' '''''''''''''''''''''''''''' ''''''''''''''''''''''''''' '''''''' '''''''''''''''''' ''''''''''''' ''''''''''''''''''''''' ''''''''''
+                 '''''' ''''''''''''''''''''''''''''''''''''
+
+                Estimated market share of Basaglar as a total of the insulin glargine market
+                                           Year 1       Year 2         Year 3        Year 4                                                                           Year 5
+                  Basaglar market share                            ''''''''''%            '''''''''''%           ''''''''''%              ''''''''''''''%             '''''''''''''%
+                Source: Section E of the submission
+
+6.28            The minor submission estimated a net save to the PBS of $''''''''''''' million over five
+                years of listing. The submission assumed that replacement of Lantus with Basaglar
+                will be on a 1:1 basis. '''''''''''''''''''''' '''''''' ''''''''''''''''''' ''''' ''''''' '''''''''' '''''''''''''''' '''''''''' ''''''''''''''' '''''' ''''''''
+                ''''''''''''''' '''' '''''''' '''''''''''' ''''''''''''''''''' ''''''''''' '''''''''''''''''''''' ''''''''''''''''''' ''''' ''''''''''' ''''''''''''''''''''' ''''''''' '''''''''''''''''''
+                '''''''''' '''''''''''''''''''''''' ''''''' '''''''' '''''''''''''''''' ''''''' ''''''' ''''''''''''''' ''''' ''''''''''' ''''''''''''''''''''''' ''''''''''''''''''
+                ''''''''''' ''''' ''''''' ''''''''' ''''''''' ''''''''''''''''''''' '''''''' '''''''''''''' ''''''' ''''''' '''''' ''''''''''''''''''''''''''''''' '''' ''''''' '''''''''''''''''''''''''''
+                '''''''''''' ''''''''' '''''''''''''''''' ''''' ''''''''''''' ''''''''''''''''''''''' '''''' ''''''' ''''''''''''' '''''''''''' '''' '''''''''''''' ''''''''''''''''' ''''
+                ''''''''''''''''''''''' '''' ''''''' ''''''''''''''''''''
+
+6.29            The financial implications are summarised in the table below.
+
+
+
+
+                                                                                                     14
+                                 Public Summary Document – March 2015 PBAC Meeting
+
+
+                Estimated overall net cost of listing Basaglar to the PBS and RPBS over five years
+                                             Year 1           Year 2          Year 3          Year 4                                                                                      Year 5
+                  Estimated number of Basaglar scripts dispensed
+                  PBS                                              ''''''''''''                  ''''''''''''''''             '''''''''''''''''             '''''''''''''''               '''''''''''''''
+                 RPBS                         '''''''''                        '''''''''                          '''''''''                       '''''''''''''                   ''''''''''''''
+                 Estimated overall net cost of listing Basaglar on the PBS (savings are largely due to the 16% statutory
+                 price reduction to all insulin glargine products)
+                 Overall net cost to the
+                                                 ''''''''''''''''''''''''''''  '''''''''''''''''''''''''''''''''    '''''''''''''''''''''''''''''    '''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''
+                 PBS
+                 Overall net cost to the
+                                                   '''''''''''''''''''''''''         ''''''''''''''''''''''           ''''''''''''''''''''''''''        '''''''''''''''''''''''        ''''''''''''''''''''''
+                 RPBS
+                 Overall net cost to the
+                                               ''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''     ''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''
+                 PBS/RPBS
+                 Combined overall net
+                 cost to the PBS/RPBS                                                                            ''''''''''''''''''''''''''''
+                 over five years
+                Source: Section E of the submission
+
+                The redacted table above shows:
+                Estimated financial impact: Savings of $20 - $30 million per year in Year 1,
+                increasing to savings of $30 -$60 million per year in Year 5.
+
+
+6.30            The costs were estimated using a DPMQ of $'''''''''''''''''' per script of Basaglar (5 packs
+                containing 5 x 3mL cartridges/pens), which included the 16% price reduction that
+                would be triggered upon listing Basaglar.
+
+                For more detail on PBAC’s view, see section 7 “PBAC outcome”
+
+7               PBAC Outcome
+
+7.1             The PBAC recommended the unrestricted benefit listing of the biosimilar insulin
+                glargine Basaglar® for the treatment of type 1 and 2 diabetes mellitus on a cost-
+                minimisation basis with insulin glargine Lantus. The equi-effective doses are 100
+                IU/mL Basaglar and 100 IU/mL Lantus.
+
+7.2             The PBAC considered that the claim of non-inferior comparative effectiveness and
+                non-inferior comparative safety was adequately supported. The PBAC noted that the
+                ACPM was satisfied that the submitted data (including from the clinical trials ABEB
+                and ABEC) showed that Basaglar is similar to Lantus in terms of efficacy and safety,
+                and further noted that the TGA registered Basaglar as a biosimilar medicine.
+
+7.3             '''''''''' ''''''''''''''' ''''''''''''''' '''''''''''''''''' '''''''' '''''''''''''''''''' '''''''''' '''' ''''''''''''''''''''''' ''''''' ''''''''''''''''''' ''''''''' ''''''''''''''''
+                ''''''''''''''''' ''''' ''''''''''''''' ''''''''''''''''' '''''''''''''''''''''''' ''''''''''''' '''''' '''''''''''''''''''' '''''' ''''''''''''''''''''''''''' ''''' '''''''
+                '''''''''''''''''''''''' '''''' '''''''' '''''''''''''''''''''''' ''''' '''''''''''''''''''''''''' '''''' ''''''' ''''''''''''''''''''''' '''' ''''''''' ''''''''''' '''''
+                ''''''''''''''''''''''''' ''''''''''''''''' ''''''' '''''''''''''' '''''''''''''''''' ''''''''' ''''''''''''''''''''' '''''''''''''''''''' '''''''''' ''''''''''''''' ''''''''''''''''''
+                ''''''''''''''''' '''' '''''''''''''''' ''''''''''''''''''' '''''''''''''''''''' ''''''''''''''''''''''''''' '''''''''''' '''''''''''''' '''''''''' '''''' ''''''''''''''''''' '''''
+                '''''''''''''''''''''''''' ''''' ''''''''' ''''''''''''''''''''''' ''''''' ''''''' '''''''''''''''''''''''' '''' '''''''''''''''''''''''''''' ''''''''''''''''''''' ''''''' '''''''''''''''
+                '''''''''''''''''''''''' ''''''''' ''''''' ''''''''''''''''''''''''' '''''''''''''''''''''' ''''''' '''''''''''''''''''''''' '''''''' ''''''''' ''''' ''''''''''''''''''''' '''''''''''''''
+                ''''''''''''''' '''''''''''''''''''' ''''''''''''''''''''''' '''''''''''' ''''''''''''' ''''''''''''''''''''''' ''''' '''''''''''''''''''''' ''''''''''''''''''''''''''''' '''''''''''''''''''''
+                ''''''''''''''''''''''''' '''''''''' '''''''''''''''''' '''''''''''''''''''''''''' ''''''''''''
+
+''''''''''' ''''''''''''''''' '''''' '''''''''' '''''' ''''''''''''' ''''''''''''''''''''''''''''' '''''''' '''''''''''''''''''''''' ''''''' ''''''''''''''' ''''''''''''''''''''''' ''' '''''''''''''' '''''
+                '''''''''''''''''' ''''''''''''''''''' '''''''''' '''''''''''''''''' '''''''''''''''''''''' '''' '''''''''''''''''''''''' ''''''''''''''''''' '''''''''''''''''''
+
+
+                                                                                                      15
+                                  Public Summary Document – March 2015 PBAC Meeting
+
+
+                '''''''''''''''''''''''''''''''' ''''' '''''''''''''''''''''' ''''''''''''''''''''''''''''' ''''''''' '''''''''' '''''''''''' '''''''''''''''' '''''''''''''''' ''''''''''''''''''' '''''
+                ''''''''''''''' ''''''''''''''''' '''''' ''''''''''''''' '''''''''''' '''''''''''''''''''''''''''''''' ''''''''''' '''''''''' '''''''''''''''''''''''' ''''''' '''''''''''''''''''''' '''''''''
+                '''' '''''''''''''''''''''''' ''''''''''''''' ''''' ''''''''''''''''''' ''''' ''''''''''' '''''''' ''''''''''''''' '''''''''''''' ''''''''''''' '''''''' '''''''''''''''''''''''''''''''''
+                ''''''''''' '''''''''' '''''''''' '''' ''''''''''''''''''''' ''''''''''''''''''''' ''''''''''' ''''''''''''''' ''''' '''''''''''''''''''''' ''''' '''''''' ''''''''''''''''''''' '''''''''
+                ''''' ''''''' '''''''''''''' '''''''''' ''''''''''''''' ''''''''''' ''''''''''''''''''''''''''' '''''''''''''' '''''''' '''''''''''''''''''' ''''''''''''''''''''''' ''''''''''''''''
+                '''''''''''' ''''''''''
+
+'''''''''''''''' '''''''''''''''' '''''''''''' ''''''''''
+                         ''''''''''' '''''''''''''''' ''''''''''' '''''''''''''''' ''''''''''''''''''''''''' '''''' ''''''''''''''''''''' '''''''''''''' ''''''''' ''''''' '''''''''''''''''''''''''''''' '''''
+                                  ''''''''''''''' '''''''''' ''''''''''''''''''''''' '''''' '''''''''' ''''''''''''''' ''''''''''''''' '''''''''' '''''''''''' ''''''''''' ''''''''''''''' '''''''
+                                  ''''''''''''''''''''''''''' ''''' ''''''' ''''''''''''''''''''''''''''' ''''''''''''''''''' ''''''''''''''''''''''''''''' ''''''''' ''''''''' '''''''''''''''''''''' ''''' '''''
+                                  ''''''''' '''''''''' '''''''' '''''''''''' ''''''''''''''''''''' '''''''''''''' ''''''''''''''''''''''''' '''' '''''''''''''''''''''''''''' '''''''''''' ''''''''''
+                                  ''''''''''''' '''''' '''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''' ''''
+                                  '''''''''' ''''''''''''''''''''''' ''''''''''' ''''''' '''''''''''' '''''''''''''''''''''' ''''''''''''''''''''''''' '''''''''''''' '''''' '''''''''''''''''
+                                  ''''''''''''''''''''''' '''''''''''''''''''''''' ''''''''''''''''''''' ''''''''''''''' '''' '''''' '''''''''''''' ''''''''''''''''
+                         - '''''''''''''''''''' '''''''''' '''''''''''''''' ''''''''' ''''''''''' '''''''''''''''''''''''' ''''''' ''''''''' ''''''''' '''' '''''''''''''''''''''''''''
+                                  ''''''''''''''''''''' ''''''''''' '''''''''''''''''''''' ''''''''''''''''''''' ''''''''' '''''''''''''''' ''''''''''''''''''''' ''''''''' ''''''''''' '''''''''''''''''
+                                  '''''''''''''''''''''''' '''''''''''''' ''''''''' ''''''''''''''' '''''''''''' '''''''''' ''''''''''''''''''''''''' ''''''''''''''''''''' '''' '''''''''''''''''''' ''''''
+                                  ''''''''' ''''' ''' '''''''''''''''''''''''' '''''''''' ''''''''' ''' ''''''''''''''''''''''' '''''''''' ''''''''''' '''''''''''''''''' ''''''''''''''''' ''''''''''''''''
+                                  ''''''''''''''''''''''''''' '''''''''''''''''' ''''''''''''''''' ''''''''''''''''''''''' '''''''' ''' '''''''''' '''''''''''''''
+
+'''''''''''''''''' '''''''''''''''' '''''''''' '''''''''''''' ''''''''' '''''''' '''''''''''''''' ''''''''' '''''''''''''''''' '''''''' ''''''''''''''''''''''''''' '''''''''''''''''''''' ''''''''''''''''''''
+                 ''''''''''''''''' ''''''''''''''''''''''' '''''''''' '''''''''''''''''' ''''''''' '''''''''''' ''''''''''''''''''''''''''''''' ''''' '''''''' ''''''' '''''''''' ''''''' '''''''''''''''''''
+                 ''''''''''''''' '''''''''''''''''''''''''''' '''''''''''''''''' '''''''''''''' '''''''''''''' ''''''''''' '''''''''' '''''''''''''''''' '''''''''' ''''''''''''''''''''' '''''''''''''''''''
+                 '''''''''''''''''''''''''''' '''''''''''''''''''''''' '''' ''''''''''' ''''''''''''''''''''''' ''''' '''''''' '''''''''''''' ''''''''''''' ''''' '''''''''''''''''' '''''''''''' ''''''''''
+                 ''''''''''''''''''''' ''''' '''''''''''''' '''''''''''''''''''''''''' ''''''''''' ''''''''''''''' ''''''''' '''''''''''' ''''''''''' '''''''''''''' ''''''''''''''''''
+                 '''''''''''''''''''''''''''''' '''''''' '''''''''''''''' '''''''''''''''''' '''''''''' '''' ''''''''''''' '''''''''''''''' '''''''''' ''''''''''''' ''''''''''''''' '''''''''' '''''
+                 '''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' ''''''''''''''' '''''''''''''''''''''''''''' '''' ''''''''''''''''' '''''''''''''' '''''''''''''''' '''''''
+                 '''''''''''''''''''''''' ''''' '''''''''''''''''''''''' '''''''''''' ''''''''''''''' ''''''''' ''''''''' '''''''''''' ''''' ''''''''''''''' '''''''''' '''''''' ''''''''''''''''
+                 ''''''''''''''''''''''' '''''''''' ''''''' ''''''''' '''' '''''''''''''' ''''' ''''''''''''''' '''''''''' '''''''''''''''''''''''' ''''''''''''''''' '''' ''''''' '''''''''''''''' '''''' ''''
+                 '''''''''''''' ''''''''''''''''''''' ''''''''''''''''''''' '''''''''' '''''''''''''''''' ''''''''''' '''''' ''''''''''''''''''''''' ''''''''' ''''' '''''''''''''''' ''''''
+                 '''''''''''''''''''''''''
+
+'''''''''''''''''' '''''''''''''' '''''''''' ''''''''''''''''''''''' ''''''''' '''''''' ''''''''''''''''''''''''''' '''' ''''''' '''''''''''''''''''''''' '''''''''' ''''''''''''''''''' '''''''''' '''''''
+                 '''''''''''''''''''''''' ''''' '''''''' '''''''''''''''''' '''' ''''''' ''''''''''''''''' ''''''''''''''' '''''''''''''''''''''''' '''''''''' ''''''''''''''''''''''''''' '''''' ''''''''
+                 ''''''''' ''''' '''''''' '''''''''''''''''' '''''''''' '''' '''''''''''''''''''' ''''' ''''''''''''''''' '''''' ''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' '''''''''
+                 ''''''''''''''''''' ''''''''''''''''''''''''''' '''''''' ''''''''' '''''''''''' ''''''''''''''''''''''''''' '''''''''''' ''''''''' ''''''''''''''''''''''' ''''' ''''''''''''''''''''''
+                 ''''''''''''''''''''' ''''''' ''''''''' ''''''''''''''' '''''' ''''''''''''''''''''''''''' '''''''''''''''''''''' ''''''' '''''''''''''' ''''''''''''''''''''''''' ''''''''' '''''''''
+                 ''''''''''''''''''''''''''' ''''' ''''''' '''''''''''''''''''''' ''''''''''''''''''''''''' ''''''''' '''''''''''''''''''' '''''''' '''''' ''''''''''''''''''''' ''''' ''''''' ''''''''''''''''
+                 '''' ''''''' '''''''''''''''''' '''''''''''''''''' '''''''''''''''''''''' '''''''''' ''''''''''''''''''''''''''''
+
+7.4             In a broader context, the PBAC foreshadowed that it is of a mind to consider whether
+                a biosimilar medicine is suitable for substitution by pharmacists on the basis of each
+                application on its own merit, based on the evidence presented in each case, rather
+                than adopting an overall policy-position a priori.
+
+7.5             The PBAC noted the submission estimated net overall savings to the PBS/RPBS of
+                approximately $''''''''' ''''''''''''''' over the first five years of listing. This was based on the
+                impact of the statutory 16% price reduction following the listing of a biosimilar brand.
+                The financial estimates did not account for any potential impacts of price disclosure.
+
+7.6             The PBAC advised that Basaglar is suitable for prescribing by nurse practitioners, as
+                with Lantus.
+
+
+
+                                                                                                      16
+                    Public Summary Document – March 2015 PBAC Meeting
+
+
+
+7.7      The PBAC recommended that the Safety Net 20 Day Rule should not apply.
+
+
+
+Outcome:
+Recommended
+
+
+8        Recommended listing
+
+8.1      Add new item:
+
+Name, Restriction,                          Max.      №.of                    Proprietary Name and Manufacturer
+Manner of administration and form           Qty       Rpts
+INSULIN GLARGINE                            5         1                       '''''''''''''''''''''''''''                       '''''''
+Insulin glargine 100 international units/mL                                   ''''''''''''''''''''''''' '''''''''''''''''''''   '''''''
+injection, 5 x 3 mL cartridges                                                ''''''''''''''''''''
+                                                                              ''''''''''''''''' '''''''''''''''''''             '''''''''
+                                                                                                                                '''''''''
+ *Trade name was previously Abasria
+                                      ®
+
+
+ Category /                GENERAL – General Schedule (Code GE)
+ Program
+ Prescriber type:             Medical Practitioners     Nurse practitioners
+ Restriction Level /       Unrestricted
+ Method:
+
+
+9        Context for Decision
+
+         The PBAC helps decide whether and, if so, how medicines should be subsidised in
+         Australia. It considers submissions in this context. A PBAC decision not to
+         recommend listing or not to recommend changing a listing does not represent a final
+         PBAC view about the merits of the medicine. A company can resubmit to the PBAC
+         or seek independent review of the PBAC decision.
+
+
+10       Sponsor’s Comment
+
+         The Sponsor had no comment.
+
+
+
+
+                                                             17
+

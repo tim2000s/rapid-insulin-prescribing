@@ -1,0 +1,112 @@
+
+ Produkte – Übersicht für medizinische Fachkreise 
+ <b>Nutzungsbedingungen<\/b>: Mit der Erstellung Ihres Nutzerkontos bestätigen Sie ausdrücklich, dass Sie Angehörige einer medizinischen Berufsgruppe sind und akzeptieren unsere\x26nbsp;<a rel=\x22noopener noreferrer\x22 target=\x22_blank\x22 href=\x22https:\/\/www.novonordisk.de\/terms\u002Dof\u002Duse.html\x22>Nutzungsbedingungen<\/a>.​<\/p>\r\n<p><b>Datenschutzhinweise<\/b>:\x26nbsp;Wir verarbeiten die Daten Ihrer Registrierung (z. B. Fachbereich und Ort) sowie von uns hinzugefügte Daten (z. B. Zielgruppenkategorisierung) und statistisch relevante Daten (z. B. Präferenzen bestimmter Arztgruppen), um die Inhalte auf unserer Plattform interessengerecht für Sie anzupassen. Dies betrifft auch unsere Kommunikation per E\u002DMail oder Post, sofern Sie generell Ihre Einwilligung zum Erhalt von Nachrichten erteilt haben. Weitere Informationen zum Datenschutz finden Sie in unserer\x26nbsp;<a rel=\x22noopener noreferrer\x22 target=\x22_blank\x22 href=\x22https:\/\/pro.novonordisk.de\/privacy\u002Dpolicy.html\x22>Datenschutzerklärung<\/a>.<\/p>\r\n",
+ "marketing_consent": "<b>Weitere Informationen<\/b>:\x26nbsp;Ich bin damit einverstanden, von der Novo Nordisk Pharma GmbH und der Novo Nordisk A\/S (zusammen “Novo Nordisk”) über Events, Fortbildungen, Produkte und andere Leistungen via Telefon, E\u002DMail, Brief oder Textnachricht\x26nbsp;informiert zu werden. Diese Einwilligung kann ich jederzeit widerrufen.",
+ "marketing_consent_extra": "",
+ "marketing_consent_email": "",
+ "marketing_consent_sms": "",
+ "local_consent_1": "",
+ "local_consent_2": "",
+ "local_consent_3": "",
+ }" login-description="Erhalten Sie Zugriff auf unsere spannenden medizinischen Inhalte." :social-list-as-json="[{"socialType":"doccheck","socialLabel":"DocCheck","countryCode":"DE","countryLanguage":"DE","userCheckUrl":"https://nnciam.my.salesforce-sites.com/apex/UserCheck","loginProviderUrl":"https://nnciam.my.salesforce-sites.com/services/apexrest/doccheck/login?locale\u003dDE\u0026countryCode\u003dDE"}]" separator-label=" " reset-password-title="Passwort zurücksetzen" successful-reset-password-title="Ihr Passwort wurde geändert" successful-reset-password-description="Loggen Sie sich ein, um die Novo Nordisk Plattform zu erkunden." forgot-password-title="Passwort vergessen?" forgot-password-description="Geben Sie die E-Mail-Adresse ein, die mit dem Konto verknüpft ist, für das Sie das Passwort zurücksetzen möchten." successful-forgot-password-title="Fast geschafft!" successful-forgot-password-description="Wir haben Ihnen die Anleitung zum Zurücksetzen des Passworts an die mit diesem Konto verknüpfte E-Mail-Adresse gesendet." hcaptcha-site-key="ac982892-bf4c-4788-85e4-270ed562c89a" :hcaptcha-enabled="true" :registration-form-labels="{
+ "titleStep1": "Konto erstellen",
+ "titleStep2": "Zusätzliche Informationen erforderlich",
+ "titleStep3": "Konto verifizieren",
+ "topTextStep1": "<p><b>Nur für medizinische Berufsgruppen<\/b><\/p>\r\n<p>Geben Sie Ihre Daten ein<\/p>\r\n",
+ "topTextStep2": "<p>Wir hätten noch ein paar zusätzliche Fragen<\/p>\r\n",
+ "topTextStep3": "<p>Gehen Sie zu Ihrem Posteingang und klicken Sie auf den Link in der E\u002DMail, die wir Ihnen gerade gesendet haben – dann können Sie loslegen. Der Link ist 48 Stunden gültig.<\/p>\r\n<p>Wenn Sie keine E\u002DMail erhalten haben, überprüfen Sie bitte Ihren Spam\u002DOrdner.<\/p>\r\n",
+ "interestSectionText": "<p><b>Interessensgebiete<\/b><\/p>\r\n<p>Welche Indikationen interessieren Sie am meisten?<\/p>\r\n",
+ "bottomButtonLabel1Step1": "Konto erstellen",
+ "bottomButtonLabel1Step2": "Konto erstellen",
+ "bottomButtonLabel1Step3": "Alles klar, ich schaue in meine E\u002DMails",
+ "underTheBottomButtonText": "<p>Sie haben bereits einen Account? <a href=\x22#hcpportalplus\u002Dlogin\u002Ddialog\x22 target=\x22_self\x22 rel=\x22noopener noreferrer\x22>Einloggen<\/a><\/p>\r\n",
+}" :subscription-form-labels="{
+ "titleStep1": "Schnell informiert",
+ "titleStep2": "Schnell informiert",
+ "titleStep3": "Erfolgreich angemeldet!",
+ "topTextStep1": "Wenn Sie über aktuelle Themen wie Studien\u002DUpdates, Kongress\u002DHighlights oder Fortbildungen von Novo Nordisk Deutschland auf dem Laufenden gehalten werden möchten, dann melden Sie sich hier an.",
+ "topTextStep2": "<b>Anmeldung nur für medizinisches Fachpersonal<\/b>. Bitte tragen Sie Ihre Daten ein.",
+ "topTextStep3": "Nur noch ein letzter Schritt erforderlich: Bitte überprüfen Sie Ihr E\u002DMail\u002DPostfach und klicken Sie auf den Bestätigungslink, um Ihre Anmeldung erfolgreich abzuschließen. Dieser Link ist 48 Stunden lang gültig.",
+ "interestSectionText": "Welche Therapiegebiete interessieren Sie am meisten?",
+ "bottomButtonLabel1Step1": "Weiter",
+ "bottomButtonLabel1Step2": "Anmelden",
+ "bottomButtonLabel2Step2": "Zurück",
+ "bottomButtonLabel1Step3": "Konto erstellen",
+ "passwordTeaserSectionTitle": "Konto erstellen",
+ "passwordTeaserSectionText": "Sie sind nur noch einen Klick von der Erstellung eines Kontos entfernt und können dann auf alle Inhalte unseres Portals zugreifen.",
+ "passwordTeaserSectionFlowEndMessage": "Geschafft!",
+ }" :subscription-field-settings-json="[[{"name":"firstName","displayName":"Vorname *","placeholder":" ","attributes":{"isRequired":"true","type":"text"}},{"name":"lastName","displayName":"Nachname *","placeholder":" ","attributes":{"isRequired":"true","type":"text"}},{"name":"email","displayName":"E-Mail *","placeholder":" ","attributes":{"isRequired":"true","type":"text-email"}},{"name":"institution","displayName":"Einrichtung suchen *","placeholder":" ","attributes":{"isRequired":"true","type":"institution"}},{"name":"customer_type","displayName":"Beruf auswählen *","attributes":{"isRequired":"true","type":"profession"}},{"name":"local_field_3","displayName":"EFN *","placeholder":" ","attributes":{"isRequired":"true","pattern":"^[0-9]{15}$","showOnSelection":"customer_type","type":"text","errorMsg":"Ungültige EFN. Bitte geben Sie eine 15-stellige Arztnummer ein."},"parametersMaps":[{"id":"doctor"}]},{"name":"mobile_number","displayName":"Mobilnummer","placeholder":"Ohne Null z.B. 170 1234567","attributes":{"isRequired":"true","type":"phone"},"parametersMaps":[{"regex":"^(?:\\+49|0049)[1-9][0-9]{9,10}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 10-11 Ziffern","id":"+49"},{"regex":"^(?:\\+43|0043)[1-9][0-9]{8,11}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 9-12 Ziffern","id":"+43"},{"regex":"^(?:\\+41|0041)[1-9][0-9]{7,10}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 8-11 Ziffern","id":"+41"}]}],[{"name":"speciality","displayName":"Nach Ihrem Fachgebiet suchen *","attributes":{"isRequired":"true","type":"speciality"}}],[{"name":"password","displayName":"Passwort *","placeholder":"Passwort eingeben","attributes":{"isRequired":"true","type":"password"}},{"name":"passwordRepeated","displayName":"Wiederholen passwort *","placeholder":"Wiederholen passwort eingeben","attributes":{"isRequired":"true","type":"password-repeat"}}],[],[],[],[]]" :registration-field-settings-json="[[{"name":"firstName","displayName":"Vorname *","placeholder":" ","attributes":{"isRequired":"true","type":"text"}},{"name":"lastName","displayName":"Nachname *","placeholder":" ","attributes":{"isRequired":"true","type":"text"}},{"name":"email","displayName":"E-Mail *","placeholder":" ","attributes":{"isRequired":"true","type":"text-email"}},{"name":"institution","displayName":"Einrichtung suchen *","placeholder":" ","attributes":{"isRequired":"true","type":"institution"}},{"name":"customer_type","displayName":"Beruf auswählen *","attributes":{"isRequired":"true","type":"profession"}},{"name":"local_field_3","displayName":"EFN *","placeholder":" ","attributes":{"isRequired":"true","pattern":"^[0-9]{15}$","showOnSelection":"customer_type","type":"text","errorMsg":"Ungültige EFN. Bitte geben Sie eine 15-stellige Arztnummer ein."},"parametersMaps":[{"id":"doctor"}]},{"name":"password","displayName":"Passwort *","placeholder":" ","attributes":{"isRequired":"true","type":"password"}},{"name":"passwordRepeated","displayName":"Passwort wiederholen *","placeholder":" ","attributes":{"isRequired":"true","type":"password-repeat"}},{"name":"mobile_number","displayName":"Mobilnummer","placeholder":"Ohne Null z.B. 170 1234567","attributes":{"isRequired":"false","type":"phone"},"parametersMaps":[{"regex":"^(?:\\+49|0049)[1-9][0-9]{9,10}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 10-11 Ziffern","id":"+49"},{"regex":"^(?:\\+43|0043)[1-9][0-9]{8,11}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 9-12 Ziffern","id":"+43"},{"regex":"^(?:\\+41|0041)[1-9][0-9]{7,10}$","error-message":"Bitte ohne Ländervorwahl, ohne Null, max. 8-11 Ziffern","id":"+41"}]}],[{"name":"speciality","displayName":"Nach Ihrem Fachgebiet suchen *","attributes":{"isRequired":"true","type":"speciality"}}],[],[],[]]" :professions-json="[{"value":"Arzt/Ärztin","id":"doctor"},{"value":"Apotheker/ -in","id":"pharmacist"},{"value":"Ärztliches Hilfspersonal","id":"medical_assistant"},{"value":"Diabetesberater - assistent -in","id":"diabetes_assistant"},{"value":"Pflege-/Hilfspersonal","id":"nurse"},{"value":"Sonstige","id":"other"}]" :user-interests-json="[{"interestsname":"Adipositas","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/obe"},{"interestsname":"Diabetes","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/dia"},{"interestsname":"Kardiovaskuläre Erkrankungen","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/cvd"},{"interestsname":"MASH","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/mash"},{"interestsname":"Hämophilie","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/hamophilie"},{"interestsname":"Wachstumshormon","interestTagPath":"/content/cq:tags/hcp-plus/de/interests/wachstumshormon"}]" :is-subscription-user-interests-enabled="true && true === true" :is-registration-user-interests-enabled="!false && true === true" :is-missing-information-user-interests-enabled="true === true" site-name="pro_novoakademie_de_plus" country-code="DE" language-code="DE" :marketing-consent-checkbox-top="true" :is-marketing-consent-pre-checked="false === true" :is-term-condition-consent-pre-checked="false === true" :term-condition-as-text="true" :user-country-json="[]" :missing-information-form-labels="{
+ "formTitle": "Bitte ergänzen Sie weitere Informationen",
+ "topText": "<p>Wir benötigen weitere Angaben, bevor Sie sich einloggen können.<\/p>\r\n",
+ "updateProfileButtonLabel": "Profil vervollständigen",
+ "backButtonLabel": "Zurück zum Login",
+ "interestSectionText": "Welche Therapiegebiete interessieren Sie am meisten?",
+ }" profile-update-success-message="Ihr Profil wurde aktualisiert" profile-update-failed-message="Vervollständigen des Profils fehlgeschlagen" login-failed-after-update-message="Vervollständigen erfolgreich, aber Login fehlgeschlagen" :dynamic-media-info="{
+ dynamicMediaImagePath: '',
+ enableDynamicMedia: false,
+ mobileDynamicMediaWidth: '500',
+ tabletPortraitDynamicMediaWidth: '400',
+ tabletLandscapeDynamicMediaWidth: '600',
+ desktopDynamicMediaWidth: '700',
+ jpegQuality: '70',
+ urlModifiers: '',
+ assetDescription: ''
+ }" :renditions-image-info="{
+ typeOfRendition: 'automatic',
+ mobileRenditionSuffix: '',
+ tabletPortraitRenditionSuffix: '',
+ tabletLandscapeRenditionSuffix: '',
+ desktopRenditionSuffix: ''
+ }" :snackbar-dynamic-media-info="{
+ dynamicMediaImagePath: '',
+ enableDynamicMedia: false,
+ mobileDynamicMediaWidth: '500',
+ tabletPortraitDynamicMediaWidth: '400',
+ tabletLandscapeDynamicMediaWidth: '600',
+ desktopDynamicMediaWidth: '700',
+ jpegQuality: '70',
+ urlModifiers: '',
+ assetDescription: ''
+ }" missing-information-form-update-profile-failed-popup-message="Vervollständigen des Profils fehlgeschlagen" subscription-status-popup-title="Einwilligung bereits erteilt" subscription-status-popup-text="Sie sind bereits für den Erhalt von Neuigkeiten von Novo Nordisk registriert. Wenn Sie Ihre Einstellungen ändern möchten, können Sie diese unter „Mein Profil“ aktualisieren." subscription-status-popup-button-label="Mein Profil" subscription-status-popup-button-link="/content/hcp-plus/de/de_de/profile-page" subscription-confirmation-popup-title="Einwilligung erteilt" subscription-confirmation-popup-text="Sie sind nun für den Erhalt von Neuigkeiten von Novo Nordisk registriert. Wenn Sie Ihre Einstellungen ändern möchten, können Sie diese unter "Mein Profil" aktualisieren." subscription-confirmation-popup-button-label="Mein Profil" subscription-confirmation-popup-button-link="/content/hcp-plus/de/de_de/profile-page" :disable-lazy-loading="false" logo-image-path="/content/dam/hcp-plus/de/de_de/images/nn-logo-blue-bg-1.svg" :enable-npi-flow="false">
+ Um das Leben von Menschen mit chronischen Erkrankungen zu verbessern, entwickeln wir kontinuierlich innovative Arzneimittel, Behandlungsoptionen und Aufklärungskonzepte. Im Austausch mit Patient:innen, medizinischen Fachkreisen, politischen Entscheidungsträger:innen und Nicht-Regierungsorganisationen setzen wir uns dafür ein, die Versorgung von Menschen mit Diabetes, Adipositas sowie weiteren schwerwiegenden, seltenen und chronischen Erkrankungen nachhaltig [NLB]zu unterstützen.[/NLB]</p>
+<p>Unser Ziel ist es, Patient:innen weltweit den Zugang zu Medikamenten und einer besseren Versorgung zu ermöglichen. Mit Driving change in diabetes, Driving change in obesity, Driving change in cardiovascular disease und Driving change in rare disease setzen wir diesen Anspruch in [NLB]die Praxis um.[/NLB]</p>
+" headline-size-prop="hero-title" :dynamic-media-info="{
+ dynamicMediaImagePath: 'https://images.novonordisk.com/is/image/novonordiskas/produktuebersicht-2',
+ enableDynamicMedia: true,
+ mobileDynamicMediaWidth: '525',
+ tabletPortraitDynamicMediaWidth: '768',
+ tabletLandscapeDynamicMediaWidth: '1200',
+ desktopDynamicMediaWidth: '1440',
+ jpegQuality: '80',
+ urlModifiers: '',
+ imagePreset: '',
+ optimizedParameters: '',
+ assetDescription: ''
+ }" :renditions-image-info="{
+ typeOfRendition: 'automatic',
+ mobileRenditionSuffix: '',
+ tabletPortraitRenditionSuffix: '',
+ tabletLandscapeRenditionSuffix: '',
+ desktopRenditionSuffix: ''
+ }" text-positioning="text-center" headline-semantic-tag="h1" image-url="/content/dam/hcp-plus/de/de_de/product/produktuebersicht/images/produktuebersicht.jpg" :disable-social-share="false"> 
+<path d="M6.11091 12.7226C3.96303 10.5747 3.96303 7.09229 6.11091 4.94441C8.2588 2.79653 11.7412 2.79653 13.8891 4.94441C14.9632 6.0185 15.5 7.42476 15.5 8.8335C15.5 9.24771 15.8358 9.5835 16.25 9.5835C16.6642 9.5835 17 9.24771 17 8.8335C17 7.0432 16.3164 5.25044 14.9497 3.88375C12.2161 1.15008 7.78392 1.15008 5.05025 3.88375C2.31658 6.61742 2.31658 11.0496 5.05025 13.7832C5.34315 14.0761 5.81802 14.0761 6.11091 13.7832C6.40381 13.4904 6.40381 13.0155 6.11091 12.7226Z" fill="#454B5C"/>
+<path d="M8.23227 7.06573C7.25596 8.04204 7.25596 9.62495 8.23227 10.6013C8.52516 10.8942 8.52516 11.369 8.23227 11.6619C7.93937 11.9548 7.4645 11.9548 7.17161 11.6619C5.60951 10.0998 5.60951 7.56717 7.17161 6.00507C8.73371 4.44297 11.2664 4.44297 12.8285 6.00507C13.6094 6.78597 14 7.81097 14 8.8335C14 9.24771 13.6642 9.5835 13.25 9.5835C12.8358 9.5835 12.5 9.24771 12.5 8.8335C12.5 8.19253 12.2561 7.55403 11.7678 7.06573C10.7915 6.08942 9.20858 6.08942 8.23227 7.06573Z" fill="#454B5C"/>
+<path d="M10.7656 8.34412C10.5871 8.07842 10.2596 7.95533 9.95021 8.03766C9.64086 8.12 9.41787 8.3896 9.39502 8.7089L8.90401 15.5698C8.88295 15.8641 9.03642 16.1434 9.29614 16.2834C9.55586 16.4235 9.87357 16.3982 10.1079 16.2189L11.1508 15.4208L12.1363 19.0988C12.2435 19.4989 12.6547 19.7363 13.0548 19.6291C13.4549 19.5219 13.6924 19.1106 13.5851 18.7105L12.6082 15.0647L13.9004 15.2684C14.195 15.3149 14.4892 15.1824 14.6496 14.9309C14.81 14.6795 14.8061 14.3568 14.6398 14.1093L10.7656 8.34412Z" fill="#454B5C"/>
+</svg>" descriptive-text="<p><b>Kein(e) Arzt/Ärztin bzw. Apotheker:in?!</b></p>
+<p>Informationen für Patient:innen und Interessierte</p>
+<p>Über Novo Nordisk:&nbsp;<a href="https://www.novonordisk.de/"><b>novonordisk.de&nbsp;</b></a></p>
+<p>Über unser Patient:innen Engagement:&nbsp;<a href="https://www.novonordisk.de/patient-engagement.html"><b>novonordisk.de&nbsp;</b></a></p>
+<p>Service für Menschen mit Diabetes:&nbsp;<a href="https://www.novonordisk.de/disease-areas/tagebuecher-bestellen-schlungsmaterialien.html"><b>novonordisk.de&nbsp;</b></a></p>
+<p>Informationen zu Diabetes:&nbsp;<a href="https://www.diabeteswhatsnext.com/de/de.html"><b>mit-diabetes.de&nbsp;</b></a></p>
+<p>Informationen zu Adipositas:&nbsp;<a href="https://www.ueber-gewicht.de/"><b>ueber-gewicht.de</b></a></p>
+<p>Informationen zu Hämophilie:&nbsp;<a href="https://www.haemcare.de/"><b>haemcare.de</b></a></p>
+<p>Informationen zu Wachstumsstörungen:&nbsp;<a href="https://www.gesundgrosswerden.com/"><b>gesundgrosswerden.com</b></a></p>
+" link-button-label="&nbsp;" internal-url="#" :open-new-tab="false" :gating-enabled="false" :gated="false"> 
+ Isaac-Fulda-Allee 24&nbsp;</p>
+<p>55124 Mainz</p>
+<p>Germany</p>
+<p>Telefon: +49 6131/903-0</p>
+<p>Telefax: +49 6131/903-1250</p>
+<p>Mail: <a href="mailto:KD_Service@novonordisk.com">KD_Service@novonordisk.com</a></p>
+" address-header="Novo Nordisk Pharma GmbH" helpful-links-header="Hilfreiche Links" local-office-header="Novo Nordisk weltweit" :hide-cookie-settings="false">
+ 

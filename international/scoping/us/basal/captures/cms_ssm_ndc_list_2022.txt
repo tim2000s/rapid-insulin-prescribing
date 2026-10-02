@@ -1,0 +1,113 @@
+                                       Calendar Year (CY) 2022 Part D Senior Savings Model
+
+                                            Model Drug National Drug Code (NDC) List
+
+                                                    Version: November 2, 2022
+
+         Participating Pharmaceutical Manufacturers
+
+               1.   Eli Lilly and Company
+               2.   MannKind Corporation
+               3.   Mylan Specialty L.P.
+               4.   Novo Nordisk, Inc. and Novo Nordisk Pharma, Inc.
+               5.   Sanofi-Aventis U.S. LLC
+
+         Model Drug NDCs
+
+         Please note: The following list uses package NDCs for pen dosage forms. CMS will continue to update this list
+         based on NDC or drug changes from participating manufacturers (notated with an asterisk,”*”).
+
+       Type                 NDC                                   Model Drug Name                                Dosage Form
+Rapid-Acting            00024-5925-05     Admelog®                                                            Pen
+Rapid-Acting            00024-5924-10     Admelog® 10mL                                                       Vial
+Rapid-Acting            00024-5926-05     Admelog® 3 mL                                                       Vial
+Rapid-Acting            47918-0902-18     Afrezza® - 180 count: 60 x 4 units + 60 x 8 units + 60 x 12 units   Inhalation Powder
+Rapid-Acting            47918-0880-18     Afrezza® - 180 count: 90 x 4 units + 90 x 8 units                   Inhalation Powder
+Rapid-Acting            47918-0898-18     Afrezza® - 180 count: 90 x 8 units + 90 x 12 units                  Inhalation Powder
+Rapid-Acting            47918-0891-90     Afrezza® - 90 count: 90 x 12 units                                  Inhalation Powder
+Rapid-Acting            47918-0874-90     Afrezza® - 90 count: 90 x 4 units                                   Inhalation Powder
+Rapid-Acting            47918-0878-90     Afrezza® - 90 count: 90 x 8 units                                   Inhalation Powder
+Rapid-Acting            00088-2500-33     Apidra®                                                             Vial
+Rapid-Acting            00088-2502-05     Apidra® SoloStar®                                                   Pen
+Rapid-Acting            00169-3201-11     Fiasp®                                                              Vial
+Rapid-Acting            00169-3204-15     Fiasp® FlexTouch®                                                   Pen
+Rapid-Acting            00169-3205-15     Fiasp® PenFill® cartridge                                           Pen
+Rapid-Acting            00002-7510-01     Humalog® 10 mL                                                      Vial
+Rapid-Acting            00002-7510-17     Humalog® 3 mL                                                       Vial
+Rapid-Acting            00002-7516-59     Humalog® Cartridge                                                  Pen
+Rapid-Acting            00002-7714-59     Humalog® Junior KwikPen®                                            Pen
+Rapid-Acting            00002-8799-59     Humalog® KwikPen® U-100                                             Pen
+Rapid-Acting            00002-7712-27     Humalog® KwikPen® U-200                                             Pen
+Rapid-Acting            00002-8213-05     Humalog® Tempo Pen™ *                                               Pen
+                                                                                                                    1
+       Type               NDC                                Model Drug Name              Dosage Form
+Rapid-Acting          73070-0100-11   Insulin Aspart                                   Vial
+Rapid-Acting          73070-0103-15   Insulin Aspart FlexPen®                          Pen
+Rapid-Acting          73070-0102-15   Insulin Aspart PenFill® Cartridge                Pen
+Rapid-Acting          00002-7737-01   Insulin Lispro                                   Vial
+Rapid-Acting          66733-0773-01   Insulin Lispro                                   Vial
+Rapid-Acting          00002-7752-05   Insulin Lispro Junior KwikPen®                   Pen
+Rapid-Acting          00002-8222-59   Insulin Lispro KwikPen®                          Pen
+Rapid-Acting          66733-0822-59   Insulin Lispro KwikPen®                          Pen
+Rapid-Acting          00002-7728-01   Lyumjev™                                         Vial
+Rapid-Acting          00002-8207-05   Lyumjev™ Kwikpen® U-100                          Pen
+Rapid-Acting          00002-8228-27   Lyumjev™ Kwikpen® U-200                          Pen
+Rapid-Acting          00002-8235-05   Lyumjev™ Tempo Pen™ *                            Pen
+Rapid-Acting          00169-7501-11   NovoLog®                                         Vial
+Rapid-Acting          00169-6339-10   NovoLog® FlexPen®                                Pen
+Rapid-Acting          00169-3303-12   NovoLog® PenFill®                                Pen
+Short-Acting          00002-8215-01   Humulin® R 10 mL                                 Vial
+Short-Acting          00002-8215-17   Humulin® R 3 mL                                  Vial
+Short-Acting          00169-1833-11   Novolin® R                                       Vial
+Short-Acting          00169-3003-15   Novolin® R FlexPen®                              Pen
+Intermediate-Acting   00002-8315-01   Humulin® N 10 mL                                 Vial
+Intermediate-Acting   00002-8315-17   Humulin® N 3 mL                                  Vial
+Intermediate-Acting   00002-8805-59   Humulin® N KwikPen®                              Pen
+Intermediate-Acting   00169-1834-11   Novolin® N                                       Vial
+Intermediate-Acting   00169-3004-15   Novolin® N FlexPen®                              Pen
+Long-Acting           00002-7715-59   Basaglar® KwikPen®                               Pen
+Long-Acting           00002-8214-05   Basaglar® Tempo Pen™ *                           Pen
+Long-Acting           73070-0403-15   Insulin Degludec FlexTouch® U-100 *              Pen
+Long-Acting           73070-0503-15   Insulin Degludec FlexTouch® U-200 *              Pen
+Long-Acting           73070-0400-11   Insulin Degludec U-100 *                         Vial
+Long-Acting           00955-1728-05   Insulin Glargine Injection Solostar® Pen U-100   Pen
+Long-Acting           00955-1729-01   Insulin Glargine Injection U-100                 Vial
+Long-Acting           49502-0394-75   Insulin Glargine-yfgn                            Pen
+Long-Acting           49502-0393-80   Insulin Glargine-yfgn                            Vial
+Long-Acting           00088-2220-33   Lantus®                                          Vial
+Long-Acting           00088-2219-05   Lantus® SoloStar®                                Pen
+Long-Acting           00169-3687-12   Levemir®                                         Vial
+Long-Acting           00169-6438-10   Levemir® FlexTouch®                              Pen
+Long-Acting           49502-0251-75   Semglee®                                         Pen
+Long-Acting           49502-0250-80   Semglee®                                         Vial
+Long-Acting           00024-5871-02   Toujeo® Max SoloStar®                            Pen
+Long-Acting           00024-5869-03   Toujeo® SoloStar®                                Pen
+                                                                                            2
+       Type       NDC                               Model Drug Name                               Dosage Form
+Long-Acting   00169-2662-11   Tresiba®                                                         Vial
+Long-Acting   00169-2660-15   Tresiba® FlexTouch® U-100                                        Pen
+Long-Acting   00169-2550-13   Tresiba® FlexTouch® U-200                                        Pen
+Mix           00002-7512-01   Humalog® Mix 50-50                                               Vial
+Mix           00002-8798-59   Humalog® Mix 50-50 KwikPen®                                      Pen
+Mix           00002-7511-01   Humalog® Mix 75-25                                               Vial
+Mix           00002-8797-59   Humalog® Mix 75-25 KwikPen®                                      Pen
+Mix           00002-8803-59   Humulin® 70/30 KwikPen®                                          Pen
+Mix           00002-8715-01   Humulin® 70-30 10 mL                                             Vial
+Mix           00002-8715-17   Humulin® 70-30 3 mL                                              Vial
+Mix           73070-0200-11   Insulin Aspart Mix 70/30                                         Vial
+Mix           73070-0203-15   Insulin Aspart Mix 70/30 FlexPen®                                Pen
+Mix           00002-8233-05   Insulin Lispro Protamine and Insulin Lispro KwikPen® Mix75/25™   Pen
+Mix           00169-1837-11   Novolin® 70/30                                                   Vial
+Mix           00169-3007-15   Novolin® 70/30 FlexPen®                                          Pen
+Mix           00169-3685-12   NovoLog® Mix 70/30                                               Vial
+Mix           00169-3696-19   NovoLog® Mix 70/30 FlexPen®                                      Pen
+Concentrate   00002-8501-01   Humulin® R U-500                                                 Vial
+Concentrate   00002-8824-27   Humulin® R U-500 KwikPen®                                        Pen
+Combination   00024-5761-05   Soliqua® 100/33                                                  Pen
+Combination   00169-2911-15   Xultophy®                                                        Pen
+
+
+
+
+                                                                                                    3
+

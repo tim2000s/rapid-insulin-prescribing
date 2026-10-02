@@ -1,0 +1,911 @@
+                  COMMISSION DE LA TRANSPARENCE
+                                              Avis
+                                       23 septembre 2015
+
+
+
+  ABASAGLAR 100 unités/mL, solution injectable
+  B/5 cartouches (CIP : 34009 300 161 6 9)
+  B/5 stylos préremplis (CIP : 34009 300 162 1 3)
+
+
+  Laboratoire LILLY FRANCE
+
+  DCI                    insuline glargine
+  Code ATC (2015)        A10AE04 (insulines et analogues d’action lente par voie injectable)
+
+
+
+  Motif de l’examen      Inscription
+
+
+
+                         Sécurité Sociale (CSS L.162-17)
+  Listes concernées
+                         Collectivités (CSP L.5123-2)
+
+                         « Traitement du diabète sucré de l’adulte, de l’adolescent et de l’enfant à
+  Indication concernée
+                         partir de 2 ans »
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                      1/19
+Avis 2
+SMR                  Important
+                     En tant que médicament biosimilaire de la spécialité LANTUS, ABASAGLAR
+                     n’apporte pas d’amélioration du service médical rendu (ASMR V) dans la
+ASMR
+                     prise en charge du diabète sucré de l’adulte, de l’adolescent et de l’enfant à
+                     partir de 2 ans.
+                     La place d’ABASAGLAR dans la prise en charge des diabètes de type 1 et de
+                     type 2 est la même que celle de LANTUS :
+                                                                                          ère
+Place dans la        Dans le diabète de type 1, ABASAGLAR est un traitement de 1 intention
+                                                                                         ème
+stratégie            chez l’adulte, l’adolescent et l’enfant âgé de plus de 5 ans et de 2     intention
+thérapeutique        chez l’enfant âgé de 2 à 5 ans.
+                                                                                                     ème
+                     Dans le diabète de type 2 de l’adulte, ABASAGLAR est un traitement de 2
+                     intention.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                      2/19
+Avis 2
+01 INFORMATIONS ADMINISTRATIVES ET REGLEMENTAIRES
+
+                        Date initiale (procédure centralisée) : 9 septembre 2014 ;
+
+AMM                     Modification du nom de spécialité1 le 3 décembre 2014
+
+                        Médicament soumis à PGR
+Conditions de
+                        Liste II
+prescription et de
+délivrance / statut
+                        Médicament biosimilaire de LANTUS
+particulier
+
+
+                         2015
+                          A            Voies digestives et métabolisme
+                          A10          Médicaments du diabète
+Classification ATC
+                          A10A         Insulines et analogues
+                          A10AE        Insulines et analogues d’action lente par voie injectable
+                          A10AE04      Insuline glargine
+
+
+
+02 CONTEXTE
+Il s’agit de la demande d’inscription des spécialités ABASAGLAR, à base d’insuline glargine
+(insuline analogue de l’insuline humaine d’action lente) sur la liste des spécialités remboursables
+aux assurés sociaux et la liste des spécialités agréées à l’usage des collectivités. ABASAGLAR est
+un médicament biosimilaire dont la spécialité de référence est LANTUS (insuline glargine).
+Leurs dosages en insuline glargine, indications, posologies et modes d’administration sont
+identiques. En revanche, les deux médicaments diffèrent par leur composition en excipients, et à la
+différence de LANTUS, ABASAGLAR n’existe pas sous forme de flacon.
+
+LANTUS a fait l’objet d’une réévaluation à l’initiative de la Commission le 7 mai 2014, en raison de
+l’identification d’une potentielle majoration du risque de cancer avec l’insuline glargine. La
+Commission a considéré que le SMR de LANTUS restait important dans le diabète de type 1 chez
+l’adulte, l’adolescent et l’enfant à partir de 6 ans, et dans le diabète de type 2. La Commission de
+la Transparence n’avait pu confirmer l’avantage reconnu auparavant à LANTUS (ASMR mineure
+en termes de tolérance) dans le diabète de type 1 et de type 2 et avait considéré que LANTUS
+n’apportait pas d’amélioration du service médical rendu (ASMR V, inexistante) dans la prise en
+charge des patients adultes ou adolescents et des enfants âgés de plus de 2 ans atteints de
+diabète de type 1 ou de type 2.
+Le SMR est important et l’ASMR de niveau V dans le « traitement du diabète sucré de l’enfant âgé
+de 2 à 5 ans » (avis du 18 décembre 2013, extension d’indication).
+
+
+
+
+1
+    Précédemment ABASRIA.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 3/19
+Avis 2
+03 INDICATION THERAPEUTIQUE
+« Traitement du diabète sucré de l’adulte, de l’adolescent et de l’enfant à partir de 2 ans. »
+
+
+
+04 POSOLOGIE
+« ABASAGLAR doit être administré une fois par jour à n’importe quel moment de la journée mais
+au même moment chaque jour.
+
+Le schéma posologique d’ABASAGLAR (posologie et moment d’administration) doit être ajusté
+individuellement. […]
+
+Populations particulières
+
+Sujet âgé (≥ 65 ans)
+Chez les patients âgés, une altération progressive de la fonction rénale peut provoquer une
+diminution régulière des besoins en insuline.
+
+Insuffisance rénale
+Chez les patients insuffisants rénaux, les besoins en insuline peuvent être diminués en raison
+d’une réduction du métabolisme de l’insuline.
+
+Insuffisance hépatique
+Chez les patients insuffisants hépatiques, les besoins en insuline peuvent être diminués en raison
+d’une réduction de la capacité de la néoglucogenèse et d’une réduction du métabolisme de
+l’insuline.
+
+Population pédiatrique
+La sécurité et l’efficacité de l’insuline glargine ont été établies chez les adolescents et les enfants à
+partir de 2 ans. Les données disponibles sont détaillées dans les rubriques 4.8, 5.1 et 5.2 du RCP.
+
+La sécurité et l’efficacité de l’insuline glargine n’ont pas été étudiées chez les enfants de moins de
+2 ans.
+Aucune donnée n’est disponible.
+
+Transition d’autres insulines à ABASAGLAR
+Quand on remplace une insuline d’action intermédiaire ou d’action prolongée par ABASAGLAR, il
+peut être nécessaire de modifier la dose d’insuline et/ou d’ajuster la posologie du traitement
+antidiabétique concomitant (doses et horaires d’administration des insulines rapides ou des
+analogues rapides de l’insuline ou posologies des antidiabétiques oraux associés). »
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     4/19
+Avis 2
+05 BESOIN THERAPEUTIQUE
+Diabète de type 1
+Le traitement des patients diabétiques de type 1 repose sur une insulinothérapie, associée à une
+prise en charge nutritionnelle.
+Selon les objectifs glycémiques, les préférences et le mode de vie des patients, plusieurs schémas
+d’insulinothérapie peuvent être proposés :
+    - un schéma en 2 injections quotidiennes, avec injection d’un mélange d’insuline ou
+        analogue d‘action rapide et d’insuline d’action intermédiaire avant le petit déjeuner et le
+        repas du soir ;
+    - un schéma en 3, 4 ou 5 injections quotidiennes, avec injection d’un mélange d’insuline ou
+        analogue d‘action rapide et d’insuline d’action intermédiaire avant le petit déjeuner et le
+        repas du soir (l’injection d’insuline d’action intermédiaire du soir peut-être décalée au
+        moment du coucher), et d’une insuline ou analogue d’action rapide avant le repas de midi ;
+    - un schéma « basal-bolus » en 3, 4 ou 5 injections quotidiennes, avec injection d’une
+        « insuline basale » d’action intermédiaire matin et soir ou d’un analogue à longue durée
+        d’action une à deux fois par jour, associée à l’injection en bolus avant chacun des
+        principaux repas d’une « insuline prandiale » d‘action rapide ou analogue d’action rapide ;
+    - un traitement par pompe portable (perfusion continue avec débit de base fixe ou variable
+        selon les horaires de la journée ou de la nuit et bolus au moment des repas).
+        L’administration par pompe nécessite l’utilisation d’insuline ou analogue d’action rapide.
+Les schémas d’administration de type basal-bolus ou par pompe sont ceux qui reproduisent le
+mieux la physiologie normale.
+
+En cas de mauvais contrôle, un changement du schéma insulinique est discuté après avoir pris en
+compte les autres paramètres de l’équilibre glycémique (régime alimentaire, activité physique,
+observance).
+
+Diabète de type 2
+Le traitement des patients diabétiques de type 2 repose sur la mise en place de mesures hygiéno-
+diététiques efficaces, puis d’un traitement médicamenteux du contrôle glycémique en cas
+d’objectifs glycémiques (taux cibles d’HbA1c) non atteints. L’objectif glycémique est individualisé
+en fonction du profil des patients et peut évoluer au cours du temps.
+
+Dans le cas général, la stratégie d’introduction des antidiabétiques recommandés est la suivante :
+   - monothérapie par metformine ;
+   - puis bithérapie par metformine associée à un sulfamide hypoglycémiant si l’écart à l’objectif
+       est < 1 % d’HbA1c ;
+   - puis trithérapie par metformine associé à un sulfamide hypoglycémiant et à un inhibiteur
+       des alpha-glucosidases ou à un inhibiteur de la DPP-4 si l’écart à l’objectif
+       est < 1 % d’HbA1c ;
+   - puis, si l’objectif glycémique n’est pas atteint, l’insuline est introduite en association à la
+       metformine et à un sulfamide hypoglycémiant. Si l’IMC est supérieur ou égal à 30 ou si la
+       prise de poids sous insuline est préoccupante, il est possible d’utiliser les analogues du
+       GLP-1 en alternative à l’insuline.
+L’insulinothérapie est aussi envisageable dans certaines situations particulières :
+    - au stade de la trithérapie, l’insuline peut être associée à la metformine et à un sulfamide
+        hypoglycémiant si l’écart à l’objectif est > 1 % d’HbA1c avec la bithérapie ;
+    - au stade de la bithérapie en cas d’intolérance ou de contre-indication aux sulfamides
+        hypoglycémiants ou à la metformine, si l’écart à l’objectif est supérieur à 1 % d’HbA1c sous
+        monothérapie et en cas d’échec de la bithérapie orale, l’insuline peut être associée à la
+        metformine ou au sulfamide hypoglycémiant.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 5/19
+Avis 2
+Lors de la mise en place de l’insulinothérapie, il est recommandé, en adjonction à une
+monothérapie ou à une bithérapie, de débuter :
+   - de préférence par une insuline d’action intermédiaire (NPH) au coucher ;
+   - ou par un analogue à longue durée d’action, si le risque d’hypoglycémie nocturne est
+      préoccupant.
+Si l’objectif glycémique n’est pas atteint malgré la mise en place de l’insulinothérapie, celle-ci sera
+intensifiée. Les différents schémas possibles sont :
+     - un schéma basal-bolus
+     - un schéma en 1 à 3 injections quotidiennes d’insuline biphasique.
+En cas de diabète très déséquilibré, avec des glycémies supérieures à 3 g/L répétées et/ou un
+taux d’HbA1c > 10 %, un schéma insulinique intensifié pourra être instauré d’emblée après avis
+d’un endocrinologue.
+
+Le besoin thérapeutique en insuline glargine, en tant qu’analogue de l’insuline à longue
+durée d’action, dans la prise en charge des diabètes de type 1 et de type 2 est déjà couvert
+par les spécialités LANTUS.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   6/19
+Avis 2
+06 COMPARATEURS CLINIQUEMENT PERTINENTS
+Les comparateurs de l’insuline glargine figurent dans le Tableau I.
+Dans le diabète de type 1 :
+      - les insulines utilisées comme insuline basale dans un schéma basal-bolus (insuline dégludec, TRESIBA) et dans un schéma en 2 à 5
+          injections par jour (insuline intermédiaire NPH ou insuline détémir, LEVEMIR) en association avec une insuline ou un analogue rapide ou
+          ultrarapide ;
+      - les insulines administrées comme insuline basale par pompe portable sous-cutanée (insuline ou analogue rapide).
+Dans le diabète de type 2 :
+      - lors de la mise en place d’une insulinothérapie : les insulines utilisées comme insuline basale à raison d’une injection par jour (insuline
+          intermédiaire NPH ou insuline détémir, LEVEMIR ou insuline dégludec, TRESIBA) ou 2 injections par jour (LEVEMIR), et en association à
+          au moins un antidiabétique oral ;
+      - lors de la mise en place d’un schéma insulinique intensifié :
+           • les insulines utilisées comme insuline basale dans un schéma basal-bolus (insuline intermédiaire NPH ou insuline détémir LEVEMIR
+               ou insuline dégludec, TRESIBA), en association avec une insuline ou un analogue rapide ou ultrarapide ;
+           • les insulines mélangées (ou pré-mix) administrées en 1 à 3 injections par jour.
+Tableau I : Comparateurs d’ABASAGLAR
+
+                                     Nom                                                                                                                      Prise en
+         DCI                                           Action       Date de l’avis     SMR                                   ASMR
+                                 (Laboratoire)                                                                                                                charge
+Insuline NPH              INSUMAN BASAL                              12/09/2007
+                                                                                     Important                             Sans objet                           Oui
+Insuline humaine          (Sanofi-Aventis France)                        (RI*)
+Insuline NPH              INSULATARD                                 18/07/2012
+                                                    Intermédiaire                    Important                             Sans objet                           Oui
+Insuline humaine          (Novo Nordisk)                                 (RI*)
+Insuline NPH              UMULINE NPH                                20/02/2013
+                                                                                     Important                             Sans objet                           Oui
+Insuline humaine          (Lilly France)                                 (RI*)
+Insuline détémir          LEVEMIR                                    18/12/2013
+                                                                                     Important                              ASMR V                              Oui
+Analogue recombinant      (Novo Nordisk)                                 (RI*)
+Insuline glargine         LANTUS                                     07/05/2014
+                                                                                     Important                  V par rapport aux autres insulines              Oui
+Analogue recombinant      (Sanofi-Aventis France)                        (RI*)
+                                                       Lente
+Insuline degludec         TRESIBA                                    02/04/2014
+                                                                                     Important
+                                                                                                  ASMR V dans la prise en charge par les analogues lents de
+                                                                                                                                                                Oui
+Analogue recombinant      (Novo Nordisk)                             (inscription)                l’insuline (LANTUS et LEVEMIR)
+Insuline glargine         TOUJEO
+                                                                                                 En cours d’évaluation par la Commission
+Analogue recombinant      (Sanofi)
+*RI : renouvellement d’inscription
+
+ Conclusion
+Le comparateur le plus cliniquement pertinent du biosimilaire ABASAGLAR est le médicament biologique de référence, LANTUS.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         7/19
+Avis 2
+07 INFORMATIONS SUR LE MEDICAMENT AU NIVEAU INTERNATIONAL
+                                                            PRISE EN CHARGE
+          Pays                        OUI/NON                                     Population(s)
+                                  Si non pourquoi                         Celle de l’AMM ou restreinte
+                                                              « L’insuline glargine est un analogue de l’insuline
+                                                             indiqué en administration sous-cutanée une fois par
+                                                             jour dans le traitement du diabète de type 1 chez les
+                                        Oui
+         Australie                                           adultes et les enfants, et du diabète de type 2 chez les
+                                 (depuis nov. 2014)
+                                                             adultes qui ont besoin d’insuline pour le contrôle de
+                                                             l’hyperglycémie ».
+                                                             (Identique à celle de LANTUS)
+                                         Oui                 «Diabète sucré de l’adulte, l’adolescent et l’enfant à
+          Suisse
+                                  (depuis juil. 2014)        partir de 6 ans, nécessitant un traitement par insuline »
+    Canada, Japon, USA           Evaluation en cours                                     -
+
+
+
+
+08 ANALYSE DES DONNEES DISPONIBLES
+A l’appui de sa demande d’inscription, le laboratoire a fourni 6 études :
+    - 4 études de phase I ayant démontré la similarité des paramètres pharmacocinétiques et
+       pharmacodynamiques d’ABASAGLAR et de la spécialité de référence LANTUS chez des
+       volontaires sains2 (études ABEA et ABEI3 à la dose unique de 0,5 UI/kg en sous-cutanée,
+       ABEM4 à la dose unique de 0,3 et de 0,6 UI/kg (à la demande du CHMP) en sous-cutanée)
+       et chez des patients diabétiques de type 1 (étude ABEE à la dose unique de 0,3 UI/kg en
+       sous-cutanée).
+    - 2 études de non infériorité de phase III ayant comparé l’efficacité et la tolérance
+       d’ABASAGLAR et de LANTUS chez le diabétique de type 1 sur 52 semaines (période de
+       traitement de 24 semaines et une phase d’extension de 28 semaines) (ELEMENT-1) et de
+       type 2 sur 24 semaines (ELEMENT-2), dont les résultats sont présentés ci-après.
+
+
+08.1 Efficacité
+Les méthodologies des études ELEMENT-1 et ELEMENT-2 figurent dans le Tableau II.
+
+
+2
+   Linnebjerg H, Lam EC, Seger ME et al. Comparison of the Pharmacokinetics and Pharmacodynamics of
+LY2963016 Insulin Glargine and European Union- and U.S.-Approved Versions of Lantus Insulin Glargine in
+Healthy Subjects: Three Randomized Euglycemic Clamp Studies. Diabetes Care. 2015. pii: dc142623.
+3
+  Dans cette étude, les intervalles de confiance à 90% de certains paramètres se trouvaient hors des bornes
+de bioéquivalence. Ceci s’expliquait par le petit échantillon de cette étude et la variabilité de la détermination
+de la ½ vie d’un analogue d’action lente.
+4
+   Dans cette étude, les résultats à la dose élevée (0,6 U/kg) ont suggéré un effet inférieur d’ABASAGLAR
+par rapport à LANTUS. La comparaison des aires sous la courbe et des débits de perfusion de glucose a
+montré que la différence apparaissait essentiellement au cours de la phase d'absorption rapide (6 premières
+heures) avec un ratio de 0,66 (IC95% [0,44 - 1,08]). Après un complément d’informations demandé par le
+CHMP, le laboratoire a montré que cette différence s’expliquait principalement par les résultats d’un des
+volontaires sains ayant un profil aberrant en termes de quantité de glucose perfusé pendant la procédure de
+clamp et pour lequel aucune explication physiologique plausible n'a pu être trouvée (données de clamp à la
+dose de 0,3 U/kg dans la plage attendue et un profil PK reflétant l'absorption d'insuline). Une analyse post-
+hoc excluant cette seule valeur aberrante a apporté des ratios de moyennes des aires sous la courbe et du
+débit de perfusion du glucose proches de 1, sauf dans les 6 premières heures (ratio de 0,77 au début de
+l'expérience de clamp). Ceci a été considéré par le CHMP comme dans les limites acceptables étant donné
+la petite taille de l'essai.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                8/19
+Avis 2
+Tableau II : Méthodologies des études de phase III avec Abasaglar
+
+                                                        5                                                                                  6
+                                  ELEMENT-1 ou ABEB chez le diabétique de type 1                                    ELEMENT-2 ou ABEC chez le diabétique de type 2
+
+Objectif principal   Evaluer l’efficacité et la tolérance d’ABASAGLAR versus LANTUS, administrés       Evaluer l’efficacité et la tolérance d’ABASAGLAR versus LANTUS administrés
+                     selon un schéma basal bolus chez des patients diabétiques de type 1               selon un schéma basal bolus chez des patients diabétiques de type 2
+Méthode              Etude de phase III, randomisée, en ouvert et en 2 bras parallèles, de non         Etude de phase III, randomisée, en double aveugle et en 2 bras parallèles, de
+                     infériorité versus LANTUS, en association à l’insuline lispro.                    non infériorité versus LANTUS, en association aux antidiabétiques oraux
+                                                                                                       (ADO).
+Principaux           -   âge ≥ 18 ans                                                                  -    âge ≥ 18 ans
+critères             -   diabétiques de type 1 d’après les critères de l’OMS depuis au moins un an     -    diabétiques de type 2 d’après les critères de l’OMS
+d’inclusion          -   taux d’HbA1c ≤ 11%                                                            -    taux d’HbA1c entre 7% et 11% chez les patients naïfs d’insuline, ≤ 11%
+                     -   traitement insulinique par un schéma basal-bolus depuis au moins un an,            chez les patients précédemment traités par LANTUS
+                         avec comme insuline basale l’insuline NPH, LANTUS ou DETEMIR, depuis          -    traitement par au moins 2 ADO à doses stables au cours des 12 semaines
+                         au moins 3 mois, en association avec soit l’insuline humaine, soit les             précédentes ± LANTUS. Les patients traités par metformine et dont la
+                         analogues suivants : insuline aspart, lispro ou glulisine                          clairance de la créatinine étaient comprise dans les valeurs contre-
+                                        2
+                     -   IMC ≤ 35 kg/m                                                                      indiquées devaient arrêter ce traitement
+                                                                                                       -    IMC ≤ 45 kg/m²
+Principaux           -   Traitement antérieur par un biosimilaire de l’insuline glargine               -    Traitement par une autre insuline que LANTUS au cours des 30 jours
+critères de non      -   Résistance à l’insuline telle que la dose quotidienne d’insuline ≥ 1,5 U/kg        précédents
+inclusion            -   Hypoglycémie sévère, acidocétose ou diabète non contrôlé ayant entrainé       -    Traitement par un biosimilaire de l’insuline glargine au cours des 90 jours
+                         l’hospitalisation : plus d’un épisode au cours des 6 mois précédents               précédents
+                     -   Maladie hépatique, transplantation rénale, dialyse                            -    Antécédent de traitement insulinique avec un schéma basal bolus ou
+                     -   Traitement antihyperglycémique oral ou traitement par pramlintide ou par           nécessité de traitement par insuline prandiale
+                         des perfusions d’insuline dans les 3 mois précédents                          -    Traitement par pramlintide dans les 30 jours précédents
+                                                                                                       -    Résistance à l’insuline telle que la dose quotidienne d’insuline ≥ 1,5 U/kg
+                                                                                                       -    Maladie hépatique, transplantation rénale, dialyse
+                                                                                                       -    Traitement glucocorticoïde d’une durée supérieure à 14 jours consécutifs
+                                                                                                            dans les 4 semaines précédentes
+Groupes de           -    Groupe ABASAGLAR                                                             -    Groupe ABASAGLAR
+traitement           -    Groupe LANTUS                                                                -    Groupe LANTUS
+                     Le traitement était reçu une fois par jour, à la même heure, en injection sous-    Le traitement était reçu une fois par jour, à la même heure, en injection sous-
+                     cutanée à l’aide d’un stylo prérempli.                                             cutanée.
+
+
+
+
+5                                                                                                                                                ®
+  Blevins TC, Dahl D, Rosenstock J et al. Efficacy and safety of LY2963016 insulin glargine compared with insulin glargine (Lantus ) in patients with type 1 diabetes
+in a randomized controlled trial: the ELEMENT 1 study. Diabetes Obes Metab 2015 Aug;17(8):726-33. doi: 10.1111/dom.12496. Epub 2015 Jun 23.
+6                                                                                                                                          ®
+  Rosenstock J, Hollander P, Bhargava A et al. Similar efficacy and safety of LY2963016 insulin glargine and insulin glargine (Lantus ) in patients with type 2
+diabetes who were insulin-naïve or previously treated with insulin glargine: a randomized, double-blind controlled trial (the ELEMENT 2 study). Diabetes Obes
+Metab. 2015 Aug;17(8):734-41. doi: 10.1111/dom.12482. Epub 2015 May 31.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                   9/19
+Avis 2
+                                                          5                                                                                     6
+                                   ELEMENT-1 ou ABEB chez le diabétique de type 1                                       ELEMENT-2 ou ABEC chez le diabétique de type 2
+                     Dose initiale : calculée pour avoir une dose d’insuline équivalente à celle du       Dose initiale : pour les patients traités par LANTUS à l’entrée dans l’étude, la
+                     traitement précédent par insuline basale.                                            dose initiale était inchangée, déterminée par conversion des unités d’insuline ;
+                     Traitement associé : insuline lispro administrée 3 fois par jour, en tant            pour les patients naïfs d’insulinothérapie, la dose initiale était de 10 U puis était
+                     qu’insuline prandiale dans le cadre d’un schéma basal-bolus.                         adaptée durant une phase de titration.
+                                                                                                          Traitement associé : traitement par ADO en cours à l’inclusion.
+Déroulement de       Randomisation dans l’un des 2 groupes, ABASAGLAR ou LANTUS, une                      Randomisation dans l’un des 2 groupes, ABASAGLAR ou LANTUS, une
+l’étude              injection quotidienne, pendant 24 semaines (dont une phase de titration et une       injection quotidienne, pendant 24 semaines (dont une phase de titration et une
+                     phase d’entretien de 12 semaines chacune) suivies d’une phase d’extension de         phase d’entretien de 12 semaines chacune).
+                     28 semaines (soit 52 semaines de traitement au total) et d’une phase de suivi        Stratification sur le pays d’inclusion, le taux d’HbA1c (< 8.5% et ≥ 8.5%),
+                     de 4 semaines.                                                                       l’utilisation d’un traitement par sulfonylurées, et sur le moment de l’injection de
+                     Stratification sur le pays d’inclusion, le taux d’HbA1c (< 8.5% et ≥ 8.5%), et sur   l’insuline basale.
+                     le moment de l’injection de l’insuline basale.
+Critère principal
+                                                                         Variation du taux d’HbA1c après 24 semaines de traitement
+de jugement
+Parmi les critères   -   Glycémie mesurée par autosurveillance glycémique à 7 moments de la               -   Glycémie mesurée par autosurveillance glycémique à 7 moments de la
+secondaires de           journée : avant chaque repas, après le petit-déjeuner et le déjeuner, au             journée : avant chaque repas, après le petit-déjeuner et le déjeuner, au
+jugement                 coucher et à 3h du matin                                                             coucher et à 3h du matin
+                     -   Variabilité individuelle mesurée par les écart-types des glycémies à jeun        -   Variabilité individuelle mesurée par les écart-types des glycémies à jeun
+                     -   Variations des taux d’HbA1c après 6 semaines et après 12 semaines                -   Variations des taux d’HbA1c après 4, 8, 12, 16 et 20 semaines
+                     -   Doses quotidiennes d’insuline basale et d’insuline lispro à la fin de l’étude    -   Pourcentages de patients dont le taux d’HbA1c < 7% et dont le taux
+                     -   Poids                                                                                d’HbA1c ≤ 6,5%
+                                                                                                          -   Doses quotidiennes d’insuline basale à la fin de l’étude
+                                                                                                          -   Poids
+Calcul      du       Un total de 432 patients (216 patients par groupe) était nécessaire pour             Un total de 668 patients (334 patients par groupe) était nécessaire pour
+nombre      de       démontrer la non-infériorité d’ABASAGLAR versus LANTUS, en considérant               démontrer la non-infériorité d’ABASAGLAR versus LANTUS, en considérant
+sujets               une durée de traitement de 24 semaines et une marge de non-infériorité de            une durée de traitement de 24 semaines et une marge de non-infériorité de
+nécessaires          0,4%. Le calcul était basé sur un écart-type de la variation de l’HbA1c de           0,4%. Le calcul était basé sur un écart-type de la variation de l’HbA1c de 1,1%,
+                     0,884%, un risque alpha bilatéral de 0,05 et une puissance de 99%, et un taux        un risque alpha bilatéral de 0,05 et une puissance de 99%, et un taux de sortie
+                     de sortie d’étude de 15% a été considéré. L’effectif de cette population             d’étude de 15% a été considéré. L’effectif de cette population permettait
+                     permettait également de démontrer la non-infériorité d’ABASAGLAR versus              également de démontrer la non-infériorité d’ABASAGLAR versus LANTUS, au
+                     LANTUS, au seuil d’infériorité de 0,3% et avec une puissance de 90%.                 seuil d’infériorité de 0,3% et avec une puissance de 90%.
+Analyse              Critères d’efficacité et de tolérance : sur la population « full analysis set » (FAS), basée sur le principe de l’intention de traiter, qui comprend tous les patients
+                                                                                                                                  ème
+statistique          randomisés et ayant reçu au moins une dose de traitement. Si aucune mesure n’était disponible à la 24            semaine, elle était remplacée par la dernière valeur
+                     rapportée ; si aucune mesure n’était disponible après la visite de randomisation, les valeurs étaient jugées manquantes. Une analyse a ensuite été réalisée sur la
+                     population per protocole.
+                     Critère principal d’efficacité : analyse de covariance (ANCOVA) incluant le pays, le moment de l’injection de l’insuline basale et les traitements en tant qu’effets
+                     fixes, et le taux d’HbA1c au début de l’étude en tant que covariable. La non-infériorité d’ABASAGLAR versus LANTUS était testée au seuil de 0,4% : si la limite
+                     supérieure de l’IC 95% était < 0,4%, ABASAGLAR était considéré comme non-inférieur à LANTUS et la non-infériorité était alors testée au seuil de 0,3%.
+                     Dans une analyse secondaire, la non-infériorité de LANTUS versus ABASAGLAR était testée au seuil de -0,4%.
+                                                                                                                                                        2
+                     Critères secondaires : analyse de covariance (ANCOVA) pour les paramètres à variables continues et test de Fisher ou du Chi pour les variables catégorielles.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                     10/19
+Avis 2
+Résultats :
+
+Dans l’étude chez le diabétique de type 1, 536 patients ont été randomisés. Un patient est sorti de
+l’étude avant d’avoir reçu la première dose de traitement. Aussi, la population FAS était constituée
+de 535 patients dont 268 dans le groupe ABASAGLAR et 267 dans le groupe LANTUS. Au final,
+253 patients (94,4%) et 256 (95,9%) patients ont reçu le traitement jusqu’à la 24ème semaine
+respectivement dans les groupes ABASAGLAR et LANTUS.
+Le nombre de patients dont le taux d’HbA1c à l’entrée dans l’étude était inférieur à 7% était
+significativement plus élevé dans le groupe ABASAGLAR (p = 0,022). Les autres caractéristiques
+des patients n’étaient pas significativement différentes entre les 2 groupes de traitement.
+L’âge moyen des patients était de 41,2 ± 13,4 ans ; plus de la moitié (57,9%) étaient des hommes.
+La durée médiane du diabète était de 14,5 ans, la valeur médiane du taux d’HbA1c à l’inclusion
+était de 7,7%. La majorité des patients (84,5%) était traitée par LANTUS à l’entrée dans l’étude.
+
+Dans l’étude chez le diabétique de type 2, 756 patients ont été randomisés, dont 376 dans le
+groupe ABASAGLAR et 380 dans le groupe LANTUS. Au final, 334 patients (88,8%) et 328
+(86,3%) patients ont reçu le traitement jusqu’à la 24ème semaine respectivement dans les groupes
+ABASAGLAR et LANTUS.
+Les caractéristiques des patients n’étaient pas significativement différentes entre les 2 groupes de
+traitement. L’âge moyen des patients était de 58,8 ± 10,1 ans ; la moitié étaient des hommes. La
+durée médiane du diabète était de 10,5 ans, la valeur médiane du taux d’HbA1c à l’inclusion était
+de 8,2%. A l’entrée dans l’étude, 39,6% des patients était traités par LANTUS.
+
+Les caractéristiques des patients à l’inclusion sont présentées dans le Tableau III.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique               11/19
+Avis 2
+Tableau III : Caractéristiques des patients inclus dans les études de phase III
+
+                                          Etude ELEMENT-1 (diabétique de type 1)                                 Etude ELEMENT-2 diabétique de type 2)
+Caractéristiques              Groupe ABASAGLAR        Groupe             Total               p           Groupe            Groupe           Total                p
+                                    N = 268           LANTUS           N = 535                         ABASAGLAR           LANTUS          N = 756
+                                                      N = 267                                            N = 376           N = 380
+Age (années)
+    Moyenne ± écart-type     41,0 ± 13,7               41,4 ± 13,3         41,2 ± 13,4   0,724     59,0 ± 10,2           58,7 ± 10,0     58,8 ± 10,1     0,675
+    Médiane                  39,8                      40,5                40,3                    59,5                  59,3            59,4
+Sexe, n (%)
+    Hommes                   155 (57,8%)               155 (58,1%)         310 (57,9%)   > 0,999   179 (47,6%)           199 (52,4%)     378 (50%)       0,216
+    Femmes                   113 (42,2%)               112 (41,9%)         225 (42,1%)             197 (52,4%)           181 (47,6%)     378 (50%)
+Durée du diabète (années)
+    Moyenne ± écart-type     16,2 ± 11,0               16,7 ± 11,0         16,4 ± 11,0   0,663     11,7 ± 6,8            11,2 ± 6,8      11,5 ± 6,8      0,391
+    Médiane                  14,3                      15,2                14,5                    10,8                  10,2            10,5
+Poids (kg)
+    Moyenne ± écart-type     75,8 ± 16,8               74,8 ± 15,4         75,3 ± 16,1   0,461     90,4 ± 20,0           89,8 ± 19,3     90,1 ± 19,6     0,714
+    Médiane                  74,8                      73,1                74,1                    87,9                  88,7            88,4
+Taux d’HbA1c
+    Moyenne ± écart-type     7,8 ± 1,1                 7,8 ± 1,0           7,8 ± 1,1     0,748     8,3 ± 1,1             8,3 ± 1,1       8,3 ± 1,1       0,743
+(%)
+    Médiane (%)              7,7                       7,7                 7,7                     8,3                   8,2             8,2
+    < 8,5%, n (%)            190 (70,9%)               186 (69,7%)         376 (70,3%)   0,777     209 (55,6%)           210 (55,3%)     419 (55,4%)     0,942
+    ≥ 8,5%, n (%)            78 (29,1%)                81 (30,3%)          159 (29,7%)             167 (44,4%)           170 (44,7%)     337 (44,6%)
+           2
+IMC (kg/m )
+    Moyenne ± écart-type     25,7 ± 4,2                25,4 ± 3,7          25,5 ± 3,9    0,489     31,9 ± 5,5            31,9 ± 5,4      31,9 ± 5,5      0,926
+    Médiane                  25,3                      25,1                25,2                    31,5                  31,5            31,5
+Insuline basale utilisée à
+l’entrée dans l’étude, n
+(%)
+    LANTUS                   218 (81,3%)               234 (87,6%)         452 (84,5%)   0,056     155 (41,2%)           144 (37,9%)     299 (39,6%)     0,372
+    Autre                    50 (18,7%)                33 (12,4%)          83 (15,5%)              221 (58,8%)           236 (62,1%)     457 (60,4%)
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                          12/19
+Avis 2
+          Résultats sur le critère principal
+Etude chez le diabétique de type 1
+Dans la population FAS, le taux d’HbA1c a significativement diminué entre la première mesure et
+la mesure à la fin du traitement. La variation moyenne7 a été de -0,350% dans le groupe
+ABASAGLAR et de -0,456% dans le groupe LANTUS. La différence de variation du taux d’HbA1c
+entre les deux groupes à la fin du traitement a été en moyenne de 0,106% [-0,005 ;0,217],
+démontrant la non-infériorité d’ABASAGLAR par rapport à LANTUS aux seuils prédéfinis de 0,4%
+et de 0,3%. Ces résultats étaient confortés par l’analyse sur la population per protocole : les
+diminutions des taux d’HbA1c ont été significatives dans les deux groupes de traitement (-0,370%
+et -0,468% respectivement dans les groupes ABASAGLAR et LANTUS), et la différence de
+variation du taux d’HbA1c entre les deux groupes à la fin du traitement a été en moyenne de
+0,098% [-0.014% ;0.209%], démontrant la non-infériorité d’ABASAGLAR et de LANTUS aux seuils
+de non-infériorité prédéfinis de 0,4% et de 0,3% (Tableau IV).
+Tableau IV : Variations moyennes des taux d'HbA1c (critère principal) - Etude ELEMENT-1
+
+Groupe de traitement                                                                   Différence
+                                    ABASAGLAR                  LANTUS
+                                                                                   ABASAGLAR-LANTUS
+Variation du taux d’HbA1c
+(valeur initiale – valeur à la
+fin du traitement)
+     Moyenne des
+                                       -0,350%                  -0,456%                      0,106%
+     moindres carrés (%)
+     IC95%                                                                                [-0,005 ;0,217]
+     p                                 < 0,001                  < 0,001                        0,061
+
+De plus, une analyse après 52 semaines de traitement (critère secondaire) a montré des
+diminutions des taux d’HbA1c par rapport aux taux initiaux de -0,256% et de -0,276%
+respectivement dans les groupes ABASAGLAR et LANTUS, et une différence de variation
+moyenne des taux d’HbA1c entre les deux groupes de 0,020% % [-0,099 ;0,140], montrant la non-
+infériorité entre ABASAGLAR et LANTUS aux seuils de 0,4% et de 0,3%.
+
+Etude chez le diabétique de type 2
+Dans la population FAS, le taux d’HbA1c a significativement diminué entre la première mesure et
+la mesure à la fin du traitement. La variation moyenne a été de -1,286% dans le groupe
+ABASAGLAR et de -1,338% dans le groupe LANTUS. La différence de variation du taux d’HbA1c
+entre les deux groupes à la fin du traitement a été en moyenne de 0,052% [-0,070 ;0,175],
+démontrant la non-infériorité d’ABASAGLAR par rapport à LANTUS aux seuils prédéfinis de 0,4%
+et de 0,3%. Ces résultats étaient confortés par l’analyse sur la population per protocole : les
+diminutions des taux d’HbA1c ont été significatives dans les deux groupes de traitement (-1,332%
+et -1,448% respectivement dans les groupes ABASAGLAR et LANTUS), et la différence de
+variation du taux d’HbA1c entre les deux groupes à la fin du traitement a été en moyenne de
+0,116% [-0,010% ;0.242%], démontrant la non-infériorité d’ABASAGLAR et de LANTUS aux seuils
+prédéfinis de 0,4% et de 0,3%) (Tableau V).
+Tableau V : Variations moyennes des taux d'HbA1c (critère principal) - Etude ELEMENT-2
+
+                                                                                       Différence
+Groupe de traitement                             ABASAGLAR          LANTUS
+                                                                                   ABASAGLAR-LANTUS
+Variation du taux d’HbA1c (valeur
+initiale – valeur à la fin du traitement)
+      Moyenne des moindres carrés (%)             -1,286%           -1,338%                   0,052%
+      IC95%                                                                               [-0,070 ;0,242]
+      p                                            < 0,001           < 0,001                   0,403
+
+
+7
+    Les moyennes présentées pour le critère principal sont les moyennes des moindres carrés.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         13/19
+Avis 2
+Par ailleurs, dans les deux études, la non-infériorité de LANTUS par rapport à ABASAGLAR a été
+démontrée en termes de variation du taux d’HbA1c à 24 semaines dans le cadre de l’analyse
+secondaire au seuil prédéfini de -0,4%, et les résultats sur les critères secondaires sont en faveur
+de la non-infériorité d’ABASAGLAR versus LANTUS.
+
+
+08.2 Tolérance/Effets indésirables
+8.2.1 Données issues des études ELEMENT-1 et ELEMENT-2
+
+L’analyse de la tolérance porte sur la population FAS. Dans les 2 études, 644 patients (268
+patients diabétiques de type 1 et 376 patients diabétiques de type 2) ont été traités par
+ABASAGLAR et 647 patients (267 patients diabétiques de type 1 et 380 patients diabétiques de
+type 2) ont été traités par LANTUS. Les données de tolérance de ces 2 études sont présentées
+dans le Tableau VI.
+
+Tableau VI : Données de tolérance des études ELEMENT-1 et ELEMENT-2
+
+                                                      Etude ELEMENT-1*                  Etude ELEMENT-2
+Groupe de traitement                              ABASAGLAR      LANTUS           ABASAGLAR        LANTUS
+                                                    (n = 268)    (n = 267)          (n = 376)      (n = 380)
+Durée moyenne d’exposition (semaines)              49,3 ± 10,1   49,9 ± 8,7        22,4 ± 5,4      22,1 ± 5,8
+± écart-type
+Patients ayant eu au moins un EI, n (%)          167 (62,3%)       166 (62,2%)    196 (52,1%)         184 (48,4%)
+EI les plus fréquents, n (%)
+    Nasopharyngite                                21 (5,6%)         22 (5,8%)       21 (5,6%)          22 (5,8%)
+    Infection respiratoire haute                  19 (5,1%)         15 (3,9%)       19 (5,1%)          15 (3,9%)
+    Diarrhée                                       9 (2,4%)         14 (3,7%)       9 (2,4%)           14 (3,7%)
+    Douleurs dorsales                              9 (2,4%)         10 (2,6%)       9 (2,4%)           10 (2,6%)
+EI sévères, n (%)                                 20 (7,5%)         24 (9,0%)       15 (4,0%)          18 (4,7%)
+Arrêts de traitement, n (%)                        6 (1,6%)         11 (2,9%)       6 (1,6%)           11 (2,9%)
+Décès, n (%)                                           0             1 (0,4%)       1 (0,3%)            1 (0,3%)
+EI : évènement indésirable
+* Les données présentées pour l’étude ELEMENT-1 sont celles obtenues après 52 semaines de traitement.
+
+Hypoglycémies
+L’analyse a inclus les hypoglycémies catégorisées comme sévères, nocturnes, symptomatiques
+documentées et asymptomatiques. Les hypoglycémies ≤ 70 mg/dL avec ou sans signe cliniques,
+et les cas où des signes cliniques d’hypoglycémie étaient présents alors que la glycémie était > 70
+mg/dL ont été prises en compte.
+
+Le nombre d’hypoglycémies, totales et dans chaque catégorie, n’a pas été différent entre les deux
+groupes de traitement8.
+Dans l’étude chez le diabétique de type 1, à 24 semaines, 506 patients (94,6%) ont rapporté
+21 389 hypoglycémies, dont 252 patients (94%) ayant rapporté 10 404 hypoglycémies dans le
+groupe ABASAGLAR et 254 (95,1%) patients ayant rapporté 10 985 hypoglycémies dans le
+groupe LANTUS. A 52 semaines, 515 patients (96,3%) ont rapporté 40 393 hypoglycémies, dont
+256 (95,5%) patients ayant rapporté 19 541 hypoglycémies dans le groupe ABASAGLAR et 259
+patients (97%) ayant rapporté 20 852 hypoglycémies dans le groupe LANTUS.
+
+
+
+8
+    A noter que dans l’étude chez le diabétique de type 1, l’incidence des hypoglycémies a été
+significativement inférieure dans le groupe ABASAGLAR versus dans le groupe LANTUS (p = 0,027) à la
+semaine 36, et que dans l’étude chez le diabétique de type 2, l’incidence des hypoglycémies < 54 mg/dL a
+été significativement supérieure dans le groupe ABASAGLAR versus dans le groupe LANTUS (p = 0,047) à
+l’inclusion.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                            14/19
+Avis 2
+Dans l’étude chez le diabétique de type 2, à 24 semaines, 588 patients (78,5%) ont rapporté 7 409
+hypoglycémies, dont 296 patients (79,4%) patients ayant rapporté 3 564 hypoglycémies dans le
+groupe ABASAGLAR et 292 (77,7%) patients ayant rapporté 3 845 hypoglycémies dans le groupe
+LANTUS.
+Les hypoglycémies ≤ 54 mg/dL, totales, symptomatiques et nocturnes, survenues dans chaque
+étude, sont présentées dans le Tableau VII et dans le Tableau VIII.
+
+Tableau VII : Hypoglycémies ≤ 54 mg/dL survenues dans l'étude chez le diabétique de type 1 (pendant 24 et
+pendant 52 semaines de traitement)
+
+ELEMENT-1 OU ABEB                                     A 24 semaines                     A 52 semaines
+Groupe de traitement                         ABASAGLAR          LANTUS         ABASAGLAR        LANTUS
+                                               (n = 268)        (n = 267)        (n = 268)      (n = 267)
+Hypoglycémie ≤ 54 mg/dL
+     Nombre de patients (%)                   224 (83,6%)       227 (85,0%)     256 (95,5%)      259 (97,0%)
+     Nombre d’évènements                         3 497             3 608          19 541           20 852
+Hypoglycémie nocturne ≤ 54 mg/dL
+     Nombre de patients (%)                   167 (62,3%)       164 (61,4%)     187 (69,8%)      194 (72,7%)
+     Nombre d’évènements                          933               848            1 584            1 605
+Hypoglycémie symptomatique ≤ 54 mg/dL
+     Nombre de patients (%)                   197 (73,5%)       201 (75,3%)     210 (78,4%)      214 (80,1%)
+     Nombre d’évènements                         2 355             2 597           4 239            4 888
+
+Tableau VIII : Hypoglycémies ≤ 54 mg/dL survenues dans l'étude chez le diabétique de type 2
+
+ELEMENT-2 OU ABEC                                                    A 24 semaines
+Groupe de traitement                                 ABASAGLAR                            LANTUS
+                                                       (n = 376)                          (n = 380)
+Hypoglycémie ≤ 54 mg/dL
+      Nombre de patients (%)                         158 (42,4%)                        163 (43,4%)
+      Nombre d’évènements                                580                                689
+Hypoglycémie nocturne ≤ 54 mg/dL
+      Nombre de patients (%)                          98 (26,3%)                         98 (26,1%)
+      Nombre d’évènements                                 250                                267
+Hypoglycémie symptomatique ≤ 54 mg/dL
+      Nombre de patients (%)                         116 (31,1%)                        120 (31,9%)
+      Nombre d’évènements                                384                                400
+
+Anticorps anti-insuline
+Les proportions de patients ayant des anticorps anti-insuline détectables à l’entrée dans l’étude et
+chez lesquels une réponse anticorps anti-insuline est apparue au cours de l’étude, n’ont pas été
+significativement différentes entre les deux groupes de traitement9.
+
+Dans l’étude chez le diabétique de type 1, des anticorps anti-insuline étaient détectables, à l’entrée
+dans l’étude, chez 17,0% des patients du groupe ABASAGLAR et chez 20,6% du groupe
+LANTUS, et après 24 semaines de traitement, chez 29,8% du groupe ABASAGLAR et chez 33,7%
+du groupe LANTUS.
+Une réponse anticorps anti-insuline était apparue chez 21,1% des patients du groupe
+ABASAGLAR et chez 19,5% du groupe LANTUS après 24 semaines de traitement, et chez 30,9%
+des patients du groupe ABASAGLAR et 25,8% des patients du groupe LANTUS après 52
+semaines de traitement.
+Dans l’étude chez le diabétique de type 2, des anticorps anti-insuline étaient détectables, à l’entrée
+dans l’étude, chez 5,5% des patients du groupe ABASAGLAR et chez 3,6% du groupe LANTUS,
+
+
+
+9
+  A noter que dans l’étude chez le diabétique de type 2, les proportions de patients ayant des anticorps anti-
+                             ème
+insuline détectables à la 4      semaine dans le groupe ABASAGLAR (7,2%) et dans le groupe LANTUS
+(3,6%) ont été significativement différentes (p = 0,047).
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         15/19
+Avis 2
+et après 24 semaines de traitement, chez 15,3% du groupe ABASAGLAR et chez 11,0% du
+groupe LANTUS.
+Une réponse anticorps anti-insuline était apparue chez 6,6% des patients du groupe ABASAGLAR
+et chez 5,5% des patients du groupe LANTUS après 24 semaines de traitement.
+
+8.2.2 Données issues du RCP
+
+Les principaux effets indésirables mentionnés dans le RCP d’ABASAGLAR, identiques à ceux de
+LANTUS, sont :
+   - l’hypoglycémie, « qui est en général l’effet indésirable le plus fréquemment rencontré lors
+       de toute insulinothérapie, peut survenir si la dose d’insuline est supérieure aux besoins. […]
+       Les épisodes d’hypoglycémie sévère, surtout s’ils sont répétés, peuvent entraîner des
+       lésions neurologiques » ;
+   - les affections oculaires : « un changement prononcé de l’équilibre glycémique peut
+       entraîner une altération transitoire de la vision » ;
+   - les affections de la peau et du tissu sous-cutané : « comme avec toute insulinothérapie,
+       une lipodystrophie peut survenir au site d’injection, ce qui peut retarder la résorption locale
+       de l’insuline ».
+
+8.2.3 Plan de gestion des risques
+
+Les risques identifiés sont les suivants :
+   • Risques importants :
+         - Hypoglycémie
+         - Réactions d’hypersensibilité
+         - Réactions au site d’injection
+         - Erreurs médicamenteuses (entre insulines)
+   • Risques potentiels
+         - Développement de cancers
+         - Développement d’anticorps anti-insuline
+Les informations manquantes sont les suivantes :
+   - Utilisation au cours de la grossesse
+   - Utilisation chez les enfants âgés de moins de 2 ans.
+
+
+08.3 Données d’utilisation/de prescription
+A titre informatif, selon les données IMS-EPPM (cumul mobile hiver 2014), LANTUS a fait l’objet
+de 1 842 004 prescriptions toutes présentations confondues10.
+
+LANTUS est majoritairement prescrit dans les diabètes sucrés insulino-dépendants sans
+complications (26% des prescriptions).
+
+Une majorité des prescriptions (82%) concerne des patients âgés de 55 ans et plus, avec 35% des
+prescriptions concernant des patients de plus de 75 ans, 26% concernant des patients de 65 à 74
+ans et 23% concernant des patients de 55 à 64 ans. Les patients âgés de 5 à 24 ans représentent
+moins de 2% des prescriptions.
+
+
+
+10
+   Total des consommations de LANTUS, présenté en cartouche, en flacon injectable, en stylo optiset, en
+stylo solostar et en stylo prérempli.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                  16/19
+Avis 2
+08.4 Résumé & discussion
+La similarité des paramètres pharmacocinétiques et pharmacodynamiques du médicament
+biosimilaire ABASAGLAR et de la spécialité de référence LANTUS, a été établie dans 4 études de
+phase I réalisées soit chez des volontaires sains soit chez des patients diabétiques de type 1,
+malgré le fait que dans 2 études, pour certains paramètres les intervalles de confiance (IC90%) se
+trouvaient hors des bornes admises pour la bioéquivalence ([0,8 ; 1,25]). Ceci était expliqué par les
+faibles effectifs des sujets inclus dans l’étude et par la variabilité pour la détermination de la ½ vie
+d’un analogue d’action lente.
+
+La non-infériorité d’ABASAGLAR et de LANTUS a été démontrée dans 2 études de phase III, en
+termes de variation des taux d’HbA1c obtenue après 24 semaines de traitement (critère principal),
+chez des patients diabétiques de type 1 et chez des patients diabétiques de type 2. Aucune
+donnée n’est disponible chez l’enfant.
+
+Les profils de tolérance des deux spécialités sont similaires.
+
+
+
+09 PLACE DANS LA STRATEGIE THERAPEUTIQUE,
+La place d’ABASAGLAR dans la prise en charge des diabètes de type 1 et de type 2 est la même
+que celle de LANTUS.
+Depuis les dernières évaluations par la Commission de la Transparence en date du 18 décembre
+201311 et du 7 mai 201412, la place de l’insuline glargine dans la stratégie thérapeutique du diabète
+de type 1 et de type 2 n’a pas été modifiée.
+
+
+09.1 Dans la prise en charge du diabète de type 1
+      Chez l’adulte, l’adolescent et l’enfant à partir de 6 ans
+L’insuline glargine, en tant qu’analogue à longue durée d’action, peut être utilisée comme insuline
+basale dans un schéma basal-bolus, en association avec une insuline d’action rapide ou un
+analogue d’action rapide.
+
+      Chez l’enfant de 2 à 5 ans
+Le choix du schéma d’insulinothérapie dépend des objectifs glycémiques pour chaque enfant, de
+ses préférences, son mode de vie et ceux de sa famille. L’acceptabilité du traitement (notamment
+le nombre d’injections quotidiennes nécessaires) est un élément important à prendre en compte,
+surtout chez l’enfant en bas âge.
+Chez la majorité des enfants, le contrôle glycémique est obtenu par un schéma basal-bolus
+incluant une insuline intermédiaire NPH comme insuline basale. Chez un faible nombre d’enfants,
+non contrôlés par l’insuline intermédiaire NPH et/ou ayant des hypoglycémies nocturnes
+préoccupantes, les analogues lents de l’insuline, dont l’insuline glargine peuvent représenter des
+alternatives thérapeutiques à l’insuline intermédiaire NPH, en association avec une insuline
+d’action rapide ou un analogue d’action rapide.
+
+
+
+
+11
+   Avis de la Commission de la Transparence du 18 décembre 2013 relatif à l’inscription dans l’extension
+d’indication de la spécialité LANTUS au traitement du diabète sucré chez l’enfant âgé de 2 à 5 ans.
+12
+   Avis de la Commission de la Transparence du 7 mai 2014 relatif au renouvellement de l’inscription et à la
+réévaluation de la spécialité LANTUS.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       17/19
+Avis 2
+09.2 Dans la prise en charge du diabète de type 2 chez l’adulte
+Les recommandations actuelles ne privilégient plus systématiquement les schémas insuliniques
+intensifiés. L’objectif glycémique doit tenir compte du bénéfice et des risques potentiels de
+l’intensification, en particulier chez les patients âgés et/ou ayant des comorbidités, notamment
+cardiovasculaires et rénales.
+Les analogues à longue durée d’action, dont l’insuline glargine, peuvent être utilisés :
+     - lors de la mise en place d’une insulinothérapie, comme insuline basale (en association
+         avec un ou plusieurs antidiabétiques oraux). Selon la recommandation de la HAS, il est
+         préconisé de débuter de préférence par une insuline intermédiaire (NPH) au coucher. La
+         prescription d’un analogue lent de l’insuline, en alternative à l’insuline intermédiaire, est à
+         discuter si le risque d’hypoglycémie nocturne sévère est préoccupant.
+     - lors de la mise en place d’un schéma insulinique intensifié, comme insuline basale dans un
+         schéma basal-bolus, en association avec une insuline ou un analogue rapide ou
+         ultrarapide.
+
+
+
+010            CONCLUSIONS DE LA COMMISSION
+
+Considérant l’ensemble de ces informations et après débat et vote, la Commission estime :
+
+
+010.1          Service Médical Rendu
+   Les diabètes de type 1 et de type 2 sont des maladies chroniques aux complications
+potentiellement graves, notamment cardiovasculaires et rénales.
+  ABASAGLAR entre dans le cadre d’un traitement symptomatique de l’hyperglycémie.
+  Le rapport efficacité/effets indésirables de ces spécialités est important, excepté dans le diabète
+sucré de l’enfant âgé de 2 à 5 ans où il est mal établi.
+   Ces spécialités sont des traitements recommandés dans la prise en charge des diabètes de
+type 1 et de type 2. Il s’agit d’un traitement de 1ère intention dans la prise en charge du diabète de
+type 1, excepté chez l’enfant âgé de 2 à 5 ans où il s’agit d’un traitement de 2ème intention en cas
+d’absence de contrôle par l’insuline intermédiaire NPH et/ou d’hypoglycémies nocturnes
+préoccupantes. Dans le diabète de type 2, ces spécialités sont des traitements de 2ème intention ;
+elles représentent une alternative à une insuline d’action intermédiaire (NPH) si le risque
+d’hypoglycémie nocturne sévère est préoccupant.
+  Il existe des alternatives médicamenteuses à ces spécialités (les autres insulines basales ou les
+autres schémas d’insulinothérapie dans le diabète de type 1 ; les insulines intermédiaires, l’insuline
+détémir, l’insuline degludec et les insulines mélangées au stade du schéma insulinique intensifié
+dans le diabète de type 2). Chez l’enfant âgé de 2 à 5 ans, il existe des alternatives
+médicamenteuses : insuline NPH, insuline détémir ou autre schéma d’insulinothérapie.
+
+Compte tenu de ces éléments, la Commission considère que le service médical rendu par
+ABASAGLAR est important dans le traitement du diabète sucré de l’adulte, de l’adolescent
+et de l’enfant à partir de 2 ans.
+
+La Commission donne un avis favorable à l'inscription sur la liste des spécialités
+remboursables aux assurés sociaux et sur la liste des spécialités agréées à l’usage des
+collectivités dans l’indication « traitement du diabète sucré de l’adulte, de l’adolescent et de
+l’enfant à partir de 2 ans » et aux posologies de l’AMM.
+
+   Taux de remboursement proposé : 65 %
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   18/19
+Avis 2
+010.2         Amélioration du Service Médical Rendu
+En tant que médicament biosimilaire de la spécialité LANTUS, ABASAGLAR n’apporte pas
+d’amélioration du service médical rendu (ASMR V) dans la prise en charge du diabète sucré
+de l’adulte, de l’adolescent et de l’enfant à partir de 2 ans.
+
+
+010.3         Population cible
+La population cible d’ABASAGLAR est la même que celle de LANTUS.
+Dans son avis du 7 mai 2014, la commission a estimé la population cible de LANTUS à environ
+810 000 patients diabétiques (de type 1 et de type 2). Ceci représente la somme de 620 000
+patients diabétiques déjà traités par insuline, dont 140 000 patients diabétiques de type 1 et
+480 000 patients diabétiques de type 2, et de 190 000 patients diabétiques de type 2 traités par
+antidiabétiques oraux seuls, non équilibrés et éligibles à l’insulinothérapie, avec un intervalle de
+plausibilité compris entre 620 000 patients (borne basse) et 915 000 patients (borne haute).
+Dans son avis du 18 décembre 2013, la commission a estimé entre 1 400 et 3 200 patients, la
+population cible additionnelle de l’insuline glargine dans le diabète de type 1 chez les enfants âgés
+de 2 à 5 ans.
+
+Au total, la population cible d’ABASAGLAR est comprise entre 811 400 et 813 200 patients.
+
+
+
+011           RECOMMANDATIONS DE LA COMMISSION
+     Conditionnements
+Ils sont adaptés aux conditions de prescription selon l’indication, la posologie et la durée de
+traitement.
+
+   Autres demandes
+La Commission réévaluera les spécialités à base d’insuline glargine (ABASAGLAR,
+LANTUS) en fonction de l’évolution du contexte scientifique et des données relatives aux
+analogues recombinants de l’insuline humaine d’action prolongée.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                19/19
+Avis 2
+

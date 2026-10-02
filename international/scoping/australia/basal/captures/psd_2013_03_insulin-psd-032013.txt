@@ -1,0 +1,290 @@
+PUBLIC SUMMARY DOCUMENT
+Product: Insulin degludec, injection solution, 100 IU/mL and 200 IU/mL, Tresiba
+Flextouch® and Tresiba Penfill®
+Sponsor: Novo Nordisk Pharmaceuticals Pty Ltd
+Date of PBAC Consideration: March 2013
+
+1.    Purpose of Application
+The submission requested an unrestricted listing for use in the treatment of patients with type
+1 or 2 diabetes mellitus.
+
+2.    Background
+This product had not previously been considered by the PBAC.
+
+3.   Registration Status
+TGA status at time of PBAC consideration: The submission was considered under the
+TGA/PBAC parallel process. At the time of PBAC consideration, only the Clinical
+Evaluation Report was available.
+
+Insulin degludec was TGA registered in November 2017 to improve glycaemic control in
+adult patients with diabetes mellitus requiring insulin.
+
+4.    Listing Requested and PBAC’s View
+
+The submission requested an unrestricted Section 85 listing.
+
+5.    Clinical Place for the Proposed Therapy
+Insulin degludec is an ultra-long acting basal insulin to be used in combination with short
+and/or rapid acting insulin in patients with type 1 diabetes and in combination with oral
+anti-diabetic medication and/or rapid acting insulin in patients with type 2. Insulin degludec
+was proposed as a replacement therapy for other basal insulin’s: glargine, detemir and
+isophane in type 1 patients and glargine and isophane in type 2 patients.
+
+While the submission did not clearly describe the proposed treatment algorithm for type 1
+diabetes, the PBAC considered it was likely to be used in patients transferring from other
+basal insulins, in combination with bolus insulin. In type 2 diabetes, the product was
+anticipated to be used alongside currently listed insulins and after metformin and/or a
+sulfonylurea.
+
+6.   Comparator
+The submission nominated insulin glargine as the main comparator as this is the most
+commonly used basal insulin. The PBAC considered that this was reasonable.
+
+7.    Clinical Trials
+The submission presented seven head-to-head randomised trials comparing insulin degludec
+and insulin glargine: NN1250-3583 and NN1250-3770 (Type 1 basal bolus), NN1250-3579,
+NN1250-3672, NN1250-3586 and NN1250-3668 (Type 2 basal oral) and NN1250-3582
+(Type 2 basal bolus plus orals).
+
+Details are presented in the table below.
+                                   Public Summary Document
+                                   March 2013 PBAC Meeting
+                                           Page 1 of 6
+Trial ID/ First     Protocol title/ Publication title                 Publication citation
+author
+Trial NN1250-3583
+Heller et al.       Insulin degludec, an ultra-long acting basal      The Lancet; 2012, 379(9825):
+                    insulin, versus insulin glargine in basal-bolus   1489-1497
+                    treatment with mealtime insulin aspart in type
+                    1 diabetes (BEGIN Basal-Bolus Type 1): a
+                    phase 3, randomised, open-label, treat-to-
+                    target non-inferiority trial
+Trial NN1250-3770   A 26-week trial investigating the dosing          Clinical trials.gov ID:
+                    flexibility, efficacy and safety of NN1250 in     NCT01079234
+                    subjects with type 1 Diabetes with a 26-week
+                    extension.
+Trial NN1250-3582
+Garber et al        Insulin degludec versus insulin glargine in    Lancet 2012; 379, (9825): 1498
+                    basal-bolus therapy with mealtime insulin      - 1507
+                    aspart in type 2 diabetes: a 52-week, phase 3,
+                    randomised, parallel-group, multinational,
+                    treat-to-target trial (BEGIN™ BB T2)
+Trial NN1250-3579
+Zinman et al.       Insulin Degludec versus insulin glargine in   Diabetes Care 2012 Vol: In
+                    insulin-naive patients with type 2. A 1-year, press
+                    randomized, treat-to-target trial (BEGIN™
+                    Once Long)
+Trial NN1250-3586   A Pan-Asian Trial comparing efficacy and      Clinical Trials.gov ID:
+                    safety of NN1250 and insulin glargine as add NCT01059799
+                    on to OAD(s) in subjects with type 2 diabetes
+                             TM
+                    (BEGIN : ONCE ASIA)
+Trial NN1250-3668   A 26-week Randomised, Controlled, open-       Clinical Trials.gov
+                    label, Multi-centre, multi-national three-arm ID:NCT01006291
+                    treat-to-target comparing efficacy and safety
+                    of three different dosing regimens of either
+                    NN1250 or Insulin glargine with or without
+                    combination with OAD treatment, in subjects
+                                                            TM
+                    with type 2 Diabetes Mellitus (BEGIN FLEX)
+Trial NN1250-3672   Comparison of NN1250 with insulin glargine    Clinical Trials.gov
+                                                               TM
+                    in patients with type 2 Diabetes (BEGIN )     ID:NCT01068665
+
+8.   Results of Trials
+The clinically relevant outcomes for benefits and harms were change in HbA1c and
+occurrence of hypoglycaemia.
+
+The results for change from baseline in HbA1c from the published trials (3583, 3582 and
+3579) are presented in the table below.
+
+Change from baseline in HbA1c across the trials
+ Trial     Degludec                             Glargine
+                                                                                                             a
+           Baseline   Endpoint LS Mean          Baseline         Endpoint LS Mean               Difference
+                                          a                                       a
+           Mean (SD) Mean (SD) change (SE) Mean                  Mean (SD) change               (95% CI)
+                                                (SD)                       (SE)
+ Type 1
+ basal bolus
+ 3583      N=472                                N=157                                            -0.01
+                      7.34 (0.05) -0.36 (0.05)                   7.35 (0.07) -0.34 (0.07)
+           7.7 (0.9)                            7.7 (1.0)                                       (-0.14, 0.11)
+
+                                     Public Summary Document
+                                     March 2013 PBAC Meeting
+                                             Page 2 of 6
+ Trial        Degludec                                  Glargine
+                                                                                                            a
+              Baseline   Endpoint LS Mean               Baseline    Endpoint LS Mean           Difference
+                                                a                                    a
+              Mean (SD) Mean (SD) change (SE) Mean                  Mean (SD) change           (95% CI)
+                                                        (SD)                  (SE)
+ Chi-square for heterogeneity: P= not provided
+  2
+ I statistic with 95% uncertainty interval = not provided
+ Type 2
+ basal oral
+ 3579         N=773                                     N=257                                  0.09
+                         7.11 (0.04) -1.06 (0.04)                   7.02 (0.06) -1.15 (0.06)
+              8.2 (0.8)                                 8.2 (0.8)                              (-0.04, 0.22)
+ Chi-square for heterogeneity: P= not provided
+  2
+ I statistic with 95% uncertainty interval = not provided
+ Type 2
+ basal bolus
+ plus oral
+ 3582         N=744                                     N=248                                  0.08
+                         7.19 (0.06) -1.10 (0.06)                   7.11 (0.08) -1.18 (0.08)
+              8.3 (0.8)                                 8.4 (0.9)                              (-0.05, 0.21)
+
+In all trials the non-inferiority of degludec to glargine for change in HbA1c was
+demonstrated, with the upper limit of the 95% CI for treatment differences less than 0.4%.
+The pooled analyses presented in the submission confirmed the non-inferiority of degludec
+and glargine.
+
+The submission presented results for occurrence of hypoglycaemic events (a safety outcome
+in the trials) as a secondary efficacy outcome. The PBAC noted that the individual trial
+results showed few differences between insulin degludec and glargine. Insulin degludec was
+statistically significant for non-severe nocturnal hypoglycaemia. The PBAC noted the data
+suggested a small reduction in hypoglycaemia, but that it remained unclear whether this
+would translate into clinically meaningful benefits. In particular, the PBAC noted
+              that severe hypoglycaemic events were not reduced;
+              the results for change in HbA1c from baseline across the trials, indicated the
+                 point estimate of HbA1c reduction was slightly less for insulin degludec than
+                 for glargine in Type 1 basal bolus patients;
+              the protocols used in the trials were a strict ‘treat to target’ design as required
+                 by the FDA and EMA regulatory authorities but that this may not be
+                 representative of clinical practice.
+
+The submission claimed advantages for change in quality of life based on the SF-36 results
+derived from a pooled meta-analysis which demonstrated a trend favouring insulin degludec
+in all of the treatment groups. The PBAC did not consider this claim was appropriate given
+that significant advantages were only observed on 3 of 10 sub-components for type 2 diabetes
+patients on a basal oral regimen, 1 of 10 sub-components for type 2 patients on basal bolus +
+oral regimen and no differences for type 1 diabetes patients.
+
+With regard to safety (other than hypoglycaemic events), the trial data suggested little
+difference between insulin degludec and glargine. No statistically significant difference was
+observed across the trials for most categories of adverse events. The PBAC noted concerns
+raised by the FDA about the potential for an increase in cardiovascular risk in subjects
+randomised to insulin degludec relative to the comparator. The PBAC noted that while two
+years of collected data identified no concerning safety issues, the long-term safety of insulin
+degludec remained unknown.
+
+                                       Public Summary Document
+                                       March 2013 PBAC Meeting
+                                               Page 3 of 6
+9.    Clinical Claim
+The submission described insulin degludec as non-inferior to glargine in terms of HbA1c
+control and superior in terms of comparative safety, with the latter due to a reduced risk of
+hypoglycaemia.
+
+The PBAC accepted the submission’s claim of non-inferior effectiveness but did not consider
+that the claim of superior safety was adequately supported given that it remained unclear
+whether the claimed reduction in hypoglycaemia will translate into clinical benefits.
+
+
+10. Economic Analysis
+The submission presented a stepped economic evaluation, based on direct randomised trials
+and using a modelled evaluation. The type of economic evaluation presented was a cost-
+utility analysis. Two models were presented, the first model was a ‘trial-based’ model using
+treatment utilities for degludec, and glargine along with literature sourced disutilities for self-
+monitoring of blood glucose (SMBG) testing and utilities for flexible dosing. The second
+model was described as ‘event-based’, and used literature-sourced disutility values for
+hypoglycaemic events, along with literature-sourced disutilities for SMBG testing and
+utilities for flexible dosing.
+
+The time horizon used in the modelled evaluation was 1 year, which the PBAC did not
+consider to be appropriate given the chronic nature of diabetes.
+
+The base case ICERs were all less than $10,000 per quality adjusted life year (QALY) for
+type 1 basal bolus, type 2 basal oral, type 2 basal bolus, all type 2 weighted and type 1 and 2
+weighted.
+
+The models were most sensitive to frequency of SMBG testing, an advantage for degludec
+that may not be seen in clinical practice. The PBAC did not consider that the assumption of
+lower SMBG use, the key driver in the model, was adequately justified.
+
+Assuming an equivalent frequency of SMBG for degludec and glargine, the ICERs ranged
+from less than $15,000 to between $75,000 and $105,000.
+
+For PBAC’s view, see Recommendation and Reasons.
+
+
+11. Estimated PBS Usage and Financial Implications
+The estimated net cost to the PBS was between $30-60 million in Year 5 and a total cost over
+the first 5 years of listing of over $100 million.
+
+12. Recommendation and Reasons
+The PBAC noted that the submission was submitted under TGA/PBAC parallel process. The
+clinical evaluation report was available to the PBAC at the time of consideration.
+
+The PBAC rejected the application to list insulin degludec on the basis that the claim of
+superior safety over insulin glargine was not adequately justified, and cost-effectiveness was
+therefore not supported. The modelling approach in the submission was not considered
+                                     Public Summary Document
+                                     March 2013 PBAC Meeting
+                                             Page 4 of 6
+appropriate by the PBAC and the results were mainly driven by potential differences in Self-
+Monitoring of Blood Glucose (SMBG) testing, rather than trial based differences. The ICERs
+generated showed a large variance in results across the type of diabetes and treatment
+regimen and were therefore considered unreliable.
+
+The submission argued that insulin degludec would lead to a lower use of SMBG. This
+reduction is a key driver of the model results. The PBAC did not consider that this
+assumption was adequately justified, and considered that these differences in cost should be
+excluded from the economic evaluation.
+
+Overall, the PBAC considered there were a number of issues with the model:
+    Some parameters included in the model were sourced from literature which did not
+     appear to be applicable to the proposed PBS population;
+    The use of a one year time horizon was not considered appropriate for a chronic disease
+     The SF-36 results from the trial were mapped to the EQ-5D for modelling. The PBAC
+     agreed with the ESC that it would have been more appropriate to base utilities on the
+     SF-6D algorithm rather than a mapping approach; and
+    Differences in quality of life assumed in the model were not considered adequately
+     supported by the trial results.
+
+The PBAC considered that the results of the model were highly uncertain, given the issues
+noted above. The PBAC was also concerned about the potential cardiovascular risks
+associated with insulin degludec, in the absence of any TGA advice on this issue.
+
+The PBAC considered that any re-submission should be a major submission. Based on the
+information available in the submission, a cost minimisation approach against glargine may
+be more appropriate. However, if a cost effectiveness claim is presented, the PBAC
+considered that any re-submission should address the issues raised about the duration of the
+model, the derivation of the utilities applied and the applicability of costs from literature to
+the proposed population.
+
+The PBAC noted that the submission is eligible for an Independent Review.
+
+Recommendation:
+Rejected
+
+13. Context for Decision
+The PBAC helps decide whether and, if so, how medicines should be subsidised in Australia.
+It considers submissions in this context. A PBAC decision not to recommend listing or not to
+recommend changing a listing does not represent a final PBAC view about the merits of the
+medicine. A company can resubmit to the PBAC or seek independent review of the PBAC
+decision.
+
+14. Sponsor’s Comment
+Novo Nordisk does not agree with the PBAC determination regarding the clinical uncertainty
+of the hypoglycaemia benefit of insulin degludec, and believes that any reduction in
+hypoglycaemia is of significant importance to the actual patient who experiences these
+events. Novo Nordisk is disappointed with the PBAC’s recommendation but will continue to
+
+                                    Public Summary Document
+                                    March 2013 PBAC Meeting
+                                            Page 5 of 6
+work constructively with the PBAC to ensure that insulin degludec is made available for
+patients and physicians dealing with the burden of diabetes as soon as possible.
+
+
+
+
+                                  Public Summary Document
+                                  March 2013 PBAC Meeting
+                                          Page 6 of 6
+

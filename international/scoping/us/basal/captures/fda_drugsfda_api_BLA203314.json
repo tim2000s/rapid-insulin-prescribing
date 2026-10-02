@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-02",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20180809",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "55149",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/203314Orig1s009ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "55157",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/203314s009lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20161216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "46234",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203314Orig1s003ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "46475",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/203314s003lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20220701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "71509",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/203314Orig1s018, s020ltr.pdf",
+              "date": "20220705",
+              "type": "Letter"
+            },
+            {
+              "id": "71511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203314s018s020lbl.pdf",
+              "date": "20220705",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20191115",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60895",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/203314Orig1s015, s016ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "60955",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/203314s015s016lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "43427",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/203313and203314Orig1s000TOC.html",
+              "date": "20200323",
+              "type": "Review"
+            },
+            {
+              "id": "51182",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/203314-Insulin-degludec-CDTL-clinical-prea.pdf",
+              "date": "20200323",
+              "type": "Pediatric CDTL Review"
+            },
+            {
+              "id": "51183",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/46_203313_203314 insulin degludec-insulin aspart clinical prea.pdf",
+              "date": "20200323",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "51186",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/47_203314 insulin degludec CDTL clinical prea.pdf",
+              "date": "20200323",
+              "type": "Pediatric CDTL Review"
+            },
+            {
+              "id": "51188",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/203313_203314_insulin degludec and insulin degludec-insulin aspart stat prea.pdf",
+              "date": "20200323",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "63075",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/203314-Insulin-degludec-clinpharm-prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "63076",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/203313-203314-insulin-degludec-and-insulin-degludec-insulin-aspart-statistical-prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "64939",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/203314-Insulin-degludec-insulin-aspart-clinical-prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "10195",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/203314Orig1s000ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "19454",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/203314lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20220701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "71510",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/203314Orig1s018, s020ltr.pdf",
+              "date": "20220705",
+              "type": "Letter"
+            },
+            {
+              "id": "71512",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/203314s018s020lbl.pdf",
+              "date": "20220705",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20181121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56554",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/203314Orig1s010ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "56721",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/203314s010lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20180326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "53462",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/203314Orig1s008ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "53508",
+              "title": "This Former NDA Was Deemed To Be a BLA on March 23, 2020.",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/203314s008lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            },
+            {
+              "id": "62329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/203314Orig1s008.pdf",
+              "date": "20180326",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20160624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160708",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20191115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60894",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/203314s015s016lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            },
+            {
+              "id": "60956",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/203314Orig1s015, s016ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA203314",
+      "sponsor_name": "NOVO",
+      "openfda": {
+        "application_number": [
+          "BLA203314"
+        ],
+        "brand_name": [
+          "TRESIBA",
+          "INSULIN DEGLUDEC"
+        ],
+        "generic_name": [
+          "INSULIN DEGLUDEC"
+        ],
+        "manufacturer_name": [
+          "Novo Nordisk",
+          "Novo Nordisk Pharma, Inc."
+        ],
+        "product_ndc": [
+          "0169-2550",
+          "0169-2660",
+          "0169-2662",
+          "73070-400",
+          "73070-403",
+          "73070-503"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "INSULIN DEGLUDEC"
+        ],
+        "rxcui": [
+          "1670011",
+          "1670016",
+          "1670021",
+          "1670023",
+          "2107520",
+          "2107522"
+        ],
+        "spl_id": [
+          "e5571110-ca7e-4fcc-88a8-9f1d0104c508",
+          "6bb8d7a1-4fd3-4c63-8a88-910bbcb3f1ad"
+        ],
+        "spl_set_id": [
+          "456c5e87-3dfd-46fa-8ac0-c6128d4c97c6",
+          "c1be283d-4b1d-4996-b2a7-4488dbff3037"
+        ],
+        "package_ndc": [
+          "0169-2660-15",
+          "0169-2660-90",
+          "0169-2660-97",
+          "0169-2550-13",
+          "0169-2550-90",
+          "0169-2550-97",
+          "0169-2662-11",
+          "0169-2662-90",
+          "73070-403-15",
+          "73070-503-15",
+          "73070-400-11"
+        ],
+        "nui": [
+          "M0011417",
+          "N0000175453"
+        ],
+        "pharm_class_cs": [
+          "Insulin [CS]"
+        ],
+        "pharm_class_epc": [
+          "Insulin Analog [EPC]"
+        ],
+        "unii": [
+          "54Q18076QB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRESIBA",
+          "active_ingredients": [
+            {
+              "name": "INSULIN DEGLUDEC",
+              "strength": "300 UNITS/3ML (100 UNITS/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRESIBA",
+          "active_ingredients": [
+            {
+              "name": "INSULIN DEGLUDEC",
+              "strength": "600 UNITS/3ML (200 UNITS/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRESIBA",
+          "active_ingredients": [
+            {
+              "name": "INSULIN DEGLUDEC",
+              "strength": "1000 UNITS/10ML (100 UNITS/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

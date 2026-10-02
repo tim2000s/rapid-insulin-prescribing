@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ajax-response><component id="ergM" ><![CDATA[<div id="ergM" class="">
+         <h2>Ergebnis</h2>
+         <table>
+            <thead>
+               <tr>
+                  <th id="id4f" class="">Präparat</th>
+                  <th id="id50" class="">Jahr</th>
+                  <th id="id51" class="">Wirkstoff</th>
+                  <th id="id52" class="">ATC-Code</th>
+                  <th id="id53" class="">Verordnungen<br/>in Tsd.</th>
+                  <th id="id54" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id55" class="">Rang<br/>Verord-<br/>nung</th>
+                  <th id="id56" class="">Nettokosten<br />in Tsd. Euro</th>
+                  <th id="id57" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id58" class="">Rang<br/>Netto</th>                  
+                  <th id="id59" class="">Tagesdosen<br/>in Tsd. DDD</th>
+                  <th id="id5a" class="">Änd. zum<br/>Vorjahr<br/>in %</th>
+                  <th id="id5b" class="">Rang<br/>DDD</th>
+                  <th id="id5c" class="hidden">Nettokosten je<br/>Verordnung</th>
+                  <th id="id5d" class="hidden">Nettokosten je<br/>Tagesdosis</th>
+               </tr>
+            </thead>
+            <tfoot>
+               <tr>
+                  <td id="id5e" class="">Summe </td>
+                  <td class="" id="id5f"></td>
+                  <td class="" id="id60"></td>
+                  <td class="" id="id61"></td>
+                  <td class="number" id="id62">8,7</td>
+                  <td class="number" id="id63">∞</td>
+                  <td class="number" id="id64"></td>
+                  <td class="number" id="id65">810,7</td>
+                  <td class="number" id="id66">∞</td>
+                  <td class="number" id="id67"></td>
+                  <td class="number" id="id68">497,3</td>
+                  <td class="number" id="id69">∞</td>
+                  <td class="number" id="id6a"></td>
+                  <td class="hidden" id="id6b">93,36</td>
+                  <td class="hidden" id="id6c">1,63</td>
+               </tr>
+               <tr>
+                  <td id="id6d" class="">Anteil an Gesamt in %</td>
+                  <td class="" id="id6e"></td>
+                  <td class="" id="id6f"></td>
+                  <td class="" id="id70"></td>
+                  <td class="number" id="id71">0,0</td>
+                  <td class="number" id="id72"></td>
+                  <td class="number" id="id73"></td>
+                  <td class="number" id="id74">0,0</td>
+                  <td class="number" id="id75"></td>
+                  <td class="number" id="id76"></td>
+                  <td class="number" id="id77">0,0</td>
+                  <td class="number" id="id78"></td>
+                  <td class="number" id="id79"></td>
+                  <td class="hidden" id="id7a"></td>
+                  <td class="hidden" id="id7b"></td>
+               </tr>
+               <tr>
+                  <td id="id7c" class="">Gesamt GKV</td>
+                  <td class="" id="id7d"></td>
+                  <td class="" id="id7e"></td>
+                  <td class="" id="id7f"></td>
+                  <td class="number" id="id80">656.881,7</td>
+                  <td class="number" id="id81"></td>
+                  <td class="number" id="id82"></td>
+                  <td class="number" id="id83">32.799.242,0</td>
+                  <td class="number" id="id84"></td>
+                  <td class="number" id="id85"></td>
+                  <td class="number" id="id86">40.304.305,6</td>
+                  <td class="number" id="id87"></td>
+                  <td class="number" id="id88"></td>
+                  <td class="hidden" id="id89"></td>
+                  <td class="hidden" id="id8a"></td>
+               </tr>
+            </tfoot>
+            <tbody>
+               <tr>
+                  <th>Abasaglar</th>
+                  <td>2015</td>
+                  <td>Insulin glargin</td>
+                  <td>A10AE04</td>
+                  <td class="number">8,7</td>
+                  <td class="number">0,0</td>
+                  <td class="number">3.670</td>
+                  <td class="number">810,7</td>
+                  <td class="number">0,0</td>
+                  <td class="number">2.635</td>
+                  <td class="number">497,3</td>
+                  <td class="number">0,0</td>
+                  <td class="number">3.100</td>
+                  <td class="hidden number">93,36</td>
+                  <td class="hidden number">1,63</td>
+               </tr>
+            </tbody>
+         </table>
+         
+         <form>
+            <input id="submitPraepExp" type="submit" value="Exportieren" class="floatleft" onclick="var win = this.ownerDocument.defaultView || this.ownerDocument.parentWindow; if (win == window) { window.location.href=&#039;./?0-1.ILinkListener-praeparat-praepErg-btnPraepExp&#039;; } ;return false"/>
+            <br class="break" />      
+         </form>
+      </div>]]></component><component id="id4e" ><![CDATA[<div class="feedback" id="id4e">
+  
+</div>]]></component></ajax-response>

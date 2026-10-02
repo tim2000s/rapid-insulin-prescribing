@@ -1,0 +1,284 @@
+                          Public Summary Document – November 2017 PBAC Meeting
+
+
+
+5.22 INSULIN LISPRO
+     injections (human analogue), cartridges, 200 units
+     per mL, 3 mL, 5
+     Humalog®U200 Kwikpen®, Eli Lilly Australia Pty Ltd.
+1        Purpose of Application
+1.1      The minor submission requested a new listing of a new strength of insulin lispro, 200
+         units per mL, 5  3 mL for the treatment of type I and II diabetes mellitus (DM).
+
+2        Requested listing
+2.1      The submission sought the same listing (restriction and price per unit) as the current
+         insulin lispro 100 units per mL, 5  3 mL cartridges.
+Name, Restriction,                         Max.     №.of        Dispensed Price         Proprietary      Name        and
+Manner of administration and form          Qty      Rpts        for Max. Qty            Manufacturer
+INSULIN LISPRO
+200 units/mL, 3 mL, 5                      5        5           ''''''''''''''''''''*   Humalog®       Eli Lilly Australia
+                                                                                        Kwikpen®       Pty Ltd
+*as calculated by the sponsor assuming a 16% statutory price reduction. Without the 16% the reduction the
+DPMQ would be $''''''''''''''''.
+Category /               GENERAL – General Schedule (Code GE)
+Program
+Prescriber type:            Dental   Medical Practitioners     Nurse practitioners      Optometrists
+                            Midwives
+Restriction   Level /    Unrestricted
+Method:
+
+
+
+3        Background
+3.1      Humalog 200 U/mL has been TGA registered since 9 November 2015 for the
+         treatment of patients with Type 1 (IDDM) and Type 2 (NIDDM) diabetes mellitus who
+         require insulin for the maintenance of normal glucose homeostasis.
+3.2      Humalog 200 U/mL was not considered previously by the PBAC.
+
+4        Population and disease
+4.1      Diabetes mellitus is a chronic condition characterised by abnormal sugar glucose
+         levels in the blood.
+4.2      Submission’s proposed place in therapy is for patients who require higher daily
+         insulin dose of >20 U.
+
+5        Comparator
+                                                           1
+                    Public Summary Document – November 2017 PBAC Meeting
+
+
+5.1    The minor submission nominated Humalog 100 U/mL Kwikpen as a main comparator
+       based on the TGA approval and acceptance of bioequivalence.
+
+6      Consideration of the evidence
+Sponsor hearing
+
+6.1    There was no hearing for this item as it was a minor submission.
+Consumer comments
+
+6.2    The PBAC noted that no consumer comments were received for this item.
+
+Clinical trials
+6.3    The submission presented a PK study which was designed to determine
+       bioequivalence between Humalog U100 and Humalog U200. The study was single-
+       centre, open label, two-sequence, four period, randomised, cross-over euglycemic
+       clamp study. The study was referenced in the TGA Clinical evaluator report. The
+       report stated that the two formulations are closely bioequivalent when administered
+       in the same amount and can be considered identical for clinical use on a unit for unit
+       basis.
+6.4    The TGA stated that bioequivalence between the U200 and U100 formulations of
+       insulin was clearly demonstrated by the single supporting study.
+
+Economic analysis
+
+6.5    As a minor submission, there was no economic comparison presented/ an economic
+       comparison was not relevant.
+6.6    While not stated in the explicitly in the submission the price requested for Humalog
+       200 U/mL equated to a cost minimisation at a cost per unit insulin basis with an
+       incorrect adjustment for a statutory 16% price reduction.
+6.7    The submission stated that 16% statutory price reduction may apply to insulin lispro
+       once the new form is listed on the PBS. While not a matter for the PBAC this is not
+       correct as the proposed new brand of pharmaceutical item is not bioequivalent or
+       biosimilar to an existing brand of a pharmaceutical item (ie subsection 99ACB(c)(ii) is
+       not satisfied). For the purposes of the National Health Act 1953 (Act), the
+       bioequivalence test is applied at the pharmaceutical item level. Two pharmaceutical
+       items containing the same drug but in different quantities can only be bioequivalent
+       if the bioavailability of the drug from those two pharmaceutical items is different. In
+       other words the Act test for bioequivalence does not allow the quantity of drug
+       administered to be varied to achieve bioequivalence – rather it assumes the quantity
+       of drug contained in the pharmaceutical item is the quantity that is administered.
+       The total insulin units in the pharmaceutical item for the currently listed forms of
+       insulin lispro are 1000 U for the 100 U/mL 10 mL vial and 1500 U for the 100 U/mL 5
+        3 ml cartridges, the requested listing of Humalog 200 U/mL 5  3 mL would result
+                                              2
+                    Public Summary Document – November 2017 PBAC Meeting
+
+
+       in a pharmaceutical item containing 3000 U of insulin. Insulin lispro will also not
+       move into the F2 formulary as a result of this listing.
+6.8    Based off the current AEMP for Humalog 100 U/mL per pack of $42.38 the AEMP for
+       Humalog 200 U/mL per pack would be $'''''''''''', which would equate to a DPMQ as
+       proposed of $''''''''''''.
+6.9    The sponsor in its pre-PBAC response (p 1,2) argued that the Department’s statement
+       that bioequivalence can only be determined by the same effective quantity of the
+       drug delivered to a patients if the entire quantity of the drug in each pharmaceutical
+       item is administered was an error of interpretation of the Act. The sponsor claimed
+       that as per subsection 99ACB(1), the Humalog U100 and U200 on the day of listing
+       would become existing brands of existing items; both Humalog’s have the same
+       manner of administration and are of the same form (cartridges) therefore both items
+       were bioequivalent. Moreover, the sponsor argued that the bioequivalence should
+       not be determined at the pharmaceutical item level. The PBAC noted the advice
+       from the Department and the sponsor pre-PBAC response however, it considered
+       that this was a matter for the Minister (delegate) to determine.
+6.10   The PBAC also noted that the sponsor provided a similar argument as above in their
+       pre-PBAC response (p 2) as to why the listing of Humalog U200 would trigger a move
+       to the F2 formulary. However, it also considered that this was a matter for the
+       Minister (delegate) to determine.
+Estimated PBS usage & financial implications
+
+6.11   The submission presented the budget impact modelling with a market share
+       approach.
+6.12   The minor submission estimated a net save to the PBS of less than $10 million per
+       year over the first 6 years of listing, The additional cost of listing Humalog 200 U/mL
+       is summarised in the table below (with no cost offsets) as well as the expected
+       patient/prescription numbers. The PBAC noted that the following estimates included
+       the effect of a 16% price reduction. The PBAC considered that if the price reduction
+       does not proceed, it was likely that the listing of the 200 U/mL presentation will
+       result in a cost to the PBS from reduced co-payments and from increased wastage
+       (as patients will receive up to 3000 rather than up to 1500 units of insulin at each
+       dispensing).
+
+
+
+
+                                              3
+                               Public Summary Document – November 2017 PBAC Meeting
+
+
+
+Table 1. Estimated number of Humalog 200 U/mL scripts per year.
+                                                 Year 1     Year 2                                                              Year 3                      Year 4                Year 5                   Year 6
+
+                                                                       '''''''''''''''''             ''''''''''''''''''           ''''''''''''''''           ''''''''''''''''       '''''''''''''''        '''''''''''''''
+Number of insulin lispro scripts dispensed
+                                                                       ''''''''''''''''               '''''''''''''''             ''''''''''''''''            '''''''''''''''       '''''''''''''''        ''''''''''''''''
+Humalog U200 share of market
+                                                                          ''''''''''                  ''''''''''''''               ''''''''''''''              '''''''''''''         ''''''''''''           ''''''''''''
+Number of Humalog U200 scripts dispensed
+                                                                          ''''''''''                  '''''''''''''''              ''''''''''''''              '''''''''''''         '''''''''''''          ''''''''''''
+Scripts dispensed through PBS
+                                                                             ''''                          ''''''                       ''''''                    ''''''                ''''''                  '''''
+Scripts dispensed through RPBS
+           Source: Submission p13
+
+           The redacted table shows that at year 5, the estimated number of scripts dispensed
+           was less than 10,000 per year.
+
+Table 2. Estimated cost of listing Humalog 200 U/mL to the PBS and RPBS over six years (no offsets)
+                                          Year 1        Year 2     Year 3     Year 4       Year 5                                                                                                          Year 6
+
+PBS
+Estimated cost of Humalog U200 to PBS*       '''''''''''''''''''''''           '''''''''''''''''''''''              '''''''''''''''''''''''           ''''''''''''''''''''      ''''''''''''''''''''''''   ''''''''''''''''''''''''
+
+Estimated PBS patient co-payment                ''''''''''''''''                    '''''''''''''''''''                 '''''''''''''''''              ''''''''''''''''''         '''''''''''''''''''        ''''''''''''''''''''
+
+Cost to the PBS                              ''''''''''''''''''''''            '''''''''''''''''''''''              '''''''''''''''''''''''          '''''''''''''''''''''''     ''''''''''''''''''''      ''''''''''''''''''''''''
+
+RPBS
+Estimated cost of Humalog U200 to              ''''''''''''''''''                    ''''''''''''''''                   '''''''''''''''                  '''''''''''''''           ''''''''''''''''          ''''''''''''''''''''
+RPBS*
+Estimated RPBS patient co-payment                  '''''''''                             '''''''''                         ''''''''''                      ''''''''''                  ''''''''                   ''''''''''
+
+Cost to the PBS                                ''''''''''''''''''                    ''''''''''''''''                   ''''''''''''''''                 '''''''''''''''           ''''''''''''''''            '''''''''''''''''
+
+Combined PBS and RPBS
+Estimated cost of Humalog U200 to            ''''''''''''''''''''''              ''''''''''''''''''''               ''''''''''''''''''''''''         '''''''''''''''''''''''    ''''''''''''''''''''''       ''''''''''''''''''''
+PBS/RPBS*
+Estimated PBS/RPBS patient co-payment           '''''''''''''''''               ''''''''''''''''''''''                 ''''''''''''''''''               '''''''''''''''''         ''''''''''''''''''          '''''''''''''''''''
+
+Cost to the PBS/RPBS                         '''''''''''''''''''''''            ''''''''''''''''''''''               ''''''''''''''''''''            ''''''''''''''''''''''''   '''''''''''''''''''''''     ''''''''''''''''''''''
+
+Source: Submission p14
+* including a 16% price reduction.
+
+
+
+
+                                                                                 4
+                                       Public Summary Document – November 2017 PBAC Meeting
+
+
+Table 3. Estimated overall net cost of listing Humalog 200 on the PBS
+RPBS                                 Year 1                  Year 2                    Year 3                                             Year 4                      Year 5                    Year 6
+Overall net cost to the PBS          ''''''''''''''''''''''' ''''''''''''''''''''''''' '''''''''''''''''''''''''                          '''''''''''''''''''''''''   '''''''''''''''''''''''   '''''''''''''''''''''''
+                                                             '                         ''
+Overall net cost to the RPBS         '''''''''''''''''       ''''''''''''''''''''      ''''''''''''''''''                                 '''''''''''''''''''         ''''''''''''''''          '''''''''''''''''''
+
+Overall net cost to the PBS/RPBS                       '''''''''''''''''''''''''   ''''''''''''''''''''''''   '''''''''''''''''''''''''   '''''''''''''''''''''''     ''''''''''''''''''''''    '''''''''''''''''''''''''
+                                                       '                                                                                                                                        '
+Combined overall net cost to the
+PBS/RPBS over six years*                                                                                                     ''''''''''''''''''''''
+Source: Submission p16
+* including a 16% price reduction.
+
+              The redacted table shows that at year 5, the estimated net savings to the PBS would
+              be less than $10 million per year.
+
+Quality Use of Medicines
+
+6.13          The submission did not identify any QUM issues however, the Department was
+              concerned that the listing of a new higher strength form of insulin lispro in the same
+              injection device as the 100 U/mL form may lead to patient confusion and possibly
+              result in over - and/or under - dosing and increased hypoglycaemic events. The
+              sponsor was requested to indicate how it proposed to mitigate this QUM issue.
+6.14          In its Pre-PBAC response (p 2), the sponsor proposed the following to address the
+              above QUM issue:
+             a)            Both Humalog packaging will be visually distinctive in colouring and style;
+             b)            Both injectors will deliver the same dose by altering the volume;
+             c)            It will continue to conduct a “know your insulin” program to educate patients
+                           on the insulin products, dosing and device;
+             d)            It will continue to run a patient support program (LDSS) to make sure patients
+                           commence their therapy correctly.
+6.15          The PBAC noted this response and advised that it was important that the sponsor
+              continue to provide support and education for diabetic patients.
+
+
+7             PBAC Outcome
+7.1           The PBAC recommended the listing of the new strength of insulin lispro Humalog
+              U200 for the treatment of type 1 and 2 diabetes mellitus. Listing was recommended
+              on a cost minimisation basis per unit of insulin with insulin lispro Humalog U100,
+              noting that a price reduction may be appropriate to achieve a listing that is cost-
+              neutral to Government in the context of an increased potential for wastage resulting
+              from the higher amount of drug provided with each dispensing.
+7.2           The PBAC considered that the listing of Humalog U200 may meet a small clinical
+              need for patients who require high daily doses of insulin lispro.
+
+                                                                                                     5
+                        Public Summary Document – November 2017 PBAC Meeting
+
+
+7.3      The PBAC recommended the listing of insulin lispro Humalog U200 under the same
+         listing conditions as the currently listed insulin Humalog U100.
+7.4      The PBAC advised that Humalog U200 should be included in items for prescribing by
+         nurse practitioners similar to the U100 strength.
+7.5      The PBAC recommended that the Early Supply Rule should apply.
+7.6      The PBAC noted that this submission was not eligible for an Independent Review as
+         it received a positive recommendation.
+
+
+Outcome
+Recommended
+
+8        Recommended listing
+8.1      Add new item
+
+Name, Restriction,                       Max.     №.of        Proprietary Name     Manufacturer
+Manner of administration and form        Qty      Rpts
+INSULIN LISPRO                                                Humalog®             Eli Lilly
+200 units/mL, 3 mL, 5                    5        5           Kwikpen®             Australia
+                                                                                   Pty Ltd
+
+
+Category /              GENERAL – General Schedule (Code GE)
+Program
+Prescriber type:           Dental   Medical Practitioners    Nurse practitioners   Optometrists
+                           Midwives
+Restriction   Level /   Unrestricted
+Method:
+
+
+
+9        Context for Decision
+The PBAC helps decide whether and, if so, how medicines should be subsidised in Australia.
+It considers submissions in this context. A PBAC decision not to recommend listing or not to
+recommend changing a listing does not represent a final PBAC view about the merits of the
+medicine. A company can resubmit to the PBAC or seek independent review of the PBAC
+decision.
+
+10       Sponsor’s Comment
+The sponsor had no comment.
+
+
+
+
+                                                         6
+

@@ -1,0 +1,1780 @@
+Refusjonsrapport – Levemir (insulin detemir) til behandling av diabetes type 1
+1
+
+Oppsummering
+
+Insulin detemir (Levemir) har indikasjon for behandling av diabetes mellitus. Novo Nordisk
+har søkt om refusjon etter blåreseptforskriftens § 9 for behandling av diabetes type 1.
+Det sentrale i behandlingen av diabetes er å unngå hendelser som fører til forringet
+livskvalitet og for tidlig død. Slike hendelser er særlig knyttet til komplikasjoner ved diabetes,
+både akutte og langtidskomplikasjoner. Et sentralt dilemma i behandlingen av diabetes er at
+ønsket om å redusere blodsukkernivået av hensyn til å unngå senkomplikasjoner kan komme i
+konflikt med økende hyppighet av hypoglykemier. Glykosylert hemoglobin (HbA1c) er et
+viktig mål på blodsukkernivået. Man måler andelen hemoglobinmolekyler i blodet som har
+bundet glukose til seg. Verdien gjenspeiler det gjennomsnittlige glukosenivået i blodet de
+siste 6 – 10 uker før målingen. Det er gjort studier som viser at det er en sammenheng mellom
+HbA1c og senkomplikasjoner ved diabetes.
+Ut fra en oppsummering av den kliniske effektdokumentasjonen er det rimelig å forvente at
+insulin detemir gir en beskjeden reduksjon i HbA1c sammenliknet med NPH-insulin. Den
+eksakte størrelsen på reduksjonen er imidlertid usikker. Effekten av å variere
+blodsukkerreduksjonen på modellens resultat er ikke analysert i sensitivitetsanalyser, bortsett
+fra et alternativ der forskjellen i HbA1c er fjernet helt. Selv om man antar at det ikke er noen
+forskjell i HbA1c mellom insulin detemir og NPH-insulin gir modellen resultater som
+vanligvis regnes som kostnadseffektive.
+Samlet sett virker det også rimelig å forvente at insulin detemir i gjennomsnitt gir en liten
+reduksjon i antallet milde hypoglykemier. Den eksakte størrelsen på reduksjonen er imidlertid
+usikker. Effekten av å variere reduksjonen i milde hypoglykemier på modellens resultat er
+analysert i sensitivitetsanalysen. Selv om man antar at det ikke er noen forskjell i milde
+hypoglykemier mellom insulin detemir og NPH-insulin gir modellen resultater som vanligvis
+regnes som kostnadseffektive.
+I tillegg til forskjell i HbA1c og rate av milde hypoglykemier ser det ut til at det som har størst
+betydning for modellens resultater er nytteverdier knyttet til senkomplikasjoner og
+hypoglykemier. Sensitivitetsanalysen viser at hvis man antar at hypoglykemier ikke gir
+reduksjon i livskvalitet øker kostnaden per QALY betydelig, men holder seg fortsatt innenfor
+det som vanligvis regnes som kostnadseffektivt. Også nyttetap ved andre komplikasjoner er
+av betydning for resultatet og er analysert i en sensitivitetsanalyse der man har brukt
+alternative nytteverdier fra Michigan. Denne analysen er imidlertid ikke tilfredsstillende. Det
+er ikke sett på effekten av å variere nyttetapet ved hypoglykemier og senkomplikasjoner
+samtidig.
+Et problem ved refusjonssøkers helseøkonomiske analyse er at det kun er gjennomført enveis
+sensitivitetsanalyser. Hvis man endrer sentrale variable til ekstreme verdier en for en synes
+modellen fortsatt å gi kostnadseffektive resultater. Et problem med enveis
+sensitivitetsanalyser er imidlertid at det er lett å finne ekstreme verdier, men vanskelig å
+bestemme hvor sannsynlige de er. Det er også ofte usannsynlig at enkeltparametre separat vil
+endre beslutningen. Selv om ikke en enkelt variabel alene ser ut til å endre beslutningen kan
+det være betydelig usikkerhet når flere variabler sees i sammenheng. Enveis
+
+1
+
+sensitivitetsanalyser undervurderer derfor usikkerheten. Problemet er at man ikke får sett
+effekten av samvariasjon i variablene, dvs. f. eks både redusere forskjellen i HbA1c og
+nyttetapet ved hypoglykemier samtidig. I tillegg er endring i HbA1c analysert deterministisk.
+Den helseøkonomiske analysen gir dermed et dårlig grunnlag for å vurdere konsekvensen av å
+variere flere variable samtidig.
+Refusjonssøkers helseøkonomiske analyse beregner at insulin detemir gitt som tillegg til
+kortidsvirkende insulinanalog til pasienter med diabetes type 1 gir en livstidsgevinst per
+pasient på 0,1 leveår og 0,19 kvalitetsjusterte leveår (QALY) sammenliknet med NPHinsulin. Sammenliknet med en forventet gjenværende kvalitetsjustert levetid per pasient på 7,7
+år ved behandling med NPH-insulin er mereffekten ved behandling med insulin detemir
+beskjeden (med en økning i gjenværende kvalitetsjustert levetid på 2,5 %). Merkostnaden per
+pasient var 24 970 kroner i løpet av gjenværende levetid. Dette gir en kostnad på i overkant av
+130 000 kroner per kvalitetsjustert leveår vunnet. Refusjonssøker beregner at ved en
+betalingsvilje på 350 000 kroner per QALY er det ca. 80 % sannsynlighet for at insulin
+detemir er kostnadseffektivt gitt beregningenes forutsetninger. Legemiddelverket antar at
+betalingsviljen for en QALY i det norske helsevesenet ligger over 350 000 kroner. En slik
+beregning sier ikke noe om konsekvensen av å ta feil og gir dermed ikke fullstendig grunnlag
+for å vurdere usikkerheten. Dette kan analyseres gjennom en analyse av net benefit. Dette er
+ikke gjort. Det ville også være mulig å analysere enkeltparametres betydning. Ut fra
+gevinstene i QALY og kostnadsforskjellene antar Legemiddelverket likevel at konsekvensene
+av å ta feil er relativt små.
+Ut fra den foreliggende dokumentasjon mener Legemiddelverket det er overvekt av
+sannsynlighet for at insulin detemir er kostnadseffektivt og at det oppfyller vilkårene for
+opptak på generell refusjon. Denne vurderingen er beheftet med usikkerhet. Noe av
+usikkerheten er tatt hensyn til. Det foreligger imidlertid ytterligere usikkerhet som det ikke
+har vært mulig å vurdere på en tilfredsstillende måte. Dette er knyttet til modellens
+transparens og dens håndtering av usikkerhet. Novo Nordisk har bekreftet at de kan bidra til at
+det framskaffes ytterligere dokumentasjon rundt modellens oppbygging og dens håndtering av
+usikkerhet. Når det gjelder usikkerhet kan dokumentasjon framskaffes i løpet av et par
+måneder. Mer dokumentasjon av selve modellen kan framskaffes raskt, men når endelig
+godkjente versjoner av denne dokumentasjon vil foreligge er usikkert.
+Legemiddelverket vil derfor anbefale at det før insulin detemir eventuelt gis generell refusjon
+innhentes ytterligere dokumentasjon om disse forholdene og at generell refusjon for insulin
+detemir gjøres avhengig av at det ikke kommer opp ting her som vesentlig svekker
+kostnadseffektiviteten eller øker usikkerheten. Legemiddelverket vil ta initiativ til at denne
+dokumentasjon framskaffes og at dette skjer så raskt som mulig.
+Konklusjonene over gjelder bruk av insulin detemir hos pasienter med diabetes type 1
+generelt. Det er sannsynlig at bruk innenfor de vilkår som er satt opp for delegering av
+individuell refusjon av NAV kan bedre kostnadseffektiviteten ytterligere. Et alternativ til
+generell refusjon for alle pasienter med diabetes type 1 kan derfor være generell refusjon for
+pasienter som oppfyller vilkårene spesifisert i punkt 4.3.
+
+2
+
+Innholdsfortegnelse
+1 Oppsummering ................................................................................................................................ 1
+Innholdsfortegnelse.................................................................................................................................. 3
+2 Søknadslogg..................................................................................................................................... 4
+3 Introduksjon/Bakgrunn .................................................................................................................... 4
+3.1
+Beskrivelse av det underliggende helseproblem .................................................................... 4
+3.2
+Eksisterende behandlingsmuligheter...................................................................................... 5
+4 Behandling med insulin detemir (Levemir)..................................................................................... 8
+4.1
+Om effektmål.......................................................................................................................... 8
+4.2
+Effektstudier ........................................................................................................................... 8
+4.3
+Terapianbefaling................................................................................................................... 13
+5 En legemiddeløkonomisk analyse av virkestoff (preparat) ........................................................... 14
+5.1
+Refusjonssøknadens modell- og metodeapparat .................................................................. 14
+5.2
+Sammenlikningsalternativ.................................................................................................... 15
+5.3
+Helseeffekter, helsegevinst ved vurderte behandlingsalternativ .......................................... 15
+5.4
+Modellering av effekten av insulin detemir på helsenytte (livskvalitet). ............................. 17
+5.5
+Kostnader ............................................................................................................................. 20
+5.5.1 Direkte kostnader ............................................................................................................. 20
+5.5.2 Indirekte kostnader........................................................................................................... 24
+5.5.3 Legemiddelets kostnadseffektivitet.................................................................................. 24
+5.6
+Andre helseøkonomiske analyser......................................................................................... 26
+6 Diskusjon ....................................................................................................................................... 27
+6.1
+En totalvurdering (og drøfting av søknadens begrensninger og metodesvakheter) ............. 27
+6.2
+Valg av refusjonsordning ..................................................................................................... 29
+7 Konklusjon..................................................................................................................................... 30
+8 Referanser ...................................................................................................................................... 31
+
+3
+
+2 Søknadslogg
+Refusjonssøker:
+Novo Nordisk A/S.
+Preparat:
+Virkestoff:
+
+Levemir
+Insulin detemir
+
+Indikasjon:
+
+Behandling av diabetes mellitus.
+
+ATC-nr:
+Søknadsprosess:
+
+A10AE05
+Søknad mottatt Statens legemiddelverk:
+Saksbehandlingstid løper fra: 2007-04-25
+Klokkestopp: 2007-10-15 til 2007-12-07
+Innstilling sendt til Helsedepartementet:
+Saksbehandlingstid: 199 dager
+
+2007-04-18
+
+2008-01-02
+
+Insulin detemir (Levemir) har indikasjon for behandling av diabetes mellitus. Novo Nordisk
+har søkt om refusjon etter blåreseptforskriftens § 9 for diabetes type 1. Det er beregnet at
+refusjon av insulin detemir for type 1 diabetes vil medføre merutgifter for folketrygden på
+over 5 millioner kroner per år om 5 år. Legemiddelverket fattet derfor den 18.09.2007 vedtak
+om at insulin detemir (Levemir) ikke oppfyller vilkårene for opptak på blå resept.
+Legemiddelverket har imidlertid likevel utredet legemidlets refusjonsverdighet i tråd med
+legemiddelforskriftens § 14-29.
+NovoNordisk har tidligere søkt om refusjon for insulin detemir (Levemir). Denne søknaden
+ble avslått i 2005. Hovedårsaken til at søknaden ble avslått var at det var brukt feil
+sammenlikningsalternativ.
+Legemiddelverket sendte forespørsel om tilleggsopplysninger 15. oktober 2007. Denne ble
+besvart i brev av 22. november 2007, i møte den 03. desember 2007 og i brev av 07.12.2007.
+Saksbehandlingstiden ble stoppet i perioden fram til 7. desember.
+Insulin detemir tas som subkutan injeksjon en eller to ganger per døgn.
+3 Introduksjon/Bakgrunn
+3.1 Beskrivelse av det underliggende helseproblem
+Diabetes kan dels skyldes manglende produksjon av insulin og dels at insulinet har manglende
+effekt på transporten av glukosen fra blodet til vevscellene (såkalt insulinresistens). Diabetes
+deles vanligvis inn i to hovedgrupper:
+Diabetes av type 1 skyldes at cellene i bukspyttkjertelen som produserer insulin gradvis
+ødelegges gjennom en autoimmunlignende prosess. Produksjonen av insulin vil dermed etter
+hvert stoppe opp. Uten insulin forblir glukosen i blodet og kan ikke brukes som energi for
+muskel og vevsceller. Dette er en dødelig tilstand og pasientene må derfor tilføres insulin.
+Diabetes type 1 kan starte i alle aldre, men vanligvis under 40 år (1).
+Diabetes av type 2 skyldes både redusert insulinproduksjon og redusert effekt av insulinet,
+dvs. at den glukosesenkende effekten av en gitt insulindose er mindre enn normalt. Type 2
+diabetes vil forverres over tid og det blir gradvis vanskeligere å opprettholde
+blodglukosekontrollen. Sykdommen begynner ofte som en insulinresistens. For å opprettholde
+
+4
+
+insulinnivået og holde glukosenivået nede vil bukspyttkjertelen svare med å produsere mer
+insulin. Over tid vil cellene som produserer insulin bli ”utbrent” og insulinutskillelsen vil
+gradvis bli redusert. Dette gjør at mange pasienter etter 5 – 10 års sykdom må behandles med
+insulin. Andelen er anslått til 30 – 40 % etter 10 års varighet av sykdommen (1).
+Det sentrale i behandlingen av diabetes er å unngå hendelser som fører til forringet
+livskvalitet og for tidlig død. Slike hendelser er særlig knyttet til komplikasjoner ved diabetes,
+både akutte- og senkomplikasjoner. Akutte komplikasjoner består særlig av hypoglykemier,
+dvs. at blodsukkernivået blir for lavt, mens senkomplikasjoner omfatter øyesykdom,
+nyresykdom, nevropati og hjerte- og karsykdom. Et sentralt dilemma i behandlingen av
+diabetes er at ønsket om å redusere blodsukkernivået av hensyn til å unngå senkomplikasjoner
+kan komme i konflikt med økende hyppighet av hypoglykemier. Frykten for hypoglykemier
+kan være en av faktorene som forklarer at man relativt ofte ikke oppnår behandlingsmålet når
+det gjelder blodsukkernivå.
+Basert på tall fra helseundersøkelsen i Nord-Trøndelag (HUNT), regner man med at
+prevalensen av diabetes hos voksne i Norge ligger i overkant av 3 %, dvs. 90 – 120 000
+personer (1). Det finnes imidlertid mange med uoppdaget diabetes. Man regner med at 85 %
+av de med diabetes har diabetes av type 2. Dette betyr at hvis vi anslår det å være 110 000
+personer med diagnosen diabetes i Norge i dag, er det ca 90 000 med diabetes type 2 og ca 20
+000 med type 1.
+3.2
+
+Eksisterende behandlingsmuligheter
+
+Pasienter med diabetes type 1 må ha insulintilførsel for å overleve, dvs. for å unngå
+hyperglykemi og ketoacidose. Det er også vist gjennom store kliniske studier, særlig Diabetes
+Control and Complications Trial (DCCT) (2) at intensiv behandling med insulin reduserer
+risikoen for mikrovaskulære senkomplikasjoner. Type 1 diabetikere har en økt risiko for
+hjertekarsykdom og epidemiologiske studier har vist en sammenheng mellom diabetes type 1
+og hjertekarsykdom. Det fantes imidlertid lenge ingen randomiserte kliniske studier som
+hadde vist at reduksjon i blodsukker kunne redusere forekomsten av hjertekarsykdom, f eks
+var det for få hendelser i DCCT til at man kunne finne signifikante forskjeller mellom
+behandlingsgruppene (2).
+En oppfølgingsstudie av DCCT (3), publisert i 2005, støtter imidlertid teorien om høyt
+blodsukker som årsak til hjertekarsykdom. Opprinnelig ble 1441 pasienter uten
+hjertekarsykdom, høyt blodtrykk eller kolesterol randomisert til intensiv og tradisjonell
+blodsukkerkontroll og fulgt opp i gjennomsnittlig 6,5 år. Ved avslutning av studien var
+HbA1c 1,7 % lavere hos pasientene som fikk intensiv behandling. Pasientene kunne velge å
+være med på en oppfølging av denne studien, kalt EDIC. Alle pasienter ble da tilbudt intensiv
+behandling og i løpet av studien forsvant forskjellen i blodsukkernivå. Etter 17 års oppfølging
+(inkl. 6,5 år i DCCT) var det fortsatt 93 % av de opprinnelige pasientene som var med i
+studien. Intensiv behandling reduserte risikoen for alle typer hjertekarsykdom med 42 % (95
+% KI 9 til 63 %, p=0,02). Absolutt reduksjon i rate av hendelser var 0,42 per 100 pasientår,
+fra 0,8 per 100 pasientår til 0,38 per 100 pasientår (3). En regresjonsanalyse viser at noe av
+reduksjonen i risiko for hjertekarsykdom antakelig går via nyresykdom som er sterkt assosiert
+med økt risiko for hjertekarsykdom. HbA1c forklarer en stor del av forskjellen i risiko for
+hjertekarsykdom. En 10 % reduksjon i HbA1c var assosiert med en 20 % reduksjon i risiko
+for kardiovaskulære hendelser.
+
+5
+
+CORE-modellen henter imidlertid ikke risikodata fra DCCT/EDIC, men fra UKPDS og
+Framingham-studien. United Kingdom Prospective Diabetes Study (UKPDS) (4) ble gjort på
+pasienter med type 2 diabetes. UKPDS studien varte i 20 år fra 1977 til 1997 og ble gjort i
+sentre i Storbritannia. UKPDS studerte effekten av å redusere blodsukkernivået på risiko for
+senkomplikasjoner hos pasienter med diabetes type 2. Risikoen avhenger av alder, hvor lenge
+man har hatt diabetes, kjønn, rase, røykevaner, HbA1c, systolisk blodtrykk, kolesterol (TC).
+Det er i CORE antatt at disse dataene kan overføres til pasienter med diabetes type 1.
+UKPDS-risk engine ble brukt som kilde for risiko for første hjerteinfarkt og slag, mens
+Framingham ble brukt for senere hjerteinfarkt og hjertesvikt. Framinghamstudien var en
+epidemiologisk studie som ble startet i byen Framingham i USA like etter andre verdenskrig.
+Framinghamstudien ble opprinnelig gjort på pasienter uten tidligere koronarsykdom. I den
+helseøkonomiske analysen er det imidlertid brukt oppdaterte data fra Framingham basert på
+artiklen til D’Agostino (5). D’Agostino rapporterer data fra Framingham med separate
+modeller for menn og kvinner og pasienter med og uten etablert koronarsykdom. Studien
+inkluderer måling 11 (1968 – 1971) og 15 (1977 – 79) for Framingham-kohorten og syklus 1
+– 3 for barn og ektefeller av personer som deltok i Framingham (egen studie) (1971-5, 79 – 82
+og 84-87). 1 176 undersøkelser ble inkludert for etablert koronarsykdom mot 10 156 for
+friske. CORE-modellen bruker data fra UKPDS fordi Framingham-studien inkluderte svært få
+personer med diabetes og epidemiologiske studier viser at pasienter med diabetes har høyere
+risiko for hjertekarsykdom enn befolkningen ellers.
+Behandling med insulin vil være individuell og må tilpasses behovet til den enkelte pasient
+bla. basert på hyppige egenmålinger av blodsukker. Doseringen er derfor også individuell,
+men kroppsvekt er en viktig faktor. Målet er høye insulinverdier etter måltid og lavere stabile
+verdier mellom måltider og om natten (6). NSAM har satt opp følgende behandlingsmål:
+Fastende blodglukose mellom 5 og 6 mmol/L og ellers 4,5 – 10 mmol/L. Dette tilsvarer
+HbA1c under 7 %. For eldre (personer over 75 år) ligger anbefalingene noe høyere (HbA1c <
+9 %) (1). Ved økt fysisk aktivitet bør man spise mer og redusere dosen insulin.
+Insulin kan deles i tre typer:
+Hurtigvirkende humaninsulin og insulinanaloger. Hurtigvirkende humaninsulin begynner
+å virke etter ca 30 minutter, får maksimal virkning etter 1 – 3 timer og virkningen opphører
+stort sett etter 5 – 8 timer. Insulinanalogene har enda hurtigere virkningstid. Hurtigvirkende
+insulin tas i forbindelse med måltider.
+Middels langsomtvirkende insulin (NPH-insulin). Ofte også kalt langtidsvirkende insulin.
+Disse begynner å virke etter ca 1,5 timer og har maksimal virkning mellom 4 og 12 timer.
+Etter 24 timer er effekten opphørt. NPH-insulin brukes som basisinsulin for å gi en mest
+mulig jevn tilførsel av insulin gjennom hele døgnet (mellom måltidene)
+Faste blandinger av hurtigvirkende insulin og middels langsomtvirkende insulin. Disse
+tas i tilknytning til måltidene. De to typene insulin beholder sin virkningskurve selv om de
+blandes. Dette er et enklere behandlingsregime og var mer brukt før.
+De senere årene har vi også fått langtidsvirkende insulinanaloger som insulin glargin og
+insulin detemir.
+Selv om behandlingen skal tilpasses den enkelte kan den likevel sies å ta form av noen få
+behandlingsregimer (1):
+
+6
+
+•
+
+•
+
+Flerinjeksjonsregime innebærer at middels langsomtvirkende insulin injiseres 1 eller 2
+ganger om dagen (som oftest kveld) og hurtigvirkende før hvert måltid. Dette gir
+bedre kontroll, fleksibilitet og etterligner kroppens naturlige insulinnivå, men krever
+mer innsikt og egenkontroll. Dette er standardbehandlingen i dag og bør anvendes av
+de fleste. Også regimer hvor man tar NPH-insulin opp til 4 ganger om dagen er kjent.
+Dette er vanligere i Syd-Europa, men ikke i Norge.
+Andre regimer. To eller tre injeksjoner med blandingsinsulin (hurtigvirkende og
+langtidsvirkende insulin ferdig blandet) per dag. Noen får for høyt blodsukker ved kun
+to injeksjoner og bruker blandingsinsulin morgen, hurtigvirkende til middag og
+langtidsvirkende til kvelden.
+
+Det er flere tegn som tyder på at kvaliteten på dagens diabetes behandling ikke er god nok.
+Data fra HUNT viste at halvparten av pasientene under 75 år hadde HbA1c over 7,5 %, dvs.
+over de tidligere anbefalte behandlingsmålet som nå er senket (1). Frykt for hypoglykemier
+kan være en av faktorene som forklarer at man ikke oppnår behandlingsmålet, dvs. at man
+ikke behandler aggressivt nok av frykt for hypoglykemier.
+Salg av langtidsvirkende insulin
+Tabell. 1. Salg av langtidsvirkende insulin siste 12 måneder sammenliknet med foregående 12
+måneder. Mill. kroner.
+
+NPH-insulin
+Langtidsvirkende
+analoger
+Langtidsvirkende
+insulin totalt
+
+des. 2005 nov. 2006
+Andel
+123,6
+
+des. 2006 nov. 2007
+Andel
+81%
+120,1
+
+74%
+
+29,7
+
+19%
+
+41,9
+
+26%
+
+153,3
+
+100%
+
+162
+
+100%
+
+Tabell viser at langtidsvirkende insulin solgte for 162 mill. kroner siste 12 måneder. Dette var
+en økning på i underkant av 6 % fra foregående 12 måneder. Målt i definerte døgndoser økte
+salget med 2 %. De langtidsvirkende insulinanalogenes andel av markedet for
+langtidsvirkende insulin var på 26 % de siste 12 måneder. Målt i definerte døgndoser var
+deres markedsandel 16 % noe som var en vekst på 4 prosentpoeng fra foregående 12 måneder.
+Det var i 2006 i følge Reseptregisteret ca. 2 300 personer som hentet ut insulin detemir minst
+en gang. Det var i alt 6 200 personer som fikk utlevert langtidsvirkende insulinanaloger. Tall
+for 2007 foreligger ikke enda. Det antas at det store flertallet av disse får individuell refusjon
+for insulin detemir.
+Langtidsvirkende insulin brukes både av pasienter med diabetes type 1 og 2. Det finnes ingen
+statistikk over hvordan salget fordeler seg på disse to pasientgruppene. Hvis man regner med
+at det er 25 000 pasienter med diabetes type 1 og at de bruker en definert døgndose per dag
+kan pasienter med diabetes type 1 maksimalt stå for ca 60 % av forbruket av langtidsvirkende
+insulin. Dette er antakelig en overdrivelse da definert døgndose for insulin tar utgangspunkt i
+totalforbruket som for mange også vil inkludere kortidsvirkende insulin. Dette betyr antakelig
+at en stor andel av salget av langtidsvirkende insulin går til pasienter med diabetes type 2,
+sannsynligvis over 50 %.
+
+7
+
+4 Behandling med insulin detemir (Levemir)
+4.1 Om effektmål
+Diagnostisering og behandlingsmål for diabetes er nøye knyttet opp mot målinger av
+glukosenivået i blodet. Blodglukose kan måles på flere måter:
+• Ikke fastende (dvs. når som helst uten hensyn til måltid).
+• Fastende dvs. etter faste i 8 – 14 timer. Dette er et vanlig mål. Man måler her mengden
+glukose i blodet i mmol per liter. Blodet består av plasma (væske) og levende celler
+(røde og hvite blodceller og blodplatene). Fastende glukosenivå kan måles både som
+andel glukose i plasma og andel glukose i blodet totalt, dvs. med alle dets
+bestanddeler). Dette måles i mg per dl eller mmol per l. Fastende plasmaglukose
+forkortes ofte FPG og fastende blodglukose forkortes ofte FBG.
+• Blodglukosverdi 2 timer etter inntak av 75 g glukose (2-h PG). Man måler her
+blodsukkernivået i etterkant av et standardisert ”måltid”.
+• I tillegg er glykosylert hemoglobin (HbA1c) et viktig mål. Man måler andelen
+hemoglobinmolekyler i blodet (en viktig bestanddel i røde blodlegemer) som har
+bundet glukose til seg. Verdien gjenspeiler det gjennomsnittlige glukosenivået i blodet
+de siste 6 – 10 uker før målingen. HbA1c gir et bedre bilde av glukosenivået over tid
+enn enkeltmålinger av glukosenivå fordi det er mindre følsomt for tilfeldige
+svingninger (1).
+4.2
+
+Effektstudier
+
+Det sentrale i behandlingen av diabetes er å unngå hendelser som fører til forringet
+livskvalitet og for tidlig død. Slike hendelser er særlig knyttet til komplikasjoner ved diabetes,
+både akutte og langtidskomplikasjoner. Det sentrale endepunktet (effektmålet) er derfor
+vanligvis antall slike hendelser. Hvis man kan dokumentere at det er sannsynlig at et
+legemiddel vil ha effekt på insidensen av senkomplikasjoner vil dette ha stor innvirking på
+legemidlets kostnadseffektivitet både via sparte ressurser i helsevesenet, økt livskvalitet og
+sparte leveår. Mål på blodsukkernivå er å anse som et mellomliggende endepunkt. HbA1c er
+det viktigste mellomliggende endepunkt fordi det er gjort studier som viser at det er en
+sammenheng mellom HbA1c og senkomplikasjoner ved diabetes (DCCT ved diabetes type 1
+og UKPDS ved type 2). Det er ikke gjennomført studier som direkte har sett på effekten av
+insulin detemir på senkomplikasjoner. Dette ville krevd studier over lang tid – 10 år eller mer.
+Dokumentasjon av effekten av insulin detemir på HbA1c er derfor viktig for å kunne
+ekstrapolere effekten i forhold til senkompliaksjoner.
+Novo Nordisk har i sin helseøkonomiske analyse regnet med at insulin detemir gir en
+beskjeden reduksjon i HbA1c sammenliknet med behandling med vanlig humant insulin
+(langtidsvirkende NPH-insulin). Dette er basert på en meta-analyse av 3 randomiserte kliniske
+studier. Tabell 1 viser en oversikt over relevante studier av effekten av Levemir. Studiene som
+ble inkludert i Novo Nordisk meta-analyse er uthevet.
+
+8
+
+Tabell 2. Oversikt over randomisert, langvarige kliniske studier av effekten av insulin detemir på
+HbA1c og hypoglykemier.
+Forskjell i
+HbA1c i
+Levemirgruppen
+HbA1c ved vs NPHVarighet Antall
+gruppen
+uker
+behandlet start
+
+Symptomatiske
+og ikkesymptomatiske
+hypoglykemier
+totalt. Relativ
+risiko
+
+Forfatter
+
+Sammenlikning
+
+RussellJones
+2004
+
+Detemir+humant
+korttidsvirkende
+insulin vs NPH+
+humant
+korttidsvirkende
+insulin
+
+26
+
+747
+
+8,35/8,35
+
+-0,12
+(i.s.)
+
+0,94 (n.s)
+
+Home
+2004
+
+Detemir+insulin
+aspart vs.
+NPH+insulin aspart
+
+16
+
+408
+
+8,6/8,7/8,5
+
+-0,18
+
+ca 0,7
+
+Pieber
+(2005)
+
+Detemir+insulin
+aspart vs.
+NPH+insulin aspart
+
+16
+
+400
+
+ca 8,1
+
+0,01 til 0,13 (i.s.)
+
+i.s
+
+18
+
+595
+
+8,48/8,29
+
+-0,22
+
+0,79
+
+2x16
+
+130
+
+7,9
+
+i.s
+
+0,82
+
+Determir+insulin
+aspart vs. NPH+
+humant
+Hermansen korttidsvirkende
+insulin
+2004
+Kølendorf
+(2006)
+
+Determir+insulin
+aspart vs
+NPH+insulin aspart
+
+Nattlige
+symptomatiske
+og ikke
+Alvorlige. symptomatiske
+Relativ
+hypoglykemier.
+risiko
+Relativ risiko
+
+Alvorlige
+nattlige.
+Relativ
+risiko
+
+0,97 (i..s)
+
+0,8 (i..s)
+
+0,74
+
+0,5 i den ene
+detemir armen
+
+i.s
+
+i.s
+
+i.s
+
+i.s
+
+0,45
+
+0,17
+
+0,5
+
+i.s
+
+i.s = ikke signifikant på 0,05 nivå
+
+Det finnes mange studier på effekten av Levemir. En del av disse er kortvarige studier eller
+åpne oppfølgingsstudier. En del er også gjort på en annen formulering (1200 nmol/l) enn den
+som er kommet i salg (2400 nmol/l). En studie sammenliknet insulin detemir med insulin
+glargin og fant ingen forskjell i reduksjon av HbA1c fra utgangspunktet. Det var heller ingen
+forskjeller i hypoglykemier totalt, selv om insulin detemir ga lavere risiko for alvorlige og
+nattlige hypoglykemier (7).
+Når man ser på langvarige, kliniske randomiserte studier av effekten av insulin detemir med
+den formuleringen som selges i dag, står man imidlertid igjen med noen få. Vi finner 5
+relevante studier. Av disse har studien til Hermansen i tillegg til forskjellig langtidsvirkende
+insulin også forskjellig måltidsinsulin i de to armene. Denne måler dermed ikke bare effekten
+av insulin detemir og er dermed ikke rimelig å inkludere i en meta-analyse. Av de gjenstående
+4 studiene er altså 3 inkludert i Novo Nordisk meta-analyse. I tillegg finner vi en studie på
+130 pasienter med diabetes type 1 (8). Pasientene ble randomisert til insulin detemir eller
+NPH-insulin to ganger daglig i 2 perioder på 16 uker i en cross-over design.
+Studiene er kort omtalt under:
+Russell-Jones 2004 (9). I alt 747 pasienter fikk minst en dose insulin detemir eller NPHinsulin. Insulin detemir og NPH-insulin ble kun gitt en gang om dagen (kveld). Pasientene
+fikk også måltidsinsulin.
+
+9
+
+Hermansen 2004 (10). Studien sammenlikner insulin detemir i kombinasjon med insulin
+aspart med NPH-insulin i kombinasjon med humant kortidsvirkende insulin. Måltidsinsulinet
+(korttidsvirkende insulin) i de to studiearmene er altså ikke det samme. Studien isolerer
+dermed ikke effekten av insulin detemir. 595 pasienter ble gitt minst en dose insulin detemir
+eller placebo. Insulin detemir gitt morgen og kveld sammenliknes med NPH-insulin gitt
+morgen og kveld.
+Home 2004 (11). I alt 408 pasienter fikk minst en dose detemir eller placebo. Insulin
+determir-gruppen er delt i to: en som fikk insulin detemir frokost og kveld og en som fikk
+insulin detemir ved faste 12 timers intervaller. Insulin detemir sammenliknes med NPH
+insulin gitt morgen og kveld. Begge grupper fikk måltidsinsulin i form av insulin aspart.
+Pieber 2005 (12). I alt 400 pasienter fikk minst en dose detemir eller NPH-insulin. Insulin
+detemir-gruppen er delt i to: en gruppe fikk insulin detemir morgen og kveld og en annen
+gruppe fikk insulin detemir morgen og middag. Disse gruppene sammenliknes med NPHinsulin gitt morgen og kveld. Begge grupper fikk insulin aspart som måltidsinsulin.
+Kølendorf 2006 (8). 130 personer fikk insulin detemir eller NPH-insulin i kombinasjon med
+måltidsinsulin i to 16 ukers perioder. Insulin detemir og NPH-insulin ble gitt før frokost og
+ved sengetid. Etter den første perioden byttet pasientene langtidsvirkende insulin. Primært
+endepunkt var antall hypoglykemier.
+Novo Nordisk har fått utført en metaanalyse basert på 3 av disse studiene, der effekten av
+insulin detemir med hensyn på HbA1c, hypoglykemier og vekt er vurdert. Meta-analysen er
+gjort på de individuelle pasientdataene fra studiene og intention-to-treat populasjonen er
+inkludert. Pasientgruppene i de to armene var like i utgangspunktet når det gjaldt
+demografiske kjennetegn, HbA1c, vekt, blodtrykk og blodlipider.
+Alle de tre studiene var non-inferiority studier, dvs. at formålet var å vise at insulin detemir
+ikke gir en dårligere utvikling i HbA1c enn NPH insulin. Resultatet av studiene viser at det er
+rimelig å konkludere med at insulin detemir ikke er dårligere enn NPH-insulin når det gjelder
+effekt på HbA1c.
+Resultater fra meta-analysen er vist i tabell 3.
+Tabell 3. Forskjeller i effekt mellom insulin detemir og NPH-insulin i meta-analysen.
+Endepunkt
+Insulin detemir
+NPH-insulin
+Forskjell
+p-verdi
+HbA1c
+- 0,47
+-0,34
+-0,13
+=0,0057
+(endring)
+Vekt (kg)
+75,8
+76,4
+-0,6
+<0,0001
+BMI
+-0,04
+0,17
+-0,21
+<0,0001
+Hypoglykemier
+50,6
+52,93
+-2,33
+n.a
+per pasientår
+Alvorlige
+0,31
+0,07
+n.a
+0,38
+hypoglykemier
+per pasientår
+
+I tillegg til studiene over er ytterligere en studie nylig presentert på EASD (European
+Association for the Study of Diabetes) i september 2007. I denne studien er insulin detemir
+
+10
+
+sammenliknet med NPH-insulin over to år. Det er imidlertid for tidlig å vurdere resultatene
+fra denne studien da den kun er publisert som et abstrakt.
+Blodsukker
+
+Det er i den helseøkonomiske analysen lagt til grunn at insulin detemir kan redusere HbA1c
+med 0,13 % (absolutt) sammenliknet med NPH-insulin. Dette er basert på meta-analysen
+omtalt over.
+I forbindelse med godkjenningen av Levemir i EMEA ble det gjort en meta-analyse av de tre
+studiene til Russell-Jones, Pieber og Home (13). Denne viser at behandling med insulin
+detemir ga en absolutt reduksjon i HbA1c på 0,11 % (95 % KI 0,01 % – 0,20 %)
+sammenliknet med NPH-insulin. Dette var en meta-analyse gjort på gjennomsnittseffektene
+fra studiene og ikke på individuelle pasientdata.
+Non-inferiority marginen i de tre studiene ble definert til 0,4 %, dvs. at den største forskjellen
+i HbA1c i insulin detemirs disfavør som kan aksepteres for at de to behandlingene likevel skal
+kunne ansees som likeverdige, ble satt til 0,4 %. Ut fra resultatene fra de to meta-analysene
+virker det imidlertid rimelig å anta at insulin detemir gir en liten statistisk reduksjon i HbA1c.
+Det er imidlertid tvilsomt om denne effekten er klinisk relevant for den enkelte pasient.
+Hypoglykemier
+
+Når det gjelder hypoglykemi spriker resultatene fra studiene. Ser vi bort fra Hermansens
+studie der det ble gitt ulikt måltidsinsulin i de to armene, viser 2 av de 4 gjenværende studiene
+reduksjon i raten av hypoglykemier totalt ved behandling med insulin detemir. I dette er det
+også inkludert hypoglykemier som kun er bekreftet ved blodsukkermåling og ikke gir
+symptomer. Man kan diskutere om ikke-symptomatiske hypoglykemier bør inkluderes, men
+det er et poeng at selv om pasienten ikke merker hypoglykemien i det den inntreffer f. eks om
+natten, kan det føre til at pasienten føler seg lite opplagt og kan ha redusert ytelsesevne dagen
+etter. Det finnes imidlertid lite dokumentasjon av hvordan slike hypoglykemier påvirker
+pasientenes livskvalitet. En (Russel-Jones 2004) av de tre studiene viser effekt på mindre
+alvorlige symptomatiske nattlige hypoglykemier. I tillegg viser 3 studier (Russel-Jones 2004,
+Home 2004, Kølendorf 2006) effekt på et samlet mål av symptomatiske og ikkesymptomatiske nattlige hypoglykemier. I studien til Home var forskjellen kun signifikant i
+den ene insulin detemirarmen. Ingen av studiene viste signifikant forskjell i alvorlige
+hypoglykemier. I den grad hypoglykemier totalt eller mindre alvorlige hypoglykemier totalt er
+signifikante ser det i stor grad ut til å være resultat av reduksjonen i de nattlige
+hypoglykemiene.
+I European Public Assesment Report oppsummerer man effekten på hypoglykemier med at
+insulin detemir totalt sett gir lik risiko for hypoglykemier som NPH-insulin. Dette er basert på
+de sentrale studier av pasienter med både type 1 og 2 diabetes. Videre analyser av nattlige
+hypoglykemier viser imidlertid en redusert risiko for milde nattlige hypoglykemier hos type 1
+diabetikere (13).
+Det er viktig å understreke at flertallet av pasienter med diabetes type 1 ikke har særlige
+problemer med nattlige hypoglykemier. Kliniske eksperter har anslått at 20 – 30 % av
+pasientene har problemer med slike hypoglykemier (jf. møte i Blåreseptnemnda 25/1-05 (14)).
+
+11
+
+I den helseøkonomiske analyse har Novo Nordisk lagt vekt på ”major hypoglykemier” og alle
+hypoglykemier totalt. ”Major hypoglykemi” vil si en hypoglykemisk hendelse som krever
+assistanse fra en annen person. Dette er heretter kalt alvorlig hypoglykemi. I den
+helseøkonomiske analysen er det på bakgrunn av meta-analysen regnet med at behandling
+med insulin detemir kan gi en reduksjon i alle hypoglykemier på 2,33 hendelser per pasientår.
+Ut fra dokumentasjonen over virker det rimelig å anta at insulin detemir kan gi en liten
+reduksjon i raten av milde hypoglykemier som kan være klinisk relevant.
+Som vi har sett er det ikke grunnlag i de sentrale studiene eller i EMEAs meta-analyse for å
+anta en reduksjon i alvorlige hypoglykemier. I Novo Nordisk meta-analyse finner man at
+alvorlige hypoglykemier øker med 0,07 hendelser per pasientår ved behandling med insulin
+detemir.
+Vekt
+
+De randomiserte studiene viser en konsistent, men beskjeden, lavere kroppsvekt i insulin
+detemir-gruppen sammenliknet med NPH-gruppen. Vektforskjellen er mindre enn 1 kg i løpet
+av 4 – 6 måneder. Novo Nordisk finner i sin meta-analyse en vektforskjell på 0,64 kg.
+Effekten av å unngå en så liten vektøkning for type 1 diabetikere er av Blåreseptnemnda
+bedømt som ikke klinisk relevant (se tidligere oversendt referat fra møte i Blåreseptnemnda).
+Pasienter med diabetes type 1 har vanligvis mindre problemer med fedme og vektøkning enn
+pasienter med type 2 diabetes.
+Vekt brukes ikke direkte i den helseøkonomiske modellen. Vekt kommer i stedet inn som del
+av BMI. I meta-analysen fant man en forskjell i endring av BMI fra utgangspunktet på 0,21
+km/m2 til fordel for insulin detemir. BMI spiller imidlertid en beskjeden rolle i modellen når
+det gjelder risiko for senkomplikasjoner. Modellen justerer kun kvinners risiko for hjertesvikt
+som en funksjon av BMI. Kilde for dette er Framingham-studien som fant at BMI var en
+uavhengig risikofaktor for hjertesvikt hos kvinner, men ikke hos menn. Ut fra dette må det
+antas at HbA1c og hypoglykemier er de viktigste driverne i modellen, mens BMI og vekt
+spiller en beskjeden rolle.
+PREDICTIVE
+Dette er en stor åpen, prospektiv, observasjonsstudie uten kontrollgruppe som har fulgt
+pasienter med diabetes type 1 og 2 som bruker insulin detemir. Studien er ikke publisert, men
+den er kort omtale i søknaden fra Novo Nordisk. Studien varte i 3 måneder, men i 6 land ble
+studien forlenget slik at man fikk data etter 6 måneder. 3 310 pasienter med diabetes type 1
+ble fulgt i 6 måneder og ca 2500 pasienter hadde sikkerhets og effektmålinger både før
+studien startet og ved studiens slutt. Størstedelen av pasientene sto på et regime med
+langtidsinsulin og måltidsinsulin både før og etter studien. Pasientene skiftet langtidsinsulin til
+insulin detemir ved studiestart. Studien viste reduksjon i HbA1c, hypoglykemier og vekt etter
+6 måneder.
+Det er en rekke problemer med denne studien:
+1) Den er ikke publisert og kun omtalt kort i søknaden.
+2) Den har ingen kontrollgruppe. Det er derfor en fare for at endringer i andre variabler
+(konfundere) kan ha påvirket resultatet. Om og hvordan man eventuelt har forsøkt å
+kontrollere for dette er ikke beskrevet.
+
+12
+
+3) Det kan være en placeboeffekt i og med at pasient og leger visste at pasientene fikk insulin
+detemir.
+4) Det er ikke oppgitt hvor mange pasienter som ligger til grunn for effektdataene, men det er
+helt klart at det er et frafall i studien. Dette er ikke beskrevet og det er ikke analysert om det
+kan ha påvirket resultatet. Det skjedde også endringer i legemiddelbruk utover byttet til
+insulin detemir.
+5) En styrke ved observasjonsstudier av denne typen er at de kan inkludere pasienter som vil
+være mer representative (både i kjennetegn og behandlingspraksis) for de pasientene som vil
+få legemidlet i klinisk praksis enn pasientene i randomiserte kliniske studier. Det er ikke gjort
+noe forsøk på å vurdere om dette er tilfellet.
+Oppsummering
+Meta-analyser og andre oppsummeringer av den kliniske effekten av insulin detemir peker i
+retning av at insulin detemir kan gi en beskjedne reduksjoner i HbA1c, milde hypoglykemier
+og vekt sammenliknet med NPH-insulin. Ved bedømmelse av størrelsen på disse effektene er
+det viktig å huske at man i studier på insulin detemir har vurdert at insulin detemir kunne gi
+en økning i HbA1c på opp til 0,4 %-poeng uten at man ville konkludere med at insulin
+detemir var dårligere enn NPH-insulin. En reduksjon i HbA1c på 0,13 må derfor betraktes
+som beskjedent og ikke klinisk relevant for den enkelte pasient. Videre må det tas i
+betraktning at pasienter med diabetes type 1 vanligvis har mindre problemer med vektøkning
+enn f. eks pasienter med diabetes type 2. En vektforskjell på 0,64 i løpet av et 4 – 6 måneder
+synes derfor av liten klinisk relevans. Når det gjelder hypoglykemier viser meta-analyser at
+antallet milde hypoglykemier i gjennomsnitt kan reduseres med 2 per pasient per år fra 53 til
+51. Dette er antakelig i hovedsak nattlige hypoglykemier. En slik reduksjon er beskjeden, men
+kan være av klinisk relevans. Effektene omtalt over er gjennomsnittlige effekter av insulin
+detemir vs. NPH-insulin. Undergrupper av pasienter kan imidlertid ha en bedre effekt.
+I bedømmelsen av størrelsen på kliniske effekter vil det kunne være forskjell på hva som er
+klinisk relevant for enkeltpasienter og hva som gir risikoreduksjon av betydning når man ser
+på store populasjoner. I helseøkonomiske analyser vil det være det siste perspektivet som
+dominerer. Det vil derfor være relevant også å gjennomføre helseøkonomiske analyser basert
+på beskjedne effektforskjeller. I den helseøkonomiske modellen ser man bla på effekten av
+HbA1c på senkomplikasjoner. Forskjellen i HbA1c mellom insulin detemir og NPH-insulin
+vil ikke kunne merkes av den enkelte pasient. HbA1c er i denne sammenheng å betrakte som
+en risikofaktor for mikro- og makrovaskulære komplikasjoner. Den helseøkonomiske
+analysen ser nærmere på betydningen av denne risikoreduksjonen for den enkelte og
+samfunnet.
+4.3
+
+Terapianbefaling
+
+Statens legemiddelverk ga ut en terapianbefaling når det gjelder langtidsvirkende
+insulinanaloger i 2005 (15). Der skrives følgende:
+”De kliniske studiene har vist at de langtidsvirkende insulinanalogene har omtrent samme
+effekt på HbA1c som NPH-insulin. Den blodglukosesenkende effekten av insulin glargin
+synes stort sett å være uavhengig av injeksjonstidspunktet på døgnet, under forutsetning av at
+det injiseres på samme tidspunkt hver dag. Tidspunkt for injeksjon bør vurderes individuelt.
+Bruk av langtidsvirkende insulinanaloger om kvelden gir i de fleste studier lavere (glargin og
+
+13
+
+detemir) og mindre varierende (detemir) fastende blodglukose, best dokumentert ved type 1
+diabetes. Vurderingen av risiko for hypoglykemi i de sammenlignende studiene
+vanskeliggjøres av store forskjeller i både forekomst og definisjoner av hypoglykemi. Flere
+studier antyder at antall insulinfølinger, særlig om natten, er lavere ved bruk av disse
+langtidsvirkende insulinanalogene ved type 1 diabetes.”
+Anbefalingen er som følger:
+Ved oppstart av insulinbehandling er NPH-insulin førstevalg som langtidsvirkende insulin.
+Det er ingen grunn til at pasienter med velregulert diabetes uten alvorlig
+hypoglykemiproblematikk skal skifte fra NPH-insulin til insulin glargin eller insulin detemir.
+Behandling med insulinanaloger bør startes av leger med erfaring i insulinbehandling.
+Type 1 diabetes mellitus:
+Insulin glargin og insulin detemir kan forsøkes hos pasienter som ved behandling med NPHinsulin:
+•
+•
+•
+
+har hyppige insulinfølinger om natten
+ikke oppnår behandlingsmålet for HbA1c pga tilbakevendende insulinfølinger som kan
+relateres til bruk av NPH-insulin
+har særskilt store symptomgivende blodglukosesvingninger
+
+5 En legemiddeløkonomisk analyse av insulin detemir (Levemir)
+5.1 Refusjonssøknadens modell- og metodeapparat
+Effekten av Levemir er i randomiserte studier undersøkt i opp til 26 uker. Når det gjelder
+senkomplikasjoner har man i de kliniske studiene kun sett på mellomliggende endepunkter
+som HbA1c. Effektene målt i de kliniske studiene er ekstrapolert til langtidseffekter på
+senkomplikasjoner ved hjelp av en diabetesmodell kalt CORE (16). Modellen beregner
+langsiktige helseeffekter og økonomiske konsekvenser av ulike behandlingsintervensjoner
+overfor pasienter med diabetes type 1 og 2. Modellen omfatter alle direkte helserelaterte
+økonomiske konsekvenser av diabetes og diabetesbehandling, dvs. både ressursbruk knyttet til
+langsiktige senkomplikasjoner og til akutte komplikasjoner som hypoglykemier. Videre
+omregnes helseeffektene ved bruk av insulin detemir sammenliknet med NPH-insulin til
+kvalitetsjusterte leveår vunnet. Dette gjøres ved at de ulike komplikasjonene ved diabetes
+regnes som ulike sykdomstilstander med ulike livskvalitetsvekter. Det er altså snakk om en
+cost-utility analyse.
+Modellen er en Markov modell med Monte Carlo simulering. Modellen har en rekke
+submodeller som simulerer effekten på ulike typer senkomplikasjoner. Modellen kan beregne
+konsekvenser for ulike pasientpopulasjoner. I dette tilfelle er det gjort to separate simuleringer
+på pasienter med samme kjennetegn som i de 3 studiene som inngår i meta-analysen og i
+observasjonsstudien PREDICTIVE.
+Den helseøkonomiske modellen har sykler på 1 år. Når gjelder hypoglykemier er det
+imidlertid brukt kortere sykler (3 måneder).
+
+14
+
+Modellen eies av IMS Health. Det har derfor ikke vært mulig for Legemiddelverket å få
+tilgang til en elektronisk versjon av modellen. Den helseøkonomiske modellen er presentert i
+publiserte artikler. Artiklene beskriver forutsetninger og datakilder, men det har ikke vært
+mulig å kontrollere hvordan disse er implementert i modellen. En detaljert beskrivelse av
+modellen har heller ikke foreligget, men er etter det Legemiddelverket forstår under
+utarbeidelse. Modellens struktur og implementeringen av antagelser og datakilder er derfor
+ikke transparent.
+Modellen er validert mot kliniske og epidemiologiske studier som ble brukt som datakilde for
+å konstruere modellen (17). Den er også validert mot kliniske og epidemiologiske studier som
+ikke utgjorde datakilde for modellen. Valideringen ble gjort ved at man definerte en kohort
+tilsvarende den fra hver enkelt studie. Man simulerte så denne kohortens utvikling over tid og
+sammenliknet forekomsten av komplikasjoner fra simuleringen med resultatene fra studiene.
+Studier ble valgt som skulle representere en rimelig variasjon i pasientpopulasjon, behandling,
+effektmål og tidsperiode. Flesteparten av studiene kom fra USA eller Storbritannia og kun to
+av studiene kom fra Norden (1 fra Finland og 1 fra Danmark). Konklusjonen av valideringen
+er at modellen gir en god prediksjon av resultatene fra studiene. Noen validering i forhold til
+norske data eller studier er imidlertid ikke gjort.
+5.2
+
+Sammenlikningsalternativ
+
+NPH-insulin er brukt som sammenlikningsalternativ. NPH-insulin er det mest brukte
+langtidsvirkende insulin per i dag og det eneste med generell refusjon. Valg av
+sammenlikningsalternativ synes derfor rimelig.
+5.3
+
+Helseeffekter, helsegevinst ved vurderte behandlingsalternativ
+
+Når det gjelder effekten av Levemir er følgende kliniske effekter brukt i modellen:
+• En forskjell i HbA1c på 0,13 % i forhold til NPH-insulin
+• En forskjell i BMI på 0,26 kg/m2 til fordel for insulin detemir.
+• En reduksjon i alle hypoglykemier på 2,33 per pasientår sammenliknet med NPHinsulin.
+• En økning i alvorlig hypoglykemier på 0,07 per pasientår sammenliknet med NPHinsulin.
+I den helseøkonomiske modellen er det regnet med en reduksjon i alle hypoglykemier fra 53
+til 51 per pasientår med insulin detemir.
+Disse kliniske effektene er hentet fra meta-analysen av 3 studier beskrevet over. Studiene
+hadde en varighet på opptil 26 uker. Modellens tidsperspektiv er resten av pasientenes levetid.
+Det er knyttet betydelig usikkerhet til å ekstrapolere effekten av insulin detemir målt i studier
+med maksimal varighet 26 uker til effekten i resten av pasientenes levetid.
+Når det gjelder HbA1c antar modellen at pasientene etter den initielle nedgangen i HbA1c
+opplever at HbA1c holder seg tilnærmet konstant for resten av modellens varighet. Kilde for
+denne antagelsen er DCCT hvor man så en meget forsiktig økning i HbA1c (0,045 % per år
+over 6,5 år) eller en økning på 0,03 % over 10 år for en pasient med HbA1c på 8 %.
+DCCT/EDIC kan imidlertid tyde på at HbA1c øker noe mer etter hvert: fra 7,4 til 7,9 i
+intensivgruppen over de siste 11 årene i studien (3). Dette antas imidlertid å ha lite å si for
+resultatene av modellen da det særlig er forskjellen mellom behandlingene som har betydning
+
+15
+
+for kostnadseffektiviteten. Det er i den helseøkonomiske modellen antatt at forskjellen
+mellom pasienter som behandles med NPH–insulin og insulin detemir på 0,13 % holder seg så
+lenge modellen varer. Dette er selvfølgelig beheftet med vesentlig usikkerhet.
+Også BMI antas å holde seg konstant etter den initielle endringen og forskjellen mellom de to
+behandlingene antas også å holde seg konstant. Dette er svært usikkert, men betyr svært lite
+for resultatene av modellen da BMI spiller en beskjeden rolle som risikofaktor for
+komplikasjoner i modellen.
+Ratene av hypoglykemier ble også antatt at holdt seg konstant etter den initielle endringen slik
+at den initielle forskjellen holder seg ut modellens levetid.
+Alternativt har man også brukt effektdata fra observasjonsstudien PREDICTIVE. Vi har
+tidligere omtalt de store svakhetene ved denne studien. Pga disse vil ikke den helseøkonmiske
+analysen basert på disse dataene bli omtalt nærmere.
+Sentralt i modelleringen av behandlingens effekt på senkomplikasjoner står ekstrapolering fra
+det mellomliggende endepunktet HbA1c til harde endepunkter. Modelleringen av dette
+baserer seg på mange ulike datakilder og antagelser for de ulike komplikasjonene. Sentralt
+står imidlertid UKPDS for hjertekarsykdom (Framingham er også til en viss grad brukt) og
+DCCT for mikrovaskulære komplikasjoner. UKPDS er valgt fordi Framingham data
+undervurderer risikoen for makrovaskulære komplikasjoner for pasienter med diabetes fordi
+den inkluderte få pasienter med diabetes.
+Legemiddelverket har ikke hatt tilgang til en elektronisk versjon av den helseøkonomiske
+modellen eller til detaljerte beskrivelser av modellens oppbygging. Det har derfor ikke vært
+mulig å kontrollere hvordan overgangen fra HbA1c til ulike senkomplikasjoner er modellert.
+Vi vet imidlertid at UKPDS kun studerte pasienter med diabetes type 2 og at selv om UKPDS
+viste at reduksjon i HbA1c ga en klar risikoreduksjon for mikrovaskulære komplikasjoner var
+konklusjonen når det gjaldt hjertekarsykdom mindre klar. Selv om man ikke fant en
+signifikant reduksjon i risiko for noen av de kardiovaskulære endepunktene var den relative
+risikoreduksjon for hjerteinfarkt på 16 % meget nær å være signifikant (95 % KI 0,71 – 1,00)
+(4). Subgruppe-analyser har også vist en signifikant reduksjon i kardiovaskulære endepunkter
+blant overvektige pasienter som ble behandlet med metformin (18). Det er senere gjort
+beregninger av risiko for ulike mikro- og markovaskulære komplikasjoner ved ulike nivåer av
+HbA1c (19, 20). Vi vet imidlertid at Framingham-studien og UKPDS ble gjort på en
+populasjon med betydelig høyere risiko for å dø av hjertekarsykdom enn den norske per i dag.
+Dette fordi risikoen for å dø av hjertekarsykdom har gått betydelig ned i Norge de senere år.
+Når det gjelder pasienter med diabetes er imidlertid dette mer usikkert. Om de sammenhenger
+mellom HbA1c og hjertekarsykdom man observerte i disse studiene fortsatt vil gjelde i en
+befolkning av norske diabetespasienter er usikkert. På grunn av manglende norske data om
+insidens og prevalens av hjertekarsykdom, både generelt og for pasienter med diabetes, er det
+uansett vanskelig å kontrollere dette. Samlet sett knytter det seg derfor betydelig usikkerhet til
+modelleringen av effekten av forskjeller i HbA1c på risiko for senkomplikasjoner. En
+sensitivitetsanalyse viser imidlertid at modellen fortsatt gir resultater som vanligvis regnes
+som kostnadseffektive hvis man fjerner hele forskjellen i HbA1c mellom insulin detemir og
+NPH-insulin.
+
+16
+
+Hvor mye kan en gitt reduksjon i HbA1c redusere risikoen med?
+Basert på UKPDS er det antatt at 1 prosentpoengs reduksjon i HbA1c gir 14 % relativ
+risikoreduksjon for hjerteinfarkt.
+Basert på DCCT er det antatt at 10 % reduksjon i HbA1c (dvs. 0,8 prosentpoeng for en med
+HbA1c 8 %) gir relative risikoreduksjoner for ulike mikrovaskulære komplikasjoner som
+oppgitt i tabell 4 (21).
+Tabell 4. Risikoreduksjon forbundet med 10 % reduksjon i HbA1c
+Tilstand
+Risikoreduksjon
+Nefropati – tidlig
+28 %
+mikroalbuminuri
+Nefropati – mikroalbuminuri 37 %
+og protenuri
+Tidlig Background diabetisk 39 %
+retinopati
+Proliferativ diabetisk
+43 %
+retinopati
+Makula ødem
+10 %
+Tidlig neuropati
+32 %
+
+5.4
+
+Modellering av effekten av insulin detemir på helsenytte (livskvalitet).
+
+Helsenytte knyttet til ulike diabeteskomplikasjoner er listet opp på side 14 og 15 i den
+helseøkonomiske rapporten. En sentral kilde til nytteverdier er UKPDS 62 (22). Dette gjelder
+bla. hjerteinfarkt, slag, hjertesvikt, angina.
+UKPDS62 er en observasjonsstudie som estimerte effekten av de ulike komplikasjoner ved
+type 2 diabetes på livskvalitet og helsenytte ved hjelp av regresjonsanalyser der man
+kontrollerte for demografiske variabler og forekomst av andre komplikasjoner.
+Komplikasjonene var hjerteinfarkt, iskemisk hjertekarsykdom (angina), slag, hjertesvikt,
+amputasjon og blindhet. Helsenytte ble estimert ved hjelp av EQ-5D, et generisk instrument
+for måling av helserelatert livskvalitet med 5 dimensjoner: mobilitet, egenomsorg,
+dagligdagse gjøremål, smerte/ubehag og angst/depresjon. Hver dimensjon har tre nivåer:
+ingen problemer, noen problemer, ekstreme problemer. Til sammen gir dette 243 mulige
+helsetilstander. Referanseverdier for disse tilstandene kan finnes ved hjelp av spørreskjema
+som besvares av et tilfeldig utvalg av den generelle befolkningen i et land. I dette tilfellet ble
+det brukt referanseverdier fra den britiske befolkningen målt med time-trade-off spørsmål. I
+denne studien (UKPDS-62) ble spørreskjemaet om helsetilstander gitt til 3 667 personer med
+diabetes type 2 som deltok i UKPDS-studien. Dette er tverrsnittsdata, dvs. at man målte
+helsetilstanden på et tidspunkt (1996) da pasientene hadde deltatt i UKPDS i median 10,3 år.
+Man fikk fullstendige data fra 3 192 pasienter, dvs. 87 %.
+I regresjonsanalysen kontrollerte man bla. for alder, kjønn og varighet av diabetes og man
+testet ulike regresjonsmodeller for å modellere relasjonen mellom komplikasjoner og
+helsenytte. Helsenytte målt med EQ-5D er en variabel som går fra – 0,594 til 1 og vanlig
+lineær regresjon er derfor ikke passende. Man brukte i stedet en tobitmodell der den øvre
+verdien på den avhengige variabel ble satt til 1. Effekten av en komplikasjon på livskvalitet
+
+17
+
+kan variere over tid. Særlig kan man tenke seg at man har en akuttfase med en forbigående lav
+livskvalitet fulgt av en stabilisering på et noe høyere nivå. For å utforske dette inkluderte man
+for enkelte hendelser (hjerteinfarkt, slag, angina, hjertesvikt, amputasjon, blindhet på ett øye)
+to dummy-variabler som indikerte om det var første år etter hendelsen eller om det hadde gått
+mer enn ett år. Når man ikke fant signifikant forskjell mellom disse skulle de 2
+dummyvariablene slås sammen.
+Man fant ingen signifikant forskjell mellom resultatene for hendelser som hadde skjedd i
+foregående år og hendelser som hadde skjedd tidligere år. Dette må imidlertid tolkes med
+forsiktighet da antallet som opplevde hendelsen i enkelte tilfeller var lite (særlig for
+amputasjon tidligere år). Tilstandene for komplikasjon første år og komplikasjon senere år ble
+slått sammen og når en person hadde flere komplikasjoner ble dette antatt å ha additiv effekt. I
+CORE-modellen bruker man analysen der det skilles på første og senere år for følgende
+hendelser: hjerteinfarkt, slag og blindhet. For angina, hjertesvikt og blindhet bruker man
+imidlertid kun en verdi for alle år. Hvorfor dette skillet er gjort forklares ikke, men det kan
+antas at det skyldes at man regner angina, hjertesvikt og blindhet mer som tilstander som
+gradvis utvikles og ikke som plutselige hendelser som hjerteinfarkt. For alvorlig synstap og
+blindhet er det regnet med en nytteverdi på 0,734 uten at det er mulig å gjenfinne dette tallet i
+UKPDS62. Avviket fra tallet i UKPDS62 er imidlertid lite og antas ikke å påvirke resultatene
+av modellen i særlig grad.
+Det er vanlig at en relativt stor andel av respondentene i spørreundersøkelser basert på EQ-5D
+klassifiserer seg som å ha full helse (dvs. scorer 1 på alle 5 dimensjoner). I denne
+undersøkelsen var andelen med perfekt helse 36 %. I EQ-5D er det ingen nytteverdier mellom
+1 og 0,88. Å gå fra perfekt helse til å score 2 på en av dimensjonene gir derfor minst ett
+nyttetap på 0,12. Det antas at dette kan ha en overdreven effekt på totaltresultatene. Man
+skiller derfor på effekter på nytteverdiene som skyldes bevegelser fra perfekt helse til ikke
+perfekt helse og effekt av endringer mellom tilstander nedenfor perfekt helse. Kun 45 % av
+endringene i nytteverdier skyldes endringer i tilstander nedenfor perfekt helse. Mesteparten av
+nyttetapet skyldes derfor reduksjon i sannsynligheten for å ha perfekt helse. Man oppgir
+derfor også nytteverdier der kun effekten av å bevege seg mellom tilstander med lavere enn
+perfekt helse er tatt med (såkalte marginale effekter).
+UKPDS 62 beregner altså flere ulike nytteverdier for samme komplikasjon uten at det er
+selvklart hvilken verdi man skal velge. UKPDS outcomes modell (23) henter f. eks
+nytteverdier fra samme kilde, men velger et annet sett verdier enn de som er brukt i den
+helseøkonomiske modellen. I den helseøkonomiske rapporten er det kun henvist til UKPDS
+62 uten å forklare hvorfor man har valgt de verdier man har gjort. Samme verdier er gjengitt i
+en artikkel av Palmer (16), også her uten forklaring på valget av verdier.
+Når det gjelder valget av marginal effekt eller ikke er det uklart hvor mange personer i den
+simulerte pasientkohorten som ville klassifisert seg som å ha perfekt helse og dermed også
+hvorvidt UKPDS62 er representativ for pasientene i modellen. Det er uansett en svakhet ved
+EQ-5D at de som skårer perfekt helse i utgangspunktet mister minimum 0,12 ved skåring av 2
+på minst en dimensjon. Dette virker overdrevent når man ser på nyttetapet forbundet med en
+del av komplikasjonene. På samme måte er det vanskelig å avgjøre om man skal skille
+mellom første år etter en hendelse og senere år eller ikke. I utgangspunktet kan det virke
+rimelig å operere med forskjellige verdier for første år og senere år. At man ikke fant
+signifikant forskjell kan stride mot dette, men kan skyldes trekk ved studien f. eks at EQ-5D
+ikke er sensitivt nok eller manglende teststyrke. Dette er imidlertid ikke drøftet nærmere.
+
+18
+
+Samlet sett framstår derfor nyttetapet forbundet med komplikasjonene som usikkert. En
+sensitivitetsanalyse blir derfor viktig. En sensitivitetsanalyse er gjort der man har brukt
+resultatene fra en studie ved Michigan University (24). Dette er omtalt nedenfor. Det er
+imidlertid et problem at komplikasjonene i CORE-modellen og studien fra Michigan
+University ikke er definert på samme måte. Hvordan verdiene fra studien ved Michigan
+University er tilpasset CORE-modellen er ikke beskrevet.
+Når det gjelder hypoglykemier er det oppgitt at nyttetapet er hentet fra en artikkel av Currie
+(25). Dette er en regresjonsanalyse gjort på data fra to spørreundersøkelser der frekvens av
+hypoglykemier relateres til frykt for hypoglykemier og deretter til helsenytte målt ved EQ-5D.
+Svarprosent var kun 31,4 %. Currie beregner et nyttetap på 0,047 for en alvorlig hypoglykemi
+og 0,0142 for en mild til moderat hypoglykemi. I tabell 1 i den helseøkonomiske rapporten er
+det imidlertid oppgitt et nyttetap på 0,0118 for alvorlig hypoglykemi og 0,0035 for milde og
+moderat hypoglykemier. Pasientene i Curries studie ble bedt om å huske tre måneder tilbake i
+tid. Nytteverdiene brukt i modellen er derfor framkommet ved at vektene fra Currie er delt på
+4 for å justere dem til 1 års syklus. Den samme verdien med same kilde for milde og moderate
+hypoglykemier er brukt i en analyse av kostnadseffektiviteten av insulin glargin vs NPH
+insulin for pasienter med diabetes type 2 i forbindelse med NICEs retningslinje for diabetes
+type 2 (26). Her har man imidlertid brukt verdien for 3 mnd for ett helt år. Retningslinjen er
+kun publisert som utkast og det er mulig feilen vil bli rettet opp i den endelige versjonen.
+Hypoglykemi er en relativt kortvarig hendelse. I undersøkelsene som ligger til grunn for
+Curries artikkel er pasientene spurt om hypoglykemier de siste 3 måneder.
+Livskvalitetsgevinst ved redusert frykt for hypoglykemier er ikke inkludert i modellens
+hovedalternativ som sådan. I og med at nyttetap ved hypoglykemier er målt ved å spørre om
+hypoglykemier siste 3 måneder kan frykt for nye hypoglykemier indirekte inngå i dette. Det er
+derfor rimelig å ikke beregne livskvalitetsgevinst ved redusert frykt for hypoglykemier som
+en selvstendig størrelse.
+Spørreundersøkelsene måler livskvalitet i et tidspunkt og gir slik sett ikke grunnlag for å si
+noe om nyttetapet ved hypoglykemier endres over tid. Nytteverdiene i Curries artikkel er
+framkommet ved en regresjonsanalyse. Det er derfor ingen garanti for at det ikke er
+konfundere (confounders) som påvirker både livskvaliteten og raten av hypoglykemier, dvs. at
+de som opplever mange hypoglykemier er de samme som har andre tilstander som nedsetter
+livskvaliteten (tilstander som ikke er inkludert i modellen). Muligheten for hukommelses
+skjevheter er også til stede, f. eks ved at de som har største frykt for hypoglykemier er de som
+husker best eller til og med overdriver antall hypolykemier. Modellen hadde relativt lav
+forklaringkraft R2 =0,23 og det er fare for at regresjonsmodellen ikke er spesifisert riktig.
+Samlet sett framstår også nyttetapet ved hypoglykemier som usikkert. Det virker rimelig å
+anta et nyttetap forbundet med hypoglykemier, men størrelsen på nyttetapet er usikkert.
+Sensitivitetsanalyser er derfor viktige.
+5.5
+
+Kostnadsperspektiv
+
+I den helseøkonomiske modellen er det inkludert direkte kostnader forbundet med legemidler,
+behandling av senkomplikasjoner og akutte komplikasjoner. Folketrygdens perspektiv er
+brukt, dvs. at man ikke har inkludert eventuelt produktivitetstap.
+
+19
+
+5.6 Kostnader
+5.6.1 Direkte kostnader
+Tabell 5. Kostnader per pakning og per IE for insulin detemir og NPH-insulin. Kroner AUP
+3 ml per 5 penner per
+IE per ml penn
+pakning
+Totalt IE
+Pris aup Pris per IE
+Levemir ferdigfylt penn
+100
+3
+5
+1500
+615,5
+0,41
+Insulatard ferdigfylt penn
+100
+3
+5
+1500
+354,8
+0,24
+
+Kilde: Statens legemiddelverk
+Tabell 6. Kostnader per år for insulin detemir og NPH-insulin.
+Kostnad Kostnad per
+Differanse
+år
+IE per dag per dag
+Ekskl. mva prosent
+Levemir ferdigfylt penn
+20
+8,21
+2 995
+2 396
+73%
+Levemir ferdigfylt penn
+25
+10,26
+3 744
+2 995
+73%
+Insulatard ferdigfylt penn
+20
+4,73
+1 727
+1 381
+Insulatard ferdigfylt penn
+25
+5,91
+2 158
+1 727
+
+Definert døgndose for samlet insulinbruk per pasient er 40 IE. Kliniske eksperter regner
+imidlertid med at 50 IE ligger nærmere virkeligheten. Det er anbefalt at hurtigvirkende insulin
+utgjør mer enn halvparten av forbruket (60 – 70 %), men kliniske eksperter regner med at
+langtidsvirkende insulin i dag utgjør omlag 50 % av forbruket. Dette betyr at gjennomsnittlig
+forbruk av langtidsvirkende insulin kan antas å ligge omkring 20 til 25 IE.
+Tabellen viser at årskostnaden for insulin detemir vil ligge 1300 – 1600 kroner AUP over
+årskostnaden til vanlig NPH-insulin. Det vil si at årskostnaden ved bruk av insulin detemir er
+om lag 73 % høyere enn ved bruk av vanlig NPH-insulin.
+I den helseøkonomiske modellen er legemiddelkostnadene beregnet uten mva. Priser er basert
+på ferdigfylte penner. Det er tatt utgangspunkt i et forbruk av langtidsvirkende insulin på 0,37
+IE per kg for insulin detemir og 0,38 IE per kg for NPH-insulin. Dette gir et forbruk på ca 28
+IE per dag for en person på 75 kg og 30 IE per dag for en person på 80 kg.
+I tillegg er det antatt at pasientene bruker 0,42 IE måltidsinsulin per kg i detemirarmen og 0,4
+IE per kg i NPH-armen. Her er det antatt at det brukes en blanding av humant insulin og
+analoger.
+Eventuell innsparing på redusert forbruk av teststrips til blodsukkermåling er ikke inkludert i
+modellen. Det er således antatt like kostnader til teststrips i begge armer.
+Kostnad ved komplikasjoner
+For å beregne kostnader ved diabeteskomplikasjoner er det brukt DRG-vekter (27) fra 2006,
+eller kostnader som er justert til 2006-priser der dette er nødvendig. At det ikke er brukt DRGvekter og priser fra 2007 antas ikke å påvirke beregningene i betydelig grad.
+De to områdene hvor behandling med insulin detemir fører til størst innsparinger i forhold til
+NPH-insulin er nyrekomplikasjoner og diabetes neuropati. Andre sentrale kostnader er
+kostnader forbundet med behandling av hjertekarsykdom. Andre kostnader vil ikke bli gjort
+rede for her.
+
+20
+
+Hjertekarsykdom
+Tabell viser ulike hjertekarsykdommer, beregnet kostnad for disse og hvilke kilder eller
+kostnadskomponenter som inngår i beregningen av disse.
+Tabell 7 . Kostnader for ulike hjertekarsykdommer. Kroner.
+Komplikasjon
+Kostnad
+Kilde
+Hjerteinfarkt år 1
+64 908 DRG og
+transportkostnader
+Hjerteinfarkt år 2 og senere
+7 687 Ukjent
+Angina år 1
+19 601 DRG
+Angina år 2 og senere
+7 687 Ukjent
+Hjertesvikt år 1
+33 102 DRG
+Hjertesvikt år 2 og senere
+7 687 Ukjent
+Slag år 1
+124 207 DRG, transport,
+rehabilitering
+Slag år 2 og senere
+7 687 Ukjent
+Slag med død innen 30
+44 547 DRG, transport
+dager
+Perifer vaskulær sykdom år
+25 133 DRG
+1
+Perifer vaskulær sykdom år
+7 687 Ukjent
+2 og senere
+Hjerteinfarkt år 1
+Det er her tatt utgangspunkt i DRG-vekter for akutt myokardinfarkt med og uten
+komplikasjoner og antatt at infarktene fordeler seg med halvparten på hver. Dette gir en
+kostnad på 40 310 kroner per infarkt. Tall fra 2005 viser at hjerteinfarkt med komplikasjoner
+utgjorde 40 %. Dette avviket er av liten betydning.
+Det er lagt til utgifter til ambulansetransport med i gjennomsnitt 2 500 kroner per pasient.
+Dette er basert på tall fra SSB og Sintef. Videre er det antatt at 15 % av pasientene med
+hjerteinfarkt får en koronar bypass operasjon (DRG 107A-C), noe som koster 147 321 kroner
+i gjennomsnitt.
+Samlet kostnad blir 64 908 kroner per hendelse. Antagelsene som er gjort virker rimelig og
+beregningene er korrekt utført.
+Angina år 1
+Her er det brukt DRG-vekt for angina (DRG140).
+Hjertesvikt år 1
+I stedet for DRG-vekt for hjertesvikt er det brukt svenske data fra 2005, konvertert til norske
+2006-kroner. Dette gir en kostnad på 33 102 kroner. Dette er ca 4 000 kroner høyere enn DRG
+for 2007 skulle tilsi. På den annen side er det rimelig å anta at DRG ikke dekker hele
+
+21
+
+kostnaden det første året, f. eks er legemidler brukt av pasienten etter utskrivning ikke
+inkludert.
+Slag år 1
+Man har tatt utgangspunkt i DRG-vekter for spesifikke karsykdommer i hjernen med og uten
+bidiagnoser/komplikasjoner og antatt at pasientene fordeler seg jevnt mellom disse. Dette gir
+en kostnad på 42 047 kroner. I tillegg er det inkludert ambulansetransport til 2 500 kroner per
+pasient. Der er også antatt at pasientene trenger rehabilitering i 14 dager beregnet til 5 690
+kroner per dag, dvs. totalt 79 660 kroner. Samlet kostnad blir 124 207 kroner.
+Slag med død innen 30 dager er antatt samme kostnad som slag år 1, men uten rehabilitering.
+Perifer vaskulær sykdom år 1
+Det er tatt utgangspunkt i DRG- vekter for sykdommer i de perifere kar med og uten
+bidiagnoser og komplikasjoner og antatt at pasientene fordeler seg jevnt mellom disse.
+For år 2 og senere er det brukt svenske data fra en publikasjon i 1999 (28). Kostnadene er
+konvertert til norske kroner og oppdatert til 2006-priser. Selve studien ble gjort i 1993 – 95 i
+Sødertälje og fulgte pasienter med hjertekarsykdom ett år etter at de ble innlagt på sykehus.
+Det er imidlertid ikke mulig å finne tall over kostnader i senere år i denne artikkelen.
+Opprinnelsen til anslaget er derfor ukjent!
+Nyresykdom
+Tabell 8. Kostnader for behandling av nyresykdom. Kroner.
+Komplikasjon
+Kostnad
+Komponenter
+Hemodialyse år 1
+493 178 DRG
+Hemodialyse år 2 og senere
+493 178 DRG
+Peritoneal dialyse år 1
+409 920 Poliklinikktakst
+Peritoneal dialyse år 2 og
+409 920 Poliklinikktakst
+senre
+Nyretransplantasjon år 1
+414 363 Inflasjonsjustering av
+kostnadsberegning
+fra 1986
+Nyretransplantasjon år 2 og
+93 060 Inflasjonsjustering av
+senere
+kostnadsberegning
+fra 1986
+Når det gjelder hemodialyse er DRG-vekt 317 brukt for første og senere år. Dette gjelder
+periodisk hemodialyse der pasienten møter opp på sykehus. Taksten var i 2007 på 3 574
+kroner per gang. Man regner med at man trenger 3 dialyser per uke. Kostnad per år blir
+558 000 kroner. I tabellen er det brukt takst for 2006 som gir lavere kostnad.
+Peritonealdialyse (hjemmebasert posedialyse) gjennomføres av pasienten hjemme og
+refunderes over poliklinikktakstene (29). Taksten var i 2007 på 35 458 kroner (34 160 kroner
+i 2006) og dekker dialysevæske og forbruksmateriell ved hjemmebasert posedialyse.
+
+22
+
+For nyretransplantasjon er det tatt utgangspunkt i DRG302 som gir en kostnad på 326 889
+kroner for 2006. For 2007 er denne gått ned til 296 957 kroner. Denne kostnaden inkluderer
+kun kostnader knyttet til sykehusoppholdet hvor transplantasjonen finner sted. Videre
+behandling og oppfølging kommer i tillegg og total kostnad for det første året antas derfor å
+være høyere. Man har brukt kostnadsberegninger for 1986 gjennomført ved Rikshospitalet
+(30) og justert for inflasjon. Dette gir en kostnad på 414 363 kroner. Disse tallene er gamle og
+antas derfor å være usikre.
+Nyretransplantasjon senere år.
+Hovedkostnad er livslang immunosuppressiv behandling. Kostnadsberegning for 1986 fra
+Rikshospitalet finner en kostnad på 70 000 kroner hvorav 62 000 kroner er immunosupressiv
+behandling. Dette justeres for inflasjon og man finner da en kostnad på 93 000 kroner.
+Kostnaden ved immunosuppresiv behandling er vanskelig å beregne. Det brukes en
+standardbehandling med 3 eller 4 legemidler: Simulect, takrolimus eller cyklosporin,
+prednisolon og mykofenolat eller azatioprin. Simulect brukes kun i forbindelse med
+operasjonen og er ikke del av vedlikeholdsbehandlingen. Ved trippelprotokoll er ikke
+mykofenolat inkludert. Etter som doseringen av cyklosporin eller takrolimus styres av
+konsentrasjonen i blodet er det vanskelig å anslå en gjennomsnittskostnad for behandlingen.
+Vi har her kun sett på kostnadene til cyklosporin, takrolimus og mykofenolat. De andre
+legemidlene har kostnader som er beskjedne sammenliknet med utgiftene til disse tre
+legemidlene. Cyklosporin og takrolimus doseres per kg kroppsvekt. Tar man utgangspunkt i
+en person på 75 kg finner man følgende grove anslag på kostnader per år:
+Cyklosporin: 22 000 – 66 000 kroner.
+Takrolimus: 65 000 kroner
+Mykofenolat: 30 – 40 000 kroner
+Pasienter som får kvadruppelbehandling vil bruke både takrolimus/cyklosporin og
+mykofenolat og komme opp i kostnader på 62 000 – 106 000 kroner (cyklosporin +
+mykofenolat) eller 95 000 kroner (takrolimus + mykofenolat (laveste dosering mykofenolat).
+Pasienter som får nyre fra et haplo-identisk søsken vil klare seg med takrolimus eller
+cyklosporin slik at behandlingen blir billigere. Det antas at dette gjelder et mindretall.
+I tillegg kommer ikke-medikamentelle utgifter. Ut fra dette synes kostnaden for
+nyretransplanterte kanskje noe høy, men ikke urimelig høy.
+Nevropatiske komplikasjoner
+Tabell 9. Kostnader for behandling av nevropatiske sykdommer
+Komplikasjon
+Kostnad
+Komponenter
+Nevropati år 1
+20 737 DRG
+Nevropati senere år
+806 Takst
+Amputasjon
+128 037 DRG
+Protese
+15 508 Svenske studier
+Koldbrann behandling
+19 424 Svenske studier
+Infisert sår
+12 991 Svenske studier
+Uinfisert sår
+11 303 Svenske studier
+
+23
+
+Når det gjelder nevropati første år er det brukt DRG 18 og 19 sykdommer i hjernenerver og
+perifere nerver med og uten bidiagnoser og komplikasjoner og pasientene er fordelt jevnt
+mellom de to. For 2007 blir kostnaden 26 000 kroner. Senere år er det regnet med en kontroll
+hos spesialist per år.
+For amputasjon er DRG285 amputasjoner av underekstremiteter pga sykdom i HDG 10 brukt.
+Kostnad blir 128 000 kroner. For 2007 blir den 143 931 kroner.
+Resten av kostnadene er hentet fra en serie av svenske studier av ressursbruk og kostnader ved
+behandling av diabetiske fotsår ved sykehus i Syd-Sverige tidlig på 1990-tallet (31).
+Oppsummering
+Det er usikkerhet forbundet med mange av kostnadsberegningene, men antagelsene som er
+gjort synes stort sett rimelige. Et unntak er perifer vaskulær sykdom senere år hvor kilde
+mangler. I en del tilfeller er anslagene konservative. Innsparingene som følger av de
+beregnede reduksjoner i komplikasjoner er relativt små sammenliknet med økningen i
+legemiddelutgiftene. Usikkerheten rundt kostnadsberegningene antas derfor i liten grad å
+påvirke resultatet av modellen.
+5.6.2 Indirekte kostnader
+Produksjonstap er holdt utenfor modellen
+
+5.6.3 Legemiddelets kostnadseffektivitet
+Modellen beregner at insulin detemir gitt som tillegg til kortidsvirkende insulinanalog til
+pasienter med diabetes type 1 gir en livstidsgevinst per pasient på 0,1 leveår og 0,19
+kvalitetsjusterte leveår (QALY) sammenliknet med NPH-insulin. Sammenliknet med en
+forventet gjenværende kvalitetsjustert levetid per pasient på 7,7 år ved behandling med NPHinsulin er mereffekten ved behandling med insulin detemir beskjeden (med en økning i
+gjenværende kvalitetsjustert levetid på 2,5 %). Merkostnaden per pasient var 24 970 kroner i
+løpet av gjenværende levetid. Dette gir en kostnad på i overkant av 130 000 kroner per
+kvalitetsjustert leveår vunnet.
+Økningen i kostnadene skyldes hovedsakelig at legemiddelkostnadene for insulin detemir er
+høyere enn for NPH-insulin. Økningen i legemiddelkostnader blir i beskjeden grad oppveid
+ved innsparinger i form av færre komplikasjoner. Den største innsparingen kommer i form av
+redusert behov for behandling av nyresykdom og neurologiske komplikasjoner (sår og
+amputasjoner) med henholdsvis 2 775 kroner og 2 058 kroner. Netto økning i kostnader på
+25 000 kroner er relativt beskjedne sammenliknet med totale kostnader på nesten 600 000
+kroner per pasient. Dette gir en økning i totalkostnadene på ca 4 %.
+Det er ikke gjennomført noen formell net benefit analyse, men de beskjedne helsegevinstene
+og kostnadsøkningene tyder på at konsekvensene av beslutningen om refusjon av insulin
+detemir relativt beskjedne.
+
+24
+
+Tabell 10. Resultater.
+Utfall
+Levår (diskontert)
+QALY (diskontert)
+Kostnader (kr)
+Kostnad per leveår
+vunnet
+Kostnad per
+kvalitetsjustert leveår
+vunnet
+
+Insulin detemir
+15,51
+7,93
+617 461
+263 746 kr per leveår
+vunnet
+130 498 kr per leveår
+vunnet
+
+NPH-insulin
+15,41
+7,74
+592 491
+
+Forskjell
+0,1
+0,19
+24 970
+
+Det er laget en cost-effectiveness acceptability curve (CEAC) som viser at det ved en
+betalingsvilje på 350 000 kroner per QALY er litt over 80 % sannsynlighet for at insulin
+detemir er kostnadseffektivt gitt alle forutsetninger som ligger i modellen.
+Det er gjort enveis sensitivitetsanalyser for tidshorisont, diskonteringsrate, kjennetegn ved
+pasientene (alder, varighet av diabetes og HbA1c i utgangspunktet), effekt på HbA1c, effekt
+på hypoglykemier, nytteverdier og prisen på insulin detemir. Stort sett er modellens resultater
+lite følsomme for variasjoner i disse variablene. Det er imidlertid enkelte unntak:
+• Dersom man antar det ikke er noen forskjell mellom insulin detemir og NPH-insulin i
+effekt på HbA1c (dvs. at insulin detemir har samme effekt som NPH-insulin) øker
+kostnaden per QALY vunnet til 265 000 kroner. Dette skyldes at forskjellen i HbA1c
+har en effekt på kvalitetsjusterte leveår via både levetid og livskvalitet. Forskjellen i
+HbA1c har også en effekt på kostnadene, men denne er relativt beskjeden. Fjerner man
+forskjellen i HbA1c øker kostnadene for behandling med insulin detemir med i
+overkant av 5 000 kroner. Når man antar lik effekt på Hba1 forsvinner nesten all
+effekten av insulin detemir på levetid.
+• Dersom man antar at det ikke er noen forskjell mellom insulin detemir og NPH-insulin
+i effekt på raten av milde hypoglykemier øker kostnaden per QALY-vunnet til
+312 000 kroner.
+• Hvis man antar at det ikke er nyttetap forbundet med milde hypoglykemier øker
+kostnaden per QALY vunnet til 260 000 kroner.
+Sentrale effektparametre i modellen er altså HbA1c og milde hypoglykemier. Milde
+hypoglykemier er i modellen ikke forbundet med kostnader og har heller ikke effekt på
+dødelighet. Milde hypoglykemier påvirker altså kun livskvaliteten og deres påvirkning på
+kostnadseffektiviteten bestemmes både av forskjellen i rate av hypoglykemier og størrelsen på
+nyttetapet forbundet med hypoglykemier. Det er i hovedsak kun HbA1c som har effekt på
+dødelighet. HbA1c påvirker også livskvaliteten og i noen grad kostnadene gjennom sin effekt
+på komplikasjoner. Modellens resultater synes vel så følsomme for antagelsene rundt
+hypoglykemier som antagelsene knyttet til HbA1c.
+Det er gjort to egne sensitivitetsanalyser rundt nyttetapet ved senkomplikasjoner.
+1. I den ene har man brukt nytteverdier fra University of Michigan (24) i stedet for fra
+UKPDS62. Dette var en studie på 2048 pasienter med diabetes type 1 eller 2 som ble
+rekruttert ved diabetesklinikken ved dette universitetet. Nytte ble målt ved spørreskjemaet
+Quality of Well Being. Dette skjemaet ga en lavere verdi for ellers friske pasienter med
+diabetes type 1 enn det man fant i UKPDS 62 (0,64 – 0,67 mot 0,81). Nyttetapet ved
+komplikasjoner er imidlertid ikke så forskjellig og bruken av nytteverdier fra Michigan
+resulterer i små endringer i ICER. Et problem er imidlertid at komplikasjonene er definert
+ulikt og at det er uklart hvordan komplikasjonene i Michigan-studien er tilpasset CORE25
+
+modellen. En viktig del av usikkerheten rundt bruken av nytteverdier fra UKPDS går
+imidlertid på skillet mellom første og senere år og på marginale effekter. Dette er alternativer
+som gir vesentlig mindre nyttetap ved komplikasjoner enn det som er brukt i COREmodellen. Michigan-dataene synes ikke på en god måte å gjenspeile denne usikkerheten.
+2. Det er også gjennomført en sensitivitetsanalyse der man for tre komplikasjoner
+(hjerteinfarkt, slag og amputasjon) ikke har regnet med noe nyttetap det første året, men kun
+ved nyttetap for senere år. Dette gir små endringer i modellens resultater. Legemiddelverket
+ønsket opprinnelig at man skulle gjennomføre en sensitivitetsanalyse der man brukte
+marginale effekter fra UKPDS der man ikke skilte på første og senere år. Dette er ifølge Novo
+Nordisk ikke mulig pga modellens struktur. Denne sensitivitetsanalysen gir derfor ikke på
+noen god måte utrykk for usikkerheten knyttet til nytteverdiene fra UKPDS62.
+Usikkerheten rundt nytteverdier for komplikasjoner synes ikke analysert på en god måte. Det
+er imidlertid lite sannsynlig at endringer i disse verdiene vil gi resultater som vanligvis ikke
+regnes som kostnadseffektive. Dette fordi sensitivitetsanalysen som antar ingen forskjell i
+HbA1c og dermed ikke i senkomplikasjoner likevel gir kostnadseffektive resultater.
+Effekt på HbA1c og hypoglykemier i studier med 26 ukers varighet er ekstrapolert ut
+pasientenes levetid. Usikkerheten rundt dette er ikke analysert på annen måte enn at man har
+sett på alternativer der hele effekten på HbA1c eller hypoglykemier er fjernet.
+Det er ikke gjennomført sensitivitetsanalyser der man har variert forskjellen i HbA1c mellom
+de to behandlingene, f. eks til yttergrensene i konfidensintervallet. Dette skyldes ifølge Novo
+Nordisk at reduksjon i HbA1c er korrelert med HbA1c i utgangspunktet. Modellen forutsetter
+imidlertid uavhengighet mellom parametrene. Dette betyr at man ikke har operert med en
+fordeling rundt endring i HbA1c og at dette er analysert deterministisk. Usikkerheten rundt
+effektforskjellen når det gjelder HbA1c vil dermed ikke komme til utrykk i CEAC.
+Usikkerheten rundt effektforbedringen i HbA1c er dermed kun analysert ved et alternativ der
+hele forskjellen er utliknet. Dette er utilfredsstillende fordi man ikke får noe inntrykk av
+hvordan endringer i forskjellen i HbA1c påvirker sannsynligheten for at insulin detemir er
+kostnadseffektivt. Usikkerheten blir dermed undervurdert. Innbakt i dette ligger at man ikke
+får vurdert i hvilken grad variasjoner i forskjellen i HbA1c kan påvirke resultatene av
+modellen sett i samspill med variasjon i andre variabler.
+På grunn av manglende dokumentasjon av modellen har det ikke vært mulig å kontrollere
+hvordan overgangen fra endring i HbA1c til endring i raten av komplikasjoner er modellert.
+Sensitivitetsanalysene tyder imidlertid på at selv om dette betyr en del for resultatene av
+modellen er det andre ting som er viktigere. Det ser ut til at den viktigste kilden til usikkerhet
+er relasjonen mellom kliniske endepunkter (senkomplikasjoner og hypoglykemi) og
+livskvalitet.
+5.7
+
+Andre helseøkonomiske analyser
+
+Det er publisert to helseøkonomiske analyser av insulin detemir sammenliknet med NPHinsulin i henholdsvis Storbritannia (32) og USA (33). Begge analysene bruker CORE diabetes
+modell og avviker kun i mindre grad fra analysen Novo Nordisk har fått utført for Norge.
+Analysen fra Storbritannia bruker effektdata fra en meta-analyse av 4 studier hvorav
+Hermansen studie kommer i tilegg til studiene som er brukt i meta-analysen i den
+helseøkonomiske analysen sendt til Norge. Effektdata avviker litt fra de som er brukt i den
+norske søknaden: forskjell i HbA1c er – 0,15 % og forskjell i BMI er 0,26 kg/m2. Den største
+
+26
+
+forskjellen er imidlertid at man har regnet med en nedgang i alvorlige hypoglykemier fra 42
+til 41 per 100 pasientår i stedet for en reduksjon i milde hypoglykemier som i den norske
+søknaden. Det er brukt kostnader fra Storbritannia. Det er brukt de samme nytteverdier for
+diabeteskomplikasjoner. Man finner en helsegevinst på 0,09 QALY og en
+kostnadseffektivitetsratio på 238 000 kroner per QALY. Gitt en betalingsvillighet for en
+QALY på 30 000 £ var det 58 % sannsynlig at insulin detemir var kostnadseffektivt. Den
+største forskjellen fra den norsk analysen er antagelig at man har regnet med en forskjell i
+alvorlige hypoglykemier og ikke milde hypoglykemier og måten livskvalitetstapet ved
+hypoglykemier er modellert på.
+Analysen fra USA bruker effektdata fra studien til Hermansen som også hadde forskjellig
+måltidsinsulin i de to armene. Forskjell i HbA1c var 0,22 %. Man fant en forskjell både i
+milde og alvorlige hypoglykemier som var en god del større en det som er antatt i den norske
+og den britiske analysen. Videre regnet man med en forskjell i vekt på 1 kg. Man brukte
+kostnader fra USA og inkluderte produktivitetstap. Man fant en helsegevinst på 0,7 QALY
+og en kostnadseffektivitetsratio på 96 000 kroner per QALY. Den største forskjellen fra den
+norske analysen er at man har antatt større reduksjon i HbA1c og hypoglykemier.
+Effektdataene isolerer heller ikke effekten av insulin detemir.
+Alt i alt virker bruken av effektdata mest rimelig i den norske analysen og denne gir resultater
+som ligger mellom den amerikanske og den britiske.
+6 Diskusjon
+6.1 En totalvurdering (og drøfting av søknadens begrensninger og
+metodesvakheter)
+I den helseøkonomiske modellen har man lagt til grunn en reduksjon i HbA1c på 0,13 % ved
+bruk av insulin detemir sammenliknet med NPH-insulin. Dette er basert på en meta-analyse
+av individdata fra tre studier. En annen meta-analyse utført av EMEA som kun har sett på
+gjennomsnittsdata fra de samme tre studiene, fant en reduksjon på 0,11 % som også var
+signifikant på 0,05-nivå.
+Ut fra dette er det rimelig å forvente at insulin detemir gir en beskjeden reduksjon i HbA1c
+sammenliknet med NPH-insulin. Den eksakte størrelsen på reduksjonen er imidlertid usikker.
+Effekten av å variere blodsukkerreduksjonen på modellens resultat er ikke analysert i
+sensitivitetsanalyser, bortsett fra et alternativ der forskjellen i HbA1c er fjernet helt. Selv om
+man antar at det ikke er noen forskjell i HbA1c mellom insulin detemir og NPH-insulin gir
+modellen resultater som vanligvis regnes som kostnadseffektive.
+I de randomiserte kliniske studiene på insulin detemir er det lagt til grunn at en klinisk
+relevant reduksjon i HbA1c er 0,4 % eller mer. Det er sannsynlig at effekten av insulin
+detemir ligger betydelig under dette. Effekten av insulin detemir på HbA1c sammenliknet
+med behandling med NPH-insulin er derfor antagelig ikke klinisk relevant for den enkelte
+pasient. Bruk av insulin detemir kan likevel ha betydning for pasientenes risiko for
+senkomplikasjoner og for samfunnets ressursbruk og helsenytte. Dette er studert i en
+helseøkonomisk analyse.
+Det kan også antas at insulin detemir i gjennomsnitt gir en liten reduksjon i milde
+hypoglykemier. I refusjonssøkers helseøkonomiske modell er det regnet med en liten
+
+27
+
+reduksjon i milde hypoglykemier på 2 hendelser per pasientår. Dette bygger igjen på data fra
+meta-analysen. EMEAs vurdering og terapianbefalingen konkluderer med at det er sannsynlig
+at insulin detemir særlig har en effekt på milde nattlige hypoglykemier og at det ikke er noen
+effekt på alvorlige hypoglykemier. Samlet sett virker det rimelig å forvente at insulin detemir
+i gjennomsnitt gir en liten reduksjon i antallet milde hypoglykemier. Den eksakte størrelsen
+på reduksjonen er imidlertid usikker. Effekten av å variere reduksjonen i milde
+hypoglykemier på modellens resultat er analysert i sensitivitetsanalysen. Selv om man antar at
+det ikke er noen forskjell i milde hypoglykemier mellom insulin detemir og NPH-insulin gir
+modellen resultater som vanligvis regnes som kostnadseffektive.
+Effekten på vekt er svært beskjeden og regnes av kliniske eksperter ikke som klinisk relevant
+(jf. referat fra Blåreseptnemnda). Vektøkning er uansett et mindre problem hos type 1
+diabetikere enn hos type 2 diabetikere. Dette synes gjenspeilet i analysen på en rimelig måte
+da vektreduksjon spiller svært liten rolle i modellen og dens resultater.
+I tillegg til forskjell i HbA1c og rate av milde hypoglykemier ser det ut til at det som har størst
+betydning for modellens resultater er nytteverdier knyttet til senkomplikasjoner og
+hypoglykemier. Sensitivitetsanalysen viser at hvis man antar at hypoglykemier ikke gir
+reduksjon i livskvalitet, øker kostnaden per QALY betydelig, men holder seg fortsatt innenfor
+det som vanligvis regnes som kostnadseffektivt. Også nyttetap ved andre komplikasjoner er
+av betydning for resultatet og er analysert i en sensitivitetsanalyse der man har brukt
+alternative nytteverdier fra Michigan. Denne analysen er imidlertid ikke tilfredsstillende. Det
+er ikke sett på effekten av å variere nyttetapet ved hypoglykemier og senkomplikasjoner
+samtidig.
+Et problem ved refusjonssøkers helseøkonomiske analyse er at det kun er gjennomført enveis
+sensitivitetsanalyser. Hvis man endrer sentrale variable til ekstreme verdier en for en synes
+modellen fortsatt å gi kostnadseffektive resultater. Et problem med enveis
+sensitivitetsanalyser er imidlertid at det er lett å finne ekstreme verdier, men vanskelig å
+bestemme hvor sannsynlige de er. Det er også ofte usannsynlig at enkeltparametre separat vil
+endre beslutningen. Selv om ikke en enkelt variabel alene ser ut til å endre beslutningen kan
+det være betydelig usikkerhet når flere variabler sees i sammenheng. Enveis
+sensitivitetsanalyser undervurderer derfor usikkerheten (34). Problemet er at man ikke får sett
+effekten av samvariasjon i variablene, dvs. f. eks både redusere forskjellen i HbA1c og
+nyttetapet ved hypoglykemier samtidig. I tillegg er endring i HbA1c analysert deterministisk.
+Den helseøkonomiske analysen gir dermed et dårlig grunnlag for å vurdere konsekvensen av å
+variere flere variable samtidig.
+En CEAC lages ved å registrere antall ganger hvert alternativ (insulin detemir eller NPHinuslin) er kostnadseffektivt når modellen kjøres mange ganger. Sannsynligheten for at hvert
+alternativ er kostnadseffektivt plottes for ulike nivåer av betalingsvilje. Refusjonssøkers
+helseøkonomiske modell viser at ved en betalingsvilje på 350 000 kroner per QALY gir 80 %
+av kjøringene insulin detemir som kostnadseffektivt alternativ. Ved en betalingsvilje på
+nærmere 500 000 kroner per QALY øker sikkerheten kun noen få prosent. Legemiddelverket
+antar at betalingsviljen for en QALY i det norske helsevesenet ligger over 350 000 kroner.
+Det må tas forbehold om at alternativet med høyest sannsynlighet for å være kostnadseffektivt
+ikke alltid er det kostnadseffektive alternativet. Dette pga mulighet for skjev fordeling av
+gevinsten noe som f. eks ville være tilfelle dersom kjøringer der NPH-insulin er
+kostnadseffektivt gir som resultat at NPH-insulin er mye bedre enn insulin detemir, mens når
+insulin detemir er kostnadseffektivt er det kun litt bedre. CEAC gjelder kun
+
+28
+
+parameterusikkerhet og kan ikke brukes for å vurdere annen usikkerhet. CEAC sier heller
+ikke noe om konsekvensen av å ta feil og gir dermed ikke fullstendig grunnlag for å vurdere
+usikkerheten. Dette kan analyseres gjennom en analyse av net benefit. Dette er ikke gjort. Det
+ville også være mulig å analysere enkeltparametres betydning. Ut fra gevinstene i QALY og
+kostnadsforskjellene antar Legemiddelverket likevel at konsekvensene av å ta feil er relativt
+små.
+Ut fra det overstående mener Legemiddelverket det er overvekt av sannsynlighet for at insulin
+detemir er kostnadseffektivt. Det er imidlertid to forhold som er utilfredsstillende belyst i den
+helseøkonomiske analysen og prosessen som er gjennomført for å vurdere den:
+1. Den helseøkonomiske modellens transparens. Den helseøkonomiske modellen er presentert
+i publiserte artikler. Artiklene beskriver forutsetninger og datakilder, men det har ikke vært
+mulig å kontrollere hvordan disse er implementert i modellen fordi Legemiddelverket ikke har
+hatt tilgang til en elektronisk utgave av modellen. Selv om modellen er presentert i publiserte
+artikler er disse også nokså knappe og gir derfor heller ikke grunnlag for å kontrollere
+oppbyggingen av modellen og hvordan antagelsene og data fra sentrale datakilder er
+implementert i modellen.
+2. Vurderingen av usikkerhet. På grunn av at modellen er så kortfattet presentert er det
+vanskelig å forstå hvordan den håndterer usikkerhet. Et annet problem er at det kun er
+gjennomført enveis sensitivitetsanalyser og at forskjell i HbA1c ser ut til å være modellert
+deterministisk. Det er heller ikke gjennomført en analyse av konsekvensene av å fatte feil
+beslutning, dvs. en net benefit analyse. Legemiddelverket har derfor ikke fullt ut kunne
+vurdere usikkerheten knyttet til beslutningen.
+
+6.2
+
+Valg av refusjonsordning
+
+Ut fra den foreliggende dokumentasjon mener Legemiddelverket det er overvekt av
+sannsynlighet for at insulin detemir er kostnadseffektivt og at det oppfyller vilkårene for
+opptak på generell refusjon. Denne vurderingen er beheftet med usikkerhet. Noe av
+usikkerheten er tatt hensyn til. Det foreligger imidlertid ytterligere usikkerhet som det ikke
+har vært mulig å vurdere på en tilfredsstillende måte. Dette er knyttet til modellens
+transparens og dens håndtering av usikkerhet. Novo Nordisk har bekreftet at de kan bidra til at
+det framskaffes ytterligere dokumentasjon rundt modellens oppbygging og dens håndtering av
+usikkerhet. Når det gjelder usikkerhet kan dokumentasjon framskaffes i løpet av et par
+måneder. Mer dokumentasjon av selve modellen kan framskaffes raskt, men når endelig
+godkjente versjoner av denne dokumentasjon vil foreligge er usikkert.
+Legemiddelverket vil derfor anbefale at det før insulin detemir eventuelt gis generell refusjon
+innhentes ytterligere dokumentasjon om disse forholdene og at generell refusjon for insulin
+detemir gjøres avhengig av hva denne dokumentasjonen viser. Legemiddelverket vil ta
+initiativ til at denne dokumentasjon framskaffes og at dette skjer så raskt som mulig.
+Konklusjonene over gjelder bruk av insulin detemir hos pasienter med diabetes type 1
+generelt. Det er sannsynlig at bruk innenfor de vilkår som er satt opp for delegering av
+individuell refusjon av NAV kan bedre kostnadseffektiviteten ytterligere. Et alternativ til
+generell refusjon for alle pasienter med diabetes type 1 kan derfor være generell refusjon for
+pasienter som oppfyller vilkårene spesifisert i punkt 4.3.
+
+29
+
+Det finnes en annen langtidsvirkende insulinanalog (insulin glargin) som ut fra virkningsmåte
+og publiserte studier er antatt å ha nokså lik effekt som insulin detemir på blodsukkernivå og
+komplikasjoner. Man kunne derfor tenke seg at man gjennomgikk effektdata for insulin
+glargin og sammenliknet dem med insulin detemir. Gitt at effektdata er like kunne man
+konkludere med at insulin glargin også er kostnadseffektivt. Effektdata brukt i tidligere
+søknader om refusjon av insulin glargin er imidlertid framkommet på en måte som gjør dem
+vanskelig å sammenlikne med effektdata for insulin detemir. Det er for insulin glargin gjort en
+metaregresjonsanalyse på bakgrunn av 5 studier. Ut fra denne er det lagt inn en forskjell i
+HbA1c gitt at raten hypoglykemier er holdt konstant. Dette gjør det umulig å sammenlikne
+effektdataene brukt i de to søknadene.
+Eventuell refusjon for insulin glargin må derfor baseres på en mer omfattende prosess som
+inneholder enten en meta-analyse som viser sammenliknbare resultater som for insulin
+detemir og/eller en fullstendig helseøkonomisk analyse som viser at insulin glargin er
+kostnadseffektiv sammenliknet med insulin detemir og NPH-insulin.
+
+7
+
+Konklusjon
+
+Ut fra den foreliggende dokumentasjon mener Legemiddelverket det er overvekt av
+sannsynlighet for at insulin detemir er kostnadseffektivt og at det oppfyller vilkårene for
+opptak på generell refusjon. Denne vurderingen er beheftet med usikkerhet. Noe av
+usikkerheten er tatt hensyn til. Det foreligger imidlertid ytterligere usikkerhet som det ikke
+har vært mulig å vurdere på en tilfredsstillende måte. Legemiddelverket vil ta initiativ til at
+yterligere dokumentasjon innhentes og vil anbefale at generell refusjon for insulin detemir
+ikke gjøres betinget av at det i denne informasjonen ikke kommer opp ting som svekker
+kostnadseffektiviteten eller øker usikkerheten betydelig.
+
+Med vennlig hilsen
+STATENS LEGEMIDDELVERK
+
+Erik Hviding
+seksjonssjef
+
+Lars Granum
+seniorrådgiver
+
+30
+
+8
+
+Referanser
+
+1.
+NSAM. NSAMs handlingsprogram for diabetes 2005. Norsk Selskap for Allmennmedisin.
+2005;http://www.nsamdiabetes.no/.
+2.
+The Diabetes Control and Complications Trial Research G. The Effect of Intensive Treatment
+of Diabetes on the Development and Progression of Long-Term Complications in Insulin-Dependent
+Diabetes Mellitus. N Engl J Med. 1993 September 30, 1993;329(14):977-86.
+3.
+The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and
+Complications Study Research G. Intensive Diabetes Treatment and Cardiovascular Disease in
+Patients with Type 1 Diabetes. N Engl J Med. 2005 December 22, 2005;353(25):2643-53.
+4.
+UKPDS Group. Intensive blood-glucose control with sulphonylureas or insulin compared with
+conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). The
+Lancet. 1998;352(9131):837-53.
+5.
+D'Agostino RB, Russell MW, Huse DM, Ellison RC, Silbershatz H, Wilson PW, et al. Primary
+and subsequent coronary risk appraisal: new results from the Framingham study. American Heart
+Journal. 2000;139(2 pt 1):272-81.
+6.
+Norsk Legemiddelhåndbok for helsepersonell. www.legemiddelhåndboka.no. 2007.
+7.
+Pieber TR, Treichel HC, Hompesch B, Philotheou A, Mordhorst L, Gall MA, et al.
+Comparison of insulin detemir and insulin glargine in subjects with Type 1 diabetes using intensive
+insulin therapy. Diabetic Medicine. 2007;24(6):635-42.
+8.
+Kolendorf K, Ross GP, Pavlic-Renar I, Perriello G, Philotheou A, Jendle J, et al. Insulin
+detemir lowers the risk of hypoglycaemia and provides more consistent plasma glucose levels
+compared with NPH insulin in Type 1 diabetes. Diabetic Medicine. 2006;23(7):729-35.
+9.
+Russell-Jones D, Simpson R, Hylleberg B, Draeger E, Bolinder J. Effects of QD insulin
+detemir or neutral protamine Hagedorn on blood glucose control in patients with type I diabetes
+mellitus using a basal-bolus regimen. Clinical Therapeutics. 2004;26(5):724-36.
+10.
+Hermansen K, Fontaine P, Kukolja KK, Peterkova V, Leth G, Gall MA. Insulin analogues
+(insulin detemir and insulin aspart) versus traditional human insulins (NPH insulin and regular human
+insulin) in basal-bolus therapy for patients with type 1 diabetes. Diabetologia. 2004;47(4):622-9.
+11.
+Home P, Bartley P, Russell-Jones D, Hanaire-Broutin H, Heeg J-E, Abrams P, et al. Insulin
+Detemir Offers Improved Glycemic Control Compared With NPH Insulin in People With Type 1
+Diabetes: A randomized clinical trial. Diabetes Care. 2004 May 1, 2004;27(5):1081-7.
+12.
+Pieber TR, Draeger E, Kristensen A, Grill V. Comparison of three multiple injection regimens
+for Type&nbsp;1 diabetes: morning plus dinner or bedtime administration of insulin detemir vs.
+morning plus bedtime NPH insulin. Diabetic Medicine. 2005;22(7):850-7.
+13.
+European Public Assessment Report. Scientific Discussion.
+http://wwwemeaeuropaeu/humandocs/Humans/EPAR/levemir/levemirhtm.
+14.
+Blåreseptnemnda Rfmi. http://www.legemiddelverket.no/upload/76611/Blåreseptnemdnareferat2005-01-25.pdf. 25. jan 2005.
+
+31
+
+15.
+legemiddelverk S. Bruk av langtidsvirkende insulinanaloger.
+http://wwwlegemiddelverketno/templates/InterPage____59129aspx. 2005.
+16.
+Palmer AJ, Roze S, Valentine WJ, Minshall ME, Foos V, Lurati FM, et al. The CORE
+Diabetes Model: Projecting long-term clinical outcomes, costs and cost-effectiveness of interventions
+in diabetes mellitus (types 1 and 2) to support clinical and reimbursement decision-making. Curr Med
+Res Opin. 2004 Aug;20 Suppl 1:S5-26.
+17.
+Palmer AJ, Roze S, Valentine WJ, Minshall ME, Foos V, Lurati FM, et al. Validation of the
+CORE Diabetes Model against epidemiological and clinical studies. Current Medical Research and
+opinion. 2004;20(Supplement 1):s27 - s41.
+18.
+UKPDS Group. Effect of intensive blood-glucose control with metformin on complications in
+overweight patients with type 2 diabetes (UKPDS 34). The Lancet. 1998;352(9131):854-65.
+19.
+Stratton IM, Adler AI, Neil HAW, Matthews DR, Manley SE, Cull CA, et al. Association of
+glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35):
+prospective observational study. BMJ. 2000 August 12, 2000;321(7258):405-12.
+20.
+Stevens RJ, Kothari V, Adler AI, Stratton IM. The UKPDS risk engine: a model for the risk of
+coronary heart disease in Type II diabetes (UKPDS 56). Clin Sci. 2001 Dec , 2001;101(6):671-9.
+21.
+Palmer AJ, Roze S, Valentine WJ, Minshall ME, Foos V, Lurati FM, et al. The CORE
+Diabetes Model: Projecting long-term clinical outcomes, costs and cost-effectiveness of interventions
+in diabetes mellitus (types 1 and 2) to support clinical and reimbursement decision-making. Current
+Medical Research and opinion. 2004;20(Supplement 1):s5 - s27.
+22.
+Clarke P, Gray A, Holman R. Estimating Utility Values for Health States of Type 2 Diabetic
+Patients Using the EQ-5D (UKPDS 62). Med Decis Making. 2002 July 1, 2002;22(4):340-9.
+23.
+Clarke PM, Gray AM, Briggs A, Farmer AJ, Fenn P, Stevens RJ, et al. A model to estimate
+the lifetime health outcomes of patients with type 2 diabetes: the United Kingdom Prospective
+Diabetes Study (UKPDS) Outcomes Model (UKPDS no. 68). Diabetologia. 2004 Oct;47(10):1747-59.
+24.
+Coffey JT, Brandle M, Zhou H, Marriott D, Burke R, Tabaei BP, et al. Valuing Health-Related
+Quality of Life in Diabetes. Diabetes Care. 2002 December 1, 2002;25(12):2238-43.
+25.
+Currie CJ, Morgan CL, Poole CD, Sharplin P, Lammert M, McEwan P. Multivariate models
+of health-related utility and the fear of hypoglycaemia in people with diabetes. Curr Med Res Opin.
+2006 Aug;22(8):1523-34.
+26.
+Type 2 Diabetes: The Managment of type 2 diabetes.
+http://www.nice.org.uk/guidance/index.jsp?action=byID&o=11635. 2007.
+27.
+Sosial- og helsedirektoratet. Innsatsstyrt finansiering 2007.
+http://wwwshdirno/vp/multimedia/archive/00014/IS-1439_14578apdf. 2007.
+28.
+Zethraeus N, Molin T, Henriksson P, Jonsson B. Costs of coronary heart disease and stroke:
+the case of Sweden. Journal of Internal Medicine. 1999;246(2):151-9.
+29.
+NAV. Forskrift om godtgjørelse av utgifter til legehjelp som utføres poliklinisk ved statlige
+helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak.
+http://rundskrivnavno/rtv/lpextdll/forskr/f20001201nr1389?f=templates&fn=main-jhtm&20. 2007.
+30.
+Jacobsen A, Albrechtsen D, Sødal G, Flatmark A, Fauchald P, Vartdal F. Kostnader ved
+uremikeromsorg. Hva koster nyretransplantasjon? Tidsskr Nor Lægeforen. 1990;110(3):338-41.
+31.
+Ghatnekar O, Persson U, Willis M, K. O. Cost effectiveness of Becaplermin in the treatment
+of diabetic foot ulcers in four European countries. Pharmacoeconomics. 2001;19(7):767-78.
+32.
+Palmer AJ, Roze S, Valentine WJ, Smith I, Wittrup-Jensen KU. Cost-effectiveness of detemirbased basal/bolus therapy versus NPH-based basal/bolus therapy for type 1 diabetes in a UK setting:
+an economic analysis based on meta-analysis results of four clinical trials. Current Medical Research
+and opinion. 2004;20(11):1729-46.
+33.
+Valentine WJ, Palmer AJ, Erny-Albrecht KM, Ray JA, Cobden D, Foos V, et al. Costeffectiveness of basal insulin from a US health system perspective: comparative analyses of detemir,
+glargine, and NPH. Advances in Therapy. 2006;23(2):191-207.
+34.
+Claxton K. Exploring uncertainty: workshop briefing paper.
+http://wwwniceorguk/aboutnice/howwework/devnicetech/technologyappraisalprocessguides/technolog
+yappraisalmethodsreview/technologyappraisalmethodsreviewsupportingdocumentsjsp. 2007.
+
+32
+
+

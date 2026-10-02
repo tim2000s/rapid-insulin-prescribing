@@ -1,0 +1,493 @@
+Novo Nordisk Scandinavia AS
+Postboks 24
+1309 RUD
+
+Deres ref.:
+
+Dato:
+28.04.2015
+
+Vår ref.:
+14/09612-25
+
+Seksjon/saksbehandler:
+Seksjon for legemiddelrefusjon/
+Anne Marthe Ringerud
+
+Refusjonsvedtak
+Vi viser til Deres søknad av 17-07-2014 om forhåndsgodkjent refusjon for insulin degludec
+(Tresiba) etter forskrift av 28. juni 2007 nr. 814 om stønad til dekning av utgifter til viktige
+legemidler mv. (blåreseptforskriften) § 2, og forskrift av 18. desember 2009 nr. 1839 om
+legemidler (legemiddelforskriften) kapittel 14.
+Med hjemmel i legemiddelforskriftens § 14-21 er følgende vedtak fattet:
+Insulin degludec (Tresiba) innvilges ikke forhåndsgodkjent refusjon ved diabetes type 1 etter
+folketrygdlovens § 5-14.
+Vedtaket gjelder alle preparatets varenumre.
+Vedtaket er betinget i den forstand at det kan revurderes og endres dersom nye forhold som
+kan endre grunnlaget eller premissene for refusjonsvedtaket, tilkommer.
+
+Begrunnelse
+Søker har ikke vist at kostnadene ved bruk av insulin degludec (Tresiba) står i et rimelig
+forhold til den behandlingsmessige verdi jf. legemiddelforskriftens § 14-13.
+Legemiddelverket mener derfor insulin degludec (Tresiba) ikke oppfyller kriteriene for å bli
+tatt opp på refusjonslisten for behandling av diabetes type 1 etter blåreseptforskriftens § 2.
+
+Bakgrunn
+Refusjonssøknaden gjelder behandling av pasienter med diabetes type 1 (T1D) med
+følgende kriterier:
+• Refusjon ytes kun til pasienter som ikke oppnår behandlingsmålene til tross for optimal
+behandling med middels langtidsvirkende NPH-insulin eller langtidsvirkende
+insulinanaloger (insulin glargin og insulin detemir) på grunn av:
+o hyppige eller alvorlige nattlige følinger som skyldes insulinbruken
+o store blodsukkersvingninger som ikke gjør det mulig å oppnå akseptabel
+blodsukkerkontroll
+Brev stiles til Statens legemiddelverk. Vennligst oppgi vår referanse.
+Statens legemiddelverk
+Postboks 63, Kalbakken, 0901 Oslo
+Besøksadresse: Sven Oftedals vei 8, 0950 Oslo
+
+Tlf.: 22 89 77 00
+Fax: 22 89 77 99
+
+www.legemiddelverket.no
+post@legemiddelverket.no
+
+Kto. 7694 05 00903
+Org.nr. 974 761 122
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 2 av 9
+
+Søknaden gjelder bruk av insulin degludec (IDeg) som et andrelinjealternativ til insulin
+glargin (IGlar) og insulin detemir (IDet) etter NPH-insulin eller som et tredjelinjealternativ
+dersom IGlar eller IDet er benyttet i andrelinje.
+Søker viser til tre fase III-studier (registreringsstudier) som sammenligner IDeg med IGlar
+og IDet ved T1D. Studiene er designet som «treat-to-target» studier der insulindosene
+justeres individuelt slik at alle pasientene oppnår ønsket mål for fastende blodsukker.
+Eventuelle forskjeller i effekt legemidlene i mellom vil da reduseres til andre parametre, for
+eksempel ulike bivirkningsprofiler.
+Tabell 1: Resultater fra kliniske studier ved Type 1 Diabetes der IDeg er sammenlignet med IGlar(1)
+
+Utfallsmål
+HbA1c (%)
+Studiens slutt (gjennomsnittlig endring)
+
+IDeg1 (N=472)
+
+IGlar1 (N=157)
+
+7,3 (-0,40)
+7,3 (-0,39)
+Differanse: -0,01 [-0,14; 0,11]
+
+FPG (mmol/l)
+Studiens slutt (gjennomsnittlig endring)
+
+7,8 (-1,27)
+8,3 (-1,39)
+Differanse: -0,33 [-1,03; 0,36]
+Hypoglykemifrekvens (per pasientår med eksponering)
+Alvorlig
+0,21
+0,16
+Bekreftet2
+42,54
+40,18
+Ratio: 1,07 [0,89; 1,28]
+Nattlig bekreftet2
+4,41
+5,86
+Ratio: 0,75 [0,59; 0,96]
+1
+
+Én gang daglig-regime + insulin aspart for å dekke behovet for måltidsinsulin 2Bekreftet hypoglykemi ble definert som
+episoder bekreftet ved plasmaglukose < 3,1 mmol/l eller ved at pasienten trengte hjelp av en annen person. Nattlig bekreftet
+hypoglykemi ble definert som episoder mellom midnatt og kl. 6.
+
+Søker har utført prospektivt planlagte metaanalyser for blant annet hypoglykemi på tvers av
+studiene (Tabell 2).
+Søker oppsummerer resultater fra metaanalysen slik:
+• IDeg er non-inferior til IGlar når det gjelder reduksjon i HbA1c
+• Fastende blodsukker var statistisk bedre med IDeg versus IGlar
+• IDeg gir statistisk signifikant færre nattlige ikke-alvorlige hypoglykemier enn IGlar
+(Estimert risikoratio hhv 0,83 i studie og 0,74 i vedlikeholdsperiode)
+• Ved bruk av IDeg er insulindosen statistisk signifikant lavere enn med IGlar for å oppnå
+samme behandlingsmål
+• Helserelatert livskvalitet er generelt i favør av IDeg over IGlar
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 3 av 9
+
+Tabell 2: Hypoglykemi metaanalyseresultat diabetes type 1(1)
+
+Bekreftet hypoglykemia
+Totalt
+Nattlig
+
+Estimert risikoratio (insulin degludec/insulin
+glargin)
+Diabetes mellitus type 1
+Vedlikeholdsperiodeb
+
+1,10
+1,02
+
+0,83
+0,75*
+
+*Statistisk signifikant aBekreftet hypoglykemi ble definert som episoder bekreftet ved plasmaglukose < 3,1 mmol/l eller
+ved at pasienten trengte hjelp av en annen person. Nattlig bekreftet hypoglykemi ble definert som episoder mellom midnatt
+og kl. 6. bEpisoder fra uke 16.
+
+Søker har valgt IGlar som komparator i den helseøkonomiske analysen. De kliniske dataene
+vist over inngår i en helseøkonomisk analyse med forutsetning om ekstra ressursbruk,
+nedsatt livskvalitet og økte kostnader knyttet til ikke-alvorlige nattlige hypoglykemier. Disse
+hypoglykemiske hendelsene modelleres med nedgang i livskvalitet ved selve hendelsen, og
+nedgang i livskvalitet ved, og hyppigere frekvens av, blodsukkermålinger etter ikkealvorlige nattlige hypoglykemier.
+Tabell 3: Sammenligning av legemiddelpris IDeg (Tresiba) og komparator (IGlar/Lantus)
+
+Legemiddel
+Lantus, ferdigfylt penn, SoloStar 5x3ml
+Tresiba, ferdigfylt penn FlexTouch 5x3ml
+
+Pris (AUP) (1500IU)
+574,60
+957,90
+
+Prisdifferanse (%)
+67%
+
+Priser fra Legemiddelverket.no pr 18.3.2015. Pris for sylinderampulle og ferdigfylt penn er lik.
+
+Biotilsvarende IGlar er godkjent men er ennå ikke lansert. Det er usikkert hvor mye prisene
+på IGlar vil senkes som følge av eventuell inntreden av biotilsvarende IGlar. Søker har testet
+prisnedgang på 15 og 30 % i enveis sensitivitetsanalyser. Justerte insulindoser
+(legemiddelkostnader) for IDeg og IGlar hentes fra hhv. kliniske studier og antagelser om
+dosering i pasientpopulasjonen.
+I hovedanalysen (basecase) beregner søker at det er kostnadseffektivt å ta i bruk IDeg.
+(ICER hhv 145 000 – 238 000 når to ulike tilnærminger for måling av helsenytte/livskvalitet
+benyttes)
+
+Klinisk dokumentasjon – PICO
+Effektdataene som går inn i den helseøkonomiske modellen er hentet fra metaanalyse av
+T1DMBB1-studiene, primærstudier og oppfølgingsstudier, som også ligger til grunn for
+godkjennelsen i EMA(2). Studiene har lignende design og oppsett og Legemiddelverket
+presenterer én her:
+Basal-Bolus type 1 studie (BEGIN)(3, 4): Effekt og sikkerhet ved bruk av IDeg og
+IGlar. (52 uker, randomisert, kontrollert, åpen, multinasjonal, parallell, treat-totarget, non-inferiority studie)
+
+1
+
+T1DMBB = Basal-Bolus regime ved Diabetes Mellitus Type 1
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 4 av 9
+
+Pasientpopulasjon
+Inklusjonskriterier: Type-1 pasienter ≥ 18 år med T1D minst 12 måneder og basal-bolus
+insulinbehandling i minst 12 måneder før screening. HbA1c ≤ 10, BMI ≤ 35 kg/m2.
+Eksklusjonskriterier: blant annet: tilbakevendende alvorlig hypoglykemi (mer enn 1 alvorlig
+hypoglykemisk hendelse i løpet av siste 12 måneder) eller hypoglykemi uten forvarsel eller
+sykehusinnleggelse for diabetisk ketoacidose siste 6 måneder
+Om lag 90 % av pasientene hadde tidligere brukt IGlar eller IDet, 8 % hadde benyttet NPHinsulin.
+Intervensjon
+IDeg ble administrert 1 gang daglig i et basal-bolus regime med hurtigvirkende insulin
+aspartat som måltidsinsulin. IDet ble administrert ved kveldsmåltidet. Insulin aspartat ble
+gitt før hvert måltid.
+Target for basal-behandling var fastende plasmaglukose (målt før frokost) på mellom 3,9-5,0
+mmol/L.
+Comparator
+IGlar ble administrert 1 gang daglig i et basal-bolus regime med hurtigvirkende insulin
+aspartat som måltidsinsulin. IGlar ble administrert én gang pr døgn, ikke fastsatt tidspunkt,
+men til samme tid hver dag. Insulin aspartat ble gitt før hvert måltid.
+Target for basal-behandling var fastende plasmaglukose (målt før frokost) på mellom 3,9-5,0
+mmol/L.
+Outcome
+Primærmål for studien var reduksjon i HbA1c etter 52 ukers behandling.
+Andre effektmål var plasmaglukose-verdier, helserelatert livskvalitet, hypoglykemier (Pglukose <3,1), vekt og blodlipider.
+Legemiddelverkets vurdering av klinisk effektdokumentasjon
+De fremlagte studiene (Tabell 1) viser at IDeg er non-inferior til IGlar når det gjelder hovedeffektmålet HbA1c. Videre er IDeg non-inferior til IGlar på forekomst av hypoglykemier
+totalt og på dagtid. Ved bruk av IDeg er det signifikant færre ikke-alvorlige nattlige
+hypoglykemier enn ved bruk av IGlar én gang daglig. Det er imidlertid flere forhold som
+gjør at Legemiddelverket mener effektdokumentasjonen ikke er robust og relevant nok for
+den foreliggende søknaden.
+Pasientpopulasjon
+Legemiddelverket mener pasientpopulasjonen i studiene har betydelige ulikheter
+sammenlignet med den omsøkte pasientpopulasjonen. Ved base line er gjennomsnittlig
+HbA1c 7,7 %. Rapporterte hypoglykemier i studien er lavt. Legemiddelverket mener derfor
+studiepopulasjonen fremstår mer tilfredsstillende behandlet og kontrollert sammenlignet
+med behandlingsmål for den omsøkte pasientpopulasjonen i nasjonale retningslinjer(5) og
+data fra norsk diabetesregister for voksne(6) som søker refererer til. I studiene er pasienter
+med tilbakevendende alvorlig hypoglykemi (mer enn 1 alvorlig hypoglykemisk hendelse i
+løpet av siste 12 måneder) ekskludert. Også pasienter med «hypoglycemia unawareness»
+(hypoglykemi uten forvarsel) er ekskludert. Dette begrenser relevans av studien hos de med
+høyest risiko for hypoglykemier.
+Sett i lys av ovennevnte mener Legemiddelverket at det er ingenting som tilsier at
+pasientpopulasjonen i studien er særlig rammet av hyppige eller alvorlige nattlige følinger
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 5 av 9
+
+som skyldes insulinbruken eller store blodsukkersvingninger som ikke gjør det mulig å
+oppnå akseptabel blodsukkerkontroll slik den omsøkte pasientpopulasjonen defineres.
+Om lag 90 % av forsøkspersonene er før studien behandlet med langtidsvirkende insulin
+(IGlar eller IDet) én eller to ganger daglig, 8 % er behandlet med NPH-insulin. Slik sett kan
+hoveddelen av pasientene betraktes som en «tredjelinje»-populasjon når norske vilkår for
+refunderbare legemidler legges til grunn.
+Intervensjon
+Behandlingsmålene i studien er satt svært strengt (lavt). En fastende plasmaglukose (målt før
+frokost) på 3,9-4,9 mmol/L er i følge klinikere2 betydelig lavere enn de grensene som i dag
+anvendes, særlig for de med problemer med nattlig hypoglykemi. (Til sammenligning
+brukes et fastende blodsukker på 7 som diagnostisk «grense» for diabetes). Flere av
+klinikerne firmaet har kontaktet3 mener også titreringsmålet i studien er satt noe lavt, men
+hos disse varierer tilbakemeldingene. Legemiddelverket mener studiens behandlingsmål for
+blodsukker på morgen (før frokost) kan påvirke risiko for nattlige hypoglykemier. Hvordan
+dette påvirker forholdet mellom de to undersøkte insulinene er ikke kjent.
+Comparator
+Legemiddelverket mener IGlar er relevant komparator for IDeg for å belyse
+kostnadseffektivitet i den omsøkte pasientpopulasjonen. I studiene gis IGlar i henhold til
+godkjent preparatomtale, én gang daglig til samme tidspunkt. Det er ikke kjent til hvilket
+tidspunkt IGlar er administrert i studiene. Flere av pasienten brukt komparator før, noen av
+disse med administrering to ganger daglig. I følge EMA(2) og klinikere Legemiddelverket
+har kontaktet, kan tidspunktet for administrering av IGlar ha stor betydning når det gjelder
+forekomst av nattlige hypoglykemier.
+Den omsøkte pasientpopulasjonen4 som blant annet har problemer med nattlige
+hypoglykemier behandles, i følge klinikere, i dag ved at den langtidsvirkende insulindosen
+justeres fra dag til dag for å forebygge nattlige hypoglykemier. I klinisk praksis er det også
+utbredt med to daglige doseringer av komparator. Dette er hensyntatt av søker i
+helseøkonomisk analyse (kostnader), men gjenspeiles ikke i effektdokumentasjonen.
+For pasienter med alvorlig nattlig hypoglykemi som ikke kommer i mål med
+langtidsvirkende insulinanaloger i dag er insulinpumpebehandling, eventuelt med
+kontinuerlig blodsukkermåling (sensor) alternativ. Det foreligger ikke data som
+sammenligner IDeg med et slikt behandlingsregime.
+Outcome
+Primærutfallsmålet HbA1c er relevant og anerkjent effektmål ved diabetes type 1. Også det
+sekundære utfallsmålet for bekreftede hypoglykemier – (P-glukose <3,1) er klinisk relevant,
+men inkluderer også eventuelle asymptomatiske målinger av lav blodglukose.
+2
+
+Den norske legeforening (Norsk Endokrinologisk forening) oppnevnte Kristian F Hansen, Kristian Fougner
+og Tore Julsrud Berg som Legemiddelverkets kliniske eksperter
+3
+Stavanger Universitetssykehus;
+,
+OUS
+Lovisenberg Diakonale Sykehus;
+Hamar Sykehus;
+legesenter Bergen
+4
+som ikke oppnår behandlingsmålene til tross for optimal behandling med middels langtidsvirkende NPHinsulin eller langtidsvirkende insulinanaloger (insulin glargin og insulin detemir) på grunn av hyppige eller
+alvorlige nattlige følinger som skyldes insulinbruken
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 6 av 9
+
+Resultat fra studiene
+Studiene viser at IDeg er non-inferior til IGlar når det gjelder hoved-effektmålet HbA1c og
+flere av de sekundære endepunktene, blant annet forekomst av hypoglykemier totalt, på
+dagtid og alvorlige hypoglykemier. Ved bruk av IDeg er det signifikant færre ikke-alvorlige
+nattlige hypoglykemier enn ved bruk av IGlar én gang daglig.
+Studiene er ikke blindet. Åpne studier kan påvirke rapportering av hendelser, inkludert
+hypoglykemiske hendelser. I tillegg brukte mange av pasientene allerede komparator IGlar
+før inkludering i studiene og fortsatte med denne i studien, noe som også kan påvirke
+resultatene og rapportering av hendelser. Tilsvarende gjelder dette også for utprøverne
+(legene).
+Hyppigheten av ikke-alvorlige nattlige følinger var lav i studien, og nedgangen er
+tilsynelatende beskjeden, 1,45 hendelse pr pasientår. (Tabell 1, fra 5,86 pr pasientår ved
+behandling med IGlar til 4,41 pr pasientår ved behandling med IDeg). Hvorvidt en nedgang i
+1,45 hendelser pr pasientår er av klinisk betydning er diskutabelt, men resultatene gir uansett
+en estimert rate ratio for nattlige hypoglykemier IDeg:IGlar på 0,75. Denne ratioen blir av
+søker benyttet på et betydelig høyere antall nattlige hypoglykemier, (17,7 nattlige ikkealvorlige hypoglykemier som skjer i søvne pr pasientår, selv-rapporterte data(6)) som
+vurderes mer representative for den omsøkte pasientpopulasjonen.
+For hypoglykemier totalt og alvorlige hypoglykemier trekker resultatene fra studiene i
+retning av flere hendelser ved behandling med IDeg sammenlignet med IGlar men
+resultatene er ikke statistisk signifikante (2). I den helseøkonomiske analysen tas det
+utgangspunkt i at forekomsten er lik for IDeg og IGlar.
+Behandlingsmål i studien var fastende plasmaglukose 3,9-4,9 målt på morgenen før første
+måltid. Det er i følge klinikere sannsynlig at de nokså strenge betingelsene i studien mht
+fastende morgenblodsukker kan ha påvirket forekomst av nattlige hypoglykemier. Det er
+usikkert om og hvordan den relative forskjellen mellom legemidlene er påvirket av dette.
+Legemiddelverket mener at resultatene fra pasientpopulasjonen i de kliniske studiene ikke i
+tilstrekkelig robust grad er overførbare til den omsøkte pasientpopulasjonen. Søker peker
+selv på dette, og mener antall hypoglykemiske hendelser i studien har begrenset
+overføringsverdi til hypoglykemirater man kan forvente i klinisk praksis i Norge. Søker
+peker på at dette kan henge sammen med pasientseleksjon og den tette
+behandlingsoppfølgingen pasientene i de randomiserte kliniske studiene får sammenlignet
+med pasientene i klinisk praksis. Søker har derfor beregnet forventet antall hypoglykemier i
+pasientgruppene gjennom å applisere den relative effektforskjellen mellom
+sammenligningsalternativene i studiene på langt høyere norske observasjonsdata innhentet i
+form av selvrapporterte data via online spørreskjema. Klinikere bekrefter at
+observasjonsdataene stemmer overens med det som ses i klinisk praksis, og at reelt tall også
+kan være høyere.
+Legemiddelverket mener at når andelen hypoglykemiske hendelser i studien ikke er
+representative for den omsøkte pasientpopulasjonen er det også betydelig tvil om hvorvidt
+den relative effektforskjellen mellom legemidlene er valide i pasientgruppen i praksis, under
+andre vilkår enn designet i studiene. Dette blir særlig viktig når forskjellen i forekomst av
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 7 av 9
+
+nattlige hypoglykemier, herunder eventuelle asymptomatiske, er det som effektmessig
+skiller legemidlene, og tillegges stor vekt i form av kostnader og endring i livskvalitet i den
+helseøkonomiske analysen. I tillegg mener Legemiddelverket at forekomsten av
+hypoglykemier totalt er av betydning for sammenligning av legemidlene, og her peker
+resultatene i de pivotale studiene i retning av flere hendelser ved behandling med IDeg, men
+forskjellene er ikke statistisk signifikante.
+Søker har utført enveis sensitivitetsanalyser for å teste kostnadseffektivitet, blant annet med
+variasjoner i effekt. Disse viser at når sentrale variabler varieres én for én øker ICER, men
+bruk av IDeg er i de fleste tilfeller fortsatt kostnadseffektivt sammenlignet med IGlar.
+Legemiddelverket legger vekt på at effekten av IDeg er non-inferior til IGlar.
+Bivirkningsprofilen er riktignok bedre for IDeg når det gjelder ikke-alvorlige nattlige
+hypoglykemier, men i studien var forskjellene små selv om forskjeller i rate ratioen er
+statistisk signifikant. Sammenholdt med diskusjonen rundt forskjellene i studiedesign
+sammenlignet med klinisk praksis og den omsøkte pasientpopulasjonen mener
+Legemiddelverket at den innsendte dokumentasjonen og modellen fortsatt er beheftet med
+vesentlig usikkerhet.
+Søker har supplert søknaden med informasjon om effekten av IDeg i klinisk praksis i Sveits,
+Japan, Sverige og UK. Informasjonen fra søker beskriver lovende resultater i form av effekt
+på insulinbehov, hypoglykemiske hendelser, HbA1c. Noe av informasjonen dekker pasienter
+som har byttet til IDeg fra IGlar/IDet grunnet blant annet utilfredsstillende respons på HbA1c
+og gjentatte hypoglykemier. Slik sett gjenspeiler disse dataene den pasientpopulasjonen det
+søkes refusjon for. Det er imidlertid ikke kjent hva effektene skyldes, blant annet er det
+uklart hvordan insulinbehandlingen er titrert og hvilke utfallsmål og behandlingsmål som
+har vært gjeldende. Retningslinjene for legemiddeløkonomiske analyser gjengir eksplisitt at
+effektdata skal baseres på høyest mulig evidens og at randomiserte kliniske studier
+foretrekkes som grunnlag for dokumentasjon av helseeffekter. Legemiddelverket har derfor
+ikke lagt vekt på denne informasjonen.
+
+Oppsummering
+Legemiddelverket vurderer forhåndsgodkjent refusjon i forhold til legemiddelforskriftens §
+14-3 faglige kriterier, der det blant annet stilles krav til at kostnadene ved bruk av legemidlet
+står i et rimelig forhold til den behandlingsmessige verdi og til kostnader forbundet med
+alternativ behandling. I en analyse av kostnadseffektivitet er det en forutsetning at evidensen
+for effektestimatet er troverdig. Legemiddelverket godtar ikke effektdataene fra
+metaanalysene av registreringsstudiene som evidens for at IDeg er et kostnadseffektivt
+alternativ til IGlar i den omsøkte pasientpopulasjonen.
+Da dette er helt vesentlig for vurderingen av kostnadseffektiviteten til IDeg i den
+foreliggende søknaden, har Legemiddelverket ikke funnet det hensiktsmessig å kritisk
+vurdere og beskrive modellen og de budsjettmessige konsekvensene for øvrig.
+Legemiddelverket finner at insulin degludec (Tresiba) ikke oppfyller kriteriene for å bli tatt
+opp på refusjonslisten for behandling av diabetes type 1 etter blåreseptforskriftens § 2.
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 8 av 9
+
+Klage
+Vedtaket kan påklages til Helse- og omsorgsdepartementet. Klagen sendes Statens
+legemiddelverk. For nærmere informasjon om klageretten, se melding om rett til å klage
+over forvaltningsvedtak.
+Saksbehandlingstid
+Etter en gjennomgang av Deres søknad anså Statens legemiddelverk den som valid 24-072014. Søker har levert supplerende opplysninger i tre runder og det har blitt avholdt to møter
+i tillegg til et formøte. Søknaden er ferdigbehandlet på dagens dato. Dette gir en
+saksbehandlingstid på 206 dager.
+Individuell stønad
+Det kan søkes om individuell stønad etter blåreseptforskriftens § 3 a for enkeltpasienter.
+Publisering
+Legemiddelverket vil publisere refusjonsvedtaket på våre nettsider:
+www.legemiddelverket.no. Legemiddelverket vil ikke publisere rapporten før klagefristen er
+utløpt. Påklages avslaget til Helse- og omsorgsdepartementet, vil publisering tidligst skje
+etter departementets endelige avgjørelse i saken.
+Vi vil imidlertid ikke publisere opplysninger som anses for å være forretningshemmeligheter
+etter taushetspliktbestemmelsen i legemiddelloven § 30. Legemiddelverket ber om
+tilbakemelding innen en uke om rapporten må anses for å inneholde
+forretningshemmeligheter. I så fall ber vi om en redegjørelse for hvilke opplysninger dette
+er, og hvorfor det etter taushetspliktbestemmelsen i legemiddelloven § 30 vil være av
+konkurransemessig betydning å hemmeligholde opplysningene.
+
+Vennlig hilsen
+Statens legemiddelverk
+Audun Hågå
+direktør
+(sign.)
+
+Kopi:
+
+Elisabeth Bryn
+avdelingsdirektør
+(sign.)
+
+Helse- og omsorgsdepartementet Guro-Lindland.Nordeng@hod.dep.no
+Helsedirektoratet v/avdeling for legemiddel- og tannhelserefusjon
+Urd.Andestad@helsedir.no
+Helseøkonomiforvaltningen v/ Helene Winde, helene.winde@helfo.no
+
+28.04.2015
+
+14/09612-25
+
+Seksjon for legemiddelrefusjon/ Anne Marthe
+Ringerud
+
+side 9 av 9
+
+1.
+Preparatomtale (SPC) for Tresiba. Available from:
+http://www.ema.europa.eu/docs/no_NO/document_library/EPAR__Product_Information/human/002498/WC500138940.pdf.
+2.
+European Medicines Agency (EMA). CHMP assessment report
+Tresiba. 2012; Available from:
+http://www.ema.europa.eu/docs/en_GB/document_library/EPAR__Public_assessment_report/human/002498/WC500139010.pdf.
+3.
+Bode BW, Buse JB, Fisher M, Garg SK, Marre M, Merker L, et al. Insulin degludec
+improves glycaemic control with lower nocturnal hypoglycaemia risk than insulin glargine
+in basal-bolus treatment with mealtime insulin aspart in Type 1 diabetes (BEGIN((R))
+Basal-Bolus Type 1): 2-year results of a randomized clinical trial. Diabetic medicine : a
+journal of the British Diabetic Association. 2013;30(11):1293-7. Epub 2013/05/29.
+4.
+Heller S, Buse J, Fisher M, Garg S, Marre M, Merker L, et al. Insulin degludec, an
+ultra-longacting basal insulin, versus insulin glargine in basal-bolus treatment with mealtime
+insulin aspart in type 1 diabetes (BEGIN Basal-Bolus Type 1): a phase 3, randomised, openlabel, treat-to-target non-inferiority trial. Lancet. 2012;379(9825):1489-97. Epub
+2012/04/24.
+5.
+Helsedirektoratet. Nasjonale faglige retningslinjer Diabetes Forebygging,
+diagnostikk og behandling. 2009; Available from:
+https://helsedirektoratet.no/Lists/Publikasjoner/Attachments/415/Nasjonal-fagligretningslinje-diabetes-fullversjon-IS1674.pdf.
+6.
+Ostenson CG, Geelhoed-Duijvestijn P, Lahtela J, Weitgasser R, Markert Jensen M,
+Pedersen-Bjergaard U. Self-reported non-severe hypoglycaemic events in Europe. Diabetic
+medicine : a journal of the British Diabetic Association. 2014;31(1):92-101. Epub
+2013/06/26.
+
+

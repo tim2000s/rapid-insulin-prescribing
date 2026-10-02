@@ -1,0 +1,647 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Forside - www.medicinpriser.dk
+</title><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><link rel="StyleSheet" href="Default.css?14-11-2017" type="text/css" />
+    <style type="text/css">
+        .width282 { width: 282px; }
+        .width283 { width: 283px; }
+    </style>
+    <style id="CssRules" type="text/css">.width100 { width: 100px; }
+.width80 { width: 80px; }
+.width73 { width: 73px; }
+.width60 { width: 60px; }
+.width70 { width: 70px; }
+</style><link rel="stylesheet" href="Print.css" type="text/css" media="print" />
+    
+    <script type="text/javascript" src="Scripts/Scriptaculous/prototype.js"></script>
+    <script type="text/javascript" src="Scripts/Scriptaculous/scriptaculous.js"></script>
+    <script type="text/javascript" src="Scripts/scripts.js"></script>
+    <script type="text/javascript" src="Scripts/event-selectors.js"></script>    
+    <script type="text/javascript" src="Scripts/Medicinpriser.js"></script>    
+
+                        <script type="text/javascript" src="Scripts/SuggestTextBox.js"></script>
+                    
+                    <script type="text/javascript">
+                        Event.observe(window, 'load', function() {
+
+                            Event.observe('ctl07_simpleForm_LaegemiddelBox', 'keydown', function(e) { if(e.keyCode==Event.KEY_RETURN) return false; }, true);
+            
+                            var myBox = new Ajax.SuggestBox('ctl07_simpleForm_LaegemiddelBox', 'ctl07_simpleForm_LaegemiddelBox_1', 
+                                'SuggestBoxHandler.ashx', { method: 'get', callback : 
+                                    function(form, value) { return 'field=navn&query='+DkEscape(form.value); } });
+                            myBox.onHitReturn = function(event) {
+                                document.getElementById("ctl07_simpleForm_SearchButton").click();
+                                myBox = null;
+                            }
+                        }, false);
+                    </script>
+                
+                    <script type="text/javascript">
+                        Event.observe(window, 'load', function() {
+
+                            Event.observe('ctl07_simpleForm_VirksomtstofBox', 'keydown', function(e) { if(e.keyCode==Event.KEY_RETURN) return false; }, true);
+            
+                            var myBox = new Ajax.SuggestBox('ctl07_simpleForm_VirksomtstofBox', 'ctl07_simpleForm_VirksomtstofBox_1', 
+                                'SuggestBoxHandler.ashx', { method: 'get', callback : 
+                                    function(form, value) { return 'field=virksomtstof&query='+DkEscape(form.value); } });
+                            myBox.onHitReturn = function(event) {
+                                document.getElementById("ctl07_simpleForm_SearchButton").click();
+                                myBox = null;
+                            }
+                        }, false);
+                    </script>
+                </head>
+<body>
+    <table cellpadding="0" cellspacing="0" border="0" style="width: 968px; position: relative; margin-left: auto; 
+        margin-right: auto;">
+        <tr>
+            <td style="background-color: #FFFFFF;">
+                <table cellpadding="0" cellspacing="0" style="width: 100%;">
+                    <tr>
+                        <td style="width: 400px;padding-bottom: 5px;">
+                            <a href="http://laegemiddelstyrelsen.dk/" >
+                                <img src="/Images/logo.jpg" id="LogoImage" alt="Til Forsiden" style="width: 400px;" /></a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div style="float: left; background: url(Images/artikel_bg.gif) #f4f4f4 no-repeat top right;
+                    border-left: 8px solid #FFFFFF; border-right: 8px solid #FFFFFF; padding-left: 10px;
+                    padding-right: 10px; padding-bottom: 20px;">
+                    
+                    <form method="post" action="./default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1" style="display: block;margin:0;padding:0">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWDgIEDxYCHgNzcmMFEC9JbWFnZXMvbG9nby5qcGdkAgYPZBYIAgEPFgQeC18hSXRlbUNvdW50Zh4HVmlzaWJsZWhkAgMPZBYCAgEPFgIeCWlubmVyaHRtbAUMUyYjMjQ4O2duaW5nZAIFD2QWAmYPZBYEZg9kFgJmDw8WAh4Gc2VhcmNoMqEHAAEAAAD/////AQAAAAAAAAAMAgAAAEhBcHBfQ29kZS55LWV0bWJxYiwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAABdEay5NZWRpY2lucHJpc2VyLlNlYXJjaAMAAAAJY3JpdGVyaWFzCnNlYXJjaFR5cGURZXh0ZW5kZWRSZXN1bHRTZXQEBAAgRGsuTWVkaWNpbnByaXNlci5TZWFyY2hDcml0ZXJpYXMCAAAAG0RrLk1lZGljaW5wcmlzZXIuU2VhcmNoVHlwZQIAAAABAgAAAAkDAAAABfz///8bRGsuTWVkaWNpbnByaXNlci5TZWFyY2hUeXBlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAAFAwAAACBEay5NZWRpY2lucHJpc2VyLlNlYXJjaENyaXRlcmlhcwwAAAAMY3RFeGFjdE1hdGNoDWN0TGFlZ2VtaWRkZWwIY3RTdHlya2UOY3RWaXJrc29tdFN0b2YJY3RQYWtuaW5nB2N0RmlybWEMY3RWYXJlbnVtbWVyCWN0QXRjS29kZRNjdFVkbGV2ZXJpbmdzZ3J1cHBlC2N0T25seURvc2lzGmN0SW5jbHVkZUxhZWdlbWlkbGVyVGlsRHlyB2NvbHVtbnMAAQEBAQEBAQEAAAMBAQF+U3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uSW50MzIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAAGBQAAAAdzZW1nbGVlBgYAAAAACQYAAAAJBgAAAAkGAAAACQYAAAAJBgAAAAkGAAAAAAAJBwAAAAQHAAAAflN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBwAACAgICQgAAAAIAAAACAAAAA8IAAAACAAAAAgUAAAAHwAAACAAAAAVAAAAFgAAABwAAAAaAAAAGwAAAAtkFggCAQ9kFhgCAw8PFgIeDEVycm9yTWVzc2FnZQWHAUR1IHNrYWwgaSBzw7hnbmluZ2VuIGFudmVuZGUgbWluZHN0IGV0IGFmIHPDuGdlZmVsdGVybmUgJnF1b3Q7TMOmZ2VtaWRkZWwmcXVvdDssICZxdW90O1Zpcmtzb210IHN0b2YmcXVvdDsgZWxsZXIgJnF1b3Q7VmFyZW51bW1lciZxdW90O2RkAgUPDxYCHgRUZXh0BQtMw6ZnZW1pZGRlbGRkAgYPDxYCHwUFYkR1IHNrYWwgaW5kdGFzdGUgbWluZHN0IGV0IHRlZ24gaSAmcXVvdDtMw6ZnZW1pZGRlbCZxdW90OyBvZyBneWxkaWdlIHRlZ24gZXIgW0Etw4UsLjs6LSgpKy8mcXVvdDtdZGQCCA8PFgIfBgUNVmlya3NvbXQgc3RvZmRkAgkPDxYCHwUFZER1IHNrYWwgaW5kdGFzdGUgbWluZHN0IGV0IHRlZ24gaSAmcXVvdDtWaXJrc29tdCBzdG9mJnF1b3Q7IG9nIGd5bGRpZ2UgdGVnbiBlciBbQS3DhSwuOzotKCkrLyZxdW90O11kZAINDw8WAh8GBQZTdHlya2VkZAIODw8WAh8FBV1EdSBza2FsIGluZHRhc3RlIG1pbmRzdCBldCB0ZWduIGkgJnF1b3Q7U3R5cmtlJnF1b3Q7IG9nIGd5bGRpZ2UgdGVnbiBlciBbQS3DhSwuOzotKCkrLyZxdW90O11kZAISDw8WAh8GBQpWYXJlbnVtbWVyZGQCEw8PFgIfBQVWRHUgc2thbCBpbmR0YXN0ZSBldCBneWxkaWd0ICZxdW90O1ZhcmVudW1tZXImcXVvdDsgZGVyIGJlc3TDpXIgYWYgc2VrcyB0YWwgZnJhIDAgdGlsIDlkZAIXDw8WAh8GBQdzZW1nbGVlZGQCGw8PZBYEHghPbkNoYW5nZQURVHJpbVN0eXJrZSh0aGlzKTseB09uS2V5VXAFEVRyaW1TdHlya2UodGhpcyk7ZAIfDw8WBB4HVG9vbFRpcAUEU8O4Zx8GBQRTw7hnZGQCAw9kFioCAw8PFgIfBgULTMOmZ2VtaWRkZWxkZAIEDw8WAh8FBWJEdSBza2FsIGluZHRhc3RlIG1pbmRzdCBldCB0ZWduIGkgJnF1b3Q7TMOmZ2VtaWRkZWwmcXVvdDsgb2cgZ3lsZGlnZSB0ZWduIGVyIFtBLcOFLC47Oi0oKSsvJnF1b3Q7XWRkAgUPDxYCHwYFDVZpcmtzb210IHN0b2ZkZAIGDw8WAh8FBWREdSBza2FsIGluZHRhc3RlIG1pbmRzdCBldCB0ZWduIGkgJnF1b3Q7Vmlya3NvbXQgc3RvZiZxdW90OyBvZyBneWxkaWdlIHRlZ24gZXIgW0Etw4UsLjs6LSgpKy8mcXVvdDtdZGQCCA8PFgIfBgUGU3R5cmtlZGQCCQ8PFgIfBQVdRHUgc2thbCBpbmR0YXN0ZSBtaW5kc3QgZXQgdGVnbiBpICZxdW90O1N0eXJrZSZxdW90OyBvZyBneWxkaWdlIHRlZ24gZXIgW0Etw4UsLjs6LSgpKy8mcXVvdDtdZGQCCw8PFgIfBgUSUGFrbmluZ3NzdMO4cnJlbHNlZGQCDA8PFgIfBQVbRHUgc2thbCBpbmR0YXN0ZSBtaW5kc3QgZXQgdGVnbiBpICZxdW90O1Bha25pbmdzc3TDuHJyZWxzZSZxdW90OyBvZyBneWxkaWdlIHRlZ24gZXIgWzAtOSwuXWRkAhAPD2QWBB8HBRFUcmltU3R5cmtlKHRoaXMpOx8IBRFUcmltU3R5cmtlKHRoaXMpO2QCEQ8PZBYEHwcFElRyaW1QYWtuaW5nKHRoaXMpOx8IBRJUcmltUGFrbmluZyh0aGlzKTtkAhIPDxYCHwYFBUZpcm1hZGQCEw8PFgIfBQVfRHUgc2thbCBpbmR0YXN0ZSBtaW5kc3QgZXQgdGVnbiBpICZxdW90O0Zpcm1hJnF1b3Q7IG9nIGd5bGRpZ2UgdGVnbiBlciBbQS3DhTAtOSwuOzotKCkrLyZxdW90O11kZAIVDw8WAh8GBQpWYXJlbnVtbWVyZGQCFg8PFgIfBQVWRHUgc2thbCBpbmR0YXN0ZSBldCBneWxkaWd0ICZxdW90O1ZhcmVudW1tZXImcXVvdDsgZGVyIGJlc3TDpXIgYWYgc2VrcyB0YWwgZnJhIDAgdGlsIDlkZAIYDw8WAh8GBQhBVEMta29kZWRkAhkPDxYCHwUFYUR1IHNrYWwgaW5kdGFzdGUgbWVsbGVtIGV0IG9nIG90dGUgZ3lsZGlnZSB0ZWduIGkgJnF1b3Q7QVRDLWtvZGUmcXVvdDsuIEd5bGRpZ2UgdGVnbiBlciBbQS3DhTAtOV1kZAIbDw8WAh8GBRdVZGxldmVyaW5nc2dydXBwZSZuYnNwO2RkAiAPEA8WAh4LXyFEYXRhQm91bmRnZA8WFmYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUWFhAFBEFsbGVlZxAFAUEFAUFnEAUCQVAFAkFQZxAFA0FQNAUDQVA0ZxAFBUFQNEJHBQVBUDRCR2cQBQVBUDROQgUFQVA0TkJnEAUDQVBLBQNBUEtnEAUBQgUBQmcQBQRCRUdSBQRCRUdSZxAFAkJQBQJCUGcQBQNCUEsFA0JQS2cQBQJHSAUCR0hnEAUCSEEFAkhBZxAFBEhBMTgFBEhBMThnEAUCSEYFAkhGZxAFAkhQBQJIUGcQBQJIVgUCSFZnEAUCSFgFAkhYZxAFBEhYMTgFBEhYMThnEAUDTkJTBQNOQlNnEAUFUFJNSVgFBVBSTUlYZxAFB1VkZ8OlZXQFB1VkZ2FhZXRnFgFmZAIhDw8WAh8GBS9Tw7hnIGt1biBpIGzDpmdlbWlkbGVyIGRlciBrYW4gZG9zaXNkaXNwZW5zZXJlc2RkAiQPDxYCHwYFGlPDuGcgaSBsw6ZnZW1pZGxlciB0aWwgZHlyZGQCJw9kFgICAQ8PFgQfCQUEU8O4Zx8GBQRTw7hnZGQCBw8PFgQeBlNlYXJjaDKhBwABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUueS1ldG1icWIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAXRGsuTWVkaWNpbnByaXNlci5TZWFyY2gDAAAACWNyaXRlcmlhcwpzZWFyY2hUeXBlEWV4dGVuZGVkUmVzdWx0U2V0BAQAIERrLk1lZGljaW5wcmlzZXIuU2VhcmNoQ3JpdGVyaWFzAgAAABtEay5NZWRpY2lucHJpc2VyLlNlYXJjaFR5cGUCAAAAAQIAAAAJAwAAAAX8////G0RrLk1lZGljaW5wcmlzZXIuU2VhcmNoVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAAAAAAABQMAAAAgRGsuTWVkaWNpbnByaXNlci5TZWFyY2hDcml0ZXJpYXMMAAAADGN0RXhhY3RNYXRjaA1jdExhZWdlbWlkZGVsCGN0U3R5cmtlDmN0Vmlya3NvbXRTdG9mCWN0UGFrbmluZwdjdEZpcm1hDGN0VmFyZW51bW1lcgljdEF0Y0tvZGUTY3RVZGxldmVyaW5nc2dydXBwZQtjdE9ubHlEb3NpcxpjdEluY2x1ZGVMYWVnZW1pZGxlclRpbER5cgdjb2x1bW5zAAEBAQEBAQEBAAADAQEBflN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAAABgUAAAAHc2VtZ2xlZQYGAAAAAAkGAAAACQYAAAAJBgAAAAkGAAAACQYAAAAJBgAAAAAACQcAAAAEBwAAAH5TeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgcAAAgICAkIAAAACAAAAAgAAAAPCAAAAAgAAAAIFAAAAB8AAAAgAAAAFQAAABYAAAAcAAAAGgAAABsAAAALHwJnZBYIZg8WAh8CaGQCAQ9kFhRmDxYCHgNhbHQFFkbDpXMgb2dzw6UgdWRlbiByZWNlcHRkAgEPDxYCHwYFFkbDpXMgb2dzw6UgdWRlbiByZWNlcHRkZAICDxYCHwwFEEdlbmVyZWx0IHRpbHNrdWRkAgMPDxYCHwYFEEdlbmVyZWx0IHRpbHNrdWRkZAIEDxYCHwwFKUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIGjDpW5ka8O4YnNtZWRpY2luZAIFDw8WAh8GBSlLbGF1c3VsZXJldCB0aWxza3VkIHRpbCBow6VuZGvDuGJzbWVkaWNpbmRkAgYPFgIfDAUtS2xhdXN1bGVyZXQgdGlsc2t1ZCB0aWwgcmVjZXB0cGxpZ3RpZyBtZWRpY2luZAIHDw8WAh8GBS1LbGF1c3VsZXJldCB0aWxza3VkIHRpbCByZWNlcHRwbGlndGlnIG1lZGljaW5kZAIIDxYCHwwFEENhbm5hYmlzIHRpbHNrdWRkAgkPDxYCHwYFEENhbm5hYmlzIHRpbHNrdWRkZAICDw8WAh8CZ2QWFGYPFgIfDAUWRsOlcyBvZ3PDpSB1ZGVuIHJlY2VwdGQCAQ8PFgIfBgUWRsOlcyBvZ3PDpSB1ZGVuIHJlY2VwdGRkAgIPFgIfDAUQR2VuZXJlbHQgdGlsc2t1ZGQCAw8PFgIfBgUQR2VuZXJlbHQgdGlsc2t1ZGRkAgQPFgIfDAUpS2xhdXN1bGVyZXQgdGlsc2t1ZCB0aWwgaMOlbmRrw7hic21lZGljaW5kAgUPDxYCHwYFKUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIGjDpW5ka8O4YnNtZWRpY2luZGQCBg8WAh8MBS1LbGF1c3VsZXJldCB0aWxza3VkIHRpbCByZWNlcHRwbGlndGlnIG1lZGljaW5kAgcPDxYCHwYFLUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIHJlY2VwdHBsaWd0aWcgbWVkaWNpbmRkAggPFgIfDAUQQ2FubmFiaXMgdGlsc2t1ZGQCCQ8PFgIfBgUQQ2FubmFiaXMgdGlsc2t1ZGRkAgMPZBYMAgEPZBYCAgEPZBYIAgEPDxYCHwYFElNranVsL3ZpcyBrb2xvbm5lcmRkAgMPFgIfBgU2VsOmbGcgZWxsZXIgZnJhdsOmbGcgZGUga29sb25uZXIsIGRlciBza2FsIHZpc2VzPGJyIC8+ZAIFDxAPFgIfCmdkEBUKDVZpcmtzb210IHN0b2YFRmlybWEIQVRDLWtvZGUWQXBvdGVrZXRzIGluZGvDuGJzcHJpcwxQcmlzIHByLiBEREQTVGlsc2t1ZCBiZXJlZ25lcyBhZg5QcmlzIHByLiBlbmhlZBBQcmlzIHByLiBwYWtuaW5nEVVkbGV2ZXJpbmdzZ3J1cHBlGEthbiBkb3Npc2Rpc3BlbnNlcmVzIChEKRUKAjIxAjIyAjIzAjI0AjI1AjI4AjI2AjI3AjI5AjMwFCsDCmdnZ2dnZ2dnZ2dkZAIHDw8WAh8GBQhPcGRhdMOpcmRkAgMPDxYEHglJdGVtQ291bnQCBR4JUGFnZUluZGV4ZmQWAgIBDxYCHwJoFgJmD2QWAmYPZBYKAgEPZBYGAgEPDxYEHwYFB0ZvcnJpZ2UfAmhkZAIDDxYCHwECARYCZg9kFgICAQ8PFggeD0NvbW1hbmRBcmd1bWVudAUBMR4IQ3NzQ2xhc3MFCHNlbGVjdGVkHwYFATEeBF8hU0ICAmRkAgUPDxYEHwYFBk7DpnN0ZR8CaGRkAgMPDxYCHwYFFFJlc3VsdGF0ZXIgcHIuIHNpZGU6ZGQCBQ8QZA8WBGYCAQICAgMWBBAFAjEwBQIxMGcQBQIyNQUCMjVnEAUCNTAFAjUwZxAFBEFsbGUFAi0xZxYBZmQCBw9kFgJmDw8WAh8GBQhWaXMgYWxsZWRkAgkPZBYCZg8PFgIfBgUNT3BkZWwgaSBzaWRlcmRkAgUPFgQeBXN0eWxlBRtmbG9hdDpsZWZ0O292ZXJmbG93OmhpZGRlbjseBWNsYXNzBQh3aWR0aDI4MhYCAgEPPCsAEQMADxYEHwpnHwECBRYCHgVTdHlsZQU2Ym9yZGVyOjFweCBzb2xpZCAjNTA1MDUwO2JvcmRlci13aWR0aDoxcHggMHB4IDFweCAxcHg7AQ8UKwADPCsABQEAFhAeBVdpZHRoAmQeCkxhc3RDb2x1bW5oHgtDb2x1bW5EZWZJZAIUHg5GaWVsZEZvcm1hdHRlcmUeDkNoYXJhY3RlckxpbWl0AigeCkhlYWRlclRleHQFKUzDpmdlbWlkZGVsLzxici8+dmFyZW51bW1lciBbZmFjdGJveCA0MTVdHglEYXRhRmllbGQFCk5hdm5OdW1tZXIeDlNvcnRFeHByZXNzaW9uBQpOYXZuTnVtbWVyPCsABQEAFhAfFQJQHxZoHxcCHx8YZR8ZAigfGgUGU3R5cmtlHxsFBlN0eXJrZR8cBQZTdHlya2U8KwAFAQAWEB8VAlAfFmgfFwIgHxgFOkRrLk1lZGljaW5wcmlzZXIuQ29udHJvbHMuRmllbGRGb3JtYXR0ZXJzLlBha25pbmcsQXBwX0NvZGUfGQIoHxoFB1Bha25pbmcfGwULUGFrbmluZ0Zvcm0fHAULUGFrbmluZ0Zvcm0PFCsBAwIHAgcCBxYBBXlEay5NZWRpY2lucHJpc2VyLkNvbnRyb2xzLlJlc3RyaWN0ZWRGaWVsZFNvcnRlZCwgQXBwX0NvZGUueS1ldG1icWIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsDBQrAAAWAmYPZBYMAgEPD2QWCB4CaWQFB21ncl8wXzAeC29ubW91c2VvdmVyBRpjZ2IodGhpcywgdHJ1ZSwnbWdyXzFfMCcpOx4Kb25tb3VzZW91dAUbY2diKHRoaXMsIGZhbHNlLCdtZ3JfMV8wJyk7HgdvbmNsaWNrBQlnYyh0aGlzKTsWBmYPDxYCHwYFXjxkaXYgdGl0bGU9IlNlbWdsZWUKNTIxNDA5IiBpZD0nbXZucjUyMTQwOScgY2xhc3M9IndpZHRoMTAwIiBzdHlsZT0iIj5TZW1nbGVlPGJyLz41MjE0MDk8L2Rpdj5kZAIBDw8WAh8GBUo8ZGl2IHRpdGxlPSIxMDAgZW5oZWRlci9tbCIgIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj4xMDAgZW5oZWRlci9tbDwvZGl2PmRkAgIPDxYCHwYFoAE8ZGl2IHRpdGxlPSI1IHggMyBtbCAoQWJhY3VzKQppbmoudsOmc2tlLCBvcGwuLCBwZW4iIGlkPSdtdm5yaW5qLnbDpnNrZSwgb3BsLiwgcGVuJyBjbGFzcz0id2lkdGg4MCIgc3R5bGU9IiI+NSB4IDMgbWwgKEFiYWN1cyk8YnIvPmluai52w6Zza2UsIG9wbC4sIHAgLi4uPC9kaXY+ZGQCAg8PZBYIHx0FB21ncl8wXzEfHgUaY2diKHRoaXMsIHRydWUsJ21ncl8xXzEnKTsfHwUbY2diKHRoaXMsIGZhbHNlLCdtZ3JfMV8xJyk7HyAFCWdjKHRoaXMpOxYGZg8PFgIfBgVePGRpdiB0aXRsZT0iU2VtZ2xlZQo1NDcyMDkiIGlkPSdtdm5yNTQ3MjA5JyBjbGFzcz0id2lkdGgxMDAiIHN0eWxlPSIiPlNlbWdsZWU8YnIvPjU0NzIwOTwvZGl2PmRkAgEPDxYCHwYFSjxkaXYgdGl0bGU9IjEwMCBlbmhlZGVyL21sIiAgY2xhc3M9IndpZHRoODAiIHN0eWxlPSIiPjEwMCBlbmhlZGVyL21sPC9kaXY+ZGQCAg8PFgIfBgWMATxkaXYgdGl0bGU9IjUgeCAzIG1sCmluai52w6Zza2UsIG9wbC4sIHBlbiIgaWQ9J212bnJpbmoudsOmc2tlLCBvcGwuLCBwZW4nIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj41IHggMyBtbDxici8+aW5qLnbDpnNrZSwgb3BsLiwgcGVuPC9kaXY+ZGQCAw8PZBYIHx0FB21ncl8wXzIfHgUaY2diKHRoaXMsIHRydWUsJ21ncl8xXzInKTsfHwUbY2diKHRoaXMsIGZhbHNlLCdtZ3JfMV8yJyk7HyAFCWdjKHRoaXMpOxYGZg8PFgIfBgVePGRpdiB0aXRsZT0iU2VtZ2xlZQo1ODM3MjkiIGlkPSdtdm5yNTgzNzI5JyBjbGFzcz0id2lkdGgxMDAiIHN0eWxlPSIiPlNlbWdsZWU8YnIvPjU4MzcyOTwvZGl2PmRkAgEPDxYCHwYFSjxkaXYgdGl0bGU9IjEwMCBlbmhlZGVyL21sIiAgY2xhc3M9IndpZHRoODAiIHN0eWxlPSIiPjEwMCBlbmhlZGVyL21sPC9kaXY+ZGQCAg8PFgIfBgWgATxkaXYgdGl0bGU9IjUgeCAzIG1sICgyY2FyZTQpCmluai52w6Zza2UsIG9wbC4sIHBlbiIgaWQ9J212bnJpbmoudsOmc2tlLCBvcGwuLCBwZW4nIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj41IHggMyBtbCAoMmNhcmU0KTxici8+aW5qLnbDpnNrZSwgb3BsLiwgcCAuLi48L2Rpdj5kZAIEDw9kFggfHQUHbWdyXzBfMx8eBRpjZ2IodGhpcywgdHJ1ZSwnbWdyXzFfMycpOx8fBRtjZ2IodGhpcywgZmFsc2UsJ21ncl8xXzMnKTsfIAUJZ2ModGhpcyk7FgZmDw8WAh8GBV48ZGl2IHRpdGxlPSJTZW1nbGVlCjE4NDM4NiIgaWQ9J212bnIxODQzODYnIGNsYXNzPSJ3aWR0aDEwMCIgc3R5bGU9IiI+U2VtZ2xlZTxici8+MTg0Mzg2PC9kaXY+ZGQCAQ8PFgIfBgVKPGRpdiB0aXRsZT0iMTAwIGVuaGVkZXIvbWwiICBjbGFzcz0id2lkdGg4MCIgc3R5bGU9IiI+MTAwIGVuaGVkZXIvbWw8L2Rpdj5kZAICDw8WAh8GBaMBPGRpdiB0aXRsZT0iNSB4IDMgbWwgKE1lZGFydHV1bSkKaW5qLnbDpnNrZSwgb3BsLiwgcGVuIiBpZD0nbXZucmluai52w6Zza2UsIG9wbC4sIHBlbicgY2xhc3M9IndpZHRoODAiIHN0eWxlPSIiPjUgeCAzIG1sIChNZWRhcnR1dW0pPGJyLz5pbmoudsOmc2tlLCBvcGwuIC4uLjwvZGl2PmRkAgUPD2QWCB8dBQdtZ3JfMF80Hx4FGmNnYih0aGlzLCB0cnVlLCdtZ3JfMV80Jyk7Hx8FG2NnYih0aGlzLCBmYWxzZSwnbWdyXzFfNCcpOx8gBQlnYyh0aGlzKTsWBmYPDxYCHwYFXjxkaXYgdGl0bGU9IlNlbWdsZWUKMTgxMDIzIiBpZD0nbXZucjE4MTAyMycgY2xhc3M9IndpZHRoMTAwIiBzdHlsZT0iIj5TZW1nbGVlPGJyLz4xODEwMjM8L2Rpdj5kZAIBDw8WAh8GBUo8ZGl2IHRpdGxlPSIxMDAgZW5oZWRlci9tbCIgIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj4xMDAgZW5oZWRlci9tbDwvZGl2PmRkAgIPDxYCHwYFoQE8ZGl2IHRpdGxlPSI1IHggMyBtbCAoT3JpZmFybSkKaW5qLnbDpnNrZSwgb3BsLiwgcGVuIiBpZD0nbXZucmluai52w6Zza2UsIG9wbC4sIHBlbicgY2xhc3M9IndpZHRoODAiIHN0eWxlPSIiPjUgeCAzIG1sIChPcmlmYXJtKTxici8+aW5qLnbDpnNrZSwgb3BsLiwgIC4uLjwvZGl2PmRkAgYPDxYCHwJoZGQCBg8WBB8SBaQBYm9yZGVyOnNvbGlkICM1MDUwNTA7Ym9yZGVyLXdpZHRoOjBweCAxcHggMXB4IDBweDtmbG9hdDpsZWZ0O19wYWRkaW5nLWJvdHRvbTowcHg7Y2xlYXI6cmlnaHQ7X292ZXJmbG93LXg6aGlkZGVuO19vdmVyZmxvdy15OnZpc2libGU7bWF4LXdpZHRoOjQzMHB4O292ZXJmbG93OmhpZGRlbjsfE2UWAgIBDzwrABEDAA8WBB8KZx8BAgVkAQ8UKwAFPCsABQEAFhAfFQJkHxZoHxcCFR8YZR8ZAigfGgUNVmlya3NvbXQgc3RvZh8bBQxWaXJrc29tdFN0b2YfHAUMVmlya3NvbXRTdG9mPCsABQEAFhAfFQJQHxZoHxcCFh8YBThEay5NZWRpY2lucHJpc2VyLkNvbnRyb2xzLkZpZWxkRm9ybWF0dGVycy5GaXJtYSxBcHBfQ29kZR8ZAigfGgUbRmlybWE8YnIvPjxici8+W2ZhY3Rib3ggNTJdHxsFBUZpcm1hHxwFBUZpcm1hPCsABQEAFhAfFQJJHxZoHxcCHB8YBUlEay5NZWRpY2lucHJpc2VyLkNvbnRyb2xzLkZpZWxkRm9ybWF0dGVycy5UaWxza3Vkc3ByaXNCZXJlZ25lc0FmLEFwcF9Db2RlHxkCKB8aBSZUaWxza3VkIGJlcmVnbmVzIGFmIFtmYWN0Ym94IDc2XSAoa3IuKR8bBQxUaWxza3Vkc3ByaXMfHAUMVGlsc2t1ZHNwcmlzPCsABQEAFhAfFQI8HxZoHxcCGh8YBT9Eay5NZWRpY2lucHJpc2VyLkNvbnRyb2xzLkZpZWxkRm9ybWF0dGVycy5QcmlzUGVyRW5oZWQsQXBwX0NvZGUfGQIoHxoFJVByaXMgcHIuIGVuaGVkPGJyLz5bZmFjdGJveCA3N10gKGtyLikfGwUIRW5oX3ByaXMfHAUIRW5oX3ByaXM8KwAFAQAWEB8VAkYfFmcfFwIbHxgFQERrLk1lZGljaW5wcmlzZXIuQ29udHJvbHMuRmllbGRGb3JtYXR0ZXJzLlByaXNQclBha25pbmcsQXBwX0NvZGUfGQIoHxoFLFByaXMgcHIuPGJyLz5wYWtuaW5nPGJyLz5bZmFjdGJveCAxNjldIChrci4pHxsFDVByaXNQclBha25pbmcfHAUNUHJpc1ByUGFrbmluZw8UKwEFAgcCBwIHAgcCBxYBBXlEay5NZWRpY2lucHJpc2VyLkNvbnRyb2xzLlJlc3RyaWN0ZWRGaWVsZFNvcnRlZCwgQXBwX0NvZGUueS1ldG1icWIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsDBQrAAAWAmYPZBYMAgEPD2QWCB8dBQdtZ3JfMV8wHx4FGmNnYih0aGlzLCB0cnVlLCdtZ3JfMF8wJyk7Hx8FG2NnYih0aGlzLCBmYWxzZSwnbWdyXzBfMCcpOx8gBRNnYyh0aGlzLCdtZ3JfMF8wJyk7FgpmDw8WAh8GBU08ZGl2IHRpdGxlPSJJbnN1bGluIGdsYXJnaW4iICBjbGFzcz0id2lkdGgxMDAiIHN0eWxlPSIiPkluc3VsaW4gZ2xhcmdpbjwvZGl2PmRkAgEPDxYCHwYFOjxkaXYgdGl0bGU9IkFiYWN1cyIgIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj5BYmFjdXM8L2Rpdj5kZAICDw8WAh8GBa0BPGRpdiB0aXRsZT0iIiAgY2xhc3M9IndpZHRoNzMiIHN0eWxlPSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6MnB4OyI+PGltZyBzcmM9J2ltYWdlcy9pa29uX3RpbHNrdWRfYWxtZW50LmdpZicgc3R5bGU9J2Zsb2F0OmxlZnQnIGFsdD0nR2VuZXJlbHQgdGlsc2t1ZCcgLz4yODgsNjA8L2Rpdj5kZAIDDw8WAh8GBVs8ZGl2IHRpdGxlPSIyMiw0MyIgIGNsYXNzPSJ3aWR0aDYwIiBzdHlsZT0idGV4dC1hbGlnbjpyaWdodDtwYWRkaW5nLXJpZ2h0OjEwcHgiPjIyLDQzPC9kaXY+ZGQCBA8PFgIfBgXxATxkaXYgdGl0bGU9IiIgIGNsYXNzPSJ3aWR0aDcwIiBzdHlsZT0icGFkZGluZy1yaWdodDoycHgiPjxkaXYgc3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7cGFkZGluZy10b3A6MHB4Oyc+PHNwYW4gc3R5bGU9ImNvbG9yOiMwMDQ3MzEiPjMzNiw1MDwvc3Bhbj48YnIgLz48aW1nIHNyYz0naW1hZ2VzL2lrb25fcHJpc2ZhbGQuZ2lmJyBhbHQ9J1ByaXNmYWxkIHNpZGVuIHNpZHN0ZSBwcmlzcGVyaW9kZScgLz48L2Rpdj48L2Rpdj5kZAICDw9kFggfHQUHbWdyXzFfMR8eBRpjZ2IodGhpcywgdHJ1ZSwnbWdyXzBfMScpOx8fBRtjZ2IodGhpcywgZmFsc2UsJ21ncl8wXzEnKTsfIAUTZ2ModGhpcywnbWdyXzBfMScpOxYKZg8PFgIfBgVNPGRpdiB0aXRsZT0iSW5zdWxpbiBnbGFyZ2luIiAgY2xhc3M9IndpZHRoMTAwIiBzdHlsZT0iIj5JbnN1bGluIGdsYXJnaW48L2Rpdj5kZAIBDw8WAh8GBWQ8ZGl2IHRpdGxlPSJCaW9jb24gQmlvbG9naWNzIEZpbmxhbmQgT1kiICBjbGFzcz0id2lkdGg4MCIgc3R5bGU9IiI+QmlvY29uIEJpb2xvZ2ljcyBGaW5sYW5kIE9ZPC9kaXY+ZGQCAg8PFgIfBgWtATxkaXYgdGl0bGU9IiIgIGNsYXNzPSJ3aWR0aDczIiBzdHlsZT0idGV4dC1hbGlnbjpyaWdodDtwYWRkaW5nLXJpZ2h0OjJweDsiPjxpbWcgc3JjPSdpbWFnZXMvaWtvbl90aWxza3VkX2FsbWVudC5naWYnIHN0eWxlPSdmbG9hdDpsZWZ0JyBhbHQ9J0dlbmVyZWx0IHRpbHNrdWQnIC8+Mjg4LDYwPC9kaXY+ZGQCAw8PFgIfBgVbPGRpdiB0aXRsZT0iMTksMjQiICBjbGFzcz0id2lkdGg2MCIgc3R5bGU9InRleHQtYWxpZ246cmlnaHQ7cGFkZGluZy1yaWdodDoxMHB4Ij4xOSwyNDwvZGl2PmRkAgQPDxYCHwYF3QE8ZGl2IHRpdGxlPSIiICBjbGFzcz0id2lkdGg3MCIgc3R5bGU9InBhZGRpbmctcmlnaHQ6MnB4Ij48ZGl2IHN0eWxlPSd0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctdG9wOjBweDsnPjI4OCw2MDxiciAvPjxpbWcgc3JjPSdpbWFnZXMvaWtvbl91YWVuZHJhZXRQcmlzLmdpZicgYWx0PSdJbmdlbiBwcmlzw6ZuZHJpbmcgc2lkZW4gc2lkc3RlIHByaXNwZXJpb2RlJyAvPjwvZGl2PjwvZGl2PmRkAgMPD2QWCB8dBQdtZ3JfMV8yHx4FGmNnYih0aGlzLCB0cnVlLCdtZ3JfMF8yJyk7Hx8FG2NnYih0aGlzLCBmYWxzZSwnbWdyXzBfMicpOx8gBRNnYyh0aGlzLCdtZ3JfMF8yJyk7FgpmDw8WAh8GBU08ZGl2IHRpdGxlPSJJbnN1bGluIGdsYXJnaW4iICBjbGFzcz0id2lkdGgxMDAiIHN0eWxlPSIiPkluc3VsaW4gZ2xhcmdpbjwvZGl2PmRkAgEPDxYCHwYFOjxkaXYgdGl0bGU9IjJjYXJlNCIgIGNsYXNzPSJ3aWR0aDgwIiBzdHlsZT0iIj4yY2FyZTQ8L2Rpdj5kZAICDw8WAh8GBa0BPGRpdiB0aXRsZT0iIiAgY2xhc3M9IndpZHRoNzMiIHN0eWxlPSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6MnB4OyI+PGltZyBzcmM9J2ltYWdlcy9pa29uX3RpbHNrdWRfYWxtZW50LmdpZicgc3R5bGU9J2Zsb2F0OmxlZnQnIGFsdD0nR2VuZXJlbHQgdGlsc2t1ZCcgLz4yODgsNjA8L2Rpdj5kZAIDDw8WAh8GBVs8ZGl2IHRpdGxlPSIyMiw1MiIgIGNsYXNzPSJ3aWR0aDYwIiBzdHlsZT0idGV4dC1hbGlnbjpyaWdodDtwYWRkaW5nLXJpZ2h0OjEwcHgiPjIyLDUyPC9kaXY+ZGQCBA8PFgIfBgXdATxkaXYgdGl0bGU9IiIgIGNsYXNzPSJ3aWR0aDcwIiBzdHlsZT0icGFkZGluZy1yaWdodDoycHgiPjxkaXYgc3R5bGU9J3RleHQtYWxpZ246cmlnaHQ7cGFkZGluZy10b3A6MHB4Oyc+MzM3LDgwPGJyIC8+PGltZyBzcmM9J2ltYWdlcy9pa29uX3VhZW5kcmFldFByaXMuZ2lmJyBhbHQ9J0luZ2VuIHByaXPDpm5kcmluZyBzaWRlbiBzaWRzdGUgcHJpc3BlcmlvZGUnIC8+PC9kaXY+PC9kaXY+ZGQCBA8PZBYIHx0FB21ncl8xXzMfHgUaY2diKHRoaXMsIHRydWUsJ21ncl8wXzMnKTsfHwUbY2diKHRoaXMsIGZhbHNlLCdtZ3JfMF8zJyk7HyAFE2djKHRoaXMsJ21ncl8wXzMnKTsWCmYPDxYCHwYFTTxkaXYgdGl0bGU9Ikluc3VsaW4gZ2xhcmdpbiIgIGNsYXNzPSJ3aWR0aDEwMCIgc3R5bGU9IiI+SW5zdWxpbiBnbGFyZ2luPC9kaXY+ZGQCAQ8PFgIfBgUvPGRpdiB0aXRsZT0iIiAgY2xhc3M9IndpZHRoODAiIHN0eWxlPSIiPi08L2Rpdj5kZAICDw8WAh8GBakBPGRpdiB0aXRsZT0iTMOmZ2VtaWRsZXQga2FuIHbDpnJlIGhlbHQgdWRnw6VldCBlbGxlciBtaWRsZXJ0aWRpZ3QgdWRnw6VldCBwZ2EuIGxldmVyaW5nc3N2aWd0LiIgIGNsYXNzPSJ3aWR0aDczIiBzdHlsZT0idGV4dC1hbGlnbjpyaWdodDtwYWRkaW5nLXJpZ2h0OjJweCI+VWRnw6VldDwvZGl2PmRkAgMPDxYCHwYFqgE8ZGl2IHRpdGxlPSJMw6ZnZW1pZGxldCBrYW4gdsOmcmUgaGVsdCB1ZGfDpWV0IGVsbGVyIG1pZGxlcnRpZGlndCB1ZGfDpWV0IHBnYS4gbGV2ZXJpbmdzc3ZpZ3QuIiAgY2xhc3M9IndpZHRoNjAiIHN0eWxlPSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6MTBweCI+VWRnw6VldDwvZGl2PmRkAgQPDxYCHwYFuQE8ZGl2IHRpdGxlPSJMw6ZnZW1pZGxldCBrYW4gdsOmcmUgaGVsdCB1ZGfDpWV0IGVsbGVyIG1pZGxlcnRpZGlndCB1ZGfDpWV0IHBnYS4gbGV2ZXJpbmdzc3ZpZ3QuIiAgY2xhc3M9IndpZHRoNzAiIHN0eWxlPSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6MnB4Ij5VZGfDpWV0PGJyIC8+MDIuMDIuMjAyNjwvZGl2PmRkAgUPD2QWCB8dBQdtZ3JfMV80Hx4FGmNnYih0aGlzLCB0cnVlLCdtZ3JfMF80Jyk7Hx8FG2NnYih0aGlzLCBmYWxzZSwnbWdyXzBfNCcpOx8gBRNnYyh0aGlzLCdtZ3JfMF80Jyk7FgpmDw8WAh8GBU08ZGl2IHRpdGxlPSJJbnN1bGluIGdsYXJnaW4iICBjbGFzcz0id2lkdGgxMDAiIHN0eWxlPSIiPkluc3VsaW4gZ2xhcmdpbjwvZGl2PmRkAgEPDxYCHwYFPDxkaXYgdGl0bGU9Ik9yaWZhcm0iICBjbGFzcz0id2lkdGg4MCIgc3R5bGU9IiI+T3JpZmFybTwvZGl2PmRkAgIPDxYCHwYFrQE8ZGl2IHRpdGxlPSIiICBjbGFzcz0id2lkdGg3MyIgc3R5bGU9InRleHQtYWxpZ246cmlnaHQ7cGFkZGluZy1yaWdodDoycHg7Ij48aW1nIHNyYz0naW1hZ2VzL2lrb25fdGlsc2t1ZF9hbG1lbnQuZ2lmJyBzdHlsZT0nZmxvYXQ6bGVmdCcgYWx0PSdHZW5lcmVsdCB0aWxza3VkJyAvPjI4OCw2MDwvZGl2PmRkAgMPDxYCHwYFWzxkaXYgdGl0bGU9IjIwLDAwIiAgY2xhc3M9IndpZHRoNjAiIHN0eWxlPSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6MTBweCI+MjAsMDA8L2Rpdj5kZAIEDw8WAh8GBd0BPGRpdiB0aXRsZT0iIiAgY2xhc3M9IndpZHRoNzAiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OjJweCI+PGRpdiBzdHlsZT0ndGV4dC1hbGlnbjpyaWdodDtwYWRkaW5nLXRvcDowcHg7Jz4zMDAsMDA8YnIgLz48aW1nIHNyYz0naW1hZ2VzL2lrb25fdWFlbmRyYWV0UHJpcy5naWYnIGFsdD0nSW5nZW4gcHJpc8OmbmRyaW5nIHNpZGVuIHNpZHN0ZSBwcmlzcGVyaW9kZScgLz48L2Rpdj48L2Rpdj5kZAIGDw8WAh8CaGRkAggPDxYEHw0CBR8OZmQWAgIBDxYCHwJoFgJmD2QWAmYPZBYKAgEPZBYGAgEPDxYEHwYFB0ZvcnJpZ2UfAmhkZAIDDxYCHwECARYCZg9kFgICAQ8PFggfDwUBMR8QBQhzZWxlY3RlZB8GBQExHxECAmRkAgUPDxYEHwYFBk7DpnN0ZR8CaGRkAgMPDxYCHwYFFFJlc3VsdGF0ZXIgcHIuIHNpZGU6ZGQCBQ8QZA8WBGYCAQICAgMWBBAFAjEwBQIxMGcQBQIyNQUCMjVnEAUCNTAFAjUwZxAFBEFsbGUFAi0xZxYBZmQCBw9kFgJmDw8WAh8GBQhWaXMgYWxsZWRkAgkPZBYCZg8PFgIfBgUNT3BkZWwgaSBzaWRlcmRkAgoPFgIfAmgWAgIBDw8WAh8GBTZbbi9hLCBpdGVtIGtleSBtaXNzaW5nOiBTw4PCuGdlcmVzdWx0YXQgc29tIEV4Y2VsLWFya11kZAIJDw8WBB8LMqEHAAEAAAD/////AQAAAAAAAAAMAgAAAEhBcHBfQ29kZS55LWV0bWJxYiwgVmVyc2lvbj0wLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAABdEay5NZWRpY2lucHJpc2VyLlNlYXJjaAMAAAAJY3JpdGVyaWFzCnNlYXJjaFR5cGURZXh0ZW5kZWRSZXN1bHRTZXQEBAAgRGsuTWVkaWNpbnByaXNlci5TZWFyY2hDcml0ZXJpYXMCAAAAG0RrLk1lZGljaW5wcmlzZXIuU2VhcmNoVHlwZQIAAAABAgAAAAkDAAAABfz///8bRGsuTWVkaWNpbnByaXNlci5TZWFyY2hUeXBlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAAFAwAAACBEay5NZWRpY2lucHJpc2VyLlNlYXJjaENyaXRlcmlhcwwAAAAMY3RFeGFjdE1hdGNoDWN0TGFlZ2VtaWRkZWwIY3RTdHlya2UOY3RWaXJrc29tdFN0b2YJY3RQYWtuaW5nB2N0RmlybWEMY3RWYXJlbnVtbWVyCWN0QXRjS29kZRNjdFVkbGV2ZXJpbmdzZ3J1cHBlC2N0T25seURvc2lzGmN0SW5jbHVkZUxhZWdlbWlkbGVyVGlsRHlyB2NvbHVtbnMAAQEBAQEBAQEAAAMBAQF+U3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tTeXN0ZW0uSW50MzIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAAGBQAAAAdzZW1nbGVlBgYAAAAACQYAAAAJBgAAAAkGAAAACQYAAAAJBgAAAAkGAAAAAAAJBwAAAAQHAAAAflN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU3lzdGVtLkludDMyLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBwAACAgICQgAAAAIAAAACAAAAA8IAAAACAAAAAgUAAAAHwAAACAAAAAVAAAAFgAAABwAAAAaAAAAGwAAAAsfAmdkFghmDxYCHwJoZAIBD2QWFGYPFgIfDAUWRsOlcyBvZ3PDpSB1ZGVuIHJlY2VwdGQCAQ8PFgIfBgUWRsOlcyBvZ3PDpSB1ZGVuIHJlY2VwdGRkAgIPFgIfDAUQR2VuZXJlbHQgdGlsc2t1ZGQCAw8PFgIfBgUQR2VuZXJlbHQgdGlsc2t1ZGRkAgQPFgIfDAUpS2xhdXN1bGVyZXQgdGlsc2t1ZCB0aWwgaMOlbmRrw7hic21lZGljaW5kAgUPDxYCHwYFKUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIGjDpW5ka8O4YnNtZWRpY2luZGQCBg8WAh8MBS1LbGF1c3VsZXJldCB0aWxza3VkIHRpbCByZWNlcHRwbGlndGlnIG1lZGljaW5kAgcPDxYCHwYFLUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIHJlY2VwdHBsaWd0aWcgbWVkaWNpbmRkAggPFgIfDAUQQ2FubmFiaXMgdGlsc2t1ZGQCCQ8PFgIfBgUQQ2FubmFiaXMgdGlsc2t1ZGRkAgIPZBYUZg8WAh8MBRZGw6VzIG9nc8OlIHVkZW4gcmVjZXB0ZAIBDw8WAh8GBRZGw6VzIG9nc8OlIHVkZW4gcmVjZXB0ZGQCAg8WAh8MBRBHZW5lcmVsdCB0aWxza3VkZAIDDw8WAh8GBRBHZW5lcmVsdCB0aWxza3VkZGQCBA8WAh8MBSlLbGF1c3VsZXJldCB0aWxza3VkIHRpbCBow6VuZGvDuGJzbWVkaWNpbmQCBQ8PFgIfBgUpS2xhdXN1bGVyZXQgdGlsc2t1ZCB0aWwgaMOlbmRrw7hic21lZGljaW5kZAIGDxYCHwwFLUtsYXVzdWxlcmV0IHRpbHNrdWQgdGlsIHJlY2VwdHBsaWd0aWcgbWVkaWNpbmQCBw8PFgIfBgUtS2xhdXN1bGVyZXQgdGlsc2t1ZCB0aWwgcmVjZXB0cGxpZ3RpZyBtZWRpY2luZGQCCA8WAh8MBRBDYW5uYWJpcyB0aWxza3VkZAIJDw8WAh8GBRBDYW5uYWJpcyB0aWxza3VkZGQCAw8WAh8CaBYMAgEPZBYCAgEPZBYIAgEPDxYCHwYFElNranVsL3ZpcyBrb2xvbm5lcmRkAgMPFgIfBgU2VsOmbGcgZWxsZXIgZnJhdsOmbGcgZGUga29sb25uZXIsIGRlciBza2FsIHZpc2VzPGJyIC8+ZAIFDxAPFgIfCmdkEBUKDVZpcmtzb210IHN0b2YFRmlybWEIQVRDLWtvZGUWQXBvdGVrZXRzIGluZGvDuGJzcHJpcwxQcmlzIHByLiBEREQTVGlsc2t1ZCBiZXJlZ25lcyBhZg5QcmlzIHByLiBlbmhlZBBQcmlzIHByLiBwYWtuaW5nEVVkbGV2ZXJpbmdzZ3J1cHBlGEthbiBkb3Npc2Rpc3BlbnNlcmVzIChEKRUKAjIxAjIyAjIzAjI0AjI1AjI4AjI2AjI3AjI5AjMwFCsDCmdnZ2dnZ2dnZ2cWBWYCAQIFAgYCB2QCBw8PFgIfBgUIT3BkYXTDqXJkZAIDDw8WAh8NZmQWAgIBD2QWAmYPZBYCZg9kFgoCAQ9kFgQCAQ8PFgIfBgUHRm9ycmlnZWRkAgUPDxYCHwYFBk7DpnN0ZWRkAgMPDxYCHwYFFFJlc3VsdGF0ZXIgcHIuIHNpZGU6ZGQCBQ8QZA8WBGYCAQICAgMWBBAFAjEwBQIxMGcQBQIyNQUCMjVnEAUCNTAFAjUwZxAFBEFsbGUFAi0xZxYBZmQCBw9kFgJmDw8WAh8GBQhWaXMgYWxsZWRkAgkPZBYCZg8PFgIfBgUNT3BkZWwgaSBzaWRlcmRkAgUPZBYCAgEPPCsAEQIADxYEHwpnHwFmZAwUKwAAZAIGD2QWAgIBDzwrABECAA8WBB8KZx8BZmQMFCsAAGQCCA8PFgIfDWZkFgICAQ9kFgJmD2QWAmYPZBYKAgEPZBYEAgEPDxYCHwYFB0ZvcnJpZ2VkZAIFDw8WAh8GBQZOw6ZzdGVkZAIDDw8WAh8GBRRSZXN1bHRhdGVyIHByLiBzaWRlOmRkAgUPEGQPFgRmAgECAgIDFgQQBQIxMAUCMTBnEAUCMjUFAjI1ZxAFAjUwBQI1MGcQBQRBbGxlBQItMWcWAWZkAgcPZBYCZg8PFgIfBgUIVmlzIGFsbGVkZAIJD2QWAmYPDxYCHwYFDU9wZGVsIGkgc2lkZXJkZAIKDxYCHwJoFgICAQ8PFgIfBgU2W24vYSwgaXRlbSBrZXkgbWlzc2luZzogU8ODwrhnZXJlc3VsdGF0IHNvbSBFeGNlbC1hcmtdZGQCAQ8PFgIfAmhkZAIHDw8WAh8CZ2QWAmYPZBYIAgUPFgIfAwUNTWVkaWNpbmxpc3RlbmQCBw88KwARAwAPFgQfCmcfAWZkARAWABYAFgAMFCsAAGQCCw9kFgZmDxYGHxMFG01lZGljaW5saXN0ZV9FbGVtZW50X0JvdHRvbR8DBTVMJiMyMzA7cyBtZXJlIG9tLCBodm9yZGFuIGR1IGJydWdlciBkaW4gbWVkaWNpbmxpc3RlLh4EaHJlZgUVfi9kZWZhdWx0LmFzcHg/aWQ9MTA2ZAIBDxYGHxMFG01lZGljaW5saXN0ZV9FbGVtZW50X0JvdHRvbR8DBSdHJiMyMjk7IGRpcmVrdGUgdGlsIGJlcmVnbiBlZ2VuYmV0YWxpbmcfIQUUfi9kZWZhdWx0LmFzcHg/aWQ9MzNkAgIPDxYGHwYFZ0ZvciBhdCBiZXJlZ25lIGVnZW5iZXRhbGluZyBvZyB0aWxza3VkIGZvciBtZWRpY2lua8O4Yiwgc2thbCBkdSB0aWxmw7hqZSBsw6ZnZW1pZGxldCB0aWwgbWVkaWNpbmxpc3Rlbi4fEAUUTWVkaWNpbmxpc3RlX0VsZW1lbnQfEQICZGQCDQ8WAh8CaGQCCA8PFgIfBgUMUHJpc3BlcmlvZGU6ZGQCCg8WAh8GBRcyOC4wOS4yMDI2IC0gMTEuMTAuMjAyNmQCDA8PFgIfBgU6QmVtw6ZyaywgYXQgdGlsc2t1ZHNwcmlzZW4ga2FuIMOmbmRyZSBzaWcgZnJhIGRhZyB0aWwgZGFnLmRkAg4PDxYCHwYFEFNpZHN0IG9wZGF0ZXJldCBkZAIQDw8WAh8GBQowMi4xMC4yMDI2ZGQYCAUsY3RsMDAkY3RsMDckUmVzdWx0c0Nhbm5hYmlzJFJlc3VsdEdyaWRTY3JvbGwPPCsADAEIZmQFJGN0bDAwJGN0bDA3JFJlc3VsdHMkUmVzdWx0R3JpZFNjcm9sbA88KwAMAQgCAWQFImN0bDAwJE1lZGljaW5saXN0ZSRDb250ZW50R3JpZFZpZXcPPCsADAEIZmQFJWN0bDAwJGN0bDA3JFJlc3VsdHMkRXhwb3J0JFJlc3VsdEdyaWQPZ2QFLGN0bDAwJGN0bDA3JFJlc3VsdHNDYW5uYWJpcyRSZXN1bHRHcmlkU3RhdGljDzwrAAwBCGZkBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDAUqY3RsMDAkY3RsMDckc2ltcGxlRm9ybSRFeHRlbmRlZFJlc3VsdENoZWNrBS9jdGwwMCRjdGwwNyRSZXN1bHRzJENvbHVtblNlbGVjdG9yJENvbHVtbkxpc3QkMAUvY3RsMDAkY3RsMDckUmVzdWx0cyRDb2x1bW5TZWxlY3RvciRDb2x1bW5MaXN0JDEFL2N0bDAwJGN0bDA3JFJlc3VsdHMkQ29sdW1uU2VsZWN0b3IkQ29sdW1uTGlzdCQyBS9jdGwwMCRjdGwwNyRSZXN1bHRzJENvbHVtblNlbGVjdG9yJENvbHVtbkxpc3QkMwUvY3RsMDAkY3RsMDckUmVzdWx0cyRDb2x1bW5TZWxlY3RvciRDb2x1bW5MaXN0JDQFL2N0bDAwJGN0bDA3JFJlc3VsdHMkQ29sdW1uU2VsZWN0b3IkQ29sdW1uTGlzdCQ1BS9jdGwwMCRjdGwwNyRSZXN1bHRzJENvbHVtblNlbGVjdG9yJENvbHVtbkxpc3QkNgUvY3RsMDAkY3RsMDckUmVzdWx0cyRDb2x1bW5TZWxlY3RvciRDb2x1bW5MaXN0JDcFL2N0bDAwJGN0bDA3JFJlc3VsdHMkQ29sdW1uU2VsZWN0b3IkQ29sdW1uTGlzdCQ4BS9jdGwwMCRjdGwwNyRSZXN1bHRzJENvbHVtblNlbGVjdG9yJENvbHVtbkxpc3QkOQUvY3RsMDAkY3RsMDckUmVzdWx0cyRDb2x1bW5TZWxlY3RvciRDb2x1bW5MaXN0JDkFLWN0bDAwJGN0bDA3JFJlc3VsdHNDYW5uYWJpcyRFeHBvcnQkUmVzdWx0R3JpZA9nZAUkY3RsMDAkY3RsMDckUmVzdWx0cyRSZXN1bHRHcmlkU3RhdGljDzwrAAwBCAIBZBGM7dE3ASKJO6cydXwIgx8rrq9CskvCUfidOTp8p+Kv" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<script src="/WebResource.axd?d=e7196VTnOMTo49DTYKbkQ-i6AhjX1z2Ql3wrr1-eOgCDpxP2CJcadS6lN5QTxukDoxUTg9_Y0lFq52yRQwZZ-HA3v0oVJc3kOifiRyjwGF01&amp;t=639202668261329438" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABXCpHEMmopUt8jjN8QuXFqShgIUgg+oFv63Z7S8dYdp1yhg6SJJUAHOcz7qNHuODqyNCD+TeQ+zzIOZudB+/+HhX9Jck+3t+D8+Y6YU0vWrXDTK8FDGddpuHJqoAMBEQM+BahE6EgGmDOncLSnWM3MMmVTKwQIZq79zhmqlZ+rSlrNCz9vk5XWrH33keAZuovbej8EaPasYTbhXlddOgYbfe3kXQpetWNq3yga9mkg0HLtAJMOW7vc/lF+00LvfRVbGrry6loctOjUIAhTfWDkZD69yt07OSrsvovRyCUSGB1+JJGO7wZHD7g5Ydp2bESO4bAMjAGIITD9aMM7THSuxDXK/I1emIA/jHuOMKcj4WgbFBzD0+gHqc5UmxbQ2FjoDfAeFgN9mBzJvx+AcsFSKAPRvozX8lI89GAKINjaLpFC4hgu3imTXw2G1uL40owzdRFQZoiDjJUp3kd5mwu/791gyedkpIzX1kucl/nAEUQ==" />
+</div>
+                        <div style="margin: 9px 0 12px 10px;" class="PrintHide">
+                            <a href="http://www.laegemiddelstyrelsen.dk/">Forside</a> &gt; 
+                            <a href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=610">Priser &amp; medicintilskud</a> &gt; 
+                            <a href="/">Medicinpriser</a>
+                            
+                        </div>
+                        
+<div class="topBar PrintHide" style="height: 88px; width: 932px">
+<div class="citizenVersionLink" style="">
+    <a href="https://laegemiddelstyrelsen.dk/" >laegemiddelstyrelsen.dk</a>
+</div>
+
+    <div style="position: absolute; height: 24px; margin: 65px 10px 0px 0px; width: 912px;">
+        <div style="float: left;">
+            <a id="TopBar_simple" class="tabButton selected" href="javascript:__doPostBack(&#39;ctl00$TopBar$simple&#39;,&#39;&#39;)">Søgning</a><a id="TopBar_extended" class="tabButton" href="javascript:__doPostBack(&#39;ctl00$TopBar$extended&#39;,&#39;&#39;)">Udvidet søgning</a>
+        </div>
+        <div class="links">
+            <a  href="/">Forsiden</a>
+            <span style="margin-left:2px;margin-right:2px;color:#35a8e0 ;font-size:8px;">|</span>
+            <a href="/">Søg</a>
+            <span style="margin-left:2px;margin-right:2px;color:#35a8e0;font-size:8px;">|</span>            
+            <a href="/?lng=2">
+                English
+            </a>
+            <span style="margin-left:2px;margin-right:2px;color:#35a8e0;font-size:8px;">|</span>
+            <a  href="javascript:void(window.print())">Print</a>
+        </div>
+    </div>
+    <div class="header">
+        <a href="/Default.aspx">Medicinpriser.dk</a>     
+    </div>
+    <div>
+        <h1 id="TopBar_headerText" style="margin-left:10px;margin-top:10px;color:#fff;font-size:13px;">S&#248;gning</h1>
+    </div>
+</div>
+
+                        
+                        <div style="clear: both; background:#fff;"></div>
+                        
+                        <!-- <INDHOLD> -->
+                        <table id="mainContainer" >
+                            <tr>
+                                <td style="width:718px">
+                                    
+
+<style type="text/css">
+    .searchfields .header TD {
+        font-weight: bold;
+        font-family: "Source Sans Pro",sans-serif;
+        font-size: 9pt;
+        line-height: 1.4em;
+        padding-left:3px;
+    }
+
+    .searchfields .fields TD {
+        padding-right: 15px;
+    } 
+    
+    .searchfields .fields input, select {
+        border: 1px solid #505050;
+        font-size:9pt;
+        padding: 2px;
+    }
+</style>
+
+<div style="width:718px;overflow:hidden;font-size:11px;">
+
+    
+
+<style type="text/css">
+.searchfields .textBox {
+    width: 125px;
+}
+
+div.ValidationSummary
+{
+    padding: 10px;
+}
+
+div.ValidationSummary ul, .Va lidationSummary ul li
+{
+    padding: 0px 0px 0px 10px;
+    margin: 0px;
+}
+</style>
+  <div id="printHide" class="PrintHide">
+<div id="ctl07_simpleForm_SimpelSearchValidationSummary" class="ValidationSummary" style="display:none;">
+
+</div>
+<span id="ctl07_simpleForm_GenerelSimpleSearchValidator" style="display:none;"></span>
+<table summary="" class="searchfields">
+    <tr class="header">
+        <td>
+            <span id="ctl07_simpleForm_LaegemiddelLabel">Lægemiddel</span></td>
+        <td>
+            <span id="ctl07_simpleForm_VirksomtstofLabel">Virksomt stof</span>
+            <img src="images/ikon_spm.gif" alt="" id="fbi6" onclick="ShowFactBox(this.id, 'fbb59')" class="factBoxButton" align="absmiddle" />
+        </td>
+        <td>
+            <span id="ctl07_simpleForm_StyrkeLabel">Styrke</span>
+            <img src="images/ikon_spm.gif" alt="" id="fbi7" onclick="ShowFactBox(this.id, 'fbb74')" class="factBoxButton" align="absmiddle" />
+        </td>
+        <td>
+            <span id="ctl07_simpleForm_VarenummerLabel">Varenummer</span>
+            <img src="images/ikon_spm.gif" alt="" id="fbi8" onclick="ShowFactBox(this.id, 'fbb75')" class="factBoxButton" align="absmiddle" />
+        </td>
+        <td>
+        </td>
+    </tr>
+    <tr class="fields">
+        <td>
+            <div class="suggestBox" id="ctl07_simpleForm_LaegemiddelBox_1" style="display:none;"></div><input name="ctl00$ctl07$simpleForm$LaegemiddelBox" type="text" value="semglee" id="ctl07_simpleForm_LaegemiddelBox" class="textBox" /></td>
+        <td>
+            <div class="suggestBox" id="ctl07_simpleForm_VirksomtstofBox_1" style="display:none;"></div><input name="ctl00$ctl07$simpleForm$VirksomtstofBox" type="text" id="ctl07_simpleForm_VirksomtstofBox" class="textBox" /></td>
+        <td>
+            <input name="ctl00$ctl07$simpleForm$StyrkeBox" type="text" id="ctl07_simpleForm_StyrkeBox" class="textBox" OnChange="TrimStyrke(this);" OnKeyUp="TrimStyrke(this);" /></td>
+        <td>
+            <input name="ctl00$ctl07$simpleForm$VarenummerBox" type="text" maxlength="6" id="ctl07_simpleForm_VarenummerBox" class="textBox" /></td>
+        <td>
+    
+        <input type="submit" name="ctl00$ctl07$simpleForm$SearchButton" value="Søg" id="ctl07_simpleForm_SearchButton" title="Søg" class="button" style="width:66px;background:url(/Images/searchbutton_back.gif) no-repeat;" />
+            
+        
+            
+        </td>
+    </tr>
+    <tr>
+        <td colspan="5" style="text-align: right; padding-right: 12px; display:none">
+            <span id="ctl07_simpleForm_ExtendedResultLabel">Vis udvidet søgeresultat</span>
+            <input id="ctl07_simpleForm_ExtendedResultCheck" type="checkbox" name="ctl00$ctl07$simpleForm$ExtendedResultCheck" />
+        </td>
+    </tr>
+</table>
+</div>
+    
+
+    <hr style="color:#505050;height:1px;margin-top:10px" />
+
+    
+
+    
+
+
+
+
+<h2 class='resultHeadline''>Lægemidler</h2>
+
+    
+    
+<table cellpadding="0" cellspacing="0" border="0" class="tilskudIconsBox">
+    <tr>
+        
+            <td style="padding: 10px 5px 10px 10px;">
+                <img src="images/ikon_haandkoeb.gif" id="ctl07_Results_IkonForklaringerOnlyMedicine_HaandkoebImg" alt="Fås også uden recept" />
+                <span id="ctl07_Results_IkonForklaringerOnlyMedicine_LblHaandkoeb">Fås også uden recept</span>
+            </td>
+            <td style="padding: 10px 5px 10px 5px;">
+                <img src="images/ikon_tilskud_alment.gif" id="ctl07_Results_IkonForklaringerOnlyMedicine_AlmentImg" alt="Generelt tilskud" />
+                <span id="ctl07_Results_IkonForklaringerOnlyMedicine_LblTilskudAlment">Generelt tilskud</span>
+            </td>
+            <td style="padding: 10px 5px 10px 5px;">
+                <img src="images/ikon_tilskud_pensionistogbe.gif" id="ctl07_Results_IkonForklaringerOnlyMedicine_PensionistOgBestemtImg" alt="Klausuleret tilskud til håndkøbsmedicin" />
+                <span id="ctl07_Results_IkonForklaringerOnlyMedicine_LblTilskudPensionistElBestemt">Klausuleret tilskud til håndkøbsmedicin</span>
+            </td>
+            <td style="padding: 10px 10px 10px 5px;">
+                <img src="images/ikon_tilskud_bestemt.gif" id="ctl07_Results_IkonForklaringerOnlyMedicine_BestemtImg" alt="Klausuleret tilskud til receptpligtig medicin" />
+                <span id="ctl07_Results_IkonForklaringerOnlyMedicine_lblTilskudBestemt">Klausuleret tilskud til receptpligtig medicin</span>
+            </td>
+        
+    </tr>
+</table>
+
+    
+   
+    <table style="width:100%" cellpadding="0" cellspacing="0"  class="PrintHide">
+        <tr>
+            <td id="ctl07_Results_ColumnSelectorCell">
+                
+
+<script type="text/javascript">
+    
+    function ColumnSelector_Click(element) {
+        var elm = element;
+        if (elm.className === "closeButton")
+            elm = document.getElementsByClassName("activeSlider")[0];
+        var addBorder = elm.nextElementSibling || nextElementSibling(elm);
+        var slider = addBorder.nextElementSibling || nextElementSibling(addBorder);
+
+        if (addBorder.style.display === "none") {
+            addBorder.style.display = "";
+            elm.style.borderBottom = "1px solid #505050";
+            elm.className = "activeSlider";
+            Effect.SlideDown(slider, { duration: 0.5 });
+        } else {
+            Effect.SlideUp(slider, {
+                duration: 1.0,
+                afterFinish: function () {
+                    addBorder.style.display = "none";
+                    elm.style.borderBottom = "1px solid #505050";
+                    elm.className = elm.className.replace(/\bactiveSlider\b/g, "");
+                }
+            });
+        }
+  
+        
+    }
+
+
+    function nextElementSibling(el) {
+        do { el = el.nextSibling } while (el && el.nodeType !== 1);
+        return el;
+    }
+</script>
+
+<div>
+    
+    <div id="cs1" style="background:#FFFFFF;border:1px solid #505050;width:140px;padding:3px 0px 3px 5px;font-weight:bold;cursor:pointer; font-size: 11px"
+        onclick="ColumnSelector_Click(this)">
+        <span id="ctl07_Results_ColumnSelector_LblShowHideColmns">Skjul/vis kolonner</span>&nbsp;<img src="Images/ikon_sort_ned.gif" alt="" style="vertical-align:middle" />
+    </div>
+    <img src="Images/colselector_back.gif" id="ab1" alt="" style="position:absolute;display:none;margin-left:147px;margin-top:-1px" />
+    <div id="d1" style="display:none;position:absolute;z-index:1000">
+        <div style="background:#FFFFFF;border:solid #505050;border-width:0px 1px 1px 1px;width:255px;padding:3px 5px 3px 5px">
+            <img src="Images/ikon_luk.gif" class="closeButton" onclick="ColumnSelector_Click(this)" style="float:right" />            
+           Vælg eller fravælg de kolonner, der skal vises<br />
+            
+            <table id="ctl07_Results_ColumnSelector_ColumnList">
+	<tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_0" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$0" checked="checked" value="21" /><label for="ctl07_Results_ColumnSelector_ColumnList_0">Virksomt stof</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_1" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$1" checked="checked" value="22" /><label for="ctl07_Results_ColumnSelector_ColumnList_1">Firma</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_2" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$2" value="23" /><label for="ctl07_Results_ColumnSelector_ColumnList_2">ATC-kode</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_3" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$3" value="24" /><label for="ctl07_Results_ColumnSelector_ColumnList_3">Apotekets indkøbspris</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_4" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$4" value="25" /><label for="ctl07_Results_ColumnSelector_ColumnList_4">Pris pr. DDD</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_5" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$5" checked="checked" value="28" /><label for="ctl07_Results_ColumnSelector_ColumnList_5">Tilskud beregnes af</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_6" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$6" checked="checked" value="26" /><label for="ctl07_Results_ColumnSelector_ColumnList_6">Pris pr. enhed</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_7" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$7" checked="checked" value="27" /><label for="ctl07_Results_ColumnSelector_ColumnList_7">Pris pr. pakning</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_8" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$8" value="29" /><label for="ctl07_Results_ColumnSelector_ColumnList_8">Udleveringsgruppe</label></td>
+	</tr><tr>
+		<td><input id="ctl07_Results_ColumnSelector_ColumnList_9" type="checkbox" name="ctl00$ctl07$Results$ColumnSelector$ColumnList$9" value="30" /><label for="ctl07_Results_ColumnSelector_ColumnList_9">Kan dosisdispenseres (D)</label></td>
+	</tr>
+</table>
+            
+            <br />
+            <input type="submit" name="ctl00$ctl07$Results$ColumnSelector$UpdateButton" value="Opdatér" id="ctl07_Results_ColumnSelector_UpdateButton" class="button" style="float:right;margin-top:-20px" />
+        </div>
+    </div>
+</div>            
+            </td>
+            
+            <td class="pager">
+                
+
+<div style="float:none;clear:both" />
+
+
+
+            </td>
+        </tr>
+    </table>
+        
+    <table cellpadding="0" border="0" cellspacing="0" style="width:100%">
+        <tr>
+            <td>
+                <div style="padding-top:5px;padding-bottom:5px">
+                    <div id="ctl07_Results_LeftGridDiv" style="float:left;overflow:hidden;" class="width282">
+                        <div>
+	<table class="grid" cellspacing="0" id="ctl07_Results_ResultGridStatic" style="border-collapse:collapse;border:1px solid #505050;border-width:1px 0px 1px 1px;">
+		<tr style="height:45px;">
+			<th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_20')">Lægemiddel/<br/>varenummer </a><img src="images/ikon_spm.gif" alt="" id="fbi1" onclick="ShowFactBox(this.id, 'fbb415')" class="factBoxButton" align="absmiddle" /><img src="Images/ikon_sort_ned.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_20')" /></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_31')">Styrke</a><img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_31')" /></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_32')">Pakning</a><img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_32')" /></th>
+		</tr><tr id="mgr_0_0" onmouseover="cgb(this, true,&#39;mgr_1_0&#39;);" onmouseout="cgb(this, false,&#39;mgr_1_0&#39;);" onclick="gc(this);">
+			<td><div title="Semglee
+521409" id='mvnr521409' class="width100" style="">Semglee<br/>521409</div></td><td><div title="100 enheder/ml"  class="width80" style="">100 enheder/ml</div></td><td><div title="5 x 3 ml (Abacus)
+inj.væske, opl., pen" id='mvnrinj.væske, opl., pen' class="width80" style="">5 x 3 ml (Abacus)<br/>inj.væske, opl., p ...</div></td>
+		</tr><tr class="odd" id="mgr_0_1" onmouseover="cgb(this, true,&#39;mgr_1_1&#39;);" onmouseout="cgb(this, false,&#39;mgr_1_1&#39;);" onclick="gc(this);">
+			<td><div title="Semglee
+547209" id='mvnr547209' class="width100" style="">Semglee<br/>547209</div></td><td><div title="100 enheder/ml"  class="width80" style="">100 enheder/ml</div></td><td><div title="5 x 3 ml
+inj.væske, opl., pen" id='mvnrinj.væske, opl., pen' class="width80" style="">5 x 3 ml<br/>inj.væske, opl., pen</div></td>
+		</tr><tr id="mgr_0_2" onmouseover="cgb(this, true,&#39;mgr_1_2&#39;);" onmouseout="cgb(this, false,&#39;mgr_1_2&#39;);" onclick="gc(this);">
+			<td><div title="Semglee
+583729" id='mvnr583729' class="width100" style="">Semglee<br/>583729</div></td><td><div title="100 enheder/ml"  class="width80" style="">100 enheder/ml</div></td><td><div title="5 x 3 ml (2care4)
+inj.væske, opl., pen" id='mvnrinj.væske, opl., pen' class="width80" style="">5 x 3 ml (2care4)<br/>inj.væske, opl., p ...</div></td>
+		</tr><tr class="odd" id="mgr_0_3" onmouseover="cgb(this, true,&#39;mgr_1_3&#39;);" onmouseout="cgb(this, false,&#39;mgr_1_3&#39;);" onclick="gc(this);">
+			<td><div title="Semglee
+184386" id='mvnr184386' class="width100" style="">Semglee<br/>184386</div></td><td><div title="100 enheder/ml"  class="width80" style="">100 enheder/ml</div></td><td><div title="5 x 3 ml (Medartuum)
+inj.væske, opl., pen" id='mvnrinj.væske, opl., pen' class="width80" style="">5 x 3 ml (Medartuum)<br/>inj.væske, opl. ...</div></td>
+		</tr><tr id="mgr_0_4" onmouseover="cgb(this, true,&#39;mgr_1_4&#39;);" onmouseout="cgb(this, false,&#39;mgr_1_4&#39;);" onclick="gc(this);">
+			<td><div title="Semglee
+181023" id='mvnr181023' class="width100" style="">Semglee<br/>181023</div></td><td><div title="100 enheder/ml"  class="width80" style="">100 enheder/ml</div></td><td><div title="5 x 3 ml (Orifarm)
+inj.væske, opl., pen" id='mvnrinj.væske, opl., pen' class="width80" style="">5 x 3 ml (Orifarm)<br/>inj.væske, opl.,  ...</div></td>
+		</tr>
+	</table>
+</div></div><div id="ctl07_Results_RightGridDiv" style="border:solid #505050;border-width:0px 1px 1px 0px;float:left;_padding-bottom:0px;clear:right;_overflow-x:hidden;_overflow-y:visible;max-width:430px;overflow:hidden;" class="">
+                        <div>
+	<table class="grid" cellspacing="0" id="ctl07_Results_ResultGridScroll" style="border-collapse:collapse;">
+		<tr style="height:45px;">
+			<th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_21')">Virksomt stof</a><img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_21')" /></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_22')">Firma<br/><br/></a><img src="images/ikon_spm.gif" alt="" id="fbi2" onclick="ShowFactBox(this.id, 'fbb52')" class="factBoxButton" align="absmiddle" /><img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_22')" /></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_28')">Tilskud beregnes af </a><img src="images/ikon_spm.gif" alt="" id="fbi3" onclick="ShowFactBox(this.id, 'fbb76')" class="factBoxButton" align="absmiddle" /> (kr.)<img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_28')" /></th><th scope="col"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_26')">Pris pr. enhed<br/></a><img src="images/ikon_spm.gif" alt="" id="fbi4" onclick="ShowFactBox(this.id, 'fbb77')" class="factBoxButton" align="absmiddle" /> (kr.)<img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_26')" /></th><th scope="col" style="border-right:none;"><a href="javascript:__doPostBack('ctl00$ctl07$Results','Sort_27')">Pris pr.<br/>pakning<br/></a><img src="images/ikon_spm.gif" alt="" id="fbi5" onclick="ShowFactBox(this.id, 'fbb169')" class="factBoxButton" align="absmiddle" /> (kr.)<img src="Images/ikon_sort_pil.gif" alt="Sortér" onclick="__doPostBack('ctl00$ctl07$Results','Sort_27')" /></th>
+		</tr><tr id="mgr_1_0" onmouseover="cgb(this, true,&#39;mgr_0_0&#39;);" onmouseout="cgb(this, false,&#39;mgr_0_0&#39;);" onclick="gc(this,&#39;mgr_0_0&#39;);">
+			<td><div title="Insulin glargin"  class="width100" style="">Insulin glargin</div></td><td><div title="Abacus"  class="width80" style="">Abacus</div></td><td><div title=""  class="width73" style="text-align:right;padding-right:2px;"><img src='images/ikon_tilskud_alment.gif' style='float:left' alt='Generelt tilskud' />288,60</div></td><td><div title="22,43"  class="width60" style="text-align:right;padding-right:10px">22,43</div></td><td style="border-right:none;"><div title=""  class="width70" style="padding-right:2px"><div style='text-align:right;padding-top:0px;'><span style="color:#004731">336,50</span><br /><img src='images/ikon_prisfald.gif' alt='Prisfald siden sidste prisperiode' /></div></div></td>
+		</tr><tr class="odd" id="mgr_1_1" onmouseover="cgb(this, true,&#39;mgr_0_1&#39;);" onmouseout="cgb(this, false,&#39;mgr_0_1&#39;);" onclick="gc(this,&#39;mgr_0_1&#39;);">
+			<td><div title="Insulin glargin"  class="width100" style="">Insulin glargin</div></td><td><div title="Biocon Biologics Finland OY"  class="width80" style="">Biocon Biologics Finland OY</div></td><td><div title=""  class="width73" style="text-align:right;padding-right:2px;"><img src='images/ikon_tilskud_alment.gif' style='float:left' alt='Generelt tilskud' />288,60</div></td><td><div title="19,24"  class="width60" style="text-align:right;padding-right:10px">19,24</div></td><td style="border-right:none;"><div title=""  class="width70" style="padding-right:2px"><div style='text-align:right;padding-top:0px;'>288,60<br /><img src='images/ikon_uaendraetPris.gif' alt='Ingen prisændring siden sidste prisperiode' /></div></div></td>
+		</tr><tr id="mgr_1_2" onmouseover="cgb(this, true,&#39;mgr_0_2&#39;);" onmouseout="cgb(this, false,&#39;mgr_0_2&#39;);" onclick="gc(this,&#39;mgr_0_2&#39;);">
+			<td><div title="Insulin glargin"  class="width100" style="">Insulin glargin</div></td><td><div title="2care4"  class="width80" style="">2care4</div></td><td><div title=""  class="width73" style="text-align:right;padding-right:2px;"><img src='images/ikon_tilskud_alment.gif' style='float:left' alt='Generelt tilskud' />288,60</div></td><td><div title="22,52"  class="width60" style="text-align:right;padding-right:10px">22,52</div></td><td style="border-right:none;"><div title=""  class="width70" style="padding-right:2px"><div style='text-align:right;padding-top:0px;'>337,80<br /><img src='images/ikon_uaendraetPris.gif' alt='Ingen prisændring siden sidste prisperiode' /></div></div></td>
+		</tr><tr class="odd" id="mgr_1_3" onmouseover="cgb(this, true,&#39;mgr_0_3&#39;);" onmouseout="cgb(this, false,&#39;mgr_0_3&#39;);" onclick="gc(this,&#39;mgr_0_3&#39;);">
+			<td><div title="Insulin glargin"  class="width100" style="">Insulin glargin</div></td><td><div title=""  class="width80" style="">-</div></td><td><div title="Lægemidlet kan være helt udgået eller midlertidigt udgået pga. leveringssvigt."  class="width73" style="text-align:right;padding-right:2px">Udgået</div></td><td><div title="Lægemidlet kan være helt udgået eller midlertidigt udgået pga. leveringssvigt."  class="width60" style="text-align:right;padding-right:10px">Udgået</div></td><td style="border-right:none;"><div title="Lægemidlet kan være helt udgået eller midlertidigt udgået pga. leveringssvigt."  class="width70" style="text-align:right;padding-right:2px">Udgået<br />02.02.2026</div></td>
+		</tr><tr id="mgr_1_4" onmouseover="cgb(this, true,&#39;mgr_0_4&#39;);" onmouseout="cgb(this, false,&#39;mgr_0_4&#39;);" onclick="gc(this,&#39;mgr_0_4&#39;);">
+			<td><div title="Insulin glargin"  class="width100" style="">Insulin glargin</div></td><td><div title="Orifarm"  class="width80" style="">Orifarm</div></td><td><div title=""  class="width73" style="text-align:right;padding-right:2px;"><img src='images/ikon_tilskud_alment.gif' style='float:left' alt='Generelt tilskud' />288,60</div></td><td><div title="20,00"  class="width60" style="text-align:right;padding-right:10px">20,00</div></td><td style="border-right:none;"><div title=""  class="width70" style="padding-right:2px"><div style='text-align:right;padding-top:0px;'>300,00<br /><img src='images/ikon_uaendraetPris.gif' alt='Ingen prisændring siden sidste prisperiode' /></div></div></td>
+		</tr>
+	</table>
+</div>
+                    </div>
+
+                    <br style="float:none" />
+                </div>
+                <div class="PrintHide">
+                    
+
+<div style="float:none;clear:both" />
+
+
+
+                </div>
+                <br />
+            </td>
+        </tr>
+    </table>
+    
+
+
+
+<div>
+    <div id="ctl07_Results_PriceChangeIcons1_divWithoutRecept">*-markering: L&#230;gemidlet kan k&#248;bes uden recept. Fratr&#230;k da 10,00 kr. fra pakningens pris. Du kan ikke f&#229; tilskud ved k&#248;b uden recept.</div>
+      
+    
+    <div>
+        <img src="/images/ikon_prisfald.gif" id="ctl07_Results_PriceChangeIcons1_ImgPriceDrop" alt="Prisfald siden sidste prisperiode" />
+         <span id="ctl07_Results_PriceChangeIcons1_LblPriceDrop">Prisfald</span>
+        <img src="/images/ikon_prisstigning.gif" id="ctl07_Results_PriceChangeIcons1_ImgPriceIncrease" alt="Prisstigning siden sidste prisperiode" />
+         <span id="ctl07_Results_PriceChangeIcons1_LblPriceIncrease">prisstigning eller</span>
+        <img src="/images/ikon_uaendraetPris.gif" id="ctl07_Results_PriceChangeIcons1_ImgPriceNoChange" alt="Ingen prisændring siden sidste prisperiode" />
+        <span id="ctl07_Results_PriceChangeIcons1_LblNoChange">ingen ændring siden sidste prisperiode.</span>
+    </div>
+</div>
+
+
+
+    
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+</div>
+                                </td>
+                                <td style="width:214px;padding-left:8px" class="PrintHide">
+                                        <div id="Medicinliste_MedicinlisteMain" class="Medicinliste_Main" style="padding-bottom: 5px">
+    <input type="hidden" name="ctl00$Medicinliste$CookieIDHiddenField" id="Medicinliste_CookieIDHiddenField" value="8e53b6e6-d7da-4e23-8961-ef41867f44b2" />
+    
+    <div class='Medicinliste_Header'>
+        <div style="padding: 3px 10px 0px 10px;">
+            <div id="Medicinliste_divMedicinListeHeading" style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px">Medicinlisten</div>
+        </div>
+    </div>
+    <div>
+
+</div>
+    
+    <a href="default.aspx?id=106" id="Medicinliste_link" class="Medicinliste_Element_Bottom">L&#230;s mere om, hvordan du bruger din medicinliste.</a><a href="default.aspx?id=33" id="Medicinliste_linkGaaDirekteTilBereg" class="Medicinliste_Element_Bottom">G&#229; direkte til beregn egenbetaling</a><span id="Medicinliste_noProdukter" class="Medicinliste_Element">For at beregne egenbetaling og tilskud for medicinkøb, skal du tilføje lægemidlet til medicinlisten.</span>
+    
+</div>
+
+                                        <div class="relatedLinksBox">
+                                            
+    <p><a href="https://medicinpriser.dk/Default.aspx?id=104">Om
+    Medicinpriser.dk</a><a
+    href="https://medicinpriser.dk/Default.aspx?id=105">Om
+    s&oslash;gning</a><a
+    href="https://medicinpriser.dk/Default.aspx?id=106">S&aring;dan
+    bruger du medicinlisten</a><a
+    href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=5841"
+     target="_blank">CTR -&nbsp;Det Centrale Tilskudsregister</a><a
+    href="http://laegemiddelstyrelsen.dk/da/topics/statistik,-priser-og-tilskud/priser-paa-medicin/laegemiddelgrupper---substitutionsgrupper/generisk-substitution---spoergsmaal-og-svar"
+     target="_blank">Sp&oslash;rgsm&aring;l og svar om generisk
+    substitution</a></p>
+
+    <h2>Links</h2>
+
+    <p><a href="https://fmk-online.dk/fmk/"
+    target="_blank">F&aelig;lles Medicinkort</a><a
+    href="http://www.lmk.dk/" target="_blank">Medicin.dk</a><a
+    href="https://www.antidoping.dk/doping/medicin"
+    target="_blank">Anti Doping Danmark - Find tilladt almindelig
+    medicin</a><a
+    href="https://www.antidoping.dk/doping/dopinglisten"
+    target="_blank">Anti Doping Danmark liste over
+    dopingmidler</a></p>
+
+    <h2>Se ogs&aring;</h2>
+
+    <p><a
+    href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=683"
+     target="_blank">H&aring;ndk&oslash;bsl&aelig;gemidler<br />
+    </a><a
+    href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=4291"
+     target="_blank">Medicin til dyr<br />
+    </a><a
+    href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=9058"
+     target="_blank">Trafikfarlig medicin</a><a
+    href="http://laegemiddelstyrelsen.dk/ftp-upload/Oversigt_over_receptpligtige_laegemidler_med_klausuleret_tilskud.PDF"
+     target="_blank">Receptpligtige l&aelig;gemidler med
+    klausuleret tilskud</a><a
+    href="http://www.laegemiddelstyrelsen.dk/db/filarkiv/5368/liste_sygdomsklausul.pdf"
+     target="_blank"><a
+    href="http://laegemiddelstyrelsen.dk/ftp-upload/Oversigt_over_haandkoebslaegemidler_med_klausuleret_tilskud.PDF"
+     target="_blank">H&aring;ndk&oslash;bsl&aelig;gemidler med
+    klausuleret tilskud&nbsp;(PDF)</a><a
+    href="http://www.laegemiddelstyrelsen.dk/1024/visLSArtikel.asp?artikelID=5851"
+     target="_blank">Medicintilskud efter anden lovgivning</a><a
+    href="http://laegemiddelstyrelsen.dk/ftp-upload/Laegemidler_med_skaerpet_indberetningspligt_ifbm_bivirkninger.xls"
+     target="_blank">L&aelig;gemidler med sk&aelig;rpet
+    indberetningspligt ifbm bivirkninger</a><a
+    href="https://sundhedsdatabank.dk/medicin/medicinpriser-menu/medicinpriser"
+     target="_blank">Priser de seneste 5 &aring;r</a></a></p>
+  
+                                        </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <!--
+                        <div style="float:right;width:204px;" class="PrintHide">
+                        </div>
+                        -->
+                        <!-- </INDHOLD> -->
+                    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl07_simpleForm_SimpelSearchValidationSummary"));
+var Page_Validators =  new Array(document.getElementById("ctl07_simpleForm_GenerelSimpleSearchValidator"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl07_simpleForm_SimpelSearchValidationSummary = document.all ? document.all["ctl07_simpleForm_SimpelSearchValidationSummary"] : document.getElementById("ctl07_simpleForm_SimpelSearchValidationSummary");
+ctl07_simpleForm_SimpelSearchValidationSummary.validationGroup = "SimpelSearch";
+var ctl07_simpleForm_GenerelSimpleSearchValidator = document.all ? document.all["ctl07_simpleForm_GenerelSimpleSearchValidator"] : document.getElementById("ctl07_simpleForm_GenerelSimpleSearchValidator");
+ctl07_simpleForm_GenerelSimpleSearchValidator.errormessage = "Du skal i søgningen anvende mindst et af søgefelterne &quot;Lægemiddel&quot;, &quot;Virksomt stof&quot; eller &quot;Varenummer&quot;";
+ctl07_simpleForm_GenerelSimpleSearchValidator.display = "None";
+ctl07_simpleForm_GenerelSimpleSearchValidator.validationGroup = "SimpelSearch";
+ctl07_simpleForm_GenerelSimpleSearchValidator.evaluationfunction = "CustomValidatorEvaluateIsValid";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="background:#033f65;color:#FFFFFF;padding-top:6px;padding-bottom:6px;border-left: 8px solid #FFFFFF; border-right: 8px solid #FFFFFF;padding-left: 10px;">
+               <span id="lblPrisPeriode">Prisperiode:</span>&nbsp;28.09.2026 - 11.10.2026. 
+              <span id="lblBottomText">Bemærk, at tilskudsprisen kan ændre sig fra dag til dag.</span>  
+                <span id="LastUpdateLabel">Sidst opdateret </span>
+                <em><span id="LastUpdateDateLabel">02.10.2026</span></em>.
+          | <a target="_blank" style="color: #FFFFFF; text-decoration: underline" href="https://was.digst.dk/medicinpriser-dk">Tilg&aelig;ngelighedserkl&aelig;ring</a>
+            </td>
+        </tr>
+    </table>
+    
+    <div style="display:none" class="factBoxContainer" id="fbb415"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Lægemiddel</div><div class="factBoxText">
+    L&aelig;gemidlets navn. Kan evt. v&aelig;re forkortet i forhold
+    til det officielt godkendte navn.
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb52"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Firma</div><div class="factBoxText">
+    Virksomheden som distribuerer l&aelig;gemidlet i Danmark.
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb76"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Tilskud beregnes af</div><div class="factBoxText">
+    Tilskuddet bliver beregnet ud fra bel&oslash;bet &rdquo;tilskud
+    beregnes af&rdquo; og din CTR-saldo
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb77"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Pris pr enhed</div><div class="factBoxText">
+    Fx pris pr. tablet eller pris pr. ml.
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb169"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Pris pr. pakning</div><div class="factBoxText">
+    Prisen er incl. moms og gebyr (ESP, ekspeditionsprisen)
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb59"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Virksomt stof</div><div class="factBoxText">
+    Et l&aelig;gemiddel kan indeholde forskellige stoffer, men det
+    aktive stof er det virksomme stof.
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb74"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Styrke</div><div class="factBoxText">
+    Brug den styrke som st&aring;r p&aring; pakningen. Du
+    beh&oslash;ver kun at indtaste tal uden angivelse af
+    enhedsbetegnelser.
+  </div></div></div><span></span><div style="display:none" class="factBoxContainer" id="fbb75"><div class="factBox"><div class="factBoxHeader"><img src="Images/ikon_luk.gif" align="right" class="closeButton" onclick="HideFactBox(parentNode.parentNode.parentNode.id)">Varenummer</div><div class="factBoxText">
+    Brug det 6-ciferede varenummer som st&aring;r p&aring;
+    pakningen. Indtast samtlige 6 cifre.
+  </div></div></div><span></span>
+</body>
+</html>

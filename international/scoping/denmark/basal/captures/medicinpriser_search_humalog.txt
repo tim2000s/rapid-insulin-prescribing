@@ -1,0 +1,155 @@
+Forside - www.medicinpriser.dk
+Forside >
+Priser & medicintilskud >
+Medicinpriser
+laegemiddelstyrelsen.dk
+Søgning Udvidet søgning
+Forsiden
+|
+Søg
+|
+English
+|
+Print
+Medicinpriser.dk
+Søgning
+-->
+Lægemiddel
+Virksomt stof
+Styrke
+Varenummer
+Vis udvidet søgeresultat
+Lægemidler
+Fås også uden recept
+Generelt tilskud
+Klausuleret tilskud til håndkøbsmedicin
+Klausuleret tilskud til receptpligtig medicin
+Skjul/vis kolonner
+Vælg eller fravælg de kolonner, der skal vises
+Virksomt stof
+Firma
+ATC-kode
+Apotekets indkøbspris
+Pris pr. DDD
+Tilskud beregnes af
+Pris pr. enhed
+Pris pr. pakning
+Udleveringsgruppe
+Kan dosisdispenseres (D)
+Lægemiddel/
+varenummer
+Styrke
+Pakning
+Humalog
+031088
+100 E/ml
+1 htgl. a 10 ml
+injektionsvæske
+Humalog
+433086
+100 E/ml
+5 cylinderamp. a 3 ml
+injektionsvæsk ...
+Humalog KwikPen
+156506
+100 E/ml
+5 x 3 ml
+inj.væske, opløsning
+Humalog KwikPen
+052682
+100 E/ml
+5 x 3 ml (2care4)
+inj.væske, opløsni ...
+Humalog Mix25 KwikPen
+156517
+100 E/ml
+5 x 3 ml
+injektionsvæske
+Virksomt stof
+Firma
+Tilskud beregnes af (kr.)
+Pris pr. enhed
+(kr.)
+Pris pr.
+pakning
+(kr.)
+Insulin lispro
+Eli Lilly
+249,85
+24,99
+249,85
+Insulin lispro
+Eli Lilly
+389,30
+25,95
+389,30
+Insulin lispro
+Eli Lilly
+454,15
+30,28
+454,15
+Insulin lispro
+-
+Udgået
+Udgået
+Udgået
+08.12.2025
+Insulin lispro
+-
+Udgået
+Udgået
+Udgået
+29.09.2025
+*-markering: Lægemidlet kan købes uden recept. Fratræk da 10,00 kr. fra pakningens pris. Du kan ikke få tilskud ved køb uden recept.
+Prisfald
+prisstigning eller
+ingen ændring siden sidste prisperiode.
+Medicinlisten
+Læs mere om, hvordan du bruger din medicinliste. Gå direkte til beregn egenbetaling For at beregne egenbetaling og tilskud for medicinkøb, skal du tilføje lægemidlet til medicinlisten.
+Om
+Medicinpriser.dk Om
+søgning Sådan
+bruger du medicinlisten CTR - Det Centrale Tilskudsregister Spørgsmål og svar om generisk
+substitution
+Links
+Fælles Medicinkort Medicin.dk Anti Doping Danmark - Find tilladt almindelig
+medicin Anti Doping Danmark liste over
+dopingmidler
+Se også
+Håndkøbslægemidler
+Medicin til dyr
+Trafikfarlig medicin Receptpligtige lægemidler med
+klausuleret tilskud Håndkøbslægemidler med
+klausuleret tilskud (PDF) Medicintilskud efter anden lovgivning Lægemidler med skærpet
+indberetningspligt ifbm bivirkninger Priser de seneste 5 år
+-->
+-->
+Prisperiode:
+28.09.2026 - 11.10.2026.
+Bemærk, at tilskudsprisen kan ændre sig fra dag til dag.
+Sidst opdateret
+02.10.2026
+.
+| Tilgængelighedserklæring
+Lægemiddel
+Lægemidlets navn. Kan evt. være forkortet i forhold
+til det officielt godkendte navn.
+Firma
+Virksomheden som distribuerer lægemidlet i Danmark.
+Tilskud beregnes af
+Tilskuddet bliver beregnet ud fra beløbet ”tilskud
+beregnes af” og din CTR-saldo
+Pris pr enhed
+Fx pris pr. tablet eller pris pr. ml.
+Pris pr. pakning
+Prisen er incl. moms og gebyr (ESP, ekspeditionsprisen)
+Virksomt stof
+Et lægemiddel kan indeholde forskellige stoffer, men det
+aktive stof er det virksomme stof.
+Styrke
+Brug den styrke som står på pakningen. Du
+behøver kun at indtaste tal uden angivelse af
+enhedsbetegnelser.
+Varenummer
+Brug det 6-ciferede varenummer som står på
+pakningen. Indtast samtlige 6 cifre.

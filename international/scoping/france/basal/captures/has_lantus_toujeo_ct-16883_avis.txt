@@ -1,0 +1,481 @@
+                  COMMISSION DE LA TRANSPARENCE
+                                               Avis
+                                           18 avril 2018
+
+
+
+                                         Insuline glargine
+
+
+  LANTUS 100 unités/ml, solution injectable en flacon
+  B/1 flacon (CIP : 34009 359 464 9 2)
+  LANTUS 100 unités/ml, solution injectable en cartouche
+  B/5 cartouches (CIP : 34009 354 632 0 3)
+  LANTUS 100 unités/ml, solution injectable en stylo pré rempli
+  B/5 stylos Solostar (CIP : 34009 377 229 8 8)
+  TOUJEO 300 unités/ml, solution injectable en stylo prérempli
+  Boîte de 3 stylos pré-remplis Solostar de 1,5 ml (CIP : 34009 300 166 7 1)
+  Boîte de 5 stylos pré-remplis Solostar de 1,5 ml (CIP : 34009 300 166 8 8)
+  Laboratoire SANOFI AVENTIS FRANCE
+
+  Code ATC              A10AE04 (insulines et analogues d’action lente par voie injectable)
+
+  Motif de l’examen     Renouvellement de l’inscription
+
+  Listes concernées     Sécurité Sociale (CSS L.162-17)
+                        LANTUS :
+                        « Traitement du diabète sucré de l’adulte, de l’adolescent et de l’enfant à
+  Indications
+                        partir de 2 ans.»
+  concernées
+                        TOUJEO :
+                        « Traitement du diabète sucré de l’adulte. »
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    1/10
+Avis2
+01 INFORMATIONS ADMINISTRATIVES ET REGLEMENTAIRES
+                         Date initiale (procédure décentralisée) : LANTUS : 09/06/2000, LANTUS
+AMM                      SoloStar : 06/02/2001, TOUJEO : 24/04/2015
+                         Plan de gestion des risques
+Conditions de
+prescription et de
+                         Liste II
+délivrance / statut
+particulier
+                         2015
+                         A              Voies digestives et métabolisme
+                         A10            Médicaments du diabète
+Classification ATC
+                         A10A           Insulines et analogues
+                         A10AE          Insulines et analogues d’action lente par voie injectable
+                         A10AE04        Insuline glargine
+
+
+
+02 CONTEXTE
+Examen des spécialités réinscrites sur la liste des spécialités remboursables aux assurés sociaux
+pour une durée de 5 ans par tacite reconduction à compter du 26/07/2013 pour LANTUS et
+inscrites pour une durée de 5 ans à compter du 31/05/2016 pour TOUJEO (JO du 31/05/2018).
+
+Dans son dernier avis de renouvellement d’inscription du 7/05/2014, la Commission a considéré
+que le service médical rendu (SMR) par les spécialités LANTUS restait important dans le diabète
+de type 1 (chez l’adulte, l’adolescent et l’enfant à partir de 6 ans), et dans le diabète de type 2.
+Dans son avis en date du 18/12/2013 d’extension d’indication dans le diabète de type 1 de l’enfant
+âgé de 2 à 5 ans, la Commission a estimé que le SMR était important et que la Commission
+réévaluerait LANTUS en fonction de l’évolution du contexte scientifique et des données relatives
+aux analogues lents de l’insuline, notamment en termes de risque de survenue du cancer.
+
+Dans son avis d’inscription du 7/10/2015, la Commission a considéré que le SMR de TOUJEO
+était important dans l’indication de l’AMM.
+
+TOUJEO est une formulation à libération prolongée d’insuline glargine 3 fois plus concentrée que
+les médicaments précédemment autorisés à 100 unités/ml d’insuline glargine (LANTUS et son
+biosimilaire ABASAGLAR). Par conséquent, TOUJEO et LANTUS ne sont pas bioéquivalents et
+ne sont donc pas directement interchangeables.
+
+
+
+03 CARACTERISTIQUES DU MEDICAMENT
+03.1 Indications thérapeutiques
+3.1.1 LANTUS
+
+« Traitement du diabète sucré de l’adulte, de l’adolescent et de l’enfant à partir de 2 ans.»
+
+3.1.2 TOUJEO
+
+« Traitement du diabète sucré de l’adulte.»
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   2/10
+Avis2
+03.2 Posologie
+3.2.1 LANTUS
+
+« LANTUS doit être administré une fois par jour à n'importe quel moment de la journée mais au
+même moment chaque jour.
+Le schéma posologique de LANTUS (posologie et moment d'administration) doit être ajusté
+individuellement. »
+
+3.2.2 TOUJEO
+
+« TOUJEO est une insuline basale, qui doit être administrée une fois par jour à n’importe quel
+moment de la journée, de préférence au même moment chaque jour.
+Le schéma posologique (posologie et moment d’administration) doit être ajusté individuellement.
+Chez les patients atteints de diabète de type 1, TOUJEO doit être associé avec une insuline rapide
+pour couvrir les besoins en insuline prandiale.
+Chez les patients atteints de diabète de type 2, TOUJEO peut également être associé à d’autres
+médicaments antidiabétiques.
+L’activité de ce médicament est exprimée en unités. Ces unités sont spécifiques à TOUJEO et ne
+correspondent ni aux UI ni aux unités utilisées pour les autres analogues de l’insuline.3
+
+
+
+04 ANALYSE DES NOUVELLES DONNEES DISPONIBLES
+04.1 Efficacité
+Le laboratoire a fourni des nouvelles données cliniques d’efficacité1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 de
+LANTUS dans le diabète de type 1 ou de type 2 dont les résultats ne sont pas de nature à modifier
+
+
+1
+  Blevins TC. et al. Efficacy and safety of LY2963016 insulin glargine compared with insulin glargine (Lantus) in patients
+with type 1 diabetes in a randomized controlled trial: the ELEMENT 1 study. Diabetes Obes Metab 2015;17: 726-33.
+2
+  Home et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 1 Diabetes: A
+Randomized, Phase 3a, Open-Label Clinical Trial (EDITION 4). Diabetes Care 2015; 38: 2217 -25.
+3
+  Home et al. Glycaemic control and hypoglycaemia during 12 months of randomized treatment with insulin glargine 300
+U/mL versus glargine 100 U/mL in people with type 1 diabetes (EDITION 4). Diabetes Obes Metab 2017;1-8.
+4
+  Lane W.et al. Effect of Insulin Tresiba vs Insulin Glargine U100 on Hypoglycemia in Patients With Type 1
+Diabetes: The SWITCH 1 Randomized Clinical Trial. JAMA 2017; 318: 33-44.
+5
+   Riddle et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 2
+Diabetes using Basal and Mealtime Insulin: Glucose Control and Hypoglycemia in a 6-Month Randomized
+Controlled Trial (EDITION 1). Diabetes Care 2014; 37: 2755-62.
+6
+  Riddle et al. One-year sustained glycaemic control and less hypoglycaemia with new insulin glargine 300
+U/ml compared with 100 U/ml in people with type 2 diabetes using basal plus meal-time insulin: the EDITION
+1 12-month randomized trial, including 6-month extension. Diabetes Obes Metab 2015; 17: 835-42.
+7
+  Yki-Järvinen et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 2
+Diabetes Using Oral Agents and Basal Insulin: Glucose Control and Hypoglycemia in a 6-Month Randomized
+Controlled Trial (EDITION 2). Diabetes Care 2014;37:3235–43.
+8
+  Yki-Järvinen et al. Glycaemic control and hypoglycaemia with new insulin glargine 300 U/ml versus insulin
+glargine 100 U/ml in people with type 2 diabetes using basal insulin and oral antihyperglycaemic drugs: the
+EDITION 2 randomized 12-month trial including 6-month extension. Diabetes, Obesity and Metabolism 2015;
+17: 1142-49.
+9
+  Bolli et al. New insulin glargine 300 U/ml compared with glargine 100 U/ml in insulin-naïve people with type
+2 diabetes on oral glucose-lowering drugs: a randomized controlled trial (EDITION 3). Diabetes, Obesity and
+Metabolism 2015; 17: 386–94.
+10
+   Bolli et al. Glycaemic control and hypoglycaemia with insulin glargine 300 U/mL versus insulin glargine 100
+U/mL in insulin-naı¨ve people with type 2 diabetes: 12-month results from the EDITION 3 trial. Diabetes &
+Metabolism 2017; 43:351-8.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                           3/10
+Avis2
+les conclusions précédentes de la Commission. Certaines de ces études ont déjà été examinées
+par la Commission dans le cadre d’avis rendus pour ABASAGLAR (insuline glargine 100
+unités/ml), TOUJEO (insuline glargine 300 unités/ml), TRULICITY (dulaglutide).
+
+Le laboratoire a fourni des nouvelles données cliniques d’efficacité18,19,20,21,22,23,24,25 qui
+correspondent aux résultats d’extension à 12 mois d’études cliniques à 6 mois précédemment
+évaluées par la Commission dans son avis du 7/10/2015 et une méta-analyse26 dont les résultats
+ne sont pas de nature à modifier les conclusions précédentes de la Commission.
+
+
+
+
+11
+    Ritzel et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies: glycaemic control and
+hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people with type 2 diabetes.
+Diabetes Obes Metab 2015;17: 859-67.
+12
+   Rosenstock J, et al. Similar efficacy and safety of LY2963016 insulin glargine and insulin glargine (Lantus)
+in patients with type 2 diabetes who were insulin-naïve or previously treated with insulin glargine: a
+randomized, double-blind controlled trial (the ELEMENT 2 study). Diabetes Obes Metab 2015;17: 734-41.
+13
+   Owens DR. Et al. Patient-level meta-analysis of efficacy and hypoglycaemia in people with type 2 diabetes
+initiating insulin glargine 100U/mL or neutral protamine Hagedorn insulin analysed according to concomitant
+oral antidiabetes therapy. Diabetes Res Clin Pract 2017; 124: 57-65.
+14
+   Aschner P. et al. Insulin glargine compared with premixed insulin for management of insulin-naïve type 2
+diabetes patients uncontrolled on oral antidiabetic drugs: the open-label, randomized GALAPAGOS study. J
+Diabetes Complications 2015; 29: 838-45.
+15
+   Wysham C. et al. Effect of insulin degludec vs insulin glargine U100 on hypoglycemia in patients with type
+2 diabetes the SWITCH 2 randomized clinical trial. JAMA 2017; 318: 45-56.
+16
+   Giorgino F. et al. Efficacy and Safety of Once-Weekly Trulicity Versus Insulin Glargine in Patients With
+Type 2 Diabetes on Metformin and Glimepiride (AWARD-2). Diabetes Care 2015; 38: 2241-9.
+17
+   Blonde L, et al. Once-weekly Trulicity versus bedtime insulin glargine, both in combination with prandial
+insulin lispro, in patients with type 2 diabetes (AWARD-4): a randomised, open-label, phase 3, non-inferiority
+study. Lancet 2015; 385: 2057-66.
+18
+    Home et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 1
+Diabetes: A Randomized, Phase 3a, Open-Label Clinical Trial (EDITION 4). Diabetes Care 2015; 38: 2217-
+25.
+19
+   Home et al. Glycaemic control and hypoglycaemia during 12 months of randomized treatment with insulin
+glargine 300 U/mL versus glargine 100 U/mL in people with type 1 diabetes (EDITION 4). Diabetes Obes
+Metab 2017; 34:1-8.
+20
+    Riddle et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 2
+Diabetes using Basal and Mealtime Insulin: Glucose Control and Hypoglycemia in a 6-Month Randomized
+Controlled Trial (EDITION 1). Diabetes Care 2014; 37: 2755-62.
+21
+   Riddle et al. One-year sustained glycaemic control and less hypoglycaemia with new insulin glargine 300
+U/ml compared with 100 U/ml in people with type 2 diabetes using basal plus meal-time insulin: the EDITION
+1 12-month randomized trial, including 6-month extension. Diabetes Obes Metab 2015; 17:835-42.
+22
+   Yki-Järvinen et al. New Insulin Glargine 300Units/mL Versus Glargine 100 Units/mL in People With Type 2
+Diabetes Using Oral Agents and Basal Insulin: Glucose Control and Hypoglycemia in a 6-Month Randomized
+Controlled Trial (EDITION 2). Diabetes Care 2014;37:3235–43.
+23
+   Yki-Järvinen et al. Glycaemic control and hypoglycaemia with new insulin glargine 300 U/ml versus insulin
+glargine 100 U/ml in people with type 2 diabetes using basal insulin and oral antihyperglycaemic drugs: the
+EDITION 2 randomized 12-month trial including 6-month extension. Diabetes, Obesity and Metabolism 2015;
+17: 1142-49.
+24
+   Bolli et al. New insulin glargine 300 U/ml compared with glargine 100 U/ml in insulin-naïve people with type
+2 diabetes on oral glucose-lowering drugs: a randomized controlled trial (EDITION 3). Diabetes, Obesity and
+Metabolism 2015; 17: 386-94.
+25
+   Bolli et al. Glycaemic control and hypoglycaemia with insulin glargine 300 U/mL versus insulin glargine 100
+U/mL in insulin-naı¨ve people with type 2 diabetes: 12-month results from the EDITION 3 trial. Diabetes &
+Metabolism 2017; 43:351-8.
+26
+    Ritzel et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies: glycaemic control and
+hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people with type 2 diabetes.
+Diabetes Obes Metab 2015;17:859-67.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                            4/10
+Avis2
+04.2 Tolérance/Effets indésirables
+    Le laboratoire a fourni des nouvelles données de tolérance, à savoir des PSUR ou PBRER
+couvrant les périodes du 22/04/2012 au 21/04/2013 pour LANTUS et pour LANTUS et TOUJEO du
+22/04/2013 au 21/02/2016, du 22/02/2016 au 21/10/2016, du 22/10/2016 au 21/04/2017 et du
+22/04/2017 au 21/10/2017.
+Lors du dernier PBRER couvrant la période du 22/04/2017 au 21/10/2017, les risques importants
+identifiés concernaient les hypoglycémies, les erreurs médicamenteuses de type confusion entre
+les insulines, les réactions au site d’injection, les réactions d’hypersensibilité généralisées.
+Les risques importants potentiels concernaient les malignités, l’immunogénicité et les erreurs
+médicamenteuses de type doses injectées inappropriées dues notamment à un blocage de
+l’aiguille en cas d’usage contraire aux instructions d’utilisation, ou liées à un ajustement
+inapproprié des unités nécessaires ou liées à l’utilisation inappropriée telle que l’extraction de
+l’insuline du stylo avec une seringue et les erreurs médicamenteuses liées au changement de la
+formulation 100 unités/mL à la formulation 300 unités/mL sans ajustement de dose27.
+Depuis le dernier PBRER, aucun nouveau risque n’a été identifié.
+
+  La Commission de la Transparence dans son avis du 7 mai 2014 rendu pour LANTUS avait
+évalué la carcinogénicité de l’insuline glargine et avait conclu dans cet avis qu’aucun lien causal
+entre la survenue de cancer (du sein notamment) et les analogues lents de l’insuline (insuline
+glargine notamment) n’a été mis en évidence et que des données à plus long terme sont
+nécessaires pour exclure ce doute. Deux études28,29 concernant l’évaluation du risque carcinogène
+de l’insuline glargine et plus généralement les données de pharmacovigilance sur la
+carcinogénicité disponibles sur cette période ne mettent pas en évidence de modification du profil
+de tolérance.
+
+  Depuis la dernière soumission à la Commission, des modifications de RCP de LANTUS ont été
+réalisées :
+    - Intégration des données de l’étude ORIGIN dans la rubrique 5.1 Propriétés
+        pharmacodynamiques (étude évaluée par la Commission de Transparence lors de la
+        précédente réinscription de LANTUS en date du 7/05/2014)
+    - Mise à jour de la section 4.6 « Fécondité, grossesse et allaitement » suite à de nouvelles
+        données d'utilisation post-commercialisation de l'insuline glargine 100 unités/ml pendant la
+        grossesse.
+    - Intégration dans la rubrique 4.2 « Posologie » du RCP du libellé relatif aux
+        recommandations d’adaptation des doses lors de la transition d’autres insulines à LANTUS
+        (cf annexe 1).
+Des modifications du RCP et de la notice de TOUJEO ont été réalisées concernant le risque
+d’erreur médicamenteuse avec les insulines à fortes concentrations (cf annexe 2).
+
+     Le profil de tolérance connu de ces spécialités n’est pas modifié.
+
+
+04.3 Données d’utilisation/de prescription
+
+
+27
+   ANSM. Attention aux risques d’erreurs entre insulines à 100 UI/mL et insulines à forte concentration.
+Bulletin des vigilances n°72. Février 2017. Les insulines à forte concentration font l’objet de mesures de
+réduction du risque : des documents d’information à destination des patients (remis par le prescripteur) et
+des professionnels de santé ont été diffusés afin de leur rappeler les recommandations à suivre
+rigoureusement lors de toute prescription ou tout usage d’une insuline à forte concentration.
+28
+   Wu JW et al. Long-Term Use of Long-Acting Insulin Analogs and Breast Cancer Incidence in Women With
+Type 2 Diabetes. J Clin Oncol 2017; 35: 3647-53.
+29
+   But A et al. Cancer risk among insulin users: comparing analogues with human insulin in the CARING five-
+country cohort study. Diabetologia 2017; 60: 1691-1703.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                        5/10
+Avis2
+Selon les données IMS-EPPM (cumul mobile annuel automne 2017), LANTUS a fait l’objet de
+1 602 970 prescriptions, dont 88% sont identifiées comme étant dans le diabète. TOUJEO a fait
+l’objet de 300 785 prescriptions, dont 95% sont identifiées comme étant dans le diabète.
+
+
+04.4 Stratégie thérapeutique
+Les données acquises de la science sur le diabète de type 1 et de type 2 et ses modalités de prise
+en charge ont également été prises en compte30.
+Depuis les dernières évaluations par la Commission du 18/12/2013 et du 7/05/2014, la place de
+LANTUS dans la stratégie thérapeutique du diabète de type 1 et de type 2 n’a pas été modifiée.
+Depuis la précédente évaluation par la Commission du 7/10/2015, la place de TOUJEO dans la
+stratégie thérapeutique du diabète de type 1 et de type 2 n’a pas été modifiée.
+
+
+
+05 CONCLUSIONS DE LA COMMISSION
+Considérant l’ensemble de ces informations et après débat et vote, la Commission estime
+que les conclusions de ses avis précédents du 18/12/2013 et du 7/05/2014 pour LANTUS et
+du 7/10/2015 pour TOUJEO n’ont pas à être modifiées.
+
+
+05.1 Service Médical Rendu
+  Le diabète, de type 1 et de type 2, est une maladie chronique aux complications potentiellement
+graves, notamment cardiovasculaires et rénales.
+
+     LANTUS et TOUJEO entrent dans le cadre d’un traitement symptomatique de l’hyperglycémie.
+
+  Le rapport efficacité/effets indésirables de ces spécialités reste important, hormis pour LANTUS
+chez l’enfant DT1 âgé de 2 à 5 ans où il reste mal établi.
+
+   LANTUS et TOUJEO sont des traitements recommandés dans la prise en charge du diabète de
+type 1 et de type 2. LANTUS et TOUJEO sont des traitements de 1ère intention dans la prise en
+charge du diabète de type 1. Chez l’enfant âgé de 2 à 5 ans, LANTUS est un traitement de 2ème
+intention. Le choix du schéma d’insulinothérapie dépend des objectifs glycémiques pour chaque
+enfant, de ses préférences, son mode de vie et ceux de sa famille. Les analogues lents de
+l’insuline (insuline glargine et insuline détémir), peuvent être utilisés chez l’enfant diabétique de
+type 1 comme insuline basale dans un schéma basal-bolus (en association avec une insuline
+d’action rapide ou un analogue d’action rapide). L’acceptabilité du traitement (notamment le
+nombre d’injections quotidiennes nécessaires) est un élément important à prendre en compte,
+notamment chez l’enfant en bas âge.
+Dans le diabète de type 2, LANTUS et TOUJEO sont des traitements de 2ème intention ; elles
+représentent une alternative, comme l’insuline détémir, à une insuline d’action intermédiaire (NPH)
+si le risque d’hypoglycémie nocturne sévère est préoccupant.
+
+     Il existe des alternatives médicamenteuses à ces spécialités.
+
+Compte tenu de ces éléments, la Commission considère que le service médical rendu par
+les spécialités :
+    - LANTUS reste important dans le traitement du diabète sucré de l’adulte, de
+       l’adolescent et de l’enfant à partir de 2 ans,
+    - TOUJEO reste important dans le traitement du diabète sucré de l’adulte.
+
+30
+  Haute Autorité de Santé. Stratégie médicamenteuse du contrôle glycémique du diabète de type 2.
+Recommandations de bonne pratique de la HAS. Janvier 2013.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique             6/10
+Avis2
+05.2 Recommandations de la Commission
+La Commission donne un avis favorable au maintien de l'inscription de LANTUS et TOUJEO
+sur la liste des spécialités remboursables aux assurés sociaux dans l’indication de l’AMM.
+
+ Taux de remboursement proposé : 65 %
+
+   Conditionnements
+Ils sont adaptés aux conditions de prescription selon l’indication, la posologie et la durée de
+traitement.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique            7/10
+Avis2
+                                                   Annexe 1 : modifications du RCP de LANTUS
+                            Texte précédent                                         Texte approuvé (opinion positive du CHMP le 25.06.2015)
+-    4.2      Posologie et mode d’administration                        -       4.2       Posologie et mode d’administration
+ (…)                                                                    (…)
+                                                                        -       Remplacement d’autres insulines par Lantus
+                                                                        -
+                                                                        Quand on remplace une insuline d’action intermédiaire ou d’action prolongée
+                                                                        par Lantus, il peut être nécessaire de modifier la dose d’insuline et/ou
+                                                                        d’ajuster la posologie du traitement antidiabétique concomitant (doses et
+                                                                        horaires d’administration des insulines rapides ou des analogues rapides de
+                                                                        l’insuline ou posologies des antidiabétiques oraux associés).
+                                                                        Remplacement de 2 injections journalières d’insuline NPH par une injection
+                                                                        quotidienne de Lantus
+                                                                        Afin de réduire le risque de survenue d’une hypoglycémie nocturne ou de
+                                                                        début de journée, les patients qui remplacent leur schéma d’insuline basale
+                                                                        de 2 injections journalières d’insuline NPH par une injection quotidienne de
+                                                                        Lantus doivent réduire leur dose quotidienne d’insuline basale de 20-30 %
+                                                                        durant les premières semaines de traitement.
+                                                                        Remplacement de l’insuline glargine 300 unités/ml par Lantus
+                                                                        Lantus et Toujeo (insuline glargine 300 unités/ml) ne sont pas bioéquivalents
+                                                                        et ne sont donc pas directement interchangeables. Afin de réduire le risque
+                                                                        de survenue d’une hypoglycémie, les patients qU/ml remplacent leur schéma
+                                                                        d’insuline basale à une injection quotidienne d’insuline glargine 300 unités/ml
+                                                                        par une injection quotidienne de Lantus doivent réduire leur dose de 20%
+                                                                        environ.
+                                                                        Durant les premières semaines, cette réduction doit, au moins en partie, être
+                                                                        compensée par une augmentation de l’insuline couvrant les repas, après
+                                                                        cette période le traitement devra être ajusté individuellement.
+                                                                        Il est recommandé d’assurer une surveillance métabolique étroite pendant la
+                                                                        période de remplacement et les premières semaines qui suivent.
+                                                                        En cas d’amélioration de l’équilibre métabolique et, par conséquent,
+                                                                        d’augmentation de la sensibilité à l’insuline, il peut être nécessaire d’effectuer
+                                                                        un ajustement posologique supplémentaire. Un ajustement posologique peut
+                                                                        également s’avérer nécessaire par exemple en cas de modification du poids
+                                                                        corporel ou du mode de vie du patient, de modification de l’heure
+                                                                        d’administration de l’insuline ou dans toute autre circonstance pouvant
+                                                                        augmenter la susceptibilité à l’hypo- ou à l’hyperglycémie (voir rubrique 4.4).
+                                                                        Les patients nécessitant de fortes doses d’insuline en raison de la présence
+                                                                        d’anticorps anti-insuline humaine peuvent constater une amélioration de leur
+                                                                        réponse à l’insuline avec Lantus.
+                                                                        (…)
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                  8/10
+Avis2
+                                                             Annexe 2 : modifications du RCP de TOUJEO
+
+Texte Actuel                                                                  Texte Proposé (variation type II suite à PRAC request)
+ANNEXE I – RCP
+4. DONNEES CLINIQUES                                                          4. DONNEES CLINIQUES
+4.2 Posologie et mode d’administration                                        4.2 Posologie et mode d’administration
+Mode d’administration                                                         Mode d’administration
+Toujeo ne doit pas être utilisé avec une pompe à insuline.                    Toujeo ne doit pas être utilisé avec une pompe à insuline.
+
+                                                                              Le mode d’emploi inclus dans la notice doit être lu avec attention avant
+                                                                              toute utilisation du stylo prérempli Toujeo SoloStar (voir rubrique 6.6).
+                                                                              Le stylo prérempli Toujeo SoloStar permet d’injecter une dose d’insuline
+Le stylo prérempli Toujeo SoloStar permet d’injecter une dose d’insuline      comprise entre 1 et 80 unités par injection. La sélection de la dose
+comprise entre 1 et 80 unités par injection. La sélection de la dose          s’effectue par intervalle de 1 unité. La fenêtre d’affichage de la dose
+s’effectue par intervalle de 1 unité. La fenêtre d’affichage de la dose       affiche le nombre d’unités de Toujeo qui sera injecté. Le stylo prérempli
+affiche le nombre d’unités de Toujeo qui sera injecté. Le stylo prérempli     Toujeo SoloStar a été spécifiquement conçu pour Toujeo, il n’y a donc
+Toujeo SoloStar a été spécifiquement conçu pour Toujeo, il n’y a donc         pas besoin de recalculer la dose.
+pas besoin de recalculer la dose.
+                                                                               Toujeo ne doit pas être prélevé de la cartouche du stylo prérempli Toujeo
+ Toujeo ne doit pas être prélevé de la cartouche du stylo prérempli Toujeo    SoloStar avec une seringue, un surdosage sévère pourrait survenir (voir
+SoloStar avec une seringue, un surdosage sévère pourrait survenir (voir       rubriques 4.4, 4.9 et 6.6).
+rubriques 4.9 et 6.6).
+                                                                               Avant chaque injection, une aiguille neuve stérile doit être soigneusement
+ Avant chaque injection, une aiguille neuve stérile doit être soigneusement   fixée. Une réutilisation des aiguilles augmente le risque d’obstruction des
+fixée. Une réutilisation des aiguilles augmente le risque d’obstruction des   aiguilles, ce qui peut conduire à un sous-dosage ou à un surdosage (voir
+aiguilles, ce qui peut conduire à un sous-dosage ou à un surdosage (voir      rubrique 4.4 et 6.6).
+rubrique 6.6).
+                                                                              Afin de prévenir la transmission éventuelle de maladies, les stylos
+Afin de prévenir la transmission éventuelle de maladies, les stylos           d’insuline ne doivent pas être utilisés pour plus d’un patient, même en cas
+d’insuline ne doivent pas être utilisés pour plus d’un patient, même en cas   de changement d’aiguille (voir rubrique 6.6).
+de changement d’aiguille (voir rubrique 6.6).
+
+ Le mode d’emploi inclus dans la notice doit être lu avec attention avant
+toute utilisation du stylo prérempli Toujeo SoloStar (voir rubrique 6.6).
+
+4.4 Mises en garde spéciales et précautions d’emploi                4.4 Mises en garde spéciales et précautions d’emploi
+Prévention des erreurs médicamenteuses                              Prévention des erreurs médicamenteuses
+                                                                    Des erreurs médicamenteuses ont été rapportées à l’occasion desquelles
+                                                                    d’autres insulines, notamment des insulines d’action rapide, ont été
+                                                                    accidentellement administrées à la place d’insulines d’action prolongée.
+ HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 9/10
+ Avis2
+                                                                               L’étiquette de l’insuline doit toujours être vérifiée avant chaque injection
+L’étiquette de l’insuline doit toujours être vérifiée avant chaque injection   pour éviter les erreurs médicamenteuses entre Toujeo et d’autres
+pour éviter les erreurs médicamenteuses entre Toujeo et d’autres               insulines (voir rubrique 6.6).
+insulines (voir rubrique 6.6).
+                                                                               Afin d’éviter les erreurs de dose et un éventuel surdosage, les patients
+                                                                               doivent être informés de ne jamais utiliser une seringue pour prélever
+                                                                               Toujeo (insuline glargine 300 unités/ml) dans le stylo Solostar prérempli
+                                                                               (voir rubrique 4.9 et 6.6).
+
+                                                                               Une nouvelle aiguille stérile doit être fixée avant chaque injection. Il faut
+                                                                               informer les patients de ne pas réutiliser les aiguilles. La réutilisation des
+                                                                               aiguilles augmente le risque d’obstruction des aiguilles et peut conduire à
+                                                                               un sous-dosage ou à un surdosage. En cas d’obstruction de l’aiguille, les
+                                                                               patients doivent suivre les instructions décrites dans l’étape 3 du mode
+                                                                               d’emploi inclus dans la notice (voir rubrique 6.6).
+
+Les patients doivent vérifier le nombre d’unités sélectionné dans la fenêtre   Les patients doivent vérifier le nombre d’unités sélectionné dans la fenêtre
+d’affichage de la dose du stylo. Les patients aveugles ou malvoyants           d’affichage de la dose du stylo. Les patients aveugles ou malvoyants
+doivent recourir à l’aide d’1 personne ayant une bonne vision et entrainée     doivent recourir à l’aide d’1 personne ayant une bonne vision et entrainée
+à l’utilisation des stylos à insuline.                                         à l’utilisation des stylos à insuline.
+
+Voir aussi rubrique 4.2 section « Mode d’administration ».                     Voir aussi rubrique 4.2 section « Mode d’administration ».
+
+
+
+
+  HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                          10/10
+  Avis2
+

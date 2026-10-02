@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Extract from fest251.xml (FEST 2.5.1, file dated 2026-09-29), downloaded 2026-10-02 from https://www.dmp.no/globalassets/documents/om-oss/distribusjon-av-legemiddeldata/fest/festfiler/fest251.zip -->
+<Extract>
+<OppfLegemiddelpakning>
+      <Id>ID_81C088C3-1A9C-4DD9-A930-2F9B35583579</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Lantus inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_A16E71E4-778F-44E6-B9D2-3DFD076077EB</RefRefusjonsgruppe>
+          <GyldigFraDato>2023-08-28</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_AD81D6D4-2006-4D65-B0C1-6AF6D5681BAC</RefByttegruppe>
+          <GyldigFraDato>2016-12-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_12F04B33-1FC0-45E6-8F94-5162270C77D0</Id>
+        <Varenr>081996</Varenr>
+        <Ean>3582910088363</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_16663BDE-8780-4E25-A398-05DDF354D868</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="245" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, SoloStar" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="5" S="2.16.578.1.12.4.1.1.7453" DN="Trinnpris" />
+          <Pris V="446.6" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="578.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="446.6" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="423.23" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2007-12-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/lantus-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_C6D49C22-8DA0-44F0-89FB-FDF13CCB234B</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin detemir" />
+        <NavnFormStyrke>Levemir inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_8A0F45F0-42FC-4126-9E56-AF9650E0E1B5</RefRefusjonsgruppe>
+          <GyldigFraDato>2010-01-01</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_21145BA5-1612-477A-A0B3-647E85D34F92</Id>
+        <Varenr>019764</Varenr>
+        <Ean>5712249102975</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_53821B58-D9B5-48A8-A20B-C3A8C8310D41</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="250" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, FlexPen" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="607.6" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="445.96" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="607.6" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2004-09-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/levemir-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_C1298A59-DEA0-4136-AA12-C2991ED4D063</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE06" S="2.16.578.1.12.4.1.1.7180" DN="Insulin degludek" />
+        <NavnFormStyrke>Tresiba inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_69BC14D6-8882-4244-95AD-4B6D58636410</RefRefusjonsgruppe>
+          <GyldigFraDato>2016-02-15</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_37ED4948-028E-4EDB-BBE8-A11D1EF14030</RefByttegruppe>
+          <GyldigFraDato>2019-09-15</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_258E95B1-61FC-4CAB-94F1-C55E2F21B05D</Id>
+        <Varenr>574271</Varenr>
+        <Ean>5712249102906</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_42C69E49-3032-46F5-8637-45AB78C8FC6A</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="477.85" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="648.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="648.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2014-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/tresiba-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_8067F8CD-F772-4BB2-8638-6B1E15E9D829</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>NovoRapid Flexpen inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_B4CE9EE4-1790-4B19-AF24-D8A77F7E84FA</RefByttegruppe>
+          <GyldigFraDato>2022-11-15</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_29E9684D-3D1D-4C5C-8663-A478297892CD</Id>
+        <Varenr>010117</Varenr>
+        <Ean>5712249102753</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_73871BBE-0D6F-46CB-82DE-1B2C0772EA99</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="25" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="260.24" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="5" S="2.16.578.1.12.4.1.1.7453" DN="Trinnpris" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="369.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2005-03-03</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/novorapid-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_1A119FB5-1ACC-49A6-A9D6-0C08DA431AA1</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Toujeo inj, oppl 300 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_BB373396-178E-41A2-8B57-85D77AE8B9F8</RefRefusjonsgruppe>
+          <GyldigFraDato>2015-08-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_83C7D3E7-35C2-4612-ADDA-C5973EE079D2</RefByttegruppe>
+          <GyldigFraDato>2019-09-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_3ADE859B-014D-4986-9C5A-3C038B50E299</Id>
+        <Varenr>135216</Varenr>
+        <Ean>3582910083573</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_D2E969C4-EE30-4A6E-BF36-9FF200E721C0</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 1.5</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="245" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, SoloStar" />
+          <Antall>5</Antall>
+          <Mengde>1.5</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>2250</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="841.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="841.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="628.82" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2015-08-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/toujeo-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_C26BA68E-3D7B-4420-A404-4AA118163AE0</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Lyumjev inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2021-02-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_4097A9DA-D935-4CF8-AFC3-4AC799D530D5</Id>
+        <Varenr>467025</Varenr>
+        <Ean>300020785551</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_A86E1BAF-EEE6-4627-97EA-427ABA5549B4</RefLegemiddelMerkevare>
+          <Pakningsstr>10</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="37" S="2.16.578.1.12.4.1.1.7449" DN="Hetteglass" />
+          <Mengde>10</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="148.23" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="226.2" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="226.2" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2021-04-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/lyumjev-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_6339D549-7D37-4EB3-B455-15BE6B893245</Id>
+      <Tidspunkt>2026-09-03T03:12:13</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin detemir" />
+        <NavnFormStyrke>Levemir inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_8A0F45F0-42FC-4126-9E56-AF9650E0E1B5</RefRefusjonsgruppe>
+          <GyldigFraDato>2010-01-01</GyldigFraDato>
+          <ForskrivesTilDato>2027-03-31</ForskrivesTilDato>
+          <UtleveresTilDato>2027-03-31</UtleveresTilDato>
+        </Refusjon>
+        <Id>ID_4920190C-BFAF-42FE-A1D7-BC6C188B58E2</Id>
+        <Varenr>019751</Varenr>
+        <Ean>5712249102968</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_DB06937D-394D-4277-A6D4-6496C93C5837</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="458.43" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+          <GyldigTilDato>2027-03-31</GyldigTilDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="623.6" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+          <GyldigTilDato>2027-03-31</GyldigTilDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="623.6" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+          <GyldigTilDato>2027-03-31</GyldigTilDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2004-09-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/levemir-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_2044DFE9-BEBC-4D29-ABAD-906F51A262E2</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Toujeo inj, oppl 300 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_BB373396-178E-41A2-8B57-85D77AE8B9F8</RefRefusjonsgruppe>
+          <GyldigFraDato>2015-08-01</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_59604610-8F5C-4AD8-89D9-2B47F188F401</Id>
+        <Varenr>445705</Varenr>
+        <Ean>3582910083566</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_D2E969C4-EE30-4A6E-BF36-9FF200E721C0</RefLegemiddelMerkevare>
+          <Pakningsstr>3 x 1.5</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="245" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, SoloStar" />
+          <Antall>3</Antall>
+          <Mengde>1.5</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1350</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="377.29" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="519.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="519.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2015-08-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/toujeo-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_94E0F814-EBDB-45E3-B2C8-A7B6B8D996A4</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>Fiasp inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2017-06-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_5AED3D22-E020-4C33-AA19-E39FA770D1B7</Id>
+        <Varenr>522519</Varenr>
+        <Ean>5712249102708</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_B8E199C1-E91A-4AF4-84F6-201F87A51C20</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="252" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle, Penfill" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="361" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="361" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="253.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2017-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/fiasp-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_C9147FA4-6FBA-4B9A-93D1-C5389B96963E</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Lyumjev inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2021-02-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_67AF8BFD-9290-4144-AA58-58BE29B4F222</Id>
+        <Varenr>553635</Varenr>
+        <Ean>300020786558</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_763C6841-53C0-40F6-BE8D-D3BF2638A334</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="399.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="283.66" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="399.7" U="NOK" />
+          <GyldigFraDato>2024-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2021-04-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/lyumjev-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_79F78A24-4D88-4561-BFC6-345511E7F06E</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>NovoRapid PumpCart inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2015-11-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_6AAECC05-331B-4149-919F-F8728DB42C2D</Id>
+        <Varenr>043207</Varenr>
+        <Ean>5712249102883</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_B6BB9798-15DA-4B87-99F9-A70679C1CA6C</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 1.6</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>1.6</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>800</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="215.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="139.57" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="215.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2017-05-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/novorapid-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_F3D7C697-2C36-4EA8-90A3-0F427FC89AC6</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>NovoRapid inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_7F139D09-A2D7-40AA-AFA2-A83F3C54C122</RefByttegruppe>
+          <GyldigFraDato>2025-07-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_7204E0F5-CEC4-4EE5-8553-2BA28256E4A6</Id>
+        <Varenr>093856</Varenr>
+        <Ean>5712249102630</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_C72E0BDC-52DB-4D5F-9E17-29CE2977DA1D</RefLegemiddelMerkevare>
+          <Pakningsstr>10</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="37" S="2.16.578.1.12.4.1.1.7449" DN="Hetteglass" />
+          <Mengde>10</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="246.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="246.5" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="164.11" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2005-03-03</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/novorapid-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_8DBD7EF2-9EA6-47B6-A080-A51339D1479D</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog KwikPen inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2009-06-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_2C1BF309-2C3C-4CE0-A15B-27EA1555B3AE</RefByttegruppe>
+          <GyldigFraDato>2022-11-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_75504E13-873D-493D-903F-9BA367F8D1DF</Id>
+        <Varenr>156506</Varenr>
+        <Ean>300020393558</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_277B83D0-8C25-4A70-B822-4E8569DDDB94</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="248" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, KwikPen" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="471.6" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="471.6" U="NOK" />
+          <GyldigFraDato>2026-02-10</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="339.75" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2009-09-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_BF2DEBD8-5645-433E-8521-429A9F573C5F</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog Junior KwikPen inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2026-01-07</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_7A5A02E4-06CC-4167-A626-0FECFBB75CBF</Id>
+        <Varenr>484224</Varenr>
+        <Ean>300020593552</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_931BEBD2-F41B-445A-9870-DCFFB6F18904</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="87" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle til bruk i penn" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="471.6" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="339.75" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="471.6" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2018-03-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_8FA95D73-2EBE-4E02-ABEA-5DDEF0838B84</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog KwikPen inj, oppl 200 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2022-09-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_4AEA0F84-A2BC-41DA-888D-21A996078C0C</RefByttegruppe>
+          <GyldigFraDato>2022-09-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_94809717-0C2A-47DD-9AAB-89DC96B6066A</Id>
+        <Varenr>477814</Varenr>
+        <Ean>5712923023763</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_0A399D51-A945-41D6-9EDD-04A7F911967F</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="248" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, KwikPen" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>3000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="915.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="915.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="685.96" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2022-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_BC2075B9-40C2-4BC5-A687-19B5286C3F4A</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Toujeo inj, oppl 300 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_BB373396-178E-41A2-8B57-85D77AE8B9F8</RefRefusjonsgruppe>
+          <GyldigFraDato>2019-08-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_99AF2880-D842-463F-B633-C9E7651EC2A0</Id>
+        <Varenr>447357</Varenr>
+        <Ean>3664798016123</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_B53ECFCF-C6AC-4E46-95BA-25C84C44903E</RefLegemiddelMerkevare>
+          <Pakningsstr>3 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="318" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, DoubleStar" />
+          <Antall>3</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>2700</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="1003" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="1003" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="754.56" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2019-08-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/toujeo-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_1AA131C0-D299-4E8C-903C-C17AD832D271</Id>
+      <Tidspunkt>2026-09-17T03:09:03</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>NovoRapid Flexpen inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2022-11-15</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_B4CE9EE4-1790-4B19-AF24-D8A77F7E84FA</RefByttegruppe>
+          <GyldigFraDato>2022-11-15</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_A66719B7-18C4-4707-9AE2-0D2AC620A185</Id>
+        <Varenr>451783</Varenr>
+        <Ean>5714191011183</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_D7241F24-E4EB-4988-B4F0-0C5C5AFC4A7A</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="25" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="260.24" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="369.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="5" S="2.16.578.1.12.4.1.1.7453" DN="Trinnpris" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2024-08-15</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2022-11-15</Markedsforingsdato>
+          <MidlUtgattDato>2026-09-10</MidlUtgattDato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/novorapid-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_D7FB077F-7456-4BAF-BD6D-7A04B172417A</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Lyumjev inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2021-02-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_A8E9E12F-B0C9-4598-BD30-72F7C073C589</Id>
+        <Varenr>391879</Varenr>
+        <Ean>300020782550</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_D4604888-CDC4-40EF-B3C3-F44CA3A06B7B</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="248" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, KwikPen" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="369.07" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="509.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="509.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2021-04-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/lyumjev-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_C1F702C8-7CE4-4A98-B960-42674918DE59</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>NovoRapid Penfill inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_AE39172F-30A5-4AF7-8449-68C3B6BCF09F</Id>
+        <Varenr>093948</Varenr>
+        <Ean>5712249102944</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_B6913F2C-99FD-486D-83D8-BE7A8094DA2F</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="364.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="364.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="256.48" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2005-03-03</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/novorapid-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_9D0473CC-A3B1-4D8D-BC53-50CC23A7CAD6</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog KwikPen inj, oppl 200 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2015-03-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_4AEA0F84-A2BC-41DA-888D-21A996078C0C</RefByttegruppe>
+          <GyldigFraDato>2022-09-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_B0746325-0B8F-44BC-BC77-674871FA8376</Id>
+        <Varenr>556964</Varenr>
+        <Ean>300020274550</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_463671A4-DA47-4439-814F-4F8B3C390847</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="248" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, KwikPen" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>3000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="915.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="685.96" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="915.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2015-05-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_FA8E44F9-8DC8-4C39-AEEA-100F9DF49040</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE06" S="2.16.578.1.12.4.1.1.7180" DN="Insulin degludek" />
+        <NavnFormStyrke>Tresiba inj, oppl 200 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_69BC14D6-8882-4244-95AD-4B6D58636410</RefRefusjonsgruppe>
+          <GyldigFraDato>2016-06-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_9A48940F-11DE-455D-A0A4-9B2064524822</RefByttegruppe>
+          <GyldigFraDato>2019-05-15</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_B1524A6F-3787-40E9-AC2E-F678FEB7CA41</Id>
+        <Varenr>056211</Varenr>
+        <Ean>5712249102814</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_98F46960-E6A3-41B7-B28A-8C8407C2F017</RefLegemiddelMerkevare>
+          <Pakningsstr>3 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="263" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, FlexTouch" />
+          <Antall>3</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1800</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="574.77" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="772.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="772.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2016-06-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/tresiba-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_05889B55-20B2-4E97-8CA3-AF6DB280D8C1</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_B9292A8C-492D-470B-8B8F-24108E7A4F02</Id>
+        <Varenr>433086</Varenr>
+        <Ean>300020370559</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_047F7F2D-E08E-4955-8A48-32A502B20256</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="415.8" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="415.8" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="296.22" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2005-11-07</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_E590B4B2-E5DF-4629-84D6-B1CC1783CCA9</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>Fiasp inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2021-02-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_CE015D1C-A07F-484D-BDF2-20BEEEA4E3BA</Id>
+        <Varenr>593899</Varenr>
+        <Ean>5712249115159</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_405C0CCD-45A3-4241-8ABE-9324D1537C12</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 1.6</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="326" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle (glass) PumpCart" />
+          <Antall>5</Antall>
+          <Mengde>1.6</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>800</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="139.57" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="215.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="215.1" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2021-03-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/fiasp-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_750458A8-091F-4424-8DEA-ACB55791BBDF</Id>
+      <Tidspunkt>2026-09-17T03:09:03</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Toujeo inj, oppl 300 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_BB373396-178E-41A2-8B57-85D77AE8B9F8</RefRefusjonsgruppe>
+          <GyldigFraDato>2019-09-01</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_83C7D3E7-35C2-4612-ADDA-C5973EE079D2</RefByttegruppe>
+          <GyldigFraDato>2019-09-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_D419BAB9-A9BD-46A0-AD18-939D8996B586</Id>
+        <Varenr>154137</Varenr>
+        <Ean>5714191010315</Ean>
+        <Ean>2803113602028</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_84CDDAD7-A508-4377-BBF7-C5E6DA752754</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 1.5</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="245" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, SoloStar" />
+          <Antall>5</Antall>
+          <Mengde>1.5</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>2250</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="841.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="628.82" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="841.9" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2022-05-15</Markedsforingsdato>
+          <MidlUtgattDato>2026-09-10</MidlUtgattDato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/toujeo-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_70D2C16B-C585-4C74-9D22-80C7958C14E2</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>Fiasp inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2017-06-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_D57BD587-2C1E-48B3-9DB8-807F51334234</Id>
+        <Varenr>086515</Varenr>
+        <Ean>5712249102715</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_B2A27779-B80F-4A14-9219-7C00CC9AD83B</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="263" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, FlexTouch" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="343" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="239.4" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2017-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/fiasp-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_276FE9F3-9DB9-40F8-8967-7BFB67A0B8AC</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+        <NavnFormStyrke>Fiasp inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_00B53419-2219-42E0-8F98-EDF977556292</RefRefusjonsgruppe>
+          <GyldigFraDato>2017-06-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_EFC4EC74-D391-4D96-9BD7-1716CA20C4BE</Id>
+        <Varenr>110665</Varenr>
+        <Ean>5712249102623</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_E3F15BEB-3B56-460F-954D-FE22732C5C0C</RefLegemiddelMerkevare>
+          <Pakningsstr>10</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="37" S="2.16.578.1.12.4.1.1.7449" DN="Hetteglass" />
+          <Mengde>10</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="235.3" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="155.39" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="235.3" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2017-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/fiasp-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_8EC5C8CF-A0DE-47A9-975B-45449DE20C65</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+        <NavnFormStyrke>Humalog inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</RefRefusjonsgruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_7C2B8EA3-25D6-40B0-AFD4-5967E6C2CD80</RefByttegruppe>
+          <GyldigFraDato>2025-07-01</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_EFDDD19B-5B0C-45EA-B60A-C29F702D741B</Id>
+        <Varenr>031088</Varenr>
+        <Ean>300020351558</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_88DD967A-D77B-43E3-B4B1-04AF2305699A</RefLegemiddelMerkevare>
+          <Pakningsstr>10</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="37" S="2.16.578.1.12.4.1.1.7449" DN="Hetteglass" />
+          <Mengde>10</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1000</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="271.8" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="183.87" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="271.8" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2005-11-07</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/humalog-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_EB4200AC-F61F-4E89-AA59-3B1EAC514D0A</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+        <NavnFormStyrke>Lantus inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_A16E71E4-778F-44E6-B9D2-3DFD076077EB</RefRefusjonsgruppe>
+          <GyldigFraDato>2023-08-28</GyldigFraDato>
+        </Refusjon>
+        <PakningByttegruppe>
+          <RefByttegruppe>ID_1837A597-0708-4834-94AA-0BC7C9ED3CB5</RefByttegruppe>
+          <GyldigFraDato>2008-01-17</GyldigFraDato>
+        </PakningByttegruppe>
+        <Id>ID_F5DDF232-DC47-48FA-82BD-9156E6A7FBDA</Id>
+        <Varenr>004746</Varenr>
+        <Ean>3582910083641</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_1536BD37-E67E-40E3-A88A-F7A2404F63CF</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="211" S="2.16.578.1.12.4.1.1.7449" DN="Sylinderampulle" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="425.75" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="581.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="581.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2003-06-15</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/lantus-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning>
+<OppfLegemiddelpakning>
+      <Id>ID_31243B33-D534-4F6C-8867-EC9AF1C2C1C7</Id>
+      <Tidspunkt>2026-06-25T03:10:05</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Legemiddelpakning xmlns="http://www.kith.no/xmlstds/eresept/forskrivning/2014-12-01">
+        <Atc V="A10AE06" S="2.16.578.1.12.4.1.1.7180" DN="Insulin degludek" />
+        <NavnFormStyrke>Tresiba inj, oppl 100 E/ml</NavnFormStyrke>
+        <Reseptgruppe V="C" DN="Reseptgruppe C" />
+        <LegemiddelformKort V="816" S="2.16.578.1.12.4.1.1.7448" DN="Injeksjonsvæske, oppløsning" />
+        <Preparattype V="7" DN="Legemiddel" />
+        <TypeSoknadSlv V="1" DN="Skal ikke søkes" />
+        <Refusjon>
+          <RefRefusjonsgruppe>ID_69BC14D6-8882-4244-95AD-4B6D58636410</RefRefusjonsgruppe>
+          <GyldigFraDato>2016-02-15</GyldigFraDato>
+        </Refusjon>
+        <Id>ID_F7D1F871-7ED9-4326-A270-945304744D99</Id>
+        <Varenr>152543</Varenr>
+        <Ean>5712249103644</Ean>
+        <Oppbevaring V="K" DN="Kaldt (2-8 grader)" />
+        <Pakningsinfo>
+          <RefLegemiddelMerkevare>ID_FA62E267-9558-49A1-8288-8E7A6B9B2F34</RefLegemiddelMerkevare>
+          <Pakningsstr>5 x 3</Pakningsstr>
+          <EnhetPakning V="ml" S="2.16.578.1.12.4.1.1.7452" DN="milliliter" />
+          <Pakningstype V="263" S="2.16.578.1.12.4.1.1.7449" DN="Ferdigfylt penn, FlexTouch" />
+          <Antall>5</Antall>
+          <Mengde>3</Mengde>
+          <DDD V="40" U="E" />
+          <Statistikkfaktor>1500</Statistikkfaktor>
+        </Pakningsinfo>
+        <PrisVare>
+          <Type V="2" S="2.16.578.1.12.4.1.1.7453" DN="Refusjonspris" />
+          <Pris V="746.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="3" S="2.16.578.1.12.4.1.1.7453" DN="AIP" />
+          <Pris V="554.49" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <PrisVare>
+          <Type V="4" S="2.16.578.1.12.4.1.1.7453" DN="AUP" />
+          <Pris V="746.7" U="NOK" />
+          <GyldigFraDato>2025-12-01</GyldigFraDato>
+        </PrisVare>
+        <Markedsforingsinfo>
+          <Markedsforingsdato>2014-09-01</Markedsforingsdato>
+        </Markedsforingsinfo>
+        <Preparatomtaleavsnitt>
+          <Avsnittoverskrift V="SPCHUMAN_00" DN="INNHOLDSFORTEGNELSE" />
+          <Lenke>
+            <Www V="https://www.ema.europa.eu/no/documents/product-information/tresiba-epar-product-information_no.pdf" />
+          </Lenke>
+        </Preparatomtaleavsnitt>
+      </Legemiddelpakning>
+    </OppfLegemiddelpakning></Extract>

@@ -1,0 +1,474 @@
+                            Public Summary Document - March 2018 PBAC Meeting
+
+
+7.11 INSULIN DEGLUDEC WITH INSULIN ASPART,
+     Injections, cartridges, 70 units-30 units per mL,
+     3 mL, 5
+             Injections, pre-filled pen, 70 units-30 units per mL,
+             3 mL, 5
+             Ryzodeg®, Novo Nordisk Pharmaceuticals Pty Ltd
+1         Purpose of Application
+1.1       The minor resubmission requested an unrestricted listing for insulin degludec with
+          insulin aspart (IDegAsp) for treatment of adult patients with diabetes mellitus where
+          insulin treatment is necessary.
+1.2       The minor resubmission sought to address issues raised in the November 2017 PBAC
+          consideration of the previous major submission.
+         For more detail on PBAC’s view, see section 6 PBAC outcome.
+
+2         Requested listing
+2.1       The requested PBS listing was unchanged from the previous submission. Suggestions
+          and additions proposed by the Secretariat to the requested listing are added in
+          italics.
+Name, Restriction,                              Max.   №.of     Dispensed Price for              Proprietary Name and Manufacturer
+Manner of administration and form               Qty    Rpts     Max. Qty
+INSULIN DEGLUDEC + INSULIN ASPART
+Insulin degludec 70 units/mL + insulin aspart   5      1        $'''''''''''''''' (Published)    Ryzodeg®
+30 units/mL injection, 5 x 3 mL cartridge                       $''''''''''''''' (Effective)     Penfill®        Novo Nordisk
+                                                                                                                 Pharmaceuticals
+Insulin degludec 70 units/mL + insulin aspart   5      1        $''''''''''''''' (Published)     Ryzodeg®        Pty Limited
+30 units/mL injection, 5 x 3 mL syringes                        $''''''''''''''''' (Effective)   FlexTouch®
+
+
+ Category /                             GENERAL – General Schedule (Code GE)
+ Program
+ Prescriber type:                         Dental      Medical Practitioners            Nurse practitioners    Optometrists
+                                          Midwives
+ Restriction Level / Method:              Unrestricted
+                                          Restricted benefit
+                                          Authority Required - In Writing
+                                          Authority Required - Telephone
+                                          Authority Required - Emergency
+                                          Authority Required - Electronic
+                                          Streamlined
+ Administrative Advice                  Special Pricing Arrangements apply
+
+
+
+
+                                                            1
+                               Public Summary Document - March 2018 PBAC Meeting
+
+           For more detail on PBAC’s view, see section 6 PBAC outcome.
+
+3          Background
+3.1        IDegAsp was TGA registered for the improvement of glycaemic control in adult
+           patients with diabetes mellitus requiring basal and prandial insulin in November
+           2017.
+3.2        IDegAsp was previously considered by the PBAC at the November 2017 PBAC
+           meeting. The PBAC did not recommend IDegAsp for treatment of adult patients with
+           diabetes mellitus where insulin treatment is necessary on the basis that the
+           cost-effectiveness of the drug in type 2 diabetes mellitus (T2DM) was not established
+           at the proposed price, and because the clinical place in therapy for type 1 diabetes
+           mellitus (T1DM) was not established in the submission.
+3.3        A summary of the outstanding matters of concern to the PBAC from the November
+           2017 consideration are provided in Table 1.
+Table 1: PBAC matters of concern in previous consideration (November 2017)
+Matters of concern                                                                 How the resubmission addresses it
+Regulatory status                                                     IDegAsp was registered on the Australian Register of
+The PBAC noted that IDegAsp was not TGA registered at the Therapeutic Goods (ARTG) on 29 November 2017 (p 5 of the
+time of its consideration. The PBAC also noted that IDeg as a resubmission, TGA ARTG website).
+single agent is currently undergoing TGA evaluation. (PBAC
+PSD, November 2017, item 7.3)
+DPMQ                                                                  The effective (confidential) price of IDegAsp has been revised
+The submission proposed a special price arrangement (SPA) downwards to DPMQ $''''''''''''''''' to take into account the lower
+with an effective dispensed price of $''''''''''''''''. The requested cost-minimised price versus BIAsp, which represents a ''''''''''%
+published dispensed price is $429.93. (PBAC PSD,                      reduction to the price proposed in the July 2017 submission.
+November 2017, item 2.1)                                              The list (published) price has also been revised in this minor
+                                                                      submission to $'''''''''''''''', which is lower than the list price of
+                                                                      IGar and IDet.
+                                                                      The Sponsor proposes a SPA with the list price and lower
+                                                                      effective prices detailed below, and is willing to work with the
+                                                                      Department to offer a condition to rebate the Government up-
+                                                                      front (subject to appropriate reconciliation measures).
+Comparator                                                            In regards to the suggested comparison with IGlar, the
+T2DM: The PBAC considered that biphasic insulin aspart 30 Sponsor clarifies that the revised price in this minor
+(BIAsp 30) was an appropriate comparator in T2DM.                     submission is lower than the listed and effective price of IGlar
+However, the PBAC noted that the price requested for                  (p 5 pf the resubmission).
+IDegAsp was higher than that for insulin glargine (IGlar) and
+that a clinical comparison against IGlar in T2DM may be
+informative in this context. (PBAC PSD, November 2017, item
+7.5)
+T1DM: The PBAC considered that insulin detemir (IDet) was IDet is removed as a cost comparator in the cost-
+not the appropriate comparator in T1DM. The PBAC                      minimisation analysis. Considering the potential benefit of
+considered that BIAsp 30 or other pre-mixed insulins may be IDegAsp in the T1DM population, the Sponsor is offering a
+more appropriate comparators as they possess                          price equivalent to BIAsp 30 in the T1DM population (p 5 of
+pharmacologic similarities. (PBAC PSD, November 2017,                 the resubmission).
+item 7.6)
+
+
+
+
+                                                                     2
+                             Public Summary Document - March 2018 PBAC Meeting
+
+Clinical claim – safety                                            The Sponsor maintains that IDegAsp provides important
+The PBAC considered that while IDegAsp was statistically           therapeutic benefits to patients in minimising the risk of
+superior in terms of number of biochemically confirmed             hypoglycaemia, which is supported by the statistically lower
+hypoglycaemic episodes in some trials, this difference may number of biochemically confirmed hypoglycaemic episodes.
+not be clinically meaningful, particularly as there was no         However, in this minor resubmission, the cost offset
+difference in the relative risk of an individual patient having at associated with hypoglycaemia has been removed and no
+least one confirmed hypoglycaemic event and there was no claim for reduced hypoglycaemia benefit is made in the
+difference in the risk of a patient having a severe                modelled CMA.
+hypoglycaemic event (either relative risk or incidence rate        The Sponsor acknowledges that ‘there was no difference in
+ratios). Thus the PBAC did not accept the submission’s claim the relative risk of an individual patient having at least one
+of superior safety. (PBAC PSD, November 2017, item 6.23) confirmed hypoglycaemic event and there was no difference
+                                                                   in the risk of a patient having a severe hypoglycaemic event’
+                                                                   as stated in the Minutes. (p 7 of the resubmission).
+The submission presented a cost-minimisation analysis of           The cost offset associated with hypoglycaemia has been
+IDegAsp versus BIAsp 30 (T2DM) and IDet (T1DM), with cost removed and no claim for reduced hypoglycaemia benefit is
+offsets for severe hypoglycaemic events. The PBAC noted made in the modelled CMA against BIAsp 30 in the
+the submission’s approach was in line with the clinical            resubmission. (p 7 of the resubmission).
+evidence of non-inferior efficacy in T2DM, but not in line with
+the clinical evidence for safety. (PBAC PSD, November 2017,
+item 6.24)
+
+Equi-effective dose                                                    The equi-effective doses were estimated from the mean total
+The PBAC noted the submission proposed the equi-effective daily insulin dose at 26 weeks in T2DM trials and remain
+doses for IDegAsp compared to BIAsp 30 in T2DM to be                   unchanged from the previous submission:
+different for insulin-naïve (1:1) and insulin-experienced              • Insulin-naïve T2DM (IDegAsp vs BIAsp 30) = 1 unit : 1
+(0.84:1) patients (weighted equi-effective dose is ''''''''''''''''',     unit (total insulin);
+assuming ''''''''''% insulin naïve and ''''''''''% insulin experienced • Insulin-experienced T2DM (IDegAsp vs BIAsp 30) = 0.84
+patients (submission table 3.1.2 p 64)). The submission                   units : 1 unit (total insulin).
+postulated that this is “related to the glucose lowering profile (pp 10-11 of the resubmission).
+of IDegAsp, in which the rapid acting prandial effect is
+followed by a distinct separate and stable basal effect” (p62).
+Although the ESC considered that the approach used in the
+submission which resulted in different equi-effective doses
+was reasonable, the PBAC considered that the differences in
+naïve and experienced patients created some uncertainty in
+the equi-effective dose overall. (PBAC PSD, November 2017,
+item 6.30)
+
+Financial estimates                                             Resubmission presented a reduced cost-minimised price that
+The PBAC considered there was a high degree of uncertainty accounts for the following updates in the economic model:
+in the financial estimates (see paragraph 6.41). The PBAC • removal of the cost-offset due to hypoglycaemia events;
+noted that at the proposed price, the listing of IDegAsp would • removal of IDet as a cost comparator and offer a price
+result in a higher cost to the PBS/RPBS due to the higher           equivalent to BIAsp 30 in the T1DM population. The
+price of IDegAsp compared to the insulins replaced and              proposed price is based on a weighted price across T1DM
+because the cost offsets included in the price calculations are     and T2DM. In T2DM, the cost-minimising price is
+not included in the financial estimates. (PBAC PSD,                 calculated using the dose relativity between IDegAsp and
+November 2017, item 7.12)                                           BIAsp 30 in the clinical trials;
+                                                                • as proposed in the pre-PBAC response (Oct 2017),
+                                                                    include premixed neutral/isophane human insulin (the
+                                                                    cheapest premixed insulin) as a cost comparator, with a
+                                                                    weight of 17% (human insulin share of the premixed
+                                                                    insulin market) in the premixed insulin price calculation;
+                                                                • use approved ex-manufacturer prices (AEMP) to work out
+                                                                    the cost-minimising price of IDegAsp.
+                                                                The model structure and other inputs remain unchanged from
+                                                                the previous submission. The economic analysis is a
+                                                                weighted CMA across T1DM, insulin-naïve T2DM, insulin-
+                                                                3
+                          Public Summary Document - March 2018 PBAC Meeting
+
+                                                            experienced T2DM populations, which aligns with the clinical
+                                                            evidence presented in the July 2017 submission. The drug
+                                                            costs and expected savings with IDegAsp due to lower insulin
+                                                            doses in T2DM are incorporated in the analysis. (pp 9-10 of
+                                                            the resubmission).
+Source: Compiled during the evaluation. Paragraph references refer to the November 2017 IDegAsp ratified minutes.
+
+         For more detail on PBAC’s view, see section 6 PBAC outcome
+
+4        Comparator
+T2DM
+4.1      The previous major submission considered by the PBAC in November 2017
+         nominated BIAsp 30 as the comparator in the T2DM population. BIAsp 30 was
+         accepted by the PBAC as an appropriate comparator in the T2DM population and
+         remains unchanged in this resubmission.
+
+T1DM
+4.2      The previous major submission considered by the PBAC in November 2017
+         nominated IDet as the comparator in the T1DM patient population. The PBAC
+         considered that IDet was not the appropriate comparator in T1DM. The PBAC
+         considered that BIAsp 30 or other pre-mixed insulins may be more appropriate
+         comparators as they possess pharmacologic similarities.
+4.3      The resubmission removed IDet as a comparator in the cost-minimisation analysis
+         and nominated BIAsp 30 as the comparator in the T1DM population. The PBAC
+         considered that this was appropriate.
+         For more detail on PBAC’s view, see section 6 PBAC outcome.
+
+5        Current situation
+Sponsor hearing
+5.1      There was no hearing for this item as it was a minor submission.
+
+Consumer comments
+5.2      The PBAC noted that no consumer comments were received for this item.
+
+Clinical trials and clinical claim
+5.3      As a minor submission, no new clinical trials were presented in the resubmission.
+5.4      In November 2017, the PBAC considered that the claim of non-inferior comparative
+         effectiveness was reasonably supported by the data for T2DM (paragraph 7.8,
+         IDegAsp PSD November 2017 PBAC meeting). The November 2017 submission
+         presented results for the primary outcome (change in HbA1c) from five direct
+                                                           4
+                   Public Summary Document - March 2018 PBAC Meeting
+
+      randomised trials. The PBAC noted that the results of the four trials, excluding the
+      extension trial (study 3645), were in agreement with the predetermined
+      non-inferiority margin proposed. The proposed drug was non-inferior for all the
+      analysed trials with a non-inferiority margin of 0.4%. None of the trials showed
+      superiority for change in HbA1c (paragraph 6.11, IDegAsp PSD November 2017 PBAC
+      meeting).
+5.5   In November 2017, the PBAC considered that the claim of superior comparative
+      safety was not adequately supported by the data (paragraph 7.9, IDegAsp PSD
+      November 2017 PBAC meeting). While IDegAsp was statistically superior in terms of
+      number of biochemically confirmed hypoglycaemic episodes, this difference may not
+      be clinically meaningful, particularly as there was no difference in the relative risk of
+      an individual patient having at least one confirmed hypoglycaemic event and there
+      was no difference in the risk of a patient having a severe hypoglycaemic event
+      (either relative risk or incidence rate ratios; paragraph 6.23, IDegAsp PSD November
+      2017 PBAC meeting). The minor submission maintained that there was evidence that
+      IDegAsp has clinical benefit in minimising the risk of hypoglycaemia. However, the
+      cost offset associated with reduced hypoglycaemia was removed and no claim for
+      reduced hypoglycaemia benefit was made in the modelled CMA in the minor
+      resubmission. The PBAC considered that the changes made to the model in the
+      minor resubmission were acceptable.
+
+Economic analysis
+5.6   The following economic issues were addressed in the minor resubmission:
+       In the previous submission, a CMA against BIAsp 30 (T2DM) and IDet (T1DM) was
+        presented. As the PBAC did not accept IDet an appropriate comparator, the
+        resubmission removed IDet as a comparator in the CMA and proposed a price
+        weighted across T1DM and T2DM in comparison to BIAsp 30. The cost-minimised
+        price was also calculated using the dose relativity between IDegAsp and BIAsp 30
+        in T2DM the clinical trials as in the major submission.
+       In November 2017 the PBAC considered the inclusion of cost offsets for severe
+        hypoglycaemic events in the price for IDegAsp to be inconsistent with the clinical
+        evidence for safety (paragraph 7.10 of November 2017 IDegAsp PSD). Therefore,
+        the resubmission removed the cost offsets due to the hypoglycaemic events.
+       The PBAC considered that the differences in insulin naïve and experienced
+        patients in T2DM created some uncertainty in the equi-effective dose overall. The
+        resubmission stated that the differences are due to the different ways the
+        populations are clinically managed.
+       Approved ex-manufacturer prices (AEMP) were used to calculate the
+        cost-minimised price of IDegAsp.
+5.7   The resubmission did not alter the economic model structure, population weight, or
+      equi-effective doses from that considered by the PBAC in November 2017.
+
+                                              5
+                            Public Summary Document - March 2018 PBAC Meeting
+
+5.8       The proposed equi effective doses are:
+           Insulin-naïve T2DM (IDegAsp vs BIAsp 30) = 1 unit : 1 unit (total insulin);
+           Insulin-experienced T2DM (IDegAsp vs BIAsp 30) = 0.84 units : 1 unit (total
+            insulin);
+           T1DM: The submission stated that an equi-effective dose in the T1DM population
+            is not used in the economic analysis in the resubmission and that a price
+            equivalent to BIAsp 30 is proposed. This infers a relativity of 1:1.
+5.9       The revised price for IDegAsp calculated in T2DM is AEMP (maximum quantity)
+          $''''''''''''''. The costs per unit for other insulins included in the CMA are also
+          presented in Table 2.
+Table 2: Calculation of insulin costs per unit
+                                                                                                                            Total         Price
+                                                              Max qty          No. of       AEMP (Max                      Insulin     (AEMP) per
+PBS item                                                       packs          repeats         qty)                          units         unit
+Cost-minimising price of IDegAsp in T2DM                            5                 1       $'''''''''''''''               7,500          $''''''''''''''
+PBS item 8609D
+Insulin aspart 30 units/mL + insulin aspart protamine
+70 units/mL injection (100 units/mL in total)                       5                 1       $211.90                        7,500          $0.028
+PBS item 9040T
+Insulin detemir 100 units/mL injection                              5                 1      $'''''''''''''''a               7,500          $'''''''''''''
+PBS item 8435Y
+Insulin aspart 100 units/mL injection                               5                 1       $211.90                        7,500          $0.028
+PBS item 1763T
+Insulin neutral 30 units/mL + insulin isophane (70 units)
+per mL, 3 mL, 5 injection                                        5            1          $176.60                             7,500          $0.024
+Source: Table 3.3 (p12) of minor submission
+Max qty, maximum quantity; AEMP, approved ex-manufacturer price
+Notes: aConfidential effective price. The price of IDet is not used in the base case analysis.
+5.10      The minor resubmission claimed that IDegAsp is cost neutral to BIAsp 30 in the
+          T2DM population with a calculated cost-minimising price AEMP $''''''''''''''/maximum
+          quantity. Table 3 summarises the insulin use and incremental costs for the IDegAsp
+          in T2DM.
+Table 3: Cost-minimisation analysis (AEMP) for IDegAsp vs BIAsp 30 in T2DM
+                            T2DM insulin-naive patients       T2DM insulin-experienced                                               Total T2DM
+                                      (''''''''%)                   patients ('''''''''%)                                             patients
+                             IDegAsp             BIAsp 30   Diff.       IDegAsp           BIAsp 30                Diff.                  Diff.
+Insulin units per year        ''''''''''''''''    27,010     '''        '''''''''''''''    31,498                ''''''''''''''        ''''''''''''''''
+Insulin cost per year        $''''''''''   $742       $''''''      $'''''''''     $865         -$'''''''          $'''
+IDegAsp, insulin degludec/insulin aspart (Ryzodeg® 70/30); BIAsp, biphasic insulin aspart 30; Diff, difference; T1DM, type 1
+diabetes mellitus; T2DM, type 2 diabetes mellitus.
+Source: Attach_3_Ryzodeg_Section 3_Dec 2017 minor submission.xlsx, Table 3.4 of minor resubmission (p12)
+5.11      The proposed price was based on a weighted price across T1DM and T2DM
+          population in comparison to BIAsp 30. The weighted price is AEMP $'''''''''''/pack as
+                                                                    6
+                          Public Summary Document - March 2018 PBAC Meeting
+
+         presented in Table 4. The premium over BIAsp 30 was reduced from '''''''''% in the
+         previous submission to ''''''% at the AEMP and the effective AEMP is ''''''% lower than
+         IGlar.
+Table 4: Weighted price calculation (AEMP) across all diabetes patients
+Patient group          Proportion (Table 3.1)                   AEMP/Max Qty                                            AEMP/pack
+T2DM                            ''''''''''%                                 $'''''''''''''''                             $'''''''''''''
+T1DM                            ''''''''%                                   $'''''''''''''''                             $'''''''''''''
+All diabetes patients           100%            90.3%×$''''''''''''''''' + 9.7%×$'''''''''''''''' = $''''''''''''''''    $''''''''''''''
+Source: Table 3.5 of minor resubmission (p12)
+5.12     The resubmission proposed a price reduction to the requested special pricing
+         arrangement (SPA) with an effective dispensed price of $'''''''''''' and a published
+         dispensed price of $''''''''''''''. This is approximately '''''''''% reduction from the
+         previous submission which proposed an SPA with an effective dispensed price of
+         $'''''''''''''' and published dispensed price of $'''''''''''''.
+
+Estimated PBS usage & financial implications
+5.13     The previous submission used a market share approach to estimate the extent of
+         IDegAsp use for the diabetes treatment. This remained unchanged in the
+         resubmission. The following were updated in the financial estimates of the
+         resubmission:
+          The revised price of IDegAsp, reduced from DPMQ $'''''''''''' to $'''''''''''''';
+          The confidential price for IGlar and IDet were revised slightly to align with the
+           prices provided in November 2017 PBAC PSD (Table 2, p4);
+          The resubmission noted the ESC/PBAC’s comments regarding substitution rates,
+           and these were adjusted, with ±10% variations in the sensitivity analyses.
+
+
+
+
+                                                          7
+                                                Public Summary Document - March 2018 PBAC Meeting
+
+5.14             The revised net financial implications of the proposed PBS listing are presented in
+                 Table 5.
+Table 5: Dispensed units and net financial implications to PBS/RPBS of listing IDegAsp
+                                    Year 1                                                        Year 3
+                                                           Year 2 (2019)                                                  Year 4 (2021) Year 5 (2022) Year 6 (2023)
+                                    (2018)                                                        (2020)
+Dispensed units of IDegAsp
+PBS                                ''''''''''''''''''              '''''''''''''''               '''''''''''''''''             '''''''''''''''''''''             '''''''''''''''''''           '''''''''''''''''''''
+RPBS                                   '''''''''                    '''''''''''''                  ''''''''''''''                  '''''''''''''''                 ''''''''''''''                   ''''''''''''
+Total cost of IDegAsp
+PBS cost (inc.
+copayments)                    ''''''''''''''''''''''''' ''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''
+PBS cost to government
+(excl. copayments)           ''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''
+RPBS cost (inc.
+copayments)                      '''''''''''''''''''''        ''''''''''''''''''''''''       ''''''''''''''''''''''''           ''''''''''''''''''''            '''''''''''''''''''''      ''''''''''''''''''''''''''''
+RPBS cost to government
+(excl. copayments)               ''''''''''''''''''''''         ''''''''''''''''''''            ''''''''''''''''''''          '''''''''''''''''''''''          ''''''''''''''''''''''       ''''''''''''''''''''''''''
+Net cost saving for other medications
+PBS cost (inc.
+copayments)                  '''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''       '''''''''''''''''''''''''''     ''''''''''''''''''''''''''' '''''''''''''''''''''''''''''
+PBS cost to government
+(excl. copayments)           ''''''''''''''''''''''''''''' ''''''''''''''''''''''''''' ''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''' '''''''''''''''''''''''''''''
+RPBS cost (inc.
+copayments)                       ''''''''''''''''''''          '''''''''''''''''''''          ''''''''''''''''''''''          '''''''''''''''''''''          ''''''''''''''''''''''''       '''''''''''''''''''''''''
+RPBS cost to government
+(excl. copayments)                ''''''''''''''''''''        '''''''''''''''''''''''          '''''''''''''''''''''           ''''''''''''''''''''''         '''''''''''''''''''''''       ''''''''''''''''''''''''''
+Overall net total cost of IDegAsp
+PBS cost (inc.
+copayments)                     '''''''''''''''''''''''        ''''''''''''''''''''''         '''''''''''''''''''''''         '''''''''''''''''''''''           '''''''''''''''''''''          ''''''''''''''''''''''
+PBS cost to government
+(excl. copayments)              '''''''''''''''''''''''         '''''''''''''''''''''           ''''''''''''''''''''          '''''''''''''''''''''''         '''''''''''''''''''''''          '''''''''''''''''''''
+RPBS cost (inc.
+copayments)                         ''''''''''''''''              ''''''''''''''''                '''''''''''''''                '''''''''''''''''              '''''''''''''''''''''            '''''''''''''''''
+RPBS cost to government
+(excl. copayments)                  ''''''''''''''''             ''''''''''''''''''               '''''''''''''''                 ''''''''''''''''                '''''''''''''''''              ''''''''''''''''''
+Net cost to PBS + RPBS
+(excl. copayments)              ''''''''''''''''''             ''''''''''''''''''             '''''''''''''''''''             '''''''''''''''''''              ''''''''''''''''''             '''''''''''''''''''
+PBS, Pharmaceutical Benefits Scheme; RPBS, Repatriation Pharmaceutical Benefits Scheme
+Source: Attachment 4_Ryzodeg_Section 4_Dec 2017 minor submission.xlsx, Table 4.1 of minor resubmission (pp13-14)
+5.15             The net cost to the PBS was expected to be less than $10 million in year 1, increasing
+                 to less than $10 million in Year 6. The cost to government was reduced from the
+                 previous submission, which was driven by the reduced price offered in this
+                 submission. The small remaining cost to Government is driven by the difference in
+                 dose relativities.
+
+Financial management
+5.16             While not a matter for the PBAC to consider, in addition to the SPA proposed, the
+                 minor resubmission proposed that the Sponsor was willing to work with the
+                 Department to offer a condition to rebate the Government up-front (subject to
+                 appropriate reconciliation measures); thus instead of paying the rebate after all
+
+                                                                                                           8
+                    Public Summary Document - March 2018 PBAC Meeting
+
+       pharmacy transactions are collected, the Sponsor would pay the rebate in advance
+       and reconcile to the actual movements later.
+       For more detail on PBAC’s view, see section 6 PBAC outcome.
+
+6      PBAC Outcome
+6.1    The PBAC recommended the listing of insulin degludec with insulin aspart (IDegAsp)
+       as an unrestricted benefit on the basis of cost-minimisation to biphasic insulin aspart
+       30 (BIAsp 30) for the treatment of diabetes mellitus.
+6.2    The PBAC considered an unrestricted listing was appropriate for IDegAsp as it would
+       be consistent with other insulins on the PBS, with the exception of IDet and insulin
+       bovine.
+6.3    The PBAC noted that IDegAsp was TGA registered for the improvement of glycaemic
+       control in adult patients with diabetes mellitus requiring basal and prandial insulin in
+       November 2017.
+6.4    The PBAC considered that BIAsp 30 was the appropriate the comparator in both the
+       T1DM and T2DM populations.
+6.5    The PBAC noted that no new clinical trials were presented in the resubmission. The
+       PBAC also noted that it had previously accepted that the claim of non-inferior
+       comparative effectiveness was reasonably supported by the data for T2DM
+       (paragraph 7.8, IDegAsp PSD November 2017).
+6.6    The PBAC accepted the equi-effective doses in the T1DM and T2DM populations
+       proposed in the resubmission of:
+             Insulin-naïve T2DM (IDegAsp vs BIAsp 30) = 1 unit : 1 unit (total insulin);
+             Insulin-experienced T2DM (IDegAsp vs BIAsp 30) = 0.84 units : 1 unit (total
+              insulin);
+             T1DM (IDegAsp vs BIAsp 30) = 1 unit : 1 unit (total insulin).
+6.7    The PBAC noted that no benefit claim for reduced hypoglycaemia was made in the
+       modelled cost-minimisation analysis in the resubmission, on the basis that the PBAC
+       had previously advised that the cost offset associated with reduced hypoglycaemia
+       should be removed from the economic model. In addition, the PBAC considered that
+       the remaining uncertainties were addressed by the proposed reduction in price for
+       IDegAsp in the resubmission.
+6.8    The PBAC considered the updated financial estimates in the resubmission to be
+       reasonable.
+6.9    The PBAC recommended the Early Supply Rule should not apply to the listing of
+       IDegAsp, to be consistent with the listings for other insulins on the PBS.
+6.10   The PBC advised that IDegAsp is suitable for prescribing by nurse practitioners as
+       other insulins are currently included for prescribing by nurse practitioners within
+
+                                              9
+                            Public Summary Document - March 2018 PBAC Meeting
+
+          collaborative arrangements.
+6.11      The PBAC advised that, under Section 101(3BA) of the National Health Act 1953,
+          insulin degludec + insulin aspart should not be treated as interchangeable on an
+          individual patient basis with any other drug or medical preparation.
+6.12      The PBAC noted that this submission is not eligible for an Independent Review as it
+          received a positive recommendation.
+
+Outcome:
+Recommended
+
+7         Recommended listing
+7.1       Add new item:
+ Name, Restriction,                             Max.   №.of     Proprietary Name and Manufacturer
+Manner of administration and form               Qty    Rpts
+INSULIN DEGLUDEC + INSULIN ASPART
+Insulin degludec 70 units/mL + insulin aspart   5      1        Ryzodeg® Penfill®
+30 units/mL injection, 5 x 3 mL cartridge                                                    Novo Nordisk
+                                                                                             Pharmaceuticals Pty
+Insulin degludec 70 units/mL + insulin aspart   5      1        Ryzodeg® FlexTouch®          Limited
+30 units/mL injection, 5 x 3 mL syringes
+
+
+ Category /                             GENERAL – General Schedule (Code GE)
+ Program
+ Prescriber type:                         Dental      Medical Practitioners   Nurse practitioners   Optometrists
+                                          Midwives
+ Restriction Level / Method:              Unrestricted
+                                          Restricted benefit
+                                          Authority Required - In Writing
+                                          Authority Required - Telephone
+                                          Authority Required - Emergency
+                                          Authority Required - Electronic
+                                          Streamlined
+ Administrative Advice                  Special Pricing Arrangements apply
+
+
+8         Context for Decision
+The PBAC helps decide whether and, if so, how medicines should be subsidised in Australia.
+It considers submissions in this context. A PBAC decision not to recommend listing or not to
+recommend changing a listing does not represent a final PBAC view about the merits of the
+medicine. A company can resubmit to the PBAC or seek independent review of the PBAC
+decision.
+9         Sponsor’s Comment
+The sponsor had no comment.
+
+
+                                                           10
+

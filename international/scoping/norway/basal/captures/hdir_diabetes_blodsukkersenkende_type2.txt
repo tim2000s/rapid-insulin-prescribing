@@ -1,0 +1,554 @@
+ 
+ Blodsukkersenkende behandling og behandlingsmål ved diabetes type 2 - Helsedirektoratet 
+ Gå til hovedinnhold 
+ Forsiden 
+ Diabetes 
+ Behandling med blodsukkersenkende legemidler ved diabetes 
+ 5.2. Blodsukkersenkende behandling og behandlingsmål ved diabetes type 2
+ Behandlingsmål for HbA1c ved diabetes type 2 
+ Anbefaling - Sterk 
+ Sterk anbefaling vil gjelde for de aller fleste pasienter i de aller fleste situasjoner. Uttrykk som brukes er "bør" og "anbefaler". Hvis anbefalingen er så klart faglig forankret at det sjelden er forsvarlig ikke å følge den, brukes uttrykkene "skal" og "må".
+ Ved diabetes type 2 bør intensivert blodsukkersenkende behandling tilpasses til den enkelte pasient.
+ Behandlingsmål for de fleste pasienter vil være HbA1c omkring 53 mmol/mol (7 %).
+ Hos en del pasienter, særlig yngre og nydiagnostiserte, som forholdsvis lett når behandlingsmålet ved å endre livsstil og eventuelt bruke 1-2 legemidler, kan det være aktuelt med lavere behandlingsmål (for eksempel HbA1c omkring 48 mmol/mol (6,5%)).
+ HbA1c mellom 53 - 64 mmol/mol (7.0 - 8.0 %) kan være aktuelt for pasienter med:
+ Lang sykdomsvarighet
+ Betydelig komorbiditet (særlig ved redusert nyrefunksjon, eGFR < 45 ml/min/1.73 m²)
+ Risiko for hypoglykemi
+ For personer på sykehjem og andre med betydelig reduserte leveutsikter er målet å unngå symptomatisk hyperglykemi. Det oppnås hos de fleste når blodsukkeret sjelden overstiger 12-14 mmol/l.
+ Praktisk informasjon
+ God blodsukkerkontroll er fundamentalt i behandlingen av diabetes. Målet med den blodsukkersenkende behandlingen er:
+ å redusere plager og ubehag som skyldes høyt blodsukker
+ å hindre alvorlig hyperglykemi og diabeteskoma
+ å redusere risiko for diabetisk øyesykdom, nyresykdom og nervesykdom, og på lengre sikt trolig også for makrovaskulær sykdom
+Manglende måloppnåelse hos personer med diabetes er vanlig og årsakene mange. Dagens behandlingsalternativer virker ikke tilstrekkelig hos alle, pasientene har ofte andre prioriteringer i sitt liv, liten opplevelse av mening med målene, manglende kapasitet, og/eller lav mestringsopplevelse og manglende sosial støtte. Se anbefaling: Kommunikasjon og pasientaktiverende intervensjoner ved diabetes for hvordan man kan gå frem for å avdekke mulige barrierer for måloppnåelse og eksempler på pasientaktiverende intervensjoner som kan øke etterlevelse av behandlingen.
+ Intensivert blodsukkersenkende behandling 
+ Intervallene mellom legekonsultasjonene bør tilpasses pasientens behov og kliniske situasjon, og avtales med pasienten som del av behandlingsplanen. For de fleste pasienter i stabil fase av sykdommen vil 2-4 konsultasjoner/år hos lege/sykepleier være passe. Minst en av disse bør være hos lege og inneholde en bred gjennomgang av pasientens diabetes (årskontroll).
+ Ved mangelfull måloppnåelse (f.eks. for høy HbA1c) anbefales behandlingsintensivering minst hver 3. mnd.
+ I situasjoner med somatisk eller psykisk tilleggssykdom, vanskelig livssituasjon, endring av medikamenter (eller doser) eller like etter at diagnosen er stilt, kan det være behov for hyppige planlagte kontroller.
+ Bruk av strukturert elektronisk diabetesskjema (NOKLUS) forenkler og systematiserer oppfølgingen. 
+ Behandlingsmål 
+ Personer som har hatt diabetes type 2 i lang tid (mer enn 10 år), eller har kjent hjerte-kar sykdom, har betydelig økt risiko for nye kardiovaskulære hendelser og er ikke entydig vist at intensivert blodsukkersenkende behandling med målsetting om å oppnå lav HbA1c i denne gruppen reduserer denne risikoen.
+ HbA1c 53 - 64 mmol/mol (7,0 - 8,0 %) anbefales som målsetting for den blodsukkersenkende behandlingen for personer med lang diabetesvarighet, som har kjent hjerte- og karsykdom, nyresvikt (eGFR < 45 ml/min/1,73 m²) eller er eldre.
+ Ved bruk av insulin for å intensivere blodsukkernivået kan raskt fall i gjennomsnittlig blodsukker (fall i HbA1c på 2-3 % i løpet av 3 måneder), føre til forverring av nevropati (Gibbons et al., 2015) og øyekomplikasjoner.
+   Veiledende tabell for hvor behandlingsmålet kan settes i ulike situasjoner: 
+ Pasientgruppe 
+ HbA1c-mål 
+ For de fleste pasienter der målet er å forebygge senkomplikasjoner. Det kan likevel være riktig å sette lavere individuelle behandlingsmål (omkring 6,5 % (48 mmol/mol)) tidlig i forløpet, dersom det kan oppnås uten bruk av mange legemidler og uten å øke forekomsten av bivirkninger og hypoglykemier.
+ Omkring 53 mmol/mol (7 %)
+ For pasienter som har vanskelig for å oppnå god blodsukkerkontroll, som har svingende blodsukker, tendenser til hypoglykemi, lang sykdomsvarighet og andre kompliserende sykdommer (f.eks redusert nyrefunksjon, eGFR < 45 ml/min/1,73 m²).
+ 53 – 64 mmol/mol (7,0 – 8,0 %)*
+ * For personer på sykehjem og andre med betydelig reduserte leveutsikter er målet å unngå symptomatisk hyperglykemi og symptomatisk alvorlig hypoglykemi. Det oppnås hos de fleste når blodsukkeret sjelden overstiger 12-14 mmol/l i løpet av dagen. Når det primære målet er symptomfrihet kan behandlingsmålet settes høyere (rundt 75 mmol/mol (9 %).
+ Hos utsatte grupper der det er problemer med etterlevelse av behandlingen (som hos personer med alkohol- og/eller rusmisbruk eller uttalt psykiatrisk sykdom) er det først og fremst viktig å unngå betydelig hyperglykemi /ketoacidose og alvorlig hypoglykemi.
+ For anbefalinger om blodsukkersenkende legemidler ved diabetes type 2, se Metformin som førstevalg ved diabetes type 2 og Valg av blodsukkersenkende legemiddel etter metformin ved diabetes type 2.
+ Begrunnelse
+ Evidensgrunnlag for nytten av intensivert blodsukkersenkende behandling
+ Det er god evidens fra observasjonelle, epidemiologiske studier for at gjennomsnittlig blodsukkernivå er assosiert til diabetiske komplikasjoner (Klein et al., 1984; Chase et al., 1989). Sammenhengen er sterkest mellom gjennomsnittlig blodsukkernivå og mikrovaskulære komplikasjoner (retinopati, nefropati og nevropati).
+ Ved diabetes type 2 finnes det en rekke randomiserte, kontrollerte og ofte dobbel-blindede undersøkelser hvor ulike blodsukkersenkende legemidler er sammenliknet, oftest med HbA1c som utfallsmål. Disse studiene er oftest av kort varighet (de fleste fra 3-12 mnd), har ikke statistisk styrke til å vurdere effekter på harde endepunkter (diabeteskomplikasjoner og død) og bruker oftest HbA1c og andre intermediære utfallsmål.
+ Ved diabetes er det god evidens for at HbA1c er nært assosiert til gjennomsnittlig blodsukkerkonsentrasjon de siste 2-3 måneder. HbA1c er det beste intermediære parameter for å vurdere sammenhengen mellom blodsukkerkontroll og risiko for senkomplikasjoner.
+ Ved diabetes type 2 er det moderat god evidens for at enhver reduksjon av gjennomsnittlig blodsukker reduserer risiko for diabetisk øyesykdom (alvorlig retinopati og makulopati), nyresykdom og nervesykdom.
+ Det er mindre evidens for at redusert blodsukkernivå forebygger nevropati. Siden de fleste som har diabetes type 2 er eldre (prevalensen > 60 år er dobbelt som høy som de under 60 år) er nevropati en alvorlig diagnose pga risiko for ustøhet og fall. Det mangler dokumentasjon for at god blodsukkerkontroll kan beskytte mot slike hendelser.
+ God blodsukkerkontroll er assosiert med redusert progresjon av diabetisk nyresykdom, men dokumentasjonen (Coca SG, 2012) er mindre sterk ved diabetes type 2 enn ved diabetes type 1. En mulig årsak er at studiene (i metaanalysen) også inneholder pasienter med hypertensiv nefropati, som ikke er forventet å ha så stor effekt av blodsukkerregulering. Vi foreslår derfor at pasienter uten særskilt kardiovaskulær risiko behandles med målsetning HbA1c omkring 7%, mens personer med høy kardiovaskulær risiko har behandlingsmål HbA1c mellom 7.0% og 8.0%. Dette siste behandlingsmålet kan individualiseres ut fra om pasienter behandles med legemidler som ikke gir hypoglykemi (lav HbA1c kan være forsvarlig) eller med legemidler som gir hypoglykemi (høyere HbA1c er mer forsvarlig).
+ Ved diabetes type 2 er det svak evidens for at intensiv blodsukkersenkende behandling reduserer risikoen for hjerte- og karsykdom.
+ Les hele 
+ Vurdering
+ Fordeler og ulemper 
+ Intensiv blodsukkersenkende behandling tidlig i behandlingsforløpet vil redusere risiko for utvikling av mikrovaskulære senkomplikasjoner og kanskje også hjerte- og karsykdom. Eksempelvis er det god dokumentasjon for at progresjon av nyresvikt forsinkes. Forebygging av kronisk nyresvikt (stadium 3 eller alvorligere), og i verste fall behov for dialyse eller behov for nyretransplantasjon vil være en betydelig gevinst for pasienten i form av bedret livskvalitet og økt arbeidsevne. Det vil også kunne være kostnadsbesparende for samfunnet. 
+ Effekten er mindre hos eldre pasienter med lang diabetesvarighet. Intensiv behandling øker risiko for hypoglykemi og særlig hos utsatte pasienter med samtidig hjerte- og karsykdom kan dette medføre alvorlige komplikasjoner og muligens økt risiko for død. Intensiv behandling kan resultere i vektøkning, varierende med ulike medikamenter. 
+ Kvalitet på dokumentasjonen 
+ Kunnskapssoppsummeringen blir etter GRADE-kriteriene vurdert til å ha lav til moderat kvalitet, og dette beror først og fremst på utdaterte og unøyaktige diagnostiske kriterier for diabetes, som medfører nedsatt overførbarhet til dagens norske populasjon, samt at de fleste av effektestimatene er ikke-signifikante. Arbeidsgruppen anser denne dokumentasjonen for å være den beste til å besvare spørsmålet, og mener at det er mindre sannsynlig at anbefalingen vil endres med ny kunnskap i løpet av få år. Vi savner relevante, store nok kliniske studier med tilstrekkelig lang varighet til å undersøke effekten av intensiv blodsukkersenkende behandling på død og kardiovaskulære endepunkter.
+ Kunnskapsoppsummeringen (Coca et al., 2012) som så på de nyrespesifikke utfallene er også vurdert til å være å ha lav til moderat kvalitet, og årsakene er stort sett at effektestimatene er upresise eller Funnel plot viste publiseringsskjevhet, samt pga risiko for systematiske feil da ikke alle studiene som er inkludert, er dobbeltblindet. For mikroalbuminuri var det også en stor grad av heterogenitet (I² = 64%), men dette kan delvis forklares med at studiene ikke skilte på om pasientene hadde diabetisk nefropati eller hypertensiv nyreskade (ved diabetes). Sistnevnte har mindre uttalt albuminuri og reagerer trolig heller ikke særlig på blodsukkerendring.
+ Verdier og preferanser 
+ Eldre pasienter, pasienter med hjerte- og karsykdom og pasienter med andre kroniske sykdommer forventes å ha mindre utbytte av intensiv behandling og større risiko for hypoglykemi og andre negative følger av behandling. Hos pasienter med betydelig overvekt som trenger insulinbehandling kan det være vanskelig å nå behandlingsmål med dagens medikamenter og uønsket vektoppgang i sammenheng med insulinbehandling kan være en hindring for god blodsukkerkontroll. Hyppigere glukosemålinger for å kontrollere graden av glykemi, vil være en konsekvens av intensivert blodsukkermål, og dette kan for mange pasienter oppleves som en ekstra stressbelastning. 
+ Pasientpreferansene for medikamentbruk viser i en stor oversiktsstudie fra 2014 at bedre blodsukkerkontroll er viktigst. Videre sier pasientene at vektnedgang/kontroll, hjerte/karsykdom, livskvalitet, bedre leveutsikter, unngå komplikasjoner og beholde jobben og førerkort er viktig. Av bivirkninger viser brukerpreferansene i denne oversikten at vektnedgang/kontroll er viktigst. Deretter kommer hypoglykemier og magetrøbbel.
+ Studiene i denne oversikten er utført i USA, Sverige, Danmark og UK i perioden 2007 til 2012.
+ Fra brukerundersøkelser Diabetesforbundet har gjort i Norge, viser det at for en god del pasienter er jobb og førerkort avgjørende for medikamentvalg.
+ Ressurshensyn 
+ Anbefalingen ventes å påvirke dagens praksis i liten grad. Økningen i antall personer med diabetes type 2, tilgjengeligheten på nye og mer kostbare medikamenter og en forventet økning i diabeteskomplikasjoner (flere får sykdommen i yngre alder) forventes å øke ressursbruken i både primær- og spesialisthelsetjenesten.
+ Forskningsgrunnlag
+ PICO
+ Populasjon (P) 
+ Pasienter med type 2 diabetes
+ Tiltak (I) 
+ Intensiv blodsukkersenkende behandling
+ Sammenligning (C) 
+ Ikke intensiv blodsukkersenkende behandling (standard behandling)
+ Beskrivelse av inkluderte studier 
+ Evidensprofil (PDF) 
+ Følgende utfall ble vurdert som relevante for problemstillingen (gradert etter hvor viktige vi tror de er for pasienten) og er vist i vedlagte evidensprofil:
+1. Død – KRITISK
+2. Livskvalitet – KRITISK
+3. Hjerteinfarkt/hjerneslag – KRITISK
+4. Ketoacidose/annen alvorlig hyperglykemi – VIKTIG
+5. HbA1c – VIKTIG
+6. (Alvorlig) hypoglykemi – KRITISK
+7. Bivirkninger – VIKTIG
+8. Vektendring – MINDRE VIKTIG
+9. Synstruende retinopati – KRITISK
+10. Amputasjon – KRITISK
+11. ESRD - KRITISK
+12. Makroalbuminuri - KRITISK
+13. Mikroalbuminuri - VIKTIG
+14. Dobling av plasma kreatinin - KRITISK
+15. Død fra renal sykdom - KRITISK
+ I tillegg til disse utfallene ble også insidens av autonom nevropati og insidens av perifer nevropati vurdert (Buehler AM, 2013), og kategorisert som kritiske Risikoreduksjon ved intervensjon for insidens av perifer nevropati var 6 %, dvs. 26 færre av 1000. Kvaliteten på evidensen er moderat og nedgradert pga fare for høy bias da deltagerne ikke var blindet for intervensjonen. Risikoforskjell med intervensjon for insidens av autonom nevropati var 26 flere per 1000. RR 1.15 (95% KI 0.72-1.86). Kvaliteten på evidensen anses som lav og er nedgradert pga høy risiko for bias og publiseringsskjevhet.
+ I en metaanalyse fra Coca et al. er data fra intensiv blodglukosebehandling hos 15.000 - 28.000 deltakere oppsummert for nyrespesifikke utfallsmål (nr. 11-15 i listen ovenfor) (Coca SG, 2012). Studiene er open label, som øker muligheten for bias. Funnel plot for flere av effektmålene reiser mistanke om publikasjonsskjevhet. Ingen studier tar høyde for hvorvidt pasientene har diabetes nefropati (som er den absolutt vanligste nyreskaden ved diabetes type 1) eller hypertensiv nyreskade/ nefrosklerose (som ved diabetes type 2 er en minst like vanlig nyreskade som diabetes nefropati). Ved sistnevnte diagnose er ikke intensivert glukoseregulering forventet å ha like stor effekt på effektmålene som ved diabetes nefropati. I følge litteraturen kan det også forekomme blandingsformer av diabetes nefropati og hypertensiv nyreskade hos pasienten med diabetes type 2.
+ I den systematiske oversikten som best besvarte PICO, og som danner grunnlaget for Evidensprofilen, var følgende utfallsmål IKKE inkludert: HbA1c, ketoacidose, bivirkninger og vektendring.
+ En Cochrane review fra 2013 konkluderer med at intensiv behandling reduserer risiko for mikrovaskulære senkomplikasjoner (manifestasjon av retinopati med 21 %, relativ risiko (RR) 0,79 med 95 % konfidensintervall (KI) 0,68-0,92, og manifestasjon av nefropati med 25 %, RR 0,75 med 95 % KI 0,59-0,95,) samt amputasjoner av underekstremiteter (RR 0,65 med 95 % KI 0,45-0,94) uten signifikant effekt på risiko for total eller kardiovaskulær dødelighet, ikke fatalt hjerteinfarkt eller ikke fatalt hjerneslag (Hemmingsen B, 2013).
+ Bare to studier hadde undersøkt effekten på helserelatert livskvalitet og fant ingen signifikant effekt (ADDITION Netherlands og ACCORD 2008).
+ ADDITION Netherlands: No negative effects of a multi-factorial, intensified treatment on self-reported health status, treatment satisfaction, and diabetes-related distress in screen-detected type 2 diabetes patients. The ADDITION-Netherlands study. van den Donk M, Gorter KJ, Rutten GE. Quality of Life Research, 2010
+ACCORD 2008: Effects of Intensive Glucose Lowering in Type 2 Diabetes. The Action to Control Cardiovascular Risk in Diabetes Study Group * N Engl J Med 2008; 358:2545-2559 June 12, 2008 DOI: 10.1056/NEJMoa0802743
+ Ved diabetes type 2 finnes det en stor randomisert, kontrollert intervensjonsstudie (UKPDS 33, 1998) som har undersøkt effekten av intensiv mot mindre intensiv blodsukkerkontroll (snitt HbA1c 7,0 % mot 7,9 %) over lang tid (10 år) hos pasienter med nyoppdaget diabetes på risiko for enhver diabeteskomplikasjon, mikrovaskulære komplikasjoner, hjerte-/karsykdom og død. Studien fant at intensiv behandling basert på insulin eller sulfonylurea reduserte summen av diabetiske senkomplikasjoner med 12 %, mikrovaskulære senkomplikasjoner med 25 %, men påvirket ikke risiko for død eller hjerte-/karsykdom signifikant. I en undergruppe av overvektige reduserte intensivert behandling med metformin både dødelighet og risiko for hjerteinfarkt signifikant (UKPDS, 1998). I en epidemiologisk analyse av UKPDS-data undersøkte Stratton et al sammenhengen mellom blodsukkerkontroll og mikro- og makrovaskulære komplikasjoner, og fant en signifikant, tydelig sammenheng mellom HbA1c og risiko for komplikasjoner (UKPDS 35, 2000).
+ I en oppfølgingsundersøkelse 10 år etter at den randomiserte studien var avsluttet, er det rapportert at så vel risiko for hjerteinfarkt som for tidlig død var lavere i gruppen som ble intensivt behandlet de 10 år studien varte (Holmann RR, 2008). Det finnes i tillegg tre store, randomiserte, kontrollerte undersøkelser av intensiv versus ikke-intensiv behandling ved diabetes type 2. Inkludert var pasienter som ikke hadde nyoppdaget diabetes, hvor målet for blodsukkerkontroll var strengere enn i UKPDS og hvor varigheten av studiene var betydelig kortere: ACCORD (7) , ADVANCE (8) og VADT (9). De aktuelle studier er også oppsummert i flere metaanalyser, bla Turnbull et al fra 2009 (10). ACCORD-studien ble stoppet prematurt på grunn av økt total dødelighet i intensiv behandlet gruppe. Behandlingsmålet i denne gruppen var HbA1c <6 %. Tilsvarende økt dødelighet ble ikke observert i ADVANCE eller VADT. Ingen av studiene fant at intensiv behandling reduserte risiko for død eller kardiovaskulære hendelser, men den positive effekten på mikrovaskulære komplikasjoner som ble observert i UKPDS ble bekreftet.
+ Når det gjelder risiko for alvorlig hyperglykemi (ketotisk eller ikke ketotisk koma) har vi ikke funnet rapporter som har sammenliknet intensiv mot ikke-intensiv blodsukkersenkende behandling.
+ Risiko for hypoglykemi øker ved intensiv blodsukkersenkende behandling. Hemmingsen et al (2) rapporterer en relativ risiko for mild og moderat hypoglykemi på 1,54 (95% KI 1,35-1,75) og for alvorlig hypoglykemi relativ risiko 2,18 (95% KI 1,53-3,11). Risikoen for alvorlig hypoglykemi varierte i betydelig grad mellom de randomiserte studiene nevnt over.
+ Vektøkning er vanligvis sterkere ved intensiv blodsukkersenkende behandling, men varierer med de ulike medikamentene og vil omtales i relasjon til disse.
+ Referanser: 
+ Coca SG, Ismail-Beigi F, Haq N, Krumholz HM, & Parikh CR (2012). "Role of intensive glucose control in development of renal end points in type 2 diabetes mellitus: systematic review and meta-analysis intensive glucose control in type 2 diabetes". Arch Intern Med, 172(10), 761-769.
+ Hemmmingsen B, Lund SS, Gluud C, Vaag A, Almdal TP, Hemmingsen C, Wetterslev W. Targeting intensive glycaemic control versus targeting conventional glycaemic control for type 2 diabetes (Review). The Cochrane Library 2013, Issue 11
+ UK Prospective Diabetes Study (UKPDS) Group (1998) Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 352:837–853
+ UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes(UKPDS 34). Lancet 1998; 352 (9131):854–65
+ Stratton I, Adler A,NeilH et al (2000) Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study. BMJ 321:405–412
+ Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HA. 10-year follow-up of intensive glucose control in type 2 diabetes. The New England Journal of Medicine 2008; 359 (15):1577–89. [PUBMED: 18784090]
+ The Action to Control Cardiovascular Risk in Diabetes Study Group (2008) Effects of intensive glucose lowering in type 2 diabetes. N Engl J Med 358:2545–2559
+ The ADVANCE Collaborative Group (2008) Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes. N Engl J Med 358:2560–2572
+ Duckworth W, Abraira C, Moritz T et al (2009) Glucose control and vascular complications in veterans with type 2 diabetes. N Engl J Med 360:129–139
+ Turnbull FM, Abraira C, Anderson RJ, et al. Intensive glucose control and macrovascular outcomes in type 2 diabetes. Diabetologia 2009; 52: 2288-98
+ Kahn SE, Haffner SM, Heise MA, et al. Glycemic duarbillity of rosiglitazone, metformin or glyburide therapy. N Engl J Med 2006; 355: 2427-43
+ Buehler, A. M., Cavalcanti, A. B., Berwanger, O. Et al.. Effect of tight blood glucose control versus conventional control in patients with type 2 diabetes mellitus: a systematic review with meta-analysis of randomized controlled trials. Cardiovasc Ther 2013 , 31 ;147-160. doi: 10.1111/j.1755-5922.2011.00308.x PMID: 22212499 
+ Les hele 
+ Referanser
+ 273. 
+ Hemmmingsen B, Lund SS, Gluud C, Vaag A, Almdal TP, Hemmingsen C, Wetterslev W. Targeting intensive glycaemic control versus targeting conventional glycaemic control for type 2 diabetes (Review). The Cochrane Library 2013, Issue 11. 
+ 274. 
+ Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HA. 10-year follow-up of intensive glucose control in type 2 diabetes. The New England Journal of Medicine 2008;359 (15):1577–89. [PUBMED: 18784090]. 
+ 275. 
+ ADDITION Netherlands: No negative effects of a multi-factorial, intensified treatment on self-reported health status, treatment satisfaction, and diabetes-related distress in screen-detected type 2 diabetes patients. The ADDITION-Netherlands study. van den Donk M, Gorter KJ, Rutten GE. Quality of Life Research, 2010. 
+ 276. 
+ UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes(UKPDS 34). Lancet 1998;352(9131):854–65. 
+ 277. 
+ The Action to Control Cardiovascular Risk in Diabetes Study Group (2008) Effects of intensive glucose lowering in type 2 diabetes. N Engl J Med 358:2545–2559. 
+ 278. 
+ Kahn SE, Haffner SM, Heise MA, et al. Glycemic duarbillity of rosiglitazone, metformin or glyburide therapy. N Engl J Med 2006; 355: 2427-43. 
+ 279. 
+ Buehler, A. M., Cavalcanti, A. B., Berwanger, O. Et al.. Effect of tight blood glucose control versus conventional control in patients with type 2 diabetes mellitus: a systematic review with meta-analysis of randomized controlled trials. Cardiovasc Ther 2013, 31;147-160. doi: 10.1111/j.1755-5922.2011.00308.x PMID: 22212499. 
+ 280. 
+ Turnbull FM, Abraira C, Anderson RJ, et al. Intensive glucose control and macrovascular outcomes in type 2 diabetes. Diabetologia 2009; 52: 2288-98. 
+ 281. Klein R, Klein BE, Moss SE, Davis MD, DeMets DL. 
+ The Wisconsin epidemiologic study of diabetic retinopathy. III. Prevalence and risk of diabetic retinopathy when age at diagnosis is 30 or more years. Arch Ophthalmol. 1984. Apr;102(4):527-32. 
+ 282. Chase HP, Jackson WE, Hoops SL, Cockerham RS, Archer PG, O'Brien D. 
+ Glucose control and the renal and retinal complications of insulin-dependent diabetes. JAMA. 1989. Feb 24;261(8):1155-60. 
+ 284. Coca SG, Ismail-Beigi F, Haq N, Krumholz HM, & Parikh CR. 
+ Role of intensive glucose control in development of renal end points in type 2 diabetes mellitus: systematic review and meta-analysis intensive glucose control in type 2 diabetes. Arch Intern Med. 2012. 172. 10. 761-769. 
+ 285. Duckworth W, Abraira C, Moritz T et al. 
+ Glucose control and vascular complications in veterans with type 2 diabetes. N Engl J Med. 2009. 360. 129-139. 
+ 286. UK Prospective Diabetes Study (UKPDS) Group. 
+ Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet. 1998. 352. 837-853. 
+ 287. Stratton I, Adler A,NeilH et al. 
+ Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study. BMJ 321. 2000. 405-412. 
+ Lukk 
+ Siste faglige endring:
+ 14. september 2016
+   |   Se tidligere versjoner 
+ Egenmåling av blodsukker ved diabetes type 2 
+ Anbefaling - Svak 
+ Svak anbefaling brukes når ulike valg vil kunne være riktig, avhengig av pasient og situasjon. Uttrykk som brukes er "kan" og "foreslår".
+ De fleste personer med diabetes type 2 som ikke bruker insulin, trenger ikke å utføre hyppige egenmålinger av blodsukkeret.
+ Praktisk informasjon
+ For personer med diabetes type 2 som ikke bruker insulin er det ikke holdepunkter for at egenmålinger bedrer blodsukkerkontrollen over tid. Mange pasienter opplever imidlertid at egenmåling av blodsukker, særlig i starten av sykdomsforløpet, gir økt trygghet og innsikt i sykdommen og hvordan levevaner påvirker blodsukkernivået. Helsepersonell bør derfor ta utgangspunkt i den enkelte pasients behov og diskutere både behov for måling og hvordan resultatet brukes målrettet for å bedre blodsukkerkontrollen. 
+ I følgende situasjoner kan det være nyttig å måle blodsukkeret:
+ Ved nyoppdaget diabetes type 2 kan blodsukkermåling være nyttig i en kort periode for å prøve ut hvordan mat og fysisk aktivitet påvirker blodsukkernivået
+ Når det er vanskelig å nå behandlingsmålene
+ Ved endring av legemiddelbehandlingen
+ Ved oppstart av insulin og titrering av insulindoser
+ God opplæring er en forutsetning for at måleresultatene er pålitelige. 
+ Praktiske råd ved måling: 
+ rene hender
+ stikk i sidene på fingertuppene (mindre følsomhet der)
+ benytt stor nok bloddråpe; se informasjon om aktuelle blodsukkermåleapparat
+ kode/kalibrer apparatet i henhold til strimlene som benyttes, dersom apparatet krever koding
+ obs. holdbarhetsdato på strimlene, spesielt holdbarhet etter at boksen er åpnet
+ Begrunnelse
+ Egenkontroll av blodsukker har vist seg å være et effektivt verktøy i egenhåndtering av pasientenes blodsukkernivåer hos personer med diabetes type 2 som bruker insulinbehandling.
+ I en systematisk oversiktsartikkel (Malanda et al., 2012) med 2324 pasienter med diabetesvarighet mer enn ett år, fulgt over 6 måneder (og 493 pasienter over 12 måneder), ble det vist at egenkontroll/selv-monitorering versus ingen egenkontroll hadde minimal effekt på blodsukkerkontroll i løpet av seks måneder, og denne effekten forsvant etter 12 måneder.
+ Studien fant at egenmåling av blodsukker ikke hadde effekt på generell helserelatert livskvalitet, generell trivsel, pasienttilfredshet, eller på reduksjon av antallet av hypoglykemiske episoder.
+ Les hele 
+ Referanser
+ 288. 
+ Malanda UL, Welschen LM et al: Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin. Cochrane Syst review. 2012 Jan 18;1:CD005060. doi: 10.1002/14651858.CD005060.pub3. 
+ Lukk 
+ Siste faglige endring:
+ 14. september 2016
+   |   Se tidligere versjoner 
+ Metformin som førstevalg ved diabetes type 2 
+ Anbefaling - Sterk 
+ Sterk anbefaling vil gjelde for de aller fleste pasienter i de aller fleste situasjoner. Uttrykk som brukes er "bør" og "anbefaler". Hvis anbefalingen er så klart faglig forankret at det sjelden er forsvarlig ikke å følge den, brukes uttrykkene "skal" og "må".
+ Metformin anbefales som førstevalg ved oppstart av blodsukkersenkende legemiddelbehandling av diabetes type 2.
+ Praktisk informasjon
+ Det skal ikke startes med metformin ved nedsatt nyrefunksjon (eGFR < 45 ml/min/ 1.73 m²).
+ I følge SLVs preparatomtale er metformin ( A10BA02 ) kontraindisert ved eGFR < 45 ml/min/ 1.73 m², men pasienter som allerede står på metformin kan fortsette med redusert dose ved synkende eGFR inntil eGFR = 30 ml/min/ 1.73 m², hvor metformin skal seponeres. Årsaken er først og fremst frykt for økt risiko for laktacidose. Tilleggsfaktorer som kan øke denne risikoen er: Dehydrering, samtidig bruk av diuretika, ACE-hemmer eller angiotensin-2 blokker.
+ Se også anbefalingen Oppfølging av pasienter med lav GFR for å redusere risiko for kardiovaskulær sykdom – «Vær varsom»-plakaten .
+ For å unngå gastrointestinale bivirkninger bør man begynne med en lav dose metformin og trappe dosen langsomt opp.
+ Nedenfor følger beskrivelse av fordeler og ulemper ved behandling med metformin (og kan sammenlignes med fordeler og ulemper for andrevalgslegemiddel (det vil si det man velger etter metformin, se egen anbefaling)).
+ Antatte fordeler med metformin:
+ Lang erfaring
+ Gir sjelden hypoglykemi
+ Er i en randomisert klinisk studie vist å redusere kardiovaskulære hendelser (UKPDS 34, 1998). (Det må dog presiseres at overførbarhet av dette effektestimatet til dagnes diabetespopulasjon er forbundet med begrensninger, da den øvrige beskyttelse mot kardiovaskulære hendelser (som statiner og RAS-hemming) var fraværende på tiden UKPDS var utført)
+ Godkjent for bruk hos pasienter med moderat redusert nyrefunksjon (eGFR > 45 ml/min/ 1.73 m²) og også ved stabil, kronisk hjertesvikt
+ Antatte ulemper med metformin:
+ Gastrointestinale bivirkninger
+ Vitamin B12-mangel
+ Risiko for laktacidose (sjeldent)
+ Kontraindisert ved sterkt nedsatt nyrefunksjon (eGFR< 30-45 ml/min/ 1.73 m²), acidose, hypoksi og dehydrering
+ Begrunnelse
+ Omfattende vitenskapelig dokumentasjon og lang klinisk erfaring har vist at metformin senker blodsukkeret effektivt uten risiko for vektøkning eller hypoglykemi. Det er ikke vist at andre blodsukkersenkende legemidler gir bedre prognose enn metformin med hensyn på kliniske endepunkt som total dødelighet, hjerte- og karsykdom, nyresvikt, blindhet eller amputasjoner. 
+ Les hele 
+ Vurdering
+ Fordeler og ulemper 
+ Metformin anbefales som første valg når pasienter med diabetes type 2 trenger blodsukkersenkende medisin fordi:
+- metformin i monoterapi gir robust reduksjon i HbA1c
+ - metformin ikke gir vektøkning
+ - metformin gir liten risiko for hypoglykemi
+I tillegg er metformin et rimelig legemiddel og det er lang klinisk erfaring med legemidlet. En eldre studie (UKPDS 34, 1998) kan tale for at metformin reduserer risikoen for hjerte- og karsykdom hos overvektige, men det er ikke sterkt vitenskapelig grunnlag for å trekke sikre konklusjoner om forskjeller i effekt på kliniske endepunkt som total dødelighet og hjerte-karsykdom mellom metformin monoterapi og ande blodsukkersenkende legemidler brukt i monoterapi. Metformin gir oftere gastrointestinale plager enn de andre blodsukkersenkende legemidler.
+ Kvalitet på dokumentasjonen 
+ En Cochrane-analyse fra 2014 (Hemmingsen et al., 2014) inkluderte 25 artikler som beskrev 14 randomiserte studier der metformin i monoterapi var sammenlignet med andre- og tredjegenerasjons sulfonylurea i monoterapi. Med søk og utvalg av studier fulgte man anbefalingene fra The Cochrane Collaboration og en publisert protokoll.
+ Forfatterne peker på følgende svakheter: 
+- Bare tre av de 14 studiene hadde lav risiko for bias med hensyn på randomisering, allokering og blinding.
+ - Metaanalysen inkluderte bare studier der mortalitet og vaskulære hendelser ikke var definerte endepunkt (og der disse hendelsene følgelig bare ble rapportert som adverse events).
+ - De fleste studiene i metaanalysene har for lite data for viktige utfall bortsett fra endringer i vekt.
+ - Pasienter med andre sykdommer var ekskludert fra de fleste studiene.
+ I en metaanalyse fra Bennett et al., (2011) inkluderte kun RCT'er for intermediære endepunkt som vekt, HbA1c og hypoglykemi, men inkluderte også observasjonsstudier for kliniske endepunkt og bivirkninger. Det er gjort godt rede for søk og utvalg av studier. Vurdering av resultatene ble det brukt GRADE-metodikk.
+ Forfatterne peker på følgende svakheter: 
+- Deltakerne i studiene avviker fra den gjennomsnittlige diabetes-2 pasienten (yngre, bedre helse, kort sykehistorie).
+ - De fleste studiene var kortvarige.
+ - Studier der «bakgrunnsmedisinering» var tillatt ble ekskludert, dette førte til at flere store studier ble ekskludert (som UKPDS, VADT)
+ - Mange av studiene var finansiert av legemiddelindustrien.
+ Vurdering: 
+Pasientpopulasjonen i begge de to metaanalysene som ligger til grunn for kunnskapsgrunnlaget hadde en gjennomsnittsalder på 56 år og var uten kardiovaskulær sykdom. Den gjennomsnittlige pasient med diabetes type 2 i norsk klinisk praksis er eldre og sykere og man kan forvente en større effekt av samme behandling.
+ Verdier og preferanser 
+ Metformin har egenskaper som tilsier at de fleste pasienter vil akseptere legemidlet som første valg ved behov for blodsukkersenkende behandling med legemidler. Det er sannsynlig at en del overvektige pasienter vil ønske å starte med legemidler som kan gi noe vektreduksjon (GLP-1 agonister og SGLT2-hemmere). Pasienter som opplever betydelige bivirkninger (først og fremst mageplager), vil selvsagt ønske annen behandling.
+ En metaanalyse med pasienters verdier og preferanser har vist at pasientene legger stor vekt på vektreduksjon og liten risiko for hypoglykemi (Purnell et al., 2014)
+ Ressurshensyn 
+ Intensivert behandling krever økte ressurser her og nå (til etablering og vedlikehold av god glykemisk kontroll), men er sannsynligvis samfunnsøkonomisk gunstig på lang sikt på grunn av redusert forekomst av senkomplikasjoner. De viktige medisinske endepunktene som følger de mikrovaskulære komplikasjonene (terminal nyresvikt med dialysebehov (eller nyretransplantasjon), amputasjoner og redusert syn eller blindhet), er svært ressurskrevende og kostbare for samfunnet, foruten å være en stor personlig belastning for den enkelte pasient og deres pårørende som rammes av dette.
+Økende tilbud av teknologiske hjelpemidler i diabetesbehandlingen krever økte ressurser til utstyr, opplæring av helsepersonell og opplæring av pasienter. I dag er det store lokale og regionale variasjoner i pasientenes tilgang til teknologiske hjelpemidler. Arbeidsgruppen mener det er behov for å se på finansieringsordning, anbudsregimer og kriterier for tildeling av utstyr for å sikre optimal og lik behandling av diabetespasienter over hele landet.
+ Forskningsgrunnlag
+ PICO
+ Populasjon (P) 
+ Pasienter med type 2 diabetes
+ Tiltak (I) 
+ Sulfonylurea i monoterapi
+ Sammenligning (C) 
+ Metformin i monoterapi
+ Beskrivelse av inkluderte studier 
+ Følgende utfall ble ansett som de viktigste for målgruppen av behandlingen (grad av antatt viktighet er gitt som Kritisk, Viktig og Mindre viktig):
+ 1. Død – KRITISK
+ 2. Livskvalitet – KRITISK
+ 3. ESRD – KRITISK (Nefropatigruppen ser på dette utfallet)
+ 4. Hjerteinfarkt/hjerneslag – KRITISK
+ 5. Ketoacidose/annen alvorlig hyperglykemi – VIKTIG
+ 6. HbA1c – VIKTIG
+ 7. (Alvorlig) hypoglykemi – KRITISK
+ 8. Bivirkninger – VIKTIG
+ 9. Vektendring – MINDRE VIKTIG
+ 10.Synstruende retinopati – KRITISK
+ 11.Amputasjon – KRITISK
+ Gjennom litteratursøk ble det funnet to store kunnskapsoppsummeringer som best besvarte den kliniske problemstillingen (PICO), og i disse er det effektestimater på følgende seks utfallsmål: Død, hjerteinfarkt/hjerneslag, HbA1c, hypoglykemi, bivirkninger og vektendring. Disse to oversiktsartiklene er en Cochrane-analyse fra 2014 (Hemmingsen B, 2014) og en metaanalyse fra 2011 (Bennett WL, 2011).
+ Evidensprofilen er basert på Cochrane-oversikten (Hemmingsen B, 2014) som sammenligner metformin mot SU i monoterapi - og i denne er metformin kontroll, mens SU er intervensjon. Kunnskapsgrunnlaget for DPP4-hemmere og GLP-1-analoger sammenlignet mot metformin i monoterapi er basert på funnene i Bennett et al. SGLT2-hemmere er utelatt i sammenligningen fordi det mangler langvarige studier som har studert metformin monoterapi mot SGLT2-hemmere i monoterapi. Også for GLP-1 analoger er dokumentasjonen mangelfull, men en studie over 52 uker har sammenlignet metformin monoterapi med GLP-1 analog i monoterapi (Umpierrez G, 2014).
+ Evidensprofil (PDF) 
+Beskrivelse av hvert enkeltutfall basert på konklusjoner i de to utvalgte kunnskapsoppsummeringene
+ 1. Død – KRITISK
+ Bennett et al konkluderer med at det vitenskapelige grunnlaget for å trekke konklusjoner om forskjeller i effekt på total dødelighet og kardiovaskulær dødelighet mellom metformin monoterapi og andre blodsukkersenkende legemidler brukt i monoterapi er svakt eller mangler (Bennett WL, 2011).
+ Cochrane-analysen fra 2014 (Hemmingsen B, 2014) fant ingen forskjell i total dødelighet mellom gruppene.
+ Det var en ikke signifikant økning i kardiovaskulær dødelighet hos dem som fikk SU i monoterapi sammenlignet med gruppen som fikk metformin (relativ risiko 1,47, konfidensintervall 0,61-6,66). Samtidig fant man at andre- og tredjegenerasjons SU ga redusert risiko for ikke-dødelige makrovaskulære hendelser sammenlignet med metformin (relativ risiko 0,67 (konfidensintervall 0,48 – 0,93). «Trial sequential analyser» viste imidlertid at metaanalysen bare inkluderte en brøkdel av det antall hendelser som var nødvendige for å detektere eller utelukke en 10 % reduksjon i relativ risiko død og for kardiovaskulær død. Ingen av studiene i rapporten hadde dødelighet eller kardiovaskulære hendelser som primære utfall; utfallene ble rapportert som adverse events (Hemmingsen B, 2014).
+ I Cochrane analysen (2) er ADOPT-studien (A Diabetes Outcome Progression Trial (ADOPT) Giancarlo Viberti et al 2002) den klart største enkeltstudien og påvirker derfor resultatene av metaanalysen i stor grad. Risikoen for sponsor bias er vurdert som stor i denne studien.
+ Konklusjonen fra de to metaanalysene er sammenfallende: Det er ikke grunnlag for å trekke sikre konklusjoner om forskjeller i effekt på total dødelighet og kardiovaskulær dødelighet mellom metformin monoterapi og andre blodsukkersenkende legemidler brukt i monoterapi (Bennet WL, 2011 og Hemmingsen, 2014).
+ 2. Livskvalitet – KRITISK
+ Ikke data.
+ 3. ESRD – KRITISK
+ Hverken Bennet (2011) eller Cochrane (Hemmingsen, 2014) fant data som kunne dokumentere effektforskjeller mellom ulike blodsukkersenkende legemidler (brukt i monoterapi) med hensyn på forekomst av endestadium nyresvikt.
+ 4. Hjerteinfarkt/hjerneslag – KRITISK
+ Cochrane-analysen fra 2014 (Hemmingsen, 2014) fant at andre- og tredjegenerasjons SU ga redusert risiko for ikke-dødelige makrovaskulære hendelser sammenlignet med metformin (relativ risiko 0,67 (konfidensintervall 0,48 – 0,93). Samtidig fant man en ikke signifikant økning i kardiovaskulær dødelighet hos dem som fikk SU i monoterapi sammenlignet med gruppen som fikk metformin (relativ risiko 1,47, konfidensintervall 0,61-6,66). «Trial sequential analyser» viste imidlertid at metaanalysen bare inkluderte en brøkdel av det antall hendelser som var nødvendige for å detektere eller utelukke en 10 % reduksjon ikke fatale makrovaskulære hendelser. Ingen av studiene i rapporten hadde heller dødelighet eller kardiovaskulære hendelser som primære utfall, men utfallene ble rapportert som adverse events (2). I Cochrane analysen (Hemmingsen, 2014) er ADOPT-studien (Viberti, 2002) den klart største enkeltstudien og påvirker derfor resultatene av metaanalysen i stor grad. Risikoen for sponsor bias er vurdert som stor i denne studien.
+ Heller ikke Bennett et al fant sikre forskjeller i ikke-fatal makrovaskulær sykdom mellom metformin monoterapi og andre blodsukkersenkende legemidler brukt i monoterapi (Bennett WL, 2011).
+ 5. Ketoacidose/annen alvorlig hyperglykemi – VIKTIG ¨
+ Hverken Bennett (2011) eller Cochrane (Hemmingsen, 2014) fant data som kunne dokumentere effektforskjeller mellom ulike blodsukkersenkende legemidler (brukt i monoterapi) med hensyn på forekomst av ketoacidose/annen alvorlig hyperglykemi
+ 6. HbA1c – VIKTIG
+ Bennett (2011) fant at SU ga omtrent samme reduksjon i HbA1c som metformin (17 studier/6936 deltakere); høy evidens. Effekten av DPP-4-hemmer var mindre enn for metformin (3 studier/1908 deltakere); moderat evidens. Bennets analyse fra 2011 inkluderer ingen studier som har sammenlignet metformin og dapagliflozin eller metformin og GLP-1-analoger i monoterapi.
+ Også Cochrane (Hemmingsen, 2014) fant at SU og metformin i monoterapi ga samme reduksjon i HbA1C (13 studier/3632 deltakere).
+ ADOPT-studien fant at etter fem år klarte 79 % av pasientene som brukte metformin seg fortsatt med monoterapi - mot 66 % av dem som brukte (Viberti, 2002).
+ En ny randomisert studie over 52 uker som sammenlignet metformin monoterapi og dulaglutide (en GLP-1 agonist) i monoterapi, fant at GLP-1 agonist ga noe større fall i HbA1C enn metformin etter 26 uker (Umpierrez G, 2014).
+ 7. (Alvorlig) hypoglykemi – KRITISK
+ I Bennetts analyse (2011) skilte ingen av behandlingsalternativene seg ut med høy forekomst av alvorlig hypoglykemi, men mild eller moderat hypoglykemi ble sett 4 ganger så ofte ved SU monoterapi (238 hendelser/1650 pasienter) sammenlignet med metformin i monoterapi (56 hendelser / 1631 pasienter) (Høy evidens).
+ Cochrane-analysen fant økt risiko for både mild hypoglykemi (relativ risiko 2,95 konfidensintervall 2,13 – 4,07; høy evidens ) og alvorlig hypoglykemi (relativ risiko 5,64 konfidensintervall 1,22- 26,00; lav evidens) ved bruk av SU monoterapi sammenlignet med metformin monoterapi (Hemmingsen, 2014). Sekvensielle analyser viste at metaanalysen ikke hadde nok hendelser for å påvise /avvise 10 % reduksjon i relativ risiko
+ Diskusjon: Begge metaanalysene fant økt risiko for mild og moderat hypoglykemi ved bruk av SU i monoterapi sammenlignet med metformin monoterapi. ADOPT-studiet inngår i begge analysene, likevel er det bare Cochrane som konkluderer med økt risiko for alvorlig hypoglykemi. Også i denne analysen forekommer alvorlig hypoglykemi sjelden; 11 hendelse /1861 pasienter på SU og 2 hendelser/1940 pasienter på metformin.
+ 8. Bivirkninger (I tillegg til de som er omtalt for seg) VIKTIG
+ Bennett (2011) fant at metformin ga mer gastrointestinale bivirkninger enn SU; (11 RCT/5745 deltakere); moderat evidens og DPP-4-hemmere (2 RCT/1028 deltakere); moderat evidens.
+ Cochrane (Hemmingsen, 2014) fant ingen forskjell i total forekomst av bivirkninger (adverse events) mellom SU monoterapi og metformin monoterapi (5 studier/3138 deltakere); moderat evidens.
+ 9. Vektendring – MINDRE VIKTIG
+ Bennett fant at SU ga økt vekt sammenlignet med metformin (12 studier/5067 deltakere); høy evidens, mens DPP-4-hemmere ga litt økt vekt sammenlignet med metformin (3 studier/1908 deltakere); moderat evidens (Bennett WL, 2011). Cochrane (Hemmingsen, 2014) fant at SU i monoterapi ga 3,8 kg økt vekt(konfidensintervall 3,06 – 4,47 kg) sammenlignet med metformin monoterapi (7 studier / 3497 deltakere); høy evidens.
+ En ny randomisert studie over 52 uker som sammenlignet metformin monoterapi og dulaglutide (en GLP-1 agonist) i monoterapi, fant at GLP-1 agonist ga samme vektreduksjon som metformin (Umpierrez G, 2014).
+ 10. Synstruende retinopati – KRITISK
+ Hverken Bennett (2011) eller Cochrane (hemmingsen, 2014) fant data som kunne dokumentere effektforskjeller mellom ulike blodsukkersenkende legemidler (brukt i monoterapi) med hensyn på forekomst av synstruende retinopati.
+ 11. Amputasjon – KRITISK
+ Hverken Bennett (2011) eller Cochrane (Hemmingsen, 2014) fant data som kunne dokumentere effektforskjeller mellom ulike blodsukkersenkende legemidler (brukt i monoterapi) med hensyn på forekomst av amputasjoner.
+ Les hele 
+ Referanser
+ 273. 
+ Hemmmingsen B, Lund SS, Gluud C, Vaag A, Almdal TP, Hemmingsen C, Wetterslev W. Targeting intensive glycaemic control versus targeting conventional glycaemic control for type 2 diabetes (Review). The Cochrane Library 2013, Issue 11. 
+ 289. 
+ Bennett W L et. al. Comparative Effectiveness and Safety of Medications for Type 2 Diabetes: An Update Including New Drugs and 2-Drug Combinations. Annals of Internal Medicine 2011; 154(9): 602-613 (Pubmed: 2140 3054). 
+ 290. Umpierrez G, Povedano ST, Manghi FP, Shurzinske L, Pechtner V. 
+ Efficacy and Safety of Dulaglutide Monotherapy Versus Metformin in Type 2 Diabetes in a Randomized Controlled Trial (AWARD-3). Diabetes Care. 2014. 37:2168–2176. 
+ 291. UK Prospective Diabetes Study (UKPDS) Group. 
+ Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes(UKPDS 34). Lancet. 1998. 352(9131):854–65. 
+ 292. Giancarlo Viberti, MD1, Steven E. Kahn, MB, CHB2, Douglas A. Greene, MD3, William H. Herman, MD3, Bernard Zinman, MD4, Rury R. Holman, MD5,. 
+ A Diabetes Outcome Progression Trial (ADOPT). An international multicenter study of the comparative efficacy of rosiglitazone, glyburide, and metformin in recently diagnosed type 2 diabetes. Diabetes Care. 2002 Oct. 25. 10. 1737-1743. 
+ Lukk 
+ Siste faglige endring:
+ 14. september 2016
+   |   Se tidligere versjoner 
+ Valg av blodsukkersenkende legemiddel etter metformin ved diabetes type 2 
+ Anbefaling - Svak 
+ Svak anbefaling brukes når ulike valg vil kunne være riktig, avhengig av pasient og situasjon. Uttrykk som brukes er "kan" og "foreslår".
+ Ved utilstrekkelig blodsukkersenkende effekt av metformin alene eller når metformin ikke kan brukes, foreslås individuelt tilpasset behandling med andre blodsukkersenkende legemidler *.
+ For de fleste pasienter med diabetes type 2 foreslås det som andrevalg (ikke i prioritert rekkefølge):
+ Sulfonylurea
+ DPP4-hemmer
+ SGLT2-hemmer**
+ GLP1-analog**
+ Basalinsulin
+ Det anbefales å velge et legemiddel der sikkerheten er dokumentert gjennom lang erfaring eller i kontrollerte langtidsstudier.
+ * Se preparatomtale for de enkelte legemidler. Det vises til Direktoratet for medisinske produkters gjeldende refusjonsvilkår.
+ ** For pasienter med etablert hjerte- og karsykdom har SGLT2-hemmerne dapagliflozin, empagliflozin og kanagliflozin og GLP1- analogene eksenatid i langtidsvirkende form, dulaglutid, semaglutid og liraglutid dokumentert positiv effekt på ett eller flere viktige utfall (total mortalitet, hjerte- og kardød, hjertesvikt, hjerteinfarkt eller hjerneslag. Hos pasienter med nyresykdom har empagliflozin, dapagliflozin og kanagliflozin dokumentert beskyttende effekt på nyrefunksjonen (eGFR) ) og andre viktige nyrerelaterte endepunkter (se kapittel 8).
+ Praktisk informasjon
+ Last ned flytdiagram: Blodsukkersenkende behandling for diabetes type 2 (Utskriftsvennlig PDF) 
+ Det anbefales at alle pasienter med diabetes type 2 får god basisbehandling med opplæring, motivasjon, veiledning i fysisk aktivitet og kostrådgivning. Se kapittelet Levevaner ved diabetes og behandling av overvekt og fedme . 
+ De fleste pasienter med diabetes type 2 er overvektige og bør få informasjon om og hjelp til vektreduksjon. Selv et beskjedent vekttap (omkring 5 %) kan gi bedre glukosekontroll, lipidprofil og redusert blodtrykk. For pasienter med KMI over 35 er vektreduserende kirurgi et behandlingsalternativ som kan redusere blodsukker og kardiovaskulære risikofaktorer og sannsynligvis risiko for alvorlig sykdom og død. Mer om dette i kapittel 4 (i anbefalingen Vektreduksjon ved diabetes type 2 og overvekt/fedme).
+ Ved valg av blodsukkersenkende legemidler bør man ta hensyn til eventuelle effekter på kroppsvekt (se under for hvilke legemidler som kan føre til vektøkning/vektnedgang). Når behandling med blodsukkersenkende legemidler er indisert, anbefales metformin som førstevalg dersom det tolereres og ikke er kontraindisert. Se anbefaling Metformin som førstevalg ved diabetes type 2 .
+ Ved behov for kombinasjonsterapi 
+ Når metformin ikke er tilstrekkelig for å nå behandlingsmålet for blodsukker er det en rekke ulike legemidler å velge mellom, og det foreligger ikke tilstrekkelig vitenskapelig evidens til å gi kun en enkeltanbefaling. Det er i denne situasjonen mest aktuelt å legge til et legemiddel fra følgende farmakologiske grupper (2. valgs legemiddel): sulfonylurea, DPP4-hemmere, SGLT2-hemmere, GLP1-analoger eller langtidsvirkende insulin*.
+ Hvis nyrefunksjonen er normal og det ikke foreligger spesielle kontraindikasjoner eller intoleranser anbefales det å beholde metformindosen uendret og starte med ett av følgende legemidler i tillegg: 
+ glimepirid  ( A10BB12 ) 1 mg økende inntil 4(-6) mg/d i én morgendose over 2-6 uker
+ linagliptin ( A10BH05 ) 5mg eller sitagliptin  ( A10BH01 ) 100 mg (dosereduksjon ved nedsatt nyrefunksjon)
+ dapagliflozin ( A10BK01 ) 5 mg/d eller 10 mg/d, empagliflozin  ( A10BK03 ) 10 mg/d eller 25 mg/d, eller kanagliflozin ( A10BK02 ) 100 mg/d
+ dulaglutid ( A10BJ05 ) 1,5 mg/uke, liraglutid  ( A10BJ02 ) 0,6 mg/d økende til 1,2 mg/d etter minst en uke (evt. videre økning til 1,8 mg/d) eller semaglutid ( A10BJ06 ) 0,25 mg/uke økende til 0,5 mg/uke etter 4 uker (evt. videre økning til 1 mg/uke)
+ Vedrørende SGLT2-hemmere: 
+ Tilfeller av diabetisk ketoacidose er rapportert ved bruk av SGLT2-hemmer, også ved diabetes type 2. I flere tilfeller var tilstanden atypisk med kun lett økte blodsukkerverdier. Pasienter skal umiddelbart undersøkes for ketoacidose dersom symptomer oppstår (f.eks. slapphet, tap av appetitt, kvalme, dehydrering, magesmerter), uavhengig av blodglukosenivået.  Ved akutt, interkurrent sykdom eller dehydrering anbefales midlertidig seponering av SGLT2-hemmer (Se også «Vær varsom-plakaten» i kapittel 8). Det er meldt tilfeller av akutte infeksjoner som fører til skadet vev i området mellom kjønnsorgan og endetarm (nekrotiserende fascitt i perineum/Fourniers gangren) hos pasienter som bruker SGLT2-hemmere. I CANVAS-studiene (Neal B, et al, 2017)  med kanagliflozin var det økt forekomst av amputasjoner og frakturer i canagliflozin-gruppen. Tilsvarende ble ikke sett i CREDENCE-studien (Perkovic V, et al, 2019) med samme legemiddel, men assosiasjon er også sett i observasjonelle studier med flere legemidler i gruppen og en klasse-effekt kan ikke utelukkes.   
+Hvis det er behov for å senke HbA1c mer enn 22 mmol/mol (2 %-poeng), anbefales det å velge insulin eller en GLP1-analog da de andre alternativene har mindre blodsukkersenkende virkning.
+ basalinsulin ( A10AC ) Lær pasienten blodsukkermåling og riktig injeksjonsteknikk.
+ Be pasienten måle fastende blodsukker daglig
+ Start med 10 E til natten
+ Øk insulindosen med 4 E hvis verdiene tre dager etter hverandre er over 10 mmol/l og 2 E ved fastende blodsukker 6-10 mmol/l
+ Hvis føling eller flere målinger av fastende blodsukker under 4 mmol/l: Reduser med 2 (-4) E.
+ På denne måten økes insulindosen 2 ganger i uka inntil man når målet som er fastende blodsukker 4-6 mmol/l (tilsvarer oftest HbA1c omkring 7 % med et slikt behandlingsregime). Med optimal bruk av ovennevnte behandlingsregimer, vil rundt 40-60 % av pasientene kunne nå et behandlingsmål med HbA1c omkring 7 %.
+ *De fleste pasienter kan behandles med NPH-insulin. Utvalgte pasienter vil ha nytte av langtidsvirkende insulinanalog (glargin, glargin-300, detemir, degludec), særlig ved nattlig hypoglykemi eller åpenbart for kort virketid av NPH-insulin. For dosering og gjeldende refusjonsregler, se oppdatert tekst i Felleskatalogen.
+ Tredjevalgs-legemiddel 
+ Dersom ovennevnte behandlingsregimer ikke fører til at man når ønsket behandlingsmål foreslås følgende tiltak: 
+ Vurdere om mer kan gjøres med opplæring, motivasjon og hjelp til endring av levevaner? Se detaljer om dette i kapitlene Kommunikasjon, mestring og motivasjon ved diabetes og Levevaner ved diabetes og behandling av overvekt og fedme .
+ Egenmåling av blodglukose døgnprofil (før og to timer etter måltid) i 3-5 dager eller en tilsvarende periode med kontinuerlig vevsglukosemåling for å identifisere døgn-/måltidsmønstre i glukosesvingningene.
+ Tillegg av ytterligere blodsukkersenkende legemidler. Det er en rekke legemidler å velge mellom og ikke sterk evidens for å foretrekke ett behandlingsregime fremfor et annet. Individuelt tilpasset behandling under hensyntagen til effekt og bivirkninger anbefales.
+ Følgende råd kan gis: 
+ Metformin kontinueres i samtlige kombinasjonsregimer, så sant det tolereres og nyrefunksjonen ikke er for dårlig.
+ Insulin brukt på riktig måte har størst potensiale for å redusere blodsukkeret og anbefales til alle hvis HbA1c > 86 mmol/mol (10 %), fastende blodsukker > 15 mmol/l eller ved betydelige symptomer på hyperglykemi.
+ Metformin i kombinasjon med en kveldsdose med langtidsvirkende insulin er et enkelt behandlingsregime som kan fungere godt for mange.
+ Kombinasjon av sulfonylurea og insulin øker risikoen for hypoglykemi og bør oftest unngås.
+ Kombinasjon av DPP4-hemmer og GLP1-analog gir liten mening, ettersom den blodsukkersenkende effekten via inkretinsystemet tas ut med GLP1-analog alene.
+ Når overvekt/fedme er et vesentlig problem, bør man vurdere legemidler som bidrar til vektreduksjon (SGLT2-hemmere og GLP1-analoger). Vektreduserende kirurgi kan vurderes ved KMI > 35 kg/m². Se forøvrig kapittelet Levevaner ved diabetes og behandling av overvekt og fedme 
+ Noen GLP1-analoger ser ut til å redusere HbA1c mer enn det som vanligvis oppnås med perorale legemidler. Fast kombinasjon av GLP1-analog og langtidsvirkende insulin kan være et godt alternativ dersom ett av legemidlene ikke er tilstrekkelig.
+ Pioglitazon ( A10BG03 ) kan vurderes når det er uttalt insulinresistens (ikke tatt med i flytdiagrammet). OBS! forsiktighetsregler og kontraindikasjoner.
+ Pasientpreferanser og pasientetterlevelse bør veie tungt opp mot injeksjonsbehandling og polyfarmasi.
+ Etterlevelse av legemiddelforeskrivning av antidiabetika er ofte mangelfull og bør få fokus i pasientsamarbeidet.  
+ Tillegg av hurtigvirkende insulin til måltid 
+ Tillegg av hurtigvirkende insulin (analog). Kan gis som en dose (til hovedmåltid), to doser eller tre doser daglig. Merk at hurtigvirkende insulin gitt til overvektige personer med diabetes type 2 ikke virker like hurtig, sterkt og kortvarig som når vi bruker det til normalvektige personer med diabetes type 1. Ved særlig sterk blodsukkerstigning etter måltid (for eksempel etter frokost eller middag) kan det likevel være et godt valg å gi hurtigvirkende insulin til det aktuelle måltidet. Start gjerne med en liten dose (for eksempel 10 % av døgndose NPH-insulin) og mål blodsukkeret etter 2 timer. Øk med 2 E hver 3. dag inntil postprandialt blodsukker er under 10 (-12) mmol/L. OBS: Noen pasienter vil da trenge å redusere kveldsdosen av NPH-insulin tilsvarende for å unngå insulinføling om natten.
+ Spesielle situasjoner og mer komplekse regimer
+ I en del tilfeller er det ønskelig med rask kontroll over blodsukkeret og muligheter til raske endringer av den blodsukkersenkende behandlingen (nyoppdaget diabetes type 2 med høyt blodsukker, sykehusbehandling av interkurrent sykdom o.a.). Da anbefales insulinbehandling med to doser NPH-insulin eller mangeinjeksjonsbehandling som ved diabetes type 1 med 1-2 doser langtidsvirkende insulin og hurtigvirkende insulin(analog) til måltider.
+ Spesielle forholdsregler ved redusert eGFR
+ (Se detaljer i kapitlet Nyresykdom ved diabetes ).
+ Ved redusert eGFR er det endret virkning og økt risiko for bivirkninger ved flere antidiabetika (se preparatomtaler/Felleskatalogtekst),
+ Metformin kan brukes i reduserte doser og med forsiktighet og økt kontrollhyppighet ved eGFR ned mot 30 ml/min.
+ SU har forlenget virketid og risikoen for hypoglykemi øker
+ Dosen av noen DPP4-hemmere må reduseres
+ SGLT2-hemmere har redusert blodsukkersenkende virkning
+ GLP1-analoger anbefales ikke ved alvorlig nyresvikt
+ Insulin har forlenget virketid og risikoen for hypoglykemier øker
+ Spesielle forholdsregler ved diabetes og hjertesvikt
+ Noen antidiabetika er assosiert med økt risiko for væskeretensjon som kan forverre eller utløse hjertesvikt. Det gjelder særlig pioglitazon, men kanskje også saxagliptin som i SAVOR-TIMI studien var assosiert med økt risiko for hospitalisering for hjertesvikt, og insulin særlig når blodsukkerkontrollen bedres raskt («insulinødemer»). SGLT2-hemmere ser ut til å redusere risiko for hjertesvikt hos pasienter med etablert hjerte- og karsykdom, og dapagliflozin til pasienter med etablert hjertesvikt har vist signifikant reduksjon av et kombinert endepunkt av forverret hjertesvikt og kardiovaskulær død.
+ Spesielle forholdsregler ved diabetes og overvekt/fedme
+ Hos pasienter med KMI over 35 kg/m² bør vektreduserende kirurgi vurderes. Ved valg av blodsukkersenkende legemidler er det viktig å drøfte med pasienten mulige effekter på vektutviklingen og ta hensyn til dette så vel i valg av legemiddel, som under oppfølgingen av pasienten. GLP1-analoger og SGLT2-hemmere er assosiert med i gjennomsnitt 2-4 kg vektreduksjon over 6 mnd, og kan være et godt alternativ. All behandling som reduserer blodsukkeret og glukosurien kan ledsages av vektøkning, dersom ikke kaloriinntaket reduseres/kaloriforbruket økes tilsvarende. Særlig viktig er god informasjon om dette når man starter insulinbehandling ved dårlig regulert diabetes (HbA1c over 75 mmol/mol (9 %)).
+Hos pasienter med overvekt/fedme som bruker insulin, og som vil gjennomføre ketogent lavkarbokosthold for vektreduksjon, må man være spesielt oppmerksom på økt risiko for ketoacidose på grunn av lav endogen insulinreserve.
+ Fordeler og ulemper ved 2. og 3. valgs legemiddel 
+ Nedenfor følger beskrivelse av noen fordeler og ulemper ved behandling med de ulike legemidlene som kan være aktuelle som tilleggsbehandling til metformin, eller som erstatning dersom metformin ikke kan brukes.
+ Sulfonylurea ( A10BB ) 
+ Antatte fordeler: 
+ Lang erfaring
+ Generelt godt tolerert
+ Kan redusere risiko for diabetiske senkomplikasjoner (UKPDS)
+ Antatte ulemper: 
+ Ikke vist entydig positive effekter på kardiovaskulær sykelighet og dødelighet
+ Kan indusere hypoglykemi
+ Er assosiert med moderat vektøkning
+ DPP4-hemmere ( A10BH ) 
+ Antatte fordeler: 
+ Gir sjelden hypoglykemi
+ Gir ikke vektøkning
+ Generelt godt tolerert
+ Langtids sikkerhetsstudier med linagliptin, saxagliptin og sitagliptin viser nøytralitet i forhold til kardiovaskulære utfall sammenliknet med placebo og for linagliptin også sammenliknet med glimeperid (SU-preparat). OBS sikkerhetsinformasjon knyttet til mulig risiko for hjertesvikt for saxagliptin.
+ Antatte ulemper: 
+ Kan gi urticaria, angioødem (OBS! kombinasjon med A2-blokker og/eller ACE-hemmer) (sjeldent)
+ Kan muligens (men sjelden!) forårsake akutt pankreatitt
+ Saksagliptin (A10BH03) assosiert med økt antall innleggelse for hjertesvikt
+ SGLT2-hemmere ( A10BK ) 
+ Antatte fordeler: 
+ Kan gi tilleggsfordeler til blodsukkerreduksjon med redusert risiko for tidlig død og hjerte- og karsykdom hos pasienter med etablert hjerte- og karsykdom, samt gunstige langtidseffekter på nyrefunksjonen hos pasienter med etablert nyresykdom
+ Kan ha gunstig effekt hos pasienter med hjertesvikt
+ Gir sjelden hypoglykemi
+ Kan redusere vekten (~2 kg over 3-6 mnd)
+ Kan redusere blodtrykk (~2-4/~1-2 mmHg over 3-6 mnd)
+ Har effekt også når insulinsekresjonen er betydelig redusert sent i sykdomsforløpet
+ Antatte ulemper: 
+ Kan forårsake genitale infeksjoner (2-5 ganger økt forekomst hos hhv. kvinner og menn, sammenlignet med placebo). Det er rapportert en sjelden form for alvorlig genital infeksjon (Fourniers gangren) assosiert med legemiddelklassen
+ Er assosiert med økt risiko for urinveisinfeksjoner (varierende resultater i ulike studier)
+ Har redusert/manglende effekt på HbA1c ved nedsatt nyrefunksjon
+ Tilfeller av diabetisk ketoacidose er rapportert ved bruk av SGLT2-hemmer, også ved diabetes type 2. I flere tilfeller var tilstanden atypisk med kun lett økte blodsukkerverdier. Pasienter skal umiddelbart undersøkes for ketoacidose dersom symptomer oppstår (kan være f.eks. slapphet, tap av appetitt, kvalme, dehydrering, magesmerter), uavhengig av blodglukosenivået.  Ved akutt, interkurrent sykdom eller dehydrering anbefales midlertidig seponering av SGLT2-hemmer (Se også «Vær varsom-plakaten» i kapittel 8).
+ Gir en liten økning i LDL-kolesterol og HDL-kolesterol
+ Gir en (forbigående) reduksjon i eGFR
+ Insulin og analoger ( A10A ) 
+ Antatte fordeler: 
+ Reduksjon av senkomplikasjoner
+ Størst blodsukkersenkende effekt
+ Antatte ulemper: 
+ Ikke vist entydig positive effekter på kardiovaskulær sykelighet og dødelighet
+ Øker risikoen for hypoglykemi
+ Kan gi vektøkning
+ Kan være belastende for pasienten
+ Krever dosejustering og hos noen hyppige egenmåling av blodsukker
+ GLP1 analoger ( A10BJ ) 
+ Antatte fordeler: 
+ Kan gi tilleggsfordeler til blodsukkerreduksjon med redusert risiko for tidlig død og hjerte- og karsykdom hos pasienter med hjerte- og karsykdom
+ Gir sjelden hypoglykemi
+ Kan medvirke til vektreduksjon (gjennomsnittlig 2-4 kg over 3-6 mnd)
+ Kan forhindre stor stigning i blodglukose etter måltid
+ Kan gi liten reduksjon i blodtrykk
+ Antatte ulemper: 
+ Gastrointestinale bivirkninger (20-40 % initialt)
+ Kan muligens (men sjelden!) forårsake akutt pankreatitt
+ Kan forårsake C-celle hyperplasi og svulster i forsøksdyr
+ Gir en liten økning i hjertefrekvensen
+ Må injiseres, krever opplæring
+ Alfa-glukosidase hemmere ( A10BF ) 
+ Antatte fordeler: 
+ Gir sjelden hypoglykemi
+ Kan forhindre stor stigning i blodglukose etter måltid
+ Antatte ulemper: 
+ Ikke vist entydig positive effekter på kardiovaskulær sykelighet og dødelighet
+ Ofte gastrointestinale bivirkninger
+ Må tas ofte (opptrapping til dosering 2-3 ganger daglig)
+ Begrenset blodsukkersenkende effekt
+ Thiazolidinedioner ( A10BG ) 
+ Antatte fordeler: 
+ Lang erfaring, vist gunstig effekt på hjerte- og karsykdom i en langtidsstudie (sekundært endepunkt).
+ Gir sjelden hypoglykemi
+ Kan gi økt HDL-kolesterol
+ Kan redusere triglyserider
+ Antatte ulemper: 
+ Ikke vist entydig positive effekter på kardiovaskulær sykelighet og dødelighet
+ Kan føre til vektøkning
+ Kan føre til væskeretensjon, ødem og hjertesvikt
+ Assosiert med økning av risiko for frakturer, særlig postmenopausale kvinner
+ Repaglinid ( A10BX02 ) 
+ Antatte fordeler: 
+ Kan forhindre stor stigning i blodglukose etter måltid
+ Fleksibel dosering
+ Antatte ulemper: 
+ Ikke vist entydig positive effekter på kardiovaskulær sykelighet og dødelighet
+ Kan forårsake hypoglykemi
+ Kan forårsake vektøkning
+ Må doseres ofte (til hvert måltid)
+ Ikke generell refusjon
+ Begrunnelse
+ Valg av tilleggsbehandling når metformin ikke er tilstrekkelig, må baseres på en totalvurdering. Dokumentert sikkerhet og evt. effekt i randomiserte, kontrollerte langtidsstudier og i pasientbehandling over lang tid er tillagt betydelig vekt.
+ Nedenfor omtales kort de viktigste hensyn som er vektlagt i valget mellom de ulike legemidlene:
+ Sulfonylurea 
+ Glimepirid viste i CAROLINA studien tilsvarende effekt og sikkerhet som linagliptin i forhold til viktige kardiovaskulære utfall (Rosenstock J, et al, 2019).
+ DPP4-hemmere 
+ Linagliptin (Rosenstock J, et al (CARMELINA), 2019) og sitagliptin (Green JB, et al, 2015) har dokumentert tilsvarende sikkerhet som placebo i forhold til viktige kardiovaskulære utfall. Saxagliptin viste det samme i forhold til de primære utfall i studien, men det var en økning i hospitalisering for hjertesvikt (sekundært utfall) i saxagliptingruppen som er uforklart (Scirica BM, et al, 2012).
+ GLP1-analoger 
+ Exenatid ukentlig (Holman RR, et al, 2017), liraglutid (Marso SP, Daniels GH, Brown-Frandsen K, et al, 2016) semaglutid (Marso SP, Bain SC, Consoli A, et al, 2016) og dulaglutid (Gerstein HC, et al, 2019) har dokumentert bedre effekt enn placebo i forhold til effekten på viktige kardiovaskulære utfall og tilfredsstillende sikkerhetsprofil, med noen ulikheter mellom preparatene. Lixisenatid har dokumentert tilsvarende sikkerhet som placebo, men ikke bedre effekt, i forhold til viktige kardiovaskulære utfall (Pfeffer MA, et al, 2015).
+ SGLT2-hemmere 
+ Kanagliflozin (Neal B, et al, 2017), dapagliflozin (Wiviott SD, et al, 2019) og empagliflozin (Zinman B, et al, 2015) har dokumentert bedre effekt enn placebo i forhold til effekten på viktige kardiovaskulære utfall og tilfredsstillende sikkerhetsprofil, med noen ulikheter mellom preparatene. 
+Nytt i 2019 er at kanagliflozin har vist gunstige effekter på et sammensatt endepunkt av progresjon av nyresykdom eller kardiovaskulær død hos pasienter med diabetes type 2 og proteinuri (Perkovic V, et al, 2019) og at dapagliflozin har vist gunstige effekter på et sammensatt endpunkt av progresjon av hjertesvikt og kardiovaskulær død hos pasienter med hjertesvikt (uavhengig av diabetes eller ikke) (McMurray JJV, et al, 2019).
+ Akarbose, repaglinid og pioglitazon anbefales kun til utvalgte pasienter på grunn av avveiningen mellom effekt og bivirkningsprofil og mangelfull dokumentasjon av effekt på viktige kardiovaskulære utfall.
+ Les hele 
+ Forskningsgrunnlag
+ PICO
+ Populasjon (P) 
+ Pasienter med type 2 diabetes
+ Tiltak (I) 
+ Pasientpreferanser for medikament behandling (ikke-insulin)
+ Sammenligning (C) 
+ NOTSET!
+ Beskrivelse av inkluderte studier 
+ Evidensprofil (PDF) 
+ HbA1c reduseres mer ved intensiv blodsukkersenkende behandling og forskjellen mellom behandlingsgruppene i undersøkelsene med harde endepunkter er varierte. Ved diabetes type 2 finnes det en rekke randomiserte, kontrollerte og dobbel-blindede undersøkelser hvor ulike blodsukkersenkende medikamenter er sammenliknet med placebo eller med hverandre med HbA1c som hovedutfallsmål. Disse studiene er oftest av kort varighet (de fleste fra 3-12 mnd), har ikke statistisk styrke til å vurdere effekter på harde endepunkter (diabeteskomplikasjoner og død), rapporterer sjelden effekt på livskvalitet, men rapporterer HbA1c, fastende blodsukker risiko for hypoglykemi og andre intermediære utfallsmål. Generelt gjelder at eldre studier gjerne inkluderte pasienter med høyere HbA1c enn nyere studier og derfor fant en noe sterkere reduksjon i HbA1c. Det er gjennomgående relativt liten forskjell i gjennomsnittlig reduksjon av HbA1c (oftest mellom 0,6 og 1,5 %-poeng) mellom de ulike medikamentene sammenliknet med placebo. Direkte sammenliknende studier mellom ulike medikamenter er det langt færre av. ADOPT-studien (Viberti G, 2002) inkluderte 4360 pasienter med nyoppdaget type 2 diabetes som ble behandlet I median 4 år, Den sammenliknet behandling med metformin, glibenkalmid og rosiglitazone og hovedenepunktet var tid til sviktende effekt av monoterapi (fastende blodsukker over 10 mmol/l). Kaplan-Meier estimater viste en kumulativ svikt av monoterapi etter 5 år på 15% ved rosiglitazone, 21% med metformin og 34 % med glibenklamid. (Kahn SE, 2006)
+ Les hele 
+ Referanser
+ 292. Giancarlo Viberti, MD1, Steven E. Kahn, MB, CHB2, Douglas A. Greene, MD3, William H. Herman, MD3, Bernard Zinman, MD4, Rury R. Holman, MD5,. 
+ A Diabetes Outcome Progression Trial (ADOPT). An international multicenter study of the comparative efficacy of rosiglitazone, glyburide, and metformin in recently diagnosed type 2 diabetes. Diabetes Care. 2002 Oct. 25. 10. 1737-1743. 
+ 293. 
+ Kahn SE, Haffner SM, Heise MA, et al. Glycemic duarbillity of rosiglitazone, metformin or glyburide therapy. N Engl J Med 2006; 355: 2427-43. 
+ 294. Colhoun HM, Livingstone SJ, Looker HC, Morris AD, Wild SH, Lindsay RS, Reed C, Donnan PT, Guthrie B, Leese GP, McKnight J, Pearson DW, Pearson E, Petrie JR, Philip S, Sattar N, Sullivan FM, McKeigue P; Scottish Diabetes Research Network Epidemiology Group. 
+ Hospitalised hip fracture risk with rosiglitazone and pioglitazone use compared with other glucose-lowering drugs. Diabetologia. 2012. 55:2929–2937. 
+ 295. Scirica BM, Bhatt DL, Braunwald E, Steg PG, Davidson J, Hirshberg B, Ohman P, Frederich R, Wiviott SD, Hoffman EB, Cavender MA, Udell JA, Desai NR, Mosenzon O, McGuire DK, Ray KK, Leiter LA, Raz I; SAVOR-TIMI 53 Steering Committee and Investigators. 
+ Saxagliptin and cardiovascular outcomes in patients with type 2 diabetes mellitus. N Engl J Med. 2013. 369:1317–1326. 
+ 296. Mansoor Husain, Andreas L Birkenfeld, Morten Donsmark, Kathleen Dungan, Freddy G Eliaschewitz, Denise R Franco, Ole K Jeppesen, Ildiko Lingvay, Ofri Mosenzon, Sue D Pedersen, Cees J Tack, Mette Thomsen, Tina Vilsbøll, Mark L Warren, Stephen C Bain, . 
+ Oral Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.. The New England journal of medicine. 2019. 381. 9. 841-851. 10.1056/NEJMoa1901118. 
+ 297. Vlado Perkovic, Meg J Jardine, Bruce Neal, Severine Bompoint, Hiddo J L Heerspink, David M Charytan, Robert Edwards, Rajiv Agarwal, George Bakris, Scott Bull, Christopher P Cannon, George Capuano, Pei-Ling Chu, Dick de Zeeuw, Tom Greene, Adeera Levin, Carol Pollock, David C Wheeler, Yshai Yavin, Hong Zhang, Bernard Zinman, Gary Meininger, Barry M Brenner, Kenneth W Mahaffey, . 
+ Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy.. The New England journal of medicine. 2019. 380. 24. 2295-2306. 10.1056/NEJMoa1811744. 
+ 298. Stephen D Wiviott, Itamar Raz, Marc P Bonaca, Ofri Mosenzon, Eri T Kato, Avivit Cahn, Michael G Silverman, Thomas A Zelniker, Julia F Kuder, Sabina A Murphy, Deepak L Bhatt, Lawrence A Leiter, Darren K McGuire, John P H Wilding, Christian T Ruff, Ingrid A M Gause-Nilsson, Martin Fredriksson, Peter A Johansson, Anna-Maria Langkilde, Marc S Sabatine, . 
+ Dapagliflozin and Cardiovascular Outcomes in Type 2 Diabetes.. The New England journal of medicine. 2019. 380. 4. 347-357. 10.1056/NEJMoa1812389. 
+ 299. Hertzel C Gerstein, Helen M Colhoun, Gilles R Dagenais, Rafael Diaz, Mark Lakshmanan, Prem Pais, Jeffrey Probstfield, Jeffrey S Riesmeyer, Matthew C Riddle, Lars Rydén, Denis Xavier, Charles Messan Atisso, Leanne Dyal, Stephanie Hall, Purnima Rao-Melacini, Gloria Wong, Alvaro Avezum, Jan Basile, Namsik Chung, Ignacio Conget, William C Cushman, Edward Franek, Nicolae Hancu, Markolf Hanefeld, Shaun Holt, Petr Jansky, Matyas Keltai, Fernando Lanas, Lawrence A Leiter, Patricio Lopez-Jaramillo, Ernesto German Cardona Munoz, Valdis Pirags, Nana Pogosova, Peter J Raubenheimer, Jonathan E Shaw, Wayne H-H Sheu, Theodora Temelkova-Kurktschiev, . 
+ Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial.. Lancet (London, England). 2019. 394. 10193. 121-130. 10.1016/S0140-6736(19)31149-3. 
+ 300. Julio Rosenstock, Vlado Perkovic, Odd Erik Johansen, Mark E Cooper, Steven E Kahn, Nikolaus Marx, John H Alexander, Michael Pencina, Robert D Toto, Christoph Wanner, Bernard Zinman, Hans Juergen Woerle, David Baanstra, Egon Pfarr, Sven Schnaidt, Thomas Meinicke, Jyothis T George, Maximilian von Eynatten, Darren K McGuire, . 
+ Effect of Linagliptin vs Placebo on Major Cardiovascular Events in Adults With Type 2 Diabetes and High Cardiovascular and Renal Risk: The CARMELINA Randomized Clinical Trial.. JAMA. 2019. 321. 1. 69-79. 10.1001/jama.2018.18269. 
+ 301. Julio Rosenstock, Steven E Kahn, Odd Erik Johansen, Bernard Zinman, Mark A Espeland, Hans J Woerle, Egon Pfarr, Annett Keller, Michaela Mattheus, David Baanstra, Thomas Meinicke, Jyothis T George, Maximilian von Eynatten, Darren K McGuire, Nikolaus Marx, . 
+ Effect of Linagliptin vs Glimepiride on Major Adverse Cardiovascular Outcomes in Patients With Type 2 Diabetes: The CAROLINA Randomized Clinical Trial.. JAMA. 2019. 10.1001/jama.2019.13772. 
+ 302. Jennifer B Green, M Angelyn Bethel, Paul W Armstrong, John B Buse, Samuel S Engel, Jyotsna Garg, Robert Josse, Keith D Kaufman, Joerg Koglin, Scott Korn, John M Lachin, Darren K McGuire, Michael J Pencina, Eberhard Standl, Peter P Stein, Shailaja Suryawanshi, Frans Van de Werf, Eric D Peterson, Rury R Holman, . 
+ Effect of Sitagliptin on Cardiovascular Outcomes in Type 2 Diabetes.. The New England journal of medicine. 2015. 373. 3. 232-42. 10.1056/NEJMoa1501352. 
+ 303. Rury R Holman, M Angelyn Bethel, Robert J Mentz, Vivian P Thompson, Yuliya Lokhnygina, John B Buse, Juliana C Chan, Jasmine Choi, Stephanie M Gustavson, Nayyar Iqbal, Aldo P Maggioni, Steven P Marso, Peter Öhman, Neha J Pagidipati, Neil Poulter, Ambady Ramachandran, Bernard Zinman, Adrian F Hernandez, . 
+ Effects of Once-Weekly Exenatide on Cardiovascular Outcomes in Type 2 Diabetes.. The New England journal of medicine. 2017. 377. 13. 1228-1239. 10.1056/NEJMoa1612917. 
+ 304. Steven P Marso, Gilbert H Daniels, Kirstine Brown-Frandsen, Peter Kristensen, Johannes F E Mann, Michael A Nauck, Steven E Nissen, Stuart Pocock, Neil R Poulter, Lasse S Ravn, William M Steinberg, Mette Stockner, Bernard Zinman, Richard M Bergenstal, John B Buse, , . 
+ Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes.. The New England journal of medicine. 2016. 375. 4. 311-22. 10.1056/NEJMoa1603827. 
+ 305. Steven P Marso, Stephen C Bain, Agostino Consoli, Freddy G Eliaschewitz, Esteban Jódar, Lawrence A Leiter, Ildiko Lingvay, Julio Rosenstock, Jochen Seufert, Mark L Warren, Vincent Woo, Oluf Hansen, Anders G Holst, Jonas Pettersson, Tina Vilsbøll, . 
+ Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.. The New England journal of medicine. 2016. 375. 19. 1834-1844. 
+ 306. Marc A Pfeffer, Brian Claggett, Rafael Diaz, Kenneth Dickstein, Hertzel C Gerstein, Lars V Køber, Francesca C Lawson, Lin Ping, Xiaodan Wei, Eldrin F Lewis, Aldo P Maggioni, John J V McMurray, Jeffrey L Probstfield, Matthew C Riddle, Scott D Solomon, Jean-Claude Tardif, . 
+ Lixisenatide in Patients with Type 2 Diabetes and Acute Coronary Syndrome.. The New England journal of medicine. 2015. 373. 23. 2247-57. 10.1056/NEJMoa1509225. 
+ 307. Bruce Neal, Vlado Perkovic, Kenneth W Mahaffey, Dick de Zeeuw, Greg Fulcher, Ngozi Erondu, Wayne Shaw, Gordon Law, Mehul Desai, David R Matthews, . 
+ Canagliflozin and Cardiovascular and Renal Events in Type 2 Diabetes.. The New England journal of medicine. 2017. 377. 7. 644-657. 10.1056/NEJMoa1611925. 
+ 308. John J V McMurray, Scott D Solomon, Silvio E Inzucchi, Lars Køber, Mikhail N Kosiborod, Felipe A Martinez, Piotr Ponikowski, Marc S Sabatine, Inder S Anand, Jan Bělohlávek, Michael Böhm, Chern-En Chiang, Vijay K Chopra, Rudolf A de Boer, Akshay S Desai, Mirta Diez, Jaroslaw Drozdz, Andrej Dukát, Junbo Ge, Jonathan G Howlett, Tzvetana Katova, Masafumi Kitakaze, Charlotta E A Ljungman, Béla Merkely, Jose C Nicolau, Eileen O'Meara, Mark C Petrie, Pham N Vinh, Morten Schou, Sergey Tereshchenko, Subodh Verma, Claes Held, David L DeMets, Kieran F Docherty, Pardeep S Jhund, Olof Bengtsson, Mikaela Sjöstrand, Anna-Maria Langkilde, . 
+ Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction.. The New England journal of medicine. 2019. 381. 21. 1995-2008. 10.1056/NEJMoa1911303. 
+ Lukk 
+ Siste faglige endring:
+ 12. september 2018
+   |   Se tidligere versjoner 
+ Siste faglige endring: 20. desember 2019
+ Skriv ut / lag PDF 
+ Til toppen
+ Om Helsedirektoratet
+ Om oss
+ Jobbe hos oss
+ Kontakt oss
+ Postadresse: 
+Helsedirektoratet
+Postboks 220, Skøyen
+0213 Oslo
+ Aktuelt
+ Nyheter
+ Arrangementer
+ Høringer
+ Presse
+ Om nettstedet
+ Personvernerklæring
+ Tilgjengelighetserklæring (uustatus.no)
+ Besøksstatistikk og informasjonskapsler
+ Nyhetsvarsel og abonnement
+ Åpne data (API)
+ Følg oss:

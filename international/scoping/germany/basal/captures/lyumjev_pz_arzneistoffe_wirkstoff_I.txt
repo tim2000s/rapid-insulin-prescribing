@@ -1,0 +1,43 @@
+/arzneistoffe/daten/2020/ibalizumabtrogarzor832020/	Ibalizumab (Trogarzo
+/arzneistoffe/daten/2014/ibrutinibimbruvica174862014/	Ibrutinib (Imbruvica
+/arzneistoffe/daten/2008/icatibantfirazyr174272008/	Icatibant (Firazyr
+/arzneistoffe/daten/2021/icosapent-ethylvazkepar582021/	Icosapent-Ethyl (Vazkepa
+/arzneistoffe/daten/2016/idarucizumabpraxbindr132016/	Idarucizumab (Praxbind
+/arzneistoffe/daten/2015/idebenonraxoner672015/	Idebenon (Raxone
+/arzneistoffe/daten/2022/idecabtagen-vicleucelabecma422022/	Idecabtagen vicleucel (Abecma / 2022)
+/arzneistoffe/daten/2014/idelalisibzydelig174862014/	Idelalisib (Zydelig
+/arzneistoffe/daten/2007/idursulfaseelaprase174402007/	Idursulfase (Elaprase
+/arzneistoffe/daten/2001/imatinibglivec174862001/	Imatinib (Glivec
+/arzneistoffe/daten/1999/imidapriltanatril174271999/	Imidapril (Tanatril
+/arzneistoffe/daten/1998/imiglucerasecerezymer401998/	Imiglucerase (Cerezyme
+/arzneistoffe/daten/1998/imiquimodaldarar321998/	Imiquimod (Aldara
+/arzneistoffe/daten/2021/imlifidaseidefirixr512021/	Imlifidase (Idefirix
+/arzneistoffe/daten/imlunestrantinluriyor862026/	Imlunestrant (Inluriyo® / 2026)
+/arzneistoffe/daten/inavolisibitovebir862025/	Inavolisib (Itovebi
+/arzneistoffe/daten/2021/inclisiranleqvior582021/	Inclisiran (Leqvio
+/arzneistoffe/daten/2010/indacaterolonbrez174282010/	Indacaterol (Onbrez
+/arzneistoffe/daten/2022/inebilizumabupliznar512022/	Inebilizumab (Uplizna
+/arzneistoffe/daten/1999/infliximabremicade174511999/	Infliximab (Remicade
+/arzneistoffe/daten/2013/ingenolmebutatpicator322013/	Ingenolmebutat (Picato
+/arzneistoffe/daten/2018/inotersentegsedir662018/	Inotersen (Tegsedi
+/arzneistoffe/daten/2017/inotuzumab-ozogamicinbesponsar862017/	Inotuzumab Ozogamicin (Besponsa
+/arzneistoffe/daten/1999/insulin-aspartnovorapid174121999/	Insulin aspart (NovoRapid
+/arzneistoffe/daten/2014/insulin-degludectresiba174122014/	Insulin degludec (Tresiba
+/arzneistoffe/daten/2004/insulin-detemirlevemir174122004/	Insulin detemir (Levemir
+/arzneistoffe/daten/2000/insulin-glarginlantus174122000/	Insulin glargin (Lantus
+/arzneistoffe/daten/insulin-icodecawiqlir122024/	Insulin icodec (Awiqli
+/arzneistoffe/daten/2004/insulinglulisinapidra174122004/	Insulinglulisin (Apidra
+/arzneistoffe/daten/1999/interferon-alfacon-1inferax174511999/	Interferon alfacon-1 (Inferax
+/arzneistoffe/daten/1997/interferon-beta-1aavonexr511997/	Interferon beta-1a (Avonex
+/arzneistoffe/daten/2000/iosarcolmelitrast174300352000/	Iosarcol (Melitrast
+/arzneistoffe/daten/2011/ipilimumabyervoyr512011/	Ipilimumab (Yervoy
+/arzneistoffe/daten/iptacopanfabhaltar512024/	Iptacopan (Fabhalta
+/arzneistoffe/daten/1997/irbesartankarvear271997/	Irbesartan (Karvea
+/arzneistoffe/daten/1998/irinotecancamptor861998/	Irinotecan (Campto
+/arzneistoffe/daten/2021/isatuximabsarclisar862021/	Isatuximab (Sarclisa
+/arzneistoffe/daten/2015/isavuconazolcresembar212015/	Isavuconazol (Cresemba
+/arzneistoffe/daten/2006/ivabradinprocoralan174532006/	Ivabradin (Procoralan
+/arzneistoffe/daten/2012/ivacaftorkalydeco8482282012/	Ivacaftor (Kalydeco
+/arzneistoffe/daten/ivosidenibtibsovor862023/	Ivosidenib (Tibsovo
+/arzneistoffe/daten/2017/ixazomibninlaror862017/	Ixazomib (Ninlaro
+/arzneistoffe/daten/2017/ixekizumabtaltzr512017/	Ixekizumab (Taltz

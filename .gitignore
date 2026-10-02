@@ -14,3 +14,5 @@ withdrawals_eu/captures/
 withdrawals_eu/concerns/*
 !withdrawals_eu/concerns/lyumjev_statements.csv
 lilly_role/captures/
+international/scoping/germany/basal/captures/*_all47pages.html
+international/scoping/us/basal/captures/cms_*.html

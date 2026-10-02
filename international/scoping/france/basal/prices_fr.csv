@@ -1,0 +1,42 @@
+brand,class,presentation,cip13,units_per_box,bdpm_price_eur,bdpm_eur_per_100u,boxes_2025,open_medic_2025_bse_eur_per_100u,bdpm_status
+Tresiba,degludec,FlexTouch U200 3 x 3 ml,3400926857981,1800,56.01,3.112,1118298,3.185,DÃ©claration de commercialisation
+Tresiba,degludec,Penfill cartridge 5 x 3 ml U100,3400926853389,1500,46.85,3.123,117688,3.165,DÃ©claration de commercialisation
+Tresiba,degludec,FlexTouch U200 2 x 3 ml,3400926857813,1200,,,20,3.157,
+Levemir,detemir,FlexPen 5 x 3 ml U100,3400936511989,1500,42.03,2.802,275052,2.901,DÃ©claration de commercialisation
+Levemir,detemir,Penfill 5 x 3 ml U100,3400936511811,1500,42.03,2.802,7945,2.879,DÃ©claration de commercialisation
+Levemir,detemir,InnoLet 5 x 3 ml U100,3400936512061,1500,42.03,2.802,0,,DÃ©claration d'arrÃªt de commercialisation
+Abasaglar,glargine100,KwikPen 5 x 3 ml U100 (biosimilar),3400930040072,1500,33.86,2.257,1501791,2.407,DÃ©claration de commercialisation
+Abasaglar,glargine100,cartridge 5 x 3 ml U100 (biosimilar),3400930016169,1500,33.86,2.257,6400,2.4,DÃ©claration d'arrÃªt de commercialisation
+Abasaglar,glargine100,pen 5 x 3 ml U100 (biosimilar),3400930016213,1500,,,0,,
+Lantus,glargine100,SoloStar 5 x 3 ml U100,3400937722988,1500,36.43,2.429,1324624,2.511,DÃ©claration de commercialisation
+Lantus,glargine100,cartridge 5 x 3 ml U100,3400935463203,1500,36.43,2.429,11173,2.474,DÃ©claration de commercialisation
+Lantus,glargine100,vial 1 x 10 ml U100,3400935946492,1000,24.59,2.459,2021,2.569,DÃ©claration de commercialisation
+Lantus,glargine100,Optiset 5 x 3 ml U100,3400935651976,1500,,,0,,
+Semglee,glargine100,pen 5 x 3 ml U100 (biosimilar; commercialised 2026-02-23),3400930270356,1500,35.41,2.361,0,,DÃ©claration de commercialisation
+Toujeo,glargine300,SoloStar 3 x 1.5 ml U300,3400930016671,1350,35.07,2.598,1806746,2.656,DÃ©claration de commercialisation
+Toujeo,glargine300,DoubleStar 3 x 3 ml U300,3400930177662,2700,69.07,2.558,223052,2.629,DÃ©claration de commercialisation
+Toujeo,glargine300,SoloStar 5 x 1.5 ml U300,3400930016688,2250,,,0,,
+Apidra,rapid standard,SoloStar pen 5 x 3 ml U100,3400937722001,1500,31.28,2.085,291416,2.126,DÃ©claration de commercialisation
+Apidra,rapid standard,vial 1 x 10 ml U100,3400936518094,1000,15.82,1.582,55732,1.604,DÃ©claration de commercialisation
+Apidra,rapid standard,cartridge 5 x 3 ml U100,3400936569423,1500,26.69,1.779,3352,1.79,DÃ©claration de commercialisation
+Humalog,rapid standard,KwikPen 5 x 3 ml U100,3400938510980,1500,28.26,1.884,791205,2.096,DÃ©claration de commercialisation
+Humalog,rapid standard,vial 1 x 10 ml U100,3400934142680,1000,14.31,1.431,788997,1.587,DÃ©claration de commercialisation
+Humalog,rapid standard,KwikPen U200 5 x 3 ml,3400930000854,3000,57.68,1.923,154678,2.14,DÃ©claration de commercialisation
+Humalog,rapid standard,Junior KwikPen 5 x 3 ml U100,3400930125267,1500,28.26,1.884,65719,2.095,DÃ©claration de commercialisation
+Humalog,rapid standard,cartridge 5 x 3 ml U100,3400934373930,1500,24.09,1.606,27014,1.783,DÃ©claration de commercialisation
+Insuline asparte Sanofi,rapid standard,SoloStar pen 5 x 3 ml U100,3400930212042,1500,22.20,1.48,160217,1.563,DÃ©claration de commercialisation
+Insuline asparte Sanofi,rapid standard,vial 1 x 10 ml U100,3400930233931,1000,11.31,1.131,28903,1.187,DÃ©claration de commercialisation
+Insuline asparte Sanofi,rapid standard,cartridge 5 x 3 ml U100,3400930212028,1500,18.94,1.263,1546,1.329,DÃ©claration de commercialisation
+NovoRapid,rapid standard,FlexPen 5 x 3 ml U100,3400935527400,1500,22.20,1.48,2053620,1.606,DÃ©claration de commercialisation
+NovoRapid,rapid standard,vial 1 x 10 ml U100,3400935259097,1000,12.83,1.283,1189476,1.507,DÃ©claration de commercialisation
+NovoRapid,rapid standard,Penfill cartridge 5 x 3 ml U100,3400935259219,1500,18.94,1.263,216418,1.361,DÃ©claration de commercialisation
+NovoRapid,rapid standard,PumpCart cartridge 5 x 1.6 ml U100,3400927714573,800,17.53,2.191,158518,2.439,DÃ©claration de commercialisation
+NovoRapid,rapid standard,InnoLet pen 5 x 3 ml U100 (withdrawn; pack assumed),3400937848350,1500,,,22,1.988,
+Fiasp,rapid ultra,FlexTouch pen 5 x 3 ml U100,3400930083161,1500,31.28,2.085,367977,2.1,DÃ©claration de commercialisation
+Fiasp,rapid ultra,vial 1 x 10 ml U100,3400930083178,1000,15.82,1.582,326418,1.587,DÃ©claration de commercialisation
+Fiasp,rapid ultra,Penfill cartridge 5 x 3 ml U100,3400930083185,1500,26.69,1.779,91192,1.784,DÃ©claration de commercialisation
+Fiasp,rapid ultra,PumpCart cartridge 5 x 1.6 ml U100,3400930208861,800,20.51,2.564,45664,2.564,DÃ©claration de commercialisation
+Lyumjev,rapid ultra,KwikPen U200 5 x 3 ml,3400930204023,3000,55.45,1.848,67003,2.055,DÃ©claration de commercialisation
+Lyumjev,rapid ultra,vial 1 x 10 ml U100,3400930203927,1000,14.31,1.431,56079,1.588,DÃ©claration de commercialisation
+Lyumjev,rapid ultra,Junior KwikPen 5 x 3 ml U100,3400930204009,1500,28.26,1.884,42598,2.093,DÃ©claration de commercialisation
+Lyumjev,rapid ultra,cartridge 5 x 3 ml U100,3400930203965,1500,24.09,1.606,3200,1.784,DÃ©claration d'arrÃªt de commercialisation

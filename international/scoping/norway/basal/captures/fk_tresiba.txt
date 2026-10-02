@@ -1,0 +1,851 @@
+ 
+ Tresiba FlexTouch, Tresiba Penfill «Novo - Felleskatalogen 
+ FELLESKATALOGEN 
+ Dette er et søkefelt med autofullføringsforslag. Start å skrive og du vil få opp forslag på virkestoff, legemidler og bruksområder, som du kan velge mellom. Bruk Søke-knappen hvis autofullføringsforslagene ikke er relevante, eller Strekkode-knappen hvis du ønsker å skanne strekkoden på legemiddelpakningen.
+ Søk i alt innhold 
+ Søk i alt innhold 
+ Interaksjonsanalyse MENY 
+ LUKK 
+ Legemidler A-Z 
+ Indikasjoner A-Z
+ ATC-register 
+ Vaksiner 
+ Apotekpreparater (NAF) 
+ Apotekpreparater (SA) 
+ Virkestoffregister 
+ Formelregister 
+ Legemidler på godkjenningsfritak 
+ Sortimentsendringer 
+ Pasientinformasjon 
+ Anafylaksibehandling 
+ Forgiftninger 
+ Graviditet og legemidler 
+ Amming og legemidler 
+ Miljø og legemidler 
+ Varsler fra DMP 
+ Priser på legemidler 
+ Regelverk og forskrifter 
+ Innstillinger 
+ Søkeverktøy 
+ Mobilapper 
+ Integrasjon med FK 
+ Klinisk Beslutningsstøtte 
+ Om Felleskatalogen 
+ Adresser 
+ Legemidler for dyr 
+ LUKK 
+ Felleskatalogtekst FK-tekst Pakningsvedlegg Pakn.ved. 
+ Siste besøkte sider ( deaktiver aktiver ) Tresiba FlexTouch 
+ Tresiba FlexTouch
+ Tresiba Penfill
+ Novo Nordisk (Novo Nordisk Norway AS) 
+ Insulinanalog, langtidsvirkende. 
+ A10A E06 (Insulin degludek) 
+ Reseptgruppe C Reseptbelagt legemiddel.
+ Kan forskrives på blå resept 
+ Insulin degludek forbudt iht. WADAs dopingliste. 
+ Bestill bekreftelse på dopingsøk 
+ Gå til Legemiddelfoto 
+ Gå til Instruksjonsfilmer og -brosjyrer 
+ Opplæringsmateriell og veiledning ved bruk 
+ Veiledning til helsepersonell
+ Tresiba plakat, apotek og diabetesklinikker 
+ Veiledning til pasient
+ Tresiba informasjon, pasient 
+ Les mer om opplæringsmateriell hos DMP 
+ Indikasjoner | Nye metoder | Dosering | Tilberedning | Administrering | Legemiddelfoto | Instruksjonsfilmer | Kontraindikasjoner | Forsiktighetsregler | Interaksjoner | Graviditet, amming og fertilitet | Bivirkninger | Overdosering og forgiftning | Egenskaper og miljø | Oppbevaring og holdbarhet | Andre opplysninger | Utleveringsbestemmelser | Pakninger uten resept | Pakninger, priser og refusjon | Medisinbytte | SPC (preparatomtale) 
+ INJEKSJONSVÆSKE, oppløsning i ferdigfylt penn 100 enheter/ml og 200 enheter/ml : Tresiba FlexTouch:  1 ml inneh.: Insulin degludek (rDNA) 100 enheter (E), resp. 200 enheter (E) tilsv. 3,66 mg, resp. 7,32 mg, glyserol, metakresol, fenol, sinkacetat, saltsyre, natriumhydroksid, vann til injeksjonsvæsker .
+ INJEKSJONSVÆSKE, oppløsning i sylinderampulle 100 enheter/ml : Tresiba Penfill:  1 ml inneh.: Insulin degludek (rDNA) 100 enheter (E) tilsv. 3,66 mg, glyserol, metakresol, fenol, sinkacetat, saltsyre, natriumhydroksid, vann til injeksjonsvæsker .
+ Indikasjoner
+Behandling av diabetes mellitus hos voksne, ungdom og barn fra 1 år. 
+ Norsk legemiddelhåndbok: Diabetes mellitus 
+ Dosering
+ Mht. sporbarhet skal preparatnavn og batchnr. noteres i pasientjournalen. Administreres 1 gang daglig, når som helst i løpet av dagen, fortrinnsvis på samme tidspunkt hver dag. Fleksibilitet i valg av administreringstidspunkt tillates når det ikke er mulig å administrere ved samme tidspunkt hver dag, men klinisk erfaring med dette mangler hos barn og ungdom. Det skal alltid være minst 8 timer mellom injeksjonene. Doseres i overensstemmelse med pasientens individuelle behov. Optimalisering av glykemisk kontroll anbefales vha. dosejustering basert på fastende plasmaglukose. Dosejustering kan være nødvendig ved økt fysisk aktivitet, endret kosthold, eller annen samtidig sykdom. Ved overgang fra andre insulinpreparater anbefales streng blodglukosekontroll i overgangsperioden og de første påfølgende uker. Dose og tidspunkt for administrering av hurtigvirkende insulinpreparater, eller annen samtidig antidiabetisk behandling, må ev. justeres. Insulin degludek 1 enhet (E) tilsv. humaninsulin 1 internasjonal enhet (IE), insulin glargin (100 E/ml) 1 enhet (E) eller insulin detemir 1 enhet (E).
+ Diabetes mellitus type 1 
+ Skal kombineres med hurtigvirkende insulin for å dekke insulinbehovet ved måltider. Tas 1 gang daglig sammen med måltidsinsulin, etterfølgende individuelle dosejusteringer er påkrevd. Overgang fra andre insulinpreparater: En dosereduksjon på 20% av den tidligere dosen med basalinsulin eller den tidligere basalkomponenten i et kontinuerlig s.c . insulininfusjonsregime bør vurderes, etterfulgt av individuell dosejustering basert på glykemisk respons.
+ Diabetes mellitus type 2 
+ Kan administreres alene eller i enhver kombinasjon med orale antidiabetika, GLP-1-reseptoragonister og bolusinsulin. Anbefalt daglig startdose er 10 enheter, etterfulgt av individuell dosejustering. Ved tillegg av insulin degludek til GLP-1-reseptoragonister er anbefalt startdose 10 enheter daglig etterfulgt av individuelle dosejusteringer. Ved tillegg av GLP-1-reseptoragonister til insulin degludek anbefales det å redusere dosen av insulin degludek med 20%, for å minimere risikoen for hypoglykemi . Dosen justeres deretter individuelt. Overgang fra andre insulinpreparater: For pasienter som behandles med basalinsulin 1 gang daglig, basalbolusbehandling, eller behandling med blandingsinsulin eller selvblandet insulin, kan overgangen fra basalinsulin til insulin degludek gjøres enhet for enhet basert på tidligere basalinsulindose, etterfulgt av individuelle dosejusteringer. En dosereduksjon på 20% av den tidligere dosen med basalinsulin bør vurderes ved overgang fra basalinsulin 2 ganger daglig og ved overgang fra insulin glargin (300 E/ml), etterfulgt av individuell dosejustering.
+ Glemt dose Glemt dose anbefales tatt så snart den oppdages, og deretter gjenopptas vanlig doseregime med 1 daglig dose. Det skal alltid være minst 8 timer mellom injeksjonene.
+ Spesielle pasientgrupper 
+ Nedsatt lever-/nyrefunksjon: Måling av glukose må intensiveres, og insulindosen justeres individuelt.
+ Barn og ungdom <18 år: Ingen klinisk erfaring med bruk av dette legemidlet til barn <1 år. Kan brukes av ungdom og barn fra 1 år. Ved endring av basalinsulin til Tresiba er det nødvendig å overveie individuell dosereduksjon av basal- og bolusinsulin for å minimere risikoen for hypoglykemi .
+ Eldre ≥65 år: Måling av glukose må intensiveres, og insulindosen justeres individuelt.
+ Tilberedning/Håndtering Oppløsning som ikke fremstår som klar og fargeløs skal ikke brukes. Skal ikke etterfylles, deles med andre eller blandes med andre legemidler. Skal ikke tilsettes infusjonsvæsker. Det skal alltid settes på en ny nål før hver bruk. Nåler skal ikke brukes om igjen: Gjenbruk av nåler øker risikoen for tette nåler, noe som kan føre til under- eller overdosering. Pasienten skal kaste nålen etter hver injeksjon. FlexTouch ferdigfylt penn: Med ferdigfylt penn 100 enheter/ml kan det administreres en dose fra 1-80 enheter pr. injeksjon, i trinn på 1 enhet. Med ferdigfylt penn 200 enheter/ml kan det administreres en dose fra 2-160 enheter pr. injeksjon, i trinn på 2 enheter. Dosetelleren viser antallet enheter uansett styrke, og det skal ikke foretas noen doseomregning ved overgang til ny styrke. For å unngå feildosering og potensiell overdosering skal det aldri brukes en sprøyte til å trekke legemidlet opp fra sylinderampullen som er i den ferdigfylte pennen. FlexTouch brukes sammen med NovoFine nåler med lengde opptil 8 mm. Se pakningsvedlegg. Penfill sylinderampuller: Brukes sammen med NovoFine nåler og insulininjeksjonssystemer fra Novo Nordisk. Se pakningsvedlegg.
+ Administrering Kun til s.c . injeksjon i låret, overarmen eller abdominalveggen. Injeksjonsstedene skal alltid varieres innen samme område for å redusere risikoen for lipodystrofi og kutan amyloidose. Pasienten skal instrueres i riktig bruk. Skal ikke administreres i.v ., da dette kan gi alvorlig hypoglykemi . Skal ikke administreres i.m ., da dette kan endre absorpsjonen . Skal ikke brukes i insulininfusjonspumper. 
+ Legemiddelfoto 
+ Tresiba FlexTouch «Novo Nordisk» injeksjonsvæske, oppløsning i ferdigfylt penn 100 enheter/ml
+ Tresiba FlexTouch «Novo Nordisk» injeksjonsvæske, oppløsning i ferdigfylt penn 200 enheter/ml
+ Tresiba Penfill «Novo Nordisk» injeksjonsvæske, oppløsning i sylinderampulle 100 enheter/ml
+ Instruksjonsfilmer og -brosjyrer 
+ Film pasient
+ Tresiba ferdigfylt penn 100 enheter/ml, Norsk 
+ Tresiba ferdigfylt penn 100 enheter/ml, Norsk
+ 25.09.2026
+ Tresiba pre-filled pen 100 units/ml, English 
+ Instruction movie for pre-filled pen.
+ 25.05.2022
+ Tresiba ferdigfylt penn 100 enheter/ml, Polsk 
+ Film instruktażowy do wstrzykiwacza półautomatycznego napełnionego.
+ 25.05.2022
+ Tresiba ferdigfylt penn 100 enheter/ml, Urdu 
+ کے استعمال کرنے کا طریقہ Tresiba
+ 25.05.2022
+ Tresiba ferdigfylt penn 100 enheter/ml, Arabisk 
+ .Tresiba كيفية استخدام
+ 25.05.2022
+ Tresiba ferdigfylt penn 200 enheter/ml, Norsk 
+ Tresiba ferdigfylt penn 200 enheter/ml, Norsk
+ 28.09.2026
+ Tresiba pre-filled pen 200 units/ml, English 
+ Instruction movie for pre-filled pen.
+ 25.05.2022
+ Tresiba ferdigfylt penn 200 enheter/ml, Polsk 
+ Film instruktażowy do wstrzykiwacza półautomatycznego napełnionego.
+ 25.05.2022
+ Tresiba ferdigfylt penn 200 enheter/ml, Urdu 
+ کے استعمال کرنے کا طریقہ Tresiba
+ 25.05.2022
+ Tresiba ferdigfylt penn 200 enheter/ml, Arabisk 
+ .Tresiba كيفية استخدام
+ 25.05.2022
+ NovoPen 6 
+ Instruksjonsfilm for bruk av NovoPen 6 - digital flergangspenn til insulininjeksjon.
+ 30.01.2024
+ NovoPen Echo Plus 
+ Instruksjonsfilm for bruk NovoPen Echo Plus - digital flergangspenn til insulininjeksjon.
+ 30.01.2024
+ Kontraindikasjoner 
+Overfølsomhet for innholdsstoffene. 
+ Forsiktighetsregler
+ Hypoglykemi : Utelatelse av et måltid, ikke planlagt anstrengende fysisk aktivitet, eller for høy insulindose i forhold til insulinbehovet kan føre til hypoglykemi . Hos barn (spesielt ved basal-bolusregimer) er det viktig å tilpasse insulindoser med matinntak og fysisk aktivitet for å minimere risikoen for hypoglykemi . Pasienter som oppnår betydelig forbedring av blodglukosekontrollen (f.eks. ved intensivert insulinbehandling), kan oppleve endring i vanlige varselsymptomer på hypoglykemi , og må informeres om dette. Vanlige varselsymptomer kan forsvinne hos pasienter som har hatt diabetes lenge. Annen samtidig sykdom, især infeksjoner og feber , øker vanligvis insulinbehovet. Samtidig sykdom i nyre, lever eller sykdom som påvirker binyre, hypofyse eller tyreoidea, kan kreve doseendringer. Den forlengede effekten av insulin degludek kan forsinke restitusjon etter hypoglykemi . Hypoglykemi kan svekke konsentrasjons- og reaksjonsevnen, og ved bilkjøring bør pasienten rådes til å ta forholdsregler for å unngå dette. Det bør overveies om bilkjøring er tilrådelig for pasienter som har nedsatte eller manglende forvarsler på hypoglykemi eller som opplever hyppige hypoglykemianfall. Hyperglykemi : Administrering av hurtigvirkende insulin anbefales ved alvorlig hyperglykemi . Utilstrekkelig dosering og/eller avbrytelse av behandlingen kan føre til hyperglykemi og potensielt til diabetisk ketoacidose . Annen samtidig sykdom, især infeksjoner , kan føre til hyperglykemi og økt insulinbehov. Ved diabetes mellitus type 1 fører ubehandlet hyperglykemi etter hvert til diabetisk ketoacidose , som er potensielt dødelig. Skifte til insulin av annen type, annet merke eller fra annen tilvirker, må skje under medisinsk kontroll og kan kreve doseendring. Hud og underhud: Injeksjonssted må roteres kontinuerlig for å redusere risiko for lipodystrofi og kutan amyloidose, da injeksjon i områder med slike reaksjoner kan gi forsinket insulinabsorpsjon og forverret glykemisk kontroll. Hypoglykemi er sett etter plutselig endring i injeksjonssted til et område uten reaksjoner. Overvåkning av blodglukose anbefales etter endring av injeksjonssted, og dosejustering av antidiabetika kan vurderes. Kombinasjon med pioglitazon: Tilfeller av hjertesvikt er rapportert ved samtidig bruk av pioglitazon og insulin, spesielt ved risikofaktorer for å utvikle hjertesvikt. Dette må tas i betraktning hvis kombinasjonen vurderes, og pasienten skal observeres for tegn og symptomer på hjertesvikt, vektøkning og ødem. Pioglitazon skal seponeres ved forverring av kardiale symptomer. Hvordan unngå feilmedisinering: Insulinetiketten skal kontrolleres før hver injeksjon, for å unngå utilsiktet forveksling mellom de to styrkene av ferdigfylt penn, samt forveksling med andre insulinpreparater. Antall valgte enheter på pennens doseteller skal kontrolleres visuelt, og det kreves derfor at pasienter som skal injisere selv kan lese av dosetelleren. Blinde/svaksynte skal alltid få hjelp/assistanse fra annen person med godt syn, og som har fått opplæring i bruk av pennen. Øyesykdom: Intensivering av insulinbehandling med umiddelbar forbedret glykemisk kontroll kan være forbundet med forbigående forverring av diabetisk retinopati , mens langvarig forbedret glykemisk kontroll reduserer risikoen for progresjon av diabetisk retinopati . Insulinantistoffer: Administrering av insulin kan føre til dannelse av insulinantistoffer. I sjeldne tilfeller kan forekomsten av slike insulinantistoffer kreve justering av insulindosen for å korrigere tendens til hyper- eller hypoglykemi . 
+ Interaksjoner
+ Relevante interaksjoner - DMP A10A E06 (23 treff) 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Acetylsalisylsyre, høydose 
+ N02A J02 - Dihydrokodein og acetylsalisylsyre 
+ N02A J07 - Kodein og acetylsalisylsyre 
+ N02A J18 - Oksykodon og acetylsalisylsyre 
+ N02B A01 - Acetylsalisylsyre 
+ N02B A51 - Acetylsalisylsyre, kombinasjoner ekskl. psykoleptika 
+ Vis detaljer 
+ Situasjonskriterium 
+ Gjelder bare ved bruk av høye, antiinflammatoriske doser acetylsalisylsyre.
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt.
+ Interaksjonsmekanisme 
+ Acetylsalisylsyre i høye doser har en blodsukkerreduserende effekt. Dermed vil det oppstå additive farmakodynamiske effekter med antidiabetika.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidiabetiske midlet reduseres ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier og kasusrapporter
+ Kilder 
+ Cattaneo AG, Caviezel F, Pozza G. Pharmacological interaction between tolbutamide and acetylsalicylic acid: study on insulin secretion in man. Int J Clin Pharmacol Ther Toxicol 1990; 28: 229–34. 
+ Gilgore SG, Rupp JJ. The long-term response of diabetes mellitus to salicylate therapy. Report of a case. JAMA 1962; 180: 65–6. 
+ Kaye R, Athreya BH, Kunzman EE et al. Antipyretics in patients with juvenile diabetes mellitus. Am J Dis Child 1966; 112: 52–5. 
+ Logie AW, Galloway DB, Petrie JC. Drug interactions and long-term antidiabetic therapy. Br J Clin Pharmacol 1976; 3: 1027–32. 
+ Reid J, Lightbody TD. The insulin equivalence of salicylate. BMJ 1959; i: 897–900. 
+ Reid J, Macdougall AI, Andrews MM. Aspirin and diabetes mellitus. BMJ 1957; 2: 1071–4. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Alkohol 
+ Etanol 96 % 
+ V03A B16 - Etanol 
+ Vis detaljer 
+ Situasjonskriterium 
+ Gjelder inntak av større mengder alkohol.
+ Klinisk konsekvens 
+ Risiko for sent innsettende hypoglykemisk effekt ved engangsinntak av større mengder alkohol. Dessuten mindre tydelige hypoglykemisymptomer. Inntak av søte alkoholholdige drikkevarer kan øke blodsukkeret. Større mengder alkohol kombinert med metformin øker risikoen for laktacidose. Langvarig høyt inntak av alkohol kan øke risikoen for diabetisk ketoacidose .
+ Interaksjonsmekanisme 
+ Usikker mekanisme. Det er imidlertid kjent at alkohol hemmer glukoneogenesen, slik at kroppens evne til å motregulere hypoglykemianfall (for eksempel forårsaket av insulin og sulfonylureapreparater) vil være nedsatt under alkoholpåvirkning.
+ Monitorering 
+ Pasientene bør informeres om at inntak av større mengder alkohol bør unngås, at det er fornuftig å innta mat samtidig, at man bør være ekstra oppmerksom på at noen alkoholdrikker inneholder mye sukker, samt at følingssymptomene kan bli annerledes ved inntak av alkohol. Det er spesielt viktig å informere pasienter med insulingavhengig type 1-diabetes om risikoen for sen hypoglykemi ved inntak av større mengder alkohol.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Arky RA, Veverbrants E, Abramson EA. Irreversible hypoglycemia. A complication of alcohol and insulin. JAMA 1968; 206: 575–8. 
+ Potter J, Clarke P, Gale EAM et al. Insulin-induced hypoglycaemia in an accident and emergency department: the tip of an iceberg? BMJ 1982; 285: 1180–2. 
+ SPC Glucohpage 
+ Walsh CH, O’Sullivan DJ. Effect of moderate alcohol intake on control of diabetes. Diabetes 1974; 23: 440–2. 
+ White NJ, Warrell DA, Chanthavanich P et al. Severe hypoglycemia and hyperinsulinemia in falciparum malaria. N Engl J Med 1983; 309: 61–6. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Aloe vera (peroral bruk) 
+ Aloe vera 
+ Vis detaljer 
+ Situasjonskriterium 
+ Gjelder peroralt inntak (juice), ikke lokalbehandling.
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt (en blodsukkerreduserende effekt er vist i en studie med glibenklamid hos menneske, samt i dyremodeller).
+ Interaksjonsmekanisme 
+ Ukjent mekanisme.
+ Monitorering 
+ Pasienten bør oppfordres til å kontrollere blodsukkeret nøye.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Bunyapraphatsara N, Yongchaiyudha S, Rungpitarangsi V et al. Antidiabetic activity of Aloe vera L. juice II. Clinical trial in diabetes mellitus patients in combination with glibenclamide. Phytomedicine 1996; 3: 245-8. 
+ Yongchaiyudha S, Rungpitarangsi V, Bunyapraphatsara N et al. Antidiabetic activity of Aloe vera L. juice. I. Clinical trial in new cases of diabetes mellitus. Phytomedicine. 1996; 3: 241-3. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Bezafibrat C10A B02 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt risiko for hypoglykemi , spesielt når fibratet kombineres med insulin eller sulfonylureapreparater. Bedret glykemisk kontroll er også rapportert.
+ Interaksjonsmekanisme 
+ En rekke ulike mekanismer er foreslått, inklusive nedsatt insulinresistens, fortrenging fra plasmaproteinene av sulfonylureapreparater, og nedsatt renal ekskresjon av sulfonylureapreparater.
+ Monitorering 
+ Pasienten bør informeres om den økte risikoen for hypoglykemi .
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Girardin E, Vial T, Pham E et al. Hypoglycemia induced by oral hypoglycemic agents. Records of the French Regional Pharmacovigilance Centers 1985-1990. Ann Med Interne (Paris) 1992; 143: 11–7. 
+ Ohsawa K, Koike N, Takamura T et al. Hypoglycaemic attacks after administration of bezafibrate in three cases of non-insulin dependent diabetes mellitus . J Jpn Diabetes Soc 1994; 37: 295–300. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Glukokortikoider H02A B 
+ Vis detaljer 
+ Situasjonskriterium 
+ Gjelder kun ved systemisk behandling med glukokortikoider i farmakologiske doser; gjelder ikke ved substitusjonsbehandling eller lokalbehandling.
+ Klinisk konsekvens 
+ Forverrelse av diabetes.
+ Interaksjonsmekanisme 
+ Glukokortikoider kan øke blodsukkeret slik at behovet for antidiabetika blir større. Effekten øker jo høyere glukokortikoiddosen er.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet økes ved behov.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ Clore JN, Thurby-Hay L. Glucocorticoid-induced hyperglycemia. Endocr Pract 2009; 15: 469-74. 
+ Kwon S, Hermayer KL. Glucocorticoid-induced hyperglycemia. Am J Med Sci 2013; 345: 274-7. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Hydroksyklorokin P01B A02 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt (i en studie måtte insulindosen i gjennomsnitt reduseres med 25 % - i en annen studie ble blodsukkerkontrollen ved bruk av glibenklamid bedre ved samtidig bruk av hydroksyklorokin). Ved bruk av hydroksyklorokin ved malaria , kan også malariasykdommen i seg selv bidra til å utløse hypoglykemi .
+ Interaksjonsmekanisme 
+ Usikker mekanisme. Hydroksyklorokin kan muligens både øke utskillsen av insulin fra pankreas og hemme nedbrytningen av insulin.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet reduseres ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Gerstein HC, Thorpe KE, Taylor DW et al. The effectiveness of hydroxychloroquine in patients with type 2 diabetes mellitus who are refractory to sulfonylureas–a randomized trial. Diabetes Res Clin Pract 2002; 55: 209–19. 
+ Powrie JK, Smith GD, Shojaee-Moradie F et al. Mode of action of chloroquine in patients with non-insulin-dependent diabetes mellitus. Am J Physiol 1991; 260: E897–904. 
+ Quatraro A, Consoli G, Magno M et al. Hydroxychloroquine in decompensated, treatment-refractory noninsulin-dependent diabetes mellitus. A new job for an old drug? Ann Intern Med 1990; 112: 678–81. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Kinidin 
+ C01B A01 - Kinidin 
+ C01B A51 - Kinidin, kombinasjoner ekskl. psykoleptika 
+ C01B A71 - Kinidin, kombinasjoner med psykoleptika 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt.
+ Interaksjonsmekanisme 
+ Usikker mekanisme. Kinidin kan muligens både øke utskillsen av insulin fra pankreas og hemme nedbrytningen av insulin.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet reduseres ved behov.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ Phillips RE, Looareesuwan S, White NJ et al. Hypoglycaemia and antimalarial drugs: quinidine and release of insulin. BMJ 1986; 292: 1319–21. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Kinin 
+ M09A A72 - Kinin, kombinasjoner med psykoleptika 
+ P01B C01 - Kinin 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt. Ved bruk av kinin ved malaria , kan også malariasykdommen i seg selv bidra til å utløse hypoglykemi .
+ Interaksjonsmekanisme 
+ Usikker mekanisme. Mest trolig stimulerer kinin insulinsekresjonen fra pancreas.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet reduseres ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier og kasusrapporter
+ Kilder 
+ Dyer JR, Davis TME, Giele C et al. The pharmacokinetics and pharmacodynamics of quinine in the diabetic and non-diabetic elderly. Br J Clin Pharmacol 1994; 38: 205–12. 
+ Gupta GB, Varma S. Effect of intravenous quinine on capillary glucose levels in malaria. J Assoc Physicians India 2001; 49: 426–9. 
+ Harats N, Ackerman Z, Shalit M. Quinine-related hypoglycemia. N Engl J Med 1984; 310: 1331. 
+ Jones RG, Sue-Ling HM, Kear C et al. Severe symptomatic hypoglycaemia due to quinine therapy. J R Soc Med 1986; 79: 426–8. 
+ White NJ, Warrell DA, Chanthavanich P et al Severe hypoglycemia and hyperinsulinemia in falciparum malaria. N Engl J Med 1983; 309: 61–6. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Klofibrat C10A B01 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt risiko for hypoglykemi , spesielt når fibratet kombineres med insulin eller sulfonylureapreparater. Bedret glykemisk kontroll er også rapportert.
+ Interaksjonsmekanisme 
+ En rekke ulike mekanismer er foreslått, inklusive nedsatt insulinresistens, fortrenging fra plasmaproteinene av sulfonylureapreparater, og nedsatt renal ekskresjon av sulfonylureapreparater.
+ Monitorering 
+ Pasienten bør informeres om den økte risikoen for hypoglykemi .
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Barnett D, Craig JG, Robinson DS et al. Effect of clofibrate on glucose tolerance in maturity-onset diabetes. Br J Clin Pharmacol 1977; 4: 455–8. 
+ Daubresse J-C, Daigneux D, Bruwier M et al. Clofibrate and diabetes control in patients treated with oral hypoglycaemic agents. Br J Clin Pharmacol 1979; 7: 599–603. 
+ Daubresse J-C, Luyckx AS, Lefebvre PJ. Potentiation of hypoglycemic effect of sulfonylureas by clofibrate. N Engl J Med 1976; 294: 613. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Klozapin N05A H02 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Forverrelse av diabetes.
+ Interaksjonsmekanisme 
+ Klozapin kan øke blodsukkeret slik at behovet for antidiabetika blir større.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet økes ved behov.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ Al-Zoairy R, Ress C, Tschoner A et al. The effects of psychotropic drugs on the regulation of glucose metabolism. Curr Diabetes Rev 2013; 9: 362-70. 
+ Newcomer JW. Second-generation (atypical) antipsychotics and metabolic effects: a comprehensive literature review. CNS Drugs 2005; 19 (Suppl. 1): 1-93. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Lanreotid H01C B03 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Redusert blodsukker med økt hypoglykemisk effekt (vanlig) eller økt blodsukker (sjelden).
+ Interaksjonsmekanisme 
+ Lanreotid kan senke blodsukkeret slik at behovet for antidiabetika blir mindre, eventuelt øke blodsukkeret slik at behovet for antidiabetika øker.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet endres ved behov.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ Couture E, Bongard V, Maiza JC et al. Glucose status in patients with acromegaly receiving primary treatment with the somatostatin analog lanreotide. Pituitary 2012; 15: 518-25. 
+ SPC Ipstyl Autogel 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ MAO-hemmere , uselektive N06A F 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt.
+ Interaksjonsmekanisme 
+ Usikker mekanisme. En direkte insulinfrisettende effekt på pankreas av MAO -hemmerne har vært forslått.
+ Monitorering 
+ Pasienten bør informeres om risikoen for lavt blodsukker / hypoglykemi . Blodsukkernivåene bør monitoreres og dosen av de antidiabetiske midlene eventuelt reduseres.
+ Kildegrunnlag 
+ Kasusrapporter
+ Kilder 
+ Adnitt PI. Hypoglycemic action of monoamineoxidase inhibitors (MAOI’s). Diabetes 1968; 17: 628–33. 
+ Bressler R, Vargas-Cordon M, Lebovitz HE. Tranylcypromine: a potent insulin secretagogue and hypoglycemic agent. Diabetes 1968; 17: 617–24. 
+ van Praag HM, Leijnse B. The influence of some antidepressives of the hydrazine type on the glucose metabolism in depressed patients. Clin Chim Acta 1963; 8: 466–75. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Metreleptin A16A A07 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt. Risikoen er størst ved bruk av insulin eller legemidler som øker insulinutskillelsen i pankreas, som for eksempel sulfonylurea-preparater.
+ Interaksjonsmekanisme 
+ Usikker mekanisme.
+ Dosetilpasning 
+ I løpet av de første to ukene etter oppstart med metrelepin, kan det være nødvendig å redusere insulindosen med 50 % eller mer.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og målinger av HbA1c ved oppstart og avslutning av metreleptin. Ved oppstart bør det dessuten følges nøye med pga. økt risiko for hypoglykemi .
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ SPC Myalepta 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Oktreotid H01C B02 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt hypoglykemisk effekt av insulin ved type 1-diabetes . Varierende effekt ved type 2-diabetes (ingen effekt på insulin, nedsatt effekt av sulfonylureapreparater).
+ Interaksjonsmekanisme 
+ Oktreotid hemmer den blodsukkerøkende effekten av veksthormon og glukagon . Dermed reduseres insulinbehovet ved type 1-diabetes . Oktreotid motvirker effekten av sulfonylureapreparater på insulinsekresjonen i pankreas ved type 2-diabetes .
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidiabetiske midlet endres ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Abrahamson MJ. Death from diabetic ketoacidosis after cessation of octreotide in acromegaly. Lancet 1990; 336: 318–9. 
+ Candrina R, Giustina G. Effect of a new long-acting somatostatin analogue (SMS 201–995) on glycemic and hormonal profiles in insulin-treated type II diabetic patients. J Endocrinol Invest 1988; 11: 501–7. 
+ Hadjidakis DJ, Halvatsiotis PG, Ioannou YJ et al. The effects of the somatostatin analogue SMS 201–995 on carbohydrate homeostasis of insulin-dependent diabetics as assessed by the artificial endocrine pancreas. Diabetes Res Clin Pract 1988; 5: 91–8. 
+ Lunetta M, Di Mauro M, Le Moli R et al. Effect of octreotide on blood glucose and counterregulatory hormones in insulin-dependent diabetic patients: the role of dose and route of administration. Eur J Clin Pharmacol 1996; 51: 139–44. 
+ McLaughlin SA, Crandall CS, McKinney PE. Octreotide: an antidote for sulfonylurea-induced hypoglycemia. Ann Emerg Med 2000; 36: 133–8. 
+ SPC Sandostatin 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Olanzapin N05A H03 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Forverrelse av diabetes.
+ Interaksjonsmekanisme 
+ Olanzapin kan øke blodsukkeret slik at behovet for antidiabetika blir større.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet økes ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Al-Zoairy R, Ress C, Tschoner A et al. The effects of psychotropic drugs on the regulation of glucose metabolism. Curr Diabetes Rev 2013; 9: 362-70. 
+ Newcomer JW. Second-generation (atypical) antipsychotics and metabolic effects: a comprehensive literature review. CNS Drugs 2005; 19 (Suppl. 1): 1-93. 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Pasireotid H01C B05 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Risiko for hypoglykemi (i hovedsak hos pasienter med type 1-diabetes ), risiko for hyperglykemi (i hovedsak hos pasienter med egen insulinprduksjon).
+ Interaksjonsmekanisme 
+ Somatistatinreseptoragonister kan påvirke sekresjon av insulin og glukosehomeostasen.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ SPC Signifor 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Pegvisomant H01A X01 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt blodsukkersenkende effekt.
+ Interaksjonsmekanisme 
+ Pegvisomant kan senke blodsukkeret slik at behovet for antidiabetika blir mindre.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger og dosen av det antidibetiske midlet reduseres ved behov.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Drake WM, Rowles SV, Roberts M et al., Insulin sensitivity and glucose tolerance improve in patients with acromegaly converted from depot octreotide to pegvisomant. Eur J Endocrinol 2003; 149: 521-7. 
+ SPC Somavert 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Somatropin og somatropinagonister H01A C 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Doseøkning av antidiabetika kan bli nødvendig.
+ Interaksjonsmekanisme 
+ Somatropin kan redusere insulinfølsomheten.
+ Monitorering 
+ Pasienten bør følges opp med tanke på endringer i blodsukkerkonsentrasjonen og dosen av antidiabetiske midler eventuelt justeres etter dette.
+ Kildegrunnlag 
+ Indirekte data
+ Kilder 
+ SPC Genotropin 
+ SPC Lonapegsomatropin 
+ Forholdsregler bør tas 
+ Midler til diabetesbehandling A10 
+ Testosteron G03B A03 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt blodsukkersenkende effekt. Dette er sett når både testosteron (eller andre anabole/ androgene sterioder) kombineres med insulin og med perorale antidiabetika. I en studie var reduksjonen i blodsukkerkonsentrasjonen på 1,6 mmol/l og reduksjonen i HbA1c på 0,37 %.
+ Interaksjonsmekanisme 
+ Uklar mekanisme. Det er mulig at testosteron øker insulinsensitivitetn, selv om androgener ofte blir ansett å kunne redusere glukosetoleransen.
+ Monitorering 
+ Pasienten bør følges opp med blodsukkermålinger. Eventuelt må dosen av det antidiabetiske legemidlet justeres.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Kapoor D, Goodwin E, Channer KS et al. Testosterone replacement therapy improves insulin resistance, glycaemic control, visceral adiposity and hypercholesterolaemia in hypogonadal men with type 2 diabetes. Eur J Endocrinol 2006; 154: 899–906. 
+ Talaat M, Habib YA, Habib M. The effect of testosterone on the carbohydrate metabolism in normal subjects. Arch Int Pharmacodyn Ther 1957; 111: 215–26. 
+ Ingen tiltak nødvendig 
+ Midler til diabetesbehandling A10 
+ ACE-hemmere 
+ C09A - ACE-hemmere , usammensatte 
+ C09A A - ACE-hemmere , usammensatte 
+ C09A A01 - Kaptopril 
+ C09A A02 - Enalapril 
+ C09A A03 - Lisinopril 
+ C09A A04 - Perindopril 
+ C09A A05 - Ramipril 
+ C09A A06 - Kinapril 
+ C09A A07 - Benazepril 
+ C09A A08 - Cilazapril 
+ C09A A09 - Fosinopril 
+ C09A A10 - Trandolapril 
+ C09A A11 - Spirapril 
+ C09A A12 - Delapril 
+ C09A A13 - Moeksipril 
+ C09A A14 - Temokapril 
+ C09A A15 - Zofenopril 
+ C09A A16 - Imidapril 
+ C09B - ACE-hemmere , kombinasjoner 
+ C09B A - ACE-hemmere og diuretika 
+ C09B A01 - Kaptopril og diuretika 
+ C09B A02 - Enalapril og diuretika 
+ C09B A03 - Lisinopril og diuretika 
+ C09B A04 - Perindopril og diuretika 
+ C09B A05 - Ramipril og diuretika 
+ C09B A06 - Kinapril og diuretika 
+ C09B A07 - Benazepril og diuretika 
+ C09B A08 - Cilazapril og diuretika 
+ C09B A09 - Fosinopril og diuretika 
+ C09B A12 - Delapril og diuretika 
+ C09B A13 - Moeksipril og diuretika 
+ C09B A15 - Zofenopril og diuretika 
+ C09B B - ACE-hemmere og kalsiumantagonister 
+ C09B B02 - Enalapril og lerkanidipin 
+ C09B B03 - Lisinopril og amlodipin 
+ C09B B04 - Perindopril og amlodipin 
+ C09B B05 - Ramipril og felodipin 
+ C09B B06 - Enalapril og nitrendipin 
+ C09B B07 - Ramipril og amlodipin 
+ C09B B10 - Trandolapril og verapamil 
+ C09B B12 - Delapril og manidipin 
+ C09B B13 - Benazepril og amlodipin 
+ C09B B14 - Zofenopril og amlodipin 
+ C09B X - ACE-hemmere , andre kombinasjoner 
+ C09B X01 - Perindopril, amlodipin og indapamid 
+ C09B X02 - Perindopril og bisoprolol 
+ C09B X03 - Ramipril, amlodipin og hydroklortiazid 
+ C09B X04 - Perindopril, bisoprolol og amlodipin 
+ C09B X05 - Ramipril og bisoprolol 
+ C09B X06 - Perindopril, bisoprolol, amlodipin og indapamid 
+ C09B X07 - Zofenopril og nebivolol 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt blodsukkersenkende effekt; hypoglykemi er beskrevet hos enkeltpasienter. Dette er særlig sett når ACE-hemmere kombineres med insulin eller sulfonylureapreparater. I systematiske studier har det vært vanskelig å påvise noen signifikant effekt, noe som tyder på at det finnes enkeltpasienter som av en eller annen grunn er svært følsomme for interaksjonen, mens flertallet pasienter ikke påvirkes.
+ Interaksjonsmekanisme 
+ Uklar mekanisme. Flere teorier er fremsatt, blant annet at ACE-hemmere bedrer insulinfølsomheten og/eller øker glukosemetabolismen.
+ Kildegrunnlag 
+ Interaksjonsstudier og kasusrapporter
+ Kilder 
+ Ahmad S. Drug interaction induces hypoglycemia. J Fam Pract 1995; 40: 540–1. 
+ Arauz-Pacheco C et al. Hypoglycemia induced by angiotensin-converting enzyme inhibitors in patients with non-insulin-dependent diabetes receiving sulfonylurea therapy. Am J Med 1990; 89: 811–3. 
+ Ferriere M, Lachkar H, Richard J-L et al. Captopril and insulin sensitivity. Ann Intern Med 1985; 102: 134–5. 
+ Morris AD, Boyle DIR, McMahon AD et al. ACE inhibitor use is associated with hospitalization for severe hypoglycaemia in patients with diabetes. Diabetes Care 1997; 20: 1363-7. 
+ Rave K, Flesch S, Kühn-Velten WN et al. Enhancement of blood glucose lowering effect of a sulfonylurea when coadministered with an ACE inhibitor: results of a glucose-clamp study. Diabetes Metab Res Rev 2005; 21: 459–64. 
+ Shorr RI, Ray WA, Daugherty JR et al. Antihypertensives and the risk of serious hypoglycemia in older persons using insulin or sulfonylureas. JAMA 1997; 278: 40–3. 
+ Thamer M, Ray NF, Taylor T. Association between antihypertensive drug use and hypoglycemia: a case-control study of diabetic users of insulin or sulfonylureas. Clin Ther (1999) 21, 1387–1400. 
+ Thamer M, Ray NF, Taylor T. Association between antihypertensive drug use and hypoglycemia: a case-control study of diabetic users of insulin or sulfonylureas. Clin Ther 1999; 21: 1387-400. 
+ The EUCLID study group. Randomised placebo-controlled trial of lisinopril in normotensive patients with insulin-dependent diabetes and normoalbuminuria or microalbuminuria. Lancet 1997; 349: 1787-92. 
+ Ingen tiltak nødvendig 
+ Midler til diabetesbehandling A10 
+ Betablokkere C07 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Mulig økt hypoglykemisk effekt ved samtidig bruk av betablokkere og insulin (gjelder trolig i første rekke uselektive betabokkere). Effekten har ikke vært mulig å påvise i systematiske (kasus-kontroll-)studier. Uselektive betablokkere kan til en viss grad redusere de vanlige ( adrenerge ) varselsymptomene ved hypoglykemi , men i stedet føre til kraftig økt blodtrykk. I tillegg kan uselektive betablokkere muligens redusere effekten av sulfonylureapreparater.
+ Interaksjonsmekanisme 
+ Uselektive betablokkere motvirker de adrenerge mekanismene som fører til økt blodsukker via glukosefrigjøring fra leveren ved hypoglykemi . Betablokkere hemmer de adrenerge symptomene som oppstår via stimulering av betareseptorer ved hypoglykemi . Uselektive betablokkere vil via blokade av beta-2-reseptorer kunne gi hypertensjon ved hypoglykemi fordi den vasokonstriksjonen som adrenalin gir via stimulering av alfareseptorer ikke lenger balanseres av den vasodilatasjonen som stimulering av beta-2-reseptorer ellers ville ha gitt. Uselektive betablokkere kan også hemme den frigjøringen av insulin som sulfonylureapreparatene gir i pankreas.
+ Kildegrunnlag 
+ Interaksjonsstudier og kasusrapporter
+ Kilder 
+ Deacon SP, Karunanayake A, Barnett D. Acebutolol, atenolol, and propranolol and metabolic responses to acute hypoglycaemia in diabetics. BMJ 1977; 2: 1255–7. 
+ Ryan JR, LaCorte W, Jain A et al. Hypertension in hypoglycemic diabetics treated with ß-adrenergic antagonists. Hypertension 1985; 7: 443–6. 
+ Samii K, Ciancioni C, Rottembourg J et al. Severe hypoglycaemia due to beta-blocking drugs in haemodialysis patients. Lancet 1976; i: 545–6. 
+ Thamer M, Ray NF, Taylor T. Association between antihypertensive drug use and hypoglycemia: a case-control study of diabetic users of insulin or sulfonylureas. Clin Ther 1999; 21: 1387–400. 
+ Viberti GC, Keen H, Bloom SR. Beta blockade and diabetes mellitus: effect of oxprenolol and metoprolol on the metabolic, cardiovascular, and hormonal response to insulin-induced hypoglycemia in insulin-dependent diabetics. Metabolism 1980; 29: 873–9. 
+ Zaman R, Kendall MJ, Biggs PI. The effect of acebutolol and propranolol on the hypoglycaemic action of glibenclamide. Br J Clin Pharmacol 1982; 13: 507–12. 
+ Ingen tiltak nødvendig 
+ Midler til diabetesbehandling A10 
+ Low-ceiling diuretika , tiazider C03A 
+ Vis detaljer 
+ Situasjonskriterium 
+ Gjelder ved bruk av tiazider i høye doser (50-100 mg daglig eller mer),
+ Klinisk konsekvens 
+ Forverrelse av diabetes.
+ Interaksjonsmekanisme 
+ Tiazider kan øke blodsukkeret, trolig ved å hemme insulinfrisettingen fra pancreas, slik at behovet for antidiabetika blir større.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Goldner MG, Zarowitz H, Akgun S. Hyperglycemia and glycosuria due to thiazide derivatives administered in diabetes mellitus. N Engl J Med 1960; 262: 403–5. 
+ Neutel JM. Metabolic manifestations of low-dose diuretics. Am J Med 1996; 101 (Suppl 3A): 71S–82S. 
+ Ingen tiltak nødvendig 
+ Midler til diabetesbehandling A10 
+ Prevensjonsmidler med østrogen 
+ G02B B01 - Vaginalring med progestogen og østrogen 
+ G03A A - Progestogener og østrogener, faste kombinasjoner 
+ G03A A01 - Etynodiol og etinyløstradiol 
+ G03A A02 - Kingestanol og etinyløstradiol 
+ G03A A03 - Lynestrenol og etinyløstradiol 
+ G03A A04 - Megestrol og etinyløstradiol 
+ G03A A05 - Noretisteron og etinyløstradiol 
+ G03A A06 - Norgestrel og etinyløstradiol 
+ G03A A07 - Levonorgestrel og etinyløstradiol 
+ G03A A08 - Medroksyprogesteron og etinyløstradiol 
+ G03A A09 - Desogestrel og etinyløstradiol 
+ G03A A10 - Gestoden og etinyløstradiol 
+ G03A A11 - Norgestimat og etinyløstradiol 
+ G03A A12 - Drospirenon og etinyløstradiol 
+ G03A A13 - Norelgestromin og etinyløstradiol 
+ G03A A14 - Nomegestrol og østradiol 
+ G03A A15 - Klormadinon og etinyløstradiol 
+ G03A A16 - Dienogest og etinyløstradiol 
+ G03A A17 - Medroksyprogesteron og østradiol 
+ G03A A18 - Drospirenon og estetrol 
+ G03A B - Progestogener og østrogener, sekvensmidler 
+ G03A B01 - Megestrol og etinyløstradiol 
+ G03A B02 - Lynestrenol og etinyløstradiol 
+ G03A B03 - Levonorgestrel og etinyløstradiol 
+ G03A B04 - Noretisteron og etinyløstradiol 
+ G03A B05 - Desogestrel og etinyløstradiol 
+ G03A B06 - Gestoden og etinyløstradiol 
+ G03A B07 - Klormadinon og etinyløstradiol 
+ G03A B08 - Dienogest og østradiol 
+ G03A B09 - Norgestimat og etinyløstradiol 
+ G03C A01 - Etinyløstradiol 
+ G03H B - Antiandrogener og østrogener 
+ G03H B01 - Cyproteron og østrogen 
+ Vis detaljer 
+ Klinisk konsekvens 
+ Økt eller nedsatt antidiabetisk effekt.
+ Interaksjonsmekanisme 
+ Usikker mekanisme. Flere alternative mekanismer er foreslått, inludert endret kortisolutskillelse, endret vevsopptak av glukose, endret produksjon og utnyttelse av glukose i leveren og økt prduksjon av veksthormon.
+ Kildegrunnlag 
+ Interaksjonsstudier
+ Kilder 
+ Knopp RH, Broyles FE, Cheung M et al. Comparison of the lipoprotein, carbohydrate, and hemostatic effects of phasic oral contraceptives containing desogestrel or levonorgestrel. Contraception 2001; 63: 1–11. 
+ Miccoli R, Orlandi MC, Fruzzetti F et al. Metabolic effects of three new low-dose pills: a six-month experience. Contraception 1989; 39: 643–52. 
+ Perlman JA, Russell-Briefel R, Ezzati T et al. Oral glucose tolerance and the potency of contraceptive progestins. J Chron Dis 1985; 38: 857–64. 
+ Troisi RJ, Cowie CC, Harris MI. Oral contraceptive use and glucose metabolism in a national sample of women in the United States. Am J Obstet Gynecol 2000; 183: 389–95. 
+ Gå til interaksjonssøk 
+Betablokkere kan maskere symptomer på hypoglykemi . Oktreotid/lanreotid kan enten redusere eller øke insulinbehovet. Alkohol kan forsterke eller redusere insulinets hypoglykemiske effekt. Følgende kan redusere insulinbehovet: Orale antidiabetika, GLP-1-reseptoragonister, MAO-hemmere , betablokkere, ACE-hemmere , salisylater, anabole steroider og sulfonamider. Følgende kan øke insulinbehovet: Orale antikonsepsjonsmidler, tiazider, glukokortikoider , tyreoideahormoner, sympatomimetika, veksthormon og danazol. 
+ Graviditet, amming og fertilitet 
+ Bruk under graviditet - Legemiddelhåndboken 
+ Insulin
+ Ansees som trygt
+ Bruk under amming - Legemiddelhåndboken 
+ Relative doseverdier: Overgang til morsmelk angis som minimal (< 2 %), liten (2-5 %), moderat (5-10 %) eller høy (10-50 %) basert på fraksjon av morens dose/kg kroppsvekt som barnet tilføres. (Barnets relative dose.) Over 3-4 ukers bruk ansees som langtidsbehandling.
+ Insulin ( MM-kategori 0)
+ Kan brukes av ammende
+ Graviditet Bruk hos gravide med diabetes er undersøkt i en intervensjonsstudie. En moderat mengde data fra kliniske studier og etter markedsføring (>400 graviditeter) indikerer ikke potensial for misdannelser eller føto/neonatal toksisitet. Dyrestudier har ikke vist forskjell mellom insulin degludek og humant insulin når det gjelder embryotoksisitet og teratogenisitet . Behandling under graviditet kan vurderes hvis klinisk nødvendig. Ved graviditet eller dersom graviditet overveies, anbefales intensivert blodglukosekontroll og overvåkning. Insulinbehovet minker vanligvis i 1. trimester og stiger deretter i 2. og 3. trimester. Etter fødselen går insulinbehovet vanligvis raskt tilbake til samme nivå som før graviditeten.
+ Amming Ingen klinisk erfaring. Utskilles i melk hos rotter; konsentrasjonen i melk var lavere enn i plasma. Ukjent om insulin degludek utskilles i human morsmelk. Det forventes ingen metabolsk effekt på nyfødte/spedbarn som ammes.
+ Fertilitet Reproduksjonsstudier på dyr har ikke indikert negativ effekt på fertilitet .
+ Bivirkninger
+ Gå til bivirkningssøk 
+ Frekvensintervaller: Svært vanlige (≥1/10), vanlige (≥1/100 til <1/10), mindre vanlige (≥1/1000 til <1/100), sjeldne (≥1/10 000 til <1/1000), svært sjeldne (<1/10 000) og ukjent frekvens.
+ Bivirkningsoppslag 
+ Endre sortering til Frekvens 
+ Organklasse 
+ Bivirkning 
+ Generelle 
+ Vanlige 
+ Reaksjon på injeksjonsstedet 2 
+ Mindre vanlige 
+ Perifert ødem 
+ Hud 
+ Mindre vanlige 
+ Lipodystrofi 3 
+ Ukjent frekvens 
+ Kutan amyloidose 
+ Immunsystemet 
+ Sjeldne 
+ Overfølsomhet 4 , urtikaria 
+ Stoffskifte/ernæring 
+ Svært vanlige 
+ Hypoglykemi 1 
+ 1 Alvorlig hypoglykemi kan føre til bevisstløshet og/eller krampeanfall, og kan gi forbigående eller permanent hjerneskade eller t.o.m. dødsfall.
+ 2 Inkludert hematom , smerte, blødning, erytem , knuter, hevelse, misfarging, kløe, varmefølelse samt klump på injeksjonsstedet. Vanligvis milde og forbigående, forsvinner normalt ved fortsatt behandling.
+ 3 Lipodystrofi (inkl. lipohypertrofi, lipoatrofi) og kutan amyloidose kan forekomme og forsinke lokal insulinabsorpsjon.
+ 4 Manifestert ved hevelse i tunge og lepper, diaré , kvalme , tretthet, kløe.
+ Spesielle pasientgrupper: Ingen indikasjon på forskjeller mht. frekvens, type og alvorlighetsgrad av bivirkninger observert hos eldre, barn og ungdom (>1 år til <18 år) og hos pasienter med nedsatt nyre- eller leverfunksjon i forhold til den generelle populasjonen.
+ Endre sortering til Organklasse 
+ Frekvens 
+ Bivirkning 
+ Svært vanlige 
+ Stoffskifte/ernæring 
+ Hypoglykemi 1 
+ Vanlige 
+ Generelle 
+ Reaksjon på injeksjonsstedet 2 
+ Mindre vanlige 
+ Generelle 
+ Perifert ødem 
+ Hud 
+ Lipodystrofi 3 
+ Sjeldne 
+ Immunsystemet 
+ Overfølsomhet 4 , urtikaria 
+ Ukjent frekvens 
+ Hud 
+ Kutan amyloidose 
+ 1 Alvorlig hypoglykemi kan føre til bevisstløshet og/eller krampeanfall, og kan gi forbigående eller permanent hjerneskade eller t.o.m. dødsfall.
+ 2 Inkludert hematom , smerte, blødning, erytem , knuter, hevelse, misfarging, kløe, varmefølelse samt klump på injeksjonsstedet. Vanligvis milde og forbigående, forsvinner normalt ved fortsatt behandling.
+ 3 Lipodystrofi (inkl. lipohypertrofi, lipoatrofi) og kutan amyloidose kan forekomme og forsinke lokal insulinabsorpsjon.
+ 4 Manifestert ved hevelse i tunge og lepper, diaré , kvalme , tretthet, kløe.
+ Spesielle pasientgrupper: Ingen indikasjon på forskjeller mht. frekvens, type og alvorlighetsgrad av bivirkninger observert hos eldre, barn og ungdom (>1 år til <18 år) og hos pasienter med nedsatt nyre- eller leverfunksjon i forhold til den generelle populasjonen.
+ Rapportering av bivirkninger 
+ Overdosering/ Forgiftning 
+ Forgiftninger - Giftinformasjonen 
+ A10A
+ Insulin og analoger
+ A10A 
+ Insulin og analoger 
+ Toksisitet for gruppen: Høy toksisitet ved parenteral administrering. Ingen toksisitet ved peroralt inntak. Spesiell risiko for barn, ikke-diabetikere, personer med nyre- og leversvikt, og ved kronisk alkoholisme . Barn: Alle parenterale eksponeringer til sykehus.
+ Klinikk for gruppen: Symptomdebut og -varighet varierer mellom de ulike insulintypene. Hypoglykemi er hovedproblemet. Ved lett forgiftning irritabilitet, blekhet, sløvhet, tremor, svette og takykardi . Ved alvorlig forgiftning hypotensjon , kramper, koma, hypokalemi, ev. acidose , hjerneødem, arytmier og kardiovaskulært kollaps.
+ Behandling for gruppen: Ved lette symptomer gi karbohydratholdig mat/drikke hjemme (ev. mål blodsukker hjemme hvis diabetiker). Lav terskel for observasjon sykehus. Ved hypoglykemi gi tidlig i.v . bolusdose av glukose, deretter kontinuerlig glukoseinfusjon. Vurder ev. glukagon i tillegg. Korriger elektrolyttforstyrrelser, særlig kalium. Øvrig symptomatisk behandling.
+ Hypoglykemi kan utvikles i sekvensielle faser. 
+ Symptomer Varierer fra matthet, sult, svette og kramper til bevisstløshet (insulinsjokk).
+ Behandling Ved mild hypoglykemi gis glukose eller sukkerholdige produkter oralt. Det anbefales derfor at pasienten alltid har med seg glukoseholdige produkter. Ved alvorlig hypoglykemi , der pasienten er bevisstløs, injiseres glukose i.v . eller glukagon . Glukose skal gis i.v . hvis pasienten ikke reagerer på glukagon innen 10-15 minutter. Når pasienten igjen er ved bevissthet, anbefales perorale karbohydrater for å forhindre tilbakefall.
+ Egenskaper og miljø
+ Klassifisering Langtidsvirkende insulinanalog.
+ Virkningsmekanisme Bindes spesifikt til humaninsulinreseptoren. Blodglukosenedsettende effekt skyldes økt opptak av glukose i muskel- og fettceller, samt hemming av glukoseutskillelse fra lever.
+ Absorpsjon Etter s.c . injeksjon dannes oppløselige og stabile multiheksamerer som danner et insulindepot i det subkutane vevet. Virkningstiden er >42 timer innenfor terapeutisk doseområde. Steady state -konsentrasjon i serum nås etter 2-3 dager ved daglig administrering. Kravene til bioekvivalens er oppfylt for styrkene 100 enheter/ml og 200 enheter/ml.
+ Proteinbinding >99%.
+ Halveringstid Ca. 25 timer, uavhengig av dose.
+ Metabolisme Metaboliseres på lignende måte som humant insulin. Alle metabolitter som dannes er inaktive.
+ Miljø og legemidler 
+   A10A E06 
+ Insulin degludek
+ Miljørisiko: Bruk av aminosyrer, proteiner og peptider gir ingen miljøpåvirkning. 
+ Miljøinformasjonen (datert 17.04.2024 ) er utarbeidet av Novo Nordisk .
+ Les mer på Fass 
+ Se miljøinfo for virkestoff i samme ATC-gruppe 
+ Oppbevaring og holdbarhet
+Oppbevares ved 2-8°C (i kjøleskap). Holdes borte fra kjøleelementet. Skal ikke fryses. Beskyttes mot lys. Frosset insulin skal ikke brukes. Etter anbrudd eller medbrakt som reserve: FlexTouch (ferdigfylt penn): Oppbevares ved høyst 30°C eller ved 2-8°C (i kjøleskap) i maks. 8 uker. La pennehetten sitte på for å beskytte mot lys. Penfill (sylinderamp.): Legemidlet skal ikke oppbevares i kjøleskap. Oppbevares <30°C i maks. 8 uker beskyttet mot lys. 
+ Pakninger, priser og refusjon 
+ Tresiba FlexTouch , INJEKSJONSVÆSKE, oppløsning i ferdigfylt penn:
+ Styrke 
+ Pakning
+ Varenr. 
+ Refusjon 
+ Pris (kr ) 
+ R.gr . 
+ 100 enheter/ml 
+ 5 × 3 ml (FlexTouch ferdigfylt penn) 
+ 152543 
+ Blå resept 
+ 746,70 
+ C 
+ 200 enheter/ml 
+ 3 × 3 ml (FlexTouch ferdigfylt penn) 
+ 056211 
+ Blå resept 
+ 772,70 
+ C 
+ Tresiba Penfill , INJEKSJONSVÆSKE, oppløsning i sylinderampulle:
+ Styrke 
+ Pakning
+ Varenr. 
+ Refusjon 
+ Pris (kr ) 
+ R.gr . 
+ 100 enheter/ml 
+ 5 × 3 ml (Penfill sylinderamp.) 
+ 574271 
+ Blå resept 
+ 648,50 
+ C 
+ Individuell stønad 
+ Insulin degludec 
+ Legemidler: Tresiba injeksjonsvæske
+ Indikasjon: Diabetes mellitus type 2 .
+ For blåreseptsøknad og -vedtak, se Tjenesteportal for helseaktører 
+ SPC (preparatomtale)
+ Tresiba FlexTouch INJEKSJONSVÆSKE, oppløsning i ferdigfylt penn 100 enheter/ml
+ Tresiba FlexTouch INJEKSJONSVÆSKE, oppløsning i ferdigfylt penn 200 enheter/ml
+ Tresiba Penfill INJEKSJONSVÆSKE, oppløsning i sylinderampulle 100 enheter/ml
+ Gå til godkjent preparatomtale 
+ Lenkene går til godkjente preparatomtaler (SPC) på nettsiden til Direktoratet for medisinske produkter ( DMP ). Legemidler sentralt godkjent i EU/EØS lenkes til preparatomtaler på nettsiden til The European Medicines Agency ( EMA ). For sentralt godkjente legemidler ligger alle styrker og legemiddelformer etter hverandre i samme dokument.
+ Basert på SPC godkjent av DMP / EMA : 
+ 26.06.2025
+ Sist endret:  26.04.2024
+ (priser og ev. refusjon oppdateres hver 14. dag)
+ Ordforklaringer til teksten 
+ Absorpsjon : 
+ Opptak i kroppen. Virkestoff absorberes av kroppen for å kunne transporteres til de steder de skal virke. Opptak kan skje gjennom tarmvegg, hud og slimhinner.
+ ACE-hemmer : 
+ (ACE: Angiotensin Converting Enzyme ) Legemiddel som brukes til å senke blodtrykket. ACE-hemmere reduserer nivået av angiotensin . Angiotensin er et hormon som trekker sammen kroppens blodårer, og øker dermed motstanden i blodomløpet. Når angiotensinkonsentrasjonen reduseres, øker blodårenes diameter og blodtrykket reduseres.
+ Acidose ( Syreforgiftning ): 
+ Ved acidose synker pH-verdien i blodet til under normalverdi 7,35. Respiratorisk acidose oppstår når kroppen ikke kan kvitte seg med karbondioksid via lungene på utpusten. Karbondioksid akkumuleres i blodet og senker pH-verdien. Respiratorisk acidose kan oppstå ved redusert/opphørt inn- og utånding, og ved enkelte kroniske lungesykdommer. Metabolsk acidose forekommer når sure restprodukter av fettsyrer opphopes i blodet. Denne typen acidose forekommer blant annet ved diabetes og ved sult, på grunn av stoffskifteforstyrrelser.
+ Adrenerg : 
+ Som virker med eller som adrenalin.
+ Alkoholisme ( Alkoholavhengighet ): 
+ Sykelig trang til alkohol. Kjennetegnes ved minst 3 av følgende faktorer: 1) Trangen til å innta alkohol vekkes lett. 2) Begrensning av inntaket er vanskelig. 3) Abstinenssymptomer. 4) Toleranseutvikling.
+ Androgen : 
+ Substanser som har maskuliniserende effekter, som økt muskelmasse, kroppsbehåring, skjeggvekst og dypere stemme.
+ Antiinflammatorisk : 
+ Betennelsesdempende. Som motvirker betennelse, dvs. opphovning, rødhet og smerter.
+ Arytmi ( Hjertearytmi , Hjerterytmeforstyrrelser , Hjertefrekvensforstyrrelser ): 
+ Uregelmessig hjerterytme som følge av at de elektriske impulsene som samordner hjerteslagene ikke fungerer som normalt.
+ Diabetes mellitus : 
+ Finnes som to typer: Type 1 (insulinavhengig diabetes; skyldes at bukspyttkjertelen har for lav eller manglende insulinproduksjon), og type 2 (skyldes delvis at bukspyttkjertelen har for liten evne til insulinproduksjon, og delvis insulinresistens)
+ Diabetes mellitus type 1 ( Diabetes type 1 , Type 1-diabetes ): 
+ Oppstår fordi pankreas slutter å produsere insulin. Krever behandling hvor man tilfører kroppen insulin.
+ Diabetes mellitus type 2 ( Diabetes type 2 , Type 2-diabetes ): 
+ Oppstår hvis man har insulinmangel og insulinresistens i kombinasjon. Kan som regel behandles uten insulin gjennom f.eks. tablettbehandling og livsstils- og kostholdsendringer.
+ Diaré ( Løs mage ): 
+ Tyntflytende og hyppig avføring. Diaré som skyldes bakterie- eller virusinfeksjon kalles enteritt eller gastroenteritt .
+ Direktoratet for medisinske produkter ( DMP ): 
+ Tidligere «Statens legemiddelverk».
+ Diuretika ( Diuretikum , Urindrivende middel ): 
+ Legemidler som gjør at urinmengden øker. Dette fører til at kroppen kan kvitte seg med overflødig væske. Diuretika er ofte brukt ved for høyt blodtrykk ( hypertensjon ). De kalles også vanndrivende eller urindrivende legemidler.
+ EMA ( The European Medicines Agency ): 
+ Det europeiske legemiddelkontoret (EMA) har ansvar for den vitenskapelige evalueringen, hovedsakelig av innovative og høyteknologiske legemidler utviklet av legemiddelselskaper for bruk i EU. EMA ble opprettet i 1995 for å sikre best mulig utnyttelse av Europas vitenskapelige ressurser for evaluering av, tilsyn med og overvåkning av legemidler.
+ Erytem ( Hudrødhet ): 
+ Diffus rødhet i huden.
+ Feber ( Pyreksi , Febertilstand , Pyrese ): 
+ Kroppstemperatur på 38°C eller høyere (målt i endetarmen ).
+ Fertilitet ( Fruktbarhet ): 
+ Evnen til å få barn.
+ Forgiftning ( Intoksikasjon ): 
+ Tilstand som skyldes inntak av giftige stoffer, slik som legemidler, rusmidler, kjemikalier eller stoffer som finnes naturlig i dyr og planter, i en slik mengde at det kan føre til alvorlig skade.
+ Glukagon : 
+ Hormon som produseres i bukspyttkjertelen og øker glukosenivået i blodet ved å sette i gang prosesser som bryter ned stoffet glykogen til glukose. Glukagon brukes vanligvis til å behandle alvorlig hypoglykemi ved å stimulere leveren til å frigjøre lagret glukose i blodet. Ved alkoholindusert hypoglykemi kan glukagon imidlertid være mindre effektivt pga. at alkohol hemmer leverens evne til å frigjøre glukose. Når leveren er opptatt med å metabolisere alkohol, reduseres dens kapasitet til å produsere og frigjøre glukose fra glykogenlagrene. Derfor kan bruk av glukagon i slike tilfeller ikke gi den ønskede effekten, siden leveren ikke kan respondere tilstrekkelig på glukagonets signaler. I slike situasjoner er det viktig å innta raske karbohydrater for å øke blodsukkernivået direkte.
+ Glukokortikoider : 
+ Glukokortikoider er binyrebarkhormoner som er viktige for normal kroppsfunksjon. Syntetiske glukokortikoider har betennelsesdempende og immundempende egenskaper, og brukes f.eks. ved leddgikt , astma og ulike autoimmune sykdommer.
+ Halveringstid ( t1/2 , T1/2 ): 
+ Tiden det tar til konsentrasjonen (mengden) av et virkestoff er halvert.
+ HbA1c : 
+ HbA1c er en langtidsprøve som gjenspeiler det gjennomsnittlige blodsukkeret de siste 6-8 uker før prøvetakingen. Man måler den andel hemoglobin som har bundet sukker til seg. Norge gikk over til ny skala for HbA1c (fra % til mmol/mol) 30. september 2018. Konverteringskalkulator finnes på www.noklus.no
+ Hematom ( Blodansamling ): 
+ Blodansamling i vev eller organer som skyldes en blødning.
+ Hyperglykemi ( Høy blodglukose , Høy glukose i blod , Høyt blodsukker ): 
+ Tilstand der blodglukosen er unormalt høy. Årsaken kan ofte være diabetes, siden det da dannes for lite av hormonet insulin. Mangel på insulin fører til at cellene ikke kan ta opp glukose fra blodet.
+ Hypertensjon ( Høyt blodtrykk ): 
+ Høyt blodtrykk er definert som overtrykk (systolisk trykk) over 140 og/eller undertrykk (diastoliske trykk) over 90 mm Hg.
+ Hypoglykemi ( Føling , Insulinføling , Lav blodglukose , Lav glukose i blod , Lavt blodsukker ): 
+ Unormalt lav konsentrasjon av glukose i blod (blodglukose på ≤3,9 mmol/liter). Kan f.eks. skje når en diabetiker har injisert for mye insulin. Vanlige symptomer er: Svetting, skjelving, blekhet, nummenhet /prikking i lepper/tunge, hjertebank, hodepine, synsforstyrrelser, kvalme , endret oppførsel, økt matlyst eller sult. Symptomer på alvorlig hypoglykemi kan være: Talevansker, dobbeltsyn , forvirring, sterkt unormal oppførsel, nedsatt bevissthet, bevisstløshet.
+ Hypotensjon ( Lavt blodtrykk ): 
+ Lavt blodtrykk kan føre til svimmelhet og besvimelse. Lavt blodtrykk kan være en bivirkning av behandling mot høyt blodtrykk . Normalt blotrykk er definert som overtrykk (systolisk trykk) 120 mm Hg og undertrykk (diastolisk trykk) 80 mm Hg.
+ I.m. ( Intramuskulær , Intramuskulært ): 
+ Begrepet betegner administrering av et parenteralt preparat som skal gis intramuskulært.
+ I.v. ( Intravenøs , Intravenøst ): 
+ Begrepet betegner administrering av et parenteralt preparat som skal gis intravenøst.
+ Infeksjon ( Infeksjonssykdom ): 
+ Invasjon av kroppen, et organ eller et vev, med patogener (som bakterier, virus, sopp eller parasitter) der det begynner å formere seg og ev. påføre den infekterte organismen sykdom eller skade.
+ Ketoacidose : 
+ Tilstand der blodets surhetsgrad øker (pH i blodet synker), som følge av at antall ketonlegemer (stoffer/ metabolitter som dannes ved fettforbrenningen) øker kraftig på kort tid. En sterk forsuring av blodet kan være livstruende.
+ Kontraindikasjoner ( Kontraindisert ): 
+ Forhold som i et spesielt tilfelle taler imot en viss handlemåte, f.eks. en behandlingsmetode. I Felleskatalogtekstene må de forhold som angis tolkes som absolutte kontraindikasjoner, hvilket betyr at bruken skal unngås helt.
+ Kvalme : 
+ Kvalme er en ubehagsfornemmelse i mellomgulv og mage, som ofte er fulgt av en følelse av at en vil kaste opp. Kvalme kan forekomme f.eks. ved reisesyke, graviditet, migrene , sykdom i mage-tarmkanalen, forgiftninger , sykdom i hjernen/indre øret, skader i hodet/hjernen og bruk av legemidler (bivirkning).
+ Malaria : 
+ Malaria er en akutt infeksjonssykdom , som skyldes en gruppe blodparasitter i protozoslektet Plasmodium og som overføres ved myggbitt.
+ MAO ( Monoaminoksidase ): 
+ (MAO: monoaminoksidase) Enzym som bryter ned såkalte monoaminer som for eksempel serotonin, dopamin og noradrenalin. Enzymet finnes i to former, A og B. Se også MAOH ; monoaminoksidasehemmer.
+ MAO-hemmere ( MAOH ): 
+ (MAOH: monoaminoksidasehemmer) MAO A-hemmere brukes til å behandle depresjon ved å øke nivået av monoaminer i hjernen. MAO B-hemmere brukes i kombinasjon med L-dopa til å behandle Parkinsons sykdom .
+ Metabolisme : 
+ Kjemiske prosesser i levende organismer som fører til omdannelse av tilførte (f.eks. legemidler) eller kroppsegne stoffer. Noen legemidler metaboliseres til inaktive metabolitter , mens andre metaboliseres til aktive metabolitter .
+ Metabolitt : 
+ En metabolitt oppstår når et stoff (f.eks. legemiddel) omdannes som følge av kjemiske prosesser i levende organismer ( metabolisme ). Noen legemidler metaboliseres til inaktive metabolitter, mens andre metaboliseres til aktive metabolitter.
+ Parenteral ( Parenteralt ): 
+ Betyr utenfor tarmen. For eksempel er parenteral administrering av legemidler en samlebetegnelse for alle de måtene man kan innta et legemiddel på, uten at det passerer tarmen. Den vanligste måten er å injisere stoffet rett inn i en blodåre (kjent som intravenøs administrering).
+ Pris (kr) : 
+ Angitt pris er maksimal utsalgspris fra apotek. Pakninger som selges uten resept er angitt med stjerne *. Det er fri prisfastsettelse for pakninger som selges uten resept, og maksimal utsalgspris kan derfor ikke angis. Trinnpris angis for ikke-patenterte legemidler, hvor det foreligger generisk konkurranse mellom legemidler som Direktoratet for medisinske produkter har vurdert som likeverdige. Les mer om pris og trinnpris på DMPs nettside .
+ R.gr. : 
+ Reseptgruppe. Reseptpliktige legemidler deles inn i reseptgruppene A, B og C. Legemidler som selges uten resept angis med reseptgruppe F. Reseptgruppe CF benyttes for reseptpliktige legemidler hvor enkelte pakninger, styrker, legemiddelformer m.v. er unntatt reseptplikt.
+ Refusjon : 
+ Blå resept gjelder legemidler som har forhåndsgodkjent refusjon. Aktuelle legemidler er merket med et T-symbol øverst i Felleskatalogtekstene. H-resept gjelder helseforetaksfinansierte legemidler hvor kostnadene dekkes 100% av de regionale helseforetakene. Aktuelle legemidler er merket med et H-symbol øverst i Felleskatalogtekstene.
+ Retinopati : 
+ Fellesbegrep for lidelser og skader i retinaen (netthinnen).
+ S.c. ( Subkutan , Subkutant ): 
+ Under huden. Begrepet brukes primært for å angi hvordan et bestemt legemiddel skal injiseres. Insulin er et eksempel på legemiddel som skal injiseres subkutant.
+ Steady state : 
+ Steady state (likevekt) er oppnådd når konsentrasjonen i blodet er stabil. Halveringstiden til et legemiddel påvirker tiden det tar før steady state oppnås.
+ Takykardi : 
+ Unormalt rask hjerterytme, definert som puls over 100 slag/minutt .
+ Teratogenisitet : 
+ Evnen til å ha fostermisdannende eller -skadelig effekt.
+ Urtikaria ( Elveblest ): 
+ Reaksjon i huden, gjerne over et stort hudområde. Karakteriseres som røde uregelmessige vabler.
+ Vann til injeksjonsvæsker : 
+ Vann til injeksjonsvæsker er sterilt vann til injeksjon, som brukes som oppløsningsvæske og til fortynning av legemidler som skal injiseres ( parenteral bruk). Det er fri for bakterier og andre mikroorganismer, og inneholder ingen tilsatte stoffer. Dette sterile vannet brukes ofte når legemidlet kommer i form av et pulver som må løses opp/ rekonstitueres før det skal fortynnes videre eller ev. injiseres direkte.
+ Vasodilatasjon ( Karutvidelse ): 
+ Utvidelse av blodårer.
+ Tips en venn 
+ Utskrift 
+ Instillinger 
+ Disclaimer 
+ Personvern 
+ Retningslinjer for digital bruk 
+ Kontakt Felleskatalogen 
+ Tilbake 
+ Til toppen 
+ 

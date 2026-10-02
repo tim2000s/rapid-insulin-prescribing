@@ -1,0 +1,74 @@
+ndc,sdud_name,rxnav_status,rxnav_name,rxcui,cls,brand,molecule,conc_u_per_ml
+00002771501,BASAGLAR  ,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Basaglar],1736863,glargine100,Basaglar,glargine,100.0
+00002771559,BASAGLAR  ,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Basaglar],1736863,glargine100,Basaglar,glargine,100.0
+00002773701,INSULIN LI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution,242120,excluded,,,100.0
+00002775201,INSULIN LI,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector,1926331,excluded,,,100.0
+00002775205,INSULIN LI,ACTIVE,0.5 UNT Doses 3 ML insulin lispro 100 UNT/ML Pen Injector,1926331,excluded,,,100.0
+00002821401,BASAGLAR T,ACTIVE,Sensor 3 ML insulin glargine 100 UNT/ML Pen Injector [Basaglar],2268065,glargine100,Basaglar,glargine,100.0
+00002821405,BASAGLAR T,ACTIVE,Sensor 3 ML insulin glargine 100 UNT/ML Pen Injector [Basaglar],2268065,glargine100,Basaglar,glargine,100.0
+00002822201,INSULIN LI,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639,excluded,,,100.0
+00002822259,INSULIN LI,ACTIVE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639,excluded,,,100.0
+00002823301,INSULIN LI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector",847252,excluded,,,25.0
+00002823305,INSULIN LI,ACTIVE,"3 ML insulin lispro 25 UNT/ML / insulin lispro protamine, human 75 UNT/ML Pen Injector",847252,excluded,,,25.0
+00002898001,REZVOGLAR ,ACTIVE,3 ML insulin glargine-aglr 100 UNT/ML Pen Injector [Rezvoglar],2589014,glargine100,Rezvoglar,glargine,100.0
+00002898005,REZVOGLAR ,ACTIVE,3 ML insulin glargine-aglr 100 UNT/ML Pen Injector [Rezvoglar],2589014,glargine100,Rezvoglar,glargine,100.0
+00024586901,TOUJEO SOL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo],1604544,glargine300,Toujeo,glargine,300.0
+00024586903,TOUJEO SOL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo],1604544,glargine300,Toujeo,glargine,300.0
+00024587100,TOUJEO MAX,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo],2002420,glargine300,Toujeo,glargine,300.0
+00024587102,TOUJEO MAX,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo],2002420,glargine300,Toujeo,glargine,300.0
+00088221901,LANTUS 3ML,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088221905,LANTUS 3ML,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088222033,LANTUS 10M,ACTIVE,insulin glargine 100 UNT/ML Injectable Solution [Lantus],285018,glargine100,Lantus,glargine,100.0
+00088222052,LANTUS 10M,OBSOLETE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088222060,LANTUS 10M,OBSOLETE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088502001,LANTUS SOL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088502005,LANTUS SOL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus],847232,glargine100,Lantus,glargine,100.0
+00088502101,LANTUS NOV,ACTIVE,insulin glargine 100 UNT/ML Injectable Solution [Lantus],285018,glargine100,Lantus,glargine,100.0
+00169255013,TRESIBA FL,ACTIVE,3 ML insulin degludec 200 UNT/ML Pen Injector [Tresiba],1670023,degludec,Tresiba,degludec,200.0
+00169266015,TRESIBA FL,ACTIVE,3 ML insulin degludec 100 UNT/ML Pen Injector [Tresiba],1670016,degludec,Tresiba,degludec,100.0
+00169266211,TRESIBA VI,ACTIVE,insulin degludec 100 UNT/ML Injectable Solution [Tresiba],2107522,degludec,Tresiba,degludec,100.0
+00169368712,LEVEMIR 10,ACTIVE,insulin detemir 100 UNT/ML Injectable Solution [Levemir],616238,detemir,Levemir,detemir,100.0
+00169643210,LEVEMIR FL,ACTIVE,3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir],847241,detemir,Levemir,detemir,100.0
+00169643255,LEVEMIR FL,ACTIVE,3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir],847241,detemir,Levemir,detemir,100.0
+00169643810,LEVEMIR FL,OBSOLETE,3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir],847241,detemir,Levemir,detemir,100.0
+00169643910,Levemir Fl,OBSOLETE,3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir],847241,detemir,Levemir,detemir,100.0
+00338012612,Insulin in,ACTIVE,"100 ML insulin, regular, human 1 UNT/ML Injection [Myxredlin]",2179749,excluded,Myxredlin,,
+00955172801,INSULIN GL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector,847230,glargine100,,glargine,100.0
+00955172805,INSULIN GL,ACTIVE,3 ML insulin glargine 100 UNT/ML Pen Injector,847230,glargine100,,glargine,100.0
+00955172901,INSULIN GL,ACTIVE,insulin glargine 100 UNT/ML Injectable Solution,311041,glargine100,,glargine,100.0
+00955290001,INSULIN GL,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector,2002419,glargine300,,glargine,300.0
+00955290002,INSULIN GL,ACTIVE,3 ML insulin glargine 300 UNT/ML Pen Injector,2002419,glargine300,,glargine,300.0
+00955390001,INSULIN GL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector,1604539,glargine300,,glargine,300.0
+00955390003,INSULIN GL,ACTIVE,1.5 ML insulin glargine 300 UNT/ML Pen Injector,1604539,glargine300,,glargine,300.0
+49502019580,Semglee In,OBSOLETE,insulin glargine 100 UNT/ML Injectable Solution [Semglee],2377134,glargine100,Semglee,glargine,100.0
+49502019671,Semglee In,OBSOLETE,3 ML insulin glargine 100 UNT/ML Pen Injector [Semglee],2377231,glargine100,Semglee,glargine,100.0
+49502019675,Semglee In,OBSOLETE,3 ML insulin glargine 100 UNT/ML Pen Injector [Semglee],2377231,glargine100,Semglee,glargine,100.0
+49502025080,Semglee In,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution [Semglee],2563977,glargine100,Semglee,glargine,100.0
+49502025171,Semglee In,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee],2563973,glargine100,Semglee,glargine,100.0
+49502025175,Semglee In,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee],2563973,glargine100,Semglee,glargine,100.0
+49502039380,Insulin Gl,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution,2563976,glargine100,,glargine,100.0
+49502039471,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0
+49502039475,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0
+66733077301,INSULIN LI,ACTIVE,insulin lispro 100 UNT/ML Injectable Solution,242120,excluded,,,100.0
+66733082201,INSULIN LI,OBSOLETE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639,excluded,,,100.0
+66733082259,INSULIN LI,OBSOLETE,3 ML insulin lispro 100 UNT/ML Pen Injector,1652639,excluded,,,100.0
+72572042205,INSULIN GL,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0
+72572042405,INSULIN GL,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0
+73070010011,INSULIN AS,ACTIVE,"insulin aspart, human 100 UNT/ML Injectable Solution",311040,excluded,,,
+73070010210,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Cartridge",1653196,excluded,,,
+73070010215,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Cartridge",1653196,excluded,,,
+73070010310,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector",1653202,excluded,,,
+73070010315,INSULIN AS,ACTIVE,"3 ML insulin aspart, human 100 UNT/ML Pen Injector",1653202,excluded,,,
+73070020011,INSULIN AS,ACTIVE,"insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Injectable Suspension",351297,excluded,,,
+73070020310,INSULIN AS,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector",847191,excluded,,,
+73070020315,INSULIN AS,ACTIVE,"3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector",847191,excluded,,,
+73070040011,INSULIN DE,ACTIVE,insulin degludec 100 UNT/ML Injectable Solution,2107520,degludec,,degludec,100.0
+73070040310,INSULIN DE,ACTIVE,3 ML insulin degludec 100 UNT/ML Pen Injector,1670011,degludec,,degludec,100.0
+73070040315,INSULIN DE,ACTIVE,3 ML insulin degludec 100 UNT/ML Pen Injector,1670011,degludec,,degludec,100.0
+73070050315,INSULIN DE,ACTIVE,3 ML insulin degludec 200 UNT/ML Pen Injector,1670021,degludec,,degludec,200.0
+83257001111,Semglee In,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution [Semglee],2563977,glargine100,Semglee,glargine,100.0
+83257001231,Semglee In,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee],2563973,glargine100,Semglee,glargine,100.0
+83257001233,Semglee In,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee],2563973,glargine100,Semglee,glargine,100.0
+83257001411,Insulin Gl,ACTIVE,insulin glargine-yfgn 100 UNT/ML Injectable Solution,2563976,glargine100,,glargine,100.0
+83257001531,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0
+83257001532,Insulin Gl,ACTIVE,3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector,2563971,glargine100,,glargine,100.0

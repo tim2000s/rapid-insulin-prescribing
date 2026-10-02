@@ -1,0 +1,19 @@
+insulin: total=1 ID2023_075 /metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-ii
+degludek: total=0 
+glargin: total=0 
+aspart: total=0 
+lispro: total=0 
+detemir: total=0 
+Tresiba: total=0 
+Toujeo: total=0 
+Fiasp: total=0 
+Lyumjev: total=0 
+Levemir: total=0 
+Lantus: total=0 
+NovoRapid: total=0 
+Humalog: total=0 
+semaglutid: total=0 
+tirzepatid: total=0 
+diabetes: total=17 ID2016_059 /metoder/fedmekirurgi-i-behandling-av-type-2-diabetes; ID2021_111 /metoder/kontinuerlig-glukosemaling; ID2023_075 /metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-ii; ID2016_044 /metoder/system-freestyle-libre-for-egenmaling-av-blodsukker; ID2023_074 /metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-i; ID2025_047 /metoder/id2025_047; ID2018_054 /metoder/kunstig-bukspyttkjertel; ID2020_109 /metoder/bevacizumab-ipique-indikasjon-ii; ID2020_004 /metoder/netthinneundersokelse-ved-diabetes; ID2015_052 /metoder/kunstig-bukspyttkjertel-i-behandling-av-type-1-diabetes; ID2020_024 /metoder/natalizumab-tysabri-indikasjon-iii; ID2021_132 /metoder/brolucizumab-beovu-indikasjon-ii; ID2021_149 /metoder/natalizumab-tysabri-indikasjon-v; ID2023_103 /metoder/natalizumab-indikasjon-vi; ID2021_070 /metoder/avakopan-tavneos-indikasjon-iii; ID2022_073 /metoder/darolutamid-nubeqa-indikasjon-ii; ID2024_009 /metoder/id2024_009
+_all_methods_total: 1347
+_note: Optimizely Graph fulltext search of nyemetoder.no MethodPage, endpoint https://cg.optimizely.com/content/v2 with the public SingleKey published in the nyemetoder.no page source; run 2026-10-02

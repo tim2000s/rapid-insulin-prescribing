@@ -1,0 +1,644 @@
+Opsummering
+af Medicinrådets
+evidensgennemgang
+vedrørende antidiabetika
+til type 2-diabetes
+Medicinrådets behandlingsvejledning
+
+
+
+
+Version 2.1
+            Om Medicinrådets behandlingsvejledning
+            Medicinrådets behandlingsvejledning omhandler den blodsukkersænkende behandling
+            og supplerer de fælles retningslinjer for farmakologisk behandling af type 2-diabetes fra
+            Dansk Endokrinologisk Selskab (DES) og Dansk Selskab for Almen Medicin (DSAM).
+
+            I denne opsummering præsenteres de kliniske anbefalinger for valg af
+            blodsukkersænkende lægemidler, som Medicinrådets evidensgennemgang har ført frem
+            til. (LINK). I evidensgennemgangen redegør Medicinrådet for, hvilke lægemidler der er
+            ’klinisk ligestillede’ på baggrund af effekt, bivirkninger og evt. praktiske forhold.
+            Lægemidlerne vurderes både på enkeltstof og klasseniveau. En ligestilling betyder, at
+            størstedelen (80-90 %) af patienterne bliver behandlet lige godt, uanset hvilket af de
+            ligestillede lægemidler, som patienterne behandles med. Der er således fortsat plads til
+            individuel klinisk vurdering af den enkelte patient.
+
+            De lægemidler som Medicinrådet vurderer som klinisk ’ligestillede’ vil efterfølgende blive
+            rangeret efter pris i Medicinrådets nationale basisliste.
+
+            Medicinrådets vurdering er baseret på en protokol med forhåndsdefinerede grænser for,
+            hvornår statistisk signifikante forskelle mellem lægemidler også er klinisk relevante. I
+            praksis er den mindste klinisk relevante forskel defineret som den absolutte
+            risikoreduktion (ARR) eller den gennemsnitlige ændring i effektmålet sammenlignet
+            mellem lægemidlerne.
+
+
+
+             Dokumentoplysninger
+
+             Godkendelsesdato                  1. september 2026
+
+             Dokumentnummer                    245631
+
+             Versionsnummer                    2.1
+
+
+
+
+            ©Medicinrådet, 2026
+            Publikationen kan frit refereres
+            med tydelig kildeangivelse.
+
+            Sprog: dansk
+            Format: pdf
+            Udgivet af Medicinrådet, 1. september 2026
+
+
+
+
+Side 1/12
+            Den opdaterede udgave i 2026
+            Medicinrådets første behandlingsvejledning fra 2021 havde primært fokus på det
+            rationelle valg af 2. antidiabetikum i tillæg til metformin, da Medicinrådet så behov for
+            klare og ensrettede retningslinjer herfor.
+
+            Version 2.0 fra maj 2026 (og version 2.1 fra august 2026) er opdateret med indplacering
+            af nye lægemidler og data for nye kliniske endepunktsstudier. Herudover er definitionen
+            af subgruppen ’Patienter med meget høj risiko for hjertekarsygdom’ revideret pga.
+            ændring i dansk klinisk praksis.
+
+            I opdateringen i 2026 er der også fokus på om tillæg af 3. eller 4. lægemiddel kan
+            medføre en additiv organbeskyttende effekt. Herunder kombinationen af natrium-
+            glukose co-transporter 2 (SGLT2)-hæmmere med enten en glukagonlignende-peptid-1-
+            receptoragonist (GLP-1RA) eller glukose-afhængigt insulinotropisk polypeptid/
+            glukagonlignende-peptid-1receptoragonist (GIP/ GLP-1RA).
+
+
+             Opdatering i 2026 har medført følgende ændringer
+
+             Indplacering af nye lægemidler:
+
+             •      Tirzepatid (GIP/GLP-1RA) kan anvendes som et ligestillet alternativ til GLP-1RA.
+             •      Insulin icodec (basalinsulin til ugentlig injektion) kan overvejes som alternativ til
+                    basalinsuliner med daglig injektion, medmindre der er forhold hos patienten, der
+                    kan gøre brugen usikker såsom skrøbelighed, hukommelsesbesvær, nedsat evne
+                    til at reagere på hypoglykæmi, svingende fødeindtag eller svingende
+                    aktivitetsniveau.
+
+                 Ændring af tidligere anbefalinger for lægemidlerne:
+
+             •      SU-stof er ikke længere ligestillet med de øvrige lægemidler til ’patienter uden
+                    komorbiditet’ og rykker generelt længere ned i behandlings-algoritmerne pga.
+                    risikoen for hypoglykæmi (uddybet i Boks 1).
+
+             •      SGLT-2-hæmmer i kombination med enten GIP/GLP-1RA eller GLP-1RA kan nu
+                    overvejes ved behov for yderligere reduktion i HbA1c til ’Patienter med erkendt
+                    hjertekar- eller nyresygdom’ med det formål at opnå en additiv hjertebeskyttende
+                    effekt.
+
+             Ændring iht. dansk klinisk praksis:
+
+             •      Subgruppen ’Patienter med meget høj risiko for hjertekarsygdom’ er nu defineret
+                    som en 10 års risiko for en større kardiovaskulær hændelse på ≥ 20 % vurderet
+                    med SCORE-2-Diabetes. Den erstatter tidligere definition ’mindst 3 risikofaktorer’.
+
+
+
+
+Side 2/12
+            Behandling af type 2-diabetes
+            Målet med behandlingen af type 2-diabetes er at opnå symptomfrihed samt at nedsætte
+            risikoen for senkomplikationer og tidlig død. Herunder kardiovaskulær sygdom,
+            nyresygdom og diabetisk nerve- og øjensygdom. Behandlingen er både non-
+            farmakologisk (livsstilsintervention mv.) og farmakologisk. Den farmakologiske
+            behandling omfatter blodsukkersænkende, lipidsænkende, blodtrykssænkende og evt.
+            antitrombotisk behandling.
+
+            Formålet med den blodsukkersænkende behandling med antidiabetika er at nå det
+            glykæmiske behandlingsmål (HbA1c), med henblik på at forebygge alvorlige
+            mikrovaskulære komplikationer. Nogle lægemidler har herudover en hjerte- eller
+            nyrebeskyttende effekt.
+
+            Det glykæmiske behandlingsmål for patienten fastsættes efter nedenstående tabel fra
+            DES/DSAM’s behandlingsvejledning.
+
+            Tabel 1.1. Vejledende mål for HbA1c fra DES/DSAM´s behandlingsvejledning
+
+             HbA1c             Population
+
+                               Bør tilstræbes, hvor det er gennemførligt uden større risiko for
+             < 48 mmol/mol     hypoglykæmi. Dette anses for at være vigtigt for forebyggelsen af
+                               komplikationer på lang sigt.
+
+                               Senere i forløbet kan en stram kontrol blive tiltagende vanskelig, og der må
+                               sættes individuelle mål for behandlingen, hvor risikoen for hypoglykæmi og
+             < 53 mmol/mol
+                               det realistisk opnåelige opvejes overfor risikoen for diabetiske
+                               senkomplikationer.
+
+                               Hos skrøbelige patienter (lang diabetesvarighed, fremskreden alder, megen
+             < 58 mmol/mol     komorbiditet) og ved svingende blodglukose, hvor polyfarmaci inkluderer
+                               lægemidler med risiko for hypoglykæmi.
+
+                               Hos patienter, hvor det primære behandlingsmål er symptomfrihed, kan et
+             58-70 mmol/mol
+                               HbA1c på 58-70 mmol/mol være acceptabelt.
+
+
+
+            Den sidste kategori omfatter den gruppe af skrøbelige, ældre patienter, hvor
+            behandlingsmålet primært er symptomfrihed, pga. kort forventet restlevetid. Herunder
+            undgå hypoglykæmi og symptomgivende hyperglykæmi. Derfor kan et HbA1c mellem 58-
+            70 mmol/mol være acceptabelt.
+
+
+
+
+Side 3/12
+            Valg af lægemiddel
+            Når to eller flere lægemidler eller lægemiddelklasser er angivet som ligestillede for en
+            given patientpopulation, har Medicinrådet vurderet, at der for størstedelen af
+            patienterne ikke er klinisk relevante forskelle i effekt, bivirkninger eller praktiske forhold.
+            Disse lægemidler anses derfor som lige gode. Når et lægemiddel er angivet som
+            ’overvej’ eller ’anvend ikke rutinemæssigt’, kan det fx være fordi det er mindre effektivt
+            eller der kan være bekymringer omkring sikkerheden for nogle patientgrupper (fx ældre).
+
+            Følgende afsnit viser, hvilke lægemidler der er klinisk ligestillede i de prædefinerede
+            subpopulationer.
+
+            •       Patienter uden komorbiditet eller andre særlige risikofaktorer
+
+            •       Patienter med meget høj risiko for (men endnu uden erkendt) hjertekarsygdom
+            •       Patienter med erkendt hjertekarsygdom
+
+            •       Patienter med erkendt nyresygdom
+
+            •       Patienter med svær overvægt (BMI > 30)
+
+            •       Ældre patienter (> 75 år) eller patienter med langvarig diabetes (> 20 år).
+
+
+            Patienter i kategorien ’meget høj risiko for hjertekarsygdom’ er defineret med en 10 års
+            risiko for kardiovaskulær hændelse på ≥ 20 % vurderet med SCORE2-diabetes. Denne
+            erstatter den tidligere definition, hvor meget høj risiko for hjertekarsygdom er defineret
+            ved ’mindst tre risikofaktorer’.
+
+            Boks 1. Generelt for alle anbefalinger gælder
+
+                I alle tabeller er rækkefølgen af lægemiddelklasser angivet alfabetisk (uprioriteret)
+
+                SU-stoffer anbefales ikke til patienter, som har risikofaktorer for at udvikle
+                hypoglykæmi. Risikofaktorer er:
+
+                •    alder over 75 år eller langvarig diabetes (> 20 år)
+                •    alkoholoverforbrug
+                •    nedsat nyrefunktion
+                •    småtspisende.
+                Kombiner ikke DPP-4-hæmmer med GIP/GLP-1RA eller GLP-1RA pga. overlappende
+                virkningsmekanismer.
+
+
+
+
+Side 4/12
+            Patienter uden komorbiditet eller andre særlige risikofaktorer
+
+            Patientgruppen omfatter patienter, som ikke har nået behandlingsmålet for HbA1c med
+            en SCORE2-Diabetes < 20 % (fra lav til høj risiko for hjertekarsygdom).
+
+            •      Anvend ét af de ligestillede lægemidler i Tabel 1.2, i tillæg til metformin.
+            •      Overvej SU-stof til patienter uden risikofaktorer for at udvikle hypoglykæmi (se Boks 1).
+            Tabel 1.2. Klinisk ligestillede lægemidler til ’patienter uden komorbiditet’
+
+                                             Lægemiddelklasser      Lægemidler
+
+                                             DPP-4-hæmmer1          Alogliptin, linagliptin, saxagliptin, sitagliptin
+
+                Anvend et af følgende        GIP/GLP-1RA            Tirzepatid
+                ligestillede lægemidler i
+                tillæg til metformin         GLP-1RA                Dulaglutid, liraglutid, semaglutid oral og s.c.
+
+                                             SGLT-2-hæmmer          Canagliflozin, dapagliflozin, empagliflozin
+
+                Overvej                      SU-stof                Gliclazid, glimepirid
+            1. Kombiner ikke DPP-4-hæmmer med GIP/GLP-1RA eller GLP-1RA pga. overlappende virkningsmekanismer.
+
+
+            Patienter med meget høj risiko for (men endnu uden erkendt) hjertekarsygdom
+
+            Patientgruppen omfatter patienter med meget høj risiko for (men endnu uden erkendt)
+            hjertekarsygdom, som har behov for yderligere reduktion i HbA1c. Meget høj risiko for
+            hjertekarsygdom defineres som en 10 års risiko for en større kardiovaskulær hændelse
+            på mindst 20 % vurderet med SCORE2-Diabetes.
+
+            •      Anvend enten GIP/GLP-1RA, GLP-1RA eller SGLT-2-hæmmer i tillæg til metformin
+                   med henblik på både yderligere reduktion af HbA1c og hjertebeskyttende effekt.
+
+            •      Overvej tillæg af DPP-4-hæmmer til SGLT-2 hæmmer ved behov for yderligere
+                   reduktion i HbA1c.
+
+            •      Anvend ikke rutinemæssigt SU-stof til patienter med risikofaktorer for at udvikle
+                   hypoglykæmi (se Boks 1).
+
+
+            Tabel 1.3. Klinisk ligestillede lægemidler til ’patienter med meget høj risiko for hjertekarsygdom’
+
+                                             Lægemiddelklasser      Lægemidler
+
+                                             GIP/GLP-1RA            Tirzepatid
+                Anvend et af følgende
+                ligestillede lægemidler i    GLP-1RA                Dulaglutid, liraglutid, semaglutid oral og s.c.
+                tillæg til metformin
+                                             SGLT-2-hæmmer          Canagliflozin, dapagliflozin, empagliflozin
+
+
+                Overvej                      DPP-4-hæmmer1          Alogliptin, linagliptin, saxagliptin, sitagliptin
+
+                Anvend ikke rutinemæssigt    SU-stof                Gliclazid glimepirid
+            1. Kombiner ikke DPP-4-hæmmer med GIP/GLP-1RA eller GLP-1RA pga. overlappende virkningsmekanismer.
+
+
+
+
+Side 5/12
+            Patienter med erkendt hjertekarsygdom
+
+            Patientgruppen omfatter patienter med iskæmisk hjertekarsygdom og/eller hjertesvigt.
+
+            Patienter med iskæmisk hjertesygdom:
+            •      Anvend GIP/GLP-1RA, GLP-1RA eller SGLT-2-hæmmer med henblik på at forebygge
+                   yderligere alvorlige kardiovaskulære hændelser, uanset om patienten får metformin
+                   eller er i mål for HbA1c. Tillæg af metformin kan ske samtidigt eller efterfølgende.
+            •      Overvej tillæg af DPP-4-hæmmer til SGLT-2 hæmmer, hvis der er behov for
+                   yderligere reduktion af HbA1c.
+
+            •      Overvej at kombinere SGLT-2-hæmmer med GIP/GLP-1RA eller GLP-1RA ved behov
+                   for yderligere reduktion i HbA1c og med henblik på også at opnå en additiv
+                   forebyggende kardiovaskulær effekt.
+
+            •      Anvend ikke rutinemæssigt SU-stof til patienter med risikofaktorer for at udvikle
+                   hypoglykæmi (se Boks 1).
+
+
+            Patienter med hjertesvigt (NYHA klasse II-IV):
+
+            •      Anvend SGLT-2-hæmmer med henblik på at forebygge forværring af hjertesvigt
+                   uanset om patienten får metformin eller er i mål for HbA1c.
+
+            •      Overvej tillæg af enten GIP/GLP-1RA, GLP-1RA eller DPP-4 hæmmer, hvis der er
+                   behov for yderligere reduktion af HbA1c.
+
+            •      Anvend ikke rutinemæssigt SU-stof til patienter med risikofaktorer for at udvikle
+                   hypoglykæmi (se Boks 1).
+
+
+            Tabel 1.4. Klinisk ligestillede lægemidler til ’patienter med erkendt hjertekarsygdom’
+
+                                        Lægemiddelklasser    Lægemidler
+
+
+                Anvend et af            GIP/GLP-1RA          Tirzepatid
+                følgende ligestillede   GLP-1RA              Dulaglutid, liraglutid, semaglutid oral og s.c.
+                lægemidler (i evt.
+                tillæg til metformin)   SGLT-2-hæmmer*       Canagliflozin, dapagliflozin, empagliflozin
+
+                                        DPP-4-hæmmer1        Alogliptin, linagliptin, saxagliptin**, sitagliptin
+                Overvej
+
+
+
+                Anvend ikke             SU-stof              Gliclazid glimepirid
+                rutinemæssigt
+            Patienter med hjertesvigt: *Anvend SGLT-2-hæmmer frem for GIP/GLP-1RA eller GLP-1RA. **Anvend ikke
+            saxagliptin.
+            1.Kombiner ikke DPP-4-hæmmer med GIP/GLP-1RA eller GLP-1RA pga. overlappende virkningsmekanismer.
+
+
+
+
+Side 6/12
+            Patienter med erkendt nyresygdom
+
+            Patientgruppen omfatter patienter med kronisk nyresygdom defineret som nedsat eGFR
+            (< 60 ml/min/1,73 m2) og/eller albuminuri (> 30 mg/g).
+
+            •      Anvend SGLT-2-hæmmer med henblik på at forebygge yderligere progression af
+                   nyresygdom og uanset om patienten får metformin eller er i mål for HbA1c. Tillæg af
+                   metformin kan ske samtidigt eller efterfølgende.
+
+            •      Overvej GIP/GLP-1RA eller GLP-1RA, som alternativ nyrebeskyttende lægemiddel,
+                   hvis patienten ikke kan tåle SGLT-2-hæmmer.
+            •      Overvej tillæg af DPP-4-hæmmer til SGLT-2 hæmmer, hvis der er behov for
+                   yderligere reduktion af HbA1c.
+
+            •      Overvej at kombinere SGLT-2-hæmmer med enten GIP/GLP-1RA eller GLP-1RA ved
+                   behov for yderligere reduktion i HbA1c og med henblik på også at opnå en additiv
+                   hjertebeskyttende effekt.
+            •      Anvend ikke rutinemæssigt SU-stof ved nyresygdom (se Boks 1 og tabel 1.7).
+
+
+            Tabel 1.5. Klinisk ligestillede lægemidler til ’patienter med erkendt nyresygdom’
+
+                                             Lægemiddelklasser    Lægemidler
+
+                Anvend et af følgende        SGLT-2-hæmmer        Canagliflozin, dapagliflozin, empagliflozin
+                ligestillede lægemidler (i
+                evt. tillæg til metformin)
+
+                Overvej                      GIP/GLP-1RA          Tirzepatid
+
+                                             GLP-1RA              Dulaglutid, liraglutid, semaglutid oral og s.c.
+
+                                             DPP-4-hæmmer1        Alogliptin, linagliptin, saxagliptin, sitagliptin
+
+                Anvend ikke                  SU-stof              Gliclazid, glimepirid
+                rutinemæssigt
+            1.Kombiner ikke DPP-4-hæmmer med GIP/GLP-1RA eller GLP-1RA pga. overlappende virkningsmekanismer.
+
+
+
+            Patienter med svær overvægt (BMI > 30 kg/m2)
+
+            •      Anvend et af de ligestillede lægemidler i tabel 1.2-1.5, i tillæg til metformin, som
+                   diabetesbehandling, til patienter med type 2-diabetes og svær overvægt (BMI > 30
+                   kg/m2), afhængig af patientens øvrige risikofaktorer.
+
+
+
+            Ældre patienter (> 75 år) eller patienter med langvarig diabetes (> 20 år)
+
+            •      Anvend et af de ligestillede lægemidler i tabel 1.2-1.5, i tillæg til metformin,
+                   afhængig af patientens øvrige risikofaktorer.
+            •      Anvend ikke SU-stoffer til patienter over 75 år pga. øget risiko for svær
+                   hypoglykæmi.
+
+
+
+
+Side 7/12
+            Valg mellem basalinsuliner
+            DES/DSAM’s behandlingsvejledning redegør for mulige indikationer for at påbegynde
+            insulinbehandling, hvordan denne initieres, samt hvornår skift mellem basalinsuliner og
+            andre insulinregimer er relevant.
+
+            Følgende viser Medicinrådets vurdering af, hvilke basalinsuliner der er klinisk ligestillede
+            for de prædefinerede subpopulationer.
+
+            Opstart af insulinbehandling
+
+            •      Anvend et af de ligestillede basalinsuliner i tabel 1.6. Også til patienter over 75 år,
+                   patienter med svær overvægt (BMI > 30 kg/m2), og patienter, der har behov for en
+                   høj dosis (> 1 IE/kg/døgn).
+
+            •      Overvej ugentligt administreret insulin medmindre der er forhold hos patienten, der
+                   kan gøre brugen usikker såsom skrøbelighed, hukommelsesbesvær, nedsat evne til
+                   at reagere på hypoglykæmi, svingende fødeindtag eller svingende aktivitetsniveau.
+
+            Overvejelser ift. skift af insulinpræparat
+
+            •      Overvej skift fra øvrige basalinsuliner til insulin degludec hos patienter, der oplever
+                   gentagne tilfælde af svær hypoglykæmi, på trods af relevant dosisjustering af
+                   eksisterende insulinbehandling.
+
+            •      Ved følgende skift skal døgndosis reduceres med ca. 20 %:
+
+                   ◦      Fra insulin detemir til insulin glargin 100 IE/ml
+
+                   ◦      Fra insulin glargin 300 IE/ml til insulin glargin 100 IE/ml
+
+                   ◦      Fra NPH insulin (kun ved dosering x 2) til glargin 100 IE/ml.
+
+
+            Tabel 1.6. Klinisk ligestillede basalinsuliner
+
+                                              Lægemidler                                Dosisinterval
+
+                                              Insulin degludec 100 eller 200 IE/ml      1 gang daglig
+
+                                              Insulin detemir 100 IE/ml x 1-2*          1-2 gange daglig
+                Anvend et af følgende
+                                              Insulin glargin 100 eller 300 IE/ml       1 gang daglig
+                ligestillede lægemidler til
+                insulinnaive patienter        NPH insulin (Isophaninsulin) 100          2 gange daglig
+                                              IE/ml*
+
+
+
+
+                Overvej                       Insulin Icodec 700 IE                     1 gang ugentlig
+
+            *Insulatard og Levimir udfases i 2026.
+
+
+
+
+Side 8/12
+            Kriterier for seponering hos ældre patienter
+            Ved ønske om reduktion af lægemiddelbehandlingen hos ældre skrøbelige patienter
+            og/eller patienter med kort forventet restlevetid, hvor det primære formål med
+            behandlingen er symptomfrihed, foreslår Medicinrådet:
+
+            1. Seponer lægemidler, som udgør en betydende aktuel bivirkningsmæssig
+               problemstilling (fx hypoglykæmi) (se Tabel 1.7).
+
+            2. Overvej seponering af blodssukkersænkende lægemidler, hvor det primære formål
+               med behandling er en organbeskyttende effekt.
+            Tabel 1.7. Anbefalinger for pausering og seponering af blodsukkersænkende lægemidler
+
+             Stofgruppe        Problemstilling(er)                  Anbefalinger
+
+
+             Metformin         Diarré og dehydratio                 Pauser ved kvalme/opkastning og akut
+                               Risiko for laktatacidose ved akut    sygdom
+                               sygdom eller nyresvigt
+
+
+                               Nedsat nyrefunktion                  Seponer ved eGFR < 30 ml/min
+
+
+             SU-stof           Risiko for hypoglykæmi ved stram     Seponer ved svær (assistancekrævende)
+                               kontrol og/eller svigtende           hypoglykæmi
+                               fødeindtagelse og/eller nedsat
+                                                                    Seponer ved eGFR < 30 ml/min og vær
+                               nyrefunktion
+                                                                    obs på hypoglykæmi ved eGFR < 60
+                                                                    ml/min
+
+             SGLT-2-hæmmer     Recidiverede genitale                Overvej at seponere ved recidiverende
+                               svampeinfektioner/evt.               tilfælde af genitale svampeinfektioner/
+                               urinvejsinfektioner                  urinvejsinfektioner
+
+                               I sjældne tilfælde                  Pause ved kvalme/opkastning og akut
+                               normoglykæmisk ketoacidose          sygdom
+
+                               Nedsat nyrefunktion medfører         Undlad at påbegynde ved eGFR<20
+                               nedsat glykæmisk effekt, men         ml/min
+                               bevaret organbeskyttelse
+
+             GLP-1RA           Vedvarende nedsat appetit og         Seponer i tilfælde af vedvarende
+                               kvalme/opkastninger                  gastrointestinale bivirkninger
+             GIP/GLP-1RA
+                               Uhensigtsmæssigt vægttab             Seponer ved uhensigtsmæssigt vægttab,
+                                                                    sarkopeni og nedsat fødeindtag
+
+             Basal insulin     Risiko for hypoglykæmi ved stram     Overvej at seponere ved < 10 IE med
+                               kontrol og/eller svigtende           mindre ophørt egen insulinproduktion
+                               fødeindtagelse
+
+             Hurtigtvirkende   Risiko for hypoglykæmi ved stram     Overvej at seponere
+             (korrektions-)    kontrol og/eller svigtende
+             insulin           fødeindtagelse
+
+
+
+
+Side 9/12
+             Klinisk sammenligningsgrundlag
+             Doser i tabellen er baseret på de anvendte doser i kliniske endepunktsstudier og
+             anvendes kun til at sammenligne priserne mellem lægemidlerne. Når der er anført to
+             doser, anvendes gennemsnittet som udgangspunkt for prissammenligningen.
+
+             Lægemidler            Handelsnavne       Administration       Sammenligningsdosis
+
+
+             SU-stoffer (A10BB)
+
+             Gliclazid             Diamicron Uno      Daglig oral          3 mg
+
+
+             Glimepirid            Amaryl             Daglig oral          30 mg
+
+
+             DPP4-hæmmere (A10BH)
+
+             Alogliptin            Vipidia            Daglig oral          25 mg
+
+
+             Linagliptin           Trajenta           Daglig oral          5 mg
+
+
+             Saxagliptin           Onglyza            Daglig oral          5 mg
+
+
+             Sitagliptin           Januvia, Xelevia   Daglig oral          100 mg
+
+
+             SGLT-2-hæmmere (A10BK)
+
+             Canagliflozin         Invokana           Daglig oral          100 el. 300 mg
+
+
+             Dapagliflozin         Forxiga            Daglig oral          10 mg
+
+
+             Empagliflozin         Jardiance          Daglig oral          10 el 25 mg
+
+
+             GLP-1RA (A10BJ)
+
+             Dulaglutid            Trulicity          Ugentlig injektion   1,5 mg           pr. uge
+
+
+             Liraglutid            Victoza            Daglig injektion     1,8 mg
+
+
+             Semaglutid            Ozempic            Ugentlig injektion   0,5 el. 1 mg     pr. uge
+
+
+                                   Rybelsus           Daglig oral          7 el. 14 mg
+
+
+                                   Rybelsus Ny        Daglig oral          4 el. 9 mg
+
+
+             GIP/GLP-1RA (A10BX)
+
+
+             Tirzepatid            Mounjaro Ny        Ugentlig injektion   10 el. 15 mg pr. uge
+
+
+
+
+Side 10/12
+              Lægemidler                Handelsnavne      Administration       Sammenligningsdosis
+
+
+              Basalinsuliner (middel/langtidsvirkende human insulin og langtidsvirkende insulinanaloger)
+
+              Basalinsuliner doseres individuelt. De angivne eksempler på sammenlignelige doser gælder kun
+              inden for denne lægemiddelklasse og anvendes alene til at sammenligne priser.
+
+              Insulin human             Humulin NPH       Daglig injektion     40 IE (fordelt på 2 doser)
+
+                                        Insulatard*
+
+
+              Insulin degludec          Tresiba           Daglig injektion     32 IE
+
+
+              Insulin detemir           Levemir*          Daglig injektion     40 IE (fordelt på 1-2 doser)
+
+
+              Insulin glargin           Abasaglar         Daglig injektion     32 IE
+
+              100 IE/ml                 Lantus
+
+                                        Semglee
+
+
+              Insulin glargin           Toujeo            Daglig injektion     40 IE
+
+              300 IE/ml
+
+
+              Insulin icodec            Awiqli Ny         Ugentlig injektion   224 IE (pr. uge)
+
+             *Forventes udfaset i løbet af 2026.
+
+
+
+             Omkostningsanalyse og lægemiddelrekommandation
+             På baggrund af den kliniske evidensgennemgang udarbejder Medicinrådet en
+             sundhedsøkonomisk beregning af, hvad det koster at forebygge et tilfælde af MACE ved
+             at kombinere behandlingen af SGLT-2-hæmmer med GIP/GLP1-RA eller GLP1-RA fremfor
+             at anvende lægemidlerne hver for sig (eller evt. i kombination med DPP-4-hæmmer eller
+             SU).
+
+             Resultatet kan få betydning for den efterfølgende anbefaling, hvor priser også indgår.
+
+
+
+
+Side 11/12
+             Versionslog
+             Versionslog
+
+             Version       Dato                Ændring
+
+             2.1           1. september 2026   Fejl i dosis af insulin icodec er rettet.
+
+             2.0           27. maj 2026        Godkendt af Medicinrådet.
+
+                                               Bemærk, at tidligere versioner af opsummering og
+                                               evidensgennemgang var integreret i ét samlet
+                                               dokument ’Medicinrådets behandlingsvejledning’
+                                               (version 1.0 og 1.1).
+
+
+
+
+Side 12/12
+Medicinrådets sekretariat
+Medicinrådet Dampfærgevej 21-23, 3. sal
+2100 København Ø
+
++ 45 70 10 36 00
+medicinraadet@medicinraadet.dk
+
+www.medicinraadet.dk
+
+
+
+
+Side 13/12
+

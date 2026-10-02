@@ -1,0 +1,146 @@
+{
+ "insulin": {
+  "total": 1,
+  "items": [
+   {
+    "Name": "ID2023_075",
+    "RelativePath": "/metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-ii"
+   }
+  ]
+ },
+ "degludek": {
+  "total": 0,
+  "items": []
+ },
+ "glargin": {
+  "total": 0,
+  "items": []
+ },
+ "aspart": {
+  "total": 0,
+  "items": []
+ },
+ "lispro": {
+  "total": 0,
+  "items": []
+ },
+ "detemir": {
+  "total": 0,
+  "items": []
+ },
+ "Tresiba": {
+  "total": 0,
+  "items": []
+ },
+ "Toujeo": {
+  "total": 0,
+  "items": []
+ },
+ "Fiasp": {
+  "total": 0,
+  "items": []
+ },
+ "Lyumjev": {
+  "total": 0,
+  "items": []
+ },
+ "Levemir": {
+  "total": 0,
+  "items": []
+ },
+ "Lantus": {
+  "total": 0,
+  "items": []
+ },
+ "NovoRapid": {
+  "total": 0,
+  "items": []
+ },
+ "Humalog": {
+  "total": 0,
+  "items": []
+ },
+ "semaglutid": {
+  "total": 0,
+  "items": []
+ },
+ "tirzepatid": {
+  "total": 0,
+  "items": []
+ },
+ "diabetes": {
+  "total": 17,
+  "items": [
+   {
+    "Name": "ID2016_059",
+    "RelativePath": "/metoder/fedmekirurgi-i-behandling-av-type-2-diabetes"
+   },
+   {
+    "Name": "ID2021_111",
+    "RelativePath": "/metoder/kontinuerlig-glukosemaling"
+   },
+   {
+    "Name": "ID2023_075",
+    "RelativePath": "/metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-ii"
+   },
+   {
+    "Name": "ID2016_044",
+    "RelativePath": "/metoder/system-freestyle-libre-for-egenmaling-av-blodsukker"
+   },
+   {
+    "Name": "ID2023_074",
+    "RelativePath": "/metoder/kontinuerlig-glukosemaling-og-flash-glukosemaling-indikasjon-i"
+   },
+   {
+    "Name": "ID2025_047",
+    "RelativePath": "/metoder/id2025_047"
+   },
+   {
+    "Name": "ID2018_054",
+    "RelativePath": "/metoder/kunstig-bukspyttkjertel"
+   },
+   {
+    "Name": "ID2020_109",
+    "RelativePath": "/metoder/bevacizumab-ipique-indikasjon-ii"
+   },
+   {
+    "Name": "ID2020_004",
+    "RelativePath": "/metoder/netthinneundersokelse-ved-diabetes"
+   },
+   {
+    "Name": "ID2015_052",
+    "RelativePath": "/metoder/kunstig-bukspyttkjertel-i-behandling-av-type-1-diabetes"
+   },
+   {
+    "Name": "ID2020_024",
+    "RelativePath": "/metoder/natalizumab-tysabri-indikasjon-iii"
+   },
+   {
+    "Name": "ID2021_132",
+    "RelativePath": "/metoder/brolucizumab-beovu-indikasjon-ii"
+   },
+   {
+    "Name": "ID2021_149",
+    "RelativePath": "/metoder/natalizumab-tysabri-indikasjon-v"
+   },
+   {
+    "Name": "ID2023_103",
+    "RelativePath": "/metoder/natalizumab-indikasjon-vi"
+   },
+   {
+    "Name": "ID2021_070",
+    "RelativePath": "/metoder/avakopan-tavneos-indikasjon-iii"
+   },
+   {
+    "Name": "ID2022_073",
+    "RelativePath": "/metoder/darolutamid-nubeqa-indikasjon-ii"
+   },
+   {
+    "Name": "ID2024_009",
+    "RelativePath": "/metoder/id2024_009"
+   }
+  ]
+ },
+ "_all_methods_total": 1347,
+ "_note": "Optimizely Graph fulltext search of nyemetoder.no MethodPage, endpoint https://cg.optimizely.com/content/v2 with the public SingleKey published in the nyemetoder.no page source; run 2026-10-02"
+}

@@ -1,0 +1,979 @@
+                  COMMISSION DE LA TRANSPARENCE
+                                              Avis
+                                         19 juillet 2017
+              L’avis de la Commission de la Transparence adopté le 7 juin 2017
+               a fait l’objet d’observations écrites examinées le 19 juillet 2017.
+
+
+
+                                       insuline asparte
+
+
+  FIASP 100 U/ml, solution injectable en flacon
+  Boîte de 1 flacon de 10 ml (CIP : 34009 300 831 7 8)
+  FIASP Penfill 100 U/ml, solution injectable en cartouche
+  Boîte de 5 cartouches de 3 ml (CIP : 34009 300 831 8 5)
+  FIASP FlexTouch 100 U/ml, solution injectable en stylo prérempli
+  Boîte de 5 stylos préremplis de 3 ml (CIP : 34009 300 831 6 1)
+
+
+  Laboratoire NOVO NORDISK
+
+  Code ATC               A10AB05 (insulines et analogues d’action rapide)
+
+
+
+
+  Motif de l’examen      Inscription
+
+
+
+                         Sécurité Sociale (CSS L.162-17)
+  Listes concernées
+                         Collectivités (CSP L.5123-2)
+
+  Indication concernée   « Traitement du diabète de l’adulte »
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique            1/18
+Avis 2
+01 INFORMATIONS ADMINISTRATIVES ET REGLEMENTAIRES
+                                    Date initiale (procédure centralisée) : 10/11/2016
+AMM
+                                    Plan de gestion des risques
+Conditions de prescription et de
+                                    Liste II
+délivrance / statut particulier
+                                    2017
+                                    A           Voies digestives et métabolisme
+                                    A10         Médicaments du diabète
+Classification ATC
+                                    A10A        Insulines et analogues
+                                    A10AB       Insulines et analogues d’action rapide
+                                    A10AB05     Insuline asparte
+
+
+
+02 CONTEXTE
+Il s’agit d’une demande d’inscription sur les listes sécurité sociale et collectivités des spécialités
+FIASP, à base d’un analogue de l’insuline d’action rapide, l’insuline asparte, indiquées dans le
+traitement du diabète de l’adulte. Par rapport à NOVORAPID, à base du même principe actif,
+FIASP diffère par son indication limitée à l’adulte et par l’ajout de 2 excipients, le nicotinamide, lui
+conférant un délai d’action plus rapide et l’arginine pour stabiliser la formulation.
+A titre informatif, en date du 29/03/2000, la Commission avait estimé le service médical rendu
+(SMR) de NOVORAPID dans son indication chez l’adulte comme étant important et son
+amélioration du SMR (ASMR) de niveau V par rapport à HUMALOG. L’avis de renouvellement
+d’inscription de NOVORAPID en date du 17/06/2015 maintenait le SMR important.
+
+
+
+03 INDICATION THERAPEUTIQUE
+« Traitement du diabète de l’adulte.»
+
+
+
+04 POSOLOGIE
+« FIASP est une insuline prandiale à administrer par voie sous-cutanée dans les 2 minutes qui
+précèdent le début du repas, et éventuellement jusqu’à 20 minutes après le début du repas. […]
+
+Initiation
+Patients diabétiques de type 1
+Chez les patients diabétiques de type 1 n’ayant jamais reçu d’insuline, la dose initiale
+recommandée est d’environ 50 % de la dose d’insuline quotidienne totale et doit être répartie entre
+les repas selon la quantité et la composition de ces derniers. Le reste de la dose d’insuline
+quotidienne totale doit être apporté par une insuline à durée d’action prolongée ou intermédiaire.
+En règle générale, pour calculer la dose d’insuline quotidienne totale initiale nécessaire chez les
+patients diabétiques de type 1 n’ayant jamais reçu d’insuline, il est possible d’utiliser le calcul de
+0,2 à 0,4 unité d’insuline par kilogramme de poids corporel.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    2/18
+Avis 2
+Patients diabétiques de type 2
+La dose initiale proposée est de 4 unités lors d’un ou plusieurs repas. Le nombre d’injections et
+l’ajustement des doses dépendent des objectifs glycémiques individuels, ainsi que de la quantité et
+de la composition des repas.
+Un ajustement de la dose peut être effectué quotidiennement en fonction de l’auto-contrôle
+glycémique du (des) jour(s) précédent(s), comme indiqué au Tableau 1.
+•       La dose avant le petit-déjeuner doit être ajustée selon l’auto-contrôle glycémique réalisé
+avant le repas du midi du jour précédent.
+•       La dose avant le repas du midi doit être ajustée selon l’auto-contrôle glycémique réalisé
+avant le repas du soir du jour précédent.
+•       La dose avant le repas du soir doit être ajustée selon l’auto-contrôle glycémique réalisé au
+coucher du jour précédent.
+
+    Tableau 1 : Ajustement de la dose
+    Auto-contrôle glycémique (voir ci-dessus)                       Ajustement de la dose
+    mmol/l                             mg/dl                        Unité
+    < 4,0                              < 71                         -1
+    4,0 à 6,0                          71 à 108                     Aucun ajustement
+    > 6,0                              > 108                        +1
+
+Populations particulières
+Patients âgés (≥ 65 ans)
+La sécurité et l’efficacité de FIASP chez les patients âgés de 65 à 75 ans ont été établies. Il est
+recommandé de surveiller attentivement la glycémie et d’ajuster la dose d’insuline de façon
+individuelle (voir rubriques 5.1 et 5.2). L’expérience clinique chez les patients de 75 ans et plus est
+limitée.
+Troubles rénaux ou hépatiques
+Les troubles rénaux ou hépatiques peuvent réduire les besoins en insuline du patient. Chez les
+patients présentant des troubles rénaux ou hépatiques, il est recommandé d’intensifier la
+surveillance glycémique et d’ajuster la dose de façon individuelle (voir rubrique 5.2).
+Population pédiatrique
+La sécurité et l’efficacité de FIASP chez les enfants et les adolescents âgés de moins de 18 ans
+n’ont pas été établies. Les données actuellement disponibles sont décrites à la rubrique 5.2, mais
+aucune recommandation sur la posologie ne peut être donnée.
+
+En remplacement d’autres insulines
+Il est recommandé de surveiller attentivement la glycémie lors du remplacement d’une autre
+insuline prandiale et durant les premières semaines qui suivent. Le changement d’insuline
+prandiale peut être effectué dose pour dose. En cas de changement de type, de marque ou de
+fabricant d’insuline pour FIASP, le patient devra faire l’objet d’un suivi médical, et un changement
+de posologie pourra être nécessaire.
+Il pourra être nécessaire d’ajuster les doses et les horaires d’administration des insulines à action
+prolongée ou intermédiaire ou des autres traitements antidiabétiques concomitants. »
+
+
+
+05 BESOIN MEDICAL
+05.1 Diabète de type 1
+Le traitement des patients diabétiques de type 1 repose sur une insulinothérapie, associée à une
+prise en charge nutritionnelle.
+Selon les objectifs glycémiques, les préférences et le mode de vie des patients, plusieurs schémas
+d’insulinothérapie peuvent être proposés :
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   3/18
+Avis 2
+   -   un schéma en 2 injections quotidiennes, avec injection d’un mélange d’insuline ou
+       analogue d‘action rapide et d’insuline d’action intermédiaire avant le petit déjeuner et le
+       repas du soir ;
+    - un schéma en 3, 4 ou 5 injections quotidiennes, avec injection d’un mélange d’insuline ou
+       analogue d‘action rapide et d’insuline d’action intermédiaire avant le petit déjeuner et le
+       repas du soir (l’injection d’insuline d’action intermédiaire du soir peut-être décalée au
+       moment du coucher), et d’une insuline ou analogue d’action rapide avant le repas de midi ;
+    - un schéma « basal-bolus » en 3, 4 ou 5 injections quotidiennes, avec injection d’une
+       « insuline basale » d’action intermédiaire matin et soir ou d’un analogue à longue durée
+       d’action une à deux fois par jour, associée à l’injection en bolus avant chacun des
+       principaux repas d’une « insuline prandiale » d‘action rapide ou analogue d’action rapide ;
+    - un traitement par pompe portable (perfusion continue avec débit de base fixe ou variable ;
+       selon les horaires de la journée ou de la nuit et bolus au moment des repas).
+       L’administration par pompe nécessite l’utilisation d’insuline ou analogue d’action rapide.
+Les schémas d’administration de type basal-bolus ou par pompe sont ceux qui reproduisent le
+mieux la physiologie normale. En cas de mauvais contrôle, un changement du schéma insulinique
+est discuté après avoir pris en compte les autres paramètres de l’équilibre glycémique (régime
+alimentaire, activité physique, observance).
+
+
+05.2 Diabète de type 2
+Le traitement des patients diabétiques de type 2 repose sur la mise en place de mesures hygiéno-
+diététiques efficaces, puis d’un traitement médicamenteux du contrôle glycémique en cas
+d’objectifs glycémiques (taux cibles d’HbA1c) non atteints. L’objectif glycémique est individualisé
+en fonction du profil des patients et peut évoluer au cours du temps.
+Dans le cas général, la stratégie d’introduction des antidiabétiques recommandés est la suivante :
+     - monothérapie par metformine ;
+     - puis bithérapie par metformine associée à un sulfamide hypoglycémiant si l’objectif
+         glycémique cible n’est pas atteint ;
+     - puis trithérapie par metformine associé à un sulfamide hypoglycémiant et à un inhibiteur
+         des alpha-glucosidases ou à un inhibiteur de la DPP-4 si l’écart à l’objectif
+         est < 1 % d’HbA1c ;
+     - puis si l’objectif glycémique n’est pas atteint, l’insuline est introduite en association à la
+         metformine et à un sulfamide hypoglycémiant. Si l’IMC est supérieur ou égal à 30 ou si la
+         prise de poids sous insuline est préoccupante, il est possible d’utiliser les analogues du
+         GLP-1 en alternative à l’insuline.
+L’insulinothérapie est aussi envisageable dans certaines situations particulières :
+     - au stade de la trithérapie, l’insuline peut être associée à la metformine et à un sulfamide
+         hypoglycémiant si l’écart à l’objectif est ≥ à 1 % d’HbA1c avec la bithérapie ;
+     - au stade de la bithérapie en cas d’intolérance ou de contre-indication aux sulfamides
+         hypoglycémiants ou à la metformine, si l’écart à l’objectif est ≥ à 1 % d’HbA1c sous
+         monothérapie et en cas d’échec de la bithérapie orale, l’insuline peut être associée à la
+         metformine ou au sulfamide hypoglycémiant.
+Lors de la mise en place de l’insulinothérapie, il est recommandé, en adjonction à une
+monothérapie ou à une bithérapie, de débuter :
+     - de préférence par une insuline d’action intermédiaire (NPH) au coucher ;
+     - ou par un analogue à longue durée d’action, si le risque d’hypoglycémie nocturne est
+         préoccupant.
+Si l’objectif glycémique n’est pas atteint malgré la mise en place de l’insulinothérapie, celle-ci sera
+intensifiée. Les différents schémas possibles sont :
+     - un schéma basal-bolus
+     - un schéma en 1 à 3 injections quotidiennes d’insuline biphasique.
+En cas de diabète très déséquilibré, avec des glycémies supérieures à 3 g/L répétées et/ou un
+taux d’HbA1c > 10 %, un schéma insulinique intensifié pourra être instauré d’emblée après avis
+d’un endocrinologue.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   4/18
+Avis 2
+  Le besoin médical en analogue de l’insuline à courte durée d’action, dans la prise en charge du
+  diabète de type 1 et de type 2 est déjà couvert.
+
+
+
+  06 COMPARATEURS CLINIQUEMENT PERTINENTS
+  06.1 Médicaments
+     NOM               CPT*                                                                                        Prise en
+                                                                          Date de                    ASMR
+     (DCI)           identique                 Indication                                SMR                       charge
+                                                                           l’avis                   (Libellé)
+Laboratoire           oui / non                                                                                    Oui/non
+NOVORAPID
+  100 UI/ml                        Traitement du diabète de                17/06/
+                                                                                                                             1
+  (Insuline             Oui        l’adulte, de l’adolescent et de          2015       Important        -              Oui
+   asparte)                        l’enfant à partir de 1 an.                (RI)
+Novo Nordisk
+ HUMALOG                           Traitement des adultes et
+  100 UI/ml                        enfants atteints de diabète             06/02/
+  (Insuline             Oui        nécessitant un traitement par            2013       Important        -              Oui
+    lispro)                        insuline pour maintenir un                (RI)
+      Lilly                        équilibre glycémique normal.
+                                   Traitement des adultes atteints
+                                   de diabète nécessitant un                                        ASMR V
+ HUMALOG
+                                   traitement par insuline pour                                    par rapport
+  200 UI/ml
+                                   maintenir       un      équilibre       04/02/                      aux
+  (Insuline             Oui                                                            Important                       Oui
+                                   glycémique normal. HUMALOG               2015                   présentatio
+    lispro)
+                                   200 UI/ml est également indiqué                                   ns déjà
+      Lilly
+                                   pour la stabilisation initiale du                                inscrites
+                                   diabète.
+   APIDRA
+                                   Traitement du diabète de
+  100 UI/ml                                                                03/02/
+                                   l’adulte, l’adolescent et l’enfant à
+  (Insuline             Oui                                                 2016       Important        -              Oui
+                                   partir de 6 ans nécessitant un
+  glulisine)                                                                 (RI)
+                                   traitement par insuline.
+Sanofi-Aventis
+  *classe pharmaco-thérapeutique
+
+
+
+  06.2 Comparateurs non médicamenteux
+  Sans objet
+
+     Conclusion
+  Les comparateurs cités dans le tableau sont tous cliniquement pertinents.
+
+
+
+  07 INFORMATIONS SUR LE MEDICAMENT AU NIVEAU INTERNATIONAL
+                                                                    PRISE EN CHARGE
+                                  Pays                                         Population(s)
+                                                            OUI/NON
+                                                                        Celle de l’AMM ou restreinte
+                              Danemark                        Oui                   AMM
+
+
+
+  1
+      Evaluation de la prise en charge chez l’enfant d’âge ≥1 an et <2 ans en cours.
+
+
+
+  HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                     5/18
+  Avis 2
+08 RAPPEL DES PRECEDENTES EVALUATIONS
+Sans objet.
+
+
+
+09 ANALYSE DES DONNEES DISPONIBLES
+A l’appui de sa demande, le laboratoire a fourni :
+    - une analyse groupée2 des données de 6 études de phase 1 réalisées chez des adultes
+       diabétiques de type 1 afin d’étudier les propriétés pharmacocinétiques et
+       pharmacodynamiques de FIASP par rapport à NOVORAPID,
+    - une étude, ONSET 13, de phase III, d’une durée de 26 semaines suivie d’une phase
+       d’extension de 26 semaines, contrôlée, randomisée en 3 groupes parallèles chez 1 143
+       patients diabétiques de type 1. Les patients ont été randomisés pour recevoir, selon un
+       schéma basal-bolus en association à l’insuline détémir (1 ou 2 injections par jour) :
+           - Soit FIASP en administration prandiale (0-2 minutes avant les repas) ;
+           - Soit FIASP en administration post-prandiale (20 minutes après le début des
+                repas)4 ;
+           - Soit NOVORAPID en administration prandiale (0-2 minutes avant les repas).
+    - une étude ONSET 4 de phase IIIa, d’une durée de 6 semaines, en double aveugle,
+       contrôlée versus NOVORAPID, randomisée en 2 groupes parallèles. Dans la mesure où
+       l’objectif de cette étude était de comparer la compatibilité (déterminée par la survenue
+       d’occlusions dans le kit de perfusion) de FIASP et de NOVORAPID, administrés par une
+       pompe à insuline chez 37 patients diabétiques de type 1, ses résultats ne sont pas
+       présentés.
+    - une étude NN 1218-3930, exploratoire de phase I, d’une durée de 3 x 2 semaines en cross
+       over, en double aveugle, randomisée, en 3 groupes parallèles (2 formulations de FIASP et
+       NOVORAPID) dont l’objectif principal était de comparer FIASP par rapport à NOVORAPID
+       en perfusion sous cutanée continue sur la glycémie post-prandiale à 2h après un repas test
+       standardisé pendant 14 jours de traitement. Compte tenu de son caractère exploratoire,
+       ses résultats ne sont pas présentés.
+    - une étude, ONSET 25, de phase III, d’une durée de 26 semaines, contrôlée versus
+       NOVORAPID, randomisée en 2 groupes parallèles, en double aveugle. Un total de 699
+       patients diabétiques de type 2 ont été randomisés pour recevoir, selon un schéma basal-
+       bolus en association à l’insuline glargine (1 injection par jour) et à la metformine (1 000
+       mg/j) soit FIASP soit NOVORAPID tous 2 en administration prandiale (0-2 minutes avant le
+       repas).
+    - une étude ONSET 36 de phase III, d’une durée de 18 semaines, en ouvert, chez 336
+       patients diabétiques de type 2, randomisés en 2 groupes parallèles qui avait pour objectif
+       de comparer FIASP en association à l’insuline basale (1 injection par jour) selon un
+       schéma basal-bolus, et à la metformine (1 000 mg/j) par rapport au maintien du traitement
+       par l’insuline basale (1 injection par jour) en association à la metformine (1 000 mg/j).
+2
+   Heise T, Pieber TR, Danne T, et al. A Pooled Analysis of Clinical Pharmacology Trials Investigating the
+Pharmacokinetic and Pharmacodynamic Characteristics of Fast-Acting Insulin Aspart in Adults with Type 1 Diabetes.
+Clin Pharmacokinet. 2017;56:551-9.
+3
+  Russell-Jones D, Bode BW, De Block C et al. Fast-Acting Insulin Aspart Improves Glycemic Control in Basal-Bolus
+Treatment for Type 1 Diabetes: Results of a 26-Week Multicenter, Active-Controlled, Treat-to-Target, Randomized,
+Parallel-Group Trial (Onset 1). Diabetes Care 2017; published online March 29, 2017.
+4
+  Ce schéma d’administration est hors AMM.
+5
+  Bowering K, Case C, Harvey J et al, Faster Aspart Versus Insulin Aspart As Part of a Basal-Bolus Regimen in
+Inadequately Controlled Type 2 Diabetes: The onset 2 Trial. Diabetes Care 2017; published online May 8, 2017.
+6
+  Rodbard HW, Tripathy D, Vidrio Velázquez M et al. Adding fast-acting insulin aspart to basal insulin significantly
+improved glycaemic control in patients with type 2 diabetes: a randomised, 18-week, open-label, phase 3 trial (onset 3).
+Diabetes Obes Metab. 2017 Mar 27 doi: 10.1111/dom.12955. [Epub ahead of print]
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                   6/18
+Avis 2
+09.1 Efficacité
+9.1.1 Etudes de pharmacocinétique/pharmacodynamie
+
+Afin d’étudier les propriétés pharmacocinétiques et pharmacodynamiques de FIASP par rapport à
+NOVORAPID, une étude a été réalisée chez des volontaires sains et 8 études chez des patients
+diabétiques de type 1 (7 études en injection sous-cutanée et une étude en pompe à insuline7). Une
+analyse groupée8 a inclus les données de 6 études de phase 1 réalisées chez 218 adultes,
+diabétiques de type 1 et ayant reçu une dose unique (0,2 U/kg), en injection sous-cutanée, de
+FIASP et de NOVORAPID.
+Comparé à NOVORAPID, le délai d’apparition de FIASP était deux fois plus rapide (4,08 minutes
+pour FIASP versus 8,94 minutes pour NOVORAPID) et le temps nécessaire pour atteindre 50 %
+de la concentration d’insuline maximale était inférieur avec FIASP (22,61 minutes) par rapport à
+NOVORAPID (32,08 minutes), avec une concentration d’insuline asparte environ 4 fois plus
+importante avec FIASP par rapport à NOVORAPID durant les 15 premières minutes ; et 2 fois plus
+importante avec FIASP par rapport à NOVORAPID durant les 30 premières minutes. L’exposition
+totale à l’insuline (ASC 0-12h) et la concentration maximale (Cmax) étaient comparables entre
+FIASP et NOVORAPID. L’effet hypoglycémiant durant les 30 premières minutes (mesuré par les
+aires sous courbes partielles) était de 51 mg/kg avec FIASP et de 29 mg/kg avec NOVORAPID
+(rapport FIASP/NOVORAPID : 1,74 IC 95% [1,47 ; 2,10]).
+
+
+
+
+GIR : débit de perfusion de glucose
+
+
+9.1.2 Diabète de type 1
+
+                                                                  3
+                                               Etude ONSET 1 - NN 1218- 3852 -NCT 01831765
+Objectif principal         Evaluation de l’efficacité sur le contrôle glycémique (variation d’HbA1c) de FIASP par
+de l’étude                 rapport à NOVORAPID en administration prandiale, en association à l’insuline
+                           détémir chez des patients diabétiques de type 1, pendant 26 semaines.
+Méthode                    Etude de non-infériorité, randomisée, en groupes parallèles, en double aveugle pour
+                           les 2 groupes principaux, contrôlée versus insuline asparte (NOVORAPID).
+Population étudiée
+
+7
+  Heise T, Zijlstra E, Nosek L, et al. Pharmacological properties of faster-acting insulin aspart vs insulin aspart in patients
+with type 1 diabetes receiving continuous subcutaneous insulin infusion: A randomized, double-blind, crossover trial.
+Diabetes Obes Metab. 2017; 19: 208-15.
+8
+   Heise T, Pieber TR, Danne T, et al. A Pooled Analysis of Clinical Pharmacology Trials Investigating the
+Pharmacokinetic and Pharmacodynamic Characteristics of Fast-Acting Insulin Aspart in Adults with Type 1 Diabetes.
+Clin Pharmacokinet. 2017;56:551-9.
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                         7/18
+Avis 2
+Principaux critères     Patients adultes diabétiques de type 1, diagnostiqués depuis au moins 12 mois,
+d’inclusion             traités par insuline selon un schéma basal-bolus depuis au moins 12 mois avec
+                        analogue de l’insuline basale (glargine ou détémir) depuis au moins 4 mois ;
+                        7,0% ≤ HbA1c ≤ 9,5%
+                        IMC ≤ 35 kg/m²
+Principaux critères   - Changement anticipé d’un traitement affectant de façon significative le
+de non inclusion            métabolisme du glucose (corticoïde systémique, bêtabloquant, IMAO…) ;
+                      - Maladie cardiovasculaire dans les 6 mois précédents l’essai, définie comme
+                            accident vasculaire cérébral, infarctus du myocarde, insuffisance cardiaque
+                            (NYHA) classe III ou IV, angor instable, pontage coronarien, angioplastie ;
+                      - Hypertension artérielle sévère, non contrôlée, traitée ou non (PAS ≥180 mmHg
+                            et/ou PAD ≥100 mmHg) ;
+                      - Anomalie de la fonction hépatique : ALAT ≥ 2,5 fois la valeur supérieure de la
+                            normale ;
+                      - Anomalie de la fonction rénale : créatinémie ≥180 µmol/L ;
+                      - Hypoglycémie majeure récurrente (plus d’un épisode hypoglycémique sévère au
+                            cours des 12 derniers mois) ou acidocétose diabétique au cours des 6 derniers
+                            mois ;
+                      - Rétinopathie proliférative ou maculopathie nécessitant un traitement rapide
+Groupes de             Insuline basale : insuline détemir (LEVEMIR) : pendant la phase de titration de
+traitement             l’insuline basale, l’insuline basale des patients était remplacée par l’insuline détémir,
+                       dose pour dose, en conservant le nombre d’injections quotidiennes identique à celui
+                       de la période pré-inclusion. L’insuline détémir était titrée toutes les semaines selon
+                       un protocole de titration forcée, individualisé dans l’objectif d’obtenir une glycémie à
+                       jeun avant le petit-déjeuner de 4,0-5,0 mmol/L et, si le patient avait 2 injections
+                       quotidiennes, de 4,0-6,0 mmol/L avant le diner. Après cette période, l’objectif était la
+                       titration de l’insuline prandiale, mais l’insuline basale pouvait être ajustée si besoin.
+                       Changer la fréquence d’administration de l’insuline basale constituait un motif de
+                       sortie de l’étude.
+
+                      Insuline prandiale : FIASP et NOVORAPID.
+                      Pendant la phase de titration de l’insuline basale, tous les patients recevaient
+                      NOVORAPID comme insuline prandiale et conservaient leur méthode d’ajustement
+                      des doses de la période pré-inclusion.
+                      A l’issue de la phase de titration de l’insuline basale, les patients ayant une HbA1c ≤
+                      9,5% (80 mmol/mol) à la semaine 7 étaient randomisés (1 :1 :1) dans l’un des 3
+                      groupes de traitement :
+                                   - FIASP (administration prandiale) + insuline détémir
+                                   - NOVORAPID (administration prandiale) + insuline détémir
+                                   - FIASP (administration post-prandiale) + insuline détémir
+                      Pour les patients utilisant la méthode d’insulinothérapie fonctionnelle s’appuyant sur
+                      le contenu glucidique du repas et la glycémie préprandiale, l’investigateur évaluait
+                      leur capacité à utiliser cette technique. L’objectif était d’obtenir une glycémie pré-
+                      prandiale de 4,0-6,0 mmol/L. En cas d’hypoglycémie, la dose pouvait être réduite par
+                      l’investigateur.
+                       Pour les autres patients, l’insuline bolus devait être titrée 2 fois par semaine selon un
+                       algorithme.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                           8/18
+Avis 2
+Déroulement de
+l’étude
+
+
+
+
+Critère de            Variation d’HbA1c après 26 semaines de traitement par rapport à l’inclusion.
+jugement principal
+Parmi les critères     Séquence de test hiérarchique :
+de jugement           - Variation des excursions glycémiques post-prandiales (GPP) à 2 heures après un
+secondaires                repas test, après 26 semaines traitement ;
+                      - Incidence des épisodes hypoglycémiques confirmés pendant les 26 semaines de
+                           traitement ;
+                      - Variation du poids après 26 semaines de traitement.
+Calcul du nombre       Calcul du nombre de sujets réalisé selon les hypothèses suivantes :
+de sujets             - Marge de non-infériorité de 0,4% pour l’analyse principale et l’étape 3 du test
+nécessaires                hiérarchique, selon les recommandations de la FDA et les conseils scientifiques
+                           de l’EMA
+                      - Puissance de 95% pour l’analyse principale et de 90% pour l’étape 2
+                      - Risque alpha unilatéral de 2,5% pour l’analyse principale et l’étape 3 du test
+                           hiérarchique,
+                      - Différence moyenne entre les 2 traitements de 0% pour l’étape 1, de 1,0% pour
+                           l’étape 2
+                      - Ratio de randomisation 1:1 pour les groupes de traitement
+                      - Taux de non-inclusion de 15% des patients dans l’analyse PP, basé sur des
+                           expériences précédentes
+                       La population minimale devait être de 310 patients/groupe de traitement dans
+                       l’analyse PP pour rejeter l’hypothèse nulle de l’étape 3 avec une puissance de 90%.
+Analyse statistique    Critère principal : modèle de mesures répétées à effets mixtes (MMRM) dans la
+                       population FAS. Analyse de non-infériorité sur la population FAS, non infériorité
+                       démontrée si la borne supérieure de l’IC à 95% de la différence entre les deux
+                       produits était inférieure à 0,4%.
+                       Six analyses de sensibilité ont été menées.
+
+Résultats :
+Au total, 1 143 patients ont été randomisés et 1 062 patients (92,9%) ont terminé les 26 semaines
+de traitement de l’étude. La proportion de patients sortis d’étude ainsi que les motifs de sortie
+d’étude étaient comparables dans les 3 groupes de traitement. La principale raison de sortie de
+l’étude était le retrait du consentement du patient.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       9/18
+Avis 2
+Tableau 1 : Suivi des patients
+
+                                         FIASP              FIASP             NOVORAPID
+                                    (administration    (administration       (administration       TOTAL
+                                       prandiale)      post -prandiale)4        prandiale)
+
+Patients randomisés                   381 (100,0)        382 (100,0)           380 (100,0)      1143 (100,0)
+
+Patients exposés                         386                 377                   380              1143
+
+Patients sortis d’étude                30 (7,9)            27 (7,1)              24 (6,3)         81 (7,1)
+Evénement indésirable                   5 (1,3)             4 (1,0)               2 (0,5)         11 (1,0)
+
+Sortie d’étude pour motif
+                                          7                   10                     8               25
+prévu au protocole d’étude
+
+Perdu de vue                               0                3 (0,8)               2 (0,5)          5 (0,4)
+Grossesse                                  0                1 (0,3)              2 (0,5)          3 (0,3)
+Retrait du consentement                17 (4,5)             7 (1,8)              10 (2,6)         34 (3,0)
+Autres                                  1 (0,3)             2 (0,5)                  0)            3 (0,3)
+Completer      Analysis     Set
+                                      351 (92,1)          355 (92,9)            356 (93,7)       1062 (92,9)
+(CAS)
+
+Full Analysis Set (FAS)               381 (100,0)        382 (100,0)           380 (100,0)      1143 (100,0)
+
+
+Les caractéristiques des patients à l’inclusion étaient comparables dans les 3 groupes de
+traitement.
+
+Tableau 2 : Caractéristiques démographiques des patients à l’inclusion (FAS)
+
+                                                           FIASP
+                                          FIASP                             NOVORAPID
+                                                       (administration
+                                     (administration                       (administration       TOTAL
+                                                           post -
+                                        prandiale)                            prandiale)
+                                                         prandiale)4
+Hommes N (%)                            215 (56,4)       219 (57,3)          238 (62,6)         672 (58,8)
+Femmes N (%)                            166 (43,6)       163 (42,7)          142 (37,4)         471 (41,2)
+Age moyen (Années) (DS)                46,1 (13,8)       43,5 (13,7)         43,7 (14,0)        44,4 (13,9)
+Ancienneté    du          diabète
+                                       20,9 (12,9)       19,5 (12,1)         19,3 (11,8)        19,9 (12,3)
+(Années) (DS)
+HbA1c moyenne (%) (DS)                 7,62 (0,71)       7,63 (0,72)         7,58 (0,68)        7,61 (0,70)
+Glycémie à jeun moyenne
+                                       8,40 (3,09)       8,08 (3,16)         7,87 (2,79)        8,12 (3,02)
+(mmol/L) (DS)
+IMC moyen (kg/m²) (DS)                  26,4 (3,8)        26,9 (4,1)          26,7 (3,7)        26,7 (3,9)
+
+Poids moyen (kg) (DS)                 78,56 (14,89)     80,49 (15,93)       80,15 (15,21)      79,73 (15,36)
+DS : déviation standard
+
+Résultat sur le critère de jugement principal
+Après 26 semaines de traitement, dans la population FAS, la réduction moyenne d’HbA1c a été
+de :
+      - -0,32% dans le groupe FIASP en administration prandiale (HbA1c = 7,31%) ;
+      - -0,17% dans le groupe NOVORAPID en administration prandiale (HbA1c = 7,42%)
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         10/18
+Avis 2
+La non–infériorité de FIASP en administration prandiale par rapport à NOVORAPID a été
+démontrée, avec une différence de variation de -0,15% IC95% [-0,23 ; -0,07].
+Ces résultats ont été confirmés dans toutes les analyses de sensibilité prévues au protocole.
+
+Résultats sur les critères de jugement secondaires (séquence de tests hiérarchiques)
+
+                      Critères                       Estimation [IC 95%]         p           Conclusion
+
+Etape 1 : Variation d’HbA1c après 26 semaines
+de traitement                                                                            Non-infériorité
+                                                    -0,15 [-0,23 ; -0,07]    <0,0001
+Fiasp (administration prandiale) versus                                                  confirmée
+NovoRapid (critère principal)
+
+Etape 2 : Variation de l’excursion de la GPP à
+2 heures après 26 semaines de traitement            -0,67mmol/l [-1,29 ; -               Supériorité
+Fiasp (administration prandiale) versus                                       0,0187
+                                                    0,04]                                confirmée
+NovoRapid
+
+Etape 3 : Variation d’HbA1c après 26 semaines
+de traitement                                                                            Non-infériorité
+Fiasp (administration post-prandiale) versus        0,04% [-0,04 ; 0,12]     <0,0001
+                                                                                         confirmée
+NovoRapid
+
+Etape 4 : Nombre d’épisodes
+hypoglycémiques confirmés après 26                                                       Supériorité non
+semaines de traitement                              1,01 [0,88 ; 1,15]          NS       démontrée : arrêt
+Fiasp (administration prandiale) versus                                                  du test
+NovoRapid
+
+L’évolution de la dose d’insuline rapide à 26 semaines était identique dans les 3 groupes de
+traitement : 36,8 U (0,44 U/kg) dans le groupe FIASP en administration prandiale, 36,6 U (0,46
+U/kg) dans le groupe FIASP en administration post-prandiale et 37,7 U (0,45U/kg) dans le groupe
+NOVORAPID.
+
+Résultats de la phase d’extension : 675 patients (88,7%) ont terminé les 52 semaines de
+traitement de l’étude : 337 (88,5%) patients dans le groupe FIASP et 338 (88,9%) patients dans le
+groupe NOVORAPID. Après 52 semaines de traitement, une différence statistiquement
+significative en faveur de FIASP par rapport à NOVORAPID a été observée avec une différence de
+-0,10% ; IC95% [-0,19; -0,00] (critère de jugement secondaire).
+
+9.1.3 Diabète de type 2
+
+9.1.3.1 Etude versus NOVORAPID
+
+                                          Etude ONSET 2 - NN 1218 – 3853 - NCT01819129
+Objectif principal de     Evaluation de l’efficacité sur le contrôle glycémique (variation d’HbA1c) de FIASP
+l’étude                   par rapport à NOVORAPID en administration prandiale, en association à l’insuline
+                          glargine et à la metformine chez des patients diabétiques de type 2, pendant 26
+                          semaines.
+Méthode                   Etude de non-infériorité, randomisée, en double aveugle versus insuline asparte
+                          (NOVORAPID)
+Population étudiée
+Principaux critères       Patients adultes diabétiques de type 2 et traités par insuline basale (NPH, détémir
+d’inclusion               ou glargine) depuis au moins 6 mois.
+                          Traitement actuel par metformine (au moins 1000 mg) ± sulfamide ± glinide ±
+                          inhibiteur de DPP4 ± inhibiteur de l’alpha-glucosidase sans changement de dose
+                          depuis au moins 3 mois.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       11/18
+Avis 2
+                        7% ≤ HbA1c ≤ 9,5% en cas de traitement antidiabétique oral par metformine seule
+                        ou 7% ≤ HbA1c ≤ 9,0% en cas d’association.
+                        IMC ≤ 40 kg/m².
+Principaux critères     Idem étude ONSET 1
+de non inclusion
+Groupes de                   Insuline basale : insuline glargine
+traitement              Pendant la phase de titration de l’insuline basale, l’insuline basale des patients était
+                        remplacée par l’insuline glargine dose pour dose. L’investigateur titrait l’insuline
+                        basale toutes les semaines en fonction de la glycémie à jeun, avant le petit-
+                        déjeuner, selon un protocole de titration forcée individualisé, avec un objectif
+                        glycémique de 4,0 - 5,0 mmol/L.
+                        Lors de la phase principale de l’étude, la priorité était l’ajustement des doses
+                        d’insuline prandiale et non plus la titration de la basale, mais celle-ci pouvait être
+                        modifiée en cas de nécessité. Le passage de 1 à 2 injections par jour d’insuline
+                        basale constituait un critère de sortie d’étude
+                             Insuline prandiale : FIASP et NOVORAPID
+                        A la randomisation, la dose initiale d’insuline prandiale était de 4 unités avant
+                        chaque repas, puis l’insuline était titrée afin d’atteindre une glycémie pré-prandiale
+                        de 4,0-6,0 mmol/L. L’insuline prandiale devait être injectée avant (0 à 2 minutes) les
+                        3 principaux repas (petit-déjeuner, déjeuner, dîner) et titrée en fonction de la
+                        glycémie avant le repas suivant et au coucher, mesurées le jour précédent :
+                        l’insuline injectée avant le petit déjeuner était titrée sur la glycémie mesurée avant
+                             le déjeuner de la veille ;
+                        l’insuline injectée avant le déjeuner était titrée sur la glycémie mesurée avant le
+                             diner de la veille ;
+                        l’insuline injectée avant le diner était titrée sur la glycémie mesurée avant le
+                             coucher de la veille.
+                        L’investigateur aidait les patients à ajuster les doses 1 fois par semaine, puis les
+                        patients ajustaient eux-mêmes leur dose pendant la semaine selon un algorithme.
+                             Antidiabétiques oraux : La metformine était le seul ADO autorisé.
+Déroulement de
+l’étude
+
+
+
+
+Critère de jugement     Variation d’HbA1c après 26 semaines de traitement par rapport à l’inclusion.
+principal
+Parmi les critères de   Séquence de test hiérarchique :
+jugement                Variation de la glycémie post-prandiale (GPP) à 2 heures après un repas test à 26
+secondaires             semaines ;
+                        Incidence des épisodes hypoglycémiques confirmés à 26 semaines ;
+                        Variation du poids à 26 semaines.
+Calcul du nombre de Calcul du nombre de sujets réalisé selon les hypothèses suivantes :
+sujets nécessaires     - Marge de non-infériorité de 0,4% pour l’HbA1c, selon les recommandations de
+                            la FDA et les conseils scientifiques de l’EMA
+                       - Puissance de 95% pour l’analyse principale et de 90% pour la seconde étape
+                            de la séquence du test hiérarchique
+                            Selon une loi de Student, un risque alpha unilatéral de 2,5% pour l’analyse
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    12/18
+Avis 2
+                               principale et bilatéral de 5,0% pour l’étape 2 de la séquence du test
+                               hiérarchique
+                           - Différence moyenne entre les traitements de 0% pour l’analyse principale, avec
+                               une déviation standard de 1,2% pour la mesure d’HbA1c
+                           - Différence moyenne entre les traitements de 1,0 mmol/L pour l’analyse de
+                               l’étape 2 avec une déviation standard de 4,0 mmol/L
+                           - Ratio de randomisation 1:1 pour les groupes de traitement
+                           - Taux de non-inclusion de 15% des patients dans l’analyse PP, basée sur des
+                               expériences précédentes.
+                           La population minimale devait être de 288 patients par groupe de traitement dans
+                           l’analyse PP pour rejeter l’hypothèse nulle de l’étape 2 avec une puissance de
+                           90%.
+                           Au total, 676 patients devaient être randomisés dans l’un des 2 groupes.
+Analyse statistique        Critère principal : modèle mixte de mesures répétées (MMRM) dans la population
+                           FAS.
+                           Analyse de non-infériorité sur la population FAS démontrée si la borne supérieure
+                           de l’intervalle de confiance à 95% de la différence entre les produits ≤ 0,4%. Les
+                           sujets n’ayant pas de valeur d’HbA1c à l’état initial étaient exclus de l’analyse.
+                           Quatre analyses de sensibilité ont été conduites.
+
+Résultats :
+Au total, 689 patients ont été randomisés.
+
+Tableau 3 : Suivi des patients
+                                                           FIASP                   NOVORAPID                TOTAL
+                                                           N (%)                     N (%)                   N (%)
+ Randomisés                                           345 (100,0)                   344 (100,0)           689 (100,0)
+
+ Exposés                                               341 (98,8)                   341 (99,1)            682 (99,0)
+
+ Sortis d’étude                                         44 (12,8)                      39 (11,3)           83 (12,0)
+                       Evénement indésirable                        2 (0,6)                   5 (1,5)             7 (1,0)
+                        Traitement inefficace                       0 (0,0)                   1 (0,3)             1 (0,1)
+                                 Perdu de vue                       5 (1,4)                   2 (0,6)             7 (1,0)
+           Sortie d’étude pour motif prévu au
+                                                                   20 (5,8)                  15 (4,4)            35 (5,1)
+                                     protocole
+                     Retrait du consentement                       15 (4,3)                  15 (4,4)            30 (4,4)
+                                  Autre raison                      2 (0,6)                   1 (0,3)             3 (0,4)
+ Patients ayant terminé l’étude                        301 (87,2)                   305 (88,7)            606 (88,0)
+
+
+Les caractéristiques des patients à l’inclusion étaient comparables dans les 2 groupes de
+traitement.
+
+Tableau 4 : Caractéristiques démographiques des patients à l’inclusion (FAS)
+
+                                                   FIASP                  NOVORAPID                      TOTAL
+
+Nombre de patients, N                                345                         344                       689
+Age (année), Moyenne (±DS)                        59,6 (9,3)                  59,4 (9,6)                59,5 (9,4)
+Femmes, N (%)                                     182 (52,8)                  171 (49,7)                353 (51,2)
+Hommes, N (%)                                     163 (47,2)                  173 (50,3)                336 (48,8)
+
+Poids (kg) Moyenne (±DS)                         89,0 (16,9)                  88,3 (16,7)               88,7 (16,8)
+IMC (kg/m²) Moyenne (±DS)                         31,5 (4,7)                  31,0 (4,5)                31,2 (4,6)
+Ancienneté du diabète (année) Moyenne
+                                                  13,2 (6,7)                  12,3 (6,3)                12,7 (6,5)
+(±DS)
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                  13/18
+Avis 2
+                                                 FIASP                  NOVORAPID              TOTAL
+
+HbA1c (%) Moyenne (±DS)                        7,96 (0,68)              7,89 (0,71)           7,92 (0,70)
+Glycémie à jeun (mmol/L), Moyenne (±DS)        6,76 (1,82)              6,81 (1,95)           6,78 (1,88)
+DS : déviation standard
+
+Résultat sur le critère de jugement principal
+Lors de la randomisation, l’HbA1c était de 7,96% dans le groupe FIASP et de 7,89% dans le
+groupe NOVORAPID.
+Après les 26 semaines de traitement, la réduction moyenne de l’HbA1c était de :
+- 1,36% dans le groupe FIASP (HbA1c = 6,63%)
+- 1,38% dans le groupe NOVORAPID (HbA1c = 6,59%)
+La non–infériorité de FIASP par rapport à NOVORAPID a été démontrée avec une différence de
+variation de -0,02% IC95% [-0,15 ; 0,10] dans la population FAS.
+Ces résultats ont été confirmés dans toutes les analyses de sensibilité prévues au protocole.
+
+Résultats sur les critères de jugement secondaires
+
+Tableau 5 : Résultats de la séquence de test hiérarchique
+
+
+Critères                                        Estimation [IC 95%]            p      Conclusion
+
+
+Etape 1 : Variation d’HbA1c à 26 semaines                                             Non-infériorité
+                                                -0,02% [-0,15 ; 0,10]     <0,0001
+Fiasp – NovoRapid (critère principal)                                                 confirmée
+
+Etape 2 : Variation de l’excursion de la GPP
+                                                                                      Supériorité non
+à 2 heures après un repas test à 26             -0,36 mmol/L [-0,81 ;
+semaines                                                                      NS      confirmée : arrêt du
+                                                0,08]
+Fiasp - NovoRapid                                                                     test
+
+
+L’évolution de la dose d’insuline rapide était comparable dans les deux groupes de traitement. A
+26 semaines la dose d’insuline rapide était de 62,9 U/jour (0,68 U/kg) dans le groupe FIASP et de
+59,1 U/jour (0,65 U/kg) dans le groupe NOVORAPID.
+
+
+9.1.3.2 Etude FIASP + insuline basale + metformine versus insuline basale +
+           metformine (ONSET 3)
+
+Il s’agit d’une étude randomisée en 2 groupes parallèles, contrôlée, en ouvert, d’une durée de 18
+semaines. L’objectif principal était de démontrer la supériorité de FIASP (en association à l’insuline
+basale et à la metformine) sur le contrôle glycémique par rapport à une optimisation d'un
+traitement avec de l’insuline basale en association à la metformine.
+Les caractéristiques des patients à l’inclusion étaient comparables entre les 2 groupes de
+traitement avec un âge moyen de 57,4 ans, une Hb1Ac moyenne de 7,93%, une glycémie à jeun
+de 7,5 mmol/L et un IMC de 30,8 kg/m². 64,8% des patients étaient traités par de l’insuline
+glargine, 21,2% par l’insuline NPH et 14,0% par l’insuline détémir.
+A l’issue des 18 semaines de traitement, une diminution de l’HbA1c était observée dans les 2
+groupes de traitement :
+     - -1,16% pour les patients traités par FIASP (Hb1Ac = 6,78%),
+     - -0,22% pour les patients traités par insuline basale (Hb1Ac= 7,70%).
+La supériorité de FIASP par rapport à l’insuline basale a été démontrée avec une différence de
+-0,94% ; IC95% [-1,17 ; -0,72]).
+La réduction des excursions de la GPP à 2 heures (ASG) était significativement plus importante
+avec FIASP (différence - 1,14 mmol/L, IC95% [-1,50 ; -0,77].
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                        14/18
+Avis 2
+La dose d’insuline totale a augmenté plus fortement dans le groupe FIASP en raison de l’ajout de
+l’insuline prandiale. A la semaine 1, la dose d’insuline totale était de 66,5 U (0,8 U/kg) dans le
+groupe FIASP et 52,0 U (0,6 U/kg) dans le groupe insuline basale. Après 18 semaines, cette dose
+était respectivement de 101,8 U (1,2 U/kg) et 55,9 U (0,6 U/kg).
+
+
+09.2 Tolérance/Effets indésirables
+9.2.1 Données issues des études cliniques
+
+Dans la population de l’analyse groupée des études ONSET 1, ONSET 2, ONSET 3 et ONSET 4,
+1244 patients ont été exposés au traitement par FIASP soit une exposition de 570,5 patients-
+années. Un total de 967 patients a été exposé pendant au moins 26 semaines. Dans la population
+de l’analyse groupée, le pourcentage de patients ayant rapporté des événements indésirables était
+de 61% pour FIASP et de 65% pour le comparateur (NOVORAPID et insuline basale)
+correspondant à des taux de 394 et 376 événements pour 100 patients-années, respectivement.
+La plupart des évènements indésirables rapportés étaient non graves et non imputables aux
+traitements de l’étude.
+Outre les hypoglycémies, les événements indésirables les plus fréquemment rapportés chez les
+patients traités par FIASP et les comparateurs concernaient les rhinopharyngites (37,1 et 33,9
+événements pour 100 patients-années, respectivement), les infections des voies respiratoires
+supérieures (14,9 et 17,8 événements pour 100 patients-années, respectivement) et les céphalées
+(14,8 et 17,2 événements pour 100 patients-années, respectivement).
+Il n’a pas été observé de différence entre FIASP et NOVORAPID concernant la fréquence des
+événements indésirables, leur gravité et l’imputabilité au produit de l’étude
+
+9.2.2 Données issues des PSUR
+
+Sans objet.
+
+9.2.3 Données issues du RCP
+
+Dans le RCP, l’hypoglycémie est identifiée en tant qu’événement indésirable « très fréquent », les
+manifestations allergiques cutanées et les réactions au site d’injection/de perfusion en tant
+qu’événement indésirable « fréquent », l’hypersensibilité et la lipodystrophie en tant qu’événement
+indésirable « peu fréquent ».
+9.2.4 Données issues d’autres sources
+
+Sans objet.
+
+
+09.3 Données d’utilisation/de prescription
+Sans objet.
+
+
+09.4 Résumé & discussion
+Chez 1 143 patients diabétiques de type 1, après 26 semaines de traitement, la réduction
+moyenne d’HbA1c a été de :
+       - -0,32% dans le groupe FIASP (HbA1c = 7,31%) ;
+       - -0,17% dans le groupe NOVORAPID (HbA1c = 7,42%)
+en administration prandiale selon un schéma basal-bolus en association à l’insuline détémir (1 ou
+2 injections par jour). La non–infériorité de FIASP en administration prandiale par rapport à
+NOVORAPID a été démontrée, avec une différence de variation de -0,15% IC95% [-0,23 ; -0,07]
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique               15/18
+Avis 2
+dans la population FAS. Ces résultats ont été confirmés dans toutes les analyses de sensibilité
+prévues au protocole.
+Chez 689 patients diabétiques de type 2 randomisés en 2 groupes parallèles afin de recevoir, en
+association à l’insuline glargine (une injection par jour), FIASP ou NOVORAPID administrés au
+moment des repas, après les 26 semaines de traitement, la réduction moyenne de l’HbA1c a été
+de :
+- 1,36% dans le groupe FIASP (HbA1c = 6,63%)
+- 1,38% dans le groupe NOVORAPID (HbA1c = 6,59%)
+La non–infériorité de FIASP par rapport à NOVORAPID a été démontrée avec une différence de
+variation de -0,02% IC95% [-0,15 ; 0,10] dans la population FAS. Ces résultats ont été confirmés
+dans toutes les analyses de sensibilité.
+Dans la population de l’analyse groupée de 4 études (ONSET 1, ONSET 2, ONSET 3 et ONSET
+4), le pourcentage de patients ayant rapporté des événements indésirables était de 61% pour
+FIASP et de 65% pour le comparateur (NOVORAPID et insuline basale) correspondant à des taux
+de 394 et 376 événements pour 100 patients-années, respectivement. La plupart des évènements
+indésirables rapportés étaient non graves et non imputables aux traitements de l’étude.
+Outre les hypoglycémies, les événements indésirables les plus fréquemment rapportés chez les
+patients traités par FIASP et les comparateurs concernaient les rhinopharyngites (37,1 et 33,9
+événements pour 100 patients-années, respectivement), les infections des voies respiratoires
+supérieures (14,9 et 17,8 événements pour 100 patients-années, respectivement) et les céphalées
+(14,8 et 17,2 événements pour 100 patients-années, respectivement).
+Compte tenu des données d’efficacité et de tolérance disponibles, il n’est pas attendu d’impact de
+FIASP sur la morbi-mortalité et la qualité de vie. En conséquence, FIASP n’apporte pas de
+réponse supplémentaire au besoin de santé médical couvert. Il n’est pas démontré d’impact sur
+l’organisation des soins.
+
+
+09.5 Programme d’études
+Des études de phase III ont pour objectif l’étude de l’utilisation de FIASP dans des populations
+additionnelles diabétiques de type 1 (Etude ONSET 7 chez l’enfant et l’adolescent) et d’apporter
+des données cliniques pour une utilisation optimale dans le diabète de type 1 (ONSET 5
+administré en pompe chez l’adulte, ONSET 8 en association à l’insuline dégludec chez l’adulte) et
+de type 2 (ONSET 9 en remplacement d’un autre analogue).
+
+
+
+010           PLACE DANS LA STRATEGIE THERAPEUTIQUE
+Le résumé des caractéristiques du produit doit être respecté.
+
+FIASP est un traitement de première intention, chez les patients diabétiques insulinorequérants,
+nécessitant l’administration d’insuline rapide pour contrôler les glycémies post-prandiales selon un
+schéma multi-injections (en association à l’insuline basale) ou en pompe à insuline.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique               16/18
+Avis 2
+011           CONCLUSIONS DE LA COMMISSION
+
+Considérant l’ensemble de ces informations et après débat et vote, la Commission estime :
+
+
+011.1         Service Médical Rendu
+   Les diabètes de type 1 et de type 2 sont des maladies chroniques aux complications
+potentiellement graves, notamment cardiovasculaires et rénales.
+  FIASP entre dans le cadre d’un traitement symptomatique de l’hyperglycémie.
+  Le rapport efficacité/effets indésirables de cette spécialité est important.
+  Cette spécialité fait partie des traitements recommandés dans la prise en charge du diabète de
+type 1 et de type 2. Il s’agit d’un traitement de 1ère intention dans la prise en charge du diabète de
+type 1. Dans le diabète de type 2, cette spécialité est un traitement de dernière intention dans le
+cadre de l’intensification d’une insulinothérapie.
+  Il existe des alternatives médicamenteuses à cette spécialité.
+
+        Intérêt de santé publique
+     Compte tenu de l’absence de démonstration sur des critères de santé publique, notamment
+     réduction de mortalité ou de morbidité, amélioration de qualité de vie, modification de
+     l’organisation des soins, FIASP n’est pas susceptible d’avoir un impact sur la santé publique
+     dans la prise en charge actuelle du diabète de type 1 ou de type 2.
+
+En conséquence, la Commission considère que le service médical rendu par FIASP est
+important dans l’indication de l’AMM.
+
+La Commission donne un avis favorable à l'inscription sur la liste des spécialités
+remboursables aux assurés sociaux et sur la liste des spécialités agréées à l’usage des
+collectivités dans l’indication « traitement du diabète de l’adulte » et aux posologies de
+l’AMM.
+
+   Taux de remboursement proposé : 65 %
+
+
+011.2         Amélioration du Service Médical Rendu
+Compte tenu des données d’efficacité disponibles montrant la non infériorité de FIASP par
+rapport à l’insuline asparte (NOVORAPID) dans une étude réalisée dans le diabète de type 1
+et une étude dans le diabète de type 2, la commission estime que FIASP n’apporte pas
+d’amélioration du service médical rendu (ASMR V) par rapport à NOVORAPID.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 17/18
+Avis 2
+011.3            Population cible
+La prévalence du diabète traité en France a été actualisée à 5,0% en 2015, soit plus de 3,3
+millions de personnes traitées pour un diabète9. Le diabète de type 1 représente 5,6 %10 des
+patients diabétiques, soit environ 185 000 patients.
+Les données de l’étude ENTRED 2007-2010 montrent que le diabète de type 2 est la forme la plus
+fréquente avec 91,9% des patients diabétiques (soit 3,06 millions de personnes traités pour un
+diabète de type 2). L’étude ENTRED a montré qu’environ 17% des patients traités pour un diabète
+de type 2 recevaient de l’insuline. Par ailleurs, l’étude ECODIA 2 a montré que 61% des patients
+sous insulinothérapie étaient traités par une association insuline + ADO et que 40% de ces
+patients n’étaient pas suffisamment contrôlés. Soit une population cible estimée à environ 127 000
+patients.
+
+Estimation
+La population cible de FIASP correspondant aux patients diabétiques de type 1 et aux
+patients diabétiques de type 2 non contrôlés par un traitement par insuline basale et
+metformine et nécessitant une intensification de leur traitement par une insuline prandiale
+peut être estimée à environ 312 000.
+
+
+
+012              RECOMMANDATIONS DE LA COMMISSION
+     Conditionnements
+Ils sont adaptés aux conditions de prescription selon l’indication, la posologie et la durée de
+traitement.
+
+
+
+
+9
+     INVS.     Prévalence-et-incidence-du-diabete,   http://invs.santepubliquefrance.fr/Dossiers-thematiques/Maladies-
+chroniques-et-traumatismes/Diabete/Donnees-epidemiologiques/Prevalence-et-incidence-du-diabete.
+10
+   Haute Autorité de Santé. Avis de la CNEDIMTS de FreeStyle libre en date du 12 juillet 2016.
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                               18/18
+Avis 2
+

@@ -1,0 +1,1448 @@
+Tragende Gründe
+zum Beschluss des Gemeinsamen
+Bundesausschusses über eine Änderung der
+Arzneimittel-Richtlinie (AM-RL):
+Anlage XII – Beschlüsse über die
+Nutzenbewertung von Arzneimitteln mit neuen
+Wirkstoffen nach § 35a SGB V
+Insulin degludec (Neubewertung aufgrund neuer
+Wissenschaftlicher Erkenntnisse)
+
+Vom 16. Mai 2019
+
+
+Inhalt
+1.       Rechtsgrundlage ........................................................................................................... 2
+2.       Eckpunkte der Entscheidung ...................................................................................... 2
+         2.1    Zusatznutzen des Arzneimittels im Verhältnis zur zweckmäßigen
+         Vergleichstherapie .......................................................................................................... 3
+         2.1.1    Zugelassenes Anwendungsgebiet von Insulin degludec (Tresiba®) gemäß
+         Fachinformation............................................................................................................... 3
+         2.1.2    Zweckmäßige Vergleichstherapie .................................................................... 3
+         2.1.3    Ausmaß und Wahrscheinlichkeit des Zusatznutzens ...................................... 8
+         2.1.4    Kurzfassung der Bewertung ........................................................................... 19
+         2.2    Anzahl der Patienten bzw. Abgrenzung der für die Behandlung infrage
+         kommenden Patientengruppen..................................................................................... 21
+         2.3    Anforderungen an eine qualitätsgesicherte Anwendung................................... 21
+         2.4    Therapiekosten................................................................................................... 21
+3.       Bürokratiekosten......................................................................................................... 27
+4.       Verfahrensablauf......................................................................................................... 27
+1.      Rechtsgrundlage
+
+Nach § 35a Absatz 1 SGB V bewertet der Gemeinsame Bundesausschuss (G-BA) den
+Nutzen von erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen. Hierzu gehört
+insbesondere die Bewertung des Zusatznutzens und seiner therapeutischen Bedeutung. Die
+Nutzenbewertung erfolgt aufgrund von Nachweisen des pharmazeutischen Unternehmers,
+die er einschließlich aller von ihm durchgeführten oder in Auftrag gegebenen klinischen
+Prüfungen spätestens zum Zeitpunkt des erstmaligen Inverkehrbringens als auch der
+Zulassung neuer Anwendungsgebiete des Arzneimittels an den G-BA elektronisch zu
+übermitteln hat, und die insbesondere folgenden Angaben enthalten müssen:
+
+     1. zugelassene Anwendungsgebiete,
+
+     2. medizinischer Nutzen,
+
+     3. medizinischer Zusatznutzen im Verhältnis zur zweckmäßigen Vergleichstherapie,
+
+     4. Anzahl der Patienten und Patientengruppen, für die ein therapeutisch bedeutsamer
+        Zusatznutzen besteht,
+
+     5. Kosten der Therapie für die gesetzliche Krankenversicherung,
+
+     6. Anforderung an eine qualitätsgesicherte Anwendung.
+
+Der G-BA kann das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)
+mit der Nutzenbewertung beauftragen. Die Bewertung ist nach § 35a Absatz 2 SGB V
+innerhalb von drei Monaten nach dem maßgeblichen Zeitpunkt für die Einreichung der
+Nachweise abzuschließen und im Internet zu veröffentlichen.
+Nach § 35a Absatz 3 SGB V beschließt der G-BA über die Nutzenbewertung innerhalb von
+drei Monaten nach ihrer Veröffentlichung. Der Beschluss ist im Internet zu veröffentlichen
+und ist Teil der Arzneimittel-Richtlinie.
+
+
+2.      Eckpunkte der Entscheidung
+
+Der Wirkstoff Insulin degludec als Wirkstoff des Arzneimittels Tresiba® wurde erstmals am 1.
+Mai 2014 in den Verkehr gebracht. Mit Beschluss vom 15. Februar 2018 hat der G-BA auf
+Antrag seiner Mitglieder eine erneute Nutzenbewertung gemäß 35a Abs. 1 i.V.m. § 3 Abs. 1
+Nr. 4 AM-NutzenV und 5. Kapitel § 13 Verfahrensordnung (VerfO) für den Wirkstoff Insulin
+degludec veranlasst. Die erneute Nutzenbewertung wurde aufgrund neuer wissenschaftlicher
+Erkenntnisse aus der abgeschlossenen DEVOTE (NCT01959529) - Studie veranlasst.
+Tresiba® war zwischenzeitlich nicht auf dem deutschen Markt verfügbar und wurde zum 1.
+Dezember 2018 erneut in Verkehr gebracht.
+Maßgeblicher Zeitpunkt gemäß 5. Kapitel § 8 Absatz 1 Nummer 6 der Verfahrensordnung
+des G-BA (VerfO) ist der Zeitpunkt des erneuten Inverkehrbringens des Wirkstoffs Insulin
+degludec am 1. Dezember 2018. Der pharmazeutische Unternehmer hat gemäß § 4
+Absatz 3 Nummer 4 der Arzneimittel-Nutzenbewertungsverordnung (AM-NutzenV) i.V.m.
+5. Kapitel § 8 Absatz 1 Nummer 6 VerfO am 28. November 2018 das abschließende Dossier
+beim G-BA eingereicht.
+Der G-BA hat das IQWiG mit der Bewertung des Dossiers beauftragt. Die Nutzenbewertung
+wurde am 1. März 2019 auf den Internetseiten des G-BA (www.g-ba.de) veröffentlicht und
+damit das schriftliche Stellungnahmeverfahren eingeleitet. Es wurde darüber hinaus eine
+mündliche Anhörung durchgeführt.
+2
+Der G-BA hat seine Entscheidung zu der Frage, ob ein Zusatznutzen von Insulin degludec
+gegenüber der zweckmäßigen Vergleichstherapie festgestellt werden kann, auf der Basis
+des Dossiers des pharmazeutischen Unternehmers, der vom IQWiG erstellten
+Dossierbewertung und der hierzu im schriftlichen und mündlichen Anhörungsverfahren
+vorgetragenen Stellungnahmen getroffen. Um das Ausmaß des Zusatznutzens zu
+bestimmen, hat der G-BA die Daten, die die Feststellung eines Zusatznutzens rechtfertigen,
+nach Maßgabe der in 5. Kapitel § 5 Absatz 7 VerfO festgelegten Kriterien im Hinblick auf ihre
+therapeutische Relevanz (qualitativ) bewertet. Auf die vom IQWiG vorgeschlagene Methodik
+gemäß den Allgemeinen Methoden 1 wurde in der Nutzenbewertung von Insulin degludec
+nicht abgestellt.
+Ausgehend hiervon ist der G-BA, unter Berücksichtigung der eingegangenen
+Stellungnahmen sowie der mündlichen Anhörung, zu folgender Bewertung gelangt:
+
+2.1      Zusatznutzen des Arzneimittels im Verhältnis zur zweckmäßigen
+         Vergleichstherapie
+
+2.1.1    Zugelassenes Anwendungsgebiet von Insulin degludec (Tresiba®) gemäß
+         Fachinformation
+
+Behandlung des Diabetes mellitus bei Erwachsenen, Jugendlichen und Kindern ab dem Alter
+von 1 Jahr.
+
+Hinweis: die erneute Nutzenbewertung von Insulin degludec bezieht sich ausschließlich auf
+das Anwendungsgebiet zur Behandlung von Erwachsenen mit Diabetes mellitus Typ 2
+
+2.1.2    Zweckmäßige Vergleichstherapie
+
+Die zweckmäßige Vergleichstherapie wurde wie folgt bestimmt:
+In der Mono- oder Kombinationstherapie
+
+a)    Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+      die Behandlung mit mindestens zwei blutzuckersenkenden Arzneimitteln (außer Insulin)
+      den Blutzucker nicht ausreichend kontrollieren
+
+      Zweckmäßige Vergleichstherapie:
+         • Humaninsulin + Metformin oder
+         • Humaninsulin + Empagliflozin 2 oder
+         • Humaninsulin + Liraglutid2 oder
+         • Humaninsulin,     wenn     die     bestimmten     Kombinationspartner    gemäß
+           Fachinformation unverträglich oder kontraindiziert oder aufgrund eines
+           fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind
+
+b)    Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+      die Behandlung mit Insulin (mit oder ohne einem anderen blutzuckersenkenden
+      Arzneimittel) den Blutzucker nicht ausreichend kontrollieren
+
+
+1
+   Allgemeine Methoden, Version 5.0 vom 10.07.2017. Institut für Qualität und Wirtschaftlichkeit im
+Gesundheitswesen, Köln.
+2
+  Empagliflozin bzw. Liraglutid nur für Patienten mit manifester kardiovaskulärer Erkrankung, die weitere
+Medikation zur Behandlung der kardiovaskulären Risikofaktoren, insbesondere Antihypertensiva,
+Antikoagulanzien und/oder Lipidsenker erhalten (zur Operationalisierung siehe Studienprotokolle: Zinman et al.
+Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373:2117-28. DOI
+10.1056/NEJMoa1504720 bzw. Marso et al. Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes, N Engl
+J Med 2016; 375:311-322. DOI: 10.1056/NEJMoa1603827).
+
+                                                                                                            3
+        Zweckmäßige Vergleichstherapie:
+           • Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin2
+             oder Liraglutid2)
+
+Kriterien nach 5. Kapitel, § 6 der Verfahrensordnung des G-BA:
+Die zweckmäßige Vergleichstherapie muss eine nach dem allgemein anerkannten Stand der
+medizinischen Erkenntnisse zweckmäßige Therapie im Anwendungsgebiet sein (§ 12
+SGB V), vorzugsweise eine Therapie, für die Endpunktstudien vorliegen und die sich in der
+praktischen Anwendung bewährt hat, soweit nicht Richtlinien nach § 92 Abs. 1 SGB V oder
+das Wirtschaftlichkeitsgebot dagegensprechen.
+Bei der Bestimmung der zweckmäßigen Vergleichstherapie sind nach 5. Kapitel, § 6 Abs. 3
+VerfO insbesondere folgende Kriterien zu berücksichtigen:
+    1. Sofern als Vergleichstherapie eine Arzneimittelanwendung in Betracht kommt, muss
+       das Arzneimittel grundsätzlich eine Zulassung für das Anwendungsgebiet haben.
+    2. Sofern als Vergleichstherapie eine nicht-medikamentöse Behandlung in Betracht
+       kommt, muss diese im Rahmen der GKV erbringbar sein.
+    3. Als Vergleichstherapie sollen bevorzugt Arzneimittelanwendungen oder nicht-
+       medikamentöse Behandlungen herangezogen werden, deren patientenrelevanter
+       Nutzen durch den Gemeinsamen Bundesausschuss bereits festgestellt ist.
+    4. Die Vergleichstherapie soll nach dem allgemein anerkannten Stand der medizinischen
+       Erkenntnisse zur zweckmäßigen Therapie im Anwendungsgebiet gehören.
+
+Begründung auf Basis der Kriterien nach 5. Kapitel, § 6 Abs. 3 VerfO:
+zu 1.     Metformin, Sulfonylharnstoffe und Insulin (Humaninsulin, Insulinanaloga) sind für die
+          Mono- und die Kombinationstherapie zugelassen. Zulassungen für die Mono- wie für
+          die Kombinationstherapie bestehen auch für andere Antidiabetika, u.a. Alpha-
+          Glukosidaseinhibitoren, Dipeptidyl-Peptidase-4-Inhibitoren (Gliptine), Glinide, SGLT-2-
+          Inhibitoren (Gliflozine) und Inkretinmimetika
+zu 2.     Eine nicht-medikamentöse Behandlung kommt in diesem Anwendungsgebiet als
+          Vergleichstherapie nicht in Betracht.
+zu 3.     Es liegen folgende Beschlüsse des G-BA über die Nutzenbewertung von Arzneimitteln
+          mit neuen Wirkstoffen nach § 35a SGB V im Anwendungsgebiet Diabetes mellitus
+          Typ 2 bei Erwachsenen vor:
+          − Linagliptin (Beschluss vom 21. Februar 2013: Ein Zusatznutzen gilt als nicht
+            belegt, für die Kombination mit Metformin ist der Zusatznutzen nicht belegt;
+            Beschluss vom 16. Mai 2013 (neues Anwendungsgebiet): Ein Zusatznutzen gilt als
+            nicht belegt),
+          − Dapagliflozin (Beschluss vom 6. Juni 2013: Ein Zusatznutzen ist nicht belegt;
+            Beschluss vom 21. Juni 2018 (Neubewertung aufgrund neuer wissenschaftlicher
+            Erkenntnisse bezogen ausschließlich auf die Zweifachkombinationstherapie mit
+            Metformin): Ein Zusatznutzen ist nicht belegt),
+          − Lixisenatid (Beschluss vom 5. September 2013: Ein Zusatznutzen ist nicht belegt,
+            für die Kombination mit oralen Antidiabetika gilt der Zusatznutzen als nicht belegt),
+          − Saxagliptin/Metformin (Beschluss vom 1. Oktober 2013: Ein Zusatznutzen ist nicht
+            belegt),
+          − Vildagliptin (Beschluss vom 1. Oktober 2013: Ein Zusatznutzen ist nicht belegt;
+            Beschluss vom 21. Mai 2015: Ein Zusatznutzen ist nicht belegt),
+
+4
+− Vildagliptin/Metformin (Beschluss vom 1. Oktober 2013: Ein Zusatznutzen ist nicht
+  belegt),
+− Dapagliflozin/Metformin (Beschluss vom 7. August 2014: Ein Zusatznutzen ist
+  nicht belegt; Beschluss vom 21. Juni 2018 (Neubewertung aufgrund neuer
+  wissenschaftlicher Erkenntnisse): Ein Zusatznutzen ist nicht belegt),
+− Canagliflozin (Beschluss vom 4. September 2014: Ein Zusatznutzen ist nicht
+  belegt),
+− Insulin degludec (Beschluss vom 16. Oktober 2014: Ein Zusatznutzen ist nicht
+  belegt; Beschluss vom 4. Dezember 2014 (neues Anwendungsgebiet): Ein
+  Zusatznutzen gilt als nicht belegt), Beschluss vom 20. August 2015 (neues
+  Anwendungsgebiet): Ein Zusatznutzen ist nicht belegt)
+− Canagliflozin/Metformin (Beschluss vom 5. Februar 2015: Ein Zusatznutzen ist
+  nicht belegt),
+− Albiglutid (Beschluss vom 19. März 2015: Hinweis für einen geringen
+  Zusatznutzen für die Kombination mit Metformin, für andere Therapieregime ist der
+  Zusatznutzen nicht belegt),
+− Dulaglutid (Beschluss vom 16. Juli 2015: Anhaltspunkt für einen geringen
+  Zusatznutzen für die Kombination mit Insulin (mit oder ohne oralem
+  Antidiabetikum), ansonsten ist der Zusatznutzen nicht belegt),
+− Insulin degludec/Liraglutid (Beschluss vom 15. Oktober 2015: Ein Zusatznutzen ist
+  nicht belegt; Beschluss vom 4. Februar 2016 (neues Anwendungsgebiet): Ein Zu-
+  satznutzen ist nicht belegt),
+− Empagliflozin (Beschluss vom 1. September 2016: Anhaltspunkt für einen
+  beträchtlichen Zusatznutzen für Patienten mit manifester kardiovaskulärer
+  Erkrankung in Kombination mit weiterer Medikation zur Behandlung
+  kardiovaskulärer Risikofaktoren für die Kombination mit einem oder mehreren
+  blutzuckersenkenden Arzneimitteln; Anhaltspunkt für einen geringen Zusatznutzen
+  für Patienten ohne manifeste kardiovaskuläre Erkrankung für die Kombination mit
+  Metformin; für alle anderen Patientengruppen ist der Zusatznutzen nicht belegt),
+− Empagliflozin/Metformin (Beschluss vom 1. September 2016: Ein Zusatznutzen ist
+  nicht belegt),
+− Saxagliptin (Beschluss vom 15. Dezember 2016: Ein Zusatznutzen ist nicht
+  belegt),
+− Saxagliptin/Metformin (Beschluss vom 15. Dezember 2016: Ein Zusatznutzen ist
+  nicht belegt); Beschluss vom 1. Februar 2018 (neues Anwendungsgebiet): Ein
+  Zusatznutzen ist nicht belegt),
+− Sitagliptin (Beschluss vom 15. Dezember 2016: Anhaltspunkt für einen geringen
+  Zusatznutzen für die Kombination mit Metformin; für alle weiteren
+  Patientengruppen ist der Zusatznutzen nicht belegt; Beschluss vom 22. März 2019
+  (erneute Nutzenbewertung nach Fristablauf bezogen ausschließlich auf die
+  Zweifachkombinationstherapie mit Metformin): Anhaltspunkt für einen geringen
+  Zusatznutzen)
+− Sitagliptin/Metformin (Beschluss vom 15. Dezember 2016: Ein Zusatznutzen ist
+  nicht belegt),
+− Insulin glargin/Lixisenatid (Beschluss vom 16. August 2018: Ein Zusatznutzen ist
+  nicht belegt)
+
+
+                                                                                 5
+        − Ertugliflozin/Sitagliptin (Beschluss vom 1. November 2018: Ein Zusatznutzen ist
+          nicht belegt)
+        − Semaglutid (Beschluss vom 2. Mai 2019: Anhaltspunkt für einen geringen Zusatz-
+          nutzen für Patienten mit manifester kardiovaskulärer Erkrankung in Kombination
+          mit weiterer Medikation zur Behandlung kardiovaskulärer Risikofaktoren für die
+          Kombination mit einem oder mehreren blutzuckersenkenden Arzneimitteln; für alle
+          anderen Patientengruppen ist der Zusatznutzen nicht belegt).
+
+zu 4.   Es wird vorausgesetzt, dass für die Patienten, die für Insulin degludec in Frage
+        kommen, eine Insulintherapie angezeigt ist. Die Therapiesituation „wenn Metformin
+        aufgrund einer Unverträglichkeit oder Kontraindikation ungeeignet ist“ bzw. „wenn
+        Metformin allein den Blutzuckerspiegel nicht ausreichend kontrolliert“ wird im Rahmen
+        der Nutzenbewertung nicht betrachtet, da in dieser Therapiesituation eine Insulingabe
+        in der Regel nicht indiziert ist. Es werden allein die Therapiesituationen betrachtet, bei
+        denen eine Insulintherapie angezeigt ist. Des Weiteren wird vorausgesetzt, dass eine
+        Pharmakotherapie erst nach Versagen einer alleinigen Basistherapie (nicht-
+        medikamentöse Maßnahmen wie Diät, Bewegung etc.) begonnen und stets in
+        Kombination mit dieser durchgeführt wird.
+
+        Metformin ist bei nachgewiesener Reduktion von Gesamtmortalität und
+        Herzinfarktrisiko orales Antidiabetikum der ersten Wahl 3, 4. Für Humaninsulin ist eine
+        Reduktion diabetesbedingter mikrovaskulärer Komplikationen belegt 5.
+        Vor dem Hintergrund des belegten Nutzens durch Beeinflussung patientenrelevanter
+        Endpunkte wie mikro- bzw. makrovaskuläre Folgekomplikationen sind demnach nach
+        dem allgemein anerkannten Stand der medizinischen Erkenntnisse Metformin und
+        Insulin als zweckmäßige Therapien im Anwendungsgebiet anzusehen.
+        Folglich stellt die Kombination aus Metformin und Humaninsulin nach Versagen von
+        mindestens zwei blutzuckersenkenden Arzneimitteln (außer Insulin) eine
+        Standardtherapie im Anwendungsgebiet dar.
+        Darüber hinaus liegen dem Beschluss zu Empagliflozin u.a. Daten der Studie EMPA-
+        REG-Outcome zugrunde. Auf Basis der Studie EMPA-REG Outcome wurde
+        Empagliflozin in Kombination mit Humaninsulin hinsichtlich kardiovaskulärer
+        Endpunkte für Patienten mit Diabetes mellitus Typ 2 ausschließlich mit manifester
+        kardiovaskulärer Erkrankung in Kombination mit weiterer Medikation zur Behandlung
+        kardiovaskulärer Risikofaktoren6 als Teil der zweckmäßigen Vergleichstherapie
+        benannt. Eine manifeste kardiovaskuläre Erkrankung wurde dabei gemäß
+        Einschlusskriterien der EMPA-REG Outcome-Studie operationalisiert als mind. eine
+        der folgenden Bedingungen: bestätigter Myokardinfarkt, klinisch relevante koronare
+        Eingefäßerkrankung mit ≥ 50% Stenose, koronare Mehrgefäßerkrankung, instabile
+        Angina Pectoris mit angiografischem Nachweis einer koronaren Herzerkrankung,
+        ischämischer oder hämorrhagischer Schlaganfall oder periphere arterielle
+        Verschlusserkrankung mit klinischer relevanter Durchblutungsstörung, siehe
+        Studienprotokoll, Zinman et al. Empagliflozin, cardiovascular outcomes, and mortality
+        in type 2 diabetes. N Engl J Med 2015; 373: 2117-28. DOI: 10.1056/
+        NEJMoa1504720.
+
+
+
+3
+  UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive blood-glucose control with metformin on
+  complications in overweight patients with type 2 diabetes (UKPDS 34). Lancet 1998; 352(9131):854-865.
+4
+  Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HA. 10-year follow-up of intensive glucose control in type 2
+  diabetes. N Engl J Med 2008; 359(15):1577-1589.
+5
+  UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin
+  compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33).
+  Lancet 1998; 352(9131):837-853
+
+6
+          Weiterhin liegt für Liraglutid der Rapid Report des IQWiG zur kardiovaskulären
+          Langzeitstudie LEADER vor. Auf Basis dieser positiven Studienergebnisse bei
+          kardiovaskulären Endpunkten kam der G-BA zum Schluss, dass Liraglutid zusätzlich
+          zu mind. einem anderen blutzuckersenkenden Arzneimittel für Patienten mit Diabetes
+          mellitus Typ 2 mit manifester kardiovaskulärer Erkrankung und weiterer Medikation zur
+          Behandlung kardiovaskulärer Risikofaktoren 6 als zweckmäßig anzusehen ist. Eine
+          manifeste kardiovaskuläre Erkrankung wurde dabei gemäß Einschlusskriterien der
+          Studie LEADER operationalisiert als mind. eine der folgenden Bedingungen:
+          bestätigter Myokardinfarkt, bestätigter Schlaganfall oder transitorische Attacke,
+          klinisch relevante arterielle Verschlusserkrankung bzw. Revaskularisation, Koronare
+          Herzkrankheit, bestätigte instabile Angina Pectoris, chronische Niereninsuffizienz
+          (eGFR ≤ 60 ml/min/1,73 m2) oder chronische Herzinsuffizienz (NYHA Klasse II oder
+          III), siehe Studienprotokoll, Marso et al. Liraglutide and Cardiovascular Outcomes in
+          Type 2 Diabetes, N Engl J Med 2016; 375:311-322. DOI: 10.1056/NEJMoa1603827.
+          Somit stellen die Kombinationen von Empagliflozin bzw. Liraglutid mit Humaninsulin
+          für Patienten mit manifester kardiovaskulärer Erkrankung weitere Optionen der
+          zweckmäßigen Vergleichstherapie dar.
+          Zu den weiteren im Anwendungsgebiet zugelassenen Wirkstoffen bzw.
+          Wirkstoffgruppen fehlen bislang Langzeitsicherheitsdaten, diese werden daher im
+          vorliegenden Bewertungsverfahren nicht als zweckmäßige Vergleichstherapie
+          berücksichtigt.
+          Das Fortführen einer unzureichenden Therapie(-schemas) zur Behandlung des Dia-
+          betes mellitus Typ 2 entspricht nicht der zweckmäßigen Vergleichstherapie.
+          Zu Patientengruppe „a)“ (Erwachsene Patienten mit Diabetes mellitus Typ 2, bei
+          denen Diät und Bewegung und die Behandlung mit mindestens zwei
+          blutzuckersenkenden Arzneimitteln (außer Insulin) den Blutzucker nicht ausreichend
+          kontrollieren): eine Mehrfachkombination mit drei oder mehr blutzuckersenkenden
+          Wirkstoffen wird aufgrund der schlechten Steuerbarkeit und einem erhöhten Risiko für
+          Arzneimittelinteraktionen und Nebenwirkungen kritisch diskutiert, so dass in dieser
+          Therapiesituation eine Insulintherapie in Kombination mit Metformin, mit
+          Empagliflozin2 oder mit Liraglutid2 indiziert ist. Sofern Metformin, Empagliflozin2 und
+          Liraglutid2 gemäß der Fachinformation unverträglich oder kontraindiziert oder aufgrund
+          eines fortgeschrittenen Diabetes mellitus Typ 2 nicht ausreichend wirksam sind und
+          eine Kombination mit Insulin nicht infrage kommt, ist Humaninsulin allein die
+          zweckmäßige Vergleichstherapie.
+          Laut dem Stand der medizinischen Erkenntnisse wird in der antidiabetischen
+          Therapiesituation der Patientengruppe „b)“ (Erwachsene Patienten mit Diabetes
+          mellitus Typ 2, bei denen Diät und Bewegung und die Behandlung mit Insulin (mit oder
+          ohne einem anderen blutzuckersenkenden Arzneimittel) den Blutzucker nicht
+          ausreichend kontrollieren) die Optimierung des Humaninsulinregimes (ggf. +
+          Metformin oder Empagliflozin2 oder Liraglutid2) als zweckmäßige Vergleichstherapie
+          bestimmt. Die Optimierung der Insulintherapie sollte hierbei in Form einer
+          konventionellen Insulintherapie (Mischinsulin) oder einer intensivierten konventionellen
+          Insulintherapie unter Berücksichtigung der individuellen Lebenssituation des Patienten
+          erfolgen. Im Rahmen einer intensivierten konventionellen Therapie (ICT) gilt die Gabe
+          eines zusätzlichen blutzuckersenkenden Arzneimittels nicht regelhaft als indiziert.
+          Es wird vorausgesetzt, dass zur Behandlung von Komorbiditäten bei Patienten mit
+          Diabetes mellitus Typ 2 (wie Hypertonie, Dyslipoproteinämien, KHK u.a.) eine dem
+          Stand der medizinischen Erkenntnisse entsprechende patientenindividuelle
+          Behandlung der jeweiligen Komorbiditäten, insbesondere durch Antihypertensiva,
+
+
+6
+    Insbesondere Antihypertensiva, Antikoagulanzien und/oder Lipidsenker.
+
+                                                                                                7
+        Antikoagulanzien und/oder Lipidsenker, unter Berücksichtigung der Besonderheiten
+        der Erkrankung des Diabetes mellitus Typ 2 durchgeführt wird.
+        Für Insulin-Analoga bestehen nach derzeitigem allgemein anerkanntem Stand der
+        medizinischen Erkenntnisse weder ein Vor- noch ein Nachteil gegenüber
+        Humaninsulin, es liegen jedoch keine Langzeitdaten mit Vorteilen hinsichtlich harter
+        Endpunkte zu Insulin-Analoga vor. Bei der Nutzenbewertung wird ebenfalls Evidenz
+        aus Studien berücksichtigt, in denen Insulin-Analoga eingesetzt wurden, sofern die
+        Übertragbarkeit der Ergebnisse aus Studien mit Insulin-Analoga auf Humaninsulin
+        gegeben ist. Der Zulassungsstatus der Insulinanaloga ist zu berücksichtigen.
+        Studienergebnisse sind auf mögliche Effektmodifikationen durch die Art der
+        eingesetzten Insuline zu untersuchen, sofern die Studien sowohl mit Humaninsulin als
+        auch mit Insulinanaloga durchgeführt wurden.
+        Beim Kostenvergleich sind jedoch die Therapiekosten für Humaninsulin zu
+        berücksichtigen, da dies als zweckmäßige Vergleichstherapie bestimmt wurde.
+Die hierzu in der Anlage XII getroffenen Feststellungen schränken den zur Erfüllung des
+ärztlichen Behandlungsauftrags erforderlichen Behandlungsspielraum nicht ein.
+
+
+2.1.3   Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+
+Zusammenfassend wird der Zusatznutzen von Insulin degludec wie folgt bewertet:
+In der Mono- oder Kombinationstherapie
+a)   Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+     die Behandlung mit mindestens zwei blutzuckersenkenden Arzneimitteln (außer Insulin)
+     den Blutzucker nicht ausreichend kontrollieren
+     Ein Zusatznutzen ist nicht belegt.
+
+b)   Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+     die Behandlung mit Insulin (mit oder ohne einem anderen blutzuckersenkenden
+     Arzneimittel) den Blutzucker nicht ausreichend kontrollieren
+     Ein Zusatznutzen ist nicht belegt.
+
+Begründung:
+Studie DEVOTE
+Für die erneute Nutzenbewertung aufgrund neuer wissenschaftlicher Erkenntnisse vom
+Wirkstoff Insulin degludec in der Mono- und Kombinationstherapie legt der pharmazeutische
+Unternehmer in seinem Dossier u.a. die Studie DEVOTE vor.
+Aufgrund des Designs der Studie DEVOTE umfasst die eingeschlossene Studienpopulation
+sowohl Patienten, die der Patientengruppe a) als auch der Patientengruppe b) zuzuordnen
+sind. Separate Auswertungen für die relevanten Patientenpopulationen a) und b)
+entsprechend den Vorgaben der vom G-BA jeweils festgelegten Vergleichstherapien liegen
+nicht vor. Auch die im Rahmen des Stellungnahmeverfahrens nachgereichten Unterlagen
+waren nicht dazu geeignet, die Patientengruppen zu differenzieren. Daher kann eine
+Beurteilung der Studie DEVOTE für eine Bewertung von Insulin degludec nur
+patientenübergreifend für beide Patientengruppen a) und b) erfolgen.
+Die eingeschlossenen Patienten der Studie DEVOTE hatten neben dem unzureichend
+kontrollierten Diabetes mellitus Typ 2 eine manifeste kardiovaskuläre Erkrankung 7, und
+
+7
+  manifeste kardiovaskuläre Erkrankung ist im vorliegenden Fall anhand der DEVOTE Studie (siehe
+Studienprotokoll N Engl J Med. 2017; 377(8):723-732. doi: 10.1056/NEJMoa1615692) definiert und hier
+näherungsweise zusammengefasst als ≥ 50 Jahre mit mindestens einer kardiovaskulärer Erkrankung
+
+8
+erhielten die Studienmedikation im Interventions- bzw. Vergleichsarm, jeweils zusätzlich zu
+einer sogenannten Standardtherapie. Eine Standardtherapie wurde definiert als
+Hintergrundtherapie zur Behandlung des Diabetes mellitus Typ 2 und anderer
+kardiovaskulärer Risiken gemäß lokalem Standard.
+In die Studie wurden Patienten mit unterschiedlichen Vorbehandlungen der antidiabetischen
+Therapie eingeschlossen, darunter sind folgende Patientengruppen zu nennen:
+
+               •   Patienten ohne Insulin-Vorbehandlung,
+
+               •   Patienten mit einer Vorbehandlung mit Basalinsulin,
+               •   Patienten mit einer Vorbehandlung mit Bolusinsulin sowie
+
+               •   Patienten mit einer Vorbehandlung mit Basal- und Bolusinsulin
+                   (einschließlich Behandlung mit Mischinsulinen).
+Bei der Studie DEVOTE handelt es sich um eine randomisierte, aktivkontrollierte und
+doppelblinde zweiarmige Studie, die multizentrisch in Afrika, Asien, Europa, Nordamerika
+und Südamerika durchgeführt wurde. In die Studie DEVOTE wurden erwachsene Patienten
+mit Diabetes mellitus Typ 2 und mit einer manifesten kardiovaskulären Erkrankung bzw. mit
+mindestens einem Risikofaktor für eine kardiovaskuläre Erkrankung eingeschlossen.
+Bei Patienten ab 50 Jahren musste eine manifeste kardiovaskuläre Erkrankung mit
+mindestens einem der folgenden Kriterien vorliegen: vorangegangener Herzinfarkt,
+Schlaganfall oder transitorische ischämische Attacke, Revaskularisation, > 50 % Stenose,
+vorangegangene symptomatische koronare Herzerkrankung oder instabile Angina,
+asymptomatische kardiale Ischämie, chronisches Herzversagen (NYHA8-Klasse II-III) oder
+chronisches Nierenversagen.
+Bei Patienten ab 60 Jahren musste mindestens ein Risikofaktor für eine kardiovaskuläre
+Erkrankung vorliegen, wenn mindestens einer der folgenden Bedingungen erfüllt war:
+Mikroalbuminurie oder Proteinurie, Bluthochdruck und linksventrikuläre Hypertrophie,
+linksventrikuläre systolische oder diastolische Dysfunktion, oder Knöchel-Arm-Index < 0,9.
+Eine nachgewiesene kardiovaskuläre Erkrankung hatten ca. 85 % aller Patienten, bei den
+restlichen 15 % bestand mindestens ein Risikofaktor hierfür7.
+Bezüglich der antidiabetischen Therapie mussten die Studienteilnehmer zu Studienbeginn
+mindestens ein oder mehrere orale oder injizierbare Antidiabetika erhalten. Gemäß
+Einschlusskriterien sollten Patienten mit einem HbA1c-Wert ≥ 7,0 % (bzw. einem HbA1c-
+Wert < 7,0 %, sofern eine Vorbehandlung mit ≥ 20 Einheiten Basalinsulin pro Tag erfolgte)
+eingeschlossen werden. Zu Studienbeginn lag der durchschnittliche HbA1c-Wert bei 8,4 %.
+Insgesamt wurden 7637 Patienten im Verhältnis 1:1 in die Behandlungsarme Insulin
+degludec ± Bolusinsulin + Standardtherapie (N = 3818) und Insulin glargin ± Bolusinsulin +
+Standardtherapie (N = 3819) randomisiert. Außer Insulin wurden alle bereits vor Studien-
+einschluss bestehenden antidiabetischen Therapien in unveränderter Dosierung beibehalten.
+Eine bereits vor Studieneinschluss bestehende Insulintherapie wurde zu Studienbeginn
+abgesetzt und auf die jeweilige Studienmedikation (Insulin degludec im Interventionsarm und
+Insulin glargin im Vergleichsarm) umgestellt. Bei den Studienteilnehmern, die noch keine
+Insulintherapie zum Studieneinschluss erhielten, wurde mit der jeweiligen Studienmedikation
+
+
+
+(vorangegangener Herzinfarkt; Schlaganfall oder transitorische ischämische Attacke, Revaskularisation, > 50 %
+Stenose, vorangegangene symptomatische koronare Herzerkrankung oder instabile Angina, asymptomatische
+kardiale Ischämie, chronisches Herzversagen (NYHA-Klasse II-III) oder chronisches Nierenversagen) oder ≥ 60
+Jahre mit mindestens einem Risikofaktor für kardiovaskuläre Erkrankungen (Mikroalbuminurie oder Proteinurie,
+Bluthochdruck und linksventrikuläre Hypertrophie, linksventrikuläre systolische oder diastolische Dysfunktion oder
+Knöchel-Arm-Index < 0,9)
+8
+  NYHA: New York Heart Association
+
+                                                                                                                9
+(Insulin degludec oder Insulin glargin) und entsprechend mit einem Insulinregime neu
+begonnen.
+In der Studie DEVOTE erfolgte eine zielwertgerichtete Therapie ausschließlich auf Basis der
+Nüchternplasmaglukosewerte (NPG). Hierbei sollte die Dosis des Studienmedikaments in
+beiden Studienarmen anhand der NPG-Werte auf einen Zielwert von 4.0 bis 5.0 mmol/l (71
+bis 90 mg/dl) titriert werden. Alternativ konnte nach Einschätzung des Prüfarztes ein Zielwert
+von 5,0 bis 7,0 mmol/l (90 bis 125 mg/dl) für bestimmte Patienten festgelegt werden, sofern
+für diese Patienten eine solche stringente Blutzuckereinstellung nicht geeignet war. Die
+HbA1c-Werte, die eine Aussage über die längerfristige Blutzuckereinstellung erlauben,
+wurden bei der Titrationsentscheidung nicht berücksichtigt.
+Bei Patienten, die zu Studieneinschluss eine Therapie mit einem Bolusinsulin (ggf. in
+Kombination mit einem Basalinsulin) erhielten, konnte nach Ermessen des Prüfarztes eine
+Umstellung aus Insulin aspart erfolgen. Eine Titration der Dosis des Bolusinsulins erfolgte
+ebenfalls anhand selbst gemessener NPG-Werte, welche vor den jeweiligen Mahlzeiten zu
+bestimmen war. Als Therapieziel war laut Studienprotokoll ein Wert von 71 bis 126 mg/dl
+vorgegeben.
+Eine Intensivierung der antidiabetischen Behandlung mit Bolusinsulin oder anderen
+Antidiabetika war nach Maßgabe des Prüfarztes im Verlauf der Studie erlaubt. Auch eine
+adäquate Therapie kardiovaskulärer Risikofaktoren war in beiden Behandlungsarmen
+vorgesehen. Zur Sicherstellung einer Behandlung entsprechend regionaler Leitlinien-
+empfehlungen sollten erforderliche Begleitmedikationen nach Einschätzung des Arztes
+eingesetzt werden.
+Primärer Endpunkt der Studie war die Zeit bis zum Auftreten eines der folgenden Ereignisse
+des kombinierten Endpunkts MACE: kardiovaskulärer Tod, nicht tödlicher Myokardinfarkt
+oder nicht tödlicher Schlaganfall. Die Studiendauer war ereignisgesteuert geplant bis 633
+Studienteilnehmer den primären kombinierten Endpunkt erreicht hatten. Es wurde
+angenommen, dass dies nach ca. 5 Jahren Studiendauer erreicht würde.
+Vor Studieneinschluss waren etwa 16 % der Patienten nicht auf Insulin eingestellt. Eine
+antidiabetische Therapie mit Insulin bestand bei 84 % der Patienten, die gemäß
+unterschiedlichen Therapiestrategien erfolgte. Hiervon hatten etwa 38 % der Patienten
+hatten zu Studienbeginn eine Insulintherapie, die ausschließlich Basalinsulin umfasste und
+bei 46 % bestand zu Studienbeginn die antidiabetische Therapie aus einer Basal-Bolus-
+Insulintherapie. Im Studienverlauf betrug der Anteil der Patienten, die eine Basal-
+insulintherapie hatten, ca. 38 % und ca. 62 % erhielten eine Basal-Bolus-Insulintherapie.
+Eignung der Studie für die Nutzenbewertung
+Nach Prüfung der Daten weist die Studie in unterschiedlichen Aspekten methodische
+Limitationen auf:
+Zielwertbasierte Titration anhand der Nüchternplasmaglukose-Werte:
+Die im Studienprotokoll empfohlenen Zielwerte von 4.0 bis 5.0 mmol/l (71 bis 90 mg/dl) bzw.
+alternativ nach Einschätzung des Prüfarztes von 5,0 bis 7,0 mmol/l (90 bis 125 mg/dl) liegen
+unterhalb des in der zuletzt gültigen Nationale Versorgungsleitlinie (NVL) zur Therapie des
+Diabetes mellitus Typ 2 als Orientierungsgröße empfohlenen Intervalls von 100 bis
+125 mg/dl für die Nüchternplasmaglukose-Werte 9. Insbesondere vor dem Hintergrund, dass
+für die in die Studie eingeschlossenen Patienten mit einer manifesten kardiovaskulären
+Erkrankung bzw. mit mindestens einem Risikofaktor für eine kardiovaskuläre Erkrankung
+gemäß Leitlinien medizinisch begründete, patientenindividuell vereinbarte Zielwerte für die
+
+
+9
+    Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der
+Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF). Nationale Versorgungsleitlinie Therapie des Typ-
+2 -Diabetes – Langfassung, 1. Auflage. Version 4. 2013, zuletzt geändert: November 2014.
+
+10
+Blutzuckereinstellung empfohlen werden, wird das angestrebte Therapieziel (insbesondere
+das niedrigere Intervall – 71 bis 90 mg/dl) als zu stringent eingestuft. Gemäß den Angaben
+des pharmazeutischen Unternehmers im Rahmen der mündlichen Anhörung wurde bei der
+Mehrheit der Studienteilnehmer das Titrationsziel von 71 bis 90 mg/dl angestrebt. Es ist
+unsicher, für welchen Anteil dieser Patienten eine strenge normnahe Blutzuckereinstellung
+anzustreben gewesen wäre oder inwiefern der Zielwert für die Blutzuckereinstellung eher an
+der oberen Grenze des Zielkorridors zu wählen gewesen wäre. Darüber hinaus wäre aus
+Sicht des G-BA jedoch nicht nur der NPG-Wert, sondern auch der HbA1c-Wert für die
+Titrationsentscheidung zu berücksichtigen, da letzterer Aussagen über die langfristige Blut-
+zuckereinstellung erlaubt. Dieses Vorgehen wird auch seitens der klinischen Experten
+empfohlen.
+Umsetzung der zweckmäßigen Vergleichstherapie
+In der Studie DEVOTE wird Insulin degludec in der Mono- und Kombinationstherapie bei
+Erwachsenen mit Diabetes mellitus Typ 2 und mit manifester kardiovaskulärer Erkrankung
+hinsichtlich der Fragestellung der kardiovaskulären Sicherheit im Vergleich zu anderen
+Insulinanaloga untersucht.
+Zwar handelt es sich bei dem Vergleich gegenüber Insulin glargin um ein Insulinanalogon,
+das nicht explizit als Bestandteil der zweckmäßigen Vergleichstherapie benannt wurde, aber
+es wird dennoch unter Berücksichtigung der aktuellen Datenlage als geeigneter Komparator
+akzeptiert.
+Aufgrund des Studiendesigns (zusätzliche Gabe von Insulin degludec bzw. Insulin glargin zu
+der bereits bestehenden antidiabetischen Therapie bzw. Umstellung der Insulintherapie auf
+diese Insulinanaloga) wurden neben den vom G-BA als zweckmäßige Vergleichstherapie
+festgelegten antidiabetischen Wirkstoffen weitere Wirkstoffe in Kombination eingesetzt. So
+wurden z. B. in beiden Behandlungsarmen beträchtliche Anteile an Patienten mit Sulfonyl-
+harnstoffen (ca. 29 %) bzw. DPP-IV-Inhibitoren (ca. 12 %) zusätzlich zur Insulintherapie
+behandelt. Weder Sulfonylharnstoffe noch DPP-IV-Inhibitoren sind von der zweckmäßigen
+Vergleichstherapie in Kombination mit der Insulintherapie umfasst. Zudem ist unklar für
+welchen Anteil der Patienten die gewählte Therapiestrategie einer adäquaten
+Therapieanpassung entsprach. Beispielsweise fehlen detaillierte Daten zur Fragestellung der
+Patientengruppe b), die mit ihrer bisherigen Insulintherapie zu Studienbeginn keine
+ausreichende Blutzuckereinstellung hatten und während der Studie eine Optimierung des
+Humaninsulinregimes erfahren haben. Weder im Dossier noch im Rahmen des
+Stellungnahmeverfahrens hat der pharmazeutische Unternehmer diese Daten vorgelegt.
+Zwar wurden nach der mündlichen Anhörung zusätzliche Daten übermittelt, diese aber
+waren nicht entsprechend den Dossiervorlagen adäquat aufbereitet. Allerdings wurde in der
+Gesamtpopulation in beiden Studienarmen der HbA1c-Wert von ca. 8,4 % auf 7,5 %
+gesenkt.
+Trotz der methodischen Limitationen wird die Studie DEVOTE aufgrund der Dauer und
+Größe mit etwa 7.600 eingeschlossenen Patienten und der Erhebung von patienten-
+relevanten kardiovaskulären Endpunkten für die Nutzenbewertung von Insulin degludec als
+relevant erachtet, um Aussagen zu Langzeitdaten, zum Gesamtüberleben, zur
+kardiovaskulären Sicherheit und zum generellen Sicherheitsprofil zu treffen. Im Folgenden
+werden die Ergebnisse der Studie für die Gesamtpopulation, also patientenübergreifend für
+die Patientengruppen a) und b) bewertet.
+Ergebnisse der Studie DEVOTE
+Mortalität und Morbidität
+Gesamtmortalität / kardiovaskulärer Tod
+Es liegen keine signifikanten Unterschiede zwischen den Behandlungsgruppen hinsichtlich
+der Gesamtmortalität und des Endpunktes „kardiovaskulärer Tod“ vor.
+
+                                                                                         11
+Kardiovaskuläre Ereignisse (MACE) / Hospitalisierung wegen Herzinsuffizienz
+Der kombinierte Endpunkt „Major adverse cardiovascular events (MACE)“ erfasst die
+Endpunkte „kardiovaskulären Tod“, „nicht-tödlichen Myokardinfarkt“ sowie „nicht tödlichen
+Schlaganfall“. Es ergeben sich weder im kombinierten Endpunkt MACE, noch in den
+Einzelkomponenten statistisch signifikante Unterschiede zwischen den Behandlungsarmen.
+Auch im Endpunkt Hospitalisierung wegen Herzinsuffizienz zeigen sich keine statistisch
+signifikanten Differenzen.
+Lebensqualität
+In der Studie DEVOTE wurden keine relevanten Daten für eine Bewertung der
+gesundheitsbezogenen Lebensqualität erhoben.
+Nebenwirkungen
+Schwerwiegende unerwünschte Ereignisse (SUE), Therapieabbruch wegen UE
+Für die Endpunkte SUE und Therapieabbruch wegen UE zeigen sich, basierend auf den
+Gesamtraten, keine statistisch signifikanten Unterschiede zwischen den Behandlungsarmen.
+Nicht schwere symptomatische, bestätigte Hypoglykämien
+In der Studie DEVOTE wurden keine relevanten Daten zum Endpunkt „nicht schwere
+symptomatische, bestätigte Hypoglykämien“ erhoben.
+Schwere Hypoglykämien
+In der Studie DEVOTE wurde der Endpunkt „schwere Hypoglykämien“ zu unterschiedlichen
+Operationalisierungen erhoben. Zum einen wurden „schwere Hypoglykämien“ erhoben, die
+als SUE dokumentiert wurden. Zum anderen wurden „schwere Hypoglykämien“ erfasst, die
+entweder als SUE dokumentiert wurden, oder durch die Gabe von intravenöser Glukose
+bzw. Glukagon behandelt wurden, oder mit schweren neuroglykopenischen Symptomen
+(z. B. veränderter Geisteszustand, Bewusstlosigkeit, Koma) assoziiert waren. Je nach
+Operationalisierung ergaben sich für die Gesamtpopulation der Studie DEVOTE
+unterschiedliche Ergebnisse. Bei der Operationalisierung der „schweren Hypoglykämien“, die
+sich ausschließlich auf das Kriterium SUE beschränkte, lag kein statistisch signifikanter
+Unterschied zwischen den Behandlungsgruppen. Bei der zweiten Operationalisierung der
+„schweren Hypoglykämien“ hingegen, die neben SUE auch Fremdhilfe in Form intravenöser
+Gaben von Glukose bzw. Glukagon sowie schweren neuroglykopenischen Symptomen
+einschließen, zeigte sich ein statistisch signifikanter Unterschied zugunsten von Insulin
+degludec im Vergleich zur Kontrolle.
+Allerdings lassen sich aufgrund beachtlicher methodischer Mängel angesichts einer viel zu
+stringenten Titration der Insulindosis bei der Durchführung der Studie diese Ergebnisse nicht
+uneingeschränkt bewerten. Der in der Studie DEVOTE verwendete Zielkorridor der
+Nüchternplasmaglukose von 71 bis 90 mg/dl lag deutlich unterhalb des von der zuletzt
+gültigen Nationalen Versorgungsleitlinie9 empfohlenen Intervalls von 100 bis 125 mg/dl zur
+Therapie des Diabetes mellitus Typ 2. Laut Leitlinie hängt das spezifische Therapieziel von
+Faktoren ab, wie z.B. Alter, Komorbidität und den individuell vereinbarten Therapiezielen des
+Patienten ab9. Vor dem Hintergrund der viel zu niedrig gewählten und nicht
+patientenindividuell festgelegten Zielwerte für die Nüchternplasmaglukose in der Studie
+DEVOTE sind die Ergebnisse zum Endpunkt „schwere Hypoglykämien“ mit großen
+Unsicherheiten behaftet. Daher kann nicht ausgeschlossen werden, dass die festgestellten
+Ereignisse in diesem Endpunkt eine Folge der viel zu strengen Titration der Insulindosis
+gewesen sein könnten. Zudem hatte ein erheblicher Anteil der Patienten zu der
+Insulintherapie zusätzlich Sulfonylharnstoffe erhalten, die ein hypoglykämisches Potential
+aufweisen. Dies erschwert zusätzlich die Interpretation der Ergebnisse in diesem Endpunkt.
+
+
+
+
+12
+Nierenfunktionsstörung
+Für den Endpunkt liegt         kein statistisch signifikanter   Unterschied zwischen den
+Behandlungsarmen vor.
+Ergänzende Endpunkte
+HbA1c-Änderung, Änderung des Körpergewichts
+Für den Endpunkt „HbA1c-Änderung“ liegt kein statistisch signifikanter Unterschied zwischen
+den Behandlungsarmen vor. Die Endpunkte „HbA1c-Änderung“ und „Änderung des
+Körpergewichts“ stellen in der Behandlung des Diabetes mellitus Surrogatparameter dar und
+sind nicht per se patientenrelevant.
+
+Fazit zur Studie DEVOTE:
+Die vorgelegten Daten der Studie DEVOTE adressieren Aspekte im Hinblick auf das
+Gesamtüberleben von Diabetes mellitus Typ 2-Patienten mit manifester kardiovaskulärer
+Erkrankung und das generelle Sicherheitsprofil von Insulin degludec bei der Behandlung
+dieser Patientengruppe.
+Aufgrund des Studiendesigns und des Fehlens von detaillierten Daten zur Fragestellung der
+jeweiligen Patientengruppen erfolgt im vorliegenden Fall die Bewertung der Studie DEVOTE
+patientenübergreifend für beide Patientengruppen a) und b) gemeinsam. Hinsichtlich der
+durchgeführten antidiabetischen Therapieanpassungen, insbesondere zum Studienbeginn
+und im Studienverlauf, kann angenommen werden, dass ein Großteil der Patienten eine
+adäquate Therapie-Optimierung erfahren haben.
+Bei den erfassten Endpunkten der Studie DEVOTE zeigen sich bis auf die Ergebnisse zu
+den schweren Hypoglykämien keine statistisch signifikanten Unterschiede zwischen den
+Behandlungsgruppen. Bei dem Endpunkt „schwere Hypoglykämien“ lag ein positives
+Ergebnis für Insulin degludec im Vergleich zur Kontrolle, das aber von der Art der gewählten
+Operationalisierung abhängig war. Vor dem Hintergrund, dass bei der Titrationsentscheidung
+für die Mehrheit der Patienten die Zielwerte ausschließlich anhand der NPG-Werte erfolgten
+und diese viel zu niedrig gewählt und nicht patientenindividuell festgelegt wurden, sind die
+Ergebnisse zum Endpunkt „schwere Hypoglykämien“ mit großen Unsicherheiten behaftet.
+Daher kann nicht ausgeschlossen werden, dass die festgestellten Ereignisse in diesem
+Endpunkt eine Folge der viel zu strengen Titration der Insulindosis gewesen sein könnten.
+In der Gesamtschau lässt sich auf Basis der Daten der Studie DEVOTE aus den oben
+genannten Gründen kein Zusatznutzen ableiten.
+
+Zu den einzelnen Therapieregimen
+a)   Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+     die Behandlung mit mindestens zwei blutzuckersenkenden Arzneimitteln (außer Insulin)
+     den Blutzucker nicht ausreichend kontrollieren
+Ein Zusatznutzen ist nicht belegt.
+
+Begründung:
+Der Nutzenbewertung liegen die Studien NN1250-3579 (mit der Extensionsstudie 3579Ext),
+NN1250-3587 und NN1250-3672 sowie eine metaanalytische Zusammenfassung der
+Studien NN1250-3579, NN1250-3587 und NN1250-3672 (ohne Extensionsstudie) zugrunde.
+In diesen offenen, randomisierten, aktiv kontrollierten, multizentrischen Phase-III-Studien mit
+einer Dauer von 52 Wochen (NN1250-3579, weitere 52 Wochen 3579Ext) bzw. 26 Wochen
+(NN1250-3587 und NN1250-3672) wurde der Vergleich von Insulin degludec versus Insulin
+glargin bei Diabetes mellitus Typ 2-Patienten untersucht.
+
+
+
+                                                                                            13
+Die Studienteilnehmer in allen Studien waren insulinnaiv und hatten bei einer vorherigen
+mindestens dreimonatigen Behandlung mit Metformin allein oder in Kombination mit weiteren
+Antibiotika (Sulfonylharnstoffe, Glinide, DPP-IV-Inhibitoren oder Alphaglukosidase-
+Inhibitoren) in unveränderten Dosierung keine ausreichende Blutzuckerkontrolle erreicht.
+Des Weiteren wiesen die Patienten einen HbA1c-Wert von ≥ 7,0 % und ≤ 10 % auf. Bis auf
+Metformin (NN1250-3587) bzw. Metformin in Kombination mit DPP-IV-Inhibitoren (NN1250-
+3579 und NN1250-3672) sollten in allen Studien alle Antidiabetika zum Zeitpunkt der
+Randomisierung abgesetzt werden.
+In der Studie NN1250-3579 wurden insgesamt 1030 Patienten Verhältnis 3:1 in die
+Studienarme Insulin degludec (773 Patienten) und Insulin glargin (257 Patienten), jeweils in
+Kombination mit Metformin ± DPP-IV-Inhibitor, randomisiert. An der Extensionsstudie
+3579Ext nahmen 551 Patienten im Insulin degludec-Arm (entspricht einem Anteil von
+71,3 %) bzw. 174 Patienten im Insulin glargin-Arm (entspricht einem Anteil von 67,7 %) teil.
+Der Übergang in die Extensionsstudie erfolgte ohne erneute Randomisierung.
+In der Studie NN1250-3672 wurden insgesamt 460 eingeschlossene Patienten im Verhältnis
+1:1 auf die Studienarme randomisiert (Insulin degludec und Insulin glargin jeweils 230
+Patienten).
+In der Studie NN1250-3587 wurden insgesamt 833 Patienten im Verhältnis 2:1 nach Region
+(China / nicht China) stratifiziert in die Studienarme Insulin degludec (555 Patienten) und
+Insulin glargin (278 Patienten), jeweils in Kombination mit Metformin, randomisiert.
+Primärer Endpunkt aller drei Studien war die Änderung des HbA1c-Werts von Studienbeginn
+zu Woche 52 (NN1250-3579 mit der Extensionsstudie 3579Ext) bzw. zu Woche 26 (NN1250-
+3587 und NN1250-3672). Patientenrelevante sekundäre Endpunkte waren Gesamtmortalität
+und Endpunkte zur Morbidität, gesundheitsbezogenen Lebensqualität sowie zu
+unerwünschten Ereignissen (UE) einschließlich Hypoglykämien.
+In der bewertungsrelevanten Teilpopulation, die in den Studien 60 bis 67 % der jeweiligen
+Gesamtpopulation umfasste, waren die Patienten im Durchschnitt 60 Jahre alt. Zum
+Zeitpunkt des Studienbeginns hatten die Patienten in beiden Studienarmen der drei Studien
+im Mittel einen HbA1c-Wert von 8,3 % und bei etwa 40 % der Patienten unter 8 %.
+Informationen zum Therapieabbruch liegen weder für die relevante Teilpopulation noch für
+die Gesamtpopulation aller Studien vor.
+Während der Studien erfolgte in den Behandlungsarmen eine Titration der Dosis von Insulin
+degludec bzw. Insulin glargin anhand des selbst gemessenen Nüchternplasmaglukosewerts
+(NPG). Anstatt die Therapieziele patientenindividuell festzulegen, sollte jedoch einheitlich ein
+Wert von 90 bis 125 mg/dl erreicht werden. Somit lag der in den Studien verwendete der
+untere Wert des Zielkorridors der Nüchternplasmaglukose unterhalb der von der Nationale
+Versorgungsleitlinie (NVL)9 empfohlenen Orientierungsgröße von 100 bis 125 mg/dl zur
+Therapie des Diabetes mellitus Typ 2. Hierzu ist außerdem unklar, ob die in die Studien
+NN1250-3579, NN1250-3587 und NN1250-3672 eingeschlossenen Patienten für eine
+normnahe Einstellung infrage kommen.
+
+Ergebnisse der Studien NN1250-3579, 3579Ext, NN1250-3587 und NN1250-3672
+Mortalität
+Gesamtmortalität
+Insgesamt traten in den Behandlungsarmen der Studien nur wenige Todesfälle auf. Im
+Endpunkt Gesamtmortalität zeigt sich weder in der Metaanalyse noch in der
+Extensionsstudie ein statistisch signifikanter Unterschied zwischen den Behandlungsarmen.
+Morbidität
+Kardiovaskuläre Ereignisse (MACE)
+Für den kombinierten Endpunkt kardiovaskuläre Ereignisse (MACE) einschließlich der
+Einzelkomponenten „kardiovaskulärer Tod“ und „nicht tödlicher Schlaganfall“ zeigt sich
+
+14
+jeweils sowohl in der Metaanalyse als auch in der Extensionsstudie kein statistisch
+signifikanter Unterschied zwischen den Behandlungsarmen.
+Für den Endpunkt „akutes Koronarsyndrom“ zeigt sich in der Extensionsstudie ein statistisch
+signifikanter Effekt zum Nachteil von Insulin degludec in Kombination Metformin. In der
+Metaanalyse ist der Effekt nicht statistisch signifikant.
+
+Gesundheitszustand (Domänen „tägliches Leben“ und „psychische Gesundheit“ des TRIM-D)
+Der Gesundheitszustand der Patienten wurde mit den Domänen „tägliches Leben“ und
+„psychische Gesundheit“ des TRIM-D erhoben. In der Extensionsstudie wurde der Endpunkt
+nicht erfasst. Es zeigt sich kein statistisch signifikanter Unterschied zwischen den
+Behandlungsarmen in der Metaanalyse für diesen Endpunkt.
+
+Gesundheitsbezogene Lebensqualität
+SF-36 – körperlicher Summenscore (PCS) und psychischer Summenscore (MCS)
+Für den MCS und PCS des SF-36 wird die mittlere Veränderung zu Studienende gegenüber
+Studienbeginn betrachtet.
+Für den MCS ergeben sich in der Metaanalyse und in der Extensionsstudie keine statistisch
+signifikanten Unterschiede zwischen den Behandlungsarmen.
+Für den PCS liegt in der Metaanalyse bei einer homogenen Datenlage ein statistisch
+signifikantes Ergebnis für die Änderung gegenüber Baseline vor. Aus der standardisierten
+Mittelwertdifferenz, geschätzt mit dem Effektmaß Hedges’ g (p < 0,05), kann kein relevanter
+Effekt abgeleitet werden. Nur in der Studie NN1250-3579 liegt ein statistisch signifikanter
+Effekt zum Vorteil von Insulin degludec in Kombination mit Metformin vor, der allerdings über
+Hedges’ g bewertet nicht relevant ist. In der Extensionsstudie zeigt sich zwar auch ein
+statistisch signifikanter Effekt zugunsten von Insulin degludec in Kombination mit Metformin,
+der aber ebenfalls, gemessen am Konfidenzintervall für Hedges’ g, als klinisch nicht relevant
+eingeschätzt wird. In den Studien NN1250-3587 und NN1250-3672 zeigt sich jeweils kein
+statistisch signifikanter Unterschied zwischen den Behandlungsgruppen. Damit sind die
+Effekte nicht gleichgerichtet.
+Ein Zusatznutzen von Insulin degludec gegenüber Insulin glargin, jeweils in Kombination mit
+Metformin ist für die Kategorie Lebensqualität nicht belegt.
+
+Nebenwirkungen
+Schwerwiegende unerwünschte Ereignisse (SUE), Therapieabbruch wegen UE und
+Nierenfunktionsstörung
+Für den Endpunkt SUEs zeigt sich weder in der Metaanalyse noch in der Extensionsstudie
+ein statistisch signifikanter Unterschied zwischen den Behandlungsarmen.
+Für die Endpunkte Therapieabbruch wegen UE und Nierenfunktionsstörung lassen sich
+sowohl in der Metaanalyse als auch in der Extensionsstudie keine statistisch signifikanten
+Unterschiede zwischen den Behandlungsgruppen feststellen.
+
+Nicht schwere symptomatische, bestätigte Hypoglykämien
+Für die nicht schweren symptomatischen, bestätigten Hypoglykämien in der Operationa-
+lisierung eines Plasmaglukosewertes < 56 mg/dl legt der pharmazeutische Unternehmer
+Auswertungen der Metaanalyse basierend auf dem Rate Ratio vor. Für die Bewertung dieses
+Endpunktes ist jedoch ausschließlich die Auswertung des relativen Risikos relevant, was
+konsistent zu den bisherigen Bewertungen im Anwendungsgebiet ist.
+liegt sowohl in der Metaanalyse als auch in der Extensionsstudie jeweils kein statistisch
+signifikanter Unterschied zwischen den Behandlungsarmen vor.
+
+
+                                                                                          15
+Darüber hinaus zieht der pharmazeutische Unternehmer zusätzlich getrennte Auswertungen
+nach Tageszeiten heran und leitet einen Zusatznutzen von Insulin degludec für nächtliche
+nicht schwere symptomatische, bestätigte Hypoglykämien ab. Die Relevanz des Auftretens
+von Hypoglykämien zu unterschiedlichen Tageszeiten ist derzeit unklar, insbesondere vor
+dem Hintergrund, dass für die Gesamtrate in diesem Endpunkt keine Unterschiede vorliegen.
+Damit lassen sich die Ergebnisse zu Hypoglykämien getrennt nach Tageszeiten nicht
+eindeutig interpretieren.
+Für den Endpunkt nicht schwere symptomatische, bestätigte Hypoglykämien ist somit ein
+Zusatznutzen von Insulin degludec gegenüber Insulin glargin, jeweils in Kombination mit
+Metformin ist für die Kategorie Lebensqualität nicht belegt.
+
+Schwere Hypoglykämien
+Schwere Hypoglykämien wurden in den Studien als Hypoglykämien operationalisiert, die als
+SUE dokumentiert wurden. Für den Endpunkt schwere Hypoglykämien (SUE) zeigen sich
+sowohl in der Metaanalyse als auch in der Extensionsstudie keine statistisch signifikanten
+Unterschiede zwischen den Behandlungsgruppen.
+
+Spezifische UE
+Für den Endpunkt Erbrechen (PT 10) liegt in der Metaanalyse kein statistisch signifikanter
+Effekt zwischen den Behandlungsarmen vor. In der Extensionsstudie zeigt sich für diesen
+Endpunkt hingegen ein statistisch signifikanter Unterschied zum Vorteil von Insulin degludec.
+Für den Endpunkt Depressionen (PT10) liegt in der Metaanalyse kein statistisch signifikanter
+Effekt zwischen den Behandlungsarmen vor. In der Extensionsstudie zeigt sich für diesen
+Endpunkt hingegen ein statistisch signifikanter Unterschied zum Nachteil von Insulin
+degludec.
+
+Ergänzende Endpunkte
+HbA1c-Änderung
+Für den Endpunkt „HbA1c-Änderung“ liegt sowohl in der Metaanalyse als auch in der
+Extensionsstudie kein statistisch signifikanter Unterschied zwischen den Behandlungs-
+gruppen vor.
+Der Endpunkt „HbA1c-Änderung“ stellt in der Behandlung des Diabetes mellitus einen
+Surrogatparameter dar und ist nicht per se patientenrelevant.
+
+Gesamtbewertung
+Für die erneute Nutzenbewertung von Insulin degludec in Kombination mit Metformin zur
+Behandlung von erwachsenen Patienten mit Diabetes mellitus Typ 2, bei denen Diät und
+Bewegung und die Behandlung mit mindestens zwei blutzuckersenkenden Arzneimitteln
+(außer Insulin, hier Metformin) den Blutzucker nicht ausreichend kontrollieren, liegen die
+Studien NN1250-3587 und NN1250-3672, jeweils mit einer Dauer von 26 Wochen, sowie die
+52-Wochen-lange Studie NN1250-3579 mit der Extensionsstudie 3579Ext (weitere 52
+Wochen) vor.
+In den Studien wurde die Gabe von Insulin degludec gegenüber Insulin glargin, jeweils in
+Kombination mit Metformin verglichen.
+Für die bewertungsrelevante Teilpopulation sowohl in der Metaanalyse als auch in der
+Extensionsstudie zeigen sich in den Endpunktkategorien Mortalität und gesundheits-
+bezogene Lebensqualität sowie für die Endpunkte kardiovaskuläre Ereignisse (kombinierter
+Endpunkt MACE einschließlich der Einzelkomponenten „kardiovaskulärer Tod“ und „nicht
+tödlicher Schlaganfall“) und Gesundheitszustand (TRIM-D) in der Kategorie Morbidität keine
+
+10
+     PT: Preferred Term
+
+16
+Vorteile für Insulin degludec gegenüber der Kontrolle. Auch in der Kategorie
+Nebenwirkungen bei den Endpunkten SUE, Therapieabbruch wegen UE, Hypoglykämien
+und Nierenfunktionsstörungen lassen sich anhand der Ergebnisse der Metaanalyse und der
+Extensionsstudie keine positiven Effekte für Insulin degludec im Vergleich zur Kontrolle
+ableiten.
+Statistisch signifikante Unterschiede zeigen sich nur in der Extensionsstudie, jeweils zum
+Nachteil von Insulin degludec im Vergleich zu Insulin glargin für den Endpunkt akutes
+Koronarsyndrom in der Kategorie Morbidität und bei den Nebenwirkungen im PT Depression.
+Andererseits lag für den PT Erbrechen bei den Nebenwirkungen in der Extensionsstudie ein
+statistisch signifikanter Unterschied zugunsten von Insulin degludec vor. In der Metaanalyse
+ließen sich keine statistisch signifikanten Differenzen für diese Endpunkte zwischen den
+Behandlungsarmen feststellen. Insgesamt wird das Verzerrungspotenzial für alle erhobenen
+Endpunkte der Extensionsstudie als hoch bewertet. Daher lassen sich die beobachteten
+positiven bzw. negativen Effekte in dieser Studie nicht uneingeschränkt interpretieren.
+Im Rahmen des Periodic Safety Update Report (PSUR)-Bewertungsverfahrens der EMA auf
+Basis der vorliegenden Evidenz zu Insulin degludec ergeben sich keine Anhaltspunkte für
+negative Effekte von Insulin degludec zu akutem Koronarsyndrom.
+Insgesamt ist die Aussagekraft der vorliegenden Ergebnisse in Bezug auf den deutschen
+Versorgungskontext mit großen Unsicherheiten behaftet. So wurden entgegen den
+Leitlinienempfehlungen die Zielwerte für die Nüchternplasmaglukose in den vorgelegten
+Studien nicht patientenindividuell festgelegt. Auch lagen diese unter dem empfohlenen
+Zielkorridor zur Therapie des Diabetes mellitus Typ 29.
+In der Gesamtbetrachtung ist ein Zusatznutzen für Insulin degludec in der vorliegenden
+Patientengruppe gegenüber der zweckmäßigen Vergleichstherapie nicht belegt.
+
+b)   Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und
+     die Behandlung mit Insulin (mit oder ohne einem anderen blutzuckersenkenden
+     Arzneimittel) den Blutzucker nicht ausreichend kontrollieren
+Ein Zusatznutzen ist nicht belegt.
+
+Begründung:
+Für die erneute Nutzenbewertung von Insulin degludec wurden die RCTs NN1250-3582
+(inklusive der zugehörige Extensionsstudie NN1250-3667), NN1250-3668 und NN1250-3998
+vorgelegt. Lediglich die Studie NN1250-3582 mit der dazugehörigen Extensionsstudie ist für
+die Nutzenbewertung von Bedeutung und wird herangezogen, da ausschließlich in dieser
+Studie von einer ausreichenden Eskalation der antidiabetischen Therapie bei den
+eingeschlossenen Patienten auszugehen ist.
+Bei der Studie NN1250-3582 handelt es sich um eine 2-armige, offene Phase-III-Studie mit
+einer Behandlungsdauer von 52 Wochen. Die Patienten konnten nach einer einwöchigen
+Nachbeobachtungsphase für weitere 26 Wochen an einer Extensionsstudie (NN1250-3667)
+teilnehmen.
+Eingeschlossen wurden Erwachsene mit Diabetes mellitus Typ 2, die seit mindestens drei
+Monaten eine Insulintherapie mit oder ohne oralen Antidiabetika (OAD) erhalten haben.
+Untersucht wurde der Vergleich einer Kombinationstherapie von Insulin degludec und Insulin
+aspart mit oder ohne OAD gegenüber einer Kombinationstherapie von Insulin glargin und
+Insulin aspart mit oder ohne OAD. Insgesamt wurden 1006 Patienten im Zuteilungsverhältnis
+3:1 auf die Studienarme Insulin degludec plus Insulin aspart (755 Patienten) und Insulin
+glargin plus Insulin aspart (251 Patienten), jeweils in Kombination mit Metformin und / oder
+Pioglitazon, randomisiert. Von diesen nahmen ohne erneute Randomisierung 75,0 % der
+Patienten aus dem Interventionsarm (entspricht 566 Patienten) bzw. 76,1 % Patienten aus
+dem Kontrollarm (entspricht 191 Patienten) an der Extensionsstudie NN1250-3667 teil.
+
+
+                                                                                         17
+Für die Studie ist nur eine Teilpopulation der Patienten relevant. Patienten, die Metformin
+erhalten, entsprechen nur dann der Fragestellung, wenn dies in zulassungskonformer
+Dosierung (1000 bis 3000 mg/Tag) erfolgte. Patienten, die Pioglitazon erhielten, sind für die
+vorliegende Fragestellung nicht relevant. Auswertungen für die relevante Teilpopulation
+lagen im Dossier jedoch nicht vor. Da allerdings der überwiegende Teil der
+eingeschlossenen Patienten für die vorliegende Fragestellung relevant ist, werden die Daten
+der Gesamtpopulation hilfsweise herangezogen.
+Während der Studie erfolgte in den Behandlungsarmen eine Titration der Dosis von Insulin
+degludec bzw. Insulin glargin anhand des selbst gemessenen Nüchternplasmaglukosewerts
+(NPG). Anstatt die Therapieziele patientenindividuell festzulegen, sollte jedoch einheitlich ein
+Wert von 90 bis 125 mg/dl erreicht werden. Somit lag der untere Wert des verwendeten
+Zielkorridors der Nüchternplasmaglukose unterhalb der von der Nationale Versorgungs-
+leitlinie (NVL)9 empfohlenen Orientierungsgröße von 100 bis 125 mg/dl zur Therapie des
+Diabetes mellitus Typ 2. Hierzu ist außerdem unklar, ob die in die Studien NN1250-3579,
+NN1250-3587 und NN1250-3672 eingeschlossenen Patienten für eine normnahe Einstellung
+infrage kommen.
+Primärer Endpunkt war die HbA1c-Änderung von Studienbeginn zu Woche 52.
+Patientenrelevante sekundäre Endpunkte waren Gesamtmortalität und Endpunkte zur
+Morbidität, gesundheitsbezogenen Lebensqualität sowie zu unerwünschten Ereignissen.
+
+Ergebnisse der Studien NN1250-3582 und der Extensionsstudie
+Mortalität
+Gesamtmortalität
+Insgesamt traten in den Behandlungsarmen nur wenige Todesfälle auf. Im Endpunkt
+Gesamtmortalität zeigt sich kein statistisch signifikanter Unterschied zwischen den
+Behandlungsarmen.
+Morbidität
+Kardiovaskuläre Ereignisse (MACE)
+Bei dem Endpunkt kardiovaskuläre Ereignisse (MACE) sowie den zugehörigen
+Einzelkomponenten kardiovaskulärer Tod, nicht tödlicher Schlaganfall und akutes
+Koronarsyndrom zeigt sich kein statistisch signifikanter Unterschied zwischen den
+Behandlungsarmen.
+
+Gesundheitszustand (Domänen „tägliches Leben“ und „psychische Gesundheit“ des TRIM-D)
+Der Gesundheitszustand der Patienten wurde mit den Domänen „tägliches Leben“ und
+„psychische Gesundheit“ des TRIM-D erhoben. In der Hauptstudie NN1250-3582 zeigt sich
+jeweils kein statistisch signifikanter Unterschied zwischen den Behandlungsarmen. In der
+Extensionsstudie wurde der Endpunkt nicht erfasst.
+
+Gesundheitsbezogene Lebensqualität
+SF-36 – körperlicher Summenscore (PCS) und psychischer Summenscore (MCS)
+Für den MCS und PCS des SF-36 wird die mittlere Veränderung zu Studienende gegenüber
+Studienbeginn betrachtet.
+Weder für den MCS noch für den PCS ergeben sich in der Hauptstudie NN1250-3582
+statistisch signifikante Unterschiede zwischen den Behandlungsarmen. In der Extensions-
+studie wurde der Endpunkt nicht erhoben.
+
+Nebenwirkungen
+Schwerwiegende unerwünschte Ereignisse (SUE), Therapieabbruch wegen UE und
+Nierenfunktionsstörung
+
+18
+Für den Endpunkt SUE zeigt sich weder in der Hauptstudie noch in der Extensionsstudie ein
+statistisch signifikanter Unterschied zwischen den Behandlungsarmen.
+Für die Endpunkte Therapieabbruch wegen UE und Nierenfunktionsstörung lassen sich
+sowohl Hauptstudie als auch in der Extensionsstudie keine statistisch signifikanten
+Unterschiede zwischen den Behandlungsgruppen feststellen.
+
+Nicht schwere symptomatische, bestätigte Hypoglykämien
+Für die nicht schweren symptomatischen, bestätigten Hypoglykämien in der Operationa-
+lisierung eines Plasmaglukosewertes < 56 mg/dl liegt sowohl Hauptstudie als auch in der
+Extensionsstudie jeweils kein statistisch signifikanter Unterschied zwischen den
+Behandlungsarmen vor.
+
+Schwere Hypoglykämien
+Schwere Hypoglykämien wurden als Hypoglykämien operationalisiert, die als SUE
+dokumentiert wurden. Für den Endpunkt schwere Hypoglykämien (SUE) zeigen sich sowohl
+in der Hauptstudie als auch in der Extensionsstudie keine statistisch signifikanten
+Unterschiede zwischen den Behandlungsgruppen.
+
+Gesamtbewertung
+Für die erneute Nutzenbewertung von Insulin degludec bei erwachsenen Diabetes mellitus
+Typ 2-Patienten, die trotz Diät und Bewegung und der Behandlung mit Insulin (mit oder ohne
+einem anderen blutzuckersenkenden Arzneimittel) keine ausreichende Blutzuckereinstellung
+aufweisen, wird die zweiarmige, offene Phase-III-Studie NN1250-3582 mit einer
+Behandlungsdauer von 52 Wochen sowie die dazugehörige Extensionsstudie NN1250-3667
+(weitere 26 Wochen) herangezogen. Untersucht wurde der Vergleich von Insulin degludec
+gegenüber Insulin glargin, jeweils in Kombination mit Insulin aspart mit oder ohne OAD.
+Es liegen Daten zu verschiedenen Endpunkten aus den Endpunktkategorien Mortalität,
+Morbidität, gesundheitsbezogene Lebensqualität und Nebenwirkungen vor. Für die
+erhobenen Endpunkte ergeben sich keine statistisch signifikanten Unterschiede zwischen
+den Behandlungsarmen. Auf dieser Grundlage können weder positive noch negative Effekte
+für Insulin degludec gegenüber Insulin glargin abgeleitet werden.
+In der Gesamtbetrachtung ist ein Zusatznutzen für Insulin degludec in der vorliegenden
+Patientengruppe gegenüber der zweckmäßigen Vergleichstherapie nicht belegt.
+
+2.1.4   Kurzfassung der Bewertung
+
+Bei der vorliegenden Bewertung handelt es sich um die erneute Nutzenbewertung des
+Arzneimittels Tresiba® mit dem Wirkstoff Insulin degludec aufgrund neuer wissenschaftlicher
+Erkenntnisse, der in der Mono- oder Kombinationstherapie zur Behandlung des Diabetes
+mellitus angezeigt ist. Die erneute Nutzenbewertung bezieht sich ausschließlich auf das
+Anwendungsgebiet zur Behandlung von erwachsenen Patienten mit Diabetes mellitus Typ 2.
+In dem zu betrachtenden Anwendungsgebiet wurden zwei Patientengruppen unterschieden:
+a) Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und die
+Behandlung mit mindestens zwei blutzuckersenkenden Arzneimitteln (außer Insulin) den
+Blutzucker nicht ausreichend kontrollieren,
+b) Erwachsene Patienten mit Diabetes mellitus Typ 2, bei denen Diät und Bewegung und die
+Behandlung mit Insulin (mit oder ohne einem anderen blutzuckersenkenden Arzneimittel)
+den Blutzucker nicht ausreichend kontrollieren.
+
+
+
+
+                                                                                        19
+Patientengruppe a)
+Als zweckmäßige Vergleichstherapie wurde vom G-BA bestimmt:
+
+−    Humaninsulin + Metformin oder
+−    Humaninsulin + Empagliflozin2 oder
+−    Humaninsulin + Liraglutid2 oder
+−    Humaninsulin, wenn die bestimmten Kombinationspartner gemäß Fachinformation
+     unverträglich oder kontraindiziert oder aufgrund eines fortgeschrittenen Diabetes
+     mellitus Typ 2 nicht ausreichend wirksam sind
+Es wurde die randomisierte, aktivkontrollierte und doppelblinde Studie DEVOTE vorgelegt. In
+dieser Studie wurden Diabetes Typ 2-Patienten mit manifester kardiovaskulärer Erkrankung
+und Risikofaktoren für manifeste kardiovaskuläre Erkrankung untersucht. Es erfolgte ein
+Vergleich gegenüber Insulin glargin.
+In der Studie fand eine zielwertbasierte Titration anhand von NPG-Werten statt, die für die
+Mehrheit der Patienten nicht patientenindividuell, sondern viel zu niedrig gewählt wurde. Aus
+diesem Grund sind die Ergebnisse zum Endpunkt „schwere Hypoglykämien“, die einen
+statistisch signifikanten Unterschied zeigen, mit großen Unsicherheiten behaftet. Bei den
+anderen Endpunkten ließen sich keine statistisch signifikanten Unterschiede feststellen.
+Außerdem wurden die offenen, randomisierten und aktiv kontrollierten Studien NN1250-3579
+(52 Wochen) mit der Extensionsstudie 3579Ext (weitere 52 Wochen) sowie NN1250 3587
+und NN1250 3672 (je 26 Wochen) vorgelegt, die einen Vergleich von Insulin degludec
+versus Insulin glargin, jeweils in Kombination mit Metformin untersuchen. Insgesamt ist bei
+den Ergebnissen der Metaanalyse der einzelnen Studien sowie der Extensionsstudie davon
+auszugehen, dass weder Vor- noch Nachteile für Insulin degludec bei den erhobenen
+Endpunkten bestehen.
+In der Gesamtschau ist der Zusatznutzen von Insulin degludec gegenüber der
+zweckmäßigen Vergleichstherapie für diese Patientengruppe nicht belegt.
+Patientengruppe b)
+Als zweckmäßige Vergleichstherapie wurde vom G-BA bestimmt:
+
+−    Die Optimierung des Humaninsulinregimes (ggf. + Metformin oder Empagliflozin2 oder
+     Liraglutid2)
+Es wurde die randomisierte, aktivkontrollierte und doppelblinde Studie DEVOTE vorgelegt. In
+dieser Studie wurden Diabetes Typ 2-Patienten mit manifester kardiovaskulärer Erkrankung
+und Risikofaktoren für manifeste kardiovaskuläre Erkrankung untersucht. Es erfolgte ein
+Vergleich gegenüber Insulin glargin.
+In der Studie fand eine zielwertbasierte Titration anhand von NPG-Werten statt, die für die
+Mehrheit der Patienten nicht patientenindividuell, sondern viel zu niedrig gewählt wurde. Aus
+diesem Grund sind die Ergebnisse zum Endpunkt „schwere Hypoglykämien“, die einen
+statistisch signifikanten Unterschied zeigen, mit großen Unsicherheiten behaftet. Bei den
+anderen Endpunkten ließen sich keine statistisch signifikanten Unterschiede feststellen.
+Außerdem wurden drei RCTs vorgelegt, von denen nur die RCT NN1250-3582 (inklusive der
+zugehörigen Extensionsstudie) relevant ist. Die relevante Studie hatte eine Behandlungs-
+dauer von 52 Wochen plus weitere 26 Wochen in der zugehörigen Extensionsstudie.
+Verglichen wurde Insulin degludec gegenüber Insulin glargin. Für die erhobenen Endpunkte
+ergeben sich keine statistisch signifikanten Unterschiede zwischen den Behandlungsarmen.
+In der Gesamtschau ist der Zusatznutzen von Insulin degludec gegenüber der
+zweckmäßigen Vergleichstherapie für diese Patientengruppe nicht belegt.
+
+
+
+20
+2.2    Anzahl der Patienten bzw. Abgrenzung der für die Behandlung infrage
+       kommenden Patientengruppen
+
+Bei diesen Angaben zur Anzahl der Patienten handelt es sich um die Zielpopulation in der
+gesetzlichen Krankenversicherung.
+Die Datenlage hinsichtlich der publizierten Literatur zur aktuellen Prävalenz und Inzidenz des
+Diabetes mellitus in Deutschland ist trotz der Bedeutung der Erkrankung beschränkt und
+heterogen. Insbesondere zu Teilpopulationen in der Therapiekaskade der Diabetestherapie
+fehlen valide publizierte Daten, weshalb Patientenzahlen zum Teil lediglich geschätzt werden
+können.
+Der G-BA berücksichtigt die in bereits getroffenen Beschlüssen nach § 35a SGB V für
+Antidiabetika angegebenen Patientenzahlen der entsprechenden Therapiesituationen, ggf.
+unter Berücksichtigung einer Spanne. Dies trägt den Unsicherheiten hinsichtlich der
+eingeschränkten epidemiologischen Datenlage zu Diabetes mellitus Typ 2 Rechnung.
+Bezüglich der Anteile an Patienten mit und ohne manifeste kardiovaskuläre Erkrankung7
+liegen keine validen Angaben vor. Dies trägt zu einer weiteren Unsicherheit hinsichtlich der
+Patientenzahlen bei. Daher erfolgt im Beschluss eine Angabe der Patientengruppen ohne
+separate Darstellungen der Patientenzahlen mit und ohne manifeste kardiovaskuläre
+Erkrankung7.
+
+2.3    Anforderungen an eine qualitätsgesicherte Anwendung
+
+Die Vorgaben der Fachinformation sind zu berücksichtigen. Die europäische Zulassungs-
+behörde European Medicines Agency (EMA) stellt die Inhalte der Fachinformation zu
+Tresiba® (Wirkstoff: Insulin degludec) unter folgendem Link frei zugänglich zur Verfügung
+(letzter Zugriff: 12. April 2019):
+  https://www.ema.europa.eu/en/documents/product-information/tresiba-epar-product-
+  information_de.pdf
+
+2.4    Therapiekosten
+
+Die Therapiekosten basieren auf den Angaben der Fachinformationen sowie den Angaben
+der Lauer-Taxe (Stand: 15. April 2019).
+Hinsichtlich des Verbrauchs wurde der Jahresdurchschnittsverbrauch unter Angabe der
+Anzahl an Tabletten bzw. Einzeldosen ermittelt. Es wurden die in den Fachinformationen
+empfohlenen Tagesdosen als Berechnungsgrundlage herangezogen und, falls erforderlich,
+entsprechende Spannen gebildet. Auf die gesonderte Darstellung der ggf. erforderlichen
+Titrationsphasen wurde verzichtet, da es sich bei der antidiabetischen Therapie um eine
+kontinuierliche Dauertherapie handelt und die Titration patientenindividuell erfolgt.
+Die Angaben zur Behandlungsdauer und zur Dosierung wurden den entsprechenden
+Fachinformationen entnommen.
+Für Metformin werden Anfangsdosierungen von 500 mg oder 850 mg zwei- bis dreimal
+täglich empfohlen, jedoch sind Dosissteigerungen auf bis zu 3.000 mg Metformin täglich
+möglich; die Gesamttagesdosis wird in der Regel auf 2 – 3 Dosen verteilt. Für die
+Kostendarstellung wird deshalb eine Wirkstärke von 1.000 mg Metformin/Tablette zugrunde
+gelegt.
+Für Empagliflozin wird eine Anfangsdosierung von 10 mg einmal täglich als
+Kombinationstherapie mit anderen blutzuckersenkenden Arzneimitteln einschließlich Insulin
+empfohlen. Bei unzureichender Stoffwechseleinstellung kann die Dosis auf 25 mg einmal
+täglich erhöht werden. Für die Kostendarstellung werden daher beide Wirkstärken
+berücksichtigt.
+                                                                                           21
+Die tägliche Anfangsdosis von Liraglutid beträgt 0,6 mg; nach einer Woche wird diese auf
+1,2 mg erhöht. Laut Fachinformation können Patienten ggf. von einer weiteren Erhöhung der
+Dosis von 1,2 mg auf 1,8 mg profitieren. Die entsprechende Dosis von Liraglutid wird täglich
+subkutan injiziert (Fertigpen).
+Für die Insulintherapie ist eine Vielzahl an verschiedenen Insulindosierschemata möglich.
+Zudem ist gemäß dem verwendeten Insulindosierschema die Menge an Insulin und die
+Applikationshäufigkeit individuell entsprechend der körperlichen Aktivität und der
+Lebensweise des Patienten abzustimmen. Um eine Vergleichbarkeit der Kosten zu
+gewährleisten, sind für die Darstellung der Behandlungsdauer und Dosierung vereinfachte
+Annahmen getroffen worden. In der Tabelle „Behandlungsdauer“ ist der Behandlungsmodus
+für Humaninsulin (NPH-Insulin bzw. Mischinsulin) als „1 - 2 x täglich“ dargestellt, auch wenn
+die Applikationshäufigkeit bei den einzelnen Patienten abweichen kann. Gemäß
+Fachinformation 11 liegt der durchschnittliche Insulinbedarf oft bei 0,5 - 1,0 I.E. pro kg
+Körpergewicht pro Tag. Eine Einheit (E) Insulin degludec enstpricht 1 I.E. Humaninsulin. Der
+basale Insulin-Tagesbedarf liegt in der Regel bei 40 - 60 % des Insulin-Tagesbedarfs, der
+restliche Bedarf wird entsprechend über mahlzeitabhängiges Bolusinsulin gedeckt. Bei der
+Berechnung des Bolusinsulin-Verbrauchs wird von drei Hauptmahlzeiten ausgegangen.
+Diese Angaben wurden der Berechnung der Dosis Insulin pro Patient zugrunde gelegt.
+Für die Berechnung des Verbrauchs von gewichtsabhängig zu dosierenden Arzneimitteln
+legt der G-BA grundsätzlich nicht indikationsspezifische Durchschnittsgewichte zugrunde.
+Für das Körpergewicht wird deshalb ein durchschnittliches Köpergewicht von 77,0 kg
+entsprechend der amtlichen Repräsentativstatistik „Mikrozensus 2017“ angenommen 12.
+Folglich bleiben Gewichtsunterschiede zwischen Frauen und Männern sowie der
+Sachverhalt, dass das Körpergewicht bei Patientinnen und Patienten mit Diabetes mellitus
+Typ 2 über dem Durchschnittswert von 77,0 kg liegen kann, für die Kostenberechnung
+unberücksichtigt.
+
+
+Behandlungsdauer:
+
+Bezeichnung der            Behandlungs-             Anzahl               Behandlungs-        Behandlungs-
+Therapie                   modus                    Behandlungen/        dauer/              tage/Patient/
+                                                    Patient/Jahr         Behandlung          Jahr
+                                                                         (Tage)
+Zu bewertendes Arzneimittel (Patientenpopulationen a) und b))
+Insulin degludec           kontinuierlich,          365                  1                   365
+                           1 x täglich
+ggf. Humaninsulin          kontinuierlich,          365                  1                   365
+(Bolusinsulin)             3 x täglich
+
+
+ggf. + Metformin           kontinuierlich,          365                  1                   365
+                           2 - 3 x täglich
+
+
+
+
+11
+     Fachinformation zu Insuman ® Basal, Stand: April 2018.
+12
+     Statistisches Bundesamt, Wiesbaden, 02.08.2018. Mikrozensus 2017: Fragen zur Gesundheit; Körpermaße der
+     Bevölkerung 2017 [online]. [Zugriff: 13.09.2018].
+     https://www.destatis.de/DE/Publikationen/Thematisch/Gesundheit/Gesundheitszustand/Koerpermasse523900
+     3179004.pdf?__blob=publicationFile
+
+22
+Bezeichnung der       Behandlungs-      Anzahl          Behandlungs-   Behandlungs-
+Therapie              modus             Behandlungen/   dauer/         tage/Patient/
+                                        Patient/Jahr    Behandlung     Jahr
+                                                        (Tage)
+Zweckmäßige Vergleichstherapie
+Patientenpopulation a)
+Humaninsulin          kontinuierlich,   365             1              365
+(NPH-Insulin)         1 - 2 x täglich
+ggf. + Metformin      kontinuierlich,   365             1              365
+                      2 - 3 x täglich
+ggf. + Empagliflozin kontinuierlich,    365             1              365
+                     1 x täglich
+ggf. + Liraglutid     kontinuierlich,   365             1              365
+                      1 x täglich
+Patientenpopulation b)
+Intensivierte
+konventionelle
+Insulintherapie
+Humaninsulin          kontinuierlich,   365             1              365
+(Bolusinsulin)        3 x täglich
+
+
+
+Humaninsulin          kontinuierlich,   365             1              365
+(NPH-Insulin)         1 - 2 x täglich
+
+
+Konventionelle
+Insulintherapie
+Mischinsulin          kontinuierlich,   365             1              365
+                      1 - 2 x täglich
+ggf. + Metformin      kontinuierlich,   365             1              365
+                      2 - 3 x täglich
+ggf. + Empagliflozin kontinuierlich,    365             1              365
+                     1 x täglich
+ggf. + Liraglutid     kontinuierlich,   365             1              365
+                      1 x täglich
+
+
+
+
+                                                                                23
+Verbrauch:
+Bezeichnung          Dosierung        Dosis/        Verbrauch           Behand-    Jahresdurchschnitts-
+der Therapie                          Patient/      nach                lungstage/ verbrauch nach
+                                      Behand-       Wirkstärke/         Patient/   Wirkstärke
+                                      lungstage     Behandlungs-        Jahr
+                                                    tag
+Zu bewertendes Arzneimittel
+Insulin              0,5 -            38,5 E -      1 x 38,5 E. -                      14.052,5 E. -
+degludec                                                                365
+                     1 E. pro         77 E.         1 x 77 E.                          28.105 E.
+                     kg/KG
+Insulin         0,2 -                 15,4 E. -     1 x 15,4 E. 13 -    365            5.621 E. -
+degludec (in
+                0,6 E. pro            46,2 E.       1 x 46,2 E.4
+Kombination mit                                                                        16.863 E.
+                kg/KG
+Bolusinsulin)
+ggf. + Human-        0,2 -            15,4 I.E. - 1 x 15,4 I.E.4 -       365           5.621 I.E. -
+insulin
+                     0,6 I.E. pro     46,2 I.E.     1 x 46,2 I.E.4
+(Bolusinsulin)                                                                         16.863 I.E.
+                     kg/KG
+ggf.+ Metformin      500 mg -         1.000 mg      1 x 1.000 mg        365            365 x 1.000 mg - -
+                                      -             -
+                     1.000 mg         3000 mg       3 x 1.000 mg                       1095 x 1.000 mg
+Zweckmäßige Vergleichstherapie
+Patientenpopulation a)
+Humaninsulin         0,5 -            38,5 -        1 x 38,5 I.E. -     365            14.052,5 I.E. -
+(NPH)
+                     1 I.E. pro       77 I.E.       1 x 77 I.E.                        28.105 I.E.
+                     kg/KG
+ggf. +               500 mg -         1.000 mg      1 x 1.000 mg        365            365 x 1.000 mg -
+Metformin                             -             -
+oder
+                     1.000 mg         3.000 mg      3 x 1.000 mg                       1095 x 1.000 mg
+ggf. +               10 mg -          10 mg -       1 x 10 mg -         365            365 x 10 mg -
+Empagliflozin
+oder                 25 mg            25 mg         1 x 25 mg                          365 x 25 mg
+                              14
+ggf. + Liraglutid    1,2 mg -         1,2 mg -      1 x 1,2 mg -        365            365 x 1,2 mg -
+                     1,8 mg           1,8 mg        1 x 1,8 mg                         365 x 1,8 mg
+
+
+
+
+13
+   40 – 60 % des Insulin-Tagesbedarfs werden in der Regel über Basalinsulin gedeckt: 0,5 - 1,0 I.E./kg
+Körpergewicht/Tag; Bezug: 77 kg Körpergewicht („Mikrozensus 2017“); zusätzlich wird schnell wirkendes Insulin
+(Bolusinsulin) zu den Hauptmalzeiten gegeben.
+14
+   Jeder Fertigpen enthält gemäß Fachinformation 18 mg Liraglutid in 3 ml Lösung, entsprechend 10 – 15
+Einzeldosen. Es sind Packungen mit 2, 5 und 10 Fertigpens erhältlich.
+
+24
+Bezeichnung         Dosierung      Dosis/      Verbrauch         Behand-    Jahresdurchschnitts-
+der Therapie                       Patient/    nach              lungstage/ verbrauch nach
+                                   Behand-     Wirkstärke/       Patient/   Wirkstärke
+                                   lungstage   Behandlungs-      Jahr
+                                               tag
+Patientenpopulation b)
+Intensivierte
+konventionelle
+Insulintherapie13
+Humaninsulin        0,2 -          15,4 -      1 x 15,4 -        365        5.621 I.E. -
+(NPH-Insulin) +
+                    0,6 I.E. pro   46,2 I.E.   1 x 46,2 I.E.                16.863 I.E.
+                    kg/KG
+Humaninsulin        0,2 -          15,4 -      1 x 15,4 --       365        5.621 I.E. -
+(Bolusinsulin)
+                    0,6 I.E. pro   46,2 I.E.   1 x 46,2 I.E.                16.863 I.E.
+                    kg/KG
+Konventionelle
+Insulintherapie
+Mischinsulin        0,5 -          38,5 -      1 x 38,5 I.E. -   365        14.052,5 I.E. -
+                    1 I.E. pro     77 I.E.     1 x 77 I.E.                  28.105 I.E.
+                    kg/KG
+ggf. +              500 mg -       1.000 mg    1 x 1.000 mg      365        365 x 1.000 mg -
+Metformin                          -           -
+                    1.000 mg       3.000 mg    3 x 1.000 mg                 1095 x 1.000 mg
+ggf. +              10 mg -        10 mg -     1 x 10 mg -       365        365 x 10 mg -
+Empagliflozin
+                    25 mg          25 mg       1 x 25 mg                    365 x 25 mg
+ggf. + Liraglutid   1,2 mg16 -     1,2 mg -    1 x 1,2 mg -      365        365 x 1,2 mg -
+                    1,8 mg         1,8 mg      1 x 1,8 mg                   365 x 1,8 mg
+
+
+
+Kosten:
+Kosten der Arzneimittel:
+
+Bei der Berechnung der Therapiekosten wurde für die Wirkstoffe Metformin, Glibenclamid
+und Glimepirid, Humaninsulin und Mischinsulin jeweils der Festbetrag zugrunde gelegt.
+
+Für die Berechnung der Arzneimittelkosten wurde zunächst anhand des Verbrauchs die
+benötigte Anzahl an Packungen nach Wirkstärke ermittelt. Mit der ermittelten Anzahl der
+benötigten Packungen wurden dann die Arzneimittelkosten auf Basis der Kosten pro
+Packung, nach Abzug der gesetzlich vorgeschriebenen Rabatte, berechnet. Die
+Arzneimittelkosten wurden zur besseren Vergleichbarkeit näherungsweise sowohl auf der
+Basis der Apothekenverkaufspreisebene als auch abzüglich der gesetzlich vorgeschriebenen
+Rabatte nach § 130a SGB V (Abs. 1, 1a, 3a) und nach § 130 Abs. 1 SGB V, erhoben.
+
+
+
+                                                                                              25
+Im Fall einer konventionellen Insulintherapie wurden die Kosten für Mischinsulin (also einer
+Humaninsulin-Zubereitung in einem bestimmten Mischungsverhältnis von 30 %
+Normalinsulin zu 70 % Basalinsulin) zugrunde gelegt.
+Bezeichnung der Therapie           Packungs-   Kosten         Rabatt   Rabatt    Kosten
+                                   größe       (Apotheken-    § 130    § 130a    nach Abzug
+                                               abgabepreis)   SGB V    SGB V     gesetzlich
+                                                                                 vorgeschrie-
+                                                                                 bener
+                                                                                 Rabatte
+Zu bewertendes Arzneimittel
+
+Insulin degludec                   3000 E.     103,54 €       1,77 €   5,12 €    96,65 €
+
+ggf. + Metformin 15 1.000 mg 180 FTA           18,78 €        1,77 €   0,62 €    16,39 €
+
+ggf. + Humaninsulin        3000 I.E.           89,64 €        1,77 €   6,22 €    81,65 €
+               15
+(Bolusinsulin)
+Zweckmäßige Vergleichstherapie
+
+Empagliflozin 10 mg                100 FTA     192,34 €       1,77 €   10,04 €   180,53 €
+Empagliflozin 25 mg                100 FTA     192,34 €       1,77 €   10,04 €   180,53 €
+Humaninsulin                       3000 I.E.   89,64 €        1,77 €   6,22 €    81,65 €
+(Bolusinsulin)15
+Humaninsulin (NPH-                 3000 I.E.   89,64 €        1,77 €   6,22 €    81,65 €
+Insulin)15
+Liraglutid 18 mg            100 – 150    570,64 €      1,77 €       30,99 € 537,88 €
+                            ED
+ggf. + Metformin15 1.000 mg 180 FTA      18,78 €       1,77 €       0,62 €      16,39 €
+             15
+Mischinsulin                3000 I.E.    89,64 €       1,77 €       6,22 €      81,65 €
+Abkürzungen: E = Einheiten; ED = Einzeldosen; FTA = Filmtabletten, I.E. = Internationale
+Einheiten; TAB = Tabletten
+Stand Lauer-Taxe: 15. April 2019
+
+
+Kosten für zusätzlich notwendige GKV-Leistungen:
+Es werden nur direkt mit der Anwendung des Arzneimittels unmittelbar in Zusammenhang
+stehende Kosten berücksichtigt. Sofern bei der Anwendung des zu bewertenden
+Arzneimittels und der zweckmäßigen Vergleichstherapie entsprechend der Fachinformation
+regelhaft Unterschiede bei der notwendigen Inanspruchnahme ärztlicher Behandlung oder
+bei der Verordnung sonstiger Leistungen bestehen, sind die hierfür anfallenden Kosten als
+Kosten für zusätzlich notwendige GKV-Leistungen zu berücksichtigen.
+Ärztliche Behandlungskosten, ärztliche Honorarleistungen, sowie für Routineuntersuchungen
+(z.B. regelhafte Laborleistungen wie Blutbilduntersuchungen) anfallende Kosten, die nicht
+über den Rahmen der üblichen Aufwendungen im Verlauf der Behandlung hinausgehen,
+werden nicht abgebildet.
+Da bei der Anwendung des zu bewertenden Arzneimittels und der zweckmäßigen
+Vergleichstherapie entsprechend der Fachinformation keine regelhaften Unterschiede bei
+der notwendigen Inanspruchnahme ärztlicher Behandlung oder bei der Verordnung sonstiger
+
+
+15
+     Festbetrag
+
+26
+Leistungen bestehen, waren keine Kosten für zusätzlich notwendige GKV-Leistungen zu
+berücksichtigen.
+
+Sonstige GKV-Leistungen:
+keine
+
+
+3.      Bürokratiekosten
+
+Durch den vorgesehenen Beschluss entstehen keine neuen bzw. geänderten
+Informationspflichten für Leistungserbringer im Sinne von Anlage II zum 1. Kapitel VerfO und
+dementsprechend keine Bürokratiekosten.
+
+
+4.      Verfahrensablauf
+
+Der pharmazeutische Unternehmer hat mit Schreiben vom 4. Juli 2017, eingegangen am 5.
+Juli 2017, eine Beratung nach § 8 AM-NutzenV unter anderem zur Frage der zweckmäßigen
+Vergleichstherapie angefordert. Der Unterausschuss Arzneimittel hat in seiner Sitzung am
+12.    September      2017   die zweckmäßige Vergleichstherapie festgelegt. Das
+Beratungsgespräch fand am 21. September 2017 statt.
+Aufgrund neuer wissenschaftlicher Erkenntnisse wurde die zweckmäßige Vergleichstherapie
+überprüft und der Unterausschuss Arzneimittel hat in seiner Sitzung am 24. Oktober 2017
+die zweckmäßige Vergleichstherapie erneut festgelegt.
+Am 28. November 2018 hat der pharmazeutische Unternehmer gemäß 5. Kapitel § 8
+Absatz 1 Nummer 5 VerfO, fristgerecht ein Dossier zur Nutzenbewertung von Insulin
+degludec beim G-BA eingereicht.
+Der G-BA hat das IQWiG mit Schreiben vom 29. November 2018 in Verbindung mit dem
+Beschluss des G-BA vom 1. August 2011 über die Beauftragung des IQWiG hinsichtlich der
+Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen gemäß § 35a SGB V mit
+der Bewertung des Dossiers zum Wirkstoff Insulin degludec beauftragt.
+Die Dossierbewertung des IQWiG wurde dem G-BA am 27. Februar 2019 übermittelt und mit
+der Veröffentlichung am 1. März 2019 auf den Internetseiten des G-BA das schriftliche
+Stellungnahmeverfahren eingeleitet. Die Frist zur Abgabe von Stellungnahmen war der 22.
+März 2019.
+Die mündliche Anhörung fand am 8. April 2019 statt.
+Zur Vorbereitung einer Beschlussempfehlung hat der Unterausschuss Arzneimittel eine
+Arbeitsgruppe (AG § 35a) beauftragt, die sich aus den von den Spitzenorganisationen der
+Leistungserbringer benannten Mitgliedern, der vom GKV-Spitzenverband benannten
+Mitglieder sowie Vertreter(innen) der Patientenorganisationen zusammensetzt. Darüber
+hinaus nehmen auch Vertreter(innen) des IQWiG an den Sitzungen teil.
+Die Auswertung der eingegangenen Stellungnahmen sowie der mündlichen Anhörung wurde
+in der Sitzung des Unterausschusses am 7. Mai 2019 beraten und die Beschlussvorlage
+konsentiert.
+Das Plenum hat in seiner Sitzung am 16. Mai 2019 die Änderung der Arzneimittel-Richtlinie
+beschlossen.
+
+
+
+
+                                                                                         27
+Zeitlicher Beratungsverlauf
+
+Sitzung         Datum                 Beratungsgegenstand
+
+Unterausschuss 12. September 2017     Bestimmung der zweckmäßigen Vergleichs-
+Arzneimittel                          therapie
+AG § 35a        5. Oktober 2017       Überprüfung der zweckmäßigen Vergleichs-
+                18. Oktober 2017      therapie
+Unterausschuss 24. Oktober 2017       Änderung der zweckmäßigen Vergleichstherapie
+Arzneimittel
+AG § 35a        2. April 2019         Information über eingegangene Stellungnahmen,
+                                      Vorbereitung der mündlichen Anhörung
+Unterausschuss 8. April 2019          Durchführung der mündlichen Anhörung
+Arzneimittel                          Ggf.: Beauftragung des IQWiG mit ergänzender
+                                      Bewertung von Unterlagen
+AG § 35a        16. April 2019        Beratung über die Dossierbewertung des IQWiG
+                30. April 2019        und die Auswertung des Stellung-
+                                      nahmeverfahrens
+Unterausschuss 7. Mai 2019            Abschließende Beratung der Beschlussvorlage
+Arzneimittel
+
+Plenum          16. Mai 2019          Beschlussfassung über die Änderung der
+                                      Anlage XII AM-RL
+
+
+Berlin, den 16. Mai 2019
+
+                              Gemeinsamer Bundesausschuss
+                                   gemäß § 91 SGB V
+                                     Der Vorsitzende
+
+
+
+                                      Prof. Hecken
+
+
+
+
+28
+

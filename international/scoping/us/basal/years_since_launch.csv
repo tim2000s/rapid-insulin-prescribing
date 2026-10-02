@@ -1,0 +1,21 @@
+country,launch_year_index,degludec_year,degludec_pct,ultra_year,ultra_pct,ultra_basis
+US Medicare Part D,1,2016,1.81,2018,0.13,Medicare Part D claims
+US Medicare Part D,2,2017,5.37,2019,0.42,Medicare Part D claims
+US Medicare Part D,3,2018,10.39,2020,0.8,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,4,2019,13.3,2021,1.41,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,5,2020,14.69,2022,2.37,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,6,2021,15.53,2023,3.55,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,7,2022,16.4,2024,8.97,Medicare Part D insulin units (ml x U/ml)
+US Medicare Part D,8,2023,17.31,2025,5.32,Medicare Part D claims
+US Medicare Part D,9,2024,20.25,2026,,
+US Medicare Part D,10,2025,,2027,,
+US Medicaid,1,2016,0.79,2018,0.09,Medicaid insulin units (ml x U/ml)
+US Medicaid,2,2017,3.24,2019,0.24,Medicaid insulin units (ml x U/ml)
+US Medicaid,3,2018,5.17,2020,0.36,Medicaid insulin units (ml x U/ml)
+US Medicaid,4,2019,6.41,2021,0.55,Medicaid insulin units (ml x U/ml)
+US Medicaid,5,2020,6.88,2022,0.85,Medicaid insulin units (ml x U/ml)
+US Medicaid,6,2021,7.0,2023,1.18,Medicaid insulin units (ml x U/ml)
+US Medicaid,7,2022,7.07,2024,1.49,Medicaid insulin units (ml x U/ml)
+US Medicaid,8,2023,6.74,2025,1.89,Medicaid insulin units (ml x U/ml)
+US Medicaid,9,2024,7.58,2026,2.4,Medicaid insulin units (ml x U/ml)
+US Medicaid,10,2025,7.68,2027,,

@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-02",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20210813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "68376",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/761109Orig1s003ltr.pdf",
+              "date": "20210816",
+              "type": "Letter"
+            },
+            {
+              "id": "68391",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761109s003lbl.pdf",
+              "date": "20210817",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "65976",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761109Orig1s000lbl.pdf",
+              "date": "20210125",
+              "type": "Label"
+            },
+            {
+              "id": "66000",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/761109Orig1s000_replacement_ltr.pdf",
+              "date": "20210126",
+              "type": "Letter"
+            },
+            {
+              "id": "67534",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761109Orig1s000TOC.html",
+              "date": "20210518",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20221014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "72344",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/761109Orig1s004ltr.pdf",
+              "date": "20221017",
+              "type": "Letter"
+            },
+            {
+              "id": "72394",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/761109s004lbl.pdf",
+              "date": "20221017",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA761109",
+      "sponsor_name": "ELI LILLY AND CO",
+      "openfda": {
+        "application_number": [
+          "BLA761109"
+        ],
+        "brand_name": [
+          "LYUMJEV",
+          "LYUMJEV KWIKPEN",
+          "LYUMJEV TEMPO PEN",
+          "LYUMJEV JUNIOR KWIKPEN"
+        ],
+        "generic_name": [
+          "INSULIN LISPRO-AABC"
+        ],
+        "manufacturer_name": [
+          "Eli Lilly and Company"
+        ],
+        "product_ndc": [
+          "0002-7726",
+          "0002-7728",
+          "0002-8207",
+          "0002-8351",
+          "0002-8235",
+          "0002-8228"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "INSULIN LISPRO"
+        ],
+        "rxcui": [
+          "2380231",
+          "2380236",
+          "2380248",
+          "2380250",
+          "2380254",
+          "2380256",
+          "2380259",
+          "2380260",
+          "2380265",
+          "2380266",
+          "2380267",
+          "2380268"
+        ],
+        "spl_id": [
+          "965b6bd6-37d4-451e-8c41-4df16df442d1"
+        ],
+        "spl_set_id": [
+          "c5a056e2-b568-4ca6-9ed8-79c010942d00"
+        ],
+        "package_ndc": [
+          "0002-7728-01",
+          "0002-7728-99",
+          "0002-7726-01",
+          "0002-7726-05",
+          "0002-8207-01",
+          "0002-8207-05",
+          "0002-8207-61",
+          "0002-8351-01",
+          "0002-8351-05",
+          "0002-8235-01",
+          "0002-8235-05",
+          "0002-8235-99",
+          "0002-8228-01",
+          "0002-8228-27"
+        ],
+        "nui": [
+          "N0000004931",
+          "N0000175453"
+        ],
+        "pharm_class_cs": [
+          "Insulin [Chemical/Ingredient]"
+        ],
+        "pharm_class_epc": [
+          "Insulin Analog [EPC]"
+        ],
+        "unii": [
+          "GFX7QIS1II"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LYUMJEV",
+          "active_ingredients": [
+            {
+              "name": "INSULIN LISPRO-AABC",
+              "strength": "200UNITS/ML(U-200)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LYUMJEV",
+          "active_ingredients": [
+            {
+              "name": "INSULIN LISPRO-AABC",
+              "strength": "100UNITS/ML(U-100)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

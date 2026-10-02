@@ -1,0 +1,1397 @@
+IQWiG-Berichte – Nr. 335
+
+
+Insulin degludec/Liraglutid
+(neues Anwendungsgebiet) –
+Nutzenbewertung
+gemäß § 35a SGB V
+
+
+
+
+Dossierbewertung
+
+Auftrag: A15-30
+Version: 1.0
+Stand: 11.11.2015
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+
+
+
+Impressum
+Herausgeber:
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+
+
+
+Thema:
+Insulin degludec/Liraglutid (neues Anwendungsgebiet) – Nutzenbewertung gemäß § 35a
+SGB V
+
+
+
+Auftraggeber:
+Gemeinsamer Bundesausschuss
+
+
+
+Datum des Auftrags:
+05.08.2015
+
+
+
+Interne Auftragsnummer:
+A15-30
+
+
+
+
+Anschrift des Herausgebers:
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+Im Mediapark 8 (KölnTurm)
+50670 Köln
+
+Tel.: +49 (0)221 – 35685-0
+Fax: +49 (0)221 – 35685-1
+E-Mail: berichte@iqwig.de
+Internet: www.iqwig.de
+
+ISSN: 1864-2500
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)           -i-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Medizinisch-fachliche Beratung:
+In die vorliegende Dossierbewertung wurde keine Beraterin / kein Berater zu medizinisch-
+fachlichen Fragen eingebunden.
+
+An der Dossierbewertung beteiligte Mitarbeiter des IQWiG 1:
+   Teresa Labahn
+   Andreas Gerber-Grote
+   Ulrich Grouven
+   Thomas Kaiser
+   Marco Knelangen
+   Sarah Mostardt
+   Katrin Nink
+
+
+
+
+Schlagwörter: Insulin degludec, Liraglutid, Diabetes Mellitus – Typ 2, Nutzenbewertung
+
+Keywords: Insulin degludec, Liraglutide, Diabetes Mellitus – Type 2, Benefit Assessment
+
+
+
+
+1
+  Aufgrund gesetzlicher Datenschutzbestimmungen haben Mitarbeiter das Recht, ihrer Namensnennung nicht
+zuzustimmen.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                         - ii -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+
+
+Inhaltsverzeichnis
+                                                                                                                                Seite
+Tabellenverzeichnis .................................................................................................................. v
+Abkürzungsverzeichnis ........................................................................................................... vi
+1 Hintergrund ....................................................................................................................... 1
+  1.1 Verlauf des Projekts.................................................................................................... 1
+  1.2 Verfahren der frühen Nutzenbewertung .................................................................. 1
+  1.3 Erläuterungen zum Aufbau des Dokuments ............................................................ 1
+2 Nutzenbewertung ............................................................................................................... 3
+  2.1 Kurzfassung der Nutzenbewertung........................................................................... 3
+  2.2 Fragestellung ............................................................................................................... 5
+  2.3 Informationsbeschaffung und Studienpool .............................................................. 5
+  2.4 Ergebnisse zum Zusatznutzen.................................................................................... 6
+  2.5 Ausmaß und Wahrscheinlichkeit des Zusatznutzens .............................................. 6
+  2.6 Liste der eingeschlossenen Studien............................................................................ 7
+  2.7 Kommentare zum Dossier des pharmazeutischen Unternehmers ......................... 8
+    2.7.1 Kommentar zur zweckmäßigen Vergleichstherapie (Modul 3 B,
+            Abschnitt 3.1) ......................................................................................................... 8
+    2.7.2 Kommentar zur Darstellung von Nutzen und Zusatznutzen (Modul 4 B) ............. 9
+      2.7.2.1 Fragestellung / Einschlusskriterien ................................................................... 9
+      2.7.2.2 Methodik zur Bewertung der Aussagekraft der Nachweise sowie zur
+                Informationssynthese und -analyse................................................................... 9
+      2.7.2.3 Methodik und Ergebnisse der Informationsbeschaffung ................................ 10
+         2.7.2.3.1 Informationsbeschaffung.......................................................................... 11
+         2.7.2.3.2 Studienpool .............................................................................................. 12
+      2.7.2.4 Kommentar zu weiteren Abschnitten von Modul 4 B des Dossiers ............... 12
+3     Kosten der Therapie ........................................................................................................ 13
+    3.1 Kommentar zur Anzahl der Patienten mit therapeutisch bedeutsamem
+          Zusatznutzen (Modul 3 B, Abschnitt 3.2) ............................................................... 13
+      3.1.1 Beschreibung der Erkrankung und Charakterisierung der Zielpopulation ........... 13
+      3.1.2 Therapeutischer Bedarf ........................................................................................ 13
+      3.1.3 GKV-Patienten in der Zielpopulation .................................................................. 13
+      3.1.4 Anzahl der Patienten mit therapeutisch bedeutsamem Zusatznutzen................... 14
+    3.2 Kommentar zu den Kosten der Therapie für die gesetzliche
+          Krankenversicherung (Modul 3 B, Abschnitt 3.3) ................................................. 14
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                                                        - iii -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+      3.2.1       Behandlungsdauer ................................................................................................ 14
+      3.2.2       Verbrauch ............................................................................................................. 15
+      3.2.3       Kosten ................................................................................................................... 15
+      3.2.4       Kosten für zusätzlich notwendige GKV-Leistungen............................................ 15
+      3.2.5       Jahrestherapiekosten ............................................................................................. 15
+      3.2.6       Versorgungsanteile ............................................................................................... 16
+  3.3 Konsequenzen für die Bewertung ............................................................................ 16
+4 Kommentare zu sonstigen Angaben im Dossier des pharmazeutischen
+    Unternehmers ................................................................................................................... 17
+  4.1 Kommentar zur Zusammenfassung der Aussagen im Dossier (Modul 1) ........... 17
+  4.2 Kommentar zu allgemeinen Angaben zum Arzneimittel und zu den
+       zugelassenen Anwendungsgebieten (Modul 2) ....................................................... 17
+  4.3 Kommentar zur qualitätsgesicherten Anwendung (Modul 3 B, Abschnitt 3.4) .. 17
+5 Zusammenfassung der Dossierbewertung..................................................................... 18
+  5.1 Zugelassene Anwendungsgebiete ............................................................................. 18
+  5.2 Medizinischer Nutzen und medizinischer Zusatznutzen im Verhältnis zur
+       zweckmäßigen Vergleichstherapie .......................................................................... 18
+  5.3 Anzahl der Patienten in den für die Behandlung infrage kommenden
+       Patientengruppen ...................................................................................................... 19
+  5.4 Kosten der Therapie für die gesetzliche Krankenversicherung ........................... 20
+  5.5 Anforderungen an eine qualitätsgesicherte Anwendung ...................................... 20
+6 Literatur ........................................................................................................................... 23
+Anhang A – Darlegung potenzieller Interessenkonflikte (externe Sachverständige
+sowie Patientinnen und Patienten bzw. Patientenorganisationen) .................................... 25
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                                                               - iv -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Tabellenverzeichnis
+
+                                                                                                                                     Seite
+Tabelle 1: Erläuterungen zum Aufbau des Dokuments ............................................................. 2
+Tabelle 2: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des
+Zusatznutzens ............................................................................................................................. 4
+Tabelle 3: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des
+Zusatznutzens ............................................................................................................................. 7
+Tabelle 4: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des
+Zusatznutzens ........................................................................................................................... 18
+Tabelle 5: Anzahl der GKV-Patienten in der Zielpopulation .................................................. 19
+Tabelle 6: Jahrestherapiekosten für die GKV für das zu bewertende Arzneimittel und die
+zweckmäßige Vergleichstherapie pro Patient .......................................................................... 20
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                                                              -v-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Abkürzungsverzeichnis
+
+ Abkürzung         Bedeutung
+ AM-NutzenV        Arzneimittel-Nutzenbewertungsverordnung
+ AWG               Anwendungsgebiet
+ DDD               defined daily doses
+ EPAR              European Public Assessment Report (Europäischer Öffentlicher
+                   Beurteilungsbericht)
+ G-BA              Gemeinsamer Bundesausschuss
+ GKV               gesetzliche Krankenversicherung
+ GLP-1             Glucagon-like-peptide 1
+ IE                Internationale Einheit
+ IQWiG             Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+ OAD               orales Antidiabetikum
+ pU                pharmazeutischer Unternehmer
+ RCT               randomized controlled trial (randomisierte kontrollierte Studie)
+ SGB               Sozialgesetzbuch
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)              - vi -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+1 Hintergrund
+
+1.1 Verlauf des Projekts
+Der Gemeinsame Bundesausschuss (G-BA) hat das Institut für Qualität und Wirtschaftlichkeit
+im Gesundheitswesen (IQWiG) mit der Nutzenbewertung der Wirkstoffkombination Insulin
+degludec/Liraglutid (neues Anwendungsgebiet) gemäß § 35a SGB V beauftragt. Die Be-
+wertung erfolgte auf Basis eines Dossiers des pharmazeutischen Unternehmers (pU). Das
+Dossier wurde dem IQWiG am 05.08.2015 übermittelt.
+
+Die Verantwortung für die vorliegende Bewertung und für das Bewertungsergebnis liegt
+ausschließlich beim IQWiG. Die Bewertung wird zur Veröffentlichung an den G-BA
+übermittelt, der die Nutzenbewertung zur Anhörung stellt. Die Beschlussfassung über den
+Zusatznutzen erfolgt durch den G-BA im Anschluss an die Anhörung.
+
+Die vorliegende Bewertung erfolgte ohne die Einbindung externer Sachverständiger (einer
+Beraterin / eines Beraters zu medizinisch-fachlichen Fragen).
+
+Die Bewertung wurde unter Einbindung von Patientinnen und Patienten bzw. Patienten-
+organisationen erstellt. Diese Einbindung beinhaltete die schriftliche Beantwortung von
+Fragen zu den Themenbereichen Erfahrungen mit der Erkrankung, Notwendigkeit der
+Betrachtung spezieller Patientengruppen, Erfahrungen mit den derzeit verfügbaren Therapien
+für das Anwendungsgebiet, Erwartungen an eine neue Therapie und ggf. zusätzliche
+Informationen.
+
+Die Beteiligten außerhalb des IQWiG, die in das Projekt eingebunden wurden, erhielten keine
+Einsicht in das Dossier des pU.
+
+1.2 Verfahren der frühen Nutzenbewertung
+Die vorliegende Dossierbewertung ist Teil des Gesamtverfahrens zur frühen Nutzen-
+bewertung. Sie wird gemeinsam mit dem Dossier des pU (Module 1 bis 4) auf der Website
+des G-BA veröffentlicht. Im Anschluss daran führt der G-BA ein Stellungnahmeverfahren zu
+dieser Bewertung durch. Der G-BA trifft seinen Beschluss zur frühen Nutzenbewertung nach
+Abschluss des Stellungnahmeverfahrens. Durch den Beschluss des G-BA werden ggf. die in
+der Dossierbewertung dargestellten Informationen ergänzt.
+
+Weitere Informationen zum Stellungnahmeverfahren und zur Beschlussfassung des G-BA
+sowie das Dossier des pU finden sich auf der Website des G-BA (www.g-ba.de).
+
+1.3 Erläuterungen zum Aufbau des Dokuments
+Die vorliegende Dossierbewertung gliedert sich in 6 Kapitel plus Anhänge. In Kapitel 2 bis 5
+sind die wesentlichen Inhalte der Dossierbewertung dargestellt. Die nachfolgende Tabelle 1
+zeigt den Aufbau des Dokuments im Detail.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               -1-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Tabelle 1: Erläuterungen zum Aufbau des Dokuments
+ Kapitel 2 – Nutzenbewertung
+ Abschnitt 2.1               Zusammenfassung der Ergebnisse der Nutzenbewertung
+ Abschnitte 2.2 bis 2.6      Darstellung des Ergebnisses der Nutzenbewertung im Detail
+                             Angabe, ob und inwieweit die vorliegende Bewertung von der Einschätzung
+                              des pU im Dossier abweicht
+ Abschnitt 2.7              Kommentare zu folgenden Modulen des Dossiers des pU:
+                             Modul 3 B, Abschnitt 3.1 (Bestimmung der zweckmäßigen
+                              Vergleichstherapie)
+                             Modul 4 B (Medizinischer Nutzen und medizinischer Zusatznutzen,
+                              Patientengruppen mit therapeutisch bedeutsamem Zusatznutzen)
+ Kapitel 3 – Kosten der Therapie
+ Abschnitte 3.1 und 3.2     Kommentare zu folgenden Modulen des Dossiers des pU:
+                             Modul 3 B, Abschnitt 3.2 (Anzahl der Patienten mit therapeutisch
+                              bedeutsamem Zusatznutzen)
+                             Modul 3 B, Abschnitt 3.3 (Kosten der Therapie für die gesetzliche
+                              Krankenversicherung)
+ Abschnitt 3.3               Zusammenfassung der daraus entstehenden Konsequenzen für die Bewertung
+ Kapitel 4 – Kommentare zu sonstigen Angaben im Dossier des pharmazeutischen Unternehmers
+ Abschnitte 4.1 bis 4.3     Kommentare zu folgenden Modulen des Dossiers des pU:
+                             Modul 1 (Zusammenfassung der Aussagen im Dossier)
+                             Modul 2 (Allgemeine Angaben zum Arzneimittel, zugelassene
+                              Anwendungsgebiete)
+                             Modul 3 B, Abschnitt 3.4 (Anforderungen an eine qualitätsgesicherte
+                              Anwendung)
+ Kapitel 5 – Zusammenfassung der Dossierbewertung
+ Abschnitte 5.1 bis 5.5      Zusammenfassung der wesentlichen Aussagen als Bewertung der Angaben
+                              im Dossier des pU nach § 4 Absatz 1 AM-NutzenV [1]
+ AM-NutzenV: Arzneimittel-Nutzenbewertungsverordnung; pU: pharmazeutischer Unternehmer
+
+
+
+Die Kommentierung der Angaben im Dossier des pU erfolgte unter Berücksichtigung der
+Anforderungen, die in den vom G-BA bereitgestellten Dossiervorlagen beschrieben sind
+(siehe Verfahrensordnung des G-BA [2]).
+
+Bei Abschnittsverweisen, die sich auf Abschnitte im Dossier des pU beziehen, ist zusätzlich
+das betroffene Modul des Dossiers angegeben. Abschnittsverweise ohne Angabe eines
+Moduls beziehen sich auf den vorliegenden Bericht zur Nutzenbewertung.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                            -2-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+2 Nutzenbewertung
+
+2.1 Kurzfassung der Nutzenbewertung
+Hintergrund
+Der G-BA hat das IQWiG mit der Nutzenbewertung der Wirkstoffkombination Insulin
+degludec/Liraglutid (neues Anwendungsgebiet) gemäß § 35a SGB V beauftragt. Die Be-
+wertung erfolgte auf Basis eines Dossiers des pharmazeutischen Unternehmers (pU). Das
+Dossier wurde dem IQWiG am 05.08.2015 übermittelt.
+
+Fragestellung
+Das Ziel des vorliegenden Berichts ist die Bewertung des Zusatznutzens der Fixkombination
+aus Insulin degludec/Liraglutid in Kombination mit oralen Antidiabetika (OAD) im Vergleich
+zu Metformin + Humaninsulin als zweckmäßiger Vergleichstherapie bei erwachsenen
+Patienten mit Diabetes mellitus Typ 2, bei denen orale Antidiabetika in Kombination mit
+einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle nicht ausreichen. Für Patienten, für
+die Metformin gemäß Fachinformation nicht geeignet ist, stellt Humaninsulin die zweck-
+mäßige Vergleichstherapie dar.
+
+Ergebnisse
+Der pU identifiziert keine relevante Studie für einen direkten Vergleich zwischen Insulin
+degludec/Liraglutid und der zweckmäßigen Vergleichstherapie.
+
+Mit seiner Informationsbeschaffung identifiziert der pU 1 randomisierte kontrollierte Studie
+(RCT) NN9068-3851 (Studie DUAL III), in welcher Insulin degludec/Liraglutid mit der
+Fortführung einer bestehenden Therapie mit einem GLP-1-Rezeptoragonisten verglichen
+wurde. Die Studie wurde im Teilanwendungsgebiet „Metformin gemäß Fachinformation
+geeignet“ durchgeführt, für welches Humaninsulin + Metformin die zweckmäßige
+Vergleichstherapie darstellt. Die Studie DUAL III war daher potenziell für einen indirekten
+Vergleich in diesem Teilanwendungsgebiet geeignet. Der pU hat auch nach Studien zur
+zweckmäßigen Vergleichstherapie für einen indirekten Vergleich recherchiert, jedoch nach
+eigenen Angaben keine relevante Studie identifiziert. Der pU argumentiert, dass die von ihm
+identifizierten potenziell relevanten Studien inhaltlich nicht ausreichend ähnlich zur Studie
+DUAL III seien. Die Angaben des pU sind allerdings inhaltlich unvollständig und daher nicht
+überprüfbar. Die Suche des pU war darüber hinaus nicht geeignet, die potenziell relevanten
+Studien vollständig zu identifizieren. Es bleibt daher offen, ob ein indirekter Vergleich
+möglich gewesen wäre.
+
+Zusammenfassend legt der pU im Dossier keine relevanten Daten für die Bewertung des
+Zusatznutzens von Insulin degludec/Liraglutid in Kombination mit OAD bei Patienten, bei
+denen orale Antidiabetika in Kombination mit einem GLP-1-Rezeptoragonisten zur
+Blutzuckerkontrolle nicht ausreichen, gegenüber der zweckmäßigen Vergleichstherapie vor.
+Es ergibt sich daher kein Anhaltspunkt für einen Zusatznutzen von Insulin degludec/
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                -3-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Liraglutid in Kombination mit OAD im Vergleich zur zweckmäßigen Vergleichstherapie, ein
+Zusatznutzen ist damit nicht belegt.
+
+Wahrscheinlichkeit und Ausmaß des Zusatznutzens, Patientengruppen mit
+therapeutisch bedeutsamem Zusatznutzen
+Da keine relevanten Daten für die Nutzenbewertung von Insulin degludec/Liraglutid in
+Kombination mit OAD bei Patienten vorgelegt wurden, bei denen orale Antidiabetika in
+Kombination mit einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle nicht ausreichen,
+ist ein Zusatznutzen gegenüber der vom G-BA festgelegten zweckmäßigen Vergleichstherapie
+nicht belegt. Folglich gibt es auch keine Patientengruppen, für die sich ein therapeutisch
+bedeutsamer Zusatznutzen ableiten lässt.
+
+Tabelle 2 zeigt eine Zusammenfassung von Ausmaß und Wahrscheinlichkeit des Zusatz-
+nutzens von Insulin degludec/Liraglutid.
+
+Tabelle 2: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+ Anwendungsgebiet                         Zweckmäßige Vergleichstherapie        Ausmaß und
+                                                                                Wahrscheinlichkeit des
+                                                                                Zusatznutzens
+ Kombination mit oralen Antidiabetika:    Metformin + Humaninsulin              Zusatznutzen nicht belegt
+  wenn orale Antidiabetika in            (Hinweis: Wenn Metformin gemäß
+   Kombination mit einem GLP-1-           Fachinformation nicht geeignet ist,
+   Rezeptoragonisten zur                  ist Humaninsulin als Therapieoption
+   Blutzuckerkontrolle nicht ausreichen   einzusetzen.)
+ GLP-1: Glucagon-like-peptide 1
+
+
+
+Dieses Ergebnis stimmt mit der Einschätzung des pU überein, der für Insulin degludec/
+Liraglutid in Kombination mit OAD ebenfalls keinen Zusatznutzen ableitet. Über den
+Zusatznutzen beschließt der G-BA.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                               -4-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+2.2 Fragestellung
+Das Ziel des vorliegenden Berichts ist die Bewertung des Zusatznutzens der Fixkombination
+aus Insulin degludec/Liraglutid in Kombination mit oralen Antidiabetika (OAD) im Vergleich
+zu Metformin + Humaninsulin als zweckmäßiger Vergleichstherapie bei erwachsenen
+Patienten mit Diabetes mellitus Typ 2, bei denen orale Antidiabetika in Kombination mit
+einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle nicht ausreichen.
+
+Der G-BA hat für das vorliegende Anwendungsgebiet Humaninsulin + Metformin als zweck-
+mäßige Vergleichstherapie festgelegt, ergänzt um den Hinweis, dass nur Humaninsulin die
+zweckmäßige Vergleichstherapie darstellt, wenn Metformin gemäß Fachinformation nicht
+geeignet ist.
+
+Der pU schließt sich dieser Festlegung an.
+
+Der pU gibt zudem an, für Endpunkte einer kurzfristigen Behandlung neben Humaninsulin
+auch Insulinanaloga als Vergleichstherapie heranzuziehen. Die vorliegende Evidenz zu
+Langzeitdaten stützt Humaninsulin als zweckmäßige Vergleichstherapie. Wegen fehlender
+Daten zu Folgekomplikationen kann nicht von einer generellen Übertragbarkeit der
+Ergebnisse von Studien mit Insulinanaloga auf Humaninsulin ausgegangen werden. Für
+andere Endpunkte kann auf Basis der IQWiG-Bewertung [3] jedoch eine Übertragbarkeit für
+die beiden Insulinanaloga Insulin detemir und Insulin glargin angenommen werden.
+
+Die Bewertung erfolgte bezüglich patientenrelevanter Endpunkte auf Basis der vom pU im
+Dossier vorgelegten Daten.
+
+2.3 Informationsbeschaffung und Studienpool
+Der Studienpool der Bewertung wurde anhand der folgenden Angaben zusammengestellt:
+
+Quellen des pU im Dossier:
+
+   Studienliste zu Insulin degludec/Liraglutid (Stand zum 15.07.2015)
+   bibliografische Recherche zu Insulin degludec/Liraglutid (letzte Suche am 02.06.2015)
+   Suche in Studienregistern zu Insulin degludec/Liraglutid (letzte Suche am 03.06.2015)
+   bibliografische Recherche zur zweckmäßigen Vergleichstherapie (letzte Suche am
+    18.05.2015)
+   Suche in Studienregistern zur zweckmäßigen Vergleichstherapie (letzte Suche am
+    16.07.2015)
+
+Überprüfung der Vollständigkeit des Studienpools durch:
+
+   Suche in Studienregistern zu Insulin degludec/Liraglutid (letzte Suche am 14.08.2015)
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                -5-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Der pU identifiziert keine relevante Studie für einen direkten Vergleich zwischen Insulin
+degludec/Liraglutid und der zweckmäßigen Vergleichstherapie. Auch durch die Überprüfung
+der Vollständigkeit wurde keine relevante direkt vergleichende Studie identifiziert.
+
+Wenn keine direkt vergleichenden Studien gegenüber der zweckmäßigen Vergleichstherapie
+zur Verfügung stehen, besteht die Option, den Zusatznutzen auf Basis indirekter Vergleiche
+zu untersuchen. Mit den genannten Schritten zur Informationsbeschaffung identifiziert der pU
+1 randomisierte kontrollierte Studie (RCT) NN9068-3851 (Studie DUAL III), in welcher
+Insulin degludec/Liraglutid mit der Fortführung einer bestehenden Therapie mit einem
+GLP-1-Rezeptoragonisten verglichen wurde. Die Studie wurde im Teilanwendungsgebiet
+„Metformin gemäß Fachinformation geeignet“ durchgeführt, für welches Humaninsulin +
+Metformin die zweckmäßige Vergleichstherapie darstellt. Die Studie DUAL III war daher
+potenziell für einen indirekten Vergleich in diesem Teilanwendungsgebiet geeignet. Der pU
+hat auch nach Studien zur zweckmäßigen Vergleichstherapie für einen indirekten Vergleich
+recherchiert, jedoch nach seinen Angaben keine relevante Studie identifiziert. Der pU
+argumentiert, dass die von ihm identifizierten potenziell relevanten Studien inhaltlich nicht
+ausreichend ähnlich zur Studie DUAL III sind. Die Angaben des pU sind allerdings inhaltlich
+unvollständig und daher nicht überprüfbar. Die Suche des pU war darüber hinaus nicht
+geeignet, die potenziell relevanten Studien vollständig zu identifizieren. Es bleibt daher offen,
+ob ein indirekter Vergleich möglich gewesen wäre (siehe auch Abschnitte 2.7.2.1 und
+2.7.2.2).
+
+Der pU legt auch keine weiteren Unterlagen (nicht randomisierte vergleichende Studien oder
+weitere Untersuchungen) zur Prüfung des Zusatznutzens von Insulin degludec/Liraglutid in
+Kombination mit OAD vor.
+
+Zusammenfassend legt der pU damit im Dossier keine Studien vor, die geeignet sind, den
+Zusatznutzen von Insulin degludec/Liraglutid in Kombination mit OAD im Vergleich zur
+zweckmäßigen Vergleichstherapie zu untersuchen.
+
+2.4 Ergebnisse zum Zusatznutzen
+Der pU legt im Dossier keine relevanten Daten für die Bewertung des Zusatznutzens von
+Insulin degludec/Liraglutid in Kombination mit OAD bei Patienten, bei denen orale
+Antidiabetika in Kombination mit einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle
+nicht ausreichen, gegenüber der zweckmäßigen Vergleichstherapie vor. Es ergibt sich daher
+kein Anhaltspunkt für einen Zusatznutzen von Insulin degludec/Liraglutid in Kombination
+mit OAD im Vergleich zur zweckmäßigen Vergleichstherapie, ein Zusatznutzen ist damit
+nicht belegt.
+
+2.5 Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+Da keine relevanten Daten für die Nutzenbewertung von Insulin degludec/Liraglutid in
+Kombination mit OAD bei Patienten vorgelegt wurden, bei denen orale Antidiabetika in
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                    -6-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Kombination mit einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle nicht ausreichen,
+ist ein Zusatznutzen gegenüber der vom G-BA festgelegten zweckmäßigen Vergleichstherapie
+(Metformin + Humaninsulin) nicht belegt. Folglich gibt es auch keine Patientengruppen, für
+die sich ein therapeutisch bedeutsamer Zusatznutzen ableiten lässt.
+
+Tabelle 3: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+ Anwendungsgebiet                         Zweckmäßige Vergleichstherapie        Ausmaß und
+                                                                                Wahrscheinlichkeit des
+                                                                                Zusatznutzens
+ Kombination mit oralen Antidiabetika:    Metformin + Humaninsulin              Zusatznutzen nicht belegt
+  wenn orale Antidiabetika in            (Hinweis: Wenn Metformin gemäß
+   Kombination mit einem GLP-1-           Fachinformation nicht geeignet ist,
+   Rezeptoragonisten zur                  ist Humaninsulin als Therapieoption
+   Blutzuckerkontrolle nicht ausreichen   einzusetzen.)
+ GLP-1: Glucagon-like-peptide 1
+
+
+
+Dieses Ergebnis stimmt mit der Einschätzung des pU überein, der für Insulin degludec/
+Liraglutid in Kombination mit OAD ebenfalls keinen Zusatznutzen ableitet.
+
+Über den Zusatznutzen beschließt der G-BA.
+
+2.6 Liste der eingeschlossenen Studien
+Die Angaben in diesem Abschnitt entfallen, da keine relevanten Daten für die Nutzen-
+bewertung vorgelegt wurden.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                               -7-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+2.7 Kommentare zum Dossier des pharmazeutischen Unternehmers
+2.7.1 Kommentar zur zweckmäßigen Vergleichstherapie (Modul 3 B, Abschnitt 3.1)
+Die Angaben des pU zur zweckmäßigen Vergleichstherapie befinden sich in Modul 3 B
+(Abschnitt 3.1) des Dossiers.
+
+Die vorliegende Bewertung bezieht sich auf das im Juni 2015 neu zugelassene Anwen-
+dungsgebiet von Insulin degludec/Liraglutid in Kombination mit OAD bei erwachsenen
+Patienten, bei denen orale Antidiabetika in Kombination mit einem GLP-1-Rezeptoragonisten
+zur Blutzuckerkontrolle nicht ausreichen [4].
+
+Der pU gibt in Abschnitt 3.1.1 (Modul 3 B) an, dass für die Zulassungserweiterung von
+Insulin degludec/Liraglutid kein Beratungsgespräch mit dem G-BA zum Thema „zweck-
+mäßige Vergleichstherapie“ stattgefunden habe. Stattdessen leitet der pU selbst folgende
+Vergleichstherapie ab:
+
+   Humaninsulin + Metformin
+    (Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin
+    als Therapieoption einzusetzen).
+
+Die vom pU gewählte zweckmäßige Vergleichstherapie entspricht damit bis auf folgenden
+Zusatz der vom G-BA für Insulin degludec/Liraglutid festgelegten zweckmäßigen Ver-
+gleichstherapie: Der G-BA geht davon aus, dass in der antidiabetischen Therapiesituation, für
+die die zweckmäßige Vergleichstherapie bestimmt wird, eine alleinige orale antidiabetische
+Therapie nicht infrage kommt.
+
+In Abschnitt 3.1.2 (Modul 3 B) gibt der pU an, für Endpunkte einer kurzfristigen Behandlung
+neben Humaninsulin auch Insulinanaloga als Vergleichstherapie heranzuziehen und
+argumentiert – analog seiner Argumentation im vorangegangenen Dossier zu Insulin
+degludec/Liraglutid [5] – zur Übertragbarkeit der Ergebnisse zu Insulinanaloga auf
+Humaninsulin und zur Übertragbarkeit der Ergebnisse zu Insulinanaloga (Insulin detemir,
+Insulin glargin, Insulin degludec) untereinander.
+
+Die vorliegende Evidenz zu Langzeitdaten stützt Humaninsulin als zweckmäßige Vergleichs-
+therapie. Wegen fehlender Daten zu Folgekomplikationen kann nicht von einer generellen
+Übertragbarkeit der Ergebnisse von Studien mit Insulinanaloga auf Humaninsulin
+ausgegangen werden. Für andere Endpunkte kann auf Basis der IQWiG-Bewertung [3] jedoch
+eine Übertragbarkeit für die beiden Insulinanaloga Insulin detemir und Insulin glargin
+angenommen werden (siehe auch die Dossierbewertung zu Auftrag A15-15 [6]).
+
+Die vorliegende Bewertung erfolgt gegenüber der zweckmäßigen Vergleichstherapie des
+G-BA. Es wird ebenfalls Evidenz aus Studien berücksichtigt, in denen die beiden
+Insulinanaloga Insulin detemir oder Insulin glargin untersucht wurden, sofern die Studien
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                -8-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+nicht auf Folgekomplikationen ausgerichtet waren. Die Bewertung erfolgt bezüglich
+patientenrelevanter Endpunkte und auf Basis der vom pU im Dossier vorgelegten Daten.
+
+2.7.2 Kommentar zur Darstellung von Nutzen und Zusatznutzen (Modul 4 B)
+2.7.2.1   Fragestellung / Einschlusskriterien
+Die Angaben des pU zur Fragestellung und zu Einschlusskriterien für die Studienauswahl
+befinden sich in Modul 4 B (Abschnitte 4.2.1, 4.2.2) des Dossiers.
+
+Die Fragestellung des pU ist es, Ausmaß und Wahrscheinlichkeit des medizinischen
+Zusatznutzens für die Intervention Insulin degludec/Liraglutid in Kombination mit oralen
+blutzuckersenkenden Arzneimitteln (Intervention) bei erwachsenen Patienten mit Diabetes
+mellitus Typ 2 und unzureichender Blutzuckerkontrolle nach einer Therapie mit GLP-1-
+Rezeptoragonisten in Kombination mit oralen blutzuckersenkenden Arzneimitteln
+(Patientenpopulation) zu bewerten. Die Bewertung soll auf den Daten aus randomisierten
+kontrollierten klinischen Studien (Studientypen) basieren und im Vergleich zu Humaninsulin
+plus Metformin – Hinweis: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist
+Humaninsulin als Therapieoption einzusetzen – (zweckmäßige Vergleichstherapie) in Bezug
+auf patientenrelevante Endpunkte (Mortalität, Morbidität, gesundheitsbezogene Lebens-
+qualität und unerwünschte Ereignisse) durchgeführt werden.
+
+Der pU legt jeweils Ein- und Ausschlusskriterien für den Einschluss von Studien für direkte
+Vergleiche sowie für den Einschluss von Studien für indirekte Vergleiche vor. Den Ein- und
+Ausschlusskriterien des pU zu direkten Vergleichen wird gefolgt.
+
+Für die Suche nach Studien mit der zweckmäßigen Vergleichstherapie für einen indirekten
+Vergleich verwendet der pU im Wesentlichen dieselben Ein- und Ausschlusskriterien wie für
+den direkten Vergleich, beschränkt sich jedoch auf das Teilanwendungsgebiet „Metformin
+gemäß Fachinformation geeignet“. Grund ist, dass zu Insulin degludec/Liraglutid nur die
+Zulassungsstudie DUAL III vorliegt, die in diesem Teilanwendungsgebiet durchgeführt
+wurde. Für einen indirekten Vergleich unter Verwendung der Studie DUAL III sind die vom
+pU formulierten Ein- und Ausschlusskriterien daher sachgerecht. Das Vorgehen führt
+allerdings dazu, dass potenziell relevante Studien zum Teilanwendungsgebiet „Metformin
+gemäß Fachinformation nicht geeignet“ nicht identifiziert werden können, was für die
+vorliegende Bewertung ohne Konsequenz ist.
+
+2.7.2.2   Methodik zur Bewertung der Aussagekraft der Nachweise sowie zur
+          Informationssynthese und -analyse
+Die Angaben des pU zur Methodik für die Bewertung der Aussagekraft der Nachweise sowie
+für die Informationssynthese und -analyse befinden sich in Modul 4 B (Abschnitte 4.2.4,
+4.2.5) des Dossiers.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)              -9-
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Da keine direkt vergleichende Studie zwischen Insulin degludec/Liraglutid in Kombination
+mit OAD und der zweckmäßigen Vergleichstherapie vorliegt und auch kein indirekter
+Vergleich für die Bewertung des Zusatznutzens vorgelegt wurde, wird nachfolgend nur die
+Begründung des pU für die Nichtdurchführbarkeit eines indirekten Vergleichs kommentiert.
+
+In Abschnitt 4.2.5.6 (Modul 4 B) legt der pU dar, weshalb aus seiner Sicht keine indirekten
+Vergleiche durchgeführt werden konnten. Der pU beschreibt hierbei zunächst seine
+Recherche nach geeigneten Studien, die als Grundlage für einen indirekten Vergleich
+verwendet werden könnten. Dabei wurde ausschließlich die Studie DUAL III identifiziert, die
+Zulassungsstudie für die Anwendung von Insulin degludec/Liraglutid im neuen An-
+wendungsgebiet. Von der Grundlage dieser Studie ausgehend hat der pU nach Studien
+recherchiert, die die für einen indirekten Vergleich relevanten Brückenkomparatoren auf-
+wiesen.
+
+Der pU hat dabei in einem ersten Schritt die firmeneigene Studiendatenbank durchsucht, da
+aus seiner Sicht ein qualitativ hochwertiger und aussagekräftiger indirekter Vergleich nur
+durchgeführt werden könne, wenn hierfür Rohdaten zur Verfügung stünden und damit eine
+infrage kommende Studienpopulation adäquat ausgewertet werden könne. Der pU
+identifizierte bei seiner Suche in der firmeneigenen Datenbank 4 Studien (NN2211-1697
+[LEAD 5], NN2211-1842, NN1250-3944, NN2211-3917). Der pU kommt allerdings zu dem
+Schluss, dass die Studien nicht ausreichend ähnlich zur Studie DUAL III seien und damit ein
+qualitativ hochwertiger und aussagekräftiger indirekter Vergleich anhand der 4 Studien nicht
+möglich sei. Es ist richtig, dass Studien für einen indirekten Vergleich ausreichend ähnlich
+sein müssen. Der pU hat die 4 von ihm identifizierten Studien allerdings nur rudimentär
+beschrieben und im Dossier keine ausführlichen Unterlagen zu diesen Studien vorgelegt. Die
+vom pU vorgelegten Daten sind daher inhaltlich unvollständig, die Argumentation des pU ist
+inhaltlich nicht überprüfbar.
+
+In einem zweiten Schritt führte der pU eine Informationsbeschaffung in bibliografischen
+Datenbanken und Studienregistern nach RCT für indirekte Vergleiche durch. Dabei konnte
+der pU laut eigenen Angaben keine Studie identifizieren, die für einen indirekten Vergleich
+geeignet wäre. Die Suche war jedoch nicht geeignet, die potenziell relevanten Studien für
+einen indirekten Vergleich vollständig zu identifizieren (siehe Abschnitt 2.7.2.3).
+
+2.7.2.3   Methodik und Ergebnisse der Informationsbeschaffung
+Die Kommentierung der Methodik und der Ergebnisse der Informationsbeschaffung wird
+nachfolgend in 2 Themenbereiche aufgeteilt:
+
+   Informationsbeschaffung
+   Studienpool
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)              - 10 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+2.7.2.3.1   Informationsbeschaffung
+Die Angaben des pU zur Informationsbeschaffung befinden sich in Modul 4 B (Abschnitte
+4.2.3, 4.3.1.1, 4.3.2.1.1, 4.3.2.2.1, 4.3.2.3.1, Anhang 4-A bis 4-D) des Dossiers.
+
+Direkter Vergleich auf Basis randomisierter kontrollierter Studien
+Studienliste des pU
+Es gibt keine Hinweise auf eine Unvollständigkeit der Studienliste.
+
+Bibliografische Recherche
+Der pU führte die geforderte Recherche in bibliografischen Datenbanken zum direkten
+Vergleich auf Basis von RCTs durch.
+
+Die Recherche des pU ist geeignet, die Vollständigkeit des Suchergebnisses sicherzustellen.
+
+Suche in Studienregistern
+Der pU führte die geforderte Suche in Studienregistern zum direkten Vergleich auf Basis von
+RCTs durch.
+
+Die Suche des pU ist geeignet, die Vollständigkeit des Suchergebnisses sicherzustellen.
+
+Zusammenfassung
+Die Informationsbeschaffung des pU zum direkten Vergleich auf Basis von RCTs ist
+geeignet, die Vollständigkeit der Suchergebnisse sicherzustellen.
+
+Dennoch wurde zur Überprüfung der Vollständigkeit des angegebenen Studienpools eine
+Suche in den Studienregistern ClinicalTrials.gov, ICTRP Search Portal, EU Clinical Trials
+Register und PharmNet.Bund – Klinische Prüfungen durchgeführt.
+
+Dabei wurden keine relevanten Studien von Insulin degludec/Liraglutid in Kombination mit
+OAD gegenüber der vom G-BA festgelegten zweckmäßigen Vergleichstherapie identifiziert.
+
+Indirekte Vergleiche auf Basis randomisierter kontrollierter Studien
+Der pU hat für das zu bewertende Arzneimittel gemeinsame Recherchen für den direkten und
+indirekten Vergleich auf Basis von RCTs durchgeführt. Die Überprüfung der Recherchen ist
+bereits im Abschnitt zum direkten Vergleich auf Basis von RCTs enthalten. Die nach-
+folgenden Kommentare beziehen sich auf die Informationsbeschaffung für Studien mit der
+zweckmäßigen Vergleichstherapie.
+
+Bibliografische Recherche
+Zur Identifizierung relevanter Studien für einen indirekten Vergleich auf Basis von RCTs hat
+der pU eine bibliografische Recherche zu Insulin in der Kombination mit Metformin
+durchgeführt.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                  - 11 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Die Suche des pU ist nicht geeignet, die Vollständigkeit des Suchergebnisses sicherzustellen.
+Dies hat folgende Gründe:
+
+Es ist fraglich, ob die Suchstrategien in MEDLINE, Embase sowie Central in ausreichender
+Sensitivität umgesetzt wurden.
+
+Der pU hat in den Datenbanken die Suche jeweils mit einem Suchblock zu Metformin stark
+eingeschränkt. Ein Abgleich in MEDLINE mit den Referenzen eingeschlossener Studien mit
+Metformin als Begleittherapie aus vorangegangenen Dossiers hat gezeigt, dass mit dem
+Vorgehen des pU diese Referenzen nicht vollständig erfasst werden. Darunter fällt auch eine
+Studie, die der pU in einem anderen Dossier eingeschlossen hatte [7,8].
+
+Suche in Studienregistern
+Zur Identifizierung relevanter Studien für einen indirekten Vergleich auf Basis von RCTs hat
+der pU eine Suche in Studienregistern zu Insulin durchgeführt.
+
+Die Suche des pU ist nicht geeignet, die Vollständigkeit des Suchergebnisses sicherzustellen.
+Dies hat folgende Gründe:
+
+Der pU verwendet in der Suchstrategie im ICTRP Search Portal Trunkierungen in der Mitte
+von Suchbegriffen (z. B. NN*2211) und Klammern zur Strukturierung der Suche. Beides
+wird in dieser Form nicht von den Suchfunktionalitäten des Studienregisters unterstützt.
+
+Zusammenfassung
+Die Informationsbeschaffung des pU zum indirekten Vergleich ist nicht geeignet, die
+Vollständigkeit der Suchergebnisse sicherzustellen. Auf eine Überprüfung der Vollständigkeit
+des vom pU vorgelegten Studienpools wurde verzichtet, da der pU selbst in seinem Dossier
+keinen indirekten Vergleich vorlegt.
+
+2.7.2.3.2     Studienpool
+Die Angaben des pU zum Studienpool befinden sich in Modul 4 B (Abschnitte 4.3.1.1,
+4.3.2.1.1) des Dossiers.
+
+Der pU legt keine Studie für die Bewertung der Zusatznutzens von Insulin degludec/
+Liraglutid in Kombination mit OAD gegenüber der zweckmäßigen Vergleichstherapie vor.
+Daher entfällt die Kommentierung des Studienpools.
+
+2.7.2.4     Kommentar zu weiteren Abschnitten von Modul 4 B des Dossiers
+Da der pU keine relevanten Daten für die Bewertung des Zusatznutzens von Insulin
+degludec/Liraglutid in Kombination mit OAD gegenüber der zweckmäßigen Vergleichs-
+therapie vorgelegt hat, entfällt die Kommentierung der weiteren Abschnitte von Modul 4 B
+des Dossiers.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               - 12 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+3 Kosten der Therapie
+
+3.1 Kommentar zur Anzahl der Patienten mit therapeutisch bedeutsamem
+    Zusatznutzen (Modul 3 B, Abschnitt 3.2)
+Die Angaben des pU zur Anzahl der Patienten mit therapeutisch bedeutsamem Zusatznutzen
+befinden sich in Modul 3 B (Abschnitt 3.2) des Dossiers.
+
+3.1.1 Beschreibung der Erkrankung und Charakterisierung der Zielpopulation
+Die Erkrankung Diabetes mellitus Typ 2 wird vom pU nachvollziehbar dargestellt. Laut
+Fachinformation kann Insulin degludec/Liraglutid zur Behandlung des Diabetes mellitus
+Typ 2 bei erwachsenen Patienten angewendet werden, um in Kombination mit oralen
+blutzuckersenkenden Arzneimitteln die Blutzuckerkontrolle zu verbessern. In der aktuellen
+Fachinformation von Juni 2015 findet sich gegenüber der Vorgängerversion eine Erweiterung
+der Zielpopulation um Patienten, bei denen orale blutzuckersenkende Arzneimittel in Kom-
+bination mit einem GLP-1-Rezeptoragonisten den Blutzuckerspiegel nicht ausreichend
+regulieren [4]. In der vorliegenden Bewertung ist nur die Gruppe der Patienten zu betrachten,
+die durch die Zulassungserweiterung neu zum Anwendungsgebiet hinzugekommen ist.
+
+3.1.2 Therapeutischer Bedarf
+Der pU gibt an, dass Insulin degludec/Liraglutid im Vergleich zu anderen Basalinsulinen
+durch das flache Wirkprofil ein geringeres Hyperglykämierisiko aufweist und zu einer
+signifikanten Gewichtsreduktion sowie einer verbesserten Lebensqualität führt.
+
+3.1.3 GKV-Patienten in der Zielpopulation
+Der pU erläutert, dass es nur eingeschränkt Daten zur Epidemiologie gibt. Er bezieht sich
+daher auf Angaben zur GKV-Zielpopulation aus dem Beschluss zu Lixisenatid [9] und
+Angaben des Arzneimittelverordnungsreports 2013 [10].
+
+Der pU nimmt an, dass die Indikation von Lixisenatid plus Basalinsulin und die Anwen-
+dungsgebietserweiterung von Insulin degludec/Liraglutid vergleichbar sind und überträgt
+deshalb die Zielpopulation von 170 100 GKV-Patienten aus dem Beschluss von Lixisenatid
+[9] auf die Zielpopulation des hier zu bewertenden Arzneimittels.
+
+Der pU zieht als weitere Quelle die Anzahl der verordneten Defined Daily Doses (DDD) von
+GLP-1-Rezeptoragonisten in der GKV heran. Unter der Annahme, dass Verordnungen
+kontinuierlich über ein Jahr erfolgen, geht der pU von 78 600 Patienten aus, die im Jahr 2013
+mit GLP-1-Rezeptoragonisten behandelt wurden.
+
+Basierend auf diesen beiden Quellen geht der pU für die Anwendungsgebietserweiterung von
+Insulin degludec/Liraglutid von 78 600 bis 170 100 Patienten in der Zielpopulation aus.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               - 13 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Bewertung des Vorgehens des pU
+Das Vorgehen des pU ist grundsätzlich nachvollziehbar, jedoch stimmen die zitierten
+Patientenzahlen nicht mit der Anwendungserweiterung von Insulin degludec/Liraglutid
+überein.
+
+Relevant für die Zielpopulation von Insulin degludec/Liraglutid sind die Patienten, bei denen
+die Kombinationstherapie von OAD und einem GLP-1-Rezeptoragonisten nicht ausreicht
+bzw. die von einer oralen antidiabetischen Kombinationstherapie mit einem GLP-1-Rezeptor-
+agonisten auf eine Kombinationstherapie mit Insulin umgestellt worden sind. Die Ziel-
+population von Lixisenatid umfasst ausschließlich Patienten, die eine Kombinationstherapie
+von OAD mit Basalinsulin erhalten. Es wird dabei nicht berücksichtigt, welche Therapie die
+Patienten vorher erhalten haben. Die Daten des Arzneimittelverordnungsreports können auch
+Monotherapien mit GLP-1-Rezeptoragonisten beinhalten, die nicht in die Zielpopulation des
+hier zu bewertenden Arzneimittels fallen. Insgesamt fehlt die Abschätzung der Anzahl der
+Patienten, bei denen vorher eine orale antidiabetische Kombinationstherapie mit einem
+GLP-1-Rezeptoragonisten nicht ausgereicht hat und die jetzt eine Kombinationstherapie mit
+Insulin erhalten.
+
+Die Fachinformation beinhaltet zudem die Einschränkung, dass bei Patienten mit mittel-
+schwerer und schwerer Nierenfunktionsstörung die Gabe von Insulin degludec/Liraglutid
+nicht empfohlen wird [4]. Dies berücksichtigt der pU insgesamt nicht.
+
+Die Anzahl der GKV-Patienten wird daher als nicht quantifizierbar eingeschätzt.
+
+Zukünftige Änderung der Anzahl der GKV-Patienten
+Der pU geht von einem Anstieg der Prävalenz aus. Diese Einschätzung ist nachvollziehbar.
+
+3.1.4 Anzahl der Patienten mit therapeutisch bedeutsamem Zusatznutzen
+Die Einschätzung zum Ausmaß und der Wahrscheinlichkeit eines Zusatznutzens ist Abschnitt
+2.5 zu entnehmen.
+
+3.2 Kommentar zu den Kosten der Therapie für die gesetzliche Krankenversicherung
+    (Modul 3 B, Abschnitt 3.3)
+Die Angaben des pU zu Kosten der Therapie für die gesetzliche Krankenversicherung
+befinden sich in Modul 3 B (Abschnitt 3.3) des Dossiers.
+
+3.2.1 Behandlungsdauer
+Der pU geht bei der Therapie mit Insulin degludec/Liraglutid und den zweckmäßigen
+Vergleichstherapien von einer kontinuierlichen Behandlung aus. Diese Angaben entsprechen
+den Fachinformationen [4,11-14].
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               - 14 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+3.2.2 Verbrauch
+Die Angaben des pU zum Verbrauch für das zu bewertende Arzneimittel und die
+zweckmäßigen Vergleichstherapien Humaninsulin und Metformin entsprechen den Fach-
+informationen [4,11-14].
+
+Für die Berechnung der Humaninsulindosis wird ein durchschnittlicher Insulinbedarf von 0,5
+bis 1,0 Internationalen Einheiten (IE) pro kg und ein Körpergewicht von 90 kg zugrunde
+gelegt. Pro Gabe wird ein Verbrauch zwischen 45 und 90 IE berechnet. Für die Berechnung
+von gewichtsabhängig zu dosierenden Arzneimitteln sollte grundsätzlich ein durch-
+schnittliches Körpergewicht von 76,3 kg entsprechend der amtlichen Statistik „Mikrozensus
+2013“ angenommen werden; indikationsspezifische Durchschnittswerte werden daher nicht
+berücksichtigt. Der Humaninsulinverbrauch wurde daher vom pU zu hoch angesetzt.
+
+3.2.3 Kosten
+Insulin degludec/Liraglutid ist erstmals mit dem Stand 01.05.2015 in der Lauer-Taxe gelistet.
+Den Apothekenverkaufspreis von Insulin degludec/Liraglutid stellt der pU korrekt dar:
+305,25 € pro Packung à 5 Spritzen mit 300 IE Insulin degludec und 10,8 mg Liraglutid. Der
+Apothekenrabatt von 1,77 € sowie der Rabatt nach § 130a SGB V werden berücksichtigt. Die
+Kosten pro Packung nach Abzug dieser Rabatte betragen 287,19 €.
+
+Die Kosten für Humaninsulin und Metformin stellen eine leichte Überschätzung dar, da der
+pU den entsprechenden Herstellerrabatt nach § 130 a SGB V nicht berücksichtigt.
+
+3.2.4 Kosten für zusätzlich notwendige GKV-Leistungen
+Bei der Anwendung von Humaninsulin werden zusätzliche Kosten für Lanzetten,
+Blutzuckerteststreifen und Einmalnadeln angesetzt. Die Kostenberechnung ist nachvoll-
+ziehbar. Weiterhin müssten auf Grundlage der weiteren Interpretation der Fachinformation
+Kosten für Blutzuckermessgerät und Stechhilfe sowie bei Humaninsulin Kosten für
+Insulinpens bzw. Kolbenspritzen veranschlagt werden. Die Kosten sind auf Grundlage des
+Dossiers nicht zu beziffern und werden daher nicht quantifiziert.
+
+3.2.5 Jahrestherapiekosten
+Die vom pU angegebenen Jahrestherapiekosten pro Patient betragen für das zu bewertende
+Arzneimittel 1118,12 € bis 3494,12 €. Diese Angaben sind plausibel.
+
+Die vom pU angegebenen Jahrestherapiekosten pro Patient betragen für die zweckmäßige
+Vergleichstherapie (Metformin + Humaninsulin) 693,34 € bis 1243,41 €. Der pU stellt
+ebenfalls die Jahrestherapiekosten für die Therapieoption Humaninsulin dar, wenn Metformin
+nicht geeignet ist. Die Kosten für Humaninsulin und Metformin stellen eine leichte
+Überschätzung dar.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               - 15 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+3.2.6 Versorgungsanteile
+Der pU schätzt abweichend von den Angaben zur Anzahl der GKV-Patienten in der Ziel-
+population, dass durch die Anwendungsgebietserweiterung 1300 Patienten im Jahr 2015 mit
+Insulin degludec/Liraglutid behandelt werden. Er geht weiterhin davon aus, dass sich die
+Anzahl der Patienten, die Insulin degludec/Liraglutid bekommen, in den nächsten Jahren
+erhöht wird.
+
+3.3 Konsequenzen für die Bewertung
+Das Vorgehen des pU ist grundsätzlich nachvollziehbar. Jedoch stimmen die zitierten
+Patientenzahlen nicht mit der tatsächlichen Zielpopulation durch die Anwendungs-
+gebietserweiterung von Insulin degludec/Liraglutid überein.
+
+Die Zielpopulation von Lixisenatid betrachtet ausschließlich Patienten, die eine Kom-
+binationstherapie von oralen Antidiabetika mit Basalinsulin erhalten. Es wird nicht betrachtet,
+welche Therapie die Patienten vorher erhielten. Die Daten des Arzneimittelverordnungs-
+reports können auch Monotherapien mit GLP-1-Rezeptoragonisten beinhalten, die nicht in die
+Zielpopulation des hier zu bewertenden Arzneimittels fallen. Es fehlen gänzlich die Patienten,
+bei denen vorher eine orale antidiabetische Kombinationstherapie mit einem GLP-1-
+Rezeptoragonisten nicht ausgereicht hat und die jetzt eine Kombinationstherapie mit Insulin
+erhalten. Weiterhin berücksichtigt der pU nicht, dass laut Fachinformation die Gabe von
+Insulin degludec/Liraglutid bei Patienten mit mittelschwerer und schwerer Nieren-
+funktionsstörung nicht empfohlen wird. Die Anzahl der GKV-Patienten wird daher als nicht
+quantifizierbar eingeschätzt.
+
+Die Jahrestherapiekosten für das zu bewertende Arzneimittel sind plausibel. Die Jahres-
+therapiekosten für Humaninsulin in Kombination mit Metformin stellen eine Überschätzung
+dar, weil bei der Berechnung der Jahrestherapiekosten für Humaninsulin von einem zu hohen
+Verbrauch ausgegangen wird. Für die Berechnung der Therapiekosten von Insulin sollten
+neben Blutzuckerteststreifen, Lanzetten und Einmalnadeln auch Blutzuckermessgeräte,
+Stechhilfen und Insulinpens bzw. Kolbenspritzen nach weiterer Interpretation der Fach-
+information berücksichtigt werden.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                 - 16 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+4 Kommentare zu sonstigen Angaben im Dossier des pharmazeutischen Unternehmers
+
+4.1 Kommentar zur Zusammenfassung der Aussagen im Dossier (Modul 1)
+Modul 1 stellt primär eine Zusammenfassung der Angaben aus anderen Modulen dar.
+Angaben zur Bewertung der Inhalte befinden sich in den Abschnitten 2.7, 3.1, 3.2, 4.2 und 4.3
+sowie in Kapitel 5 dieses Dokuments.
+
+4.2 Kommentar zu allgemeinen Angaben zum Arzneimittel und zu den zugelassenen
+    Anwendungsgebieten (Modul 2)
+Die allgemeinen Angaben des pU zum Arzneimittel und zugelassenen Anwendungsgebieten
+befinden sich in Modul 2 (Abschnitte 2.1 bis 2.4) des Dossiers.
+
+Allgemeine Angaben zum Arzneimittel
+In Modul 2, Abschnitt 2.1.2 des Dossiers macht der pU Angaben zu den Wirkmechanismen
+von Insulin degludec und Liraglutid sowie zu den Eigenschaften der Wirkstoffkombination
+Insulin degludec/Liraglutid und anderen im Anwendungsgebiet zugelassenen Arzneimitteln,
+auch in Abgrenzung zueinander. Die Beschreibung ist ausreichend.
+
+Zugelassene Anwendungsgebiete
+In Modul 2, Abschnitt 2.2 stellt der pU den in Deutschland gültigen Zulassungsstatus
+hinreichend dar.
+
+4.3 Kommentar zur qualitätsgesicherten Anwendung (Modul 3 B, Abschnitt 3.4)
+Die Angaben des pU zur qualitätsgesicherten Anwendung befinden sich in Modul 3 B
+(Abschnitt 3.4) des Dossiers.
+
+Abschnitt 3.4 des Dossiers soll Anforderungen an eine qualitätsgesicherte Anwendung be-
+nennen, die sich aus diversen Quellen (z. B. Fach- und Gebrauchsinformation, Informationen
+zum Risk-Management-Plan sowie Anhang IIB des Europäischen Öffentlichen Beurteilungs-
+berichts [EPAR]) ergeben. Die Angaben des pU sind im Abgleich mit den Inhalten dieser
+Quellen umfassend.
+
+Ein Anhang IV des EPAR liegt nicht vor, sodass in Abschnitt 3.4.3 des Dossiers keine
+Angaben erforderlich sind. Der pU stellt in diesem Abschnitt den Inhalt des Anhangs IID des
+EPAR (Bedingungen oder Einschränkungen für die sichere und wirksame Anwendung des
+Arzneimittels) dar.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)               - 17 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+5 Zusammenfassung der Dossierbewertung
+
+5.1 Zugelassene Anwendungsgebiete
+Insulin degludec/Liraglutid wird zur Behandlung des Diabetes mellitus Typ 2 bei Er-
+wachsenen angewendet, um in Kombination mit oralen blutzuckersenkenden Arzneimitteln
+die Blutzuckerkontrolle zu verbessern, wenn diese Mittel allein oder in Kombination mit
+einem GLP-1-Rezeptoragonisten oder Basalinsulin den Blutzuckerspiegel nicht ausreichend
+regulieren.
+
+Die vorliegende Dossierbewertung bezieht sich ausschließlich auf die im Juni 2015 neu
+zugelassene Anwendung bei erwachsenen Patienten, bei denen orale Antidiabetika in
+Kombination mit einem GLP-1-Rezeptoragonisten zur Blutzuckerkontrolle nicht ausreichen.
+
+5.2 Medizinischer Nutzen und medizinischer Zusatznutzen im Verhältnis zur
+    zweckmäßigen Vergleichstherapie
+Tabelle 4 stellt das Ergebnis der Nutzenbewertung dar.
+
+Tabelle 4: Insulin degludec/Liraglutid – Ausmaß und Wahrscheinlichkeit des Zusatznutzens
+ Anwendungsgebiet                         Zweckmäßige Vergleichstherapie        Ausmaß und
+                                                                                Wahrscheinlichkeit des
+                                                                                Zusatznutzens
+ Kombination mit oralen Antidiabetika:    Metformin + Humaninsulin              Zusatznutzen nicht belegt
+  wenn orale Antidiabetika in            (Hinweis: Wenn Metformin gemäß
+   Kombination mit einem GLP-1-           Fachinformation nicht geeignet ist,
+   Rezeptoragonisten zur                  ist Humaninsulin als Therapieoption
+   Blutzuckerkontrolle nicht ausreichen   einzusetzen.)
+ GLP-1: Glucagon-like-peptide 1
+
+
+
+Über den Zusatznutzen beschließt der G-BA.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                             - 18 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+5.3 Anzahl der Patienten in den für die Behandlung infrage kommenden
+    Patientengruppen
+Tabelle 5: Anzahl der GKV-Patienten in der Zielpopulation
+ Bezeichnung der     Bezeichnung der       Anzahl der        Kommentar
+ Therapie            Patientengruppe       GKV-Patienten
+ (zu bewertendes                           in der
+ Arzneimittel)                             Zielpopulationa
+ Insulin degludec/   Kombination mit       78 600–170 100    Die vom pU verwendeten Quellen
+ Liraglutid          oralen                                  betrachten die Zielpopulation nicht
+                     Antidiabetika,                          umfassend und spezifisch genug. Es fehlen
+                     wenn orale                              die Patienten, bei denen vorher eine orale
+                     Antidiabetika in                        antidiabetische Kombinationstherapie mit
+                     Kombination mit                         einem GLP-1-Rezeptoragonisten nicht
+                     einem GLP-1-                            ausgereicht hat und die schon eine
+                     Rezeptoragonisten                       Kombinationstherapie mit Insulin erhalten.
+                     zur                                     Weiterhin berücksichtigt der pU nicht, dass
+                     Blutzuckerkontrolle                     die Gabe von Insulin degludec/Liraglutid bei
+                     nicht ausreichen                        Patienten mit mittelschwerer und schwerer
+                                                             Nierenfunktionsstörung laut
+                                                             Fachinformation nicht empfohlen wird. Die
+                                                             Anzahl der GKV-Patienten wird daher als
+                                                             nicht quantifizierbar eingeschätzt.
+ a: Angaben des pU
+ GKV: gesetzliche Krankenversicherung; GLP-1: Glucagon-like-peptide 1; pU: pharmazeutischer
+ Unternehmer
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                            - 19 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+5.4 Kosten der Therapie für die gesetzliche Krankenversicherung
+Tabelle 6: Jahrestherapiekosten für die GKV für das zu bewertende Arzneimittel und die
+zweckmäßige Vergleichstherapie pro Patient
+ Bezeichnung der         Bezeichnung der          Jahrestherapie-        Kommentar
+ Therapie                Patientengruppe          kosten pro Patient
+ (zu bewertendes                                  in €a
+ Arzneimittel,
+ zweckmäßige
+ Vergleichstherapie)
+ Insulin degludec/       Kombination mit          1118,12–3494,12        Die Jahrestherapiekosten für
+ Liraglutid + OAD        oralen Antidiabetika,    (+ Kosten für OAD)     Insulin degludec/Liraglutid sind
+                         wenn orale                                      nachvollziehbar und plausibel.
+ Metformin +                                      693,34–1243,41
+ Humaninsulin            Antidiabetika in                                Die Jahrestherapiekosten für
+                         Kombination mit                                 Humaninsulin in Kombination
+                         einem GLP-1-                                    mit Metformin stellen eine
+ Humaninsulinb           Rezeptoragonisten zur    658,84–1139,93         Überschätzung dar, da der pU
+                         Blutzuckerkontrolle                             den Herstellerrabatt nicht
+                         nicht ausreichen                                berücksichtigt und bei
+                                                                         Humaninsulin von einem zu
+                                                                         hohen Verbrauch ausgeht.
+                                                                         Bei der Berücksichtigung dieser
+                                                                         Punkte ergeben sich Kosten von
+                                                                         589,98 € bis 1035,44 € für
+                                                                         Metformin + Humaninsulin.
+                                                                         Für Blutzuckermessgerät und
+                                                                         Stechhilfe sowie bei
+                                                                         Humaninsulin für Insulinpens
+                                                                         bzw. Kolbenspritzen sollten
+                                                                         Kosten veranschlagt werden.
+                                                                         Die Kosten sind auf Grundlage
+                                                                         des Dossiers nicht zu beziffern
+                                                                         und werden daher nicht
+                                                                         quantifiziert.
+ a: Angaben des pU
+ b: Wenn Metformin gemäß Fachinformation nicht geeignet ist, ist Humaninsulin als Therapieoption
+ einzusetzen.
+ GKV: gesetzliche Krankenversicherung; GLP-1: Glucagon-like-peptide 1; OAD: orales Antidiabetikum; pU:
+ pharmazeutischer Unternehmer
+
+
+
+5.5 Anforderungen an eine qualitätsgesicherte Anwendung
+Nachfolgend werden die Angaben des pU aus Modul 1, Abschnitt 1.8 „Anforderungen an
+eine qualitätsgesicherte Anwendung“ ohne weitere Anpassung präsentiert. Details zur
+Bewertung dieser Inhalte sind Abschnitt 4.3 zu entnehmen.
+
+   „Aus der Fach- und Gebrauchsinformation von Xultophy können folgende Anforderungen
+   an eine qualitätsgesicherte Anwendung entnommen werden:
+
+   Xultophy wird zur Behandlung des Diabetes mellitus Typ 2 bei Erwachsenen angewendet,
+   um in Kombination mit oralen blutzuckersenkenden Arzneimitteln die Blutzuckerkontrolle
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                            - 20 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+   zu verbessern, wenn diese Mittel allein oder in Kombination mit einem GLP-1-Rezeptor-
+   Agonisten oder Basalinsulin den Blutzuckerspiegel nicht ausreichend regulieren.
+
+   Xultophy wird einmal täglich durch subkutane Injektion in Dosisschritten (ein
+   Dosisschritt enthält 1 Einheit Insulin degludec und 0,036 mg Liraglutid) gegeben und
+   kann tageszeitunabhängig angewendet werden, vorzugsweise jeden Tag zur gleichen
+   Tageszeit. Patienten, die eine Dosis vergessen haben, werden angewiesen, sich diese zu
+   geben, sobald sie es bemerken, und anschließend zu ihrem gewohnten einmal täglichen
+   Dosierungsschema zurückzukehren. Es müssen immer mindestens 8 Stunden zwischen den
+   Injektionen liegen. Dies gilt auch dann, wenn eine Verabreichung zur gleichen Tageszeit
+   nicht möglich ist. Die Tageshöchstdosis von Xultophy beträgt 50 Dosisschritte (50
+   Einheiten Insulin degludec und 1,8 mg Liraglutid).
+
+   Xultophy muss entsprechend des Bedarfes des einzelnen Patienten dosiert werden.
+   Xultophy kann zusätzlich zu einer bestehenden oralen antidiabetischen Behandlung
+   gegeben werden. Die empfohlene anfängliche Dosis von Xultophy beträgt hier 10
+   Dosisschritte (10 Einheiten Insulin degludec und 0,36 mg Liraglutid). Vor Aufnahme der
+   Xultophy Therapie muss eine Basalinsulintherapie abgesetzt werden. Bei der Umstellung
+   von einer Basalinsulintherapie beträgt die empfohlene anfängliche Dosis von Xultophy 16
+   Dosisschritte (16 Einheiten Insulin degludec und 0,6 mg Liraglutid) (siehe Abschnitte 4.4
+   und 5.1 der Fachinformation). Bei der Umstellung von einer Therapie mit einem GLP-1-
+   Rezeptor-Agonisten beträgt die empfohlene anfängliche Dosis von Xultophy 16
+   Dosisschritte (16 Einheiten Insulin degludec und 0,6 mg Liraglutid). Die empfohlene
+   anfängliche Dosis sollte nicht überschritten werden. Bei Umstellung von einem
+   langwirksamen GLP-1-Rezeptor-Agonisten (z. B. mit einmal wöchentlicher Gabe) sollte
+   die verlängerte Wirkung berücksichtigt werden. Die Behandlung mit Xultophy sollte zu
+   dem Zeitpunkt, zu dem die nächste Dosis des langwirksamen GLP-1 Rezeptor-Agonisten
+   angewendet werden würde, begonnen werden. Eine engmaschige Überwachung des
+   Blutzuckers während der Umstellung und in den nachfolgenden Wochen wird empfohlen.
+   Die empfohlene anfängliche Dosis sollte nicht überschritten werden.
+
+   In den verschiedenen Abschnitten der Fach- und Gebrauchsinformation von Xultophy sind
+   alle Anforderungen an eine qualitätsgesicherte Anwendung beschrieben. Die Beachtung
+   der zugelassenen Indikation, Dosierung und Art der Anwendung, Gegenanzeigen,
+   Warnhinweise und Vorsichtsmaßnahmen für die Anwendung, Wechselwirkungen,
+   Informationen zu Schwangerschaft und Stillzeit, Nebenwirkungen und Informationen zur
+   Überdosierung ist Voraussetzung für eine fachgerechte Anwendung des Arzneimittels.
+
+   Gemäß der Angaben in Anhang II des European Public Assessment Reports (EPAR) in
+
+       •   Abschnitt B (Bedingungen oder Einschränkungen für die Abgabe und den
+           Gebrauch) handelt es sich bei Xultophy um ein Arzneimittel, das der
+           Verschreibungspflicht unterliegt.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)              - 21 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+       •   Abschnitt C (Sonstige Bedingungen und Auflagen der Genehmigung für das
+           Inverkehrbringen)       sind    für    Xultophy regelmäßig    aktualisierte
+           Unbedenklichkeitsberichte gemäß den Anforderungen der – nach Artikel 107 c
+           Absatz 7 der Richtlinie 2001/83/EG vorgesehen.
+
+   In der Zusammenfassung des EU-Risiko-Management-Plans wird als Maßnahme zur
+   Risikominimierung (siehe Tabelle „risk minimisation measures“ im EU-Risiko-
+   Management-Plan) vorgesehen, dass vor der Markteinführung ein Schulungspaket zur
+   Verfügung gestellt wird. Das Schulungspaket ist vorgesehen für alle Ärzte und
+   medizinisches Fachpersonal, von denen erwartet wird, dass sie in die Behandlung und das
+   Management von Diabetespatienten involviert sein werden und für alle Apotheker, von
+   denen erwartet wird, dass sie Xultophy abgeben werden. Der finale Inhalt und die
+   Modalitäten zur Verteilung der Schulungsmaterialien zusammen mit dem
+   Kommunikationsplan mit der nationalen Zulassungsbehörde in jedem Mitgliedsstaat sind
+   vor der Versendung des Schulungspaketes im betreffenden Mitgliedsstaat abzustimmen.
+   Novo Nordisk muss sicherstellen, dass das medizinische Fachpersonal darüber informiert
+   ist, dass alle Patienten, denen Xultophy verschrieben wurde, vor der Verschreibung bzw.
+   der Abgabe von Xultophy in der korrekten Anwendung des Fertigpens geschult werden
+   müssen.“
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)            - 22 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+6 Literatur
+
+1. Bundesministerium für Gesundheit. Verordnung über die Nutzenbewertung von
+Arzneimitteln nach § 35a Absatz 1 SGB V für Erstattungsvereinbarungen nach § 130b SGB V
+(Arzneimittel-Nutzenbewertungsverordnung - AM-NutzenV) [online]. 27.03.2014 [Zugriff:
+18.08.2015]. URL: http://www.gesetze-im-internet.de/bundesrecht/am-nutzenv/gesamt.pdf.
+2. Gemeinsamer Bundesausschuss. Verfahrensordnung des Gemeinsamen Bundesausschusses
+[online]. 16.04.2015 [Zugriff: 18.08.2015]. URL: https://www.g-ba.de/downloads/62-492-
+1002/VerfO_2014-12-18_iK-2015-04-16.pdf.
+3. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen. Langwirksame
+Insulinanaloga zur Behandlung des Diabetes mellitus Typ 2: Abschlussbericht; Auftrag A05-
+03; Version 1.1 [online]. 26.02.2009 [Zugriff: 24.08.2015]. (IQWiG-Berichte; Band 42).
+URL: http://www.iqwig.de/download/A05-
+03_Abschlussbericht_Langwirksame_Insulinanaloga_bei_Diabetes_mellitus_Typ_2_V1.1.pd
+f.
+4. Novo Nordisk. Xultophy: Fachinformation [online]. 06.2015 [Zugriff: 18.08.2015]. URL:
+http://www.fachinfo.de.
+5. Novo Nordisk Pharma. Insulin degludec/Liraglutid (Xultophy): Dossier zur
+Nutzenbewertung gemäß § 35a SGB V; Modul 3 A; zur Behandlung des Diabetes mellitus
+Typ 2 in Kombination mit oralen Antidiabetika; zweckmäßige Vergleichstherapie, Anzahl der
+Patienten mit therapeutisch bedeutsamem Zusatznutzen, Kosten der Therapie für die GKV,
+Anforderungen an eine qualitätsgesicherte Anwendung [online]. 24.04.2015 [Zugriff:
+25.08.2015]. URL: https://www.g-ba.de/downloads/92-975-837/2015-04-
+24_Modul3A_Insulindegludec-Liraglutid.pdf.
+6. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen. Insulin
+degludec/Liraglutid: Nutzenbewertung gemäß § 35a SGB V; Dossierbewertung; Auftrag
+A15-15 [online]. 30.07.2015 [Zugriff: 27.08.2015]. (IQWiG-Berichte; Band 316). URL:
+https://www.iqwig.de/download/A15-15_Insulin-degludec-Liraglutid_Nutzenbewertung-35a-
+SGB-V.pdf.
+7. Garber AJ, King AB, Del Prato S, Sreenan S, Balci MK, Munoz-Torres M et al. Insulin
+degludec, an ultra-longacting basal insulin, versus insulin glargine in basal-bolus treatment
+with mealtime insulin aspart in type 2 diabetes (BEGIN Basal-Bolus Type 2): a phase 3,
+randomised, open-label, treat-to-target non-inferiority trial. Lancet 2012; 379(9825): 1498-
+1507.
+8. Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen. Insulin degludec:
+Nutzenbewertung gemäß § 35a SGB V; Dossierbewertung; Auftrag A14-13 [online].
+30.07.2014 [Zugriff: 05.08.2014]. (IQWiG-Berichte; Band 230). URL:
+https://www.iqwig.de/download/A14-13_Insulin-degludec_Nutzenbewertung-35a-SGB-
+V.pdf.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                  - 23 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+9. Gemeinsamer Bundesausschuss. Beschluss des Gemeinsamen Bundesausschusses über eine
+Änderung der Arzneimittel-Richtlinie (AM-RL); Anlage XII: Beschlüsse über die
+Nutzenbewertung von Arzneimitteln mit neuen Wirkstoffen nach § 35a SGB V; Lixisenatid
+[online]. 05.09.2013 [Zugriff: 25.02.2014]. URL: http://www.g-ba.de/downloads/39-261-
+1806/2013-09-05_AM-RL-XII_Lixisenatid_BAnz.pdf.
+10. Freichel M, Mengel K. Antidiabetika. In: Schwabe U, Paffrath D (Ed).
+Arzneiverordnungs-Report 2014: aktuelle Daten, Kosten, Trends und Kommentare. Berlin:
+Springer; 2014. S. 393-418.
+11. Sanofi. Euglucon N: Fachinformation [online]. 04.2015 [Zugriff: 01.09.2015]. URL:
+www.fachinfo.de.
+12. Sanofi. Amaryl: Fachinformation [online]. 10.2013 [Zugriff: 01.09.2015].
+13. Sanofi. Insuman Basal 100 I. E./ml Injektionssuspension in einer Patrone:
+Fachinformation [online]. 12.2013 [Zugriff: 01.09.2015].
+14. Merck. Glucophage 500 mg/- 850 mg/- 1000 mg Filmtabletten: Fachinformation [online].
+12.2014 [Zugriff: 01.09.2015]. URL: www.fachinfo.de.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                - 24 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Anhang A – Darlegung potenzieller Interessenkonflikte (externe Sachverständige sowie
+Patientinnen und Patienten bzw. Patientenorganisationen)
+
+In die vorliegende Dossierbewertung wurde keine Beraterin / kein Berater zu medizinisch-
+fachlichen Fragen eingebunden.
+
+Eingebundene Patientinnen und Patienten bzw. Patientenorganisationen
+Im Folgenden sind die potenziellen Interessenkonflikte der eingebundenen Patientinnen und
+Patienten bzw. Patientenorganisationen dargestellt. Alle Informationen beruhen auf
+Selbstangaben der einzelnen Personen anhand des „Formblatts zur Offenlegung potenzieller
+Interessenkonflikte – Version ‚frühe Nutzenbewertung‘“. Das Formblatt ist unter
+www.iqwig.de abrufbar. Die in diesem Formblatt verwendeten Fragen befinden sich im
+Anschluss an diese Zusammenfassung.
+
+ Name; Institution      Frage 1   Frage 2 /     Frage 3 /    Frage 4 /     Frage 5   Frage 6
+                                  Ergänzende    Ergänzende   Ergänzende
+                                  Frage         Frage        Frage
+ Westermann, Sabine;    nein      nein / nein   ja / nein    ja / nein     nein      nein
+ Deutscher Diabetiker
+ Bund e. V.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                    - 25 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Im „Formblatt zur Offenlegung potenzieller Interessenkonflikte – Version ‚frühe
+Nutzenbewertung‘“ wurden folgende Fragen gestellt:
+
+Frage 1: Sind oder waren Sie innerhalb des laufenden Jahres und der 3 Kalenderjahre davor
+angestellt bei einem Unternehmen, einer Institution oder einem Interessenverband im
+Gesundheitswesen, insbesondere bei einem pharmazeutischen Unternehmen, einem Hersteller
+von Medizinprodukten oder einem industriellen Interessenverband?
+
+Frage 2: Beraten Sie oder haben Sie innerhalb des laufenden Jahres und der 3 Kalenderjahre
+davor ein Unternehmen, eine Institution oder einen Interessenverband im Gesundheitswesen,
+insbesondere ein pharmazeutisches Unternehmen, einen Hersteller von Medizinprodukten
+oder einen industriellen Interessenverband, direkt oder indirekt beraten?
+
+Ergänzende Frage zu Frage 2: Haben Sie darüber hinaus das von der Nutzenbewertung
+betroffene Unternehmen jemals im Zusammenhang mit der präklinischen oder klinischen
+Entwicklung des zu bewertenden Arzneimittels, direkt oder indirekt beraten?
+
+Frage 3: Haben Sie innerhalb des laufenden Jahres und der 3 Kalenderjahre davor direkt oder
+indirekt von einem Unternehmen, einer Institution oder einem Interessenverband im Gesund-
+heitswesen, insbesondere einem pharmazeutischen Unternehmen, einem Hersteller von
+Medizinprodukten oder einem industriellen Interessenverband, Honorare erhalten für
+Vorträge, Stellungnahmen oder Artikel?
+
+Ergänzende Frage zu Frage 3: Haben Sie darüber hinaus von dem von der Nutzenbewertung
+betroffenen Unternehmen jemals im Zusammenhang mit der präklinischen oder klinischen
+Entwicklung des zu bewertenden Produkts Honorare erhalten für Vorträge, Stellungnahmen
+oder Artikel?
+
+Frage 4: Haben Sie und / oder hat die Einrichtung 2, die Sie vertreten, abseits einer Anstellung
+oder Beratungstätigkeit innerhalb des laufenden Jahres und der 3 Kalenderjahre davor von
+einem Unternehmen, einer Institution oder einem Interessenverband im Gesundheitswesen,
+insbesondere einem pharmazeutischen Unternehmen, einem Hersteller von Medizinprodukten
+oder einem industriellen Interessenverband, finanzielle Unterstützung für Forschungs-
+aktivitäten, andere wissenschaftliche Leistungen oder Patentanmeldungen erhalten?
+
+Ergänzende Frage zu Frage 4: Haben Sie darüber hinaus persönlich abseits einer Anstellung
+oder Beratungstätigkeit jemals von dem von der Nutzenbewertung betroffenen Unternehmen
+im Zusammenhang mit der präklinischen oder klinischen Entwicklung des zu bewertenden
+Produkts finanzielle Unterstützung für Forschungsaktivitäten, andere wissenschaftliche
+Leistungen oder Patentanmeldungen erhalten?
+
+
+2
+ Sofern Sie in einer ausgedehnten Institution tätig sind, genügen Angaben zu Ihrer Arbeitseinheit, zum Beispiel
+Klinikabteilung, Forschungsgruppe etc.
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)                                - 26 -
+Dossierbewertung A15-30                                                     Version 1.0
+Insulin degludec/Liraglutid (neues AWG) – Nutzenbewertung gemäß § 35a SGB V 11.11.2015
+
+Frage 5: Haben Sie und / oder hat die Einrichtung2, bei der Sie angestellt sind bzw. die Sie
+vertreten, innerhalb des laufenden Jahres und der 3 Kalenderjahre davor sonstige finanzielle
+oder geldwerte Zuwendungen (z. B. Ausrüstung, Personal, Unterstützung bei der Ausrichtung
+einer Veranstaltung, Übernahme von Reisekosten oder Teilnahmegebühren ohne
+wissenschaftliche Gegenleistung) erhalten von einem Unternehmen, einer Institution oder
+einem Interessenverband im Gesundheitswesen, insbesondere von einem pharmazeutischen
+Unternehmen, einem Hersteller von Medizinprodukten oder einem industriellen Interessen-
+verband?
+
+Frage 6: Besitzen Sie Aktien, Optionsscheine oder sonstige Geschäftsanteile eines
+Unternehmens oder einer anderweitigen Institution, insbesondere von einem pharma-
+zeutischen Unternehmen oder einem Hersteller von Medizinprodukten? Besitzen Sie Anteile
+eines „Branchenfonds“, der auf pharmazeutische Unternehmen oder Hersteller von
+Medizinprodukten ausgerichtet ist?
+
+
+
+
+Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG)              - 27 -
+

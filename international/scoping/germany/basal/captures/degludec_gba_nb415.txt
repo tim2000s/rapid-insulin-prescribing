@@ -1,0 +1,502 @@
+ 
+ Nutzenbewertungsverfahren zum Wirkstoff Insulin degludec (Erneute Nutzenbewertung § 13: Diabetes mellitus Typ 2) - Gemeinsamer Bundesausschuss 
+Zum Inhalt [#skip-to-content]
+Zur Hauptnavigation [#main-nav]
+ Zur Startseite 
+ Gemeinsamer Bundesausschuss 
+ [/]
+ Menü 
+ Presse [/presse/]
+ Service [/service/]
+ FAQ [/service/faq/]
+ English [/english/]
+ Leichte Sprache [/leichte-sprache/]
+ Suchbegriff 
+ Suchen 
+ Über den GBA
+ [/ueber-den-gba/]
+ Wer wir sind
+ [/ueber-den-gba/wer-wir-sind/]
+ Mitglieder
+ [/ueber-den-gba/wer-wir-sind/mitglieder/]
+ Patientenbeteiligung
+ [/ueber-den-gba/wer-wir-sind/patientenbeteiligung/]
+ Stellungnahmeberechtigte
+ [/ueber-den-gba/wer-wir-sind/stellungnahmeberechtigte/]
+ Plenum
+ [/ueber-den-gba/wer-wir-sind/plenum/]
+ Unterausschüsse
+ [/ueber-den-gba/wer-wir-sind/unterausschuesse/]
+ Arbeitsweise
+ [/ueber-den-gba/arbeitsweise/]
+ Beratungsverfahren
+ [/ueber-den-gba/arbeitsweise/beratungsantrag/]
+ Wissenschaftliche Expertise
+ [/ueber-den-gba/arbeitsweise/sachverstaendige/]
+ Stellungnahmeverfahren
+ [/ueber-den-gba/arbeitsweise/stellungnahmeverfahren/]
+ Bürokratiekostenermittlung
+ [/ueber-den-gba/arbeitsweise/buerokratiekosten/]
+ Beschlussfassung
+ [/ueber-den-gba/arbeitsweise/beschlussfassung/]
+ Fristenberichte
+ [/ueber-den-gba/arbeitsweise/fristenberichte/]
+ Finanzierung
+ [/ueber-den-gba/finanzierung/]
+ Systemzuschlag
+ [/ueber-den-gba/finanzierung/systemzuschlag/]
+ Geschäftsstelle
+ [/ueber-den-gba/geschaeftsstelle/]
+ Geschäftsführung
+ [/ueber-den-gba/geschaeftsstelle/geschaeftsfuehrung/]
+ Abteilungen
+ [/ueber-den-gba/geschaeftsstelle/abteilungen/]
+ Stellenangebote
+ [/ueber-den-gba/geschaeftsstelle/stellenangebote/]
+ Ausschreibungen
+ [/ueber-den-gba/geschaeftsstelle/ausschreibungen/]
+ Anfahrt zur Geschäftsstelle
+ [/ueber-den-gba/geschaeftsstelle/anfahrt/]
+Erklärfilm – Der GBA in vier Minuten
+ zum Erklärfilm [/ueber-den-gba/erklaerfilm/]
+Informationsbroschüre
+ zur Informationsbroschüre [/service/informationsmaterialien-und-grafiken/#Info]
+Geschäftsberichte
+ zu den Geschäftsberichten [/service/informationsmaterialien-und-grafiken/#GB]
+ Themen
+ [/themen/]
+ Ambulante spezialfachärztliche Versorgung
+ [/themen/asv/]
+ ASV
+ [/themen/asv/116b/]
+ Ambulante Behandlung Krankenhaus
+ [/themen/asv/abk/]
+ Arzneimittel
+ [/themen/arzneimittel/]
+ Arzneimittel-Richtlinie und Anlagen
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/]
+ Nutzenbewertung gemäß § 35a SGB V
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/]
+ Informationen für Unternehmen
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/informationen-fuer-unternehmen/]
+ Ablauf der Nutzenbewertung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ablauf/]
+ EU-HTA
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/eu-hta-verordnung/]
+ Ergebnisse der Nutzenbewertung – Kategorien des Zusatznutzens
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/zusatznutzen/]
+ AIS – Maschinenlesbare Fassung der Beschlüsse nach § 35a SGB V
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/ais/]
+ Reserveantibiotika
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/reserveantibiotika/]
+ FAQ
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/faqs/]
+ Anwendungsbegleitende Datenerhebung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/nutzenbewertung-35a/anwendungsbegleitende-datenerhebung/]
+ Arzneimittel zur Tabakentwöhnung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/arzneimittel-zur-tabakentwoehnung/]
+ Bilanzierte Diäten zur enteralen Ernährung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/bilanzierte-diaeten/]
+ Biologika und Biosimilars
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/biologika-biosimilars/]
+ Aut-idem-Regelung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/aut-idem/]
+ Festbetragsgruppenbildung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/festbetragsgruppenbildung/]
+ Kosten-Nutzen-Bewertung nach § 35b SGB V
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/kosten-nutzen/]
+ Medizinprodukte
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/medizinprodukte/]
+ FAQ
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/medizinprodukte/faq-medizinprodukte/]
+ Antragsverfahren
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/medizinprodukte/antragsverfahren-mp/]
+ Off-Label-Use
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/off-label-use/]
+ FAQ
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/off-label-use/faq/]
+ OTC-Übersicht
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/otc-uebersicht/]
+ Antragsverfahren
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/otc-uebersicht/antragsverfahren-otc/]
+ Therapiehinweise
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/therapiehinweise/]
+ Verordnungseinschränkungen und -ausschlüsse
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/verordnungseinschraenkungen-ausschluesse/]
+ Verbandmittel und Wundbehandlung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/verbandmittel-wundbehandlung/]
+ Beratungsangebot zu sonstigen Produkten zur Wundbehandlung
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/verbandmittel-wundbehandlung/beratungsangebot/]
+ Lifestyle Arzneimittel
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/lifestyle/]
+ Zulassungsüberschreitende Anwendung in klinischen Studien
+ [/themen/arzneimittel/arzneimittel-richtlinie-anlagen/zulassungsueberschreitende-anwendung/]
+ Schutzimpfungen
+ [/themen/arzneimittel/schutzimpfungen/]
+ Qualitätsgesicherte Anwendung von ATMP
+ [/themen/arzneimittel/atmp-qs/]
+ Bedarfsplanung
+ [/themen/bedarfsplanung/]
+ Vertragsärztliche Versorgung
+ [/themen/bedarfsplanung/bedarfsplanungsrichtlinie/]
+ Notfallstrukturen in Krankenhäusern
+ [/themen/bedarfsplanung/notfallstrukturen-krankenhaeuser/]
+ Sicherstellungszuschläge
+ [/themen/bedarfsplanung/sicherstellungszuschlaege/]
+ Zentrums-Regelungen
+ [/themen/bedarfsplanung/zentrums-regelungen/]
+ Disease-Management-Programme
+ [/themen/disease-management-programme/]
+ Koordinierte Versorgung bei Long-COVID
+ [/themen/long-covid/]
+ Methodenbewertung
+ [/themen/methodenbewertung/]
+ Allgemeine vertragsärztliche Versorgung
+ [/themen/methodenbewertung/vertragsaerztliche-versorgung/]
+ Bewertung und Erprobung
+ [/themen/methodenbewertung/bewertung-erprobung/]
+ Ambulante und stationäre Versorgung
+ [/themen/methodenbewertung/bewertung-erprobung/ambulant-stationaer/]
+ Methoden mit Medizinprodukten hoher Risikoklasse
+ [/themen/methodenbewertung/bewertung-erprobung/137h/]
+ Beratungsangebot
+ [/themen/methodenbewertung/bewertung-erprobung/137h/beratungsangebot/]
+ Früherkennungsuntersuchungen
+ [/themen/methodenbewertung/bewertung-erprobung/frueherkennungsuntersuchungen/]
+ Erprobung
+ [/themen/methodenbewertung/bewertung-erprobung/erprobungsregelung/]
+ Richtlinien
+ [/themen/methodenbewertung/bewertung-erprobung/erprobungsregelung/richtlinien/]
+ Antragsgesteuerte Erprobung
+ [/themen/methodenbewertung/bewertung-erprobung/erprobungsregelung/antragsgesteuert/]
+ Früherkennungsuntersuchungen
+ [/themen/methodenbewertung/frueherkennungsuntersuchungen/]
+ Erwachsene
+ [/themen/methodenbewertung/erwachsene/]
+ Krebsfrüherkennung
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/]
+ Brustkrebs-Screening
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/mammographie-screening/]
+ Darmkrebs-Screening
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/darmkrebs-screening/]
+ Gebärmutterhalskrebs-Screening
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/gebaermutterhalskrebs-screening/]
+ Lungenkrebs-Screening
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/lungenkrebs-screening/]
+ Programmbeurteilung
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/programmbeurteilung/]
+ Krebsfrüherkennungsprogramme: Sekundäre Datennutzung
+ [/themen/methodenbewertung/erwachsene/krebsfrueherkennung/sekundaere-datennutzung-okfe/]
+ Gesundheitsuntersuchungen
+ [/themen/methodenbewertung/erwachsene/gesundheitsuntersuchungen/]
+ Aneurysmen der Bauchaorta
+ [/themen/methodenbewertung/erwachsene/aneurysmen-bauchaorta/]
+ Chlamydien-​Test
+ [/themen/methodenbewertung/erwachsene/chlamydien-test/]
+ Jugendliche
+ [/themen/methodenbewertung/jugendliche/]
+ Kinder
+ [/themen/methodenbewertung/kinder/]
+ Empfängnisregelung und Schwangerschaftsabbruch
+ [/themen/methodenbewertung/empfaengnisregelung-schwangerschaftsabbruch/]
+ Kryokonservierung
+ [/themen/methodenbewertung/kryokonservierung/]
+ Künstliche Befruchtung
+ [/themen/methodenbewertung/kuenstliche-befruchtung/]
+ Methoden
+ [/themen/methodenbewertung/kuenstliche-befruchtung/methoden/]
+ Definition und Zählweise von Versuchen
+ [/themen/methodenbewertung/kuenstliche-befruchtung/definition-zaehlweise/]
+ Schwangerschaft und Mutterschaft
+ [/themen/methodenbewertung/schwangerschaft-mutterschaft/]
+ FAQ
+ [/themen/methodenbewertung/schwangerschaft-mutterschaft/faqs-nipt/]
+ Stationäre Versorgung
+ [/themen/methodenbewertung/stationaere-versorgung/]
+ Psychotherapie und psychiatrische Versorgung
+ [/themen/psychotherapie/]
+ Ambulante Psychotherapie
+ [/themen/psychotherapie/ambulante-psychotherapie/]
+ Komplexversorgung: Koordinierte Versorgung für schwer psychisch erkrankte Erwachsene
+ [/themen/psychotherapie/komplexversorgung-koordinierte-versorgung-schwer-psychisch-erkrankter/]
+ Komplexversorgung für schwer psychisch erkrankte Kinder und Jugendliche
+ [/themen/psychotherapie/komplexversorgung-schwer-psychisch-erkrankter-kinder-und-jugendlicher/]
+ Evaluation neuer Strukturen in der ambulanten Psychotherapie
+ [/themen/psychotherapie/evaluation-strukturen-ambulante-psychotherapie/]
+ Evaluation der Komplexversorgung für schwer psychisch Kranke
+ [/themen/psychotherapie/evaluation-komplexversorgung-schwer-psychisch-kranke/]
+ Qualitätssicherung
+ [/themen/qualitaetssicherung/]
+ Vorgaben zur Qualitätssicherung
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/]
+ Anforderungen an einrichtungsübergreifende Fehlermeldesysteme
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/einrichtungsuebergreifende-fehlermeldesysteme/]
+ Mindestmengenregelungen
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-mindestmengenregelungen/]
+ FAQ
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-mindestmengenregelungen/faq/]
+ Nachweispflichten zur Fortbildung im Krankenhaus
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-fortbildungspflichten/]
+ Personalausstattung in Psychiatrie und Psychosomatik
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-personalausstattung-psychiatrie-psychosomatik/]
+ Qualitätsmanagement
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-qualitaetsmanagement/]
+ Strukturqualitätsvorgaben
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/vorgaben-strukturqualitaetsvorgaben/]
+ Zweitmeinung
+ [/themen/qualitaetssicherung/vorgaben-zur-qualitaetssicherung/zweitmeinung/]
+ Datenerhebung zur Qualitätssicherung
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/]
+ Qualitätsberichte der Krankenhäuser
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datenerhebung-qualitaetsbericht/]
+ Servicedateien
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datenerhebung-qualitaetsbericht/servicedateien/]
+ Krankenhaussuche
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datenerhebung-qualitaetsbericht/krankenhaussuche/]
+ Datengestützte Qualitätssicherungsverfahren
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datengestuetzte-qualitaetssicherungsverfahren/]
+ Datengestützte Qualitätssicherung: Sekundäre Datennutzung
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/sekundaere-datennutzung/]
+ Qualitätsindikatoren für die Krankenhausplanung
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datenerhebung-qualitaetsindikatoren-krankenhausplanung/]
+ Qualitätsprüfung und -beurteilung im ambulanten Bereich
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/datenerhebung-qualitaetspruefung-ambulant/]
+ Perinataldatenbank
+ [/themen/qualitaetssicherung/datenerhebung-zur-qualitaetssicherung/perinataldatenbank/]
+ Weitere Bereiche
+ [/themen/qualitaetssicherung/weitere-bereiche/]
+ Qualitätsprüfungen
+ [/themen/qualitaetssicherung/weitere-bereiche/qualitaetspruefungen/]
+ Regelungen von Folgen bei Nichteinhaltung von Qualitätsvorgaben
+ [/themen/qualitaetssicherung/weitere-bereiche/nichteinhaltung-qualitaetsvorgaben/]
+ Qualitätsverträge zwischen Krankenkassen und Kliniken
+ [/themen/qualitaetssicherung/weitere-bereiche/leistungsbereiche-qualitaetsvertraege/]
+ Heilkundeübertragung
+ [/themen/qualitaetssicherung/weitere-bereiche/weitere-bereiche-heilkundeuebertragung/]
+ Veranlasste Leistungen
+ [/themen/veranlasste-leistungen/]
+ Arbeitsunfähigkeit
+ [/themen/veranlasste-leistungen/arbeitsunfaehigkeit/]
+ Außerklinische Intensivpflege
+ [/themen/veranlasste-leistungen/ausserklinische-intensivpflege/]
+ Häusliche Krankenpflege
+ [/themen/veranlasste-leistungen/haeusliche-krankenpflege/]
+ Heilmittel
+ [/themen/veranlasste-leistungen/heilmittel/]
+ Verordnung in der vertragsärztlichen Versorgung
+ [/themen/veranlasste-leistungen/heilmittel/verordnung-heilmittel-vertragsaerzte/]
+ Verordnung in der vertragszahnärztlichen Versorgung
+ [/themen/veranlasste-leistungen/heilmittel/verordnung-heilmittel-vertragszahnaerztliche-versorgung/]
+ Hilfsmittel
+ [/themen/veranlasste-leistungen/hilfsmittel/]
+ Krankenbeförderung
+ [/themen/veranlasste-leistungen/krankenbefoerderung/]
+ Krankengeldanspruch für Begleitpersonen von Menschen mit Behinderung
+ [/themen/veranlasste-leistungen/krankengeldanspruch-begleitpersonen-menschen-mit-behinderung/]
+ Krankenhauseinweisungen
+ [/themen/veranlasste-leistungen/einkrankenhausweisungen/]
+ Medizinische Rehabilitation
+ [/themen/veranlasste-leistungen/medizinische-rehabilitation/]
+ Chroniker-Regelung
+ [/themen/veranlasste-leistungen/chroniker/]
+ Soziotherapie
+ [/themen/veranlasste-leistungen/soziotherapie/]
+ Palliativversorgung
+ [/themen/veranlasste-leistungen/palliativversorgung/]
+ Zahnärztliche und kieferorthopädische Versorgung
+ [/themen/zahnaerztliche-versorgung/]
+ Prophylaxe und Früherkennung
+ [/themen/zahnaerztliche-versorgung/prophylaxe-frueherkennung/]
+ Behandlung von Zahnerkrankungen
+ [/themen/zahnaerztliche-versorgung/zahnerkrankungen/]
+ Behandlung von Parodontalerkrankungen
+ [/themen/zahnaerztliche-versorgung/parodontalerkrankungen/]
+ Kieferorthopädische Behandlung
+ [/themen/zahnaerztliche-versorgung/kieferorthopaedische-behandlung/]
+ Zahnersatz
+ [/themen/zahnaerztliche-versorgung/zahnersatz/]
+ Richtlinien
+ [/richtlinien/]
+ Beschlüsse
+ [/beschluesse/]
+ Bewertungsverfahren
+ [/bewertungsverfahren/]
+ Nutzenbewertung nach § 35a SGB V
+ [/bewertungsverfahren/nutzenbewertung/]
+ Verfahren nach §§ 135, 137c und 137e SGB V
+ [/bewertungsverfahren/methodenbewertung/]
+ Verfahren nach § 137h SGB V
+ [/bewertungsverfahren/verfahren-137h/]
+ Studien
+ [/studien/]
+ Erprobungsstudien
+ [/studien/erprobung/]
+ Anwendungsbegleitende Datenerhebung
+ [/studien/abd/]
+ Service
+ [/service/]
+ Öffentliche Sitzungen
+ [/service/oeffentliche-sitzungen/]
+ Livestream und Mediathek
+ [/service/livestream-mediathek/]
+ GBA-Fachnews
+ [/service/fachnews/]
+ Versicherteninformationen und U-Hefte
+ [/service/versicherteninformationen/]
+ GBA-Infodienst
+ [/service/infodienst/]
+ Informationsmaterialien und Grafiken
+ [/service/informationsmaterialien-und-grafiken/]
+ Veranstaltungen
+ [/service/veranstaltungen/]
+ Qualitätssicherungskonferenz 2026
+ [/service/veranstaltungen/qskonferenz2026/]
+ Qualitätssicherungskonferenz 2026: Programm
+ [/service/veranstaltungen/qskonferenz2026/programm/]
+ Qualitätssicherungskonferenz 2026: Programm – 26. November 2026
+ [/service/veranstaltungen/qskonferenz2026/programm/tag-1/]
+ Qualitätssicherungskonferenz 2026: Programm – 27. November 2026
+ [/service/veranstaltungen/qskonferenz2026/programm/tag-2/]
+ RSS-Feeds
+ [/service/rss/]
+ Benutzerhinweise
+ [/service/benutzerhinweise/]
+ FAQ
+ [/service/faq/]
+ Allgemeine Fragen zum Gemeinsamen Bundesausschuss
+ [/service/faq/allgemeine-fragen-zum-gemeinsamen-bundesausschuss/]
+ Mitglieder und Gremien
+ [/service/faq/mitglieder-und-gremien/]
+ Aufgaben für die gesetzliche Krankenversicherung
+ [/service/faq/aufgaben-fuer-die-gesetzliche-krankenversicherung/]
+ Beschlüsse und Richtlinien
+ [/service/faq/beschluesse-und-richtlinien/]
+ Beratungsverfahren
+ [/service/faq/beratungsverfahren/]
+ Evidenzbasierte Medizin
+ [/service/faq/evidenzbasierte-medizin/]
+ Presse
+ [/presse/]
+ Pressemitteilungen und Meldungen
+ [/presse/pressemitteilungen-meldungen/]
+ Gesetzesaufträge
+ [/presse/gesetzesauftraege/]
+ Stellungnahmen
+ [/presse/stellungnahmen/]
+ Der GBA in den Medien
+ [/presse/statements/]
+ Pressefotos
+ [/presse/fotos/]
+ Unparteiische Mitglieder
+ [/presse/fotos/fotos-unparteiische/]
+ Geschäftsführung
+ [/presse/fotos/geschaeftsfuehrung/]
+ Geschäftsstelle
+ [/presse/fotos/geschaeftsstelle/]
+ Sie sind hier: 
+ Startseite 
+ [/]
+ Bewertungsverfahren [/bewertungsverfahren/]
+ Nutzenbewertung nach § 35a SGB V [/bewertungsverfahren/nutzenbewertung/]
+ Nutzenbewertungsverfahren zum Wirkstoff Insulin degludec (Erneute Nutzenbewertung § 13: Diabetes mellitus Typ 2) [/bewertungsverfahren/nutzenbewertung/415/]
+ Nutzenbewertung nach § 35a SGB V
+Nutzenbewertungsverfahren zum Wirkstoff Insulin degludec (Erneute Nutzenbewertung § 13: Diabetes mellitus Typ 2)
+Steckbrief
+ Wirkstoff: Insulin degludec
+ Handelsname: Tresiba®
+ Therapeutisches Gebiet: Diabetes mellitus Typ 2 (Stoffwechselkrankheiten)
+ Pharmazeutischer Unternehmer: Novo Nordisk Pharma GmbH
+ Vorgangsnummer: 2018-12-01-D-405
+Fristen
+ Beginn des Verfahrens: 01.12.2018
+ Veröffentlichung der Nutzenbewertung und Beginn des schriftlichen Stellungnahmeverfahrens: 01.03.2019
+ Fristende zur Abgabe einer schriftlichen Stellungnahme: 22.03.2019
+ Beschlussfassung: 16.05.2019
+ Verfahrensstatus: Verfahren abgeschlossen
+Bemerkungen
+ Erneute Nutzenbewertung nach 5. Kapitel § 1 Abs. 2 Nr. 5 VerfO
+Dossier
+ Eingereichte Unterlagen des pharmazeutischen Unternehmers:
+ Modul 1 (PDF 317,35 kB) [/downloads/92-975-2787/2018-11-28_Modul1_Insulin-degludec.pdf]
+ Modul 2 (PDF 486,67 kB) [/downloads/92-975-2788/2018-11-28_Modul2_Insulin-degludec.pdf]
+ Modul 3A (PDF 1,74 MB) [/downloads/92-975-2789/2018-11-28_Modul3A_Insulin_degludec.pdf]
+ Modul 3B (PDF 1,74 MB) [/downloads/92-975-2790/2018-11-28_Modul3B_Insulin_degludec.pdf]
+ Modul 3C (PDF 1,90 MB) [/downloads/92-975-2791/2018-11-28_Modul3C_Insulin_degludec.pdf]
+ Modul 4A (PDF 12,11 MB) [/downloads/92-975-2792/2018-11-28_Modul4A_Insulin_degludec.pdf]
+ Modul 4B (PDF 13,51 MB) [/downloads/92-975-2793/2018-11-28_Modul4B_Insulin_degludec.pdf]
+ Modul 4C (PDF 8,49 MB) [/downloads/92-975-2794/2018-11-28_Modul4C_Insulin_degludec.pdf]
+Zweckmäßige Vergleichstherapie
+ Informationen zur zweckmäßigen Vergleichstherapie (PDF 11,09 MB) [/downloads/92-975-2796/2018-12-01_Information-zVT_Insulin-degludec_D-405.pdf]
+Anwendungsgebiet gemäß Fachinformation für Insulin degludec (Tresiba®)
+ Behandlung des Diabetes mellitus bei Erwachsenen, Jugendlichen und Kindern ab dem Alter von 1 Jahr.
+Zweckmäßige Vergleichstherapie
+ Siehe Tragende Gründe und Beschlusstext in:
+ Beschluss vom 16.05.2019:
+ Arzneimittel-Richtlinie/Anlage XII: Insulin degludec (Neubewertung aufgrund neuer wissenschaftlicher Erkenntnisse) [/beschluesse/3786/]
+Nutzenbewertung
+ Die Nutzenbewertung wurde am 01.03.2019 veröffentlicht:
+ Nutzenbewertung IQWiG (PDF 1,61 MB) [/downloads/92-975-2795/2018-12-01_Nutzenbewertung-IQWiG_Insulin-degludec_D-405.pdf]
+Stellungnahmen
+ Die Frist zur Abgabe einer schriftlichen Stellungnahme ist am 22.03.2019 abgelaufen.
+ Die mündliche Anhörung fand am 08.04.2019 statt.
+ Wortprotokoll zur mündlichen Anhörung (PDF 145,06 kB) [/downloads/91-1031-415/2019_04_08_Wortprotokoll_Insulin-degludec_D-405.pdf]
+Beschlüsse
+Geltende Fassung Arzneimittel-Richtlinie/Anlage XII:
+ Insulin degludec (PDF 307,13 kB) [/downloads/91-1385-415/2019-07-04_Geltende-Fassung_Insulin-degludec_D-109_D-405.pdf]
+Arzneimittel-Richtlinie/Anlage XII: Insulin degludec – Therapiekosten und Anwendungsgebiet
+ Beschlussdatum: 04.07.2019 
+ Inkrafttreten: 04.07.2019 
+ Beschluss veröffentlicht: 
+ BAnz AT 24.07.2019 B2 [https://www.bundesanzeiger.de/pub/de/amtlicher-teil?year=2019&edition=BAnz+AT+24.07.2019]
+ Beschlusstext
+ (PDF 643,38 kB) [/downloads/39-261-3866/2019-07-04_AM-RL-XII_Insulin-degludec_D-405_BAnz.pdf]
+ Tragende Gründe zum Beschluss
+ (PDF 56,90 kB) [/downloads/40-268-5855/2019-07-04_AM-RL-XII_Insulin-degludec_D-405_TrG.pdf]
+ Details zu diesem Beschluss [/beschluesse/3866/]
+Arzneimittel-Richtlinie/Anlage XII: Insulin degludec (Neubewertung aufgrund neuer wissenschaftlicher Erkenntnisse)
+ Beschlussdatum: 16.05.2019 
+ Inkrafttreten: 16.05.2019 
+ Beschluss veröffentlicht: 
+ BAnz AT 15.07.2019 B1 [https://www.bundesanzeiger.de/pub/de/amtlicher-teil?year=2019&edition=BAnz+AT+15.07.2019]
+ Beschlusstext
+ (PDF 972,25 kB) [/downloads/39-261-3786/2019-05-16_AM-RL-XII_Insulin-degludec_D-405_BAnz.pdf]
+ Tragende Gründe zum Beschluss
+ (PDF 211,09 kB) [/downloads/40-268-5746/2019-05-16_AM-RL-XII_Insulin-degludec_D-405_TrG.pdf]
+ Zusammenfassende Dokumentation
+ (PDF 18,83 MB) [/downloads/40-268-7771/2019-05-16_AM-RL-XII_Insulin-degludec_D-405_ZD.pdf]
+ Details zu diesem Beschluss [/beschluesse/3786/]
+Zugehörige Verfahren
+ Weitere Bewertungsverfahren zu diesem Wirkstoff:
+ Verfahren vom 01.05.2014 (Verfahren abgeschlossen) [/bewertungsverfahren/nutzenbewertung/109/]
+ Verfahren vom 15.06.2014 (Verfahren abgeschlossen) [/bewertungsverfahren/nutzenbewertung/121/]
+ [aufgehoben] 
+ Verfahren vom 01.03.2015 (Verfahren abgeschlossen) [/bewertungsverfahren/nutzenbewertung/162/]
+ English 
+Current Version Pharmaceutical Directive/Annex XII:
+ The current version of the Pharmaceutical Directive/Annex XII will shortly be available.
+Pharmaceutical Directive/Annex XII: Insulin degludec (Reassessment based on new scientific knowledge)
+ Date of resolution: 16/05/2019 
+ Entry into force: 16/05/2019 
+ Resolution (PDF 966,65 kB) [/downloads/39-1464-3786/2019-05-16_AM-RL-XII_Insulin-degludec_D-405_EN.pdf]
+ Justification
+ (PDF 900,48 kB) [/downloads/40-1465-5746/2019-05-16_AM-RL-XII_Insulin-degludec_D-405_TrG_EN.pdf]
+ Letzte Änderungen [/bewertungsverfahren/nutzenbewertung/415/letzte-aenderungen/]
+ Letzte Änderungen als RSS-Feed [/bewertungsverfahren/nutzenbewertung/415/letzte-aenderungen/rss.xml] (Tipps zur Nutzung [/service/rss/])
+ Inhalte drucken 
+ Zum Seitenanfang 
+ [#top]
+ LinkedIn 
+ (öffnet sich in neuem Fenster) 
+ [https://de.linkedin.com/company/gemeinsamer-bundesausschuss]
+ Instagram 
+ (öffnet sich in neuem Fenster) 
+ [https://www.instagram.com/gba.gesundheit]
+ Bluesky 
+ (öffnet sich in neuem Fenster) 
+ [https://bsky.app/profile/g-ba.de]
+ Impressum [/sys/impressum/]
+ Datenschutz [/sys/datenschutz/]
+ Kontakt [/sys/kontakt/]
+ Inhalt [/sys/inhalt/]
+ Benutzerhinweise [/service/benutzerhinweise/]
+ Erklärung zur Barrierefreiheit [/sys/erklaerung-zur-barrierefreiheit/]

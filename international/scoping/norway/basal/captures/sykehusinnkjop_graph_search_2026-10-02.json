@@ -1,0 +1,849 @@
+{
+ "_note": "Optimizely Graph fulltext search restricted to Url startsWith https://www.sykehusinnkjop.no, public SingleKey from page source; run 2026-10-02",
+ "insulin": {
+  "total": 6,
+  "items": [
+   {
+    "Name": "Insulinpumper tildeling",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/"
+   },
+   {
+    "Name": "Klage på utstyrsavtale for diabetespasienter tas ikke til følge",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/"
+   },
+   {
+    "Name": "Ny utstyrsavtale for diabetespasienter på plass",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/"
+   },
+   {
+    "Name": "Insulinpumper, CGM og forbruksmateriell",
+    "Url": "https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/"
+   },
+   {
+    "Name": "Avtaleoversikt basislegemidler.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx"
+   },
+   {
+    "Name": "Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/"
+   }
+  ]
+ },
+ "insulin anbefaling": {
+  "total": 92,
+  "items": [
+   {
+    "Name": "Insulinpumper tildeling",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/"
+   },
+   {
+    "Name": "Klage på utstyrsavtale for diabetespasienter tas ikke til følge",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/"
+   },
+   {
+    "Name": "Ny utstyrsavtale for diabetespasienter på plass",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/"
+   },
+   {
+    "Name": "Insulinpumper, CGM og forbruksmateriell",
+    "Url": "https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/"
+   },
+   {
+    "Name": "Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/"
+   },
+   {
+    "Name": "Blodkoagulasjonsfaktorer",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/blodkoagulasjonsfaktorer/"
+   },
+   {
+    "Name": "Plasmaderiverte legemidler",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/plasmaderiverte-legemidler/"
+   },
+   {
+    "Name": "Pulmonal arteriell hypertensjon (PAH)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/pulmonal-arteriell-hypertensjon-pah/"
+   },
+   {
+    "Name": "TNF BIO",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/tnf-bio/"
+   },
+   {
+    "Name": "Sjeldne sykdommer",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/sjeldne/"
+   },
+   {
+    "Name": "Hepatitt B og C",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/hepatitt-b-og-c/"
+   },
+   {
+    "Name": "Alvorlig astma",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/alvorlig-astma/"
+   },
+   {
+    "Name": "Gauchers sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/gauchers-sykdom/"
+   },
+   {
+    "Name": "Hereditært angioødem (HAE)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/hereditert-angioodem-hae/"
+   },
+   {
+    "Name": "Nevroendokrine svulster",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/nevroendokrine-svulster/"
+   },
+   {
+    "Name": "Wilsons sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/wilsons-sykdom/"
+   },
+   {
+    "Name": "Hjerteamyloidose",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/Hjerteamyloidose/"
+   },
+   {
+    "Name": "Kronisk nyresykdom inkl. anemi",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/kronisk-nyresykdom/"
+   },
+   {
+    "Name": "Transplantasjon",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/transplantasjon/"
+   },
+   {
+    "Name": "Veksthormonmangel",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/veksthormonmangel/"
+   },
+   {
+    "Name": "Ny legemiddelavtale skal bidra til å hindre mangelsituasjoner",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/ny-legemiddelavtale-skal-bidra-til-a-hindre-mangelsituasjoner/"
+   },
+   {
+    "Name": "Lavere priser kan spare sykehusene for 200 millioner på kreftmedisiner",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/lavere-priser-kan-spare-sykehusene-for-200-millioner-pa-kreftmedisiner/"
+   },
+   {
+    "Name": "Multippel sklerose (MS)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/multippel-sklerose-ms/"
+   },
+   {
+    "Name": "Fabry sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/fabry-sykdom/"
+   },
+   {
+    "Name": "Humant immunsviktvirus (HIV)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/humant-immunsviktvirus-hiv/"
+   },
+   {
+    "Name": "Legemiddelassistert rehabilitering (LAR)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/legemiddelassistert-rehabilitering-lar/"
+   },
+   {
+    "Name": "Immunologisk trombocytopeni (ITP)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/immunologisk-trombocytopeni-itp/"
+   },
+   {
+    "Name": "Progressiv fibroserende interstitiell lungesykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/idiopatisk-lungefibrose/"
+   },
+   {
+    "Name": "Antineovaskulariserende midler (våt AMD)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/"
+   },
+   {
+    "Name": "Global uro og krav til aktsomhetsvurderinger",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/baerekraft/global-uro-og-krav-til-aktsomhetsvurderinger/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar onkologi 2026",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-onkologi-2026/"
+   },
+   {
+    "Name": "Masteroppgave belyser legemiddelbytter ved nye avtaler",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/masteroppgave-belyser-legemiddelbytter-ved-nye-avtaler/"
+   },
+   {
+    "Name": "Onkologi",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/onkologi/"
+   },
+   {
+    "Name": "Internrevisjon viser god styring og kontroll",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/internrevisjon-viser-god-styring-og-kontroll/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar TNF BIO 2026",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-tnf-bio-2026/"
+   },
+   {
+    "Name": "Vaksiner",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/vaksiner/"
+   },
+   {
+    "Name": "Legemidler",
+    "Url": "https://www.sykehusinnkjop.no/legemidler/"
+   },
+   {
+    "Name": "Informasjonsmøte om ny prosess for medisinsk utstyr i Nye metoder",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/2026/informasjonsmote-om-ny-prosess-for-medisinsk-utstyr-i-nye-metoder/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar TNF BIO 2022",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-tnf-bio-2022/"
+   },
+   {
+    "Name": "Kontroll av renholdsavtaler",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/baerekraft/kontroll-av-renholdsavtaler/"
+   },
+   {
+    "Name": "Helseforetakene kan spare ca. 500 millioner på ny legemiddelavtale",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/helseforetakene-kan-spare-ca-500-millioner-pa-ny-legemiddelavtale/"
+   },
+   {
+    "Name": "Styrker systemet for vurdering av medisinsk utstyr i spesialisthelsetjenesten",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2025/styrker-systemet-for-vurdering-av-medisinsk-utstyr-i-spesialisthelsetjenesten/"
+   },
+   {
+    "Name": "Divisjoner",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/divisjoner/"
+   },
+   {
+    "Name": "Nordisk legemiddelforum får plass i Critical Medicines Alliance",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2024/far-plass-i-critical-medicines-alliance/"
+   },
+   {
+    "Name": "Anbefaling vaksiner sesonginfluensa.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4aec95/siteassets/avtaledokumenter/avtaler-legemidler/sesonginfluensavaksiner/anbefaling-vaksiner-sesonginfluensa.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksiner sesonginfluensa.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49bb24/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-sesonginfluensa.pdf"
+   },
+   {
+    "Name": "Anbefaling pneumokokkvaksine til voksenvaksinasjonsprogrammet.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c054/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkvaksine-til-voksenvaksinasjonsprogrammet.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksiner HPV.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4945ca/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-hpv.pdf"
+   },
+   {
+    "Name": "Anbefaling hepatitt C.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4968b0/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-c.pdf"
+   },
+   {
+    "Name": "Anbefaling multippel sklerose.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c058/siteassets/avtaledokumenter/avtaler-legemidler/ms/anbefaling-multippel-sklerose.pdf"
+   },
+   {
+    "Name": "Anbefaling BCG vaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2436/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-bcg-vaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling MMR vaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c007/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-mmr-vaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling onkologiske og kolonistimulerende legemidler.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a828d/siteassets/avtaledokumenter/avtaler-legemidler/onkologi/anbefaling-onkologiske-og-kolonistimulerende-legemidler.pdf"
+   },
+   {
+    "Name": "Kategoriplan for kirurgiske produkter",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-kirurgiske-produkter/"
+   },
+   {
+    "Name": "Anbefaling plasma Helse Vest og Helse Midt.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ad9d3/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-helse-vest-og-helse-midt.pdf"
+   },
+   {
+    "Name": "Anbefaling plasma for Helse Nord og Helse Sør Øst.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ad9d8/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-for-helse-nord-og-helse-sor-ost.pdf"
+   },
+   {
+    "Name": "Anbefaling rotavirusvaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a7ec4/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-rotavirusvaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksine mot hepatitt-B.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49edd9/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksine-mot-hepatitt-b.pdf"
+   },
+   {
+    "Name": "Anbefaling pneumokokkonjugatvaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a3946/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkonjugatvaksine.pdf"
+   },
+   {
+    "Name": "Kategoriplan for medisinske forbruksvarer",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-medisinske-forbruksvarer/"
+   },
+   {
+    "Name": "Anbefaling DTP-IPV og dTp-IPV vaksiner.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4af63c/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-dtp-ipv-og-dtp-ipv-vaksiner.pdf"
+   },
+   {
+    "Name": "Fare for antibiotikamangel gjer at Noreg må ta grep",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/fare-for-antibiotikamangel-gjer-at-noreg-ma-ta-grep/"
+   },
+   {
+    "Name": "Kategoriplan for bygg og eiendomsdrift",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-bygg-og-eiendomsdrift/"
+   },
+   {
+    "Name": "Anbefaling hjerteamyloidose.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49e539/siteassets/avtaledokumenter/avtaler-legemidler/hjerteamyloidose/anbefaling-hjerteamyloidose.pdf"
+   },
+   {
+    "Name": "Sak 79-2025 Status på oppfølging av internrevisjonsrapporter.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ae06e/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-79-2025-status-pa-oppfolging-av-internrevisjonsrapporter.pdf"
+   },
+   {
+    "Name": "Anbefaling Fabry sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498892/siteassets/avtaledokumenter/avtaler-legemidler/fabry-sykdom/fabry.pdf"
+   },
+   {
+    "Name": "Anbefaling gjeldende fra 1. september 2026 Wilsons sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a29d1/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-gjeldende-fra-1.-september-2026-wilsons-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling Wilsons sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a298c/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-wilsons-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling pulmonal arteriell hypertensjon - treprostinil.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49d056/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon---treprostinil.pdf"
+   },
+   {
+    "Name": "Anbefaling pulmonal arteriell hypertensjon.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49e701/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon.pdf"
+   },
+   {
+    "Name": "Anbefaling hepatitt B.pdf",
+    "Url": "https://www.sykehusinnkjop.no/48e0df/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-b.pdf"
+   },
+   {
+    "Name": "Anbefaling immunologisk trombocytopeni.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498f87/siteassets/avtaledokumenter/avtaler-legemidler/itp/anbefaling-immunologisk-trombocytopeni.pdf"
+   },
+   {
+    "Name": "Anbefaling transplantasjon.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2adf/siteassets/avtaledokumenter/avtaler-legemidler/transplantasjon/anbefaling-transplantasjon.pdf"
+   },
+   {
+    "Name": "Anbefaling antineovaskulariserende midler.pdf",
+    "Url": "https://www.sykehusinnkjop.no/495f1c/siteassets/avtaledokumenter/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/anbefaling-antineovaskulariserende-midler.pdf"
+   },
+   {
+    "Name": "Anbefaling veksthormonmangel.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a83c8/siteassets/avtaledokumenter/avtaler-legemidler/veksthormonmangel/anbefaling-veksthormonmangel.pdf"
+   },
+   {
+    "Name": "Anbefaling Gauchers sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2e33/siteassets/avtaledokumenter/avtaler-legemidler/gaucher/anbefaling-gauchers-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling progressiv fibroserende interstitiell lungesykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a1dae/siteassets/avtaledokumenter/avtaler-legemidler/progressiv-fibroserende-interstitiell-lungesykdom/anbefaling-progressiv-fibroserende-interstitiell-lungesykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling Hereditært angioødem.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498903/siteassets/avtaledokumenter/avtaler-legemidler/hae/hae.pdf"
+   },
+   {
+    "Name": "Anbefaling ekulizumab.pdf",
+    "Url": "https://www.sykehusinnkjop.no/499353/siteassets/avtaledokumenter/avtaler-legemidler/sjeldne-sykdommer/anbefaling-ekulizumab.pdf"
+   },
+   {
+    "Name": "Anbefaling humant immunsviktvirus.pdf",
+    "Url": "https://www.sykehusinnkjop.no/48e6f6/siteassets/avtaledokumenter/avtaler-legemidler/hiv/anbefaling-humant-immunsviktvirus.pdf"
+   },
+   {
+    "Name": "Anbefaling alvorlig astma.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a4d32/siteassets/avtaledokumenter/avtaler-legemidler/alvorlig-astma/anbefaling-alvorlig-astma.pdf"
+   },
+   {
+    "Name": "Anbefaling nevroendokrine svulster.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a831d/siteassets/avtaledokumenter/avtaler-legemidler/nevroendokrine-svulster/anbefaling-nevroendokrine-svulster.pdf"
+   },
+   {
+    "Name": "Anbefaling kronisk nyresykdom, anemi og hyperkalemi.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49335c/siteassets/avtaledokumenter/avtaler-legemidler/kronisk-nyresykdom/anbefaling-kronisk-nyresykdom-anemi-og-hyperkalemi.pdf"
+   },
+   {
+    "Name": "Sak 65-2025 Virksomhetsrapport september 2025 Vedlegg 2 Risikovurdering Anskaffelser - Veileder.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a9447/siteassets/dokumenter/styremoter/2025/styremote-21.-oktober-2025/sak-65-2025-virksomhetsrapport-september-2025-vedlegg-2-risikovurdering-anskaffelser---veileder.pdf"
+   },
+   {
+    "Name": "Anbefaling legemiddelassistert rehabilitering.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a96ae/siteassets/avtaledokumenter/avtaler-legemidler/lar/anbefaling-legemiddelassistert-rehabilitering.pdf"
+   },
+   {
+    "Name": "Anbefaling blodkoagulasjonsfaktorer.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a7492/siteassets/avtaledokumenter/avtaler-legemidler/blodkoagulasjonsfaktorer/anbefaling-blodkoagulasjonsfaktorer.pdf"
+   },
+   {
+    "Name": "Avtaleoversikt basislegemidler.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx"
+   },
+   {
+    "Name": "Sak 31-2026 Orientering fra administrerende direktør.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4940ed/siteassets/dokumenter/styremoter/2026/styremote-19.-mars-2026/sak-31-2026-orientering-fra-administrerende-direktor.pdf"
+   },
+   {
+    "Name": "Sak 81-2025 Status beredskapsarbeid.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ae066/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-81-2025-status-beredskapsarbeid.pdf"
+   },
+   {
+    "Name": "Sak 49-2026 Status Kardia fase I.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c87f/siteassets/dokumenter/styremoter/2026/styremote-16.-juni-2026/sak-49-2026-status-kardia-fase-i.pdf"
+   },
+   {
+    "Name": "Anbefaling TNFBIO for Helse Nord og Helse Sør Øst.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49cd7e/siteassets/avtaledokumenter/avtaler-legemidler/tnf-bio/anbefaling-tnfbio-for-helse-nord-og-helse-sor-ost.pdf"
+   },
+   {
+    "Name": "Anbefaling TNFBIO for Helse Vest og Helse Midt.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49cd8d/siteassets/avtaledokumenter/avtaler-legemidler/tnf-bio/anbefaling-tnfbio-for-helse-vest-og-helse-midt.pdf"
+   }
+  ]
+ },
+ "LIS-anbefaling insulin": {
+  "total": 112,
+  "items": [
+   {
+    "Name": "Insulinpumper tildeling",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/insulinpumper-tildeling/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar onkologi 2026",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-onkologi-2026/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar TNF BIO 2022",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-tnf-bio-2022/"
+   },
+   {
+    "Name": "Klage på utstyrsavtale for diabetespasienter tas ikke til følge",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/klage-pa-utstyrsavtale-for-diabetespasienter-tas-ikke-til-folge/"
+   },
+   {
+    "Name": "Ny utstyrsavtale for diabetespasienter på plass",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/ny-utstyrsavtale-for-diabetespasienter-pa-plass/"
+   },
+   {
+    "Name": "Divisjoner",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/divisjoner/"
+   },
+   {
+    "Name": "Legemidler",
+    "Url": "https://www.sykehusinnkjop.no/legemidler/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar TNF BIO 2026",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/helseforetakenes-anbudsseminar-tnf-bio-2026/"
+   },
+   {
+    "Name": "Joint Nordic procurement",
+    "Url": "https://www.sykehusinnkjop.no/en/legemidler/joint-nordic-procurement/"
+   },
+   {
+    "Name": "Insulinpumper, CGM og forbruksmateriell",
+    "Url": "https://www.sykehusinnkjop.no/nasjonale-avtaler/insulinpumper-cgm-og-forbruksmateriell-/"
+   },
+   {
+    "Name": "Tildeling er gjennomført i anskaffelsen av insulinpumper og CGM-systemer",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/tildeling-er-gjennomfort-i-anskaffelsen-av-insulinpumper-og-cgm-systemer/"
+   },
+   {
+    "Name": "Blodkoagulasjonsfaktorer",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/blodkoagulasjonsfaktorer/"
+   },
+   {
+    "Name": "Plasmaderiverte legemidler",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/plasmaderiverte-legemidler/"
+   },
+   {
+    "Name": "Pulmonal arteriell hypertensjon (PAH)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/pulmonal-arteriell-hypertensjon-pah/"
+   },
+   {
+    "Name": "TNF BIO",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/tnf-bio/"
+   },
+   {
+    "Name": "Sjeldne sykdommer",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/sjeldne/"
+   },
+   {
+    "Name": "Hepatitt B og C",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/hepatitt-b-og-c/"
+   },
+   {
+    "Name": "Alvorlig astma",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/alvorlig-astma/"
+   },
+   {
+    "Name": "Gauchers sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/gauchers-sykdom/"
+   },
+   {
+    "Name": "Hereditært angioødem (HAE)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/hereditert-angioodem-hae/"
+   },
+   {
+    "Name": "Nevroendokrine svulster",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/nevroendokrine-svulster/"
+   },
+   {
+    "Name": "Wilsons sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/wilsons-sykdom/"
+   },
+   {
+    "Name": "Hjerteamyloidose",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/Hjerteamyloidose/"
+   },
+   {
+    "Name": "Kronisk nyresykdom inkl. anemi",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/kronisk-nyresykdom/"
+   },
+   {
+    "Name": "Transplantasjon",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/transplantasjon/"
+   },
+   {
+    "Name": "Veksthormonmangel",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/veksthormonmangel/"
+   },
+   {
+    "Name": "Ny legemiddelavtale skal bidra til å hindre mangelsituasjoner",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/ny-legemiddelavtale-skal-bidra-til-a-hindre-mangelsituasjoner/"
+   },
+   {
+    "Name": "Lavere priser kan spare sykehusene for 200 millioner på kreftmedisiner",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/lavere-priser-kan-spare-sykehusene-for-200-millioner-pa-kreftmedisiner/"
+   },
+   {
+    "Name": "Multippel sklerose (MS)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/multippel-sklerose-ms/"
+   },
+   {
+    "Name": "Fabry sykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/fabry-sykdom/"
+   },
+   {
+    "Name": "Humant immunsviktvirus (HIV)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/humant-immunsviktvirus-hiv/"
+   },
+   {
+    "Name": "Legemiddelassistert rehabilitering (LAR)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/legemiddelassistert-rehabilitering-lar/"
+   },
+   {
+    "Name": "Immunologisk trombocytopeni (ITP)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/immunologisk-trombocytopeni-itp/"
+   },
+   {
+    "Name": "Progressiv fibroserende interstitiell lungesykdom",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/idiopatisk-lungefibrose/"
+   },
+   {
+    "Name": "Antineovaskulariserende midler (våt AMD)",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/"
+   },
+   {
+    "Name": "Global uro og krav til aktsomhetsvurderinger",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/baerekraft/global-uro-og-krav-til-aktsomhetsvurderinger/"
+   },
+   {
+    "Name": "Revidert oppgjørsavtale åpner for generisk legemiddelbytte",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2021/revidert-oppgjorsavtale-apner-for-generisk-legemiddelbytte/"
+   },
+   {
+    "Name": "Helseforetakenes anbudsseminar HIV 2022",
+    "Url": "https://www.sykehusinnkjop.no/arrangementer/kalender-arkiv/helseforetakenes-anbudsseminar-hiv-2022/"
+   },
+   {
+    "Name": "Informasjon og opplæring",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/informasjon-og-opplering/"
+   },
+   {
+    "Name": "Masteroppgave belyser legemiddelbytter ved nye avtaler",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2020/masteroppgave-belyser-legemiddelbytter-ved-nye-avtaler/"
+   },
+   {
+    "Name": "Medisinsk koderevisjon",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-nord/medisinsk-koderevisjon-regional/"
+   },
+   {
+    "Name": "Felles nordisk legemiddelanskaffelse offentliggjort",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/felles-nordisk-legemiddelanskaffelse-offentliggjort/"
+   },
+   {
+    "Name": "Onkologi",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/onkologi/"
+   },
+   {
+    "Name": "Internrevisjon viser god styring og kontroll",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/internrevisjon-viser-god-styring-og-kontroll/"
+   },
+   {
+    "Name": "Vaksiner",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-legemidler/vaksiner/"
+   },
+   {
+    "Name": "Velkommen til nye sykehusinnkjop.no",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2018/velkommen-til-nye-sykehusinnkjopno/"
+   },
+   {
+    "Name": "Informasjonsmøte om ny prosess for medisinsk utstyr i Nye metoder",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/2026/informasjonsmote-om-ny-prosess-for-medisinsk-utstyr-i-nye-metoder/"
+   },
+   {
+    "Name": "Pharmaceutical Strategy of The Norwegian Hospital Procurement Trust (Sykehusinnkjøp HF)",
+    "Url": "https://www.sykehusinnkjop.no/en/legemidler/pharmaceutical-strategy-of-the-norwegian-hospital-procurement-trust-sykehusinnkjop-hf/"
+   },
+   {
+    "Name": "Kontroll av renholdsavtaler",
+    "Url": "https://www.sykehusinnkjop.no/om-oss/baerekraft/kontroll-av-renholdsavtaler/"
+   },
+   {
+    "Name": "Helseforetakene kan spare ca. 500 millioner på ny legemiddelavtale",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2019/helseforetakene-kan-spare-ca-500-millioner-pa-ny-legemiddelavtale/"
+   },
+   {
+    "Name": "Styrker systemet for vurdering av medisinsk utstyr i spesialisthelsetjenesten",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2025/styrker-systemet-for-vurdering-av-medisinsk-utstyr-i-spesialisthelsetjenesten/"
+   },
+   {
+    "Name": "Nordisk legemiddelforum får plass i Critical Medicines Alliance",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2024/far-plass-i-critical-medicines-alliance/"
+   },
+   {
+    "Name": "Anbefaling vaksiner sesonginfluensa.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4aec95/siteassets/avtaledokumenter/avtaler-legemidler/sesonginfluensavaksiner/anbefaling-vaksiner-sesonginfluensa.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksiner sesonginfluensa.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49bb24/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-sesonginfluensa.pdf"
+   },
+   {
+    "Name": "Anbefaling pneumokokkvaksine til voksenvaksinasjonsprogrammet.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c054/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkvaksine-til-voksenvaksinasjonsprogrammet.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksiner HPV.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4945ca/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksiner-hpv.pdf"
+   },
+   {
+    "Name": "Anbefaling hepatitt C.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4968b0/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-c.pdf"
+   },
+   {
+    "Name": "Anbefaling multippel sklerose.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c058/siteassets/avtaledokumenter/avtaler-legemidler/ms/anbefaling-multippel-sklerose.pdf"
+   },
+   {
+    "Name": "Anbefaling BCG vaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2436/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-bcg-vaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling MMR vaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49c007/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-mmr-vaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling onkologiske og kolonistimulerende legemidler.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a828d/siteassets/avtaledokumenter/avtaler-legemidler/onkologi/anbefaling-onkologiske-og-kolonistimulerende-legemidler.pdf"
+   },
+   {
+    "Name": "Peritonealdialyse - utstyr og væsker 2025",
+    "Url": "https://www.sykehusinnkjop.no/nasjonale-avtaler/peritonealdialyse-utstyr-og-vesker/"
+   },
+   {
+    "Name": "Kategoriplan for kirurgiske produkter",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-kirurgiske-produkter/"
+   },
+   {
+    "Name": "Anbefaling plasma Helse Vest og Helse Midt.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ad9d3/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-helse-vest-og-helse-midt.pdf"
+   },
+   {
+    "Name": "Anbefaling plasma for Helse Nord og Helse Sør Øst.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ad9d8/siteassets/avtaledokumenter/avtaler-legemidler/plasmaderiverte-legemidler/anbefaling-plasma-for-helse-nord-og-helse-sor-ost.pdf"
+   },
+   {
+    "Name": "Rådgivere legemiddelinnkjop per 25.09.2026.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/4a7d1b/siteassets/dokumenter/legemidler/radgivere-pa-helseforetak/radgivere-legemiddelinnkjop-per-25.09.2026.xlsx"
+   },
+   {
+    "Name": "Anbefaling rotavirusvaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a7ec4/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-rotavirusvaksine.pdf"
+   },
+   {
+    "Name": "Anbefaling vaksine mot hepatitt-B.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49edd9/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-vaksine-mot-hepatitt-b.pdf"
+   },
+   {
+    "Name": "Bakgrunns-/sikkerhetssjekk til Helse Nord IKT og Helse Nord RHF",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-nord/bakgrunns-sikkerhetssjekk-regional/"
+   },
+   {
+    "Name": "Kan LAR-avtalen komme pasientene til gode?",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2018/kan-lar-avtalen-komme-pasientene-til-gode/"
+   },
+   {
+    "Name": "Anbefaling pneumokokkonjugatvaksine.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a3946/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-pneumokokkonjugatvaksine.pdf"
+   },
+   {
+    "Name": "infusjon og transfusjonsprodukter",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/infusjon-og-transfusjonsprodukter-ny-avtale-fra-14-21/"
+   },
+   {
+    "Name": "Kategoriplan for medisinske forbruksvarer",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-medisinske-forbruksvarer/"
+   },
+   {
+    "Name": "Anbefaling DTP-IPV og dTp-IPV vaksiner.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4af63c/siteassets/avtaledokumenter/avtaler-legemidler/vaksiner/anbefaling-dtp-ipv-og-dtp-ipv-vaksiner.pdf"
+   },
+   {
+    "Name": "Fare for antibiotikamangel gjer at Noreg må ta grep",
+    "Url": "https://www.sykehusinnkjop.no/nyheter/nyheter-2023/fare-for-antibiotikamangel-gjer-at-noreg-ma-ta-grep/"
+   },
+   {
+    "Name": "Tuber, masker og oksygenbehandling",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/tuber-masker-og-oksygenbehandling/"
+   },
+   {
+    "Name": "Kategoriplan for bygg og eiendomsdrift",
+    "Url": "https://www.sykehusinnkjop.no/kategoriplaner/kategoriplan-bygg-og-eiendomsdrift/"
+   },
+   {
+    "Name": "Bedriftshelsetjenester til helseforetak i Nord",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-nord/1-mal2/"
+   },
+   {
+    "Name": "Anbefaling hjerteamyloidose.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49e539/siteassets/avtaledokumenter/avtaler-legemidler/hjerteamyloidose/anbefaling-hjerteamyloidose.pdf"
+   },
+   {
+    "Name": "Filter anestesi og intensiv",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/filter-anestesi-og-intensiv/"
+   },
+   {
+    "Name": "PVK, SVK, VAP",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/pvk-svk-vap/"
+   },
+   {
+    "Name": "Hygieneprodukter - Desinfeksjonsmidler 2022",
+    "Url": "https://www.sykehusinnkjop.no/nasjonale-avtaler/hygieneprodukter-desinfeksjonsmidler/"
+   },
+   {
+    "Name": "Sårbehandlingsprodukter",
+    "Url": "https://www.sykehusinnkjop.no/avtaler-for-helse-midt-norge/saarbehandlingsprodukter/"
+   },
+   {
+    "Name": "Sak 79-2025 Status på oppfølging av internrevisjonsrapporter.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4ae06e/siteassets/dokumenter/styremoter/2025/styremote-11.-desember-2025/sak-79-2025-status-pa-oppfolging-av-internrevisjonsrapporter.pdf"
+   },
+   {
+    "Name": "Anbefaling Fabry sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498892/siteassets/avtaledokumenter/avtaler-legemidler/fabry-sykdom/fabry.pdf"
+   },
+   {
+    "Name": "Anbefaling gjeldende fra 1. september 2026 Wilsons sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a29d1/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-gjeldende-fra-1.-september-2026-wilsons-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling Wilsons sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a298c/siteassets/avtaledokumenter/avtaler-legemidler/wilsons-sykdom/anbefaling-wilsons-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling pulmonal arteriell hypertensjon - treprostinil.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49d056/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon---treprostinil.pdf"
+   },
+   {
+    "Name": "Anbefaling pulmonal arteriell hypertensjon.pdf",
+    "Url": "https://www.sykehusinnkjop.no/49e701/siteassets/avtaledokumenter/avtaler-legemidler/pah/anbefaling-pulmonal-arteriell-hypertensjon.pdf"
+   },
+   {
+    "Name": "Anbefaling hepatitt B.pdf",
+    "Url": "https://www.sykehusinnkjop.no/48e0df/siteassets/avtaledokumenter/avtaler-legemidler/hepatitt-b-og-c/anbefaling-hepatitt-b.pdf"
+   },
+   {
+    "Name": "Anbefaling immunologisk trombocytopeni.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498f87/siteassets/avtaledokumenter/avtaler-legemidler/itp/anbefaling-immunologisk-trombocytopeni.pdf"
+   },
+   {
+    "Name": "Anbefaling transplantasjon.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2adf/siteassets/avtaledokumenter/avtaler-legemidler/transplantasjon/anbefaling-transplantasjon.pdf"
+   },
+   {
+    "Name": "Anbefaling antineovaskulariserende midler.pdf",
+    "Url": "https://www.sykehusinnkjop.no/495f1c/siteassets/avtaledokumenter/avtaler-legemidler/antineovaskulariserende-midler-vat-amd/anbefaling-antineovaskulariserende-midler.pdf"
+   },
+   {
+    "Name": "Anbefaling veksthormonmangel.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a83c8/siteassets/avtaledokumenter/avtaler-legemidler/veksthormonmangel/anbefaling-veksthormonmangel.pdf"
+   },
+   {
+    "Name": "Anbefaling Gauchers sykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a2e33/siteassets/avtaledokumenter/avtaler-legemidler/gaucher/anbefaling-gauchers-sykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling progressiv fibroserende interstitiell lungesykdom.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a1dae/siteassets/avtaledokumenter/avtaler-legemidler/progressiv-fibroserende-interstitiell-lungesykdom/anbefaling-progressiv-fibroserende-interstitiell-lungesykdom.pdf"
+   },
+   {
+    "Name": "Anbefaling Hereditært angioødem.pdf",
+    "Url": "https://www.sykehusinnkjop.no/498903/siteassets/avtaledokumenter/avtaler-legemidler/hae/hae.pdf"
+   },
+   {
+    "Name": "Anbefaling ekulizumab.pdf",
+    "Url": "https://www.sykehusinnkjop.no/499353/siteassets/avtaledokumenter/avtaler-legemidler/sjeldne-sykdommer/anbefaling-ekulizumab.pdf"
+   },
+   {
+    "Name": "Anbefaling humant immunsviktvirus.pdf",
+    "Url": "https://www.sykehusinnkjop.no/48e6f6/siteassets/avtaledokumenter/avtaler-legemidler/hiv/anbefaling-humant-immunsviktvirus.pdf"
+   },
+   {
+    "Name": "Anbefaling alvorlig astma.pdf",
+    "Url": "https://www.sykehusinnkjop.no/4a4d32/siteassets/avtaledokumenter/avtaler-legemidler/alvorlig-astma/anbefaling-alvorlig-astma.pdf"
+   }
+  ]
+ },
+ "degludek": {
+  "total": 0,
+  "items": []
+ },
+ "glargin": {
+  "total": 1,
+  "items": [
+   {
+    "Name": "Avtaleoversikt basislegemidler.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx"
+   }
+  ]
+ },
+ "Fiasp": {
+  "total": 0,
+  "items": []
+ },
+ "Lyumjev": {
+  "total": 1,
+  "items": [
+   {
+    "Name": "Avtaleoversikt basislegemidler.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx"
+   }
+  ]
+ },
+ "Tresiba": {
+  "total": 0,
+  "items": []
+ },
+ "Toujeo": {
+  "total": 1,
+  "items": [
+   {
+    "Name": "Avtaleoversikt basislegemidler.xlsx",
+    "Url": "https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx"
+   }
+  ]
+ }
+}

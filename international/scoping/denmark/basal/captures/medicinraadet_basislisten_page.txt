@@ -1,0 +1,920 @@
+Fælles basisliste 
+ Gå til hovedindholdet
+ Anbefalinger og vejledninger
+ Filtrering
+ Fritekst 
+ Fagudvalg 
+ Vælg fagudvalg 
+ ADHD hos børn og voksne 
+ Akut leukæmi 
+ Alopecia areata 
+ Alzheimers sygdom 
+ Alzheimers sygdom - FU nedlagt 
+ Amyotrofisk lateral sklerose (ALS) 
+ Analkræft 
+ Antibiotika (RADS) - FU nedlagt 
+ Anæstesi - FU nedlagt 
+ Arvelige hudsygdomme (genodermatoser) 
+ Arveligt angioødem 
+ Atopisk eksem 
+ Basislisten 
+ Behandling og forebyggelse af venøse blodpropper hos kræftpatienter - FU nedlagt 
+ Behandlingsresistent depression hos voksne 
+ Benign hæmatologi 
+ Biosimilære lægemidler - FU nedlagt 
+ Blære- og urotelialkræft 
+ Blødersygdomme 
+ Brystkræft 
+ Cerebral parese - FU nedlagt 
+ Duchennes muskeldystrofi - FU nedlagt 
+ Endokrinologiske sygdomme (undtaget diabetes) 
+ Epilepsi 
+ Gigtsygdomme 
+ Gynækologisk kræft 
+ Hidrosadenitis suppurativa 
+ Hidrosadenitis suppurativa - FU nedlagt 
+ Hiv/aids 
+ Hjernekræft 
+ Hoved- og halskræft 
+ Hypertrofisk kardiomyopati 
+ Immunglobulinsubstitution 
+ Immunmodulerende behandling med immunglobuliner - FU nedlagt 
+ Infektionssygdomme hos børn 
+ Inflammatoriske lidelser i næse og bihuler 
+ Inflammatoriske tarmsygdomme 
+ Knoglemarvskræft (myelomatose) 
+ Kronisk lymfatisk leukæmi (CLL) 
+ Kroniske myeloproliferative sygdomme (inkl. kronisk myeloid leukæmi) 
+ Kræft i blærehalskirtlen 
+ Kræft i mavesæk og mavemund 
+ Leverbetændelse 
+ Leverkræft 
+ Leversygdomme 
+ Lipidforstyrrelser (dyslipidæmi) 
+ Lungeemfysem og lungefibrose 
+ Lungekræft 
+ Lymfekræft (lymfomer) 
+ Medfødte stofskiftesygdomme 
+ Menopausal hormonterapi 
+ Migræne 
+ Modermærkekræft og non-melanom hudkræft 
+ Multipel sklerose 
+ Myastenia gravis 
+ Neuroblastom - FU nedlagt 
+ Neuroendokrine tumorer - FU nedlagt 
+ Neuromuskulære sygdomme 
+ Nyrekræft 
+ Nyresygdomme 
+ Nyresygdomme - FU nedlagt 
+ Nyretransplantation - FU nedlagt 
+ Porfyrisygdomme - FU nedlagt 
+ Psoriasis og psoriasis med ledgener 
+ Psykotiske tilstande 
+ Pulmonal arteriel hypertension 
+ Sarkomer 
+ Seponeringslisten 
+ Sjældne knoglemetaboliske sygdomme - FU nedlagt 
+ Sjældne medfødte sygdomme hos børn 
+ Smerteguiden 
+ Svær astma 
+ Tidligere RADS-fagudvalg 
+ Transthyretin amyloidose 
+ Tværgående kræftlægemidler 
+ Tyk- og endetarmskræft 
+ Type 1-diabetes 
+ Type 2-diabetes 
+ Øjensygdomme 
+ Øvre gastrointestinale sygdomme - FU nedlagt 
+ Kategori 
+ Vælg kategori 
+ Lægemidler og indikations­udvidelser 
+ Behandlings­vejledninger og lægemiddel­rekomman­dationer 
+ Status 
+ Vælg status 
+ Anbefalet 
+ Delvist anbefalet 
+ Ikke anbefalet 
+ Anbefalet, revurderes 
+ Delvist anbefalet, revurderes 
+ Ikke anbefalet, revurderes 
+ Tilbagetrukket 
+ Revurdering 
+ Sygdom 
+ Vælg sygdom 
+ Acanthamoeba keratitis 
+ ADHD 
+ Akondroplasi 
+ Akondroplastisk dværgvækst 
+ Akromegali 
+ Aksial spondylartrit 
+ Akut hepatisk porfyri 
+ Akut leukæmi 
+ Akutte post-operative smerter 
+ Aldersrelateret makuladegeneration (AMD) ( AMD) 
+ Alfa-1 antitrypsinmangel 
+ Alfa-mannosidose 
+ Alopecia areata 
+ Alzheimers sygdom 
+ Amyloidose 
+ Amyotrofisk lateral sklerose (ALS) 
+ Amøbekeratitis 
+ Analcancer (SCAC) 
+ Analkræft 
+ Ankyloserende spondylitis 
+ Antineutrofil cytoplasmisk antistof (ANCA)-associeret vaskulitis 
+ Anæmi 
+ Artrose 
+ Arvelig X-bundet fosfatmangel 
+ Arveligt angioødem 
+ Astma 
+ Astmaeksem/børneeksem 
+ Atopisk dermatitis 
+ Attention deficit hyperactivity disorder 
+ Avanceret systemisk mastocytose 
+ Bardet-Biedls syndrom 
+ Basalcellekarcinom 
+ Bedøvelse ved mindre indgreb 
+ Benign hæmatologi 
+ Beta-talassæmi 
+ Betændelse i regnbue- og årehinden 
+ Betændelse i spiserøret 
+ Bihulebetændelse 
+ Blodkræft 
+ Blodmangel 
+ Blodprop i nethindens vener 
+ Blodsygdomme 
+ Blødersygdom 
+ Brystkræft 
+ Børneleddegigt 
+ C3-glomerulopati (C3G) 
+ Cancer 
+ Cancer pulmonis 
+ Cancer øsofagi 
+ Cerebral parese 
+ Cervixcancer 
+ Cholangiokarcinom 
+ CMV-infektion 
+ Colitis ulcerosa 
+ Colorektalcancer 
+ Crohns sygdom 
+ Cushings syndrom 
+ Defekter i syntesen af binyrebarkhormoner 
+ Depression 
+ Dermatologi 
+ Desmoid fibromatose 
+ Diabetes 
+ Diabetisk makulaødem (DME) (DME) 
+ Diffust storcellet B-celle lymfom (DLBCL) 
+ Endokrinologi 
+ Endometriecancer 
+ Enzymerstatningsterapi 
+ Eosinofil øsofagitis 
+ EpCAM-positive karcinomer (karcinomer med positiv ekspression af epithelialt celleadhæsionsmolekyle) 
+ Epidermolysis bullosa (EB) 
+ Epilepsi 
+ Epstein-Barr-virus-positiv posttransplantations-lymfoproliferativ sygdom (EBV+ PTLD) 
+ Fabrys sygdom 
+ Fenylketonuri 
+ Fibrodysplasia ossificans progressiva 
+ Fibromer i uterus 
+ Follikulært lymfom 
+ Forebyggende behandling mod blodpropper 
+ Forhøjede kolesteroler eller triglycerider i blodet 
+ Forhøjet blodtryk i lungekredsløbet 
+ Friedreichs ataksi 
+ Gastroenterologi 
+ GastroIntestinal Stromal Tumor (GIST) 
+ Gener i overgangsalderen 
+ Generaliseret pustuløs psoriasis 
+ Gigtsygdomme 
+ Godartet bløddelstumor 
+ Graft versus Host sygdom (GvH) 
+ Graves’ orbitopati 
+ Guillan-Barré syndrom 
+ Gynækologiske sygdomme/lidelser 
+ Halsbetændelse 
+ Hepatisk kløe 
+ Hepatitis 
+ Hepatocellulært carcinom 
+ Hereditært angioødem 
+ Hidrosadenitis suppurativa 
+ Hiv/aids 
+ Hjernekræft 
+ Hjerte- og kredsløbssygdomme 
+ Hoved- og halskræft 
+ Hudkræft 
+ Hudsygdomme 
+ Hyperlipidæmi 
+ Hypertrofisk kardiomyopati 
+ Hypoparathyroidisme 
+ Hæmatologi 
+ Hæmofili 
+ Hørenedsættelse 
+ Idiopatisk lungefibrose (IPF) 
+ Immun trombocytopeni 
+ Immundefekter 
+ Immundefekter og transplantation 
+ Immunhæmmende behandling efter transplantation 
+ Indolent systemisk mastocytose (ISM) 
+ Infektionssygdomme 
+ Interstitielle lungesygdomme 
+ Juvenil artritis 
+ Kardiologi 
+ Kawasaki sygdom 
+ Knoglemarvskræft 
+ Knogleskørhed 
+ Korttarmssyndrom 
+ Kronisk håndeksem 
+ Kronisk inflammatorisk demyeliniserende polyneuropati 
+ Kronisk leddegigt 
+ Kronisk lymfatisk leukæmi 
+ Kronisk myeloid leukæmi (CML) 
+ Kronisk nyresygdom 
+ Kronisk obstruktiv lungesygdom (KOL) 
+ Kronisk rhinosinuitis med næsepolypper (CRSwNP) 
+ Kroniske inflammatoriske tarmsygdomme 
+ Kroniske myeloproliferative neoplasier 
+ Kræft i blære og urinveje 
+ Kræft i galdevejene 
+ Kræft i mavesæk og mavemund 
+ Kræft i nervesystemet 
+ Kræft i næsesvælget 
+ Kræft med NTRK-fusion (Neurotrofisk tyrosinreceptorkinase (NTRK) genfusion) 
+ Kræftsygdomme 
+ Kutant planocellulært karcinom (CSCC) 
+ Kæmpecellearteritis 
+ Lebers arvelige opticus-neuropati 
+ Leverbetændelse 
+ Leverkræft 
+ Leversygdomme 
+ Limbal Stamcellemangel 
+ Livmoderhalskræft 
+ Livmoderkræft 
+ Lunge- og luftvejssygdomme 
+ Lungehindekræft 
+ Lungekræft 
+ Lupus nefritis 
+ Lymfomer 
+ Malignt melanom 
+ Malignt pleuralt mesotheliom 
+ Mammacancer 
+ Mantle celle lymfom 
+ Mave- og tarmsygdomme 
+ Mellemørebetændelse 
+ Menopausale gener 
+ Merkelcellekarcinom 
+ Metabolisk dysfunktion-associeret steatohepatitis (MASH) 
+ Metakromatisk leukodystrofi 
+ Migræne 
+ Modermærkekræft 
+ Multifokal motorisk neuropati 
+ Multipel Sklerose 
+ Muskeldystrofi 
+ Muskelknuder i livmoderen 
+ Muskelsvind 
+ Muskelsygdomme 
+ Myastenia gravis 
+ Myelofibrose 
+ Myelomatose 
+ Mykoser 
+ Nasopharyngeal cancer 
+ Nethindedystrofi 
+ Neuroendokrine tumorer 
+ Neurofibromatose 
+ Neurologiske sygdomme 
+ Neuromuskulære sygdomme 
+ Neuromyelitis optica spektrumsygdom 
+ Neuropsykiatriske lidelser 
+ Neutropeni 
+ Non-infektiøs posterior uveitis 
+ Nyrekræft 
+ Nyresygdomme 
+ Nyretransplantation 
+ Oftalmologi 
+ Osteoporose 
+ Otitis media 
+ Otorhinolaryngologi 
+ Ototoksisk høretab 
+ Ototoxicitet 
+ Ovariecancer 
+ Paroksystisk nokturn hæmoglobinuri (PNH) 
+ Perianale fistler ved Crohns sygdom 
+ Pharyngo-tonsillitis 
+ Pletskaldethed 
+ Polycystisk nyresygdom 
+ Polycytæmi vera 
+ Pompes sygdom 
+ Post-transplantations lymfoproliferativ sygdom (PTLD) 
+ Primær biliær kolangitis 
+ Procedural sedation 
+ Progressiv familiær intrahepatisk kolestase 
+ Progressiv lungefibrose (PPF) 
+ Prostatacancer 
+ Prostatakræft 
+ Prurigo nodularis 
+ Psoriasis 
+ Psoriasisartrit 
+ Psoriasisgigt 
+ Psykiatri 
+ Psykiatriske lidelser 
+ Psykotiske tilstande 
+ Pulmonal hypertension 
+ Renalcellekarcinom 
+ Respiratorisk syncytialvirus (RS-virus) 
+ Retinal veneokklusion ( RVO) 
+ Rett syndrom 
+ Reumatoid artrit 
+ Reumatologi 
+ Rygsøjlegigt 
+ Sarkomer 
+ Seglcelleanæmi 
+ Seglcellesygdom 
+ Sinuitis 
+ Sjældne arvelige sygdomme 
+ Skjoldbruskkirtelkræft 
+ Slidgigt 
+ Smertetilstande 
+ Spinal muskelatrofi 
+ Spiserørskræft 
+ Steatotisk leversygdom (SLD) 
+ Stofskiftesygdomme 
+ Sukkersyge 
+ Svedkirtelbetændelse 
+ Systemisk lupus erythematosus 
+ Systemiske svampeinfektioner 
+ Talassæmi 
+ Thyreoideakræft 
+ Tromboseprofylakse 
+ Tumorer associeret med von Hippel-Lindaus sygdom 
+ Tyk- og endetarmskræft 
+ Type 1-diabetes 
+ Type 2-diabetes 
+ Urinvejsinfektioner 
+ Urotelialt karcinom 
+ Uræmisk kløe 
+ Uræmisk pruritus 
+ Uvealt melanom 
+ Uveitis 
+ Vaskulitis (kæmpecellearteritis) 
+ Veneblodprop 
+ Ventrikelkræft 
+ Venøs tromboemboli 
+ Voksne og unge (≥ 12 år) med moderat til svær atopisk eksem, som er kandidater til systemisk behandling 
+ Væksthormonmangel 
+ Waldenstrøms makroglobulinæmi 
+ WHIM syndrom (warts, hypogammaglobulinemia, infections and myelokathexis) 
+ X-bundet hypofosfatæmi 
+ Æggestokkekræft 
+ Øjensygdomme (Oftamologi) 
+ Øre-næse-halssygdomme 
+ Lægemiddel 
+ Vælg lægemiddel 
+ 177-Lu viptovide tetraxetan (Pluvicto) 
+ Abemaciclib (Verzenio) 
+ Abemaciclib (Verzenios) i kombination med endokrin behandling 
+ Abirateron acetat (Zytiga) 
+ Abrocitinib 
+ Acalabrutinib (Calquence) 
+ Acalabrutinib (Calquence) i komb. med venetoclax 
+ Acalabrutinib + bendamustin + rituximab (Calquence) 
+ Acoramidis (Beyonttra) 
+ Aducanumab (Aduhelm) 
+ Afamelanotid (Scenesse) 
+ Aflibercept (Eylea) (114.3 mg/ml) 
+ Aflibercept (Eylea) (8 mg) 
+ Alectinib (Alecensa) 
+ Alfa-1-antitrypsin (Respreeza og Prolastina) 
+ Alpelisib (Piqray) 
+ Amivantamab (Rybrevant) 
+ Amivantamab (Rybrevant) i kombination med carboplatin og pemetrexed 
+ Andexanet alfa (Ondexxya) 
+ Anifrolumab (Saphnelo) 
+ Apalutamid (Erleada) 
+ Asciminib (Scemblix) 
+ Ataluren (Translarna) 
+ Atezolizumab (Tecentriq) 
+ Atezolizumab (Tecentriq) i kombination med bevacizumab (Avastin) 
+ Atezolizumab (Tecentriq) i kombination med carboplatin og etoposid 
+ Atezolizumab (Tecentriq) i kombination med nab-paclitaxel 
+ Avacopan (Tavneos) 
+ Avalglucosidase alfa (Nexviadyme) 
+ Avapritinib (Ayvakyt) 
+ Avatrombopag (Doptelet) 
+ Avelumab (Bavencio) 
+ Avelumab (Bavencio) i kombination med axitinib (Inlyta) 
+ Axicabtagene ciloleucel (Yescarta) 
+ Axitinib (Inlyta) 
+ Azacitidin (Onureg) 
+ Baricitinib (Olumiant) 
+ Belantamab mafodotin (Blenrep) 
+ Belumosudil (Rezurock) 
+ Belzutifan (Welireg) 
+ Benralizumab (Fasenra) 
+ Berotralstat (Orladeyo) 
+ Betibeglogene autotemcel (Zynteglo) 
+ Bictegravir/emtricitabine/tenofovir alafenamid (Biktarvy) 
+ Bimekizumab 
+ Binimetinib (Mektovi) 
+ Biosimilært adalimumab 
+ Biosimilært bevacizumab 
+ Biosimilært rituximab 
+ Biosimilært trastuzumab 
+ Birkebark ekstrakt (Filsuvez) 
+ Blinatumomab (Blincyto) 
+ Brentuximab vedotin (Adcetris) 
+ Brexucabtagene autoleucel (Tecartus) 
+ Brigatinib (Alunbrig) 
+ Brodalumab (Kyntheum) 
+ Brolucizumab (Beovu) 
+ Budesonid (Jorveza) 
+ Budesonid (Kinpeygo) 
+ Bulevirtid (Hepcludex) 
+ Burosumab (Crysvita) 
+ C1-inhibitor (human) (Berinert) 
+ Cabotegravir/rilpivirine 
+ Cabozantinib (Cabometyx) 
+ Cabozantinib (Cabometyx) i komb. med nivolumab (Opdivo) 
+ Capivasertib (Truqap) i komb. med fulvestrant 
+ Caplacizumab (Cablivi) 
+ Cemiplimab (Libtayo) 
+ Cemiplimab (Libtayo) i kombination med platinbaseret kemoterapi 
+ Certolizumab pegol (Cimzia) 
+ Chlormethin (Ledaga) 
+ Ciltacabtagene autoleucel (Carvykti) 
+ Cipaglucosidase alfa (Pombiliti ) i kombination med miglustat (Opfolda) 
+ Cladribin (Mavenclad) 
+ Clesrovimab (Enflonsia) 
+ Concizumab (Alhemo) 
+ Crovalimab (Piasky) 
+ Dabrafenib (Tafinlar) 
+ Dabrafenib (Tafinlar) i kombination med trametinib (Mekinist) 
+ Dacomitinib (Vizimpro) 
+ Damoctocog alfa pegol 
+ Daprodustat (Jesduvroq) 
+ Daratumumab (Darzalex) i komb. med bortezomib, thalidomid og dexamethason 
+ Daratumumab (Darzalex) i komb. med lenalidomid og dexamethason 
+ Daratumumab (Darzalex) i kombination med bortezomib, cyclophosphamid og dexamethason 
+ Daratumumab (Darzalex) i kombination med bortezomib, lenalidomid og dexamethason 
+ Daratumumab i kombination med bortezomib, melphalan og prednison 
+ Darolutamid (Nubeqa) i komb. med docetaxel 
+ Darolutamid i kombination med ADT (Nubeqa) 
+ Darvadstrocel (Alofisel) 
+ Datopotamab deruxtecan (Datroway) 
+ Daunorubicin og cytarabin (CPX-351) (Vyxeos) 
+ Decitabin + cedazuridin (Inaqovi) 
+ Decitabin + Cedazuridin (Inaqovi) i kombination med Venetoclax 
+ Delandistrogene moxeparvovec (Elevidys) 
+ Depemokimab (Exdensur) 
+ Deucravacitinib (Sotyktu) 
+ Difelikefalin (Kapruvia) 
+ Dinutuximab beta (Qarziba) 
+ Diroximel fumarate (Vumerity) 
+ Dolutegravir/lamivudin (Dovato) 
+ Donanemab (Kisunla) 
+ Donidalorsen (Dawnzera) 
+ Doravirin (Pifeltro) 
+ Doravirin/lamivudin/tenofovir disoproxil (Delstrigo) 
+ Dostarlimab (Jemperli) 
+ Dostarlimab (Jemperli) i kombination med carboplatin og paclitaxel 
+ Dupilumab (Dupixent) 
+ Durvalumab (Imfinzi) 
+ Durvalumab (Imfinzi) i komb. m. FLOT (5-fluorouracil, leucovorin, oxaliplatin, docetaxel) 
+ Durvalumab (Imfinzi) i kombination med etoposide og enten carboplatin eller cisplatin 
+ Durvalumab (Imfinzi) i kombination med gemcitabin og cisplatin 
+ Durvalumab (Imfinzi) i kombination med platinbaseret kemoterapi 
+ Durvalumab (Imfinzi) i kombination med tremelimumab (Imjudo) 
+ Eculizumab (Soliris) 
+ Efanesoctocog alfa 
+ Efgartigimod alfa (Vyvgart) 
+ Efmody 
+ Elafibranor (Iqirvo) 
+ Elotuzumab (Empliciti) i kombination med pomalidomid og dexamethason 
+ Elranatamab (Elrexfio) 
+ Emicizumab (Hemlibra) 
+ Encorafenib (Braftovi) 
+ Encorafenib (Braftovi) i kombination med binimetinib (Mektovi) 
+ Enfortumab vedotin (Padcev) 
+ Entrectinib (Rozlytrek) 
+ Enzalutamid (Xtandi) 
+ Epcoritamab (Epkinly) 
+ Eptinezumab (Vyepti) 
+ Erdafinitib (Balversa) 
+ Erenumab (Aimovig) 
+ Esketamin (Spravato) 
+ Etranacogene dezaparvovec (Hemgenix) 
+ Etrasimod 
+ Exagamglogene autotemcel (Casgevy) 
+ Faricimab (Vabysmo) 
+ Fedratinib (Inrebic) 
+ Fenfluramin (Fintepla) 
+ Fidanacogene elaparvovec (Beqvez) 
+ Filgotinib (Jyseleca) 
+ Fostamatinib (Tavlesse) 
+ Fremanezumab (Ajovy) 
+ Fruquintinib (Fruzaqla) 
+ Galcanezumab (Emgality) 
+ Garadacimab (Andembry) 
+ Gemtuzumab ozogamicin (Mylotarg) 
+ Gilteritinib (Xospata) 
+ Givinostat (Duvyzat) 
+ Givosiran (Givlaari) 
+ Glecaprevir/pibrentasvir (Maviret) 
+ Glofitamab (Columvi) 
+ Glofitamab (Columvi) i kombination med gemcitabin og oxaliplatin 
+ Glykopyrronium (Sialanar) 
+ Guselkumab (Tremfya) 
+ Human normal immunoglobulin - IVIG (Gamunex) 
+ Human normal immunoglobulin - SCIG (Xembify) 
+ Ibrutinib (Imbruvica) 
+ Ibrutinib (Imbruvica) + venetoclax 
+ Ibrutinib (Imbruvica) i komb. med R-CHOP 
+ Idebenon (Raxone) 
+ Imlifidase (Idefirix) 
+ Inavolisib (Itovebi) 
+ Inclisiran (Leqvio) 
+ Inebilizumab (Uplizna) 
+ Inotersen (Tegsedi) 
+ Inotuzumab ozogamicin (Besponsa) 
+ Ipilimumab (Yervoy) 
+ Iptacopan (Fabhalta) 
+ Isatuximab (Sarclisa) i komb. med carfilzomib og dexamethason 
+ Isatuximab (Sarclisa) i kombination med bortezomib, lenalidomid og dexamethason 
+ Isatuximab (Sarclisa) komb. med pomalidomid og dexamethason 
+ Ivosidenib (Tibsovo) 
+ Ixekizumab (Taltz) 
+ Lanadelumab (Takhzyro) 
+ Larotrectinib (Vitrakvi) 
+ Lazertinib (Lazcluze) 
+ Lebrikizumab (Ebglyss) 
+ Lecanemab (Leqembi) 
+ Lenalidomid (Revlimid) 
+ Lenalidomid (Revlimid) i kombination med bortezomib og dexamethason 
+ Lenvatinib (Kisplyx) i komb. med pembrolizumab (Keytruda) 
+ Lenvatinib (Lenvima) 
+ Lenvatinib (Lenvima) i komb. med pembrolizumab (Keytruda) 
+ Letermovir (Prevymis) 
+ Leuprorelin (Camcevi) 
+ Limbale stamceller (Holoclar) 
+ Linzagolix choline (Yselty) 
+ Liposomal bupivacaine (Exparel) 
+ Lisocabtagene maraleucel (Breyanzi) 
+ Loncastuximab tesirine (Zynlonta) 
+ Lorlatinib (Lorviqua) 
+ Lu-177-DOTATATE (Lutathera) 
+ Lurbinectedin (Zepzelca) i komb. med atezolizumab 
+ Luspatercept (Reblozyl) 
+ Maralixibat (Livmarli) 
+ Maribavir (Livtencity) 
+ Marstacimab (Hympavzi) 
+ Mavacamten (Camzyos) 
+ Mepolizumab (Nucala) 
+ Midostaurin (Rydapt) 
+ Mirdametinib (Ezmekly) 
+ Mirikizumab (Omvoh) 
+ Mirvetuximabsoravtansine (Elahere) 
+ Mogamulizumab (Poteligeo) 
+ Momelotonib 
+ Natriumthiosulfat (Pedmarqsi) 
+ Nemolizumab (Nemluvio) 
+ Nerandomilast (Jascayd) 
+ Neratinib (Nerlynx) 
+ Nintedanib (Ofev) 
+ Nipocalimab (Imaavy) 
+ Niraparib (Zejula) 
+ Niraparib + abirateronacetat (Akeega) 
+ Niraparib og abiraterone (Akeega) 
+ Nirogacestat (Ogsiveo) 
+ Nirsevimab (Beyfortus) 
+ Nivolumab (Opdivo) 
+ Nivolumab (Opdivo) i kombination med cisplatin og gemcitabin 
+ Nivolumab (Opdivo) i kombination med fluoropyrimidin- og cisplatinbaseret kemoterapi 
+ Nivolumab (Opdivo) i kombination med fluoropyrimidin- og platinbaseret kemoterapi 
+ Nivolumab (Opdivo) i kombination med ipilimumab 
+ Nivolumab (Opdivo) i kombination med ipilimumab (Yervoy) 
+ Nivolumab (Opdivo) i kombination med ipilimumab (Yervoy) (1) 
+ Nivolumab (Opdivo) i kombination med ipilimumab og kemoterapi 
+ Nivolumab + relatlimab (Opdualag) 
+ Nonacog beta pegol (Refixia) 
+ Nusinersen (Spinraza) 
+ Nusinersen (Spinraza) (50/28 mg) 
+ Obeticholic acid (Ocaliva) 
+ Obinutuzumab (Gazyvaro) 
+ Ocrelizumab (Ocrevus) 
+ Octreotid (Oczyesa) 
+ Odevixibat (Bylvay) 
+ Ofatumumab (Kesimpta) 
+ Olaparib (Lynparza) 
+ Olaparib (Lynparza) i kombination med bevacizumab 
+ Olezarsen (Tryngolza) 
+ Omalizumab (Xolair) 
+ Omaveloxolone (Skyclarys) 
+ Onasemnogene abeparvovec (Zolgensma) 
+ Osilodrostat (Isturisa) 
+ Osimertinib (Tagrisso) 
+ Osimertinib (Tagrisso) + pemetrexed + carboplatin 
+ OTL-200 (Libmeldy) 
+ Ozanimod (Zeposia) 
+ Palopegteriparatid (Yorvipath) 
+ Palovarotene (Sohonos) 
+ Patisiran (Onpattro) 
+ Pegcetacoplan (Aspaveli) 
+ Pegcetacoplan (Syfovre) 
+ Pegunigalsidase alfa (Elfabrio) 
+ Pegvaliase (Palynziq) 
+ Pembrolizumab (Keytruda) 
+ Pembrolizumab (Keytruda) i komb. m. paclitaxel (og evt. bevacizumab) 
+ Pembrolizumab (Keytruda) i komb. med enfortumab vedotin 
+ Pembrolizumab (Keytruda) i komb. med trastuzumab + kemoterapi 
+ Pembrolizumab (Keytruda) i kombination med axitinib (Inlyta) 
+ Pembrolizumab (Keytruda) i kombination med kemoterapi 
+ Pembrolizumab (Keytruda) i kombination med paclitaxel, nab-paclitaxel eller gemcitabin + carboplatin 
+ Pembrolizumab i kombination med kemoradioterapi 
+ Pemigatinib (Pemazyre) 
+ Pertuzumab (Perjeta) 
+ Pirtobrutinib (Jaypirca) 
+ Polatuzumab vedotin (Polivy) i kombination med bendamustin og rituximab 
+ Polatuzumab vedotin (Polivy) i kombination med rituximab, cyklofosfamid, doxorubicin og prednison (R-CHP) 
+ Polihexanid (Akantior) 
+ Pomalidomid (Imnovid)i kombination med bortezomib og dexamethason 
+ Pralsetinib (Gavreto) 
+ Quizartinib (Vanflyta) 
+ Ranibizumab (Ranivisio) 
+ Ranibizumab (Susvimo) med Contivue 
+ Ravulizumab (Ultomiris) 
+ Regorafenib (Stivarga) 
+ Relugolix (Orgovyx) 
+ Remimazolam (Byfavo) 
+ Repotrectinib (Augtyro) 
+ Resmetirom (Rezdiffra) 
+ Retifanlimab (Zynyx) 
+ Ribociclib (Kisqali) 
+ Ribociclib i komb. med aromatasehæmmer 
+ Ribociclib i komb. med fulvestrant 
+ Rilzabrutinib (Wayrilz) 
+ Ripretinib (Qinlock) 
+ Risankizumab (Skyrizi) 
+ Risdiplam (Evrysdi) 
+ Ritlecitinib (Litfulo) 
+ Rituximab 
+ Romosozumab (Evenity) 
+ Ropeginterferon-alfa-2b 
+ Roxadustat (Evrenzo) 
+ Rucaparib (Rubraca) 
+ Rurioctocog alfa pegol (Adynovi) 
+ Sacituzumab govitecan (Trodelvy) 
+ Sarilumab (Kevzara) 
+ Satralizumab (Enspryng) 
+ Secukinumab (Cosentyx) 
+ Selinexor (Nexpovio) 
+ Selpercatinib (Retsevmo) 
+ Selumetinib (Koselugo) 
+ Serplulimab (Hetronifly) i kombination med carboplatin og etoposid 
+ Setmelanotid (Imcivree) 
+ Siponimod (Mayzent) 
+ Somapacitan (Sogroya) 
+ Sonidegib (Odomzo) 
+ Sotatercept (Winrevair) 
+ Sotorasib (Lumykras) 
+ Sparsentan (Filspari) 
+ Spesolimab (Spevigo) 
+ Tabelecleucel (Ebvallo) 
+ Tafamidis (Vyndaqel) 
+ Tafasitamab (Minjuvi) 
+ Tafasitamab (Minjuvi) i komb. med rituximab og lenalidomid 
+ Talazoparib (Tanzenna) 
+ Talquetamab (Talvey) 
+ Tanezumab (Raylumis) 
+ Tebentafusp (Kimmtrak) 
+ Teclistamab (Tecvayli) 
+ Teduglutid (Revestive) 
+ Tegafur, gimeracil, oteracil (Teysuno) i komb. med oxaliplatin eller irinotecan med eller uden bevacizumab 
+ Telotristat ethyl (Xermelo) 
+ Teplizumab (Teizeild) 
+ Teprotumumab (Tepezza) 
+ Tezepelumab (Tezspire) 
+ Tildrakizumab (Ilumetri) 
+ Tisagenlecleucel (Kymriah) 
+ Tislelizumab (Tevimbra) 
+ Tislelizumab (Tevimbra) + etoposid + platinbaseret kemoterapi 
+ Tislelizumab (Tevimbra) i kombination med platinbaseret kemoterapi 
+ Tisotumab vedotin (Tivdak) 
+ Tivozanib (Fotivda) 
+ Tocilizumab (RoActemra) 
+ Tofacitinib (Xeljanz) 
+ Tofersen (Qalsody) 
+ Tolebrutinib (Cenrifki) 
+ Tolvaptan (Jinarc) 
+ Toripalimab (Loqtorzi) 
+ Toripalimab (Loqtorzi) i komb. m. cisplatin og paclitaxel 
+ Tralokinumab 
+ Trametinib (Mekinist) 
+ Trastuzumab (Herception) 
+ Trastuzumab deruxtecan (Enhertu) 
+ Trastuzumab emtansin (Kadcyla) 
+ Trifluridin/tipiracil (Lonsurf) 
+ Trifluridin/tipiracil (Lonsurf) i kombination med bevacizumab 
+ Tucatinib (Tukysa) i kombination med trastuzumab og capecitabin 
+ Ublituximab (Briumvi) 
+ Upadacitinib (Rinvoq) 
+ Ustekinumab (Stelara) 
+ Vadadustat 
+ Vamorolone (Agamree) 
+ Velmanase alfa (Lamzede) 
+ Venetoclax (Venclyxto) i kombination med et hypomethylerende stof 
+ Venetoclax (Venclyxto) i kombination med obinutuzumab 
+ Venetoclax (Venclyxto) i kombination med rituximab 
+ Voclosporin (Lupkynis) 
+ Vonicog alfa (Veyvondi) 
+ Vorasidenib (Voranigo) 
+ Voretigene neparvovec (Luxturna) 
+ Vosoritid (Voxzogo) 
+ Vutrisiran (Amvuttra) 
+ Zanidatamab 
+ Zanubrutinib (Brukinsa) 
+ Zilucoplan (Zilbrysq) 
+ Zolbetuximab (Vyloy) 
+ Periode 
+ Vælg periode 
+ Seneste uge 
+ Seneste 14 dage 
+ Sidste måned 
+ Seneste 3 måneder 
+ Seneste år 
+ Målgruppe 
+ Vælg målgruppe 
+ Primær sektor 
+ Se resultat
+ Ansøgning
+ Om ansøgning generelt
+ 18-ugers proces
+ 16-ugers proces
+ 14-ugers proces
+ Proces for immunterapi til metastatisk kræft
+ Anmodning om vurdering
+ Ansøgningsskema
+ Revurdering
+ Sikkerhedskrav til ansøgninger
+ Blænding af fortrolige oplysninger i dokumenter
+ Forslag til behandlingsvejledninger
+ Alternative aftalemodeller
+ Om os
+ Organisation
+ Rådet
+ Fagudvalg
+ Sekretariatet
+ Mission, vision og strategi
+ Årsberetninger
+ Det laver vi
+ Vurdering af nye lægemidler
+ Behandlingsvejledninger og lægemiddelrekommandationer
+ Vejledning til primær sektor
+ Fælles europæiske vurderinger
+ Joint Nordic HTA-bodies
+ Subkutane formuleringer
+ Medicinrådets generelle anbefaling for immunterapi til metastatisk kræft
+ Sådan arbejder Medicinrådets sekretariat med effektivisering
+ Partnerskab for real-world data
+ Inddragelse af patienter i fagudvalg
+ Vurdering af lægemidler til primærsektoren
+ Praktisk
+ Find vej og parkering
+ Presse
+ Habilitet
+ Ledige stillinger
+ Medicinrådets whistleblowerordning
+ Medicinrådets persondatapolitik
+ Fortrolighed
+ Nyheder
+ Vejledning til primærsektor
+ Primærsektor
+ Basislisten
+ Behandlingsvejledninger til primær sektor
+ Seponeringslisten
+ Lægemiddelnyt
+ Ansøgerportal
+ Dagsordener og referater
+ Habilitet
+ Fagudvalg
+ Log ind
+ Ansøgerportal
+ Dagsordener og referater
+ Habilitet
+ Fagudvalg
+ Anbefalinger og vejledninger
+ Ansøgning
+ Om ansøgning generelt 
+ 18-ugers proces 
+ 16-ugers proces 
+ 14-ugers proces 
+ Proces for immunterapi til metastatisk kræft 
+ Anmodning om vurdering 
+ Ansøgningsskema 
+ Revurdering 
+ Sikkerhedskrav til ansøgninger 
+ Blænding af fortrolige oplysninger i dokumenter 
+ Forslag til behandlingsvejledninger 
+ Alternative aftalemodeller 
+ Om os
+ Organisation 
+ Rådet 
+ Fagudvalg 
+ Sekretariatet 
+ Mission, vision og strategi 
+ Årsberetninger 
+ Det laver vi 
+ Vurdering af nye lægemidler 
+ Behandlingsvejledninger og lægemiddelrekommandationer 
+ Vejledning til primær sektor 
+ Fælles europæiske vurderinger 
+ Joint Nordic HTA-bodies 
+ Subkutane formuleringer 
+ Medicinrådets generelle anbefaling for immunterapi til metastatisk kræft 
+ Sådan arbejder Medicinrådets sekretariat med effektivisering 
+ Partnerskab for real-world data 
+ Inddragelse af patienter i fagudvalg 
+ Vurdering af lægemidler til primærsektoren 
+ Praktisk 
+ Find vej og parkering 
+ Presse 
+ Habilitet 
+ Ledige stillinger 
+ Medicinrådets whistleblowerordning 
+ Medicinrådets persondatapolitik 
+ Fortrolighed 
+ Nyheder
+ Vejledning til primærsektor
+ Primærsektor 
+ Basislisten 
+ Behandlingsvejledninger til primær sektor 
+ Seponeringslisten 
+ Lægemiddelnyt 
+ Basislisten
+">
+ Facebook
+ Twitter
+ Linkedin
+ Medicinraadet.dk
+ Vejledning til primærsektor
+ Primærsektor
+ Basislisten
+ Basislisten
+ Medicinrådets nationale basisliste er et evidensbaseret beslutningsstøtteværktøj, der anbefaler førstevalg af lægemidler til voksne inden for de mest almindelige sygdomsområder. Den skal støtte praktiserende læger i at ordinere lægemidler rationelt i forhold til effekt, bivirkninger og pris gennem en overskuelig formidling af anbefalingerne. Listen er ikke en behandlingsvejledning, men skal være en hjælp ved opstart og ved revurdering af en medikamentel behandling.
+ Basislisten - printvenlig kort version
+ Basislisten 2026
+ Basislisten - fuld version med støttetekst og kildehenvisninger 
+ Mavesyrerelaterede lidelser
+ Iskæmisk stroke og TCI
+ Akut koronart syndrom (AKS) - efterbehandling
+ Atrieflimren
+ Hyperkolesterolæmi
+ Hypertension
+ Kronisk hjertesvigt
+ Kronisk koronart syndrom (KKS, stabil iskæmisk hjertesygdom)
+ Benign prostatahyperplasi
+ Overaktiv blæresyndrom
+ Osteoporose
+ Hormonal kontraception
+ Depression (Unipolar)
+ Astma
+ Kronisk obstruktiv lungesygdom (KOL)
+ Om basislisten
+ Basislisten opdateres én gang årligt og herudover ved behov. 
+ Proces og metoder for arbejdet med Basislisten, principper for udvælgelse af lægemidler og sygdomsområder, evidensgrundlag og Basislistens struktur er nærmere beskrevet i Arbejdsbeskrivelsen
+. 
+ Listen er udarbejdet af Medicinrådet i samarbejdet med Udvalget for Basislisten med repræsentanter fra hver region: Udvalget for Basislisten
+ Ved indstilling af ændringsforslag til Basislisten kan denne skabelon benyttes:  Skema til forslag
+ Ændringsforslag bedes fremsendt til  medicinraadet@medicinraadet.dk
+. 
+ Dampfærgevej 21-23, 3. sal.
+2100 København Ø
+ T: +45 70 10 36 00
+E: medicinraadet@medicinraadet.dk
+ Åbnings- og telefontider: 
+ Mandag-fredag: kl. 10.00-14.00 
+ CVR: 55832218
+EAN: 5798000016477
+ LinkedIn
+ Måske du søgte?
+ Ansøgning
+ Anbefalinger og vejledninger
+ Behandlingsvejledninger og lægemiddelrekommandationer
+ Nyheder
+ Dagsordener og referater
+ Habilitetserklæringer
+ Fagudvalg
+ Presse
+ Ledige stillinger
+ Persondatapolitik
+ Cookiepolitik
+ Tilgængelighedserklæring
+ Find vej og parkering
+ In English
+ Medicinrådets Ansøgerportal
+ Presse
+ Ledige stillinger
+ Persondatapolitik
+ Cookiepolitik
+ Tilgængelighedserklæring
+ Find vej og parkering
+ In English
+ Medicinrådets Ansøgerportal

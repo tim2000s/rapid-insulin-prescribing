@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Extract from fest251.xml (FEST 2.5.1, file dated 2026-09-29), downloaded 2026-10-02 from https://www.dmp.no/globalassets/documents/om-oss/distribusjon-av-legemiddeldata/fest/festfiler/fest251.zip -->
+<Extract>
+<OppfRefusjon>
+      <Id>ID_9482891C-E95F-4E36-8B31-C5BF36E6073D</Id>
+      <Tidspunkt>2026-05-14T03:13:32</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_69BC14D6-8882-4244-95AD-4B6D58636410</Id>
+          <GruppeNr V="A10AE06_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AE06_1" />
+          <Atc V="A10AE06" S="2.16.578.1.12.4.1.1.7180" DN="Insulin degludek" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2016-02-15</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2016-02-15</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_4EC9233F-0E7B-4DE9-80DF-D41D36D49BDD</Id>
+      <Tidspunkt>2018-01-03T11:04:10</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_24DCCD06-FE69-4A2A-8575-8C98C44C23A9</Id>
+          <GruppeNr V="A10AD04_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AD04_1" />
+          <Atc V="A10AD04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_2FDB7984-9827-4D13-819F-CD1747070DA8</Id>
+      <Tidspunkt>2018-01-03T11:04:10</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_544D5F10-F0E9-4523-A4E0-241D392D5EBD</Id>
+          <GruppeNr V="A10AD05_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AD05_1" />
+          <Atc V="A10AD05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_52AE5246-11C4-4667-8521-4E31B5805AC1</Id>
+      <Tidspunkt>2018-01-03T11:04:10</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_00B53419-2219-42E0-8F98-EDF977556292</Id>
+          <GruppeNr V="A10AB05_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AB05_1" />
+          <Atc V="A10AB05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin aspart" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_103ED5C1-C835-4B6A-8BFC-4D36C5D856D2</Id>
+      <Tidspunkt>2022-07-01T03:19:21</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_C3C44341-1591-495B-A52D-2B109D15C438</Id>
+          <GruppeNr V="A10AB01_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AB01_1" />
+          <Atc V="A10AB01" S="2.16.578.1.12.4.1.1.7180" DN="Insulin, human" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_E9456CA1-E5ED-457A-A93A-730C0C1E59A2</Id>
+      <Tidspunkt>2019-07-20T00:50:54</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_8A0F45F0-42FC-4126-9E56-AF9650E0E1B5</Id>
+          <GruppeNr V="A10AE05_2" S="2.16.578.1.12.4.1.1.7451" DN="A10AE05_2" />
+          <Atc V="A10AE05" S="2.16.578.1.12.4.1.1.7180" DN="Insulin detemir" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_8404EAEA-BE46-412C-A887-B3ED3991A8E4</RefVilkar>
+              <FraDato>2019-08-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2010-01-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_B208E86F-B9F4-4600-B088-68728A74EDEA</RefVilkar>
+              <FraDato>2010-01-01</FraDato>
+            </Refusjonsvilkar>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_5CCBD334-ACC3-4A77-B84B-9DDAEC5BF4BD</RefVilkar>
+              <FraDato>2010-01-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_8404EAEA-BE46-412C-A887-B3ED3991A8E4</RefVilkar>
+              <FraDato>2019-08-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2010-01-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_B208E86F-B9F4-4600-B088-68728A74EDEA</RefVilkar>
+              <FraDato>2010-01-01</FraDato>
+            </Refusjonsvilkar>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_5CCBD334-ACC3-4A77-B84B-9DDAEC5BF4BD</RefVilkar>
+              <FraDato>2010-01-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_2D9C6305-A5BF-428B-A456-CAFC8A15B76B</Id>
+      <Tidspunkt>2022-07-01T03:19:21</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_FAB47F8B-4100-4EFA-A83F-A57060C3CED3</Id>
+          <GruppeNr V="A10AC01_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AC01_1" />
+          <Atc V="A10AC01" S="2.16.578.1.12.4.1.1.7180" DN="Insulin, human" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_2A933ADF-11FB-484F-B389-01DF08027A3C</Id>
+      <Tidspunkt>2026-05-14T03:13:32</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_BB373396-178E-41A2-8B57-85D77AE8B9F8</Id>
+          <GruppeNr V="A10AE04_1" S="2.16.578.1.12.4.1.1.7451" DN="Toujeo (med NPH-vilkår)" />
+          <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2019-08-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2010-01-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2010-01-01</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_587161F3-C72C-4909-AEC4-C47AF6269299</Id>
+      <Tidspunkt>2026-05-14T03:13:32</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_A16E71E4-778F-44E6-B9D2-3DFD076077EB</Id>
+          <GruppeNr V="A10AE04_2" S="2.16.578.1.12.4.1.1.7451" DN="Injeksjonsvæske, oppløsning 100 E/ml" />
+          <Atc V="A10AE04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin glargin" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2023-08-28</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2023-08-28</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2023-08-28</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2023-08-28</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_2E39F347-521F-4B6A-A852-9BA7D3BFA272</Id>
+      <Tidspunkt>2018-01-03T11:04:10</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_41C807D5-E377-474B-A105-D75C3C7CCA48</Id>
+          <GruppeNr V="A10AB04_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AB04_1" />
+          <Atc V="A10AB04" S="2.16.578.1.12.4.1.1.7180" DN="Insulin lispro" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av diabetes mellitus.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="E14" S="2.16.578.1.12.4.1.1.7435" DN="Uspesifisert diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="O24.4" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus som oppstår under svangerskap" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E10" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E13" S="2.16.578.1.12.4.1.1.7435" DN="Andre spesifiserte typer diabetes mellitus" />
+            <GyldigFraDato>2008-05-01</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="W85" S="2.16.578.1.12.4.1.1.7170" DN="Svangerskapsdiabetes" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="T89" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 1" />
+            <GyldigFraDato>2008-01-17</GyldigFraDato>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+<OppfRefusjon>
+      <Id>ID_48461939-5487-45C8-8DAB-F1D7D69C2B30</Id>
+      <Tidspunkt>2023-06-28T03:11:10</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Refusjonshjemmel>
+        <Refusjonshjemmel V="200" S="2.16.578.1.12.4.1.1.7427" DN="§5-14 §2" />
+        <KreverVarekobling>true</KreverVarekobling>
+        <KreverVedtak>false</KreverVedtak>
+        <Refusjonsgruppe>
+          <Id>ID_CAF4E811-51EA-49D6-AECB-FEF4B94A2548</Id>
+          <GruppeNr V="A10AE56_1" S="2.16.578.1.12.4.1.1.7451" DN="A10AE56_1" />
+          <Atc V="A10AE56" S="2.16.578.1.12.4.1.1.7180" DN="Insulin degludek og liraglutid" />
+          <KreverRefusjonskode>true</KreverRefusjonskode>
+          <RefusjonsberettighetBruk>Behandling av voksne med diabetes mellitus type 2 i kombinasjon med metformin når metformin kombinert med en GLP-1-reseptoragonist eller basalinsulin ikke gir adekvat glykemisk kontroll.</RefusjonsberettighetBruk>
+          <Refusjonskode>
+            <Refusjonskode V="T90" S="2.16.578.1.12.4.1.1.7170" DN="Diabetes type 2" />
+            <GyldigFraDato>2016-10-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_224CC590-BB62-404A-9746-A06FC258AA7C</RefVilkar>
+              <FraDato>2016-10-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+          <Refusjonskode>
+            <Refusjonskode V="E11" S="2.16.578.1.12.4.1.1.7435" DN="Diabetes mellitus type 2" />
+            <GyldigFraDato>2016-10-01</GyldigFraDato>
+            <Refusjonsvilkar>
+              <RefVilkar>ID_224CC590-BB62-404A-9746-A06FC258AA7C</RefVilkar>
+              <FraDato>2016-10-01</FraDato>
+            </Refusjonsvilkar>
+          </Refusjonskode>
+        </Refusjonsgruppe>
+      </Refusjonshjemmel>
+    </OppfRefusjon>
+</Extract>

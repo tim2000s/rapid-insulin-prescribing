@@ -1,0 +1,153 @@
+country,year,cls,product,units_m
+US Medicaid,2015,degludec,Tresiba,0.0
+US Medicaid,2015,detemir,Levemir,1215.56
+US Medicaid,2015,glargine100,Lantus,5729.449
+US Medicaid,2015,glargine300,Toujeo,26.074
+US Medicaid,2016,degludec,Tresiba,61.638
+US Medicaid,2016,detemir,Levemir,1307.411
+US Medicaid,2016,glargine100,Basaglar,0.158
+US Medicaid,2016,glargine100,Lantus,6220.912
+US Medicaid,2016,glargine300,Toujeo,245.449
+US Medicaid,2017,degludec,Tresiba,259.924
+US Medicaid,2017,detemir,Levemir,1134.689
+US Medicaid,2017,glargine100,Basaglar,1345.816
+US Medicaid,2017,glargine100,Lantus,4858.649
+US Medicaid,2017,glargine300,Toujeo,415.664
+US Medicaid,2018,degludec,Tresiba,407.457
+US Medicaid,2018,detemir,Levemir,967.718
+US Medicaid,2018,glargine100,Basaglar,2917.244
+US Medicaid,2018,glargine100,Lantus,3221.384
+US Medicaid,2018,glargine300,Toujeo,361.329
+US Medicaid,2019,degludec,Tresiba,489.245
+US Medicaid,2019,detemir,Levemir,881.537
+US Medicaid,2019,glargine100,Basaglar,3188.847
+US Medicaid,2019,glargine100,Lantus,2855.814
+US Medicaid,2019,glargine300,Toujeo,212.311
+US Medicaid,2020,degludec,Tresiba,571.288
+US Medicaid,2020,detemir,Levemir,939.025
+US Medicaid,2020,glargine100,Basaglar,2975.77
+US Medicaid,2020,glargine100,Lantus,3617.189
+US Medicaid,2020,glargine100,"Semglee (glargine, pre-yfgn)",9.501
+US Medicaid,2020,glargine300,Toujeo,194.701
+US Medicaid,2021,degludec,Tresiba,604.508
+US Medicaid,2021,detemir,Levemir,1004.575
+US Medicaid,2021,glargine100,Basaglar,2269.399
+US Medicaid,2021,glargine100,Insulin glargine-yfgn (unbranded),10.446
+US Medicaid,2021,glargine100,Lantus,4238.437
+US Medicaid,2021,glargine100,"Semglee (glargine, pre-yfgn)",297.152
+US Medicaid,2021,glargine100,Semglee (glargine-yfgn),0.683
+US Medicaid,2021,glargine300,Toujeo,214.374
+US Medicaid,2022,degludec,Insulin degludec (unbranded),2.565
+US Medicaid,2022,degludec,Tresiba,600.244
+US Medicaid,2022,detemir,Levemir,981.204
+US Medicaid,2022,glargine100,Basaglar,1874.572
+US Medicaid,2022,glargine100,Insulin glargine (unbranded Lantus),51.355
+US Medicaid,2022,glargine100,Insulin glargine-yfgn (unbranded),450.164
+US Medicaid,2022,glargine100,Lantus,4250.665
+US Medicaid,2022,glargine100,"Semglee (glargine, pre-yfgn)",15.238
+US Medicaid,2022,glargine100,Semglee (glargine-yfgn),34.107
+US Medicaid,2022,glargine300,Toujeo,261.386
+US Medicaid,2023,degludec,Insulin degludec (unbranded),57.75
+US Medicaid,2023,degludec,Tresiba,486.446
+US Medicaid,2023,detemir,Levemir,844.244
+US Medicaid,2023,glargine100,Basaglar,1276.806
+US Medicaid,2023,glargine100,Insulin glargine (unbranded Lantus),497.274
+US Medicaid,2023,glargine100,Insulin glargine-yfgn (unbranded),676.544
+US Medicaid,2023,glargine100,Lantus,3882.311
+US Medicaid,2023,glargine100,Rezvoglar (glargine-aglr),2.81
+US Medicaid,2023,glargine100,"Semglee (glargine, pre-yfgn)",0.29
+US Medicaid,2023,glargine100,Semglee (glargine-yfgn),68.816
+US Medicaid,2023,glargine300,Toujeo,276.264
+US Medicaid,2024,degludec,Insulin degludec (unbranded),125.228
+US Medicaid,2024,degludec,Tresiba,420.423
+US Medicaid,2024,detemir,Levemir,478.422
+US Medicaid,2024,glargine100,Basaglar,892.482
+US Medicaid,2024,glargine100,Insulin glargine (unbranded Lantus),63.284
+US Medicaid,2024,glargine100,Insulin glargine-yfgn (unbranded),580.532
+US Medicaid,2024,glargine100,Lantus,4224.133
+US Medicaid,2024,glargine100,Rezvoglar (glargine-aglr),32.323
+US Medicaid,2024,glargine100,"Semglee (glargine, pre-yfgn)",0.0
+US Medicaid,2024,glargine100,Semglee (glargine-yfgn),97.656
+US Medicaid,2024,glargine300,Insulin glargine U-300 (unbranded),13.921
+US Medicaid,2024,glargine300,Toujeo,265.951
+US Medicaid,2025,degludec,Insulin degludec (unbranded),111.534
+US Medicaid,2025,degludec,Tresiba,406.494
+US Medicaid,2025,detemir,Levemir,18.453
+US Medicaid,2025,glargine100,Basaglar,595.685
+US Medicaid,2025,glargine100,Insulin glargine (unbranded Lantus),8.769
+US Medicaid,2025,glargine100,Insulin glargine-yfgn (unbranded),557.965
+US Medicaid,2025,glargine100,Lantus,4645.914
+US Medicaid,2025,glargine100,Rezvoglar (glargine-aglr),56.294
+US Medicaid,2025,glargine100,"Semglee (glargine, pre-yfgn)",0.001
+US Medicaid,2025,glargine100,Semglee (glargine-yfgn),46.072
+US Medicaid,2025,glargine300,Insulin glargine U-300 (unbranded),45.283
+US Medicaid,2025,glargine300,Toujeo,249.884
+US Medicare Part D,2015,degludec,Tresiba,0.622
+US Medicare Part D,2015,detemir,Levemir,7026.945
+US Medicare Part D,2015,glargine100,Lantus,17563.6
+US Medicare Part D,2015,glargine300,Toujeo,230.031
+US Medicare Part D,2016,degludec,Tresiba,473.294
+US Medicare Part D,2016,detemir,Levemir,7253.535
+US Medicare Part D,2016,glargine100,Basaglar,0.093
+US Medicare Part D,2016,glargine100,Lantus,17051.264
+US Medicare Part D,2016,glargine300,Toujeo,1401.018
+US Medicare Part D,2017,degludec,Tresiba,1477.473
+US Medicare Part D,2017,detemir,Levemir,6966.225
+US Medicare Part D,2017,glargine100,Basaglar,67.929
+US Medicare Part D,2017,glargine100,Lantus,16827.47
+US Medicare Part D,2017,glargine300,Toujeo,2161.406
+US Medicare Part D,2018,degludec,Tresiba,2938.237
+US Medicare Part D,2018,detemir,Levemir,7335.242
+US Medicare Part D,2018,glargine100,Basaglar,2121.541
+US Medicare Part D,2018,glargine100,Lantus,13648.774
+US Medicare Part D,2018,glargine300,Toujeo,2241.138
+US Medicare Part D,2019,degludec,Tresiba,3860.0
+US Medicare Part D,2019,detemir,Levemir,6859.94
+US Medicare Part D,2019,glargine100,Basaglar,2899.779
+US Medicare Part D,2019,glargine100,Lantus,12910.827
+US Medicare Part D,2019,glargine300,Toujeo,2501.939
+US Medicare Part D,2020,degludec,Tresiba,4348.113
+US Medicare Part D,2020,detemir,Levemir,6343.54
+US Medicare Part D,2020,glargine100,Basaglar,3103.145
+US Medicare Part D,2020,glargine100,Lantus,13121.19
+US Medicare Part D,2020,glargine100,"Semglee (glargine, pre-yfgn)",2.64
+US Medicare Part D,2020,glargine300,Toujeo,2684.297
+US Medicare Part D,2021,degludec,Tresiba,4613.387
+US Medicare Part D,2021,detemir,Levemir,5861.371
+US Medicare Part D,2021,glargine100,Basaglar,3138.583
+US Medicare Part D,2021,glargine100,Insulin glargine-yfgn (unbranded),7.835
+US Medicare Part D,2021,glargine100,Lantus,13213.854
+US Medicare Part D,2021,glargine100,"Semglee (glargine, pre-yfgn)",61.928
+US Medicare Part D,2021,glargine100,Semglee (glargine-yfgn),0.435
+US Medicare Part D,2021,glargine300,Toujeo,2814.698
+US Medicare Part D,2022,degludec,Insulin degludec (unbranded),2.329
+US Medicare Part D,2022,degludec,Tresiba,4772.474
+US Medicare Part D,2022,detemir,Levemir,5348.233
+US Medicare Part D,2022,glargine100,Basaglar,3096.168
+US Medicare Part D,2022,glargine100,Insulin glargine (unbranded Lantus),29.023
+US Medicare Part D,2022,glargine100,Insulin glargine-yfgn (unbranded),155.057
+US Medicare Part D,2022,glargine100,Lantus,12793.708
+US Medicare Part D,2022,glargine100,"Semglee (glargine, pre-yfgn)",3.423
+US Medicare Part D,2022,glargine100,Semglee (glargine-yfgn),17.769
+US Medicare Part D,2022,glargine300,Toujeo,2897.568
+US Medicare Part D,2023,degludec,Insulin degludec (unbranded),60.791
+US Medicare Part D,2023,degludec,Tresiba,5021.364
+US Medicare Part D,2023,detemir,Levemir,4593.703
+US Medicare Part D,2023,glargine100,Basaglar,2794.916
+US Medicare Part D,2023,glargine100,Insulin glargine (unbranded Lantus),196.395
+US Medicare Part D,2023,glargine100,Insulin glargine-yfgn (unbranded),365.066
+US Medicare Part D,2023,glargine100,Lantus,12917.169
+US Medicare Part D,2023,glargine100,Rezvoglar (glargine-aglr),1.066
+US Medicare Part D,2023,glargine100,Semglee (glargine-yfgn),116.704
+US Medicare Part D,2023,glargine300,Toujeo,3285.267
+US Medicare Part D,2024,degludec,Insulin degludec (unbranded),165.064
+US Medicare Part D,2024,degludec,Tresiba,5722.195
+US Medicare Part D,2024,detemir,Levemir,1511.32
+US Medicare Part D,2024,glargine100,Basaglar,3200.439
+US Medicare Part D,2024,glargine100,Insulin glargine (unbranded Lantus),48.267
+US Medicare Part D,2024,glargine100,Insulin glargine-yfgn (unbranded),681.887
+US Medicare Part D,2024,glargine100,Lantus,13675.955
+US Medicare Part D,2024,glargine100,Rezvoglar (glargine-aglr),9.294
+US Medicare Part D,2024,glargine100,Semglee (glargine-yfgn),257.029
+US Medicare Part D,2024,glargine300,Insulin glargine U-300 (unbranded),47.623
+US Medicare Part D,2024,glargine300,Toujeo,3752.01

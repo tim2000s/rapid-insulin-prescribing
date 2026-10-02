@@ -1,0 +1,1760 @@
+                                                      OFFICIAL
+
+
+
+                            Public Summary Document – July 2025 PBAC Meeting
+
+
+7.02 INSULIN DEGLUDEC,
+     Solution for injection 100 units per mL,
+     Tresiba® Penfill®,
+     Novo Nordisk Pharmaceuticals Pty. Ltd.
+1         Purpose of submission
+1.1       The standard re-entry submission requested a General Schedule Restricted Benefit
+          listing for insulin degludec 100 IU/mL for the treatment of type 1 diabetes mellitus
+          (T1D).
+1.2       The listing was requested on the basis of a cost consequences analysis compared to
+          insulin glargine 100 IU/mL.
+1.3       The Pre-Sub-Committee Response (PSCR) stated that the rationale for the
+          resubmission was to address a small but important patient and clinician need, which
+          the sponsor was advised by “local clinical experts” will arise because of the pending
+          discontinuation of insulin detemir from the Australian market towards the end of
+          2026. While the PSCR stated that PBS listing of insulin degludec is only “possible (or
+          indeed necessary) if the PBAC agrees with the local expert advice … received, that for
+          at least some T1DM patients, IDeg [insulin degludec] offers important and/or practical
+          benefits over IGlar [insulin glargine] 100 IU/mL...”, the ESC noted that the
+          resubmission and PSCR did not state who the local experts were, just that they advised
+          “there is an urgent need for an alternative stand-alone long-acting insulin analogue to
+          be supplied via the PBS for treatment of patients with T1D, particularly those aged less
+          than 6 years but also for older patients for whom Toujeo® [insulin glargine] or
+          Ryzodeg® [insulin detemir/insulin aspart] are not clinically appropriate or optimal”
+          (p11 of the resubmission).
+Table 1: Key components of the clinical issue addressed in the resubmission
+ Component        Description
+ Population       Type 1 diabetes in patients aged 1 year or older.
+ Intervention     Insulin degludec 100 IU/mL administered once daily by subcutaneous injection in individualised
+                  doses.
+ Comparator       Insulin glargine 100 IU/mL.
+ Outcomes         Glycaemic control; total daily insulin dose; rate of hypoglycaemia episodes, and other adverse events.
+ Clinical claim   Insulin degludec 100 IU/mL provides at least non-inferior effectiveness and safety compared to insulin
+                  glargine 100 IU/mL, with important clinical advantages for some patients.
+Source: Table 1-1, p12 of the resubmission.
+
+
+
+
+                                                           1
+
+
+
+
+                                                      OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+2     Background
+Registration status
+2.1   Insulin degludec is currently listed on the Australian Register of Therapeutic Goods
+      (ARTG) for the “Treatment of diabetes mellitus in adults, adolescents and children
+      from the age of 1 year”. At the time of PBAC consideration, an amendment to vary the
+      pregnancy category from Category B3 to Category A was under consideration by the
+      TGA, and the first round TGA clinical evaluation report was available. The TGA clinical
+      evaluator recommended approving this change.
+Previous PBAC consideration
+2.2   The PBAC previously considered insulin degludec for the treatment of T1D and type 2
+      diabetes (T2D) at its March 2013 meeting. The PBAC did not recommend insulin
+      degludec for T1D or T2D on the basis that the claim that insulin degludec
+      demonstrated superior safety over insulin glargine (the main comparator) was not
+      adequately justified, and cost-effectiveness (which relied on the claim of superior
+      safety in terms of reduced hypoglycaemia events) was therefore not supported. The
+      PBAC considered that the claim of non-inferior effectiveness versus insulin glargine
+      was supported in T1D and T2D (p. 3, Insulin degludec Public Summary Document
+      [PSD], March 2013 PBAC meeting).
+2.3   Compared to the March 2013 submission, the main changes in the resubmission were:
+      •   The resubmission requested a PBS listing for insulin degludec for the treatment of
+          T1D only.
+      •   The resubmission proposed a special pricing arrangement (SPA) incorporating a
+               % rebate.
+      •   The resubmission presented clinical evidence for T1D only, including 2 clinical
+          studies considered at the March 2013 meeting, 3 clinical studies not previously
+          considered by the PBAC, 2 network meta-analyses, and 11 supportive studies in
+          selected populations and circumstances of use.
+      •   The resubmission presented a cost consequences economic analysis, instead of a
+          cost effectiveness analysis.
+      •   The resubmission presented revised financial implications.
+
+      For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+
+
+
+                                             2
+
+
+
+
+                                         OFFICIAL
+                                                              OFFICIAL
+
+
+
+                             Public Summary Document – July 2025 PBAC Meeting
+
+3          Requested listing
+ MEDICINAL PRODUCT                  Dispensed Price for                 Max. qty       Max. qty       №. of
+                                                                                                                   Available brands
+ medicinal product pack                   Max. Qty                       packs          units         Rpts
+ General Schedule – Restricted Benefit: Type 1 diabetes
+ Insulin degludec 100 IU/mL       $400.77 (published price)
+                                                                             5             5             1        TRESIBA® Penfill®
+ 5 x 3 mL cartridges              $     (effective price)a
+ Note:     Special Pricing Arrangements apply
+a The method of calculating the effective dispensed price for maximum quantity (DPMQ) from the effective ex-manufacturer price in the
+
+resubmission was not based on standard methods, and did not account for the differences in fees and markups for the published and
+effective DPMQs.
+
+3.1        The resubmission requested a General Schedule Restricted Benefit listing for insulin
+           degludec 100 IU/mL (3 mL cartridges, Penfill®), for patients with T1D, appropriate for
+           prescribing by medical practitioners and nurse practitioners.
+3.2        The resubmission proposed a Special Pricing Arrangement (SPA), stating that the
+                 % rebate would achieve an effective approved ex-manufacturer price (AEMP) of
+           $      , translating to an effective dispensed price for maximum quantity (DPMQ) of
+           $      . The evaluation and the ESC noted that an effective AEMP of $    recalculated
+           using standard methods equates to an effective DPMQ of $         .
+3.3        Table 2 compares the proposed price of insulin degludec with prices of available PBS-
+           listed basal insulin therapies.
+Table 2: Basal insulin price comparison
+                                                               Pack size
+                                       PBS listing                                  Published DPMQ                Effective DPMQ
+                                                               (Max qty)
+                                                                                                                 Submission: $
+Insulin degludec 100 IU/mL*          T1D (proposed)           5 × 3 mL (5)                $400.77
+                                                                                                                 Evaluation: $
+Insulin detemir 100 IU/mL                 T1D                5 × 3 mL (5)                 $356.22                     $
+Insulin glargine 100 IU/mL             Unrestricted          5 × 3 mL (5)                 $187.42                    No SPA
+Insulin glargine 300 IU/mL             Unrestricted         5 × 1.5 mL (5)                $420.87                      CIC
+Insulin glargine 300 IU/mL             Unrestricted         3 × 1.5 mL (5)                $255.97                      CIC
+Insulin degludec 70 IU/mL +
+                                       Unrestricted           5 × 3 mL (5)                $381.02                       $
+Insulin aspart 30 IU/mL
+Insulin aspart 100 IU/mL               Unrestricted           5 × 3 mL (5)                $167.52                      No SPA
+Source: Constructed during the evaluation.
+Abbreviations: AEMP, approved ex-manufacturer price; CIC, Committee-In-Confidence; DPMQ, dispensed price for maximum quantity;
+EMP, ex-manufacturer price; IU, International Units; NA, not applicable; SPA, special pricing arrangement; T1D, type 1 diabetes.
+* The effective DPMQ proposed in the resubmission of $        included markups calculated based on an EMP of $        (calculated from the
+published DPMQ). It was recalculated during the evaluation to $        based on the insulin degludec effective maximum quantity EMP of
+$     .
+
+3.4        The requested PBS indication was narrower than the TGA approved indication as it
+           excluded patients with T2D. The resubmission acknowledged that the requested PBS
+           indication was narrower than the TGA approved indication and the unrestricted
+           General Benefit listing of insulin glargine 100 IU/mL (the main comparator) but argued
+           that the restriction was appropriate given the context and intent of the proposed
+           listing. The ESC advised there is potential risk of insulin degludec use outside the
+           requested restriction, in patients with T2D. The PSCR stated that while insulin
+
+
+
+                                                                    3
+
+
+
+
+                                                              OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+      degludec would also be clinically appropriate for patients with T2D that the sponsor
+      would not be seeking a PBS listing as the same unmet need does not exist for this
+      patient group. The PSCR stated that if this is a matter of concern, a listing subject to
+      an Authority Required restriction would be acceptable.
+3.5   The requested restriction was broader than the populations in the clinical studies
+      presented in the submission, which excluded patients aged <18 years and women
+      during pregnancy.
+      For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+4     Population and disease
+4.1   T1D is a lifelong autoimmune condition affecting insulin producing beta cells in the
+      pancreas, which most commonly presents in people aged under 30 years, but can also
+      occur later in life (AIHW, 2025). The causes of T1D are incompletely understood but
+      may be related to environmental factors in patients with an underlying genetic
+      disposition. In children, onset is usually abrupt and the symptoms obvious, while in
+      adults, onset is often slower to develop and more difficult to recognise and diagnose.
+4.2   The symptoms of uncontrolled T1D may include polydipsia (excessive thirst), polyuria
+      (excessive urine production), polyphagia (excessive hunger), unexplained weight loss,
+      weakness, fatigue, headache, dizziness, blurred vision and ketosis (Diabetes Australia,
+      2025). People with T1D require lifelong daily insulin replacement therapy (AIHW
+      2025). The key aims of T1D management are maintaining optimal glycaemic control
+      (minimising the incidence of hypoglycaemia or hyperglycaemia), reducing the overall
+      risk of diabetes related complications (retinopathy, nephropathy, neuropathy and
+      cardiovascular events/disease) and optimising patient/carer health related quality of
+      life, physical, mental and social functioning, lifestyle and daily activities.
+4.3   The prevalence of T1D in Australia is estimated at around 134,000 persons,
+      representing about 10% of all diabetes cases nationally (Diabetes Australia, 2025).
+      However, local prevalence data are considerably more accurate and complete for
+      persons aged less than 19 years than adult populations (AIHW, 2025).
+4.4   Insulin degludec is an individually titrated, once daily ultra long-acting basal insulin
+      analogue, supplied as a solution for injection (100 IU/mL or 200 IU/mL), administered
+      by subcutaneous injection using a proprietary pre-filled pen or cartridge. The
+      requested PBS listing is for insulin degludec 100 IU/mL, in 3 mL multidose cartridges
+      (Penfill®). The insulin degludec 200 IU/mL formulation was not included in the
+      resubmission.
+4.5   Insulin degludec dosing for the treatment of T1D is individualised in accordance with
+      patient requirements to optimise glycaemic control based on fasting plasma glucose
+      (FPG) and must be combined with short and/or rapid acting insulin to cover mealtime
+      insulin requirements. Insulin degludec may be administered at any time of the day,
+
+
+
+                                             4
+
+
+
+
+                                         OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+      but preferably the same time every day. Insulin degludec is not suitable for
+      administration via insulin pump.
+4.6   The sponsor stated that insulin detemir is scheduled for discontinuation in the
+      Australian setting by the end of 2026. The resubmission claimed that insulin degludec
+      is expected to replace insulin detemir in affected patients, given the needs of those
+      patients for an alternative ultra-long-acting basal insulin and based on expert opinion
+      on the need for a viable PBS-listed alternative long-acting insulin for T1D patients. The
+      resubmission stated that most affected patients expected to switch to insulin
+      degludec would otherwise switch to insulin glargine if insulin degludec is not listed on
+      the PBS.
+4.7   The clinical management algorithm positioned insulin degludec 100 IU/mL as an
+      alternative to insulin glargine 100 IU/mL or insulin glargine 300 IU/mL (in patients aged
+      6 years and older), for the treatment of patients with T1D not using a less intensive
+      fixed dose insulin regimen or premixed basal-bolus regimen, or an insulin pump,
+      replacing insulin detemir after its withdrawal from the Australian market at the end of
+      2026.
+4.8   In Australia, insulin glargine 100 IU/mL is approved for the treatment of T1D in adults
+      and children, and T2D in adults who require insulin for the control of hyperglycaemia,
+      and insulin glargine 300 IU/mL is approved for the treatment of diabetes mellitus in
+      patients 6 years of age and older.
+      For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+5     Comparator
+5.1   The resubmission nominated insulin glargine 100 IU/mL as the main comparator. In
+      support of this nomination the resubmission stated that if insulin detemir is delisted,
+      most affected patients will switch to insulin degludec, if PBS-listed, but would
+      otherwise switch to insulin glargine if insulin degludec is not reimbursed on the PBS.
+      The ESC considered that the resubmission did not adequately justify the selection of
+      insulin glargine 100 IU/mL over insulin glargine 300 IU/mL as the main comparator.
+5.2   At the March 2013 meeting, the PBAC considered that insulin glargine 100 IU/mL (the
+      only formulation listed on the PBS at that time) was the appropriate main comparator
+      (p1, Insulin degludec PSD, March 2013 PBAC meeting). The evaluation noted that
+      insulin glargine 300 IU/mL was recommended by the PBAC for the treatment of T1D
+      and T2D at the July 2015 meeting, based on a cost-minimisation approach (CMA) with
+      insulin glargine 100 IU/mL (para 7.1, Insulin glargine 300 IU/mL PSD, July 2015 PBAC
+      meeting), and considered that it may also be a relevant comparator. The PSCR stated
+      that some patients might substitute insulin degludec for insulin glargine 300 IU/mL
+      and that it may therefore be a theoretical secondary comparator.
+
+
+
+
+                                             5
+
+
+
+
+                                         OFFICIAL
+                                                    OFFICIAL
+
+
+
+                         Public Summary Document – July 2025 PBAC Meeting
+
+5.3      The ESC noted the pharmacokinetic profile of various single insulin products (Figure 1)
+         and considered that based on its pharmacokinetic profile, that insulin degludec was
+         most similar to insulin glargine 300 IU/mL.
+Figure 1: Pharmacokinetic profile of single insulin products
+
+
+
+
+Source: UpToDate, 2025
+
+5.4      As such, the ESC considered insulin glargine 300 IU/mL to be an equally appropriate
+         comparator given its pharmacokinetic profile and noted the two formulations are not
+         interchangeable with the equi-effective doses being 1 unit of insulin glargine 300
+         IU/mL being equivalent to 0.84 units of insulin glargine 100 IU/mL (para 7.5, Insulin
+         glargine 300 IU/mL PSD, July 2015 PBAC meeting). The ESC further noted that insulin
+         glargine 300 IU/mL is not recommended for children aged less than 6 years, and
+         considered that for children in this age range, insulin glargine 100 IU/mL would be the
+         appropriate comparator.
+5.5      The resubmission acknowledged that while the majority of initial use for insulin
+         degludec is expected to be in patients currently treated with insulin detemir, that for
+         some patients, insulin degludec may also replace insulin glargine (100 or 300 IU/mL)
+         and the combination product insulin degludec/aspart (70/30 IU/mL). The evaluation
+         noted this was not reflected in the estimated financial impact to the PBS of listing
+         insulin degludec.
+5.6      As the resubmission stated that insulin degludec is expected to replace insulin
+         detemir, scheduled for discontinuation in the Australian setting by the end of 2026,
+         the evaluation considered that insulin detemir may also be a relevant comparator. The
+         PSCR stated that any crossover period during which insulin degludec and insulin
+         detemir were both PBS listed would be short and transitional in nature, noting
+
+
+                                                         6
+
+
+
+
+                                                    OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+      however that extensive clinical data comparing insulin degludec and insulin detemir
+      could be provided upon request.
+      For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+6     Consideration of the evidence
+Sponsor hearing
+6.1   The sponsor requested a hearing for this item. The clinician submitted a written
+      statement that discussed the management of T1D. The clinician highlighted that there
+      is significant patient fear associated with hypoglycaemia and noted that as repeated
+      episodes of hypoglycaemia lead to progressive blunting of the symptomatic response
+      to hypoglycaemia, that this can lead to hypoglycaemia unawareness. The clinician
+      indicated that minimising hypoglycaemia is a component of virtually all clinical
+      encounters for management of the disease. The clinician suggested that insulin
+      formulations that minimise hypoglycaemia should be favoured and highlighted the
+      lower rates of nocturnal hypoglycaemia in randomised controlled trials for insulin
+      degludec compared to insulin glargine 100 IU/mL.
+Consumer comments
+6.2   The PBAC noted and welcomed the input from the two consumer organisations, the
+      DANII Foundation and Diabetes Alliance, and the two professional organisations,
+      Australian Diabetes Society and the Pharmacy Guild via the Consumer Comments
+      facility on the PBS website.
+6.3   The PBAC noted that the most important clinical need for people living with T1D,
+      according to the consumer organisations, is to have a choice of treatments. The
+      consumer organisations indicated that choice of treatment is particularly important
+      for people who experience nocturnal hypoglycaemia. The comments also noted that
+      insulin degludec has shown safety in pregnancy, has a stable, flat pharmacokinetic
+      profile (with a half-life of more than 24 hours) that can provide more consistent blood
+      glucose management, which can in turn lead to a lower risk of hypoglycaemia
+      compared to insulin glargine 100 IU/mL and 300 IU/mL, has benefits in young adults
+      who may sometimes omit their prescribed insulin dose, and that treatment with
+      insulin degludec has quality of life benefits.
+6.4   The PBAC noted the advice received from the Australian Diabetes Society and the
+      Pharmacy Guild of Australia stated that insulin degludec is likely to offer significant
+      clinical advantages to insulin glargine and that it is important to have a long-acting
+      insulin other than insulin glargine available.
+
+
+
+
+                                             7
+
+
+
+
+                                         OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+Clinical trials
+6.5   The resubmission was based on 5 head-to-head randomised trials comparing insulin
+      degludec 100 IU/mL plus insulin aspart with insulin glargine 100 IU/mL plus insulin
+      aspart, in patients with T1D:
+       •   Study 3583 and Study 3770: phase 3 randomised trials previously considered by
+           the PBAC at the March 2013 consideration of insulin degludec.
+       •   Study 1835: a phase 2 randomised trial comparing 2 early formulations of insulin
+           degludec with different molar concentrations to insulin glargine 100 IU/mL. This
+           trial was not previously considered by the PBAC.
+       •   Study 3995 (SWITCH 1) and the HypoDeg trial: 2 randomised cross-over trials
+           comparing insulin degludec 100 IU/mL plus insulin aspart to insulin glargine 100
+           IU/mL plus insulin aspart, in terms of frequency of hypoglycaemia and nocturnal
+           hypoglycaemia episodes. These trials were not previously considered by the
+           PBAC.
+6.6   The resubmission also presented brief summaries of the study design and results of
+      11 supportive studies in selected patient groups excluded from the key clinical trials:
+      children <18 years (4 studies); pregnant women (1 study), real-life studies (2 studies)
+      and long-term studies (2 studies).
+6.7   In addition, the resubmission identified 2 network meta-analyses (Dawoud 2018;
+      Martin 2021) and 11 meta-analyses, which did not identify any additional trials
+      suitable for inclusion in the resubmission.
+6.8   Details of the trials presented in the resubmission are provided in Table 3.
+
+
+
+
+                                             8
+
+
+
+
+                                         OFFICIAL
+                                                        OFFICIAL
+
+
+
+                          Public Summary Document – July 2025 PBAC Meeting
+
+Table 3: Trials presented in the resubmission
+Trial ID               Protocol title/ Publication title                                          Publication citation
+Included studies
+                       A 52-week randomised, controlled, open-label, multicentre,                 Report date: 31 May 2011.
+                       multinational, parallel, treat-to-target trial comparing efficacy and
+                       safety of NN1250 and insulin glargine both administered once daily in
+                       a basal-bolus regimen with insulin aspart as mealtime insulin in
+                       subjects with type 1 diabetes.
+                       Heller S., Buse J., Fisher M., et al. Insulin degludec, an ultra-long-     The Lancet 2012;
+Study 3583             acting basal insulin, versus insulin glargine in basal-bolus treatment     379(9825):1489–97.
+(BEGIN Basal-Bolus) with mealtime insulin aspart in type 1 diabetes (BEGIN Basal-Bolus
+(NCT00982228)          Type 1): a phase 3, randomised, open-label, treat-to-target non-
+                       inferiority trial.
+                       Bode B.W., Buse J.B., Fisher M., et al. Insulin degludec improves            Diabetic Medicine 2013;
+                       glycaemic control with lower nocturnal hypoglycaemia risk than insulin 30(11):1293–1297.
+                       glargine in basal–bolus treatment with mealtime insulin aspart in Type
+                       1 diabetes (BEGIN Basal–Bolus Type 1): 2-year results of a
+                       randomized clinical trial.
+                       A 26-week trial investigating the dosing flexibility, efficacy and safety of Report date: 27 May 2011.
+                       NN1250 in subjects with type 1 diabetes with a 26-week extension.
+Study 3770
+(BEGIN FLEX T1)        Mathieu C., Hollander P., Miranda-Palma B., et al. Efficacy and safety Journal of Clinical
+(NCT01079234)          of insulin degludec in a flexible dosing regimen vs insulin glargine in Endocrinology Metabolism
+                       patients with type 1 diabetes (BEGIN: Flex T1): A 26-week                    2013; 98:1154–1162.
+                       randomized, treat-to-target trial with a 26-week extension.
+                       A 16-week randomised, open labelled, 3-armed, treat-to-target,               Report date: 1 April 2009.
+                       parallel group trial comparing SIBA (D) once daily + NovoRapid®,
+                       SIBA (E) once daily + NovoRapid® and insulin glargine once daily +
+                       NovoRapid®, all in a basal-bolus regimen in subjects with type 1
+                       diabetes.
+Study 1835
+                       Birkeland K.I., Home P.D., Wendisch U., et al. Insulin degludec in type Diabetes Care 2012;
+(NCT00612040)
+                       1 diabetes: a randomized controlled trial of a new-generation ultra-         34(3):661-665.
+                       long-acting insulin compared with insulin glargine.
+                       Home P.D., Meneghini L., Wendisch U., et al. Improved health status Diabetic Medicine 2012;
+                       with insulin degludec compared with insulin glargine in people with          29(6):716-720.
+                       type 1 diabetes.
+                       A randomised, double-blind, cross-over trial comparing the safety and Report date: 3 June 2016.
+                       efficacy of insulin degludec and insulin glargine, both with insulin
+Study 3995             aspart as mealtime insulin in subjects with type 1 diabetes.
+(SWITCH 1)
+(NCT02034513)          Lane W., Bailey T.S., Gerety G., et al. Effect of insulin degludec vs        JAMA 2017; 318(1):33-44.
+                       insulin glargine U100 on hypoglycemia in patients with type 1 diabetes:
+                       The SWITCH 1 randomized clinical trial.
+                       Pedersen-Bjergaard U., Agesen R.M., Brøsen J.M.B., et al.                    Diabetes Obesity and
+                       Comparison of treatment with insulin degludec and glargine U100 in Metabolism 2022;
+                       patients with type 1 diabetes prone to nocturnal severe                      24(2):257-267.
+                       hypoglycaemia: The HypoDeg randomized, controlled, open-label,
+HypoDeg                crossover trial.
+(NCT02192450)
+                       Brøsen J.M.B, Agesen R.M., Kristensen P.L., et al. Effect of insulin       Diabetes Obesity and
+                       degludec versus insulin glargine U100 on nocturnal glycaemia               Metabolism 2023;
+                       assessed by plasma glucose profiles in people with type 1 diabetes         25(6):1557-1565.
+                       prone to nocturnal severe hypoglycaemia.
+
+
+
+
+                                                              9
+
+
+
+
+                                                        OFFICIAL
+                                                              OFFICIAL
+
+
+
+                             Public Summary Document – July 2025 PBAC Meeting
+
+Source: Table 2-2, pp26-27 of the resubmission.
+
+6.9       The key features of the included trials are summarised in Table 4.
+Table 4: Key features of the included evidence
+                     Design/ Risk of                                                             Key primary and secondary
+    Trial      N                         Interventions                 Patient population
+                    duration      bias                                                                      outcomes
+                                                                                                 Change from baseline HbA1c,
+                       Phase 3,                                         Adults ≥18 years           achieving glycaemic goals,
+                       R, OL, P,                   IDeg + IAsp,    diagnosis of T1D ≥12 mths       rate of hypoglycaemia and
+Study 3583      629                    High
+                          MC                       IGlar + IAsp on basal-bolus insulin ≥12 mths     nocturnal hypoglycaemia
+                       52 weeks                                 HbA1c ≤10.0%, BMI ≤35 kg/m2                 episodes,
+                                                                                                QoL outcomes, adverse events
+                                                                                                 Change from baseline HbA1c,
+                                                  IDeg OD FF +
+                       Phase 3,                                         Adults ≥18 years           achieving glycaemic goals,
+                                                      IAsp,
+                       R, OL, P,                                 diagnosis of T1D ≥12 months       rate of hypoglycaemia and
+Study 3770      493                    High         IDeg OD +
+                          MC                                    on basal-bolus insulin ≥12 mths     nocturnal hypoglycaemia
+                                                      IAsp,
+                       26 weeks                                 HbA1c ≤10.0%, BMI ≤35 kg/m2                 episodes,
+                                                   IGlar + IAsp
+                                                                                                QoL outcomes, adverse events
+                                                                                                 Change from baseline HbA1c,
+                       Phase 2,                                        Adults 18-75 years          achieving glycaemic goals,
+                       R, OL, P,                   IDeg + IAsp,    diagnosis of T1D ≥12 mths       rate of hypoglycaemia and
+Study 1835      178                    High
+                          MC                       IGlar + IAsp        treated with insulin         nocturnal hypoglycaemia
+                       16 weeks                                         HbA1c 7.0-11.0%             episodes, QoL outcomes,
+                                                                                                         adverse events
+                                                                        Adults ≥18 years
+                                                                 diagnosis of T1D for ≥12 mths      Rate of severe/confirmed
+                                                                 on a basal-bolus regimen ≥26 hypoglycaemia episodes and
+                     Phase 3,
+                                                                     weeks, HbA1c ≤10.0%,              confirmed nocturnal
+                    R, DB, CO                      IDeg + IAsp,
+Study 3995      501                    Low                               BMI ≤45 kg/m2.             hypoglycaemia episodes,
+                       MC                          IGlar + IAsp
+                                                                    History of hypoglycaemic         change from baseline in
+                    64 weeks
+                                                                    episodes, hypoglycaemic          HbA1c, QoL outcomes,
+                                                                   symptom unawareness, or               adverse events
+                                                                         moderate CKD
+                                                                                                       Number of nocturnal
+                                                                                                  symptomatic hypoglycaemia
+                                                                        Adults ≥18 years
+                                                                                                            episodes,
+                     Phase 4,                                      diagnosis of T1D ≥5 years
+                                                   IDeg + IAsp,                                 rates of any, mild symptomatic,
+HypoDeg         149 R, OL, CO          High                         with ≥1 severe nocturnal
+                                                   IGlar + IAsp                                     asymptomatic and severe
+                    24 months                                   hypoglycaemia episode in last 2
+                                                                                                    hypoglycaemia episodes,
+                                                                              years
+                                                                                                     change from baseline in
+                                                                                                     HbA1c, adverse events
+Source: Table 2-6, p38 of the resubmission.
+Abbreviations: BMI, body mass index; CKD, chronic kidney disease; CO, cross-over; FF, fixed flexible; HbA1c, glycated haemoglobin; IAsp,
+insulin aspart; IDeg, insulin degludec; IGlar, insulin glargine; MC, multicentre; mths, months; OD, once daily dosing; OL, open label; P,
+parallel; QoL, quality of life; R, randomised; T1D type 1 diabetes.
+
+6.10      All key trials included in the resubmission compared insulin degludec 100 IU/mL to
+          insulin glargine 100 IU/mL in patients with T1D, in a basal-bolus regimen with insulin
+          aspart, titrated to prespecified self-monitored plasma glucose (SMPG) FPG targets of
+          no less than 4.0 mmol/L and no more than 5.0-6.0 mmol/L (targets were not reported
+          in the HypoDeg trial). Children (aged <18 years), pregnant women, and patients with
+
+
+
+
+                                                                  10
+
+
+
+
+                                                              OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       a history of recent symptomatic cardiovascular disease, or proliferative retinopathy or
+       maculopathy requiring treatment were excluded.
+6.11   Study 3770 included two insulin degludec treatment arms (insulin degludec OD: once
+       daily with the main evening meal; and insulin degludec OD FF: once daily fixed flexible
+       dosing in a rotating schedule with approximately 8-, 24- or 40-hour intervals between
+       doses). The insulin degludec OD FF regimen was compared to the insulin glargine
+       (once daily with the main evening meal), and insulin degludec OD treatment arms. All
+       regimens were administered with prandial insulin aspart (fast-acting bolus insulin).
+6.12   The evaluation and the ESC considered that the risk of bias in Studies 3583, 3770, 1835
+       and the HypoDeg trial was high, given the open label trial designs, noting that the risk
+       of bias may be minimised for more objective outcomes such as measures of glycaemic
+       control (HbA1c or fasting plasma glucose). The evaluation and the ESC considered that
+       knowledge of treatment assignment may affect disease management decisions (dose
+       titration) and other outcomes that depend on self-reported assessments. The PSCR
+       stated that the sponsor disagreed with this assessment of the risk of bias, which
+       appeared to have been based on blinding of investigators and participants. The PSCR
+       argued that using the multi-component Cochrane Risk of Bias tool that the overall risk
+       of bias was assessed as low for studies 3583, 3770 and 1835, with some concerns for
+       HypoDeg due mainly to the lack of information regarding methods for measuring and
+       managing missing data.
+6.13   The risk of bias in Study 3995 was unclear, given insulin degludec and insulin glargine
+       have different pharmacokinetic and time-action profiles, and the timing of insulin
+       administration could potentially affect the time interval during which subjects would
+       be at highest risk of experiencing hypoglycaemia episodes. The risk of bias may be
+       reduced as subjects were randomised 1:1 to morning and evening dosing; however,
+       the impact of these differences remained unclear.
+6.14   Larger proportions of patients treated with insulin degludec discontinued compared
+       to those treated with insulin glargine in Study 3770 (insulin degludec fixed flexible
+       dosing 15.8%; insulin degludec once daily 15.9%; insulin glargine 7.3%), and the
+       HypoDeg trial (insulin degludec 23.3%; insulin glargine 5.3%). The most common
+       reasons for study discontinuation were adverse events, ineffective therapy or other
+       reasons (not defined).
+6.15   The evaluation and the ESC noted that Study 3995 and the HypoDeg trial included
+       patients prone to hypoglycaemia episodes, nocturnal hypoglycaemia episodes or
+       experiencing hypoglycaemic unawareness. This was consistent with the primary study
+       objectives of investigating differences in the rate of hypoglycaemia episodes between
+       basal insulin regimens in patients with T1D.
+6.16   Study 3995 and the HypoDeg trial also included larger proportions of patients
+       previously treated with insulin detemir at baseline (Study 3995: 58.4-63.5%; HypoDeg:
+       40%) compared with other studies (Study 3583: 18.4-21.7%; Study 3770: 26.1-28.7%;
+
+
+
+                                             11
+
+
+
+
+                                          OFFICIAL
+                                          OFFICIAL
+
+
+
+                    Public Summary Document – July 2025 PBAC Meeting
+
+       Study 1835: 28.1%), and smaller proportions using insulin glargine at baseline (Study
+       3995: 0-0.4%; HypoDeg: 35%) compared with other studies (Study 3583: 68.8-70.8%;
+       Study 3770: 64.8-65.2%; Study 1835: 52.2%). Study 3995 also included smaller
+       proportions of patients using once daily basal insulin regimens (42.6-46.8%) and larger
+       proportions using continuous subcutaneous insulin infusions (17.3-21.4%) compared
+       to other studies (Study 3583: OD 71.3-73.9%, CSII 1.9-2.1%; Study 3770: OD 68.3-
+       70.9%, CSII excluded; Study 1835: OD 50.0-56.0%; CSII 3.4-5.0%).
+6.17   The evaluation and the ESC noted that the patient demographic and disease
+       characteristics of Studies 3583, 3770, 1835 and 3995 were similar to the Australian
+       T1D population in the Australian Diabetes Clinical Quality (ADCQ) registry Annual
+       Report 2024 in terms of mean age (42.6-47.2 years versus 45.8 years), and median
+       duration of T1D (17.3-23.6 years versus 18.9 years). However, patients in the HypoDeg
+       trial were older (mean age 54 years), and had a longer duration of T1D (median
+       duration 28 years). Baseline HbA1c in Studies 3583, 3770, and 3995 and the HypoDeg
+       trial were lower compared to the Australian T1D population in the ADCQ registry
+       (HbA1c 7.5-7.8% versus 8.0%), while in Study 1835 baseline HbA1c was higher (HbA1c
+       8.3-8.5%). In the Australian T1D population in the ADCQ registry, only a small
+       proportion of patients reported any episodes of severe hypoglycaemia (6.6%), with
+       3.9% reporting 1-2 episodes, 1.7% reporting 3-5 episodes, and 1.1% reporting more
+       than 5 episodes.
+6.18   All studies included in the resubmission used basal-bolus insulin regimens with SMPG
+       data for insulin titration and hypoglycaemia outcomes, with plasma glucose measured
+       by glucose meter and capillary blood test strips. In Study 3583, continuous glucose
+       monitoring (CGM) was used to measure interstitial glucose in a subset of 165 (26%)
+       patients at randomisation, and 140 (22%) patients at Week 52. However, 88.9% of the
+       Australian T1D population in the ADCQ registry used CGM and 80.5% used CGM only,
+       while 19.7% used capillary blood test strips either alone, or in combination with CGM.
+       Studies 3583, 3770, 1835 and 3995 were conducted more than a decade ago, and may
+       no longer reflect current clinical practice, with substantial use of CGM affecting
+       monitoring of hypoglycaemia episodes and insulin dosing. The PSCR acknowledged
+       the limitations of the evidence base but indicated that given the stage of the life cycle
+       for insulin degludec, additional trials are not likely to be conducted.
+Comparative effectiveness
+Glycaemic control
+
+
+
+
+                                              12
+
+
+
+
+                                          OFFICIAL
+                                         OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+6.19   Table 5 summarises the results of Studies 3853, 3770, 1853 and 3995 for least squares
+       mean difference in change in HbA1c from baseline, between insulin degludec and
+       insulin glargine, both in combination with prandial insulin aspart.
+
+
+
+
+                                            13
+
+
+
+
+                                         OFFICIAL
+                                                                OFFICIAL
+
+
+
+                              Public Summary Document – July 2025 PBAC Meeting
+
+Table 5: Change in HbA1c (%) from baseline
+                          Insulin degludec                                           Insulin glargine
+                                                    LSM                                                 LSM      IDeg vs IGlar,
+                    Baseline        Endpoint                  Baseline                  Endpoint
+                                                change from                                         change from LSM difference,
+                   HbA1c (%)        HbA1c (%)                HbA1c (%)                  HbA1c (%)
+                                                 baseline, %                                         baseline, %   % (95% CI)
+                   mean (SD)        mean (SE)                mean (SD)                  mean (SE)
+                                                    (SE)                                                (SE)
+Study 3583        N=472                                        N=157                                              -0.01 (-0.14,
+                                    7.34 (0.05) -0.36 (0.05)                            7.35 (0.07) -0.34 (0.07)
+(52 weeks)       7.7 (0.9)                                    7.7 (1.0)                                               0.11)
+Study 3770a (26 weeks)
+                  N=164
+IDeg OD FF                           7.31 (0.05)     -0.40 (0.05)                                                        0.17 (0.04, 0.30)
+                 7.7 (1.0)                                               N=164
+                                                                                        7.14 (0.05)      -0.57 (0.05)
+                  N=165                                                 7.7 (0.9)
+IDeg OD                              7.30 (0.05)     -0.41 (0.05)                                                               NRa
+                 7.7 (1.0)
+Study 1835        N=59                                                   N=59
+                                     7.87 (0.09)     -0.53 (0.09)                       7.76 (0.09)      -0.64 (0.09) 0.10 (-0.14, 0.34)
+(16 weeks)b      8.4 (0.9)                                              8.3 (0.8)
+Study 3995 (32 weeks)
+Period 1          N=249                                                  N=252
+                                     6.80 (0.06)     -0.76 (0.06)                       6.77 (0.07)      -0.78 (0.07) 0.03 (-0.10, 0.15)
+(to 32 weeks) 7.66 (1.05)                                              7.49 (0.98)
+Period 2          N=205                                                  N=209
+                                     6.94 (0.06)      0.09 (0.06)                       6.83 (0.06)      -0.02 (0.06) 0.11 (-0.00, 0.23)
+(32-64 weeks) 6.78 (0.81)                                              6.92 (0.92)
+Source: Table 2-20, p51; Table 2-25, p59; Table 2-31, p64; Table 2-38, p74 of the resubmission; Table 14.2.44, p403 and Table 11-7, p116
+of Study 3583 CSR; Table 14.2.39, p338 and Table 11-8, p107 of Study 3770 CSR; Table 14.2.55, p230 and Table 11-6, p83 of Study 1835
+CSR; Table 14.2.94, pp544-545, Table 14.2.97, p556 and Table 14.2.99, p559 of Study 3995 CSR.
+Abbreviations: CI, confidence interval; FF, fixed flexible; HbA1c, glycated haemoglobin; IDeg, insulin degludec; IGlar, insulin glargine; LSM,
+least squares mean; NR, not reported; OD, once daily; SD, standard deviation; SE, standard error.
+a Comparative analyses of insulin degludec (once daily) versus insulin glargine were not conducted in Study 3770.
+b Study 1835 included 2 formulations of insulin degludec with different molar concentrations (600 μmol/L and 900 μmol/L). Results presented
+
+herein are for the 600 μmol/L formulation, which was carried forward to the phase 3 trials and registration.
+
+6.20       Studies 3583, 3770, 1835 and 3995 showed there was no statistically significant
+           difference in mean change in HbA1c from baseline between insulin degludec and
+           insulin glargine, both given in combination with prandial insulin aspart.
+6.21       The ESC noted that the PBAC has previously used a non-inferiority margin for
+           difference in HbA1c of 0.3 to 0.4% in the treatment of T1D (para 7.4, Insulin Glargine
+           PSD, July 2015 PBAC meeting). The ESC further noted that all comparisons
+           demonstrated the non-inferiority of insulin degludec to insulin glargine, with an upper
+           limit of the 95% confidence interval ≤ 0.4%.
+6.22       In the HypoDeg trial, mean baseline HbA1c was 7.8% (± 0.9%). Mean HbA1c for
+           patients treated with insulin degludec was 7.9% (± 0.9%) in the first 9-month
+           treatment period and 7.9% (± 0.9%) in the second 9-month crossover maintenance
+           period, with no statistically significant difference compared to patients treated with
+           insulin glargine; HbA1c 7.7% (± 0.9%) 1st treatment period; 8.0% (± 0.9%) 2nd treatment
+           period).
+6.23       Studies 3853, 3770, and 1853 assessed the difference between insulin degludec and
+           insulin glargine in the proportions of patients achieving glycaemic targets. HbA1c
+           response was not reported in the HypoDeg trial. Larger proportions of patients in
+           Studies 3583 and 3770 treated with insulin glargine achieved a HbA1c <7%, compared
+
+
+
+                                                                     14
+
+
+
+
+                                                                OFFICIAL
+                                                                OFFICIAL
+
+
+
+                              Public Summary Document – July 2025 PBAC Meeting
+
+      to insulin degludec, but the differences were small and not statistically significant. In
+      Study 1835, a larger proportion of patients treated with insulin degludec achieved
+      HbA1c <7% compared to insulin glargine, but the difference between arms was not
+      formally assessed.
+6.24 In Studies 3583, 3770 and 1835, mean FPG decreased in all treatment groups over the
+      treatment periods, and differences in FPG between insulin degludec and insulin
+      glargine were small, and not statistically significant (Study 3583 after 52 weeks: FPG -
+      0.33 mmol/L, 95% CI: -1.03; 0.36; Study 3770 after 26 weeks: FPG -0.05 mmol/L, 95%
+      CI: -0.85, 0.76; Study 1835 after 16 weeks: FPG -0.56 mmol/L, 95% CI: -1.84, 0.73).
+6.25 FPG was reported using descriptive statistics only in Study 3995 and was not reported
+      in the HypoDeg trial.
+Hypoglycaemia episodes
+6.26       Table 6 summarises the differences in rates of hypoglycaemia episodes between
+           insulin degludec and insulin glargine in Studies 3853, 3770, 1853, and 3995.
+Table 6: Difference in rate of hypoglycaemia episodes (Studies 3583, 3770, 1835, 3995; FAS)
+                                                     IDeg                    IGlar           IDeg vs IGlar,
+                                             LSM episodes/100 PY LSM episodes/100 PY treatment ratio (95% CI)
+Study 3583 (52 weeks)                               N=472                   N=157                   -
+Confirmed hypoglycaemia                            4460.12                 4177.82          1.07 (0.89, 1.28)
+Severe hypoglycaemia                                 19.16                   13.92          1.38 (0.72, 2.64)
+Confirmed nocturnal hypoglycaemia                   413.66                  548.20          0.75 (0.59, 0.96)
+Study 3770 (26 weeks) IDeg OD FF                    N=164                   N=164                   -
+Confirmed hypoglycaemia                            7954.68                 7709.88          1.03 (0.85, 1.26)
+Severe hypoglycaemia                                 33.53                   37.79          0.89 (0.40, 1.99)
+Confirmed nocturnal hypoglycaemia                   598.70                  990.67          0.60 (0.44, 0.82)
+Study 3770 (26 weeks) IDeg ODa                      N=165                   N=164                   -
+
+Confirmed hypoglycaemia                            8629.14                 7709.88
+Severe hypoglycaemia                                 30.84                   37.79                NRa
+Confirmed nocturnal hypoglycaemia                   950.26                  990.67
+Study 1835 (16 weeks) IDeg OD                        N=59                    N=59                   -
+All hypoglycaemia, episodes/100 PY                   100.8                   117.8          0.86 (0.66, 1.12)
+Major hypoglycaemia, episodes/100 PY                   0                       0            0.99 (0.22, 4.52)
+Major/minor hypoglycaemia, episodes/100 PY           47.88                   66.22          0.72 (0.52, 1.00)
+Study 3995 (32 weeks) Period 1                      N=418                   N=422                   -
+Severe/BG confirmed symptomatic
+                                                   1227.03                 1372.32          0.89 (0.85, 0.94)
+hypoglycaemia
+Nocturnal severe/BG confirmed symptomatic
+                                                    160.16                  250.77          0.64 (0.56, 0.73)
+hypoglycaemia
+Source: Table 2-22, p53; Table 2-27, p60; Table 2-33, p66; Table 2-36 to 2-37, p74 of the resubmission.
+Abbreviations: CI, confidence interval; FAS, full analysis set; FF, fixed flexible; IDeg, insulin degludec; IGlar, insulin glargine; LSM, least
+squares mean; OD, once daily; PY, patient years.
+a Comparative analyses of insulin degludec (once daily) versus insulin glargine were not conducted in Study 3770.
+
+Note: Statistically significant results in bold.
+
+6.27       In Studies 3583, 3770 and 1835, the differences in rates of confirmed hypoglycaemia
+           episodes, severe hypoglycaemia episodes, all hypoglycaemia episodes and
+
+
+
+                                                                     15
+
+
+
+
+                                                                OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       major/minor hypoglycaemia episodes between treatments were small, and not
+       statistically significantly different between arms. The rates of severe hypoglycaemia
+       episodes in Studies 3583 and 3770 were generally lower in patients treated with
+       insulin degludec compared to insulin glargine, but large proportions of patients in both
+       treatment groups (>85%) did not report any severe hypoglycaemia episodes.
+6.28   In Study 3995, statistically significantly lower rates of confirmed nocturnal
+       hypoglycaemia episodes, confirmed severe nocturnal hypoglycaemia episodes and
+       confirmed severe hypoglycaemia episodes were experienced by patients treated with
+       insulin degludec compared to insulin glargine. In Studies 3583 and 3770, nominally
+       significantly lower rates of confirmed nocturnal hypoglycaemia episodes and
+       confirmed severe nocturnal episodes were experienced by patients treated with
+       insulin degludec compared to insulin glargine.
+6.29   Confirmed hypoglycaemia episodes and confirmed nocturnal hypoglycaemia episodes
+       covered a broad range of hypoglycaemia experiences, from hypoglycaemia episodes
+       requiring intervention and the assistance of another person, to symptomatic or
+       asymptomatic hypoglycaemia episodes requiring no intervention or assistance. The
+       evaluation and the ESC noted that Study 3995 included patients prone to
+       hypoglycaemia episodes and therefore that the rates of episodes reported are not
+       comparable the rates reported in Studies 3583, 3770 and 1835. The evaluation and
+       the ESC further noted that the comparative hypoglycaemia outcomes in Study 3770
+       only included patients randomised to a fixed-flexible dosing regimen, not used in the
+       other trials or commonly in clinical practice and may have been impacted by
+       differences in pharmacokinetic and time-action profiles between insulin degludec and
+       insulin glargine.
+6.30   Table 7 summarises the differences in rates of hypoglycaemia episodes between
+       insulin degludec and insulin glargine in the HypoDeg trial.
+
+
+
+
+                                             16
+
+
+
+
+                                          OFFICIAL
+                                                                 OFFICIAL
+
+
+
+                              Public Summary Document – July 2025 PBAC Meeting
+
+Table 7: Difference in rate per year of hypoglycaemia episodes (HypoDeg; FAS)
+                                    IDeg N=73                         IGlar N=76                                            IDeg vs IGlar
+                        Episodes Episodes/PY mean (SD) Episodes Episodes/PY mean (SD)                                       RRR (95% CI)
+Nocturnal symptomatic hypoglycaemia in maintenance periods
+Level 1 (PG ≤3.9 mmol/L)
+12:00am-05:59am            319            2.88 (5.14)        408            3.87 (5.84)                                      28% (9, 43)
+11:00pm-06:59am            622            5.69 (8.68)        757            7.39 (9.31)                                      28% (4, 45)
+Level 2 (PG ≤3.0 mmol/L)
+12:00am-05:59am            186            1.68 (3.61)        261            2.47 (4.26)                                     37% (16, 53)
+11:00pm-06:59am            316            2.87 (5.36)        427            4.14 (6.18)                                     34% (17, 48)
+Severe symptomatic hypoglycaemia in maintenance periods
+All day (24 hours)          56            0.52 (1.26)         80            0.85 (1.78)                                      35% (1, 58)
+Daytime
+06:00am-12:00am             41            0.38 (1.02)         46            0.45 (1.23)                                     10% (-73, 53)
+07:00am-12:00pm             36            0.34 (0.96)         42            0.41 (1.21)                                     13% (-86, 79)
+Nocturnal
+00:00am-06:00am             14            0.13 (0.42)         33            0.40 (1.26)                                     52% (-10, 79)
+11:00pm-07:00am             19            0.17 (0.54)         37            0.43 (1.30)                                     51% (-15, 79)
+Source: Table 2-41 and Table 2-42, p80 of the resubmission.
+Abbreviations: FAS, full analysis set; IDeg, insulin degludec; IGlar, insulin glargine; PG, plasma glucose; PY, patient-year; RRR, relative
+rate reduction; SD, standard deviation.
+Note: Statistical analyses were descriptive, based on a 5% (two-sided) level of statistical significance with no adjustment for multiple testing.
+
+6.31   Patients treated with insulin degludec experienced statistically significantly lower
+       rates of level 1 (plasma glucose (PG) ≤3.9 mmol/L) and level 2 (PG ≤3.0 mmol/L)
+       nocturnal symptomatic hypoglycaemia compared to insulin glargine for both
+       nocturnal time periods, as well as a statistically significantly lower rate of all day (24
+       hours) severe symptomatic hypoglycaemia. There were no statistically significant
+       differences between treatments in severe symptomatic daytime or nocturnal
+       hypoglycaemia over the specified time periods. The ESC considered the extent of any
+       benefit to be uncertain given the increased use of continuous glucose monitoring in
+       clinical practice (89% according to the ADCQ registry versus 26% in the trials).
+6.32 The ESC noted that the HypoDeg trial only included patients prone to hypoglycaemia
+       episodes, and the rates of episodes reported could not be directly compared to
+       Studies 3583, 3770 and 1835.
+Patient reported outcomes
+6.33    Studies 3583, 1835 and 3995 collated SF-36 data, and did not identify any statistically
+        significant differences between treatment arms in overall scores. Similarly, Studies
+        3583 and 3995 collated Treatment Related Impact Measure – Diabetes (TRIM-D) data
+        and found improved treatment related impact in both treatment groups, but no
+        statistically significant differences between treatment arms.
+Insulin dose
+6.34       In Studies 3583 and 3770 mean insulin degludec doses were lower compared to insulin
+           glargine. However, in Study 1835 mean insulin glargine doses were lower compared
+           to insulin degludec, while in Study 3995 mean insulin glargine doses were lower
+
+
+
+                                                                      17
+
+
+
+
+                                                                 OFFICIAL
+                                           OFFICIAL
+
+
+
+                    Public Summary Document – July 2025 PBAC Meeting
+
+      compared to insulin degludec at the end of period 1, but higher than insulin degludec
+      at the end of period 2. In Study 3995, differences in insulin doses between treatment
+      groups were reduced when adjusted for baseline differences in body weight.
+      Differences in mean insulin dose between insulin degludec and insulin glargine varied
+      between trials but were similar for both treatments.
+6.35 In the HypoDeg trial mean total insulin dose during treatment was similar between
+      insulin degludec (42.7 IU) and insulin glargine (42.5 IU) at the end of the first treatment
+      period, and the second maintenance period (49.2 IU; 48.1 IU). In a linear mixed effects
+      model the mean total insulin dose was statistically significantly lower with insulin
+      degludec. Similar results were observed for basal insulin doses (1 st treatment period
+      21.3 IU, 19.4 IU; 2nd treatment period 24.6 IU, 24.1 IU), with the difference in basal
+      insulin doses being statistically significantly lower with insulin degludec.
+6.36 The mean ratio of insulin degludec to insulin glargine 100 IU/mL for basal insulin was
+      reported to be 0.91 IU/kg in Study 3583, based on the ratio of mean doses of insulin
+      degludec to insulin glargine at last treatment visit. The Pre-PBAC response proposed
+      the equi-effective dose of insulin degludec to insulin glargine (100 IU/mL) to be
+      0.86:1.00, based on the estimated treatment ratio of insulin degludec to insulin
+      glargine at Week 52 as reported in Table 2 of the Heller et al., 2012 publication of
+      Study 3583. This ratio was estimated by use of ANOVA of log-transformed dose value
+      (U/kg) at week 52 with treatment, antidiabetic therapy at screening, sex, and region
+      as fixed factors, and age and week 1 dose as covariates.
+Network meta-analyses
+6.37  The ESC noted that the results of the network meta-analyses investigating the
+      comparative efficacy and safety of basal insulin regimens in adults with T1D (Dawoud
+      2018; Martin 2021) generally showed no statistically significant differences between
+      insulin degludec and insulin glargine in terms of glycaemic control and hypoglycaemia
+      episodes.
+Supportive evidence
+6.38   The ESC noted that the supportive evidence presented in the resubmission for the use
+       of insulin degludec in children (Thalange 2015; Elhabashy 2023; Nally 2023; Urakami
+       2017) suggested that insulin degludec demonstrates similar efficacy and safety
+       compared to other long-acting insulin analogues. Similarly, Mathiesen (2023; EXACT
+       trial), found that insulin degludec was non-inferior to insulin detemir in pregnant
+       women in terms of efficacy and safety, with no significant differences between
+       treatment groups for hypoglycaemia episodes (any, nocturnal, or severe) or for
+       maternal adverse events and serious adverse events.
+6.39   Bode (2013), a 12-month extension of Study 3583, found that HbA1c over 104 weeks
+       was similar between insulin degludec and insulin glargine, with small reductions
+       compared to the end of the Study 3583 treatment period. The rate of nocturnal
+
+
+
+                                               18
+
+
+
+
+                                           OFFICIAL
+                                           OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       confirmed hypoglycaemia was significantly lower with insulin degludec compared to
+       insulin glargine, with an estimated rate ratio (insulin degludec/insulin glargine) of 0.75
+       (95% CI 0.59, 0.95), similar to the Study 3583 results, and the rates of overall
+       confirmed hypoglycaemia were similar in both treatment arms, and not statistically
+       significantly different. The evaluation and the ESC noted that the daily insulin dose
+       was significantly lower with insulin degludec compared to insulin glargine at the end
+       of 104 weeks. Safety outcomes were similar between treatment arms.
+6.40   Mathieu (2013), a 6-month extension of Study 3770, found no statistically significant
+       difference between treatments in HbA1c, and confirmed hypoglycaemia rates were
+       similar between treatment arms. Nocturnal confirmed hypoglycaemia rates were 25%
+       lower with insulin degludec compared to insulin glargine at Week 52. At Week 52,
+       mean daily basal, bolus and total insulin doses were lower in the insulin degludec arm
+       than the insulin glargine arm. However, the evaluation and the ESC noted that results
+       of the extension study were for the insulin degludec free-flexible formulation, and use
+       of this dosing regimen in the Australian setting is uncertain.
+Comparative harms
+
+6.41   Table 8 summarises the key treatment emergent adverse events reported in Studies
+       3583, 3770, 1835 and 3995. The HypoDeg trial did not report adverse events.
+
+
+
+
+                                              19
+
+
+
+
+                                           OFFICIAL
+                                                              OFFICIAL
+
+
+
+                             Public Summary Document – July 2025 PBAC Meeting
+
+Table 8: Summary of key adverse events in the randomised trials (SAS)
+                               3583                       3770                        1835                 3995
+Trial ID
+                         IDeg       IGlar    IDeg FF IDeg OD         IGlar   IDeg OD       IGlar     IDeg       IGlar
+Summary of key treatment emergent adverse events, n (%)
+N                         472        154       164         165        161        59         59        454        460
+Any TEAEs             397 (84.1) 128 (83.1) 111 (67.7) 125 (75.8) 116 (72.2) 45 (76.3) 39 (66.1) 294 (64.8) 310 (67.4)
+Serious TEAEs          49 (10.4) 17 (11.0) 9 (5.5)       7 (4.2)    8 (5.0)    2 (3.4)    1 (1.7) 58 (12.8) 70 (15.2)
+Severe TEAEs           75 (15.9) 24 (15.6) 13 (11.6) 24 (14.5) 20 (12.2) 4 (6.8)          1 (1.7)  43 (9.5) 67 (14.6)
+Moderate TEAEs        201 (42.6) 60 (39.0) 46 (28.0) 45 (27.3) 51 (31.7) 24 (40.7) 19 (32.2) 119 (26.2) 132 (38.7)
+Basal insulin related
+                      112 (22.7) 27 (17.5) 41 (25.0) 34 (20.6) 30 (18.6) 7 (11.9)         3 (5.1) 58 (12.8) 61 (13.3)
+AEs
+Bolus insulin related
+                      109 (23.1) 31 (20.1) 40 (24.4) 27 (16.4) 26 (16.2) 4 (6.8)          2 (3.4)     NR         NR
+AEs
+Withdrawal due to
+                        12 (2.5)   2 (1.3)    5 (3.0)    4 (2.4)    1 (0.6)    2 (3.4)    1 (1.7)   9 (2.0)    7 (1.5)
+AE
+Treatment emergent adverse events (≥5% of patients), n (%)
+Hypoglycaemia          51 (10.8) 12 (7.8) 11 (6.7) 18 (10.9) 10 (6.2)             -          -     17 (3.7) 33 (7.2)
+Nasopharyngitis       130 (27.5) 6 (3.9) 31 (18.9) 43 (26.1) 29 (18.0) 24 (40.7) 15 (25.4) 68 (15.0) 61 (13.3)
+Headache               68 (14.4) 21 (13.6) 10 (6.1) 16 (9.7) 18 (11.2) 16 (27.1) 10 (16.9)             -          -
+Gastroenteritis         29 (6.1)   4 (2.6)       -          -          -       3 (5.1)    2 (3.4)      -          -
+Influenza               33 (7.0) 15 (9.7)        -          -          -      6 (10.2)    3 (5.1)      -          -
+Sinusitis               37 (7.8) 13 (8.4)        -          -          -         NR       4 (6.8)      -          -
+URTI                   94 (19.9) 23 (14.9) 6 (3.7)       9 (5.5)   13 (8.1)    2 (3.4)   7 (11.9) 29 (6.4) 39 (8.5)
+UTI                     25 (5.3)   8 (5.2)       -          -          -          -          -         -          -
+Diarrhoea               25 (5.3)   7 (4.5)    4 (2.4)    4 (2.4)    9 (5.6)    2 (3.4)    4 (6.8)      -          -
+Nausea                  26 (5.5) 10 (6.5)     9 (5.5)    7 (4.2)    8 (5.0)    5 (8.5)    2 (3.4)      -          -
+Vomiting                16 (3.4)   8 (5.2)    4 (2.4)    9 (5.5)    5 (3.1)       -          -         -          -
+Constipation               -          -          -          -          -       3 (5.1)    1 (1.7)      -          -
+Cough                   23 (4.9) 11 (7.1)     7 (4.3)    4 (2.4)   10 (6.2)       -          -         -          -
+Bronchitis              18 (3.8)   8 (5.2)       -          -          -          -          -         -          -
+Wrong drug
+                        25 (5.3)   5 (3.2)    9 (5.5)    9 (5.5)    7 (4.3)       -          -         -          -
+administered
+Source: Tables 2-24, 2-30, 2-35, and 2-40, pp57-78 of the resubmission; Table 14.3.1.3, p756 of the Study 3583 CSR; Table 12-8, p135 of
+the Study 3770 CSR; Table 14.3.1.4, p311 of the Study 1835 CSR; Table 14.3.1.3, p1021 of the Study 3995 CSR.
+Abbreviations: CSR, clinical study report; FF, fixed flexible; IDeg, insulin degludec; IGlar, insulin glargine; OD, once daily; SAS, safety
+analysis set; TEAE, treatment emergent adverse events; URTI, upper respiratory tract infection; UTI, urinary tract infection.
+
+6.42       Large proportions of patients reported at least one adverse event in all studies (64.8-
+           84.1%), with similar proportions of patients with serious adverse events and severe
+           adverse events in both treatment arms. The most frequently reported treatment
+           emergent adverse events in both treatment groups across all studies were
+           nasopharyngitis, headache, upper respiratory tract infection, hypoglycaemia,
+           influenza, nausea and sinusitis.
+6.43       In Studies 3583, 3770 and 1835, larger proportions of patients treated with insulin
+           degludec reported nasopharyngitis compared to insulin glargine.
+6.44       Overall, the proportions of patients reporting adverse events appeared similar
+           between treatment arms.
+
+
+
+
+                                                                   20
+
+
+
+
+                                                              OFFICIAL
+                                                  OFFICIAL
+
+
+
+                       Public Summary Document – July 2025 PBAC Meeting
+
+Benefits/harms
+6.45    A benefits/harms table was not presented as the resubmission made a claim of non-
+        inferior comparative effectiveness and safety.
+Clinical claim
+6.46    The resubmission described insulin degludec as non-inferior in terms of effectiveness
+        and safety compared with insulin glargine 100 IU/mL, with potentially important
+        clinical advantages in nocturnal hypoglycaemia, basal and total insulin doses, flexibility
+        of administration times and use in critical early childhood and pregnancy.
+6.47    The ESC considered that the therapeutic conclusions presented in the resubmission
+        were adequately supported by the evidence presented in the resubmission in terms
+        of non-inferior efficacy and safety, but that the claimed clinical advantages were not
+        supported for the following reasons:
+         •    Results of the clinical trials generally showed a reduction in the rates of nocturnal
+              hypoglycaemia events in patients treated with insulin degludec compared to
+              insulin glargine. However, the evaluation and the ESC considered that the
+              magnitude of benefit likely to be realised in the Australian setting is uncertain,
+              given:
+              - the clinical outcomes in Studies 3583 and 3770 included asymptomatic
+                  episodes of nocturnal hypoglycaemia requiring little or no intervention.
+              - Study 3995 and the HypoDeg trial were conducted in enriched populations of
+                  T1D patients prone to hypoglycaemia episodes, and the results of these trials
+                  may not be applicable to the broader Australian target population.
+              - comparative results from Study 3770 were only presented for patients
+                  randomised to an insulin degludec fixed-flexible dosing regimen, which is not
+                  likely to be applicable the Australian setting.
+             - Studies 3583, 3770, 1835 and 3995 were conducted more than a decade ago,
+                 and may no longer reflect current clinical practice, with substantial use of CGM
+                 affecting monitoring of hypoglycaemia episodes and insulin dosing in the
+                 Australian setting.
+         •    The clinical evidence supporting the use of insulin degludec in children suggests
+              insulin degludec demonstrates similar efficacy and safety compared to other long-
+              acting insulin analogues. Insulin glargine and other insulin analogues are safely
+              used in children aged ≥1 year1. The PSCR stated that the claim relating to age
+
+
+
+
+1
+ Clinical practice guidelines: Diabetes mellitus, Royal Children’s Hospital Melbourne; UpToDate: Type 1 diabetes
+mellitus in children and adolescents, Insulin therapy, Accessed 5 May 2025
+
+
+
+                                                      21
+
+
+
+
+                                                  OFFICIAL
+                                            OFFICIAL
+
+
+
+                    Public Summary Document – July 2025 PBAC Meeting
+
+            related primarily to the quality of evidence supporting use in younger paediatric
+            patients, and that for insulin glargine 100 IU/mL, the evidence in children aged
+            from 2 to 5 years was inconclusive. The ESC considered that the clinical evidence
+            supporting use of insulin degludec in children suggests that it demonstrates
+            similar efficacy and safety compared to other long-acting insulin analogues. The
+            ESC noted that insulin glargine and other insulin analogues are safely used in
+            children aged ≥1 year, and that the TGA approval for insulin glargine 100 IU/mL
+            does not limit use based on age. The ESC therefore considered that the
+            resubmission’s argument was not supported.
+        •   The use of insulin degludec during pregnancy was under consideration by the TGA
+            at the time of the ESC meeting. The supportive clinical trial (EXACT) presented in
+            the resubmission found insulin degludec was non-inferior to insulin detemir in
+            pregnant women in terms of efficacy and safety. The PSCR stated that the sponsor
+            is “not claiming that insulin degludec is any safter than insulin glargine [100 IU/mL]
+            in pregnancy but that its safety is supported by the highest quality randomised
+            controlled trial evidence”. The ESC noted that insulin glargine and other insulin
+            analogues are currently safely used in pregnancy.
+        •   The ESC noted that the evidence for total daily insulin requirements was not
+            consistent between clinical trials, with some studies showing lower mean total
+            insulin doses for insulin degludec compared to insulin glargine (Studies 3583,
+            3770, HypoDeg), and others showing lower insulin glargine dose compared to
+            insulin degludec (Studies 1835, 3995). The ESC noted that differences in mean
+            insulin dose between insulin degludec and insulin glargine 100 IU/mL varied
+            between the trials but were similar for both treatments. The ESC noted that while
+            results from Study 3770 and Study 3583 (and their extension studies) suggested
+            the daily dose of insulin degludec would be lower than insulin glargine 100 IU/mL,
+            the results of other studies did not.
+6.48   The PBAC considered that the claim that insulin degludec 100 IU/mL has at least non-
+       inferior comparative effectiveness to insulin glargine 100 IU/mL was reasonable.
+6.49   The PBAC considered that the claim that insulin degludec 100 IU/mL has at least non-
+       inferior comparative safety compared to insulin glargine 100 IU/mL was reasonable.
+Economic analysis
+The resubmission presented a simple cost consequences analysis, listing the comparative
+per-unit costs of insulin degludec 100 IU/mL versus insulin glargine 100 IU/mL, and the
+potential advantages of insulin degludec to the target population of T1D patients, if insulin
+degludec were listed on the PBS. The PBAC Guidelines state that, generally, a cost
+consequences analysis should not be presented on its own but may be useful as a
+supplementary or preliminary analysis to a cost-effectiveness or cost-utility analysis (PBAC
+
+
+
+
+                                               22
+
+
+
+
+                                            OFFICIAL
+                                                             OFFICIAL
+
+
+
+                            Public Summary Document – July 2025 PBAC Meeting
+
+Guidelines V5.0, p64). The evaluation and the ESC considered that use of a cost
+consequences analysis was not adequately justified in the resubmission.
+6.50 Table 9 summarises the cost-consequences analysis presented in the resubmission.
+
+Table 9: Cost consequences analysis
+                                       Insulin degludec                Insulin glargine                       Increment
+ Costs
+ DPMQ for 7,500 IU                      $      or $    a                   $187.42                               $
+ Consequences
+ - At least non-inferior glycaemic control.
+ - Lower rates of overall and nocturnal hypoglycaemia.
+ - Pharmacological profile with longer half-life and less day-to-day variability, more flexibility in relation to dose timing and
+   associated improvements in adherence.
+ - Typically, lower total daily dose requirements when used in a treat to target regimen.
+ - Acceptable adverse event profile similar to other long-acting insulins.
+ - Treatment for children aged ≥1 year.
+ - An effective and safe option for diabetes in pregnancy based on high clinical trial evidence in pregnant women with
+   T1D.
+ - Availability of various pen devices, including NovoPen® 6 which is a connected durable device to aid patient safety.
+Source: Table 3-1, p93 of the resubmission.
+Abbreviations: DPMQ, dispensed price for maximum quantity; EMP, ex-manufacturer price; IU, International Units; T1D, type 1 diabetes.
+a The effective DPMQ proposed in the resubmission of $     included markups calculated based on an EMP of $        (calculated from the
+published DPMQ). It was recalculated during the evaluation to $     based on the insulin degludec effective maximum quantity EMP of
+$     .
+
+6.51      The evaluation and the ESC noted that the simple cost consequences analysis did not
+          include quantification of the benefits claimed to accrue to T1D patients in the
+          Australian setting and considered that it was difficult to interpret. The resubmission
+          estimated a difference in the price of insulin detemir and insulin glargine of $
+          ($      - $187.42) based on an effective DPMQ for insulin degludec with markups
+          calculated based on the published EMP rather than the effective EMP for insulin
+          degludec. After recalculating the proposed effective DPMQ, the difference in cost
+          between insulin degludec 100 IU/mL and insulin glargine 100 IU/mL was smaller than
+          estimated in the resubmission ($      - $187.42 = $       ). The difference in cost was
+          similar when compared to insulin detemir 100 IU/mL ($          -$      =$      ).
+6.52      The resubmission proposed that the higher proposed price for insulin degludec could
+          be considered acceptably cost effective given the small and high need target patient
+          population, unique characteristics of insulin degludec compared to other available
+          therapies, and important clinical/practical advantages it would provide for patients
+          (see Table 9).
+6.53      The evaluation and the ESC considered that the additional benefits claimed to accrue
+          to T1D patients in the Australian setting with the proposed PBS listing of insulin
+          degludec were not adequately justified:
+           •    The evaluation and the ESC considered that the claim that insulin degludec
+                provides lower rates of overall hypoglycaemia episodes was not adequately
+
+
+
+                                                                 23
+
+
+
+
+                                                             OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+           justified. While the evaluation and the ESC considered that the evidence provided
+           in the resubmission supported a reduction in nocturnal hypoglycaemia episodes
+           compared to insulin glargine, the ESC considered the magnitude of benefit in
+           Australian clinical practice to be unclear given the effect that higher rates of
+           continuous glucose monitoring (88.9% of patients in the ADCQ registry compared
+           to 26% of patients in Study 3585 at randomisation and 22% at week 52) might
+           have on monitoring of hypoglycaemia episodes and insulin dosing in clinical
+           practice.
+       •   The resubmission claimed that a higher price for insulin degludec was reasonable
+           given it can be used in children 1 year and older whereas the data to support the
+           use of insulin glargine 100 IU/mL in children aged 2 to 5 years was inconclusive.
+           The ESC considered that the clinical evidence supporting use of insulin degludec
+           in children suggests that it demonstrates similar efficacy and safety compared to
+           other long-acting insulin analogues. The ESC noted that insulin glargine and other
+           insulin analogues are safely used in children aged ≥1 year, and that the TGA
+           approval for insulin glargine 100 IU/mL does not limit use based on age. The ESC
+           therefore considered that the resubmission’s argument was not supported.
+       •   The use of insulin degludec during pregnancy was under consideration by the TGA
+           at the time of the ESC meeting. The supportive clinical trial (EXACT) presented in
+           the resubmission found insulin degludec was non-inferior to insulin detemir in
+           pregnant women in terms of efficacy and safety. The resubmission claimed that
+           a higher price for insulin degludec was reasonable for having an “effective and
+           safe option for use in pregnant women”. The ESC noted that the TGA was
+           assessing the sponsor’s request to change the pregnancy category for insulin
+           degludec from Category B3 to Category A. The ESC noted that while insulin
+           glargine is Category B3 in pregnancy, it is utilised safely in pregnant patients with
+           T1D in Australia. The ESC considered that a higher price for this consequence was
+           not supported.
+       •   The resubmission claimed that insulin degludec improves adherence, and that it
+           has the advantages of flexible dosing and lower insulin dose requirements. The
+           ESC noted that differences in mean insulin dose between insulin degludec and
+           insulin glargine 100 IU/mL varied between the trials but were similar for both
+           treatments. The ESC further noted that Study 3770 had a fixed flexible dosing arm
+           for insulin degludec which was not relevant to this resubmission. The ESC
+           considered that a higher price for these consequences was not supported.
+       •   The evaluation noted that pre-filled pen devices are available for other insulin
+           analogues.
+6.54   The ESC considered that a CMA to insulin glargine would be appropriate as there was
+       no basis to support the proposed price premium using the descriptive cost
+
+
+
+                                              24
+
+
+
+
+                                          OFFICIAL
+                                           OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       consequences analysis. The ESC requested equi-effective doses for insulin degludec
+       100 IU/mL and insulin glargine 100 IU/mL, and insulin degludec 100 IU/mL and insulin
+       glargine 300 IU/mL be presented in the pre-PBAC response for consideration.
+6.55   The Pre-PBAC response stated that estimation of equi-effective doses for insulin
+       degludec 100 IU/mL and the respective insulin glargine formulations is not
+       straightforward. The response noted that there was some heterogeneity between
+       trials in relation to both basal and total insulin dose requirements with insulin
+       degludec 100 IU/mL and insulin glargine 100 IU/mL, which was very likely due to
+       differences in study design. The response stated that similar issues arise when
+       considering available evidence comparing the insulin degludec 100 IU/mL and insulin
+       glargine 300 IU/mL formulations. Notwithstanding, the Pre-PBAC response proposed
+       the following equi-effective doses:
+       •   0.86 IU of insulin degludec (100 IU/mL) is equivalent to 1.00 IU of insulin glargine
+           (100 IU/mL) based on results from Study 3583 (Heller et al., 2012), Table 2; and
+       •   0.826 IU of insulin degludec (100 IU/mL) is equivalent to 1:00 IU of insulin glargine
+           (300 IU/mL) based on the results for the cohort of patients switching from insulin
+           detemir in the INEOX trial (Ruiz de Adana et al., 2023) Figure S3.
+Drug cost/patient
+6.56   The resubmission proposed an effective DPMQ of $       . The recalculated effective
+       DPMQ for insulin degludec was $      (based on the proposed effective AEMP for the
+       maximum quantity of $       , using standard methods). The calculation of insulin
+       degludec drug costs were consistent between the economic and budget impact
+       models.
+Estimated PBS usage & financial implications
+6.57   This resubmission was not considered by DUSC. The resubmission used a market share
+       approach to estimate the utilisation and financial impact of listing insulin degludec on
+       the PBS, for the treatment of patients with T1D.
+6.58   The resubmission noted that insulin detemir will be delisted from the PBS and
+       removed from the market at the end of 2026 (Year 1). It was assumed that patients
+       currently treated with insulin detemir would switch to insulin glargine 100 IU/mL, as
+       the most similar long-acting basal insulin listed on the PBS. The resubmission argued
+       that if insulin degludec is listed on the PBS, all patients currently treated with insulin
+       detemir would instead switch to insulin degludec, as the basal insulin most similar in
+       action to insulin detemir. Therefore, the resubmission estimated the difference in
+       costs to the PBS between the estimated use of insulin degludec and insulin glargine
+       over the first 6 years of listing, as the incremental cost of degludec to the PBS.
+6.59   Table 10 summarises the key inputs for financial estimates presented in the
+       resubmission.
+
+
+
+                                              25
+
+
+
+
+                                           OFFICIAL
+                                                            OFFICIAL
+
+
+
+                            Public Summary Document – July 2025 PBAC Meeting
+
+Table 10: Key inputs for financial estimates
+ Data           Value              Source                           Comment
+ Eligible population
+                                                                   The use of the single calendar year 2023 was not
+                                      PBS utilisation of insulin
+Insulin                                                            reasonable. The numbers of PBS insulin detemir scripts for
+                                      detemir for the 2023
+detemir            30,165 in 2023                                  2020-2024 show a decrease in scripts over 5 years (2020:
+                                      calendar year (PBS items
+scripts                                                            35,335 to 2024: 27,987; Services Australia PBS Item
+                                      12236B, 9040T).
+                                                                   Reports Online).
+                                                                   This assumption was not reasonable as it is inconsistent with
+Estimated
+                                                                   the declining numbers of insulin detemir scripts from 2020 to
+annual script      1.6% per year Assumed.
+                                                                   2024. Insulin glargine script numbers have also been
+growth
+                                                                   declining over the same time period.
+                                                                   The evaluation and the ESC considered that the assumption
+                                                                   that all insulin detemir patients will switch to insulin degludec
+                                                                   was not reasonable, as some patients may switch to other
+                                                                   basal insulins (e.g. insulin glargine).
+                                      It was assumed that all
+                                      insulin detemir scripts will The evaluation and the ESC considered that the assumption
+                    100% uptake be substituted by insulin that insulin degludec will only substitute insulin detemir
+Estimated                                                          scripts was not reasonable, given the resubmission noted
+                     from insulin     degludec; and insulin
+use of insulin                                                     expert opinion that there is an unmet clinical need for insulin
+                  detemir scripts (if degludec will not
+degludec
+                  not discontinued) substitute for other basal degludec in some patients and insulin degludec may replace
+                                      insulins (e.g. insulin       insulin glargine or other basal insulins (p14, of the
+                                      glargine).                   resubmission). In addition, insulin degludec may replace
+                                                                   insulin detemir prior to the intended removal of insulin
+                                                                   detemir from the Australian market at the end of 2026. The
+                                                                   PBAC considered that an uptake rate of approximately 80%
+                                                                   was more reasonable.
+Source: p95 of the resubmission; Section 4 Workbook (Tresiba).xlsm, attached to the resubmission.
+
+6.60      Table 11 presents the estimated utilisation and financial impact of listing insulin
+          degludec on the PBS/RPBS for the treatment of T1D.
+
+
+
+
+                                                                 26
+
+
+
+
+                                                            OFFICIAL
+                                                             OFFICIAL
+
+
+
+                             Public Summary Document – July 2025 PBAC Meeting
+
+Table 11: Estimated use and financial implications based on the proposed effective price of insulin degludec
+                                   Year 1        Year 2         Year 3        Year 4         Year 5        Year 6
+Estimated extent of use
+Number of scripts dispenseda            1              1            1              1              1            1
+
+Estimated financial implications of insulin degludec 100 IU/mL
+Cost to PBS/RPBS less
+copayments (effective DMPQ         $     2       $      2       $    2        $     2        $     2       $    2
+
+$     )
+Cost to PBS/RPBS less
+copayments (effective DPMQ         $     2       $      2       $    2        $     2        $     2       $    2
+
+$     ) b
+
+Estimated financial implications for insulin detemir 100 IU/mL (substituted by insulin glargine 100 IU/mL)
+Cost to PBS/RPBS less
+                                   -$     2      -$      2     -$     2      -$      2       -$     2      -$    2
+copayments
+Net financial implications
+Net cost to PBS/RPBS
+                                   $      2      $       2      $     2       $      2       $      2      $     2
+(effective DMPQ $     )
+Net cost to PBS/RPBS
+                                   $      2      $       2      $     2       $      2       $      2      $     2
+(effective DPMQ $     )b
+Source: Table 4-3, p97, Table 4-4, p98, and Table 4-5, p99 of the resubmission; ‘Section 4 Workbook (Tresiba)’ presented with the
+resubmission.
+Abbreviations: DPMQ, dispensed price for maximum quantity; EMP, ex-manufacturer price
+a The 1.6% annual growth rate in scripts was not applied to insulin detemir scripts between 2025 and 2026 (Year 1).
+b The effective DPMQ proposed in the resubmission included markups calculated based on an EMP of $         (calculated from the published
+DPMQ) and was recalculated during the evaluation based on the insulin degludec effective dispensed maximum quantity EMP of $          .
+The redacted values correspond to the following ranges:
+1 30,000 to < 40,000
+2 $0 to < $10 million
+
+
+
+
+6.61      The resubmission estimated a net cost to the PBS/RPBS of listing insulin degludec of
+          $0 to < $10 million in Year 1, increasing to $0 to < $10 million in Year 6, a total cost of
+          $0 to < $10 million over the first 6 years of listing.
+6.62      After recalculating the effective DPMQ of insulin degludec based on the proposed
+          effective EMP using standard methods, the estimated net cost to the PBS/RPBS was
+          $0 to < $10 million in Year 1, increasing to $0 to < $10 million in Year 6, a total cost of
+          $0 to < $10 million over the first 6 years of listing.
+6.63      During the evaluation, a sensitivity analysis was conducted with cost offsets based on
+          using the effective price of insulin detemir (effective DPMQ $              ) rather than
+          assuming insulin detemir is substituted by insulin glargine 100 IU/mL. Based on the
+          sensitivity analysis and using the recalculated effective DPMQ of $             for insulin
+          degludec, the estimated net cost to the PBS/RPBS was $0 to < $10 million in Year 1,
+          increasing to $0 to < $10 million in Year 6, a total cost of $$0 to < $10 million over the
+          first 6 years of listing.
+6.64      The estimated utilisation and financial impact of listing insulin degludec on the
+          PBS/RPBS for the treatment of T1D was highly uncertain for the following reasons:
+           •     The use of a single calendar year estimate of insulin detemir PBS scripts was not
+                 reasonable. Over the past 5 years the numbers of insulin detemir PBS scripts
+
+
+                                                                  27
+
+
+
+
+                                                             OFFICIAL
+                                         OFFICIAL
+
+
+
+                  Public Summary Document – July 2025 PBAC Meeting
+
+          declined from 35,335 scripts in 2020, to 27,987 in 2024. The subsequent
+          application of 1.6% annual growth in scripts was not supported.
+      •   The evaluation and the ESC considered that the assumption that 100% of patients
+          who would otherwise have been treated with insulin detemir in the first 6 years
+          of listing would switch to insulin degludec was not reasonable, as some patients
+          may switch to other PBS-listed basal insulins (e.g. insulin glargine 100 IU/mL,
+          insulin glargine 300 IU/mL, insulin degludec 100 IU/mL with insulin aspart). The
+          PSCR acknowledged that it is possible that patients who would otherwise have
+          been treated with insulin detemir will switch to an alternative insulin product or
+          dosing regimen (e.g. continuous subcutaneous insulin infusion) and that others
+          may substitute insulin degludec for other basal insulins or dosing regimens such
+          as insulin glargine. The ESC advised that the proportion of patients who would
+          switch to insulin degludec should be reconsidered, since the assumption that the
+          switch rate would be 100% was unreasonable.
+      •   The assumption that insulin degludec would only substitute insulin detemir scripts
+          was not reasonable. The resubmission and the PSCR acknowledged that insulin
+          degludec may also replace insulin glargine or insulin degludec/aspart.
+      •   There is risk of use of insulin degludec outside of the requested restriction, among
+          patients with T2D.
+      For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+7     PBAC Outcome
+7.1   The PBAC recommended the General Schedule Restricted Benefit listing of insulin
+      degludec for the treatment of type 1 diabetes mellitus (T1D). The PBAC’s
+      recommendation for listing was based on, among other matters, its assessment that
+      the cost-effectiveness of insulin degludec would be acceptable at the price proposed
+      in the resubmission. The PBAC advised that the small, proposed price difference
+      relative to insulin glargine 100 IU/mL was reasonable. However, the PBAC did not
+      accept the cost-consequences approach in the resubmission as a basis for a price
+      advantage. Rather, the PBAC expected that insulin degludec would offer a practical
+      and clinical benefit for some patients, in the absence of insulin detemir being available
+      on the PBS. Moreover, the PBAC considered that a cost-minimisation approach (CMA),
+      although with uncertain equi-effective doses and uncertain substitution from insulin
+      glargine 100 IU/mL and 300 IU/mL, would plausibly result in a similarly cost-effective
+      price as proposed by the resubmission. The PBAC considered that this uncertainty was
+      acceptable in view of: the high clinical need for an alternative to insulin detemir as
+      described in the consumer comments; the unlikelihood of any further forthcoming
+      trial evidence; and the estimated modest overall financial impact to the PBS.
+
+
+
+
+                                             28
+
+
+
+
+                                         OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+7.2   The PBAC noted that insulin detemir is scheduled for discontinuation from the
+      Australian market towards the end of 2026 and that the consumer comments received
+      on this submission stated that people living with T1D value having a choice of insulin
+      treatments. The PBAC noted that not all patients do well on insulin glargine and that
+      some patients living with T1D have issues with nocturnal hypoglycaemia. The PBAC
+      considered that it is important for patients (in conjunction with their clinicians) to have
+      a choice of insulin treatments available.
+7.3   The PBAC considered that whilst there is a risk of use outside of the restriction in
+      patients who do not have T1D, that a Restricted Benefit listing would be appropriate
+      for insulin degludec, noting that this is consistent with the current insulin detemir
+      listings.
+7.4   The PBAC noted that the resubmission proposed insulin glargine 100 IU/mL as the
+      main comparator. The PBAC accepted this, however, noted that the pharmacokinetic
+      profile of insulin degludec was most similar to insulin glargine 300 IU/mL. In line with
+      advice from the ESC, the PBAC considered that insulin glargine 300 IU/mL would be an
+      alternative comparator, noting that insulin glargine 100 IU/mL and 300 IU/mL are not
+      interchangeable. The PBAC noted the sponsor’s advice that “any crossover period
+      during which insulin degludec and insulin detemir were both PBS listed would be short
+      and transitional in nature”, and considered it reasonable to exclude insulin detemir as
+      a comparator on this basis and also since some patients may reasonably be expected
+      to transition to insulin glargine before insulin detemir delists. However, the PBAC
+      advised that if any crossover period was protracted, then the rationale for excluding
+      insulin detemir as a relevant comparator was not well justified.
+7.5   The PBAC noted that the resubmission presented data from two randomised head-to-
+      head trials Study 3583 and Study 3770, which were previously considered by the PBAC
+      in March 2013, as well as additional data from the three randomised trials Study 1835,
+      Study 3995 and HypoDeg, 2 network meta-analyses and supportive data summaries
+      in selected patient groups from an additional 11 studies.
+7.6   In line with its recommendation from the March 2013 PBAC meeting (section 9, insulin
+      degludec PSD, March 2013 PBAC meeting) and based on the data presented, the PBAC
+      considered that insulin degludec was at least non-inferior in terms of comparative
+      effectiveness to insulin glargine 100 IU/mL. The PBAC also considered that insulin
+      degludec had at least non-inferior safety relative to insulin glargine 100 IU/mL. The
+      PBAC had not considered evidence that would suggest insulin degludec would not also
+      be at least non-inferior in effectiveness and safety when compared to insulin glargine
+      300 IU/mL.
+7.7   The PBAC specifically noted that patients treated with insulin degludec had lower rates
+      of confirmed nocturnal hypoglycaemia than patients treated with insulin glargine 100
+      IU/mL (as detailed in Table 6), and considered that increased use of continuous
+
+
+
+                                              29
+
+
+
+
+                                          OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       glucose monitoring has not meant that these episodes will not occur, but has assisted
+       in documenting their occurrence so that further episodes can be reduced and/or
+       managed more effectively.
+7.8    The PBAC noted the claimed potentially important clinical advantages for some
+       patients (see paragraph 6.54) and agreed with the expert advice in the PSCR and pre-
+       PBAC response that there may be practical advantages of this therapy over alternative
+       insulin preparations for some patients with T1D. However, the PBAC noted that the
+       use of a cost-consequence analysis was not adequately justified (see paragraph 0) and
+       it did not accept this was a reasonable approach. Nonetheless, the PBAC advised that
+       insulin degludec would be cost-effective at the price proposed in the resubmission.
+       The PBAC reached this conclusion in view of the expected clinical advantages for some
+       patients in the absence of insulin detemir and in view of a scenario in which a CMA
+       compared with insulin glargine 100 IU/mL and 300 IU/mL could plausibly be expected
+       to result in a comparable price.
+7.9    Whilst heterogeneity between trials made the determination of equi-effective doses
+       uncertain, the Committee noted the equi-effective doses proposed by the sponsor,
+       with these being:
+       1 unit of insulin degludec (100 IU/mL) is equivalent to 1.16 units of insulin glargine
+       (100 IU/mL); and
+       1 unit of insulin degludec (100 IU/mL) is equivalent to 1.21 units of insulin glargine
+       (300 IU/mL) in patients who are switching from insulin detemir.
+7.10   The PBAC noted that based on the proposed equi-effective doses, a CMA compared
+       to insulin glargine 100 IU/mL would result in a higher price compared to that proposed
+       in the resubmission. However, as noted above, the PBAC considered that insulin
+       glargine 300 IU/mL was an alternative comparator, and it advised that some patients
+       would switch from insulin detemir to insulin glargine 300 IU/mL. Given the dose
+       relativities previously accepted to inform the pricing of insulin glargine 300 IU/mL (1
+       unit 300 IU/mL being equi-effective to 0.84 units of insulin glargine 100 IU/mL, see
+       para 5.4), the PBAC considered the a CMA with a mixed comparator of insulin glargine
+       100 IU/mL and 300 IU/mL would likely result in a price reasonably comparable to that
+       proposed in the resubmission.
+7.11   With respect to the financial estimates presented by the resubmission, the PBAC
+       considered that uptake from patients switching from insulin detemir would be lower
+       than 100% (more likely to be in the range of 80%), with some patients switching to
+       insulin glargine. The PBAC also considered that some patients using insulin glargine
+       would want to try something new and therefore be switched to insulin degludec.
+       Overall, the PBAC considered the estimated cost of $0 to < $10 million over 6 years for
+       approximately 10,000 to < 20,000 patients per annum (based on approximately
+
+
+
+
+                                             30
+
+
+
+
+                                          OFFICIAL
+                                          OFFICIAL
+
+
+
+                   Public Summary Document – July 2025 PBAC Meeting
+
+       30,000 to < 40,000 scripts) may be an overestimate, particularly as more people
+       transition to insulin pumps which only use quick acting insulin.
+7.12   The PBAC advised that insulin degludec is suitable for prescribing by nurse
+       practitioners.
+7.13   The PBAC recommended that the Early Supply Rule should apply.
+7.14   The PBAC recommended that insulin degludec should not be treated as
+       interchangeable on an individual patient basis with any other drugs.
+7.15   The PBAC noted that because insulin degludec is not expected to provide a substantial
+       and clinically relevant improvement in efficacy, or reduction of toxicity, over insulin
+       glargine, or not expected to address a high and urgent unmet clinical need given the
+       presence of an alternative therapy, the criteria prescribed by the National Health
+       (Pharmaceuticals and Vaccines – Cost Recovery) Regulations 2022 for Pricing Pathway
+       A were not met.
+7.16   The PBAC noted that this resubmission is not eligible for an Independent Review as it
+       received a positive recommendation.
+
+
+
+
+                                             31
+
+
+
+
+                                          OFFICIAL
+                                                           OFFICIAL
+
+
+
+                               Public Summary Document – July 2025 PBAC Meeting
+
+Outcome:
+Recommended
+
+8                 Recommended listing
+8.1               Add new item:
+
+                                                            PBS        Max.      Max.
+ MEDICINAL PRODUCT                                                                       №.of
+                                                            item       qty        qty           Available brands
+ medicinal product pack                                                                  Rpts
+                                                            code      packs      units
+ INSULIN DEGLUDEC
+ Insulin degludec 100 units/mL injection,                   NEW         5          5      1     Tresiba
+ 5 x 3 mL cartridges                                        MP NP
+
+
+
+ Restriction Summary [new1] / Treatment of Concept: [new1A]
+ Concept ID (for Category / Program:     GENERAL - General Schedule (Code GE)
+  internal Dept. Prescriber type: Medical Practitioners Nurse practitioners
+       use)      Restriction type: Restricted benefit
+    Prescribing
+                          Administrative Advice: Special Pricing Arrangements apply.
+     rule level
+                          Episodicity: [blank]
+                          Severity: [blank]
+                          Condition: Type 1 diabetes
+                          Indication: Type 1 diabetes
+                          Treatment Phase: [blank]
+
+This restriction may be subject to further review. Should there be any changes made to the
+restriction the sponsor will be informed.
+
+9                 Context for Decision
+                  The PBAC helps decide whether and, if so, how medicines should be subsidised
+                  through the Pharmaceutical Benefits Scheme (PBS) in Australia. It considers
+                  applications regarding the listing of medicines on the PBS and provides advice about
+                  other matters relating to the operation of the PBS in this context. A PBAC decision in
+                  relation to PBS listings does not necessarily represent a final PBAC view about the
+                  merits of the medicine or the circumstances in which it should be made available
+                  through the PBS. The PBAC welcomes applications containing new information at any
+                  time.
+
+
+
+
+                                                               32
+
+
+
+
+                                                           OFFICIAL
+                                       OFFICIAL
+
+
+
+                 Public Summary Document – July 2025 PBAC Meeting
+
+10   Sponsor’s Comment
+     Novo Nordisk is pleased that the PBAC has agreed to the listing of Tresiba® (insulin
+     degludec) 100 IU/mL for the treatment of Type 1 diabetes mellitus (T1DM). This will
+     provide another important and valuable option for patients living with T1DM.
+
+
+
+
+                                          33
+
+
+
+
+                                       OFFICIAL
+

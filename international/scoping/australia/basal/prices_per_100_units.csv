@@ -1,0 +1,14 @@
+pbs_code,product,brand,pack,units_per_pack,claimed_price_aud_sep2026,claimed_aud_per_100u,dpmq_aud_oct2026,max_packs,dpmq_aud_per_100u,benefit_type,first_listed_date
+15393E,degludec (Tresiba),Tresiba Penfill,"insulin degludec 100 units/mL injection, 5 x 3 mL cartridges",1500,66,4.4,370.79,5,4.94,restricted benefit,2026-07-01
+11302W,glargine 300 (Toujeo),Toujeo Solostar,"insulin glargine 300 units/mL injection, 5 x 1.5 mL pen devices",2250,73.06,3.25,409.39,5,3.64,unrestricted,2018-04-01
+11308E,glargine 300 (Toujeo),Toujeo Solostar,"insulin glargine 300 units/mL injection, 3 x 1.5 mL pen devices",1350,43.84,3.25,249.44,5,3.7,unrestricted,2018-04-01
+9039R,glargine 100 (Optisulin),Optisulin,"insulin glargine 100 units/mL injection, 5 x 3 mL cartridges",1500,31.71,2.11,182.99,5,2.44,unrestricted,2020-01-01
+11815W,glargine 100 (Optisulin),Optisulin SoloStar,"insulin glargine 100 units/mL injection, 5 x 3 mL pen devices",1500,31.71,2.11,182.99,5,2.44,unrestricted,2021-02-01
+9040T,detemir (Levemir),Levemir Penfill,"insulin detemir 100 units/mL injection, 5 x 3 mL cartridges",1500,61.61,4.11,346.74,5,4.62,restricted benefit,2007-07-01
+12236B,detemir (Levemir),Levemir FlexPen,"insulin detemir 100 units/mL injection, 5 x 3 mL pen devices",1500,61.61,4.11,346.74,5,4.62,restricted benefit,2021-02-01
+11426J,degludec+aspart (Ryzodeg),Ryzodeg Penfill,"insulin degludec 70 units/mL + insulin aspart 30 units/mL injection, 5 x 3 mL cartridges",1500,66,4.4,370.79,5,4.94,unrestricted,2018-08-01
+13651L,faster aspart (Fiasp),Fiasp Penfill,"insulin aspart 100 units/mL fast acting injection, 5 x 3 mL cartridges",1500,28.18,1.88,163.64,5,2.18,unrestricted,2023-10-01
+12254Y,aspart (NovoRapid),NovoRapid FlexPen,"insulin aspart 100 units/mL injection, 5 x 3 mL pen devices",1500,28.18,1.88,163.64,5,2.18,unrestricted,2021-02-01
+8435Y,aspart (NovoRapid),NovoRapid Penfill 3 mL,"insulin aspart 100 units/mL injection, 5 x 3 mL cartridges",1500,28.18,1.88,163.64,5,2.18,unrestricted,2000-08-01
+12237C,lispro (Humalog),Humalog KwikPen,"insulin lispro 100 units/mL injection, 5 x 3 mL pen devices",1500,28.18,1.88,163.64,5,2.18,unrestricted,2021-02-01
+8212F,lispro (Humalog),Humalog,"insulin lispro 100 units/mL injection, 5 x 3 mL cartridges",1500,28.18,1.88,163.64,5,2.18,unrestricted,1998-02-01

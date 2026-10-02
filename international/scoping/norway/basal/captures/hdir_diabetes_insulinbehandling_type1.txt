@@ -1,0 +1,324 @@
+ 
+ Insulinbehandling og behandlingsmål ved diabetes type 1 - Helsedirektoratet 
+ Gå til hovedinnhold 
+ Forsiden 
+ Diabetes 
+ Behandling med blodsukkersenkende legemidler ved diabetes 
+ 5.1. Insulinbehandling og behandlingsmål ved diabetes type 1
+ Behandlingsmål ved diabetes type 1 
+ Anbefaling - Sterk 
+ Sterk anbefaling vil gjelde for de aller fleste pasienter i de aller fleste situasjoner. Uttrykk som brukes er "bør" og "anbefaler". Hvis anbefalingen er så klart faglig forankret at det sjelden er forsvarlig ikke å følge den, brukes uttrykkene "skal" og "må".
+ For de fleste pasienter bør behandlingsmålet for HbA1c være omkring 53 mmol/mol (7 %)  når det kan oppnås med god livskvalitet og uten uakseptable hypoglykemiske episoder.
+ Praktisk informasjon
+ Målet med behandlingen er at pasienten har tilfredsstillende blodsukker gjennom hele døgnet og god livskvalitet. Dette tilsvarer egenmålt blodglukose før måltid på 4-7 mmol/l og <10 mmol/l postprandialt (1,5-2 timer etter måltid) uten uakseptable hypoglykemier.
+ Intensivert insulinbehandling - på to måter: 
+ Hurtigvirkende insulin eller insulinanalog til måltider og middels langsomtvirkende insulin (NPH-insulin) eller langsomtvirkende insulinanalog ved sengetid eller to ganger i døgnet ("mangeinjeksjonsbehandling"). Insulinet settes subkutant, som oftest med insulinpenn.
+ Behandling med insulinpumpe med hurtigvirkende insulin (i dag oftest hurtigvirkende insulinanalog) som gir kontinuerlig basaldose som subkutan infusjon hele døgnet, med tillegg av ekstra doser ved måltider eller måltid i situasjoner med behov for ekstra insulin.
+ Se også anbefalingen Oppstart og valg av insulin ved diabetes type 1 . 
+ Begrunnelse
+ Det foreligger overbevisende vitenskapelig dokumentasjon for at intensivert behandling av diabetes type 1 gir betydelig redusert risiko for mikrovaskulære senkomplikasjoner (øye-, nyre-, og nervekomplikasjoner).
+ Risikoen for slike komplikasjoner ved mindre intensiv behandling er høy, og det kan være mye å vinne for den enkelte pasient dersom man lykkes med intensivert behandling.
+ Evidensen kommer hovedsakelig fra studier av yngre pasienter i tidlig fase av sykdommen. Fordeler må vurderes sammen med risiko for alvorlig hypoglykemi og pasientens preferanser. Effekten av intensivert insulinbehandling ser ut til å være noe mindre og tar lengre tid å manifestere seg når det gjelder forebygging av progresjon av komplikasjoner som allerede er til stede. Det mangler evidens fra randomiserte studier på effekter hos eldre pasienter og på risiko for makrovaskulær sykdom. Langtids postintervensjonsoppfølging av Diabetes Control and Complications Trial (DCCT/EDIC) tyder på at intensiv blodsukkerkontroll forebygger makrovaskulær sykdom, og det er usannsynlig at vi vil få nye randomiserte studier som belyser spørsmålet ytterligere. Behandlingsmål må individualiseres basert på alder, sykdomsprogresjon, makrovaskulær risiko, pasientpreferanser/livsstil og pasientens evne til å følge opp behandling.
+ For nyrekomplikasjoner, viser studiene tydelig at intensivert blodsukkerregulering kan forebygge diabetisk nefropati. Det er derimot ikke evidens for at intensivert blodsukkerregulering forebygger utvikling av terminal nyresvikt (ESRD) eller nyrerelatert død.
+ Forebygging av mikrovaskulære komplikasjoner som nefropati (enten definert som mikroalbuminuri og/ eller proteinuri), nevropati og retinopati, er et prioritert mål i behandlingen av diabetes type 1.
+ Forebygging av nevropati vil, foruten forebygging av nevropatiske smerter, indirekte også kunne forebygge diabetiske fotsår og igjen amputasjoner grunnet dette. Se kapittelet Diabetisk fot og nevropati .
+ Forebygging av nefropati vil på sikt kunne forhindre hypertensjon, fall i nyrefunksjon (GFR), og sekundært til fall i GFR også forebygging av kardiovaskulær sykdom. Se kapittelet Nyresykdom ved diabetes .
+ Forebygging av retinopati vil forebygge synstap og blindhet. Se kapittelet Retinopati og regelmessig netthinneundersøkelse ved diabetes .
+Fordelene med intensivert behandling må veies opp mot risikoen for hyppige eller alvorlige episoder med hypoglykemi. Hypoglykemi kan gi nedsatt evne til å registrere lave blodsukkerverdier/følingssymptomer og nedsatt livskvalitet. Studier tyder imidlertid på at denne reduserte evnen til å kjenne hypoglykemi (følingssymptomer), kan reverseres om intensiteten av blodsukkerkontrollen reduseres noe (HbA1c legges noe høyere, f.eks. i området 7-7,5%) i en periode (Dagogo-Jack et al., 1999).
+ Forebygging av mikrovaskulære komplikasjoner vil, i et samfunnsøkonomiske perspektiv, kunne spare helseutgifter. Først og fremst vil slik besparelse komme fra reduserte utgifter til behandling av, og sykelighet ved, alvorlig nyresvikt, redusert syn og amputasjoner.
+ På utgiftssiden ved intensivert blodsukkerregulering, kommer at pasienten ofte vil trenge tilgang til nye insulintyper, eventuelt insulinpumpe og kontinuerlig vevsglukosesensor (CGM), eller behov for hyppige daglige målinger av blodsukker (som vil kreve forbruksmateriell). Alt tyder imidlertid på at intensivert blodsukkerregulering med optimal forebygging av hypoglykemi-episoder vil være gunstig både for pasient og samfunn.
+ Mulige ulemper med intensivert behandling er ikke større enn at vi antar de fleste pasienter vil akseptere dette. Det skal dog nevnes faren for forverring av nevropati og retinopati ved for raskt fall i HbA1c (se under Nøkkelinformasjon), men individuell tilpasning, god dialog mellom behandler og pasient, samt mulighet for tilpasning av hjelpemidler og utprøving av behandlingsregimer vil redusere risikoen for dette.
+ Les hele 
+ Vurdering
+ Fordeler og ulemper 
+ Intensivert insulinbehandling som resulterer i lavere HbA1c, vil kunne gi pasienten lengre og bedre liv med færre senkomplikasjoner. Men intensivert behandling gir også høyere risiko for alvorlig hypoglykemi (bevisstløshet eller behov for assistanse fra annen person).
+Intensivert blodsukkerregulering vil også kreve hyppigere glukosemålinger/ døgn, og noen pasienter kan oppleve behandlingen som belastende.
+ I henhold til Cochranerapporten som ligger til grunn (Fullerton et al., 2014) vil en reduksjon av HbA1c fra 75 til 53 mmol/mol (fra 9 til 7 %) kunne gi en reduksjon i forekomst av retinopati fra 232 til 63 per 1000 behandlede pasienter (5-6,5 års oppfølgingstid), av nefropati fra 284 til 159 per 1000 (3,5-6,5 års oppfølgingstid) og for nevropati fra 139 til 49 per 1000 (5-6,5 års oppfølgingstid). Den totale risikoreduksjonen for diabetiske senkomplikasjoner kan være opp mot 76 %.
+ Noen pasienter med diabetes type 1 og proteinuri vil utvikle dialysetrengende nyresvikt etter lang sykdomsvarighet (15-30 år). Ingen av de randomiserte studiene hadde observasjonstid tilstrekkelig til å kunne konkludere om effektene av intensivert behandling på risiko for for tidlig død, selv om dette er analysert i meta-analysen. Det er publisert en langtidsoppfølging av DCCT (Epidemiology of Diabetes Interventions and Complications Study; EDIC) som viser at pasienter i den intensiverte behandlede gruppen hadde redusert dødelighet i oppfølgingsperioden etter studien.
+Intensivert blodsukkersenkende behandling har effekt på både klinisk nevropati og nervefunksjonsmålinger som nerveledningshastighet
+og vibrasjonsfølsomhet i underekstremiteter. NNT for å unngå klinisk nevropati ila 5 år er 11.
+ Dersom blodglukosenivået har vært høy i lang tid, anbefales det å intensivere gradvis slik at HbA1c faller til ønsket nivå over en periode på 3-6 måneder. Ved et fall i HbA1c på 22 - 33 mmol/mol (2-3 %-poeng) i løpet av 3 måneder, kan mikrovaskulære komplikasjoner forverres og den absolutte risikoen for insulin nevropati (behandlingsindusert nevropati) være 20% (Gibbons CH, 2015). Risikoen for forverring av retinopati øker også ved en slik rask reduksjon av blodsukkeret, men er i de aller fleste tilfeller er forbigående (Dahl-Jørgensen et al., 1985; DCCT Research Group, 1998).
+ Kvalitet på dokumentasjonen 
+ Cochranerapporten (Fullerton et al., 2014) inkluderer 12 relevante randomiserte studier med totalt 2230 pasienter. Det er stor variasjon i pasientpopulasjon mellom studiene når det gjelder alder, sykdomsvarighet og etablerte diabeteskomplikasjoner. Gjennomsnittlig oppfølgingstid varierer fra 1-6,5 år. De fleste studiene er gjort på 80-tallet i Europa eller Nord Amerika.
+* For manifestasjon av mikrovaskulære komplikasjoner er kvaliteten på evidensen gjennomgående høy eller moderat vurdert ved GRADE-kriterier. Vi har stor tiltro til effektestimatene.
+* For makrovaskulær sykdom vurderer Cochranerapporten evidensen som svak.
+* For død vurderes kvaliteten som moderat, men her er få hendelser og tallene baserer seg på en studie av pasienter med ESRD og overføringsverdien til en vanlig norsk pasientpopulasjon er usikker.
+ Oversiktsartikkelen som har vurdert nevropati-spesifikke utfall, har høy kvalitet, men det skal nevnes at studiene inkludert er mer enn 20 år gamle og kontrollgruppene har høyere HbA1c enn dagens pasientgruppe.
+ Verdier og preferanser 
+ Forebygging av mikrovaskulære komplikasjoner er et prioritert mål i behandlingen av diabetes type 1. Behandlingen må imidlertid ikke gå på bekostning av at pasienten utvikler hyppige episoder med hypoglykemi som over tid gir nedsatt evne til å kjenne insulinfølinger, nedsatt livskvalitet, og i verste fall kardiovaskulær sykdom og død. God opplæring og tett oppfølging av fra kvalifisert personale på diabetespoliklinikk/sykehuspoliklinikk antas å gi bedre sjanse til å oppnå behandlingsmålene med minst mulig risiko for alvorlige hypoglykemier.
+ Personer med diabetes type 1 styrer i stor grad egen behandling. Det er derfor viktig at behandlingsstrategi og behandlingsmål planlegges sammen med pasienten, og at pasienten er godt informert om ulike behandlingsmuligheter og teknologiske hjelpemidler som kan være til hjelp for å nå behandlingsmål, og redusere risiko for hypoglykemi, ketoacidose og andre komplikasjoner. Optimalt behandlingsregime og bruk av teknologiske hjelpemidler krever stor grad av individuell tilpasning.
+ Risiko for senkomplikasjoner må veies opp mot belastning ved intensivert behandling. Langtidseffektene på mikrovaskulære komplikasjoner er trolig størst hos pasienter som ennå ikke har utviklet slike komplikasjoner. Pasientens preferanser vil variere med livssituasjon,personlighet og ressurser. Intensivert insulinbehandling er kognitivt og psykologisk krevende og utfordrende, og det er derfor viktig å samtale med pasienten om hvordan han/hun håndterer insulindoseringsfeil tankemessig og følelsemessig, ikke bare atferdsmessig.
+ Forskningsgrunnlag
+ PICO
+ Populasjon (P) 
+ Pasienter med diabetes type 1
+ Tiltak (I) 
+ Intensiv blodsukkersenkende behandling
+ Sammenligning (C) 
+ Mindre intensiv blodsukkersenkende behandling
+ Beskrivelse av inkluderte studier 
+ Evidensprofil (PDF) 
+ Utfall gruppen opprinnelig interesserte seg for - og graderte mellom Kritisk, Viktig og Mindre viktig:
+1. Død – KRITISK
+2. Livskvalitet – KRITISK
+3. Hjerteinfarkt/hjerneslag – KRITISK
+4. Ketoacidose/annen alvorlig hyperglykemi – VIKTIG
+5. HbA1c – VIKTIG
+6. (Alvorlig) hypoglykemi – KRITISK
+7. Bivirkninger – VIKTIG
+8. Vektendring – MINDRE VIKTIG
+9. Synstruende retinopati – KRITISK
+10. Amputasjon – KRITISK
+11. Manifestasjon av nevropati – KRITISK
+ Nefropati-arbeidsgruppen så i tillegg på følgende nyrespesifikke utfall:
+ 12. ESRD – KRITISK
+13. Makroalbuminuri – KRITISK
+14. Mikroalbuminuri – VIKTIG
+15. Dobling av plasma kreatinin – KRITISK
+ Nevropati-arbeidsgruppen så i tillegg på følgende utfall:
+ 16. Insidens av nevropati (ved 5 år) - VIKTIG
+17. Endring i peroneal nerveledningshastighet (årlig) - MINDRE VIKTIG (isolert sett)
+18. Endret vibrasjonssans i bena (årlig) - MINDRE VIKTIG (isolert sett)
+ For besvarelse av dette PICO-spørsmålet tok vi utgangspunkt i: Fullerton B et al 2014
+ I denne systematiske oversiktsartikkelen fra Cochrane er 12 studier inkludert, men for de fleste utfallene er det DCCT-studien som gir mest bidrag (er vektet mest). Cochrane-rapporten hadde ikke data på kardiovaskulære endepunkter, men for disse utfallene brukte oppfølgingsstudien av DCCT-kohorten; EDIC, som var en postintervensjonsstudie (DCCT/EDIC Study Research Group 2005)
+ I tillegg hadde nefropati-arbeidsgruppen tilgjengelig en annen systematisk oversikt: Kähler P et al 2014
+ Nevropati-arbeidsgruppen la metaanalysen til Callaghan BC et al til grunn for vurdering av de tre nevropati-spesifikke utfallene. De randomiserte kontrollerte studiene i litteraturoversikten inkluderte pasienter med type 1 og type 2 diabetes, alder og etnisitet ikke oppgitt. Hensikten med litteraturoversikten var å undersøke effekten av intensivert blodsukkersenkende behandling på forebygging og behandling av distal symmetrisk polynevropati hos pasienter med diabetes mellitus. I evidensprofil er det kun ekstrahert data for deltakerne med type 1 diabetes.
+ Kunnskapsgrunnlaget for hvert enkelt utfallsmål:
+1. Død - KRITISK - Få hendelser i randomisert kontrollerte studier, bortsett fra en studie, MDCCT 1994, i Cochranerapporten (Fullerton B, 2014) som så på pasienter med ESRD. DCCT/EDIC (2) finner en svak gunstig postintervensjonseffekt av intensiv insulin behandling vs ikke intensiv insulinbehandling hos pasienter med type 1 diabetes på død og kardiovaskulær død etter 11 års oppfølging. Kvaliteten på dokumentasjonen vurderes som moderat. (RR 0,34 – KI 0,09-1,26)
+ 2. Livskvalitet - KRITISK - Kun DCCT i Cochranerapporten (Fullerton B, 2014) sier noe om dette. Her finner en ingen signifikante effekter.
+ 3. Hjerteinfarkt/hjerneslag - KRITISK - Sjeldent forekommende i RCTene i Cochranerapporten (Fullerton B, 2014) og ikke håndtert som primærutkomme i noen av de inkluderte studiene i cochranerapporten. DCCT/EDIC tyder på effekt. 11 års postintervensjonsoppfølging viser redusert risiko for gruppen som ble intensivt behandlet. For kardiovaskulære hendelser er RR 0,48 – KI 0,34-0,67. For Ikke-fatal, akutt MI er RR 0,45 og KI 0,19-1,09. For Cerebrovaskulære hendelser er RR 0,21 – KI 0,02-1,75.
+ 4. Ketoacidose/annen alvorlig hyperglykemi - VIKTIG - Kun økt risiko i studier hvor det ble brukt insulinpumpe i intensivterapi gruppen. Veldig lav kvalitet på evidens. (1)
+ 5. HbA1c - VIKTIG - Definert som behandlingsmål, ikke utfallsmål.
+ 6. (Alvorlig) hypoglykemi - KRITISK - Intensiv behandling ser ut til å øke risiko for alvorlig hypoglykemi, men resultatene varierer mellom studier. Det ble i Cochranerapporten gjort analyser hvor man skiller pasientene på bakgrunn av HbA1c ved oppstart. Disse tyder på at risikoen er økt kun for de som i utgangspunktet har relativt lav HbA1c (mindre enn 9%) (Fullerton B, 2014).
+ 7. Bivirkninger - VIKTIG - ikke rapportert.
+ 8. Vektendring - MINDRE VIKTIG - Flere studier rapporterer større vektøkning ved intensiv behandling (veldig lav kvalitet på evidens) (Fullerton B, 2014)
+ 9. Synstruende retinopati - KRITISK - Cochranerapporten (Fullerton B, 2014) rapporterer henholdsvis manifestasjon og progresjon av retinopati. Kvaliteten på evidensen for at intensiv behandling gir redusert risiko for retinopati vurderes som høy. Endepunkt benyttet i Cochranerapporten er surrogatmål for synstruende retinopati og kvalitet på evidensen i forhold til vårt predefinerte utkomme settes derfor til moderat. For manifestasjon av retinopati er RR 0,24 - KI 0,15-0,38. For progresjon av retinopati er RR 0,61 – KI 0,49-0,76.
+ 10. Amputasjon - KRITISK - ikke rapportert
+ 11. Manifestasjon av nevropati - KRITISK. Kvaliteten på evidens for at intensiv behandling beskytter mot manifestasjon av nevropati vurderes som høy. RR 0,35 - KI 0,23-0,53. Når det gjelder progresjon av nevropati foreligger ikke grunnlag for å konkludere. (Fullerton B, 2014)
+ 12. ESRD - KRITISK - ikke rapportert (mest sannsynlig pga ikke lang nok oppfølgingstid i Cochrane-rapporten)
+ 13./15. Manifest nefropati (proteinuri/ kreatinin stigning)- KRITISK. Kvaliteten er bedømt i både Cochrane-rapporten og metaanalysen fra Kähler et al som moderat grad av evidens. Vi valgte Kähler fremfor Cochrane da sistenevnte viste mindre overførbarhet til norske forhold grunnet at studiene inkludert hadde mange deltagere < 18 år, i tillegg til å være utført >15 år siden (det vil si før utstrakt bruk av annen renal og kardiovaskulær beskyttelse). Metaanalysen fra Kähler hadde også et godt effektmål med presist konfidensintervall.
+ 14. Utvikling av albuminuri - VIKTIG. Analysen inkluderte også studier med høygradig albuminuri. Studieresultatet ga god konsistens (lav heterogenitet). Dog var det for få studier til å kunne oppnå et pålitelig funnel plot (det er dermed umulig å bedømme publiseringsskjevhet). Evidensgraden bedømmes som moderat.
+ 16. Insidens av nevropati (ved 5 år) - VIKTIG. Relativ effekt veldig god med en risikoforskjell på 93 færre per 1000 i intervensjonsgruppen, men NNT er 11 i løpet av 5 år.
+ 17. Endring i peroneal nerveledningshastighet (årlig) - MINDRE VIKTIG (isolert sett). Høy kvalitet på evidensen og effekten viser at det er en gjennomsnittlig forskjell mellom gruppene på 0.61 m/s per år, som er klinisk signifikant.
+ 18. Endret vibrasjonssans i bena (årlig) - MINDRE VIKTIG (isolert sett). Høy kvalitet på evidensen og effekten viser en årlig "mean standarized difference" (MSD) i endret vibrasjonsfølsomhet målt med Biotesiometer var på 0.32Hz, p= 0.04, som er klinisk signifikant.
+ De to sistnevnte nevropati-spesifikke utfallsmålene er intermediærutfall, og ble av arbeidsgruppen bedømt som mindre viktige utfall, når man ser på de isolert sett, men i og med at de fleste pasienter som har redusert nerveledningshastighet og/eller vibrasjonssans også oppfyller kriteriene for å ha nevropati, vil disse utfallsmålene indirekte være viktige.
+ Selv om harde endepunkter som død, kardiovaskulær sykdom, nyresvikt, amputasjon eller blindhet mangler, eller har moderat til lav kvalitet på evidens, beror dette på metodiske begrensninger og kort observasjonstid, men de klare fordelene som sees i forhold til forebygging av mikrovaskulære komplikasjoner er overbevisende og derfor vil tilsvarende eller bedre studier på harde endepunkter heller trolig aldri komme.
+ Les hele 
+ Referanser
+ 257. 
+ Dagogo-Jack S, Fanelli CG, Cryer PE: Durabel reversal of hypoglycemia unawareness in type 1 diabetes. Diabetes Care. 1999 May; 22(5):866-7. 
+ 258. 
+ Gibbons CH, Freeman R: Treatment-induced neuropathy of diabetes: an acute, iatrogenic complication of diabetes. Brain. 2015;138:43-52. PMID: 25392197. 
+ 259. 
+ Dahl-Jørgensen K, Brinchmann-Hansen O, Hanssen KF, Sandvik L, Aagenaes O: Rapid tightening of blood glucose control leads to transient deterioration of retinopathy in insulin dependent diabetes mellitus: the Oslo study. Br Med J .1985 16;290:811-5. 
+ 260. 
+ Diabetes Control and Complications Trial Research Group: Early worsening of diabetic retinopathy in the Diabetes Control and Complications Trial. Arch Ophthalmol. 1998;116:874–886. 
+ 261. Callaghan BC, Little AA., Feldman E L, & Hughes R A. 
+ Enhanced glucose control for preventing and treating diabetic neuropathy. Cochrane Database Syst Rev, 6, CD007543. 2012. doi: 10.1002/14651858.CD007543. PMID: 22696371. 
+ 262. Fullerton, B., Jeitler, K., Seitz, M., Horvath, K., Berghold, A., & Siebenhofer, A. 
+ Intensive glucose control versus conventional glucose control for type 1 diabetes mellitus. Cochrane Database Syst Rev, 2, CD009122. 2014. doi: 10.1002/14651858.CD009122.pub2.. 
+ 263. DCCT/EDIC Study Research Group. 
+ Intensive Diabetes Treatment and Cardiovascular Disease in Patients with Type 1 Diabetes. New England Journal of Medicine. 2005. 353. 25. 2643-2653. doi: 10.1056/NEJMoa052187. 
+ 264. Kähler P, Grevstad B, Almdal T, Gluud C., Wetterslev J, Vaag A, Hemmingsen B. 
+ Targeting intensive versus conventionalglycaemic control for type 1 diabetes mellitus: a systemiatic review with meta-analyses of randomised clinical trials. BMJ Open:4, e004806. doi:10.1136/bmjopen-2014-004806. 
+ Lukk 
+ Siste faglige endring:
+ 14. september 2016
+   |   Se tidligere versjoner 
+ Egenmåling av blodsukker og bruk av kontinuerlig vevsglukosemåling ved diabetes type 1 
+ Anbefaling - Sterk 
+ Sterk anbefaling vil gjelde for de aller fleste pasienter i de aller fleste situasjoner. Uttrykk som brukes er "bør" og "anbefaler". Hvis anbefalingen er så klart faglig forankret at det sjelden er forsvarlig ikke å følge den, brukes uttrykkene "skal" og "må".
+ Det anbefales egenmåling av blodsukker hos alle som behandles med insulin. Mange pasienter kan ha nytte av å bruke kontinuerlig vevsglukosemåler.
+ Praktisk informasjon
+ Egenmåling av blodsukker
+ God opplæring er en forutsetning for at måleresultatene er pålitelige.
+ Praktiske råd ved måling: 
+ rene hender
+ stikk i sidene på fingertuppene (mindre følsomhet der)
+ benytt stor nok bloddråpe; se informasjon om aktuelle blodglukosemåleapparat
+ kode/kalibrer apparatet i henhold til strimlene som benyttes, dersom apparatet krever koding
+ obs. holdbarhetsdato på strimlene, spesielt holdbarhet etter at boksen er åpnet
+ Eksempler på situasjoner der det er særlig viktig å måle blodsukker:
+ justering av insulindosene ved multiinjeksjonsbehandling og insulinpumpebehandling (før og 2 timer etter måltid)
+ uforståelig høy Hb A 1c 
+ ved febersykdom
+ ved uklare symptomer som kan skyldes blodsukkersvingninger (føling)
+ ved uregelmessig livsførsel som for eksempel ved reiser
+ ved graviditet
+ ved fysisk aktivitet
+ ved hypoglykemi
+ før og ev. under bilkjøring
+ De fleste personer med langvarig diabetes type 1 må, med våre nåværende behandlingsformer, være forberedt på å måle blodsukkeret 3-6 ganger daglig for å få en tilfredsstillende blodsukkerkontroll.
+ Kontinuerlig vevsglukosemåling
+ Personer med diabetes type 1 bør vurderes for bruk av kontinuerlig vevsglukosemåler (continuous glucose monitoring, CGM), både ved mangeinjeksjonsbehandling og pumpebehandling. Dagens anbefalte CGM har god  nøyaktighet og er for de fleste lette å bruke. De gir et mer komplett bilde av blodglukoseprofil over tid enn fingerstikk og gjør det lettere å ta fornuftige behandlingsvalg.
+ Følgende pasientgrupper kan eksempelvis ha særlig nytte av og behov for CGM: 
+ personer med sterkt svingende blodsukker og alvorlige hypoglykemier, særlig nattlige
+ personer med nedsatt evne til å kjenne følinger
+ visse utsatte yrkesgrupper der faren for hypoglykemi og følinger kan få store konsekvenser
+ gravide med diabetes type 1
+ personer som bor alene
+ personer som opplever blodsukkersvingninger og hypoglykemier i forbindelse med fysisk aktivitet
+ Personer som har hatt én eller flere alvorlige hypoglykemiske episoder og som har vist at bruk av CGM i betydelig grad reduserer risikoen for alvorlige hypoglykemier, kan dispensasjon for å beholde førerkortet forutsette bruk av CGM.
+Det finnes nå flere produkter som kombinerer CGM og styring av insulintilførselen via pumpe. Noen pumper stopper insulintilførselen midlertidig ved lave blodglukoseverdier. Dette kan være en stor hjelp for personer med nattlig følinger og særlig hos personer med hypoglycemia unawareness (manglende eller nedsatt evne til å merke følinger).
+ Det er betydelige kostnader knyttet til uavbrutt bruk av en kontinuerlig vevsglukosemåler, hovedsakelig knyttet til bytte av sensor. De forskjellige systemene krever noe ulik tid til opplæring av brukerne, og de oppleves av brukerne som å ha noe ulik brukervennlighet og pålitelighet. Innkjøp av insulinpumper, kontinuerlige vevsglukosemålere og tilhørende forbruksmateriell skjer etter anbud via Sykehusinnkjøp HF (tidligere Helseforetakenes Innkjøpsservice, HINAS), som også har rangert utstyret og lagt føringer for hvilket utstyr som primært skal velges.
+For detaljer om hjelpemidler som insulinpumper og vevsglukosemålinger se Nasjonal veileder i endokrinologi, Insulinpumper og kontinuerlige vevsglukosemålere (CGM) (metodebok.no) .
+ Begrunnelse
+ Kunnskap og oppdaterte opplysninger om blodglukosenivået er en forutsetning for god blodsukkerregulering ved diabetes type 1, særlig etter at all egenproduksjon av insulin har opphørt. Målet om god blodsukkerregulering har både langsiktige (færre diabetiske senkomplikasjoner og mindre hjerte-/karsykdom) og kortsiktige (færre akutte komplikasjoner) mål. Kunnskap om blodglukose i ulike situasjoner er informasjon som kan gi grunnlag for hensiktsmessig adferd med hensyn til insulindosering, inntak av karbohydrater, trening, bilkjøring og andre gjøremål. Tradisjonell egenmåling av blodglukose med fingermålinger gir øyeblikksbilder av blodglukose, som ved systematisk bruk også kan gi brukeren opplysninger om typiske endringer i blodglukosenivå i situasjoner som etter måltider, i forbindelse med fysisk aktivitet, under bilkjøring og under søvn.
+De siste årene har det kommet flere studier som styrker kunnskapsgrunnlaget for at mange pasienter kan ha særskilte fordeler av å bruke kontinuerlig vevsglukosemåler fremfor egenmåling basert på kapillære fingermålinger. Utviklingen av vevsglukosesensorer (CGM) har de siste årene frembrakt pålitelig og brukervennlig utstyr som er velegnet for mange pasienter med diabetes type 1. Bruken av slikt utstyr vil for mange pasienter lette diabetesbehandlingen og også for mange føre til bedre blodsukkerkontroll, færre hypoglykemier og mindre frykt for insulinføling (ADA, 2019 (Diabetes Care)). Fortsatt mangler store systematiske kunnskapsoppsummeringer med harde endepunktsdata for nytteeffekt på kort og lang sikt, og det er ikke fullt ut avklart hvilke pasienter som kan nytte av utstyret, men det er dokumentert i randomiserte kontrollerte studier en viss reduksjon av HbA1c og redusert tid med hyperglykemi.
+ Les hele 
+ Vurdering
+ Fordeler og ulemper 
+ Egenmåling 
+ De aller fleste personer med diabetes type 1 bør måle blodglukose flere ganger daglig (vanligvis 4-8 ganger) for å kunne justere insulindosene i henhold til behovet. Det er en rekke situasjoner der enda hyppigere målinger vil være nødvendig i en periode - dette er beskrevet under Praktisk informasjon.
+ Kontinuerlig vevsglukosemåling (CGM) 
+ Enkelte pasientgrupper kan ha særlig fordel av å bruke kontinuerlig vevsglukosemåling i tillegg til egenmålinger med kapillær blodprøve (fingerstikk).
+ Verdier og preferanser 
+ For den som har diabetes er blodsukkermåling helt nødvendig verktøy for å kunne gjøre egenbehandlingen, regulere blodsukkeret og for å unngå uønskede hendelser. Det er viktig for å mestre skole, arbeid, fritidsaktiviteter, idrett og til bilkjøring. Det er også viktig for å kunne forstå hvordan mat, aktivitet, annen sykdom, og alt annet virker inn på blodsukkeret. Likevel er det noen som strever med motivasjon for å foreta de nødvendige målingene. Andre blir "avhengige" av hyppige målinger uten å kunne bruke resultatene til noe nyttig. Det er ikke vist noen sikker effekt av CGM på generell eller diabetesspesifikk livskvalitet (QoL) målt med validerte spørreskjemaer. Lavere blodsukker og HbA1c antas likevel å føre til en gunstig effekt på livskvaliteten. Samtidig vil bruk av kontinuerlig vevsglukosemåler kreve en del stell og pass, inkludert jevnlige kalibreringer, og CGM-systemene ofte vil «plage» brukeren med et antall alarmer som dels vil kunne være falske eller mindre viktige, noe som kan oppfattes negativt.
+Klinisk erfaring forteller at ekstraarbeid og falske/uviktige alarmer oppfattes svært ulikt blant brukerne. Toleransen for negative opplevelser vil også måtte avveies mot opplevd nytteverdi. For kontinuerlig vevsglukosemålinger har andre studier (enn meta-analysen som danner kunnskapsgrunnlaget) vist at effekten av tiltaket på HbA1c i stor grad avhenger av hvor stor del av samlet tid utstyret faktisk blir brukt, med best effekt dersom utstyret brukes minst 70-80 % av tiden. Effekten kan også være forskjellig i ulike aldersgrupper. Pasientenes preferanser vil være avgjørende for effekten av tiltaket. Særlig blant brukere med angst eller frykt for nattlige hypoglykemiske episoder, finnes eksempler på sterkt positive erfaringer med CGM på livskvalitet. Også for de som har problemer med reguleringen, problemer med å kjenne lave blodsukkernivåer og har følinger som går utover arbeid og skole, kan CGM være et nyttig verktøy.
+ Ressurshensyn 
+ Viser til Nasjonal veileder i endokrinologi, Insulinpumper og kontinuerlige vevsglukosemålere (CGM) (metodebok.no) .
+ Forskningsgrunnlag
+ PICO
+ Populasjon (P) 
+ Pasienter med diabetes type 1, alle aldre
+ Tiltak (I) 
+ Bruk av utstyr for kontinuerlig måling av vevsglukose i 12-52 uker
+ Sammenligning (C) 
+ Egenmåling av blodglukose med punktmålinger etter fingerstikk, utført minst 3 ganger daglig i 12-52 uker
+ Beskrivelse av inkluderte studier 
+ Evidensprofil (PDF) 
+ Etter gjennomgang av forskningsgrunnlaget for bruk av CGM ved utarbeidelsen av retningslinjen i 2014-2016 er det tilkommet betydelig ny kunnskap om emnet. Se Smith MB et al (2019), Messer LH et al (2018), Danne T et al (2017) og Petrie JR (2017).
+ Arbeidsgruppen har ikke hatt mulighet til å foreta en fullstendig oppdatering av evidensgrunnlaget, men har etter en forenklet gjennomgang og diskusjon konkludert med en mindre revisjon av anbefalingen.
+ Les hele 
+ Referanser
+ 267. Yeh, H. C., Brown, T. T., Maruthur, N., Ranasinghe, P., Berger, Z., Suh, Y. D., . . . Golden, S. H. 
+ Comparative effectiveness and safety of methods of insulin delivery and glucose monitoring for diabetes mellitus: a systematic review and meta-analysis. Ann Intern Med. 2012. 157. 5. 336-347. doi: 10.7326/0003-4819-157-5-201209040-00508. 
+ 268. L H Messer, R Johnson, K A Driscoll, J Jones. 
+ Best friend or spy: a qualitative meta-synthesis on the impact of continuous glucose monitoring on life with Type 1 diabetes.. Diabetic medicine : a journal of the British Diabetic Association. 2018. 35. 4. 409-418. 10.1111/dme.13568. 
+ 269. Thomas Danne, Revital Nimri, Tadej Battelino, Richard M Bergenstal, Kelly L Close, J Hans DeVries, Satish Garg, Lutz Heinemann, Irl Hirsch, Stephanie A Amiel, Roy Beck, Emanuele Bosi, Bruce Buckingham, Claudio Cobelli, Eyal Dassau, Francis J Doyle, Simon Heller, Roman Hovorka, Weiping Jia, Tim Jones, Olga Kordonouri, Boris Kovatchev, Aaron Kowalski, Lori Laffel, David Maahs, Helen R Murphy, Kirsten Nørgaard, Christopher G Parkin, Eric Renard, Banshi Saboo, Mauro Scharf, William V Tamborlane, Stuart A Weinzimer, Moshe Phillip. 
+ International Consensus on Use of Continuous Glucose Monitoring.. Diabetes care. 2017. 40. 12. 1631-1640. 10.2337/dc17-1600. 
+ 270. John R Petrie, Anne L Peters, Richard M Bergenstal, Reinhard W Holl, G Alexander Fleming, Lutz Heinemann. 
+ Improving the Clinical Value and Utility of CGM Systems: Issues and Recommendations: A Joint Statement of the European Association for the Study of Diabetes and the American Diabetes Association Diabetes Technology Working Group.. Diabetes care. 2017. 40. 12. 1614-1621. 10.2337/dci17-0043. 
+ 271. Madison B Smith, Anastasia Albanese-O'Neill, Tamara G R Macieira, Yingwei Yao, Joseph M Abbatematteo, Debra Lyon, Diana J Wilkie, Michael J Haller, Gail M Keenan. 
+ Human Factors Associated with Continuous Glucose Monitor Use in Patients with Diabetes: A Systematic Review.. Diabetes technology & therapeutics. 2019. 21. 10. 589-601. 10.1089/dia.2019.0136. 
+ 272. 
+ 7. Diabetes Technology: Standards of Medical Care in Diabetes-2019.. Diabetes care. 2019. 42. Suppl 1. S71-S80. 10.2337/dc19-S007. 
+ Lukk 
+ Siste faglige endring:
+ 20. desember 2019
+   |   Se tidligere versjoner 
+ Oppstart og valg av insulin ved diabetes type 1 
+ Anbefaling - Sterk 
+ Sterk anbefaling vil gjelde for de aller fleste pasienter i de aller fleste situasjoner. Uttrykk som brukes er "bør" og "anbefaler". Hvis anbefalingen er så klart faglig forankret at det sjelden er forsvarlig ikke å følge den, brukes uttrykkene "skal" og "må".
+ Standard insulinbehandling ved diabetes type 1 er en kombinasjon av langtidsvirkende insulinanalog eller NPH-insulin og hurtigvirkende insulinanalog.
+ Det vises til gjeldende refusjonsvilkår fra Direktoratet for medisinske produkter.
+ Praktisk informasjon
+ Type insulin (ATC-kode) Virkestoff ATC-kode Innsettende effekt/maks effekt (a) Virkningsvarighet (etter preparatomtalen) 
+ Hurtigvirkende insulinanalog (b) - A10AB Insulin glulisin
+ A10AB06
+ 10-20 min/0,5-2 timer 3-5 timer 
+   Insulin lispro A10AB04 10-20 min/0,5-2 timer 3-5 timer 
+   Insulin aspart A10AB05 10-20 min/0,5-2 timer 3-5 timer 
+ Hurtigvirkende humant insulin - A10AB01 Insulin (human) A10AB01 0,5 timer/1-3 timer 7-9 timer 
+ Middels langtidsvirkende insulin (human, NPH) - A10AC 
+ Insulin (human) A10AC01     
+ Langtidsvirkende insulinanalog - A10AE Insulin glargin
+ A10AE04
+ (c) 16-36 timer – varierer mellom de ulike preparatene 
+   Insulin glargin (biosimilar) A10AE04 (c) 16-24 timer 
+   Insulin detemir A10AE05 (c) opptil 24 timer 
+   Insulin degludec A10AE06 (c) opptil 48 timer 
+ Blanding av hurtigvirkende og middels langtidsvirkende insulinanalog - A10AD Insulin lispro
+ Insulin aspart
+ A10AD04
+ A10AD05
+ 10-20 min/1-4 timer Inntil 20 timer 
+ a) De angitte tidene er gjennomsnittstall. Virkningstiden avhenger av en rekke faktorer som injeksjonssted, muskelaktivitet ved injeksjonsstedet, temperatur osv. og kan variere med 25-30 % hos samme pasient fra dag til dag, og 50 % fra pasient til pasient
+ b) Insulin i oppløsning kan gis subkutant, intramuskulært og intravenøst
+ c) Preparatene har lenger virketid enn NPH-insulin og mindre uttalt virkningsmaksimum. Virketiden er doseavhengig og viser betydelig intra- og interindividuell variasjon
+ Middels langtidsvirkende insulin (human) og blandingsinsuliner må blandes godt før bruk. For fullstendig omtale, se Felleskatalogen og Norsk Legemiddelhåndbok .
+ ATC-kodene i tabellen er hyperlenker til Direktoratet for medisinske produkter. 
+ Henvisning til spesialist/poliklinikk
+ Alle pasienter som får påvist diabetes type 1 (eller der det er sterk mistanke om diabetes type 1) bør henvises til spesialistpoliklinikk. For gravide, er det aktuelt å henvise også dem med HbA1c mellom 41 og 47 mmol/mol (5,9 % og 6,4 %). De bør henvises til poliklinikk som behandler kvinner med diabetes i svangerskap for individuell vurdering og oppfølging (se Nasjonalt retningslinje for svangerskapsdiabetes, kapittel 4.1).
+ For enkelte pasientkategorier er det særlig viktig at henvisning til spesialisthelsetjenesten skjer raskt, eventuelt som øyeblikkelig hjelp:
+ ved nyoppdaget diabetes hos barn og unge (øyeblikkelig hjelp)
+ ved mistanke om ketoacidose i alle aldre (innlegges som øyeblikkelig hjelp)
+ ved svært høyt blodsukkernivå (> 25-30 mmol/l)
+ Oppstart av insulinbehandling ved diabetes type 1
+ Standardbehandling er mangeinjeksjonsbehandling med kombinasjon av basalinsulin og måltidsinsulin. Som basalinsulin har langtidsvirkende insulinanalog noen fordeler (mindre variasjon i absorbsjon, ofte færre injeksjoner, mindre hypoglykemi), men NPH-insulin kan også brukes. Per i dag foreligger ikke en oppdatert helseøkonomisk vurdering som understøtter bruk av langtidsvirkende insulinanalog til alle pasienter med diabetes type 1. Vilkår for forskrivning av disse legemidlene på blå resept vil fremkomme av gjeldende refusjonsvilkår. Som måltidsinsulin foretrekkes hurtigvirkende insulinanalog. Mange pasienter oppnår delvis remisjon av sykdommen etter oppstart av insulinbehandling og kan ofte klare seg med enklere insulinregimer med lave doser i noen måneder, av og til betydelig lenger. Enkelte pasienter har tilstrekkelig restproduksjon av insulin og/eller har et svært regelmessig levevaner som gjør at de kan klare seg med enklere regimer gjennom flere år.
+ Ved diabetes type 1 er nødvendig døgndose som regel 0,5-1 E per kg kroppsvekt, mens startdosen kan være lavere. Ved et mangeinjeksjonsregime gis ofte 1/3-1/2 av døgnbehovet som basalinsulin (insulin human) og resten som måltidsinsulin. Størstedelen av dosen med basalinsulin gis vanligvis om kvelden, men for å sikre tilstedeværelse av noe insulin hele dagen (mellom måltidene) anbefales ofte en liten morgendose insulin (human); ofte omkring halvparten av kveldsdosen. Måltidsinsulinet fordeles etter måltidenes innhold av karbohydrater.
+ Intensivert insulinbehandling - på to måter:
+ Hurtigvirkende insulin eller insulinanalog til måltider og middels langtidsvirkende insulin (human) eller langtidsvirkende insulinanalog ved sengetid eller to ganger i døgnet ("mangeinjeksjonsbehandling"). Insulinet settes subkutant, som oftest med insulinpenn.
+ Behandling med insulinpumpe med hurtigvirkende insulin (i dag oftest hurtigvirkende insulinanalog) som gir kontinuerlig basaldose som subkutan infusjon hele døgnet, med tillegg av ekstra doser ved måltider eller måltid i situasjoner med behov for ekstra insulin.
+ Opplæring
+ Opplæring i egenkontroll av blodsukker er nødvendig og som regel en forutsetning for å lykkes med behandlingen. Målinger kan også foretas av pårørende eller hjemmesykepleien. Det er viktig at pasienten får god opplæring og at det er lett å komme i kontakt med kvalifisert helsepersonell, særlig den første tiden etter oppstart av behandlingen.
+ Målglukose
+ Med målglukose menes glukoseverdien målt på det tidspunkt som er mest egnet for å justere den aktuelle insulindosen. Eksempel: kveldsdose med insulin (human) styres etter fastende glukose, og måltidsdosene for hurtigvirkende insulin justeres etter glukoseverdien to timer etter det aktuelle måltidet. Ved bruk av insulin (human) om morgenen er målglukose den verdien som måles før middag.
+ Begrunnelse
+ Med intensivert insulinbehandling mener vi bruk av langtidsvirkende insulin 1-2 ganger daglig og hurtigvirkende insulin eller insulinanalog til måltidene og ved ekstra behov, i kombinasjon med hyppig og helst systematisk egenmåling av blodglukose eller vevsglukose, gjerne med tett oppfølging av trenet personell. Også bruk av insulinpumpe og hyppige egenmålinger regnes som intensiv eller intensivert insulinbehandling.
+ Som mindre intensiv insulinbehandling regnes enklere insulinregimer med færre daglige insulininjeksjoner, eventuelt bare middels langtidsvirkende insulin eller blandingsinsulin 1-2 ganger i døgnet, uten hyppig og systematisk egenmåling. Dette er likevel behandlingsopplegg som hos enkelte kan fungere godt i en periode etter debut av diabetes type 1, så lenge det fortsatt er en viss egenproduksjon av insulin. Det er gjort en lang rekke studier der intensive insulinbehandlingsopplegg er sammenlignet med mindre intensive opplegg, oppsummert i en Cochranerapport fra 2014 (Fullerton et al., 2014). Se anbefalingen Behandlingsmål ved diabetes type 1 .
+ Les hele 
+ Referanser
+ 262. Fullerton, B., Jeitler, K., Seitz, M., Horvath, K., Berghold, A., & Siebenhofer, A. 
+ Intensive glucose control versus conventional glucose control for type 1 diabetes mellitus. Cochrane Database Syst Rev, 2, CD009122. 2014. doi: 10.1002/14651858.CD009122.pub2.. 
+ Lukk 
+ Siste faglige endring:
+ 14. september 2016
+   |   Se tidligere versjoner 
+ Bruk av insulinpumpe ved diabetes type 1 
+ Anbefaling - Svak 
+ Svak anbefaling brukes når ulike valg vil kunne være riktig, avhengig av pasient og situasjon. Uttrykk som brukes er "kan" og "foreslår".
+ Behandling med insulinpumpe kan sidestilles med mangeinjeksjonsbehandling. Pasienter som har fått god informasjon, bør få anledning til å prøve insulinpumpe, hvis de ønsker det.
+ Bruk av insulinpumpe kan særlig være aktuelt ved store svingninger i blodsukkernivå, nattlige hypoglykemier eller høy HbA1c, og hos pasienter som trenger stor grad av fleksibilitet i insulindoseringen på grunn av skiftarbeid, variabel fysisk aktivitet og lignende.
+ Insulinpumpe kan gi pasienten større fleksibilitet i måltidsplanlegging og variasjon i fysisk aktivitetsnivå.
+ Praktisk informasjon
+ Vurder behovet for insulinpumpe 
+ Insulinpumpe gir kontinuerlig subkutan tilførsel av hurtigvirkende insulin eller insulinanalog. Pumpen programmeres til å gi en viss mengde insulin hver time i løpet av døgnet (basaldose). I tillegg setter pasienten insulin til hvert måltid ved hjelp av pumpen. Disse måltidsdosene må justeres i forhold til aktivitet og måltidsstørrelse som ved mangeinjeksjonsbehandling. Noen synes at bruk av insulinpumpe forenkler hverdagen med diabetes, mens andre opplever pumpebehandlingen som krevende. Fordi det ikke foreligger noe depot av langsomvirkende insulin, er pasienten mer utsatt for ketoacidose dersom insulintilførselen svikter (brudd i slangen, nålen glir ut, tekniske problemer med pumpen og lignende).
+Indikasjoner for å vurdere insulinpumpe kan være:
+ hyppige, alvorlige hypoglykemier, eventuelt med manglende evne til å merke følinger
+ sterkt svingende blodglukosenivå med hyppige følinger, særlig om natten
+ høy HbA1c
+ dårlig blodglukoseregulering om natten, spesielt ved sterkt varierende fastende blodglukose
+ pasienter som "glemmer" insulininjeksjonene
+ pasienter som trenger stor grad av fleksibilitet i insulindoseringen (skiftarbeid, variabel fysisk aktivitet)
+ pasienter som ønsker å prøve insulinpumpe
+ Krav til bruker 
+ Man må kunne forvente en høy grad av samarbeidsevne og ansvarsfølelse, særlig når det gjelder evnen til å vurdere risiko for og tiltak ved eventuell utvikling av ketoacidose. Alkohol- og rusmisbruk er en kontraindikasjon mot pumpebehandling. Vellykket og trygg insulinpumpebruk krever nøye opplæring og aktiv medvirkning fra pasienten. En forutsetning er at pasienten lærer å bruke boluskalkulator.
+ Oppstart i spesialisthelsetjenesten 
+ Oppstart av pumpebehandling vil som regel skje i spesialisthelsetjenesten. Det er vanlig å redusere total døgndose med insulin med 10-20 % avhengig av blodglukosekontrollen. Ca. 50 % av denne dosen gis som basaldose, resten fordeles til måltidene etter en vurdering av måltidenes karbohydratinnhold, etter samme prinsipper som ved mangeinjeksjonsbehandling. Ved oppstart av behandlingen velger de fleste å fordele basaldosen jevnt over døgnet, alternativt å gi litt lavere basaldose tidlig på natten og litt høyere fram mot morgenen. Både basal- og måltidsdosene må justeres etter resultatene av egenmålingene.
+Helseforetakene har en felles, anbudsbasert innkjøpsordning for insulinpumper og kontinuerlige glukosemålere. Se utfyllende informasjon på Sykehusinnkjøp HF . For detaljer om hjelpemidler som insulinpumper og vevsglukosemålinger se Nasjonal veileder i endokrinologi, Insulinpumper og kontinuerlige vevsglukosemålere (CGM) (metodebok.no) .
+ Begrunnelse
+ Behandling med insulinpumpe er assosiert med lavere HbA1c, bedre pasienttilfredshet, høyere livskvalitet og færre hypoglykemier enn multiinjeksjonsbehandling. Fordelene kan økes ved å kombinere insulinpumpe med CGM. Pasientfaktorer er avgjørende for hvorvidt pumpebehandling blir vellykket (Giani et al., 2015).
+ Les hele 
+ Referanser
+ 265. Ramotowska A, Golicki D, Dżygało K, Szypowska A. 
+ The effect of using the insulin pump bolus calculator compared to standard insulin dosage calculations in patients with type 1 diabetes mellitus - systematic review. Exp Clin Endocrinol Diabetes. 2013. May;121(5):248-54. 
+ 266. Elisa Giani, Andrea Enzo Scaramuzza, and Gian Vincenzo Zuccotti. 
+ Impact of new technologies on diabetes care. World J Diabetes. 2015. Jul 25; 6(8): 999–1004. 
+ Lukk 
+ Siste faglige endring:
+ 20. desember 2019
+   |   Se tidligere versjoner 
+ Siste faglige endring: 20. desember 2019
+ Skriv ut / lag PDF 
+ Til toppen
+ Om Helsedirektoratet
+ Om oss
+ Jobbe hos oss
+ Kontakt oss
+ Postadresse: 
+Helsedirektoratet
+Postboks 220, Skøyen
+0213 Oslo
+ Aktuelt
+ Nyheter
+ Arrangementer
+ Høringer
+ Presse
+ Om nettstedet
+ Personvernerklæring
+ Tilgjengelighetserklæring (uustatus.no)
+ Besøksstatistikk og informasjonskapsler
+ Nyhetsvarsel og abonnement
+ Åpne data (API)
+ Følg oss:

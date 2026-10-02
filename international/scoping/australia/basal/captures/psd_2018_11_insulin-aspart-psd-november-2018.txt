@@ -1,0 +1,829 @@
+                          Public Summary Document – November 2018 PBAC Meeting
+
+
+5.08 INSULIN ASPART,
+Injections, 100 units per mL, 1 x 10 mL vial
+Injections, 100 units per mL, 5 x 3 mL cartridges
+Injections, 100 units per mL, 5 x 3 mL injection devices
+Fiasp®, Novo Nordisk Pharmaceuticals Pty Ltd
+1         Purpose of Application
+1.1       The submission requested an unrestricted listing for insulin aspart (Fiasp®) for
+          treatment of type 1 and type 2 diabetes mellitus (T1DM and T2DM).
+1.2       An existing formulation of insulin aspart (NovoRapid®) is already listed on the PBS. The
+          new formulation, Fiasp, has a faster onset of action resulting from the addition of the
+          excipient niacinamide.
+1.3       Table 1 summarises key components of the clinical issues addressed by the
+          submission.
+Table 1: Key components of the clinical issues addressed by the submission
+ Component                                                       Description
+ Population     Patients with Type 1 and Type 2 diabetes mellitus requiring bolus insulin.
+                Insulin aspart (Fiasp) delivered either as bolus subcutaneous injections or via external continuous
+ Intervention
+                subcutaneous insulin infusion (CSII).
+ Comparator     Insulin aspart (NovoRapid)
+ Outcomes       Glycaemic control measured by mean decrease in HbA1c, post prandial glucose, rates of hypoglycaemia.
+                The submission claimed insulin aspart (Fiasp®) to be no worse than insulin aspart (NovoRapid) at
+ Clinical claim
+                improving HbA1c and no worse in terms of safety.
+Source: compiled during the evaluation based on information contained in Table 1.1.1, p17 of the submission.
+
+
+2         Requested listing
+2.1       Suggestions and additions proposed by the Secretariat to the requested listing are
+          added in italics and suggested deletions are crossed out with strikethrough
+
+
+
+
+                                                                   1
+                         Public Summary Document – November 2018 PBAC Meeting
+
+ Name, restriction, manner          Maximum           Maximum        No. of       Dispensed price         Proprietary name
+ of administration, form            quantity          quantity       repeats      for maximum             and manufacturer
+                                     (packs)           (units)                    quantity (DPMQ)
+ Fast-acting insulin aspart,            5                 5               2       $143.39*                Fiasp Vial, Novo
+ 100units/mL injection,                                                                                   Nordisk
+ 1x10mL vial
+ Fast-acting insulin aspart             5                 5               1       $240.84*                Fiasp FlexTouch,
+ 100units/mL injection,                                                                                   Novo Nordisk
+ 5x3mL pre filled pens
+ Fast-acting insulin aspart             5                 5               1       $240.84*                Fiasp Penfill, Novo
+ 100units/mL injection,                                                                                   Nordisk
+ 5x3mL cartridges
+*updated during the evaluation based on sponsor prices stated in PB11 using latest dispensing and administration, handling and
+infrastructure (AHI) fees from 1 July 2018.
+Source: Adapted using Table 1.4.1, p32 of the submission and PB11 form accompanying the submission.
+
+
+2.2       An unrestricted PBS listing was requested for Fiasp, which is consistent with the listing
+          of other fast acting insulin preparations on the PBS.
+2.3       The submission requested that, as per Section 5.7 of the Strategic Agreement between
+          the Commonwealth and Medicines Australia, the DPMQ of Fiasp be equivalent to the
+          price of NovoRapid prior to the application of the 14.5% Statutory Price Reduction that
+          was applied on 1 June 2018. The ESC noted that this is a matter for the Minister (or
+          delegate).
+2.4       The PSCR highlighted that the submission assumed that Section 99ACB of the National
+          Health Act 1953 did not apply to Fiasp and NovoRapid, that is, that Fiasp was not a
+          new brand of the existing pharmaceutical item insulin aspart given their different
+          pharmacokinetic and pharmacodynamics profiles.
+2.5       The potential use of Fiasp on the PBS may be broader than its TGA approved
+          indication, which is for treatment of diabetes mellitus in adults. The lack of data for
+          safety and efficacy in children was a concern for the TGA, particularly as more children
+          are affected by T1DM. The TGA evaluator considered the use of a fast acting insulin
+          with meals has many advantages in children (particularly toddlers), where food refusal
+          can be problematic. The TGA considered off label use in this population was therefore
+          likely. Given the unrestricted nature of the requested listing, use in children would
+          also be likely on PBS. Additionally NovoRapid is approved for use in both children and
+          adults. The PSCR stated that clinical data on use of Fiasp in paediatrics with T1DM has
+          become available and that should Fiasp become listed on the PBS, the sponsor would
+          consider seeking TGA registration in paediatric patients.
+          For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+
+
+
+                                                              2
+                 Public Summary Document – November 2018 PBAC Meeting
+
+3     Background
+Registration status
+3.1   Fiasp (in vial, Penfill and Flextouch preparations) was approved by the TGA (28 June
+      2017) for the following indication: “Treatment of diabetes mellitus in adults”.
+
+Previous PBAC consideration
+3.2   This was the first PBAC submission for Fiasp. The existing formulation of insulin aspart,
+      NovoRapid, was considered by the PBAC in March 2000 and was first listed on the PBS
+      in 2002.
+
+4     Population and disease
+4.1   Diabetes (type 1 and type 2) is a chronic metabolic disorder characterised by elevated
+      levels of blood glucose. Long-term complications of the disease, which are a
+      consequence of continuously prolonged hyperglycaemia, include retinopathy,
+      nephropathy, neuropathy and cardiovascular disease (Campbell and Martin 2009).
+      These complications have a considerable impact on health, a negative impact on
+      health-related quality of life (HRQoL) (Rubin and Peyrot 1999, UK Prospective Diabetes
+      Study Group 1999), and represent a significant proportion of the economic burden of
+      diabetes mellitus (Baker IDI Heart and Diabetes Institute in partnership with Diabetes
+      Australia and Juvenile Diabetes Research Foundation (JDRF) 2012, Schofield et al.
+      2017).
+4.2   Insulin aspart (Fiasp) will provide another treatment option for patients with T1DM
+      and T2DM requiring a combination of a basal and a prandial insulin to maintain
+      appropriate glycaemic control.
+
+5     Comparator
+5.1   The submission nominated insulin aspart (NovoRapid) as the main comparator. While
+      three fast acting insulins are listed on the PBS (insulin aspart (NovoRapid®), insulin
+      lispro (Humalog®) and insulin glulisine (Apidra®)), PBS utilisation data indicated insulin
+      aspart (NovoRapid®) to have approximately 80% of the current market share.
+5.2   The submission considered that despite differing formulations, NovoRapid was the
+      appropriate main comparator as it contains the same drug as Fiasp.
+5.3   The nomination of the main comparator was reasonable; however, given all fast acting
+      insulins were listed on a cost minimisation basis to each other, all PBS listed fast acting
+      insulins could therefore be replaced by Fiasp in practice. Based on the PBS Therapeutic
+      Relativity Sheets:
+            insulin lispro (Humalog) was accepted for listing on the basis of advantage
+             (taken directly before a meal) over short acting insulin;
+
+
+                                              3
+                  Public Summary Document – November 2018 PBAC Meeting
+
+              insulin aspart (NovoRapid) was accepted on a cost minimisation basis
+               compared with insulin lispro (unit for unit); and
+              insulin glulisine (Apidra) was recommended for listing on a cost minimisation
+               basis compared to insulin lispro with the equi-effective doses being 1 unit of
+               insulin glulisine = 1 unit of insulin lispro.
+5.4    Current PBS listings indicate NovoRapid and Humalog to have identical pricing on a
+       unit to unit basis, whereas the DPMQs of insulin glulisine (Apidra) are approximately
+       5% higher for both its cartridge and vial formulations.
+5.5    The ESC considered the main comparator to be reasonable due to similarity in
+       formulation. The ESC noted that other fast acting insulins listed on the PBS may also
+       be relevant comparators.
+       For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+6      Consideration of the evidence
+Sponsor hearing
+6.1    There was no hearing for this item.
+Consumer comments
+6.2    The PBAC noted and welcomed the input from a health care professional (1) and an
+       organisation (1) via the Consumer Comments facility on the PBS website. The
+       comments described the positive impact on target blood glucose levels obtained
+       through an insulin product that can be administered with, rather than prior to, a meal.
+6.3    The PBAC noted the advice received from JDRF Australia welcoming any product that
+       allows for faster action of insulin in the T1DM community.
+Clinical trials
+6.4    The submission was based on four head-to-head randomised trials comparing Fiasp to
+       NovoRapid. The trial evidence included:
+          One RCT in patients with T2DM (bolus/basal regimen): onset 2 (results reported at
+           26 weeks).
+          Three RCTs in patients with T1DM:
+            - One RCT using bolus/basal regimen: onset 1 (results reported at 26 and 52
+               weeks); and
+            - Two RCTs of using continuous subcutaneous insulin infusion (CSII) systems:
+               onset 4 and onset 5 (results reported at 6 and 16 weeks, respectively). The
+               onset 4 trial was a short trial of 6 weeks treatment duration, with the primary
+               objective of evaluating the compatibility of Fiasp and NovoRapid® with CSII, it
+               was therefore considered to be supportive evidence to the onset 5 trial.
+
+
+                                              4
+                           Public Summary Document – November 2018 PBAC Meeting
+
+
+6.5        The ESC noted only a single study was provided to support the claim of non-inferiority
+           for T2DM patients.
+6.6        With the exception of onset 4, all included trials were non-inferiority trials reporting
+           the primary outcome: change from baseline in glycosylated haemoglobin (HbA1c),
+           with the pre-specified non-inferiority margin of 0.4%. The submission’s non-inferiority
+           claim was also based on this outcome and margin. Both the nominated outcome and
+           non-inferiority margin had previously been accepted by the PBAC. The ESC noted that
+           this outcome was reasonable.
+6.7        Details of the trials presented in the submission are provided in Table 2.
+Table 2: Trials and associated reports presented in the submission
+Trial ID                                  Protocol title/ Publication title                        Publication citation
+                     Efficacy and Safety of FIAsp Compared to Insulin Aspart Both in
+                     Combination with Insulin Detemir in Adults with Type 1 Diabetes.           September 2015
+onset 1(26 weeks)
+                     Russell-Jones D, Bode BW, De Block C et al. Fast-acting insulin aspart
+                     improves glycemic control in basal-bolus treatment for type 1 diabetes: Diabetes Care 2017;
+                     Results of a 26-week multicentre, active-controlled, treat-to-target,      40(7):943-950
+                     randomised, parallel-group trial (onset 1).
+                     Efficacy and Safety of FIAsp Compared to Insulin Aspart Both in
+                     Combination with Insulin Detemir in Adults with Type 1 Diabetes. This
+                                                                                                January 2016
+                     report covers the entire 52-week treatment period.
+onset 1 (52 weeks)
+                     Mathieu C, Bode BW, Franek E et al. Efficacy and safety of fast-acting
+                                                                                                Diabetes Obes Metab.
+                     insulin aspart in comparison with insulin aspart in type 1 diabetes (onset
+                                                                                                2018; 20: 1148-1155.
+                     1): A 52-week, randomized, treat-to-target, phase III trial.
+                     Efficacy and Safety of FIAsp Compared to Insulin Aspart Both in
+                     Combination with Insulin Glargine and Metformin in Adults with Type 2
+onset 2                                                                                         September 2015
+                     Diabetes.
+
+                        Bowering K, Case C, Harvey J et al. Faster aspart versus insulin aspart
+                                                                                                      Diabetes Care 2017;
+                        as part of a basal-bolus regimen in inadequately controlled type 2
+                                                                                                      40:951-957.
+                        diabetes: The onset 2 trial.
+                        A 6-Week Randomised, Double-Blind, Parallel-Group Trial Evaluating
+                        Compatibility and Safety of FIAsp and Insulin Aspart with an External
+onset 4                                                                                               September 2015
+                        Continuous Insulin Infusion System in Adult Subjects with Type 1
+                        Diabetes.
+                                                                                                      Journal of Diabetes Science
+                        Zijlstra E, Demissie M, Graungaard T et al. Investigation of pump
+                                                                                                      and Technology 2018;
+                        compatibility of fast-acting insulin aspart in subjects with type 1 diabetes.
+                                                                                                      12(1): 145-151.
+                        Efficacy and Safety of Continuous Subcutaneous Insulin Infusion of
+onset 5                 Faster-acting Insulin Aspart compared to NovoRapid® in Adults with            February 2018
+                        Type 1 Diabetes.
+Note: only main trial citations have been included in this table.
+a This trial appears to only be identified in the submission from a literature search conducted in PubMed on 30th May 2018 to identify any
+
+additional studies pertaining to the safety profile on Fiasp.
+Source: Table 2.2.2, pp.39-41 of the submission.
+
+
+6.8        The key features of the direct randomised trials are summarised in Table 3.
+
+                                                                    5
+                            Public Summary Document – November 2018 PBAC Meeting
+
+Table 3: Key features of the included evidence
+                                                                                                                                     Use in
+                                                                    Risk of        Patient                     Main
+Trial                  N              Design/ duration                                                                             modelled
+                                                                     bias         population                 Outcomes
+                                                                                                                                   evaluation
+Fast aspart (Fiasp) versus insulin aspart (NovoRapid®)
+                         R, MC, P3, AC, TTT, DB (meal Low (for
+                            time dose arms Fiasp and mealtime                                              ∆ HbA1c W26
+onset 1 (26               NovoRapid®) and open label arms)                                                     ∆ PPG
+                 1143                                                 Adults with                                                       NA
+weeks data)                 post meal Fiasp dose arm, High for                                             ∆ body weight
+                                                                    T1DM, use in
+                           non-inferiority approach, 8W   post                                          Hypoglycaemia events
+                                                                 combination with
+                             run-in*, W26 to W52 only meal arm
+                                                                      daily or BD
+                             compared the 2 mealtime
+                                                                   insulin detemir                       ∆ HbA1c W52
+                          insulin arms (investigator and
+onset 1 (52                                                          (NovoLog®)                               ∆ PPG
+                 1143      participant remain blinded to Unclear                                                                        NA
+weeks data)                                                                                               ∆ body weight
+                           assignment, but the sponsor
+                                                                                                      Hypoglycaemia events
+                                became unblinded).
+                                                                      Adults with
+                                                                       T2DM, in
+                                                                                                         ∆ HbA1c W26
+                          R, MC, DB, P3, AC, TTT, 8W             combination with
+                                                                                                              ∆ PPG
+onset 2           689      run in*, 26W treatment, non-   Low     insulin glargine                                                      NA
+                                                                                                          ∆ body weight
+                                inferiority approach              and metformin,
+                                                                                                      Hypoglycaemia events
+                                                                 baseline HbA1c
+                                                                        7-9.5%.
+                                                                                                    Safety & feasibility of CSII
+                                                                                  Adults with
+                                                                                                                W6
+                                                                                   T1DM, no
+                                R, 2 centre, P3a, DB, 2W run                                               ∆ HbA1c W6
+                                                                                additional anti-
+onset 4 (CSII)         37             in#, 6W treatment,              Low                                      ∆ PPG                    NA
+                                                                                    diabetes
+                                   administration via CSII.                                          Hypoglycaemia events
+                                                                                  treatments
+                                                                                                      Infusion set occlusion
+                                                                                    allowed.
+                                                                                                              events
+                                                                                                           ∆ HbA1c W26
+                               R, MC, DB, P3b, AC, TTT, 4W
+                                                                                                               ∆ PPG
+                                  run in^, 26W treatment,                          Adults with
+onset 5 (CSII)        472                                             Low                                   ∆ body weight               NA
+                                   administration via CSII                           T1DM
+                                                                                                     Hypoglycaemia events
+                                  non-inferiority approach
+                                                                                                       Infusion set changes
+Abbreviations: DB=double blind; MC=multi-centre; OL=open label; AC=active controlled, TTT=treat to target, R=randomised,
+CSII=continuous subcutaneous insulin infusion, W=weeks, BD=twice daily, HbA1c=glycosylated haemoglobin, P=phase.
+* to optimise basal insulin
+# during the 2 week run in period, all subjects were switched from their previous rapid-acting analog treatment to insulin aspart. Subjects’
+
+  knowledge on using an insulin pump, handling of transfusion sets, and keeping a travel diary was reinforced.
+^ The 4-week run-in period was primarily for reinforcement of subject training in trial procedures, diabetes education and collecting baseline
+  assessments
+Source: complied during evaluation based on information presented on pp42-44 of the submission.
+
+6.9        Attrition and overall risk of bias was low in each of the key trials except for onset 1. In
+           onset 1, treatment assignment to the post meal Fiasp was unblinded to patients and
+           investigators, and beyond Week 26, although the investigators and participants
+           remained blinded to treatment assignment in the other two meal time dose arms,
+           concealment was broken to the sponsor. While the full implication of unblinded
+           treatment was unclear, as the main outcome was change in HbA1c from baseline,
+           which was an objective measurement, it was unlikely to be impacted significantly.
+
+
+
+                                                                      6
+                  Public Summary Document – November 2018 PBAC Meeting
+
+6.10   Flow of patients through the randomised double-blind treatment period: each trial
+       included a run-in period prior to randomisation. The numbers of patients lost to follow
+       up or discontinued were similar between the treatment arms in the included trials.
+       The most common reason for discontinuation was decision by subject.
+6.11   Key inclusion and exclusion criteria in the included trials: the trials generally enrolled
+       similar patient populations, consisting of adult diabetic patients. The main difference
+       was that the onset 2 trial enrolled T2DM patients whilst the other three trials enrolled
+       T1DM patients. All trials required patients to have inadequate glycaemic control at
+       trial entry, demonstrated by a HbA1c level of between 7.0% and 9.5% in onset 1 and
+       onset 2, between 7.0% and 9.0% in onset 5, and a level of less or equal to 9.0% in onset
+       4. In clinical practice, inadequate glycaemic control is indicated by a HbA1c level >
+       7.0%.
+6.12   Baseline patient characteristics: randomisation appeared successful within most trials.
+       Where differences were detected, the noted differences were small and were unlikely
+       to impact on the results. Between the trials, patient characteristics at baseline were
+       broadly similar in patients with T1DM (onset 1, onset 4 and onset 5). Patients with
+       T2DM (onset 2) were on average older (59.5 years in onset 2 versus 34.7-46.1 years),
+       heavier (88-89 kg vs 76 and 84 kg) and had higher baseline BMI (31 kg/m2 (vs 25-27
+       kg/m2) than T1DM patients in other included trials. Consistent with the natural history
+       of the disease, T2DM patients in the onset 2 trial also had the shortest duration of
+       diabetes (12.3-13.2 years) versus T1DM patients (19.3-25.9 years).
+6.13   Broadly, the included trials employed similar dosing regimens with similar target blood
+       glucose levels for basal and bolus insulin doses. The dosing of Fiasp, NovoRapid and
+       concomitant medications were also consistent with the PIs, and reflected
+       recommended Australian practice. The majority of the trials had compared meal time
+       Fiasp to meal time NovoRapid, with the exception of the onset 1 trial, which also
+       included an open label treatment arm administering Fiasp at 20 minutes after the start
+       of the meal.
+6.14   The ESC noted the trial evidence provided with the submission and agreed that the
+       data were broadly applicable to the Australian setting.
+
+Comparative effectiveness
+6.15   Table 4 summarises the main outcomes from the included trials.
+
+
+
+
+                                               7
+                        Public Summary Document – November 2018 PBAC Meeting
+
+Table 4: Summary of main outcomes in the trials
+                                           Diff in % patient attaining ∆ PPG increment (mmol/L)                        Diff in
+                                Diff in            RD (95% CI)a                 (%, 95% CI)a           ∆ body     hypoglycaemic
+ Trial ID Comparison          ∆HbA1c                                                                 weight (kg)      eventsd
+                           (%, 95% CI)a HbA1c <7.0% HbA1c ≤6.5% 1h post meal 2h post meal (%, 95% CI)a               rate ratio
+                                                                                                                     (95% CI)c
+          Fiasp meal vs         -0.15          0.05            0.02        -1.18           -0.67         0.12           1.01
+onset 1 NovoRapid®         (-0.23; -0.07) (-0.01, 0.12) (-0.03, 0.07) (-1.65, -0.71) (-1.29, -0.04) (-0.30, 0.55)   (0.88, 1.15)
+(26 wks) Postmeal Fiasp vs       0.04         -0.05           -0.04         0.93            0.30         0.16           0.92
+          NovoRapid®        (-0.04; 0.12) (-0.11, 0.01) (-0.09, 0.00) (0.46, 1.40) (-0.34, 0.93)^ (-0.27, 0.58)     (0.81, 1.06)
+onset 1 Meal Fiasp vs           -0.10         -0.01            0.00        -0.91           -0.42         0.13           1.01
+(52 wks) NovoRapid         (-0.19; -0.00) (-0.07, 0.05) (-0.04, 0.04) (-1.40, -0.43) (-1.11, 0.27) (-0.38, 0.65)    (0.88, 1.15)
+          Meal Fiasp vs         -0.02         -0.01           -0.02        -0.59           -0.36         0.00           1.09
+onset 2
+          NovoRapid         (-0.15; 0.10) (-0.08, 0.05) (-0.09, 0.06) (-1.09, -0.09) (-0.81, 0.08) (-0.60, 0.61)    (0.88, 1.36)
+onset 4 CSII: Fiasp vs          -0.14          0.19            0.16                        -0.77
+                                                                              -                            -              -
+(6wks)    NovoRapid®        (-0.40, 0.11) (-0.09, 0.48) (-0.07, 0.39)                  (-2.06, 0.51)
+          CSII: Fiasp vs         0.09         -0.03                        -0.91           -0.90        -0.43           1.00
+onset 5                                                          -
+          NovoRapid®         (0.01; 0.17) (-0.10, 0.05)                (-1.43,-0.39) (-1.58,-0.22) (-0.81, -0.06) (0.85, 1.16)
+Bolded typography indicates statistically significant results.
+Abbreviations: PPG, postprandial glucose, BG, blood glucose
+a Intervention versus NovoRapid®, b All hypoglycaemic events, c Rate ratio of events/100 patient years of exposure was
+
+calculated on FAS d severe or BG confirmed
+Source: compiled during the evaluation, using Tables 2.5.1, 2.6.1-2.6.2 and ES.3 of the submission.
+
+HbA1c outcomes in the trials
+6.16     The ESC agreed that based on HbA1c outcomes from the included trials, the
+         submission’s claim of non-inferiority between Fiasp and NovoRapid® appears
+         reasonable. The following results were noted:
+              Both Fiasp (administered 0-2min before meal or 20min after the start of a meal)
+               and NovoRapid (administered 0-2min before meal) were associated with
+               significant reductions in HbA1c from baseline.
+              In patients with T1DM, the reductions in HbA1c were significantly larger for meal
+               time Fiasp versus NovoRapid in the onset 1 trial, at both 26 and 52 weeks,
+               difference (95%CI): -0.15 (-0.23, -0.07) and -0.10 (-0.19, -0.00), supporting the
+               conclusion of non-inferiority. As superiority was not part of the testing procedure,
+               superiority of Fiasp cannot be concluded from these results. It was noted the
+               direction of effect was opposite for the comparison of post meal Fiasp versus
+               NovoRapid (difference (95%CI): 0.04 (-0.04, 0.12)) and in onset 5 after 16 weeks
+               of CSII administration (difference (95%CI): 0.09 (0.01, 0.17)). However despite
+               this, as the results did not reach statistical significance and the upper 95%CI of
+               estimated mean differences in HbA1c did not exceed the predefined non-
+               inferiority margin of 0.4%, a conclusion of non-inferiority appeared to be
+               supported.
+              For patients with T2DM, no significant difference was observed between meal
+               time Fiasp and NovoRapid with respect to HbA1c reduction in the onset 2 trial
+               (difference (95%CI): -0.02 (-0.15, 0.10)), satisfying non-inferiority.
+
+
+                                                             8
+                  Public Summary Document – November 2018 PBAC Meeting
+
+          Supportive evidence also indicated there to be no significant difference between
+           Fiasp and NovoRapid® in terms of HbA1c responders (defined as achieving either
+           HbA1c <7% or ≤6.5%) in any of the included trials at any assessment time point.
+Other secondary outcomes of glucose control
+6.17   Secondary outcomes in glucose control generally supported the conclusion of non-
+       inferiority between Fiasp and NovoRapid, some notable results were:
+       •   In terms of difference in change from baseline in post prandial glucose (PPG)
+           increment (meal test), owing to its faster onset of action, when administered at
+           meal time, the results generally favoured Fiasp and were statistically significant
+           for measurements taken 1 hour post meal. However, by 2 hours post meal, the
+           differences were no longer significant except for in onset 1 at 26 weeks and in
+           onset 5 at 16 weeks. Importantly, it was noted that post meal Fiasp performed
+           significantly worse than NovoRapid in the 1 hour post meal PPG test (difference
+           (95%CI): 0.93 (0.46, 1.40)), however the difference was no longer significant at
+           the 2 hour mark (difference (95%CI): 0.30 (-0.34, 0.93)). The Pre-Sub Committee
+           Response (PSCR) reiterated the sponsor’s view that the reduction in post prandial
+           glucose (PPG) at 1 and 2 hours post meal was clinically significant; however, the
+           ESC questioned whether the dosing flexibility is clinically meaningful for patients.
+           Further, the ESC considered that there was a lack of data in patients with Type 2
+           Diabetes Mellitus (T2DM), particularly in relation to post prandial hypoglycaemia.
+       •   Overall, no meaningful differences were observed in the number of severe or
+           blood glucose (BG) confirmed hypoglycaemic events between Fiasp and
+           NovoRapid. Numerically, fewer events were observed for T1DM patients in onset
+           1 for patients treated with Fiasp (including significantly fewer patients with
+           events) whereas more events were observed for Fiasp treated patients in the
+           T2DM trial (onset 2) and the T1DM CSII trials (onset 4 and onset 5). The ESC noted
+           that for the single trial presented for T2DM patients, there were numerically more
+           hypoglycaemic events observed in the Fiasp trial arm.
+       •   The mean body weight of trial participants generally increased over the trial
+           duration (0.36-2.68kg), but were generally similar between those treated with
+           Fiasp and NovoRapid. In onset 5, although the weight increase from baseline after
+           16 weeks was statistically significantly larger for NovoRapid versus Fiasp, the
+           submission did not consider this small difference (-0.43kg (95%CI: -0.81, -0.06)) to
+           be clinically relevant.
+Occlusion events in infusion sets
+6.18   Occlusion events in the CSII trials (onset 4 and onset 5): no microscopically confirmed
+       occlusive events were observed in the 6 week treatment duration of trial onset 4.
+       There were however, 7 possible but unconfirmed set occlusions (reported by 5 (20%)
+       of the patients) for patients treated with Fiasp and none for those treated with
+
+                                              9
+                  Public Summary Document – November 2018 PBAC Meeting
+
+       NovoRapid. In the onset 5 trial, significantly more patients reported non-routine
+       changes of infusion set with Fiasp (CSII) compared with NovoRapid (CSII) (71.2% versus
+       57.2%); however, despite this, a similar rate of non-routine infusion set changes per
+       100 person years was observed with Fiasp (CSII) compared to NovoRapid (CSII) (697
+       versus 668). The most frequently reported reason contributing to this was problems
+       related to the infusion set. Changes in the category ‘infusion site reaction’ were
+       numerically higher for Fiasp. A similar rate of changes in the category ‘any problems
+       related to the infusion set’ was observed, despite a higher proportion of subjects with
+       Fiasp than with NovoRapid. It is uncertain whether a higher proportion of patients
+       with infusion set issues with Fiasp is likely to have resource implications in clinical
+       practice. The ESC noted that the most common use of Fiasp may be in patients with
+       insulin pumps and noted the higher number of occlusion events observed in the Fiasp
+       trial arms which may translate to increased infusion set changes and associated costs
+       in the real world setting.
+
+Comparative harms
+6.19   The incidence of any AE, serious AE, and discontinuations due to AE, were similar
+       between the treatment groups. The most frequently reported AEs for both Fiasp and
+       NovoRapid were nasopharyngitis (onset 1, 2 and 4), and upper respiratory tract
+       infection (onset 1, 2 and 5). Adverse events of interest presented by the submission
+       were medication errors concerning trial products (onset 1, onset 2 and onset 5) and
+       cardiovascular events (onset 1 and onset 2). The incidence of these events were also
+       similar across the treatment groups. It was noted by the submission (p119) that the
+       only reported AE that significantly differed in frequency was upper abdominal pain in
+       onset 1 (occurring in 3% and 1% of subjects in Fiasp (meal) and NovoRapid groups
+       respectively, RD(95%CI): 3%(1%, 5%)). During the evaluation, it was noted that the
+       incidence of influenza also significantly differed in the onset 1 (3% in Fiasp (post meal)
+       and 7% in NovoRapid groups respectively, RD: -4% (-7%, -1%)). However, the
+       incidences of both events were low and similar results were not observed in the other
+       trials. Overall, the submission’s conclusion of no meaningful differences between
+       Fiasp and NovoRapid in treatment emergent adverse events (AEs) appears reasonable.
+
+Benefits/harms
+6.20   On the basis of the directly comparative evidence presented in the submission Fiasp
+       appears to be no worse than NovoRapid when used in a bolus/basal insulin regimen
+       or when used in CSII in the management of T1DM and T2DM in adult patients.
+6.21   On the basis of the directly comparative evidence presented, the two preparations
+       were also comparable with respect to frequency of adverse events.
+
+
+
+
+                                              10
+                          Public Summary Document – November 2018 PBAC Meeting
+
+Clinical claim
+6.22      The submission described Fiasp as non-inferior in terms of effectiveness and non-
+          inferior in terms of safety compared to NovoRapid. Based on results from the included
+          trials, the ESC agreed that this conclusion was reasonable for the management of
+          T1DM and T2DM in adults. The efficacy and safety of Fiasp in children is yet to be
+          established.
+6.23      The PBAC considered that the claim of non-inferior comparative effectiveness was
+          reasonable.
+6.24      The PBAC considered that the claim of non-inferior comparative safety was
+          reasonable.
+
+Economic analysis
+6.25      Consistent with its clinical claim of non-inferiority, the submission presented a cost-
+          minimisation analysis comparing the daily treatment cost of Fiasp and NovoRapid. Key
+          components and assumptions of the cost-minimisation analysis are summarised in
+          Table 5.
+Table 5: Key components and assumptions of the cost-minimisation analysis
+Component                        Claim or assumption
+                                 Based on evidence presented in the submission, effectiveness is assumed to be non-
+Therapeutic claim: effectiveness
+                                 inferior.
+Therapeutic claim: safety        Based on evidence presented in the submission, safety is assumed to be non-inferior.
+Evidence base                    Directly comparative trials of Fiasp versus NovoRapid
+Equi-effective doses             Fiasp and NovoRapid are equi-effective on a 1:1 basis (unit to unit basis).
+Direct medicine costs            Daily costs per patient of Fiasp and NovoRapid are equivalent.
+Other costs or cost offsets      None
+Source: Table 3.1.1, p129 of the submission.
+
+6.26      An important element of the submission was the request for consideration under
+          Section 5.7 of the Strategic Agreement 2017 between Medicines Australia and the
+          Commonwealth of Australia (hereto referred as the Strategic Agreement) to not apply
+          the 14.5% Statutory Price Reduction that was applied to NovoRapid on 1 June 2018 to
+          the pricing calculations for Fiasp, however this is not a matter for PBAC and will be
+          determined by the Minister (or delegate).
+6.27      If treatment with Fiasp is substantially more costly than an alternative therapy or
+          alternative therapies, the PBAC can only recommend listing of Fiasp if it is satisfied
+          that Fiasp provides, for some patients, a significant improvement in efficacy or
+          reduction of toxicity over these alternatives. The ESC noted that the evidence
+          presented did not demonstrate superiority of Fiasp over alternate therapies.
+6.28      Prices assumed for NovoRapid in the cost minimisation analysis were based on prices
+          prior to 1 June 2018 and were higher than current DPMQs. This may not be
+          appropriate. The usual process for evaluating a cost-minimisation analysis would be
+
+
+                                                        11
+                        Public Summary Document – November 2018 PBAC Meeting
+
+         based on non-inferiority using equi-effective doses and current published prices of
+         listed medicines.
+6.29     No apparent differences between Fiasp and NovoRapid were identified in the
+         observed mean daily insulin doses for bolus and basal insulins in the included trials.
+         On this basis, the submission appropriately claimed that at steady state, following full
+         titration, the equi-effective doses of Fiasp to NovoRapid would be 1 unit Fiasp  1 unit
+         NovoRapid. The ESC considered the equi-effective doses proposed to be reasonable.
+6.30     The submission assumed that as doses of basal, bolus and total insulin were equivalent
+         for Fiasp and NovoRapid and there were no differences in the safety profiles and no
+         difference in additional resource use would be expected. Although this was generally
+         reasonable, it was noted that despite a similar rate of non-routine infusion set changes
+         per 100 person years, in onset 5, significantly more patients reported non-routine
+         changes of infusion set with Fiasp (CSII) compared with NovoRapid (CSII) (71.2% versus
+         57.2%). This may have any resource implications in clinical practice.
+6.31     The submission did not perform any analysis using current PBS prices of NovoRapid
+         (i.e., after the 1 June 2018 price reductions), which would be standard practice in cost
+         minimisation analysis. This was conducted during the evaluation. Results are
+         presented in Table 6 below.
+Table 6: Cost minimisation analysis using cost of NovoRapid® current as at 1 August 2018 – bolus doses
+Component                                  Fiasp requested prices        NovoRapid® (price at 1 August 2018)
+T1DM
+Cost per unit                                      $0.032                               $0.028^
+Mean daily dose, units                               37.0                                 37.0
+Total medicine cost per day                         $1.19                                $1.02
+               Difference in cost per day                         $0.17 extra for Fiasp
+T2DM
+Cost per unit                                      $0.032                               $0.028^
+Mean daily dose, units                               61.0                                 61.0
+Total medicine cost per day                         $1.96                                $1.68
+               Difference in cost per day                         $0.28 extra for Fiasp
+^ Based on current DPMQ of NovoRapid® 5x3mL cartridges (item:8435Y): $206.59
+Source: compiled during the evaluation.
+
+6.32     When compared to current DPMQs of NovoRapid, treatment cost with Fiasp based on
+         requested prices would exceed NovoRapid by $0.17 and $0.28 per patient per day for
+         T1DM and T2DM respectively.
+
+
+
+
+                                                            12
+                  Public Summary Document – November 2018 PBAC Meeting
+
+Drug cost/patient/year:
+$434.35 (based on estimated cost of $1.19 per day for 365 days)
+
+Estimated PBS usage & financial implications
+6.33   This submission was not considered by DUSC. The financial estimates were reasonably
+       based on a market share approach, assuming that Fiasp: i) would substitute for fast
+       acting insulins (insulin aspart, insulin lispro and insulin glulisine) and ii) would not
+       affect market growth (i.e. current growth unchanged). The model applied the
+       assumed substitution rates of Fiasp to the total number of fast acting insulin scripts.
+6.34   In the submission, the DPMQ for Fiasp were based on the requested DPMQs (i.e.,
+       equivalent to DPMQ of NovoRapid prior to the 14.5% statutory price reductions),
+       whereas the DPMQ for substituted therapies (NovoRapid and insulin glulisine) were
+       based on prices after 1 June 2018 Statutory Price Reductions. The submission also
+       incorporated a further 5% statutory price reduction for insulin glulisine in the Year 6
+       estimates. During the evaluation, it was noted the applied DPMQ for Fiasp and other
+       fast acting insulins were either incorrectly estimated or required updating to reflect
+       the latest PBS fees. A further coding error meant cost offsets associated with reduced
+       utilisation of the insulin glulisine vial preparation was omitted from the submission’s
+       calculations. As estimates in the base case should reflect current prices and not
+       include future price reductions, the estimates were further amended to remove the
+       applied 5% statutory price reduction to insulin glulisine preparations in year 6. Table
+       7 illustrates the estimated financial implications of the proposed listing of Fiasp after
+       correcting for these errors and assumptions.
+
+
+
+
+                                              13
+                                          Public Summary Document – November 2018 PBAC Meeting
+
+Table 7: Estimated net financial implications of the proposed Fiasp listing
+                                                              2019                        2020                         2021                         2022                       2023                      2024
+ Estimation of use and financial impact of the proposed medicine
+ Scripts of Fiasp
+   Cartridges (5 x 3mL)                                    ''''''''''''''''''         ''''''''''''''''             '''''''''''''''''            ''''''''''''''''            '''''''''''''''''         '''''''''''''''''
+   Vials (1 x 10mL)                                             ''''''''''               '''''''''''''               '''''''''''''''               '''''''''''''              ''''''''''''''           '''''''''''''''
+   Total                                                    ''''''''''''''''         '''''''''''''''''               '''''''''''''''           '''''''''''''''''           ''''''''''''''''''        ''''''''''''''''''
+ Fiasp net cost to PBS/RPBSa                          $''''''''''''''''''''''''' $'''''''''''''''''''''''''' $'''''''''''''''''''''''' $''''''''''''''''''''''''' $''''''''''''''''''''''''' $''''''''''''''''''''''''
+                                                                     '
+ Fiasp net cost to PBS/RPBS (net patient copay)a $'''''''''''''''''''' $'''''''''''''''''' $'''''''''''''''''''' $''''''''''''''''''''''' $''''''''''''''''''''' $''''''''''''''''''''
+ Estimation of changes in use and financial impact of other medicines (fast acting insulins)
+ Net change in units dispenses on PBS/RPBS of fast
+ acting insulins
+ NovoRapid cartridges (5 X 3mL)                           '''''''''''''''''''        '''''''''''''''''            ''''''''''''''''''           '''''''''''''''''            '''''''''''''''''        ''''''''''''''''''
+ NovoRapid vials (1 X 10mL)                                    '''''''''''              ''''''''''''''              ''''''''''''''''             '''''''''''''''              ''''''''''''''           '''''''''''''''
+ Insulin lispro cartridges (5 X 3mL)                           '''''''''''            ''''''''''''''''              ''''''''''''''''              ''''''''''''''              ''''''''''''''            ''''''''''''''
+ Insulin lispro vials (1 X 10mL)                               '''''''''''                '''''''''''                 ''''''''''''                  ''''''''''''                ''''''''''             '''''''''''''''
+ Insulin glulisine cartridges (5 X 3mL)                        '''''''''''             '''''''''''''''              ''''''''''''''''              ''''''''''''''             '''''''''''''''           '''''''''''''''
+ Insulin glulisine vials (1 X 10mL)                               ''''''                    '''''''                     ''''''''                      ''''''''                   ''''''''                  ''''''''
+ Net cost to PBS/RPBS (net patient copay)a
+                                                                    -
+   NovoRapid cartridges (5 X 3mL)                     $''''''''''''''''''''''''' -$'''''''''''''''''''''''' -$''''''''''''''''''''''''' -$'''''''''''''''''''''''' -$'''''''''''''''''''''''''''' -$''''''''''''''''''''''''
+   NovoRapid vials (1 X 10mL)                           -$'''''''''''''''''' -$''''''''''''''''''''            -$''''''''''''''''''''        -$''''''''''''''''''       -$''''''''''''''''''''' -$'''''''''''''''''''''
+   Insulin lispro cartridges (5 X 3mL)                 -$'''''''''''''''''''' -$'''''''''''''''''''            -$'''''''''''''''''''' -$'''''''''''''''''''''''' -$''''''''''''''''''''''''' -$''''''''''''''''''''''''
+   Insulin lispro vials (1 X 10mL)                       -$'''''''''''''''         -$''''''''''''''''            -$'''''''''''''''           -$''''''''''''''''''         -$''''''''''''''''       -$''''''''''''''''''''
+   Insulin glulisine cartridges (5 X 3mL)c               -$''''''''''''''''       -$''''''''''''''''''''        -$''''''''''''''''''          -$'''''''''''''''''        -$''''''''''''''''''      -$''''''''''''''''''''
+   Insulin glulisine vials (1 X 10mL)c                       -$'''''''''            -$''''''''''''''             -$'''''''''''''''             -$''''''''''''              -$''''''''''''''          -$'''''''''''''
+   Total                                              -$''''''''''''''''''''''' -$'''''''''''''''''''''''''' -$'''''''''''''''''''''''''''' -$'''''''''''''''''''''''' -$'''''''''''''''''''''''' -$''''''''''''''''''''''''
+ Estimated financial implications for the PBS/RPBS
+ Net cost to PBS/RPBS (net patient copayment) a $'''''''''''''''' $''''''''''''''''''                          $'''''''''''''''''' $'''''''''''''''''''                 $''''''''''''''''' $''''''''''''''''''''
+a updated to reflect DMPQ based on July 2018 PBS mark ups.
+b Corrected for errors in the EXCEL Section 4 file: i) The DPMQs for comparators (see Table 4.1.1) ii) In the ‘4c. Displaced – EFF’
+
+worksheet cells C26:C27 the cost offsets for the insulin glulisine vials have not been counted.
+c removed the assumed 5% statutory price reduction to insulin glulisine cartridges and vial preparation in Year 6 of listing (2024)
+
+Source: ‘3a.Volumes – new’; ‘3b.Impact – EFF’, ‘4a.Volumes – displaced’, ‘4b.Displaced – EFF’ worksheets of Attachment 12_Section
+4_2018_Final file.
+
+The redacted table shows that at Year 6 the estimated total number of scripts dispensed was
+100,000 – 200,000 per year.
+6.35             At year 5, the estimated net cost to the PBS was less than $10 million.
+6.36             The submission provided results of sensitivity analyses using alternate substitution
+                 rates (assuming either a 20% increase or 20% decrease in the rates). In the base case
+                 the submission assumed that substitution for NovoRapid would be at a maximum of
+                 25% by Year 6 of listing. This was likely a significant underestimate given the similarity
+                 of Fiasp to NovoRapid. During the evaluation, a higher rate of substitution was
+                 assumed for NovoRapid preparations, starting at 20% in 2019, jumping to 60% in 2020
+                 and increasing by 10% each year thereafter to 100% in 2024 (Y6 of listing). This
+                 increased the total estimated cost to the PBS over 6 years to $30 - $60 million from a
+                 base case of $10 - $20 million. There would still be potential for the total financial
+                 impact to further exceed this amount, as there is potential for higher substitution
+                 rates to be observed for NovoRapid more rapidly and for the rates of substitution for
+                 other fast acting insulins to exceed those assumed in the submission (starting at only
+
+
+                                                                                                         14
+                  Public Summary Document – November 2018 PBAC Meeting
+
+       2% in Y1 increasing to 19% in Y6). The PSCR maintained that it was not expected that
+       Fiasp would substitute for a large proportion of NovoRapid scripts, and that it was less
+       likely that patients stable and comfortable using NovoRapid would switch to Fiasp,
+       making the majority of expected users newly diagnosed patients as per the
+       submission’s estimated uptake rates. The PSCR also argued that the uptake rate of
+       20% - 100% presented in the evaluation is unlikely to occur in practice. The ESC agreed
+       with the PSCR that an uptake rate of 100% was a likely overestimate, but considered
+       that the estimated uptake rates presented in the submission were likely
+       underestimated. The ESC noted that substitution may occur more rapidly than
+       expected and that uptake would likely be between the submission and evaluation
+       estimates. The Pre-PBAC Response stated that the lack of substitution at the pharmacy
+       level between NovoRapid® and Fiasp would limit the uptake of Fiasp.
+
+Quality Use of Medicines
+6.37   The submission noted that it would be important to ensure patients switching from
+       another insulin to Fiasp understand that Fiasp is not substitutable with other insulins
+       at the pharmacy level. If Fiasp is substituted for other insulins, it must be done under
+       medical supervision. Proposed quality of use medicines activities to achieve this goal
+       include: patient and physician education, appropriate consumer medicine
+       information, packaging and labelling to ensure patients receive proper training in the
+       use of Fiasp. As part of the risk management actions agreed with the TGA, the sponsor
+       will also send a letter to Health Care Professionals detailing appropriate substitution
+       of other insulins for Fiasp, and investigate appropriate validation in prescribing and
+       dispensing software.
+
+Financial Management – Risk Sharing Arrangements
+6.38   No risk sharing arrangements were proposed in the submission. However consistent
+       with Clause 5.7.6 of the Strategic Agreement, the sponsor accepted that it may be
+       required to enter into a Deed of Agreement reflecting the proposed staged pricing.
+
+7      PBAC Outcome
+7.1    The PBAC recommended the listing of a new form of insulin aspart (Fiasp®) for the
+       treatment of diabetes mellitus in adults on the basis of non-inferiority to the
+       comparator NovoRapid®. The PBAC’s recommendation for listing was based, among
+       other matters, on its assessment that the cost-effectiveness of Fiasp would be
+       acceptable if it were cost-minimised against NovoRapid on a unit for unit basis.
+7.2    The PBAC considered that despite pharmacokinetic and pharmacodynamic
+       differences in formulation, the listing of Fiasp on the PBS is not considered a new drug
+       listing as insulin aspart is already PBS listed. The PBAC noted however that the two
+       forms should be listed on the schedule as distinct PBS items to avoid inadvertent
+       substitution or use of the alternative formulation, and considered as such that it would
+
+
+                                             15
+                  Public Summary Document – November 2018 PBAC Meeting
+
+       not be appropriate for the brands to be treated as equivalent (the two forms should
+       not be ‘a’ flagged in the schedule).
+7.3    The PBAC agreed an unrestricted benefit listing was appropriate for Fiasp, however
+       noted that Fiasp is not TGA registered for use in children.
+7.4    The PBAC considered that the clinical need for Fiasp was not well established as there
+       are a range of existing fast acting insulin products currently available on the PBS and
+       the marginally faster time to action of Fiasp compared to other available fast acting
+       insulins may not be clinically meaningful.
+7.5    The PBAC agreed that NovoRapid was the appropriate comparator as Fiasp is a new
+       formulation of an existing drug, insulin aspart, however noted that all fast acting
+       insulins were listed on a cost-minimisation basis to each other.
+7.6    The PBAC noted that the submission presented four head-to-head randomised control
+       trials comparing Fiasp to NovoRapid with one of these being in Type 2 Diabetes
+       Mellitus (T2DM) and the remaining three in Type 1 Diabetes Mellitus (T1DM). The
+       PBAC accepted that Fiasp is non-inferior in efficacy to NovoRapid based on change
+       from baseline of HbA1c, change from baseline in post prandial glucose, and weight
+       gain based on the evidence presented in the submission.
+7.7    The PBAC considered that there may be higher rates of occlusion events in infusion
+       sets for patients using Fiasp compared to NovoRapid, and that in practice this may
+       result in patients switching to NovoRapid to avoid further unexpected occlusions. This
+       may result in higher expenditure due to wastage of insulin and increased use of insulin
+       pump consumables. The PBAC was of the view that in the context of potential
+       wastage, a small price reduction for insulin aspart may be appropriate.
+7.8    The PBAC considered Fiasp to be non-inferior in safety to NovoRapid based on rates
+       of hypoglycaemia events and other adverse events, based on the evidence presented
+       in the submission.
+7.9    The PBAC considered that the approach to the economic analysis comparing daily
+       treatment costs to the comparator was reasonable. The PBAC noted that if treatment
+       with Fiasp is substantially more costly than an alternative therapy or alternative
+       therapies, the PBAC could only recommend listing of Fiasp if it is satisfied that Fiasp
+       provides, for some patients, a significant improvement in efficacy or reduction of
+       toxicity over these alternative fast acting insulins. As the PBAC was not satisfied that
+       there was any improvement in efficacy with the use of Fiasp compared to the
+       comparator, the PBAC considered that the per unit cost of Fiasp should be no higher
+       than that of NovoRapid for it to be cost-effective.
+7.10   The PBAC considered that the estimated uptake of Fiasp was underestimated in the
+       submission due to the likelihood of higher substitution rates from the comparators
+       than predicted in the submission. The PBAC agreed with the ESC that utilisation would
+       likely fall between the submission’s estimate of 25% substitution at year 6 and
+
+
+                                             16
+                      Public Summary Document – November 2018 PBAC Meeting
+
+         evaluation estimate of 100% substitution at year 6.
+7.11     The PBAC recommend that insulin aspart should be treated as interchangeable on an
+         individual patient basis with insulin lispro and insulin glulisine.
+7.12     The PBAC advised that Fiasp is suitable for prescribing by nurse practitioners.
+7.13     The PBAC recommended that the Early Supply Rule should apply.
+7.14     The PBAC noted that this submission is not eligible for an Independent Review as it
+         received a positive recommendation.
+
+Outcome:
+Recommended
+
+8        Recommended listing
+8.1      Add new item:
+ Name, Restriction,                                  Max.            №.of       Proprietary Name and Manufacturer
+ Manner of administration and form                   Qty             Rpts
+    INSULIN ASPART                                    5               2         Fiasp®          Novo Nordisk
+ 100 units/mL injection (fast acting) solution,
+ 1 x 10 mL vial
+    INSULIN ASPART                                     5              1         Fiasp           Novo Nordisk
+ 100 units/mL injection (fast acting) solution,                                 Penfill®
+ 5 x 3 mL cartridges
+    INSULIN ASPART                                     5              1         Fiasp           Novo Nordisk
+ 100 units/mL injection (fast acting) solution,                                 FlexTouch®
+ 5 x 3 mL injection devices
+
+
+ Category /                    GENERAL – General Schedule (Code GE)
+ Program
+ Prescriber type:                 Dental     Medical Practitioners        Nurse practitioners   Optometrists
+                                  Midwives
+ Restriction Level / Method:      Unrestricted
+                                  Restricted benefit
+                                  Authority Required - In Writing
+                                  Authority Required - Telephone
+                                  Authority Required - Emergency
+                                  Authority Required - Electronic
+                                  Streamlined
+
+
+
+
+                                                     17
+                  Public Summary Document – November 2018 PBAC Meeting
+
+9      Context for Decision
+The PBAC helps decide whether and, if so, how medicines should be subsidised in Australia.
+It considers submissions in this context. A PBAC decision not to recommend listing or not to
+recommend changing a listing does not represent a final PBAC view about the merits of the
+medicine. A company can resubmit to the PBAC or seek independent review of the PBAC
+decision.
+
+10     Sponsor’s Comment
+Novo Nordisk is pleased that a faster acting insulin alternative will be made available to
+patients on the PBS.
+
+
+
+
+                                              18
+

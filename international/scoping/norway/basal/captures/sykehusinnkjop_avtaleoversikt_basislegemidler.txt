@@ -1,0 +1,20 @@
+Source: https://www.sykehusinnkjop.no/492829/siteassets/avtaledokumenter/avtaler-legemidler/basislegemidler/alle-basis.xlsx (Avtaleoversikt basislegemidler), fetched 2026-10-02.
+Sheet 'Avtaler basis', 905 rows. Header row and all rows with ATC A10A shown. No row names Novo Nordisk as contract supplier.
+Varenr | Varebetegnelse | Kvantum | Enhet | Varegr | Reseptgruppe | Oppbevaring | Styrke | ATC | Virkestoff | Byttekode | Delkontrakt | Beredskapslager | Leverandør kontrakt | SHI nr | SHI navn | H-resept
+031088 | Humalog inj 100 E/ml | 10 | MLHGL | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro | 002895 | 20 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+433086 | Humalog inj 100 E/ml | 5x3 | MLSYL | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro |  | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+484224 | Humalog Jr KwikPen inj 100E/ml | 5x3 | MLPEN | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro |  | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+156506 | Humalog KwikPen inj 100 E/ml | 5x3 | MLPEN | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro | 002640 | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+556964 | Humalog KwikPen inj 200 E/ml | 5x3 | MLPEN | 01 | C | K | 200E/ml | A10AB04 | Insulin lispro | 002628 | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+467025 | Lyumjev inj 100 E/ml | 10 | MLHGL | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro |  | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+553635 | Lyumjev inj 100 E/ml | 5x3 | MLSYL | 01 | C | K | 100E/ml | A10AB04 | Insulin lispro |  | 19 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+374264 | Humulin NPH inj 100IE/ml | 5x3 | MLSYL | 01 | C | K | 100IE/ml | A10AC01 | Insulin, human |  | 24 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+483540 | Humulin NPH KwikP inj 100IE/ml | 5x3 | MLPEN | 01 | C | K | 100IE/ml | A10AC01 | Insulin, human |  | 24 | Paragraf5 | Eli Lilly Danmark A/S | 2501c | Legemidler injeksjon infusjon | Nei
+004746 | Lantus inj 100E/ml | 5x3 | MLSYL | 01 | C | K | 100E/ml | A10AE04 | Insulin glargin | 000818 | 27 | Paragraf5 | Sanofi-Aventis Norge AS | 2501c | Legemidler injeksjon infusjon | Nei
+081996 | Lantus SoloStar inj 100E/ml | 5x3 | MLPEN | 01 | C | K | 100E/ml | A10AE04 | Insulin glargin | 002132 | 27 | Paragraf5 | Sanofi-Aventis Norge AS | 2501c | Legemidler injeksjon infusjon | Nei
+447357 | Toujeo DoubleStar inj 300 E/ml | 3x3 | MLPEN | 01 | C | K | 300E/ml | A10AE04 | Insulin glargin |  | 28 | Paragraf5 | Sanofi-Aventis Norge AS | 2501c | Legemidler injeksjon infusjon | Nei
+135216 | Toujeo SoloStar inj 300 E/ml | 5x1,5 | MLPEN | 01 | C | K | 300E/ml | A10AE04 | Insulin glargin | 002345 | 28 | Paragraf5 | Sanofi-Aventis Norge AS | 2501c | Legemidler injeksjon infusjon | Nei
+445705 | Toujeo SoloStar inj 300 E/ml | 3x1,5 | MLPEN | 01 | C | K | 300E/ml | A10AE04 | Insulin glargin |  | 28 | Paragraf5 | Sanofi-Aventis Norge AS | 2501c | Legemidler injeksjon infusjon | Nei
+Sheet 'Spes grupper' (next agreement dates):
+Neste avtale: |  | 
+2801c Legemidler inj inf |  | 2028-02-01 00:00:00

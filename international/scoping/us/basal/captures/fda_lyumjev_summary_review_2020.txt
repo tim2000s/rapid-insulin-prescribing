@@ -1,0 +1,1064 @@
+CENTER FOR DRUG EVALUATION AND
+           RESEARCH
+
+
+       APPLICATION NUMBER:
+
+        761109Orig1s000
+
+
+      SUMMARY REVIEW
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+                                                 CDTL Review and
+                                    Division Summary Memo for Regulatory Action
+                        Date                               June 15, 2020
+                        From                               Patrick Archdeacon, M.D.
+                        BLA #                              76109
+                        Applicant                          Eli Lilly and Company
+                        Date of Submission Receipt         August 15, 2019
+                        PDUFA Goal Date                    June 15, 2020
+                        (Proposed) Non-proprietary         Insulin lispro-aabc
+                        name
+                        (Proposed) Trade name              Lyumjev
+                        Dosage forms / Strength            Solution for sc injection:
+                                                           100 units/mL in 10 mL vial, 3 mL cartridge, 3 mL pre-
+                                                           filled pen
+                                                           200 units/mL in 3 mL pre-filled pen
+                        Proposed Indication                To improve glycemic control in adults with diabetes
+                                                           mellitus
+                        Recommended Action                 Approval
+                        Recommended                        To improve glycemic control in adults with diabetes
+                        Indication/Population              mellitus
+
+
+
+
+                    Page 1 of 24                                                                                   1
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+
+
+                           1. Introduction
+                    This document contains the ‘Summary Basis for Regulatory Action’ memo for the original
+                    Biologics License Application (BLA) 761109, received August 15, 2019, submitted under the
+                    351(a) regulatory pathway for marketing approval of Lyumjev (insulin lispro-aabc) to improve
+                    glycemic control in adults with diabetes mellitus.
+
+                    This memo references the following documents/sources:
+
+                        Subject                              Author(s)                        Date
+
+                        Office of Biotechnology Products     Riley Myers (Application team    May 29, 2020
+                                                             lead), Andrea George, Vicky
+                                                             Borders-Hemphill, Amy Devlin,
+                                                             Thuy Thanh Nguyen, Michael
+                                                             Shanks, Candace Gomez-
+                                                             Broughton, Joanna Zhou,
+                                                             Shamika Brooks
+                        Clinical                             Dolly Misra                      June 12, 2020
+                        Statistics                           Anna Kettermann                  April 15, 2020; amended
+                                                                                              June 13, 2020
+                        Clinical Pharmacology
+                        Nonclinical                          Dan Minck                        May 5, 2020
+                        CDRH                                 David Wolloscheck                April 16, 2020
+                        DMEPA                                Ariane Conrad, Janine Purcell;   May 7, 2020 (Human
+                                                             Carlos Mena-Grillasca            Factors review); June 5,
+                                                                                              2020 (Labeling review);
+                                                                                              February 7, 2020
+                                                                                              (proprietary name
+                                                                                              review); February 6, 2020
+                                                                                              (nonproprietary name
+                                                                                              suffix)
+                        OPDP                                 Ankur Kalola                     May 19, 2020
+                        Patient Labeling                     Nyedra Booker, Ankur Kalola      May 21, 2020
+                        Clinical Inspections (OSI)           Cynthia Kleppinger               April 8, 2020
+                        PeRC Minutes                         PeRC                             April 28, 2020
+                        DMEPA: Division of Medication Error Prevention and Analysis; OPDP: Office of Prescription
+                        Drug Promotion; OSI: Office of Scientific Investigations; PeRC: Pediatric Review Committee;
+                        CDRH: Center for Devices and Radiologic Health
+
+
+
+
+                    Page 2 of 24                                                                                          2
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+                        2. Background
+                    Insulin lispro-aabc is a 51 amino acid, two-chain peptide, human insulin analog. The A-chain
+                    has 21 amino acids and the B-chain has 30. Insulin lispro-aabc differs from regular human
+                    insulin at the C-terminal end of the B-chain, where amino acids lysine and proline are
+                    reversed. The modification prevents formation of insulin dimers and hexamers, leading to
+                    more rapid absorption compared to regular human insulin, when administered by subcutaneous
+                    injection. Insulins, including insulin lispro-aabc, bind insulin receptors and lower blood
+                    glucose by stimulating peripheral glucose uptake by skeletal muscle and fat and by inhibiting
+                    hepatic glucose production, lipolysis, and proteolysis. Humalog (insulin lispro) was approved
+                    for use in the United States in June 1996, manufactured and marketed Eli Lilly and Company
+                    (as new drug application [NDA] 20563). Humalog Mix 75/25 (insulin lispro and insulin lispro
+                    protamine) and Humalog Mix 50/50 (insulin lispro and insulin lispro protamine) were
+                    approved in the US in 1999 (as NDA 21017 and NDA 21018, respectively). The Humalog
+                    insulin lispro products have been approved to improve glycemic control in adults and children
+                    with diabetes mellitus.
+
+                    Eli Lilly and Company (hereafter the Applicant) submitted its 351(a) application for Lyumjev
+                    (also known as LY900014), on August 15, 2019. Lyumjev/LY900014 is formulated
+                                                                                             (b) (4)
+                                                                                                             with
+                                                                                                                    (b)
+                    insulin lispro-aabc and also incorporates                                        treprostinil (4)
+                                                                                                                  (b) (4)
+                                               and citrate
+
+                            I will primarily refer to the product as LY900014 throughout the rest of the
+                    summary memo, to maintain consistency with the underlying review.
+
+                    Based on the results of its development program, the Applicant has proposed the following
+                    indication for LY900014: to improve glycemic control in adults with diabetes mellitus. The
+                    Applicant has also proposed the results of its development program support dosing LY900014
+                                                                        (b) (4)
+                    by subcutaneous inject                                      within 20 minutes of starting a meal.
+                    The Applicant has also proposed that LY900014 can be dosed intravenously. The Applicant
+                    proposes to make LY900014 available in 2 dosage strengths (100 units/ml or “U-100” and 200
+                    units/ml or “U-200”). The U-100 preparation has several proposed presentations (10 ml vial, 3
+                    ml cartridge, and three different prefilled pen options); the U-200 preparation has one
+                    proposed presentation (a prefilled pen). The Applicant proposes to study the use of LY900014
+                    in pediatric patients and in continuous subcutaneous infusion pumps after approval.
+
+
+                        3. CMC/Device
+                    The insulin lispro-aabc drug substance is produced in genetically engineered Escherichia coli.
+                    The LY900014 drug product (DP) is formulated from the DS and has the following
+                    presentations for subcutaneous injection and/or intravenous infusion:
+
+                    U-100:
+                       • 10 ml multiple-dose vial
+
+
+
+                    Page 3 of 24                                                                                            3
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                        •    3 ml single-patient-use KwikPen
+                        •    3 ml single-patient-use Junior KwikPen
+                        •    3 ml single-patient-use Tempo Pen
+                        •    3 ml single-patient-use cartridge
+
+                    U-200:
+                       • 3 ml single-patient-use KwikPen
+
+                    The OBP Quality Review Team concluded that the data submitted in the application support
+                    the conclusion that the manufacture of insulin lispro-aabc (LY900014) is well-controlled and
+                    leads to a product that is pure and potent and recommends approval of STN 761109 for insulin
+                    lispro-aabc. Andrea George reviewed the Drug Substance, Drug Product, and immunogencity
+                    data. Vicky Borders-Hemphill reviewed the labeling. Amy Devlin and Michael Shanks
+                    reviewed the Drug Substance microbiology and the facility. Riley Myers served as the
+                    Application Team Lead. Please see the OBP Multidisciplinary Review for details regarding the
+                    Quality Assessments. I concur with their conclusions.
+
+                    Drug Substance
+
+                    Insulin lispro-aabc DS fermentation is performed at Lilly del Caribe in Carolina, Puerto Rico
+                    (FEI 3004525072). Insulin lispro DS-aabc purification is performed at Lilly del Caribe in
+                    Carolina, Puerto Rico (FEI 3004525072) and Eli Lilly and Co in Indianapolis, IN, USA (FEI
+                    1819470).
+
+                    Drug Product
+
+                    Final drug product is produced at Eli Lilly and Company Lilly Corporate Center Indianapolis,
+                    IN, USA [manufacture of cartridge and vial drug product, primary and secondary packaging,
+                    assembly of pre-filled pen injectors, release testing (vial only), in-process testing, stability
+                    testing, raw material testing and approval] and at Lilly France 2, rue du Colonel Lilly 67640,
+                    Ferfersheim France (FEI 3002807475) [secondary drug product packaging (cartridge only),
+                    assembly and testing of pre-filled pen injector, drug product release and stability testing).
+                    LY900014 is formulated in 4.41 mg sodium citrate dihydrate, 1.02 magnesium chloride
+                    hexahydrate, 12.1 mg glycerol, and 3.15 mg metacresol in water for injection (WFI) with 1.06
+                    micrograms treprostinil and zinc oxide to provide a final zinc concentration of 39 micrograms
+                    for 100 U/mL or 52 micrograms for 200 U/mL. All the excipients except for treprostinil are
+                    compendial.
+
+                    Facilities
+
+                    OPQ relied on a FDCA 704(a)(4) review of requested inspection documents. The most recent
+                    inspection (ORA), facility history, District File Review, and FDAC 704(a)(4) for the DS
+                    manufacturing sites FEI 3004525072 and FEI 1819470 and DP manufacturing site FEI
+                    1819470 were all found adequate. Therefore, OMPQ on-site PLI was waived for those sites. A
+                    Part 4 Medical Device QSIT inspection from 1/13/2020 to 1/16/2020 was performed with no
+                    FDA Form 483 issued for LY900014 for DP manufacturing site FEI 3002807475; a District
+
+
+                    Page 4 of 24                                                                                    4
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    File Review was approved based on the inspection. All proposed manufacturing and testing
+                    facilities are acceptable based on their currently acceptable CGMP compliance status and
+                    recent relevant inspectional coverage.
+
+                    Device/CDRH
+
+                    David Wolloscheck from CDRH conducted the device review. CDRH has previously reviewed
+                    the Applicant’s KwikPens under the Humalog NDA (now BLA). The device component of the
+                    LY900014 combination biologic-device products is the same in terms of the mechanics as in
+                    the Humalog combination biologic-device products. Accordingly, the Application leveraged
+                    the majority of the data from the previously approved KwikPens. While the Applicant has
+                    included the 100 U/mL Tempo Pen and while the Applicant has had meetings with CDRH to
+                    discuss how the Tempo Pen may be used with an external data transfer module, the Applicant
+                    clarified that the intended use and indications for the Tempo Pen are identical to the 100 U/mL
+                    Kwik Pen – that is, as a stand-alone device, the Tempo pen may be used in a fungible manner
+                    with the KwikPen. Dr. Wolloscheck concluded that the device constituent for all the
+                    combination products are approvable for the proposed indications. I concur with his
+                    conclusion. For additional details, please see Dr. Wolloscheck’s review.
+
+                        4. Nonclinical Pharmacology/Toxicology
+                    Daniel Minck of the Division of Pharmacology Toxicology for Cardiology, Hematology,
+                    Endocrinology and Nephrology conducted the nonclinical review. Given previously evaluated
+                    studies conducted and submitted by the Applicant to the Humalog NDA (now BLA) in 1996,
+                    the nonclinical review of the submission comprised an assessment of the excipient treprostinil
+                    (the only non-compendial excipient in LY900014). Dr. Minck concluded that BLA 761109 is
+                    approvable from the Pharmacology/Toxicology perspective, and I concur.
+
+                    Treprostinil, a prostacyclin analog with vasodilatory activity, is the active ingredient of several
+                    products (Remodulin, Orenitram, and Tyvaso) approved for the treatment of pulmonary
+                    arterial hypertension (PAH). The Applicant conducted their own nonclinical studies to support
+                    the use of treprostinil in LY900014. However, it is worth noting that the dose of treprostinil in
+                    LY900014 is around 15 mg/kg/day, which is well below the starting dose of Remodulin (1800
+                    mg/kd/day).
+
+                    Pharmacology studies were conducted with LY900014 while safety pharmacology,
+                    pharmacokinetic, and toxicology studies were conducted with treprostinil alone. The studies
+                    showed no effects on respiratory or central nervous system functioning. Prolonged QT/QTc
+                    times were observed in dogs, but only at multiples greater than 50-fold the clinical exposure to
+                    treprostinil associated with LY900014. In rat and dog models, transient red discoloration of the
+                    skin of test species was observed. Genotoxicity studies did not reveal evidence of mutagenicity
+                    and reproductive toxicology studies did not reveal evidence of effects on fertility or pre-natal
+                    or post-natal development. Increased post-implantation loss was observed in rabbits, but only
+                    an exposure many thousand-fold above the expected clinical exposure associated with use of
+                    LY900014.
+
+
+
+                    Page 5 of 24                                                                                      5
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+                        5. Clinical Pharmacology/Biopharmaceutics
+                    Suryanarayana Sista, Liang Li, Justin Earp, and Manoj Khurana of the Office of Clinical
+                    Pharmacology (OCP) conducted the clinical pharmacology and pharmacometric review of the
+                    BLA submission. The review considered data from three pharmacodynamic studies; one
+                    absorption, metabolism, and elimination study; one QTc study. In addition, clinical
+                    pharmacology data were collected for 6 of the 9 Phase 3 studies of LY900014.
+
+                    A euglycemic clamp studies comparing the PK/PD profiles of LY900014 and Humalog were
+                    conducted in healthy volunteers (Study ITRL). Study ITRL was a Phase 1, single center,
+                    randomized, double-blind, 2-treatment, 2-period, crossover study. The Clinical Pharmacology
+                    Review concluded based on the data generated that LY900014 exhibited a slightly larger
+                    insulin onset of action within the first after administration compared to Humalog, similar
+                    exposures, and shorter duration of action (see Figure 1 and Table 1). The FDA clinical
+                    pharmacology review also leveraged Study ITRL to compare the PK profiles of LY900014
+                    and Humalog (see Figure 2 and Table 2). Other studies yielded similar PK and PD data in the
+                    T1D and T2D patient populations.
+
+                    Figure 1: Mean Locally Weighted Scatterplot Smoothing Fits of Glucose Infusion Rate vs
+                    Time by Treatment following 15 U doses of LY900014 and Humalog
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+
+
+                    Page 6 of 24                                                                                  6
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+
+                    Table 1: Pharmacodynamic parameters and statistical analysis after administration of 15
+                    U of LY900014 or 15 U of Humalog
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+
+
+
+                    Page 7 of 24                                                                          7
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Figure 2: Mean Insulin Lispro Concentration Versus time by Treatment following 15 U
+                    dose of LY900014 and 15 U dose of Humalog
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+
+
+
+                    Page 8 of 24                                                                          8
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Table 2: Summary of Clinical Pharmacokinetics of LY900014
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+
+
+                    As discussed at the End-of-Phase 2 meeting, the Applicant conducted and submitted a
+                    bioequivalence (BE) study (ITSS) to support the approval of the U-200 presentation of LY-
+                    900014. The BLA submission also included data and analyses to support the rationale
+                    provided by the Application to label postmeal dosing of LY900014 in patients with type 2
+                    diabetes (T2D) based on the data generated in the postmeal dosing arm of the pivotal phase 3
+                    study in type 1 diabetes (ITRM), the data generated in two meal challenge PK/PD studies
+                    (ITRV in patients with T1D and ITRQ in patients with T2D), and on the results of
+                    pharmacometric modeling. The FDA clinical pharmacology team concluded that the data
+                    support the approval of the BLA, including the approval of the U-200 strength and the
+                    postmeal dosing of LY900014 in the T2D patient population. I concur with their conclusions.
+
+                    ITSS
+
+                    Study ITSS was a Phase 1, single-center, subject- and investigator-blind, randomized, 2-
+                    sequence, 4-period, crossover, 10-hour euglycemic clamp study in 68 healthy subjects. The
+                    study compared the pharmacokinetics (PK) and pharmacodynamics (PD) of LY900014 U-100
+                    and U-200 formulations following a single 15-unit subcutaneous dose. The mean insulin lispro
+                    concentrations following administration of the LY900014 U-100 and U-200 doses are shown
+                    in Figure 3.
+
+
+
+
+                    Page 9 of 24                                                                                   9
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Figure 3: Mean Insulin Lispro Concentrations Versus Time Following Single 15 U SC
+                    Dose on LY900014 U-200 and U-100 in Healthy Volunteers in Study ITSS
+
+
+
+
+                                                                                                                      (
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+                    A comparison of the primary PK parameters showed that the ratio of U-200/U-100 were 1.01
+                    for AUC(0-10h), AUC(0-tlast), and AUC(0-infinity) and 0.97 for Cmax. The 90% CIs for all the ratios
+                    were contained in the BE limits (0.8, 1.25), demonstrating the bioequivalence of the two
+                    formulations.
+
+                    ITRV and ITRW
+
+                    Study ITRV was a Phase 1, randomized, patient- and investigator-blind, 2-treatment, 4-period
+                    crossover study in patients with T1D to evaluate PK following a single SC injection of
+                    LY900014 and Humalog. The study also compared the PD profiles of LY900014 and
+                    Humalog immediately before and 20 minutes after the start of the meal (see Figure 4). Study
+                    ITRW was an identical study in patients with T2D (see Figure 5).
+
+
+
+
+                    Page 10 of 24                                                                                     10
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Figure 4: Mean glucose concentration versus time post meal dosed immediately before
+                    (left) and 20 minutes after the start of a test meal (right) following a single sc dose
+                    LY900014 or Humalog in Study ITRV (patients with T1D)
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+                    Figure 5: Mean glucose concentration following individualized doses of LY900014 or
+                    Humalog before meals (left) or 20 minutes postmeal (right) in Study ITRW (patients with
+                    T2D)
+
+
+
+
+                                            Source: FDA Clinical Pharmacology Review of BLA 761109
+
+
+                    The Clinical Pharmacology review concluded that Study ITRV showed that LY900014
+                    exhibited a greater reduction in change from baseline postprandial glucose (PPG) excursion up
+                    to 4 hours postmeal in patients with T1D compared to Humalog. The difference between
+                    LY900014 and Humalog was not statistically significant when both were dosed 20 minutes
+                    after the start of the meal. The reduction in change in baseline PPG excursion over the 5-hour
+                    mean tolerance test (MMTT) was similar between LY900014 and Humalog when LY900014
+
+
+
+                    Page 11 of 24                                                                              11
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    was dosed 20 minutes after the start of the meal and Humalog was dosed immediately before
+                    the start of the meal.
+
+                    The Clinical Pharmacology review concluded that Study ITRW showed a numerically (but not
+                    statistically significant) greater reduction in baseline PPG excursion up to 4 hours postmeal
+                    with LY900014 in patients with T2D compared to Humalog. The difference between
+                    LY900014 and Humalog was not statistically significant when both were dosed 20 minutes
+                    after the start of the meal. Similarly, the postprandial glucose excursion over the 5-hour
+                    MMTT was statistically not significantly different between LYUMJEV and Humalog when
+                    LYUMJEV was dosed 20 minutes after the start of the meal and Humalog was dosed
+                    immediately before the start of the meal.
+
+                    Pharmacometrics Assessment
+
+                    The Applicant conducted E-R analyses separately for T1D and T2D to quantify the
+                    relationship between drug concentration and postprandial glucose response following SC
+                    administration of LYUMJEV and Humalog when both insulins are given prior to the start of
+                    the meal and 20 minutes after the start of the meal. The pharmacometrics reviewer concluded
+                    that the Applicant’s model simulations demonstrated a similar PPG excursion for when
+                    LYUMJEV is dosed 20 minutes post meal to when Humalog is dosed immediately before the
+                    start of the meal.
+
+                    Overall, the FDA clinical pharmacology review concluded that the data from the pivotal Phase
+                    3 studies (see section 6) and Studies ITRV and ITRW, in conjunction with the
+                    pharmacometrics assessment, support the proposed administration of LYUMJEV within 20
+                    minutes after starting a meal in patients with T1D and in patients with T2D from the efficacy
+                    perspective.
+
+
+                        6. Clinical/Statistical- Efficacy
+                    Dolly Misra (from the Division of Diabetes, Lipid Disorders, and Obesity) and Anna
+                    Kettermann (from the Office of Biostatistics) reviewed the clinical/statistical data submitted in
+                    support of LY900014. The clinical development program for LY9000014 included 18 clinical
+                    pharmacology studies and 3 phase 3 trials [including two multiple daily injection (MDI)
+                    studies and one continuous subcutaneous insulin infusion study (CSII)]. The two MDI trials
+                    were ITRM (also known as PRONTO-T1D) and ITRN (also known as PRONTO-T2D). Data
+                    from the CSII trial (ITSI) were included in the BLA submission, but the Applicant is not
+                    currently seeking an indication for CSII administration. For that reasons, Drs. Misra and
+                    Kettermann focused their assessment of efficacy on the two pivotal Phase 3 MDI studies. Drs.
+                    Misra and Kettermann determined that the data support the conclusion that LY900014 is non-
+                    inferior to Humalog as measured by change from baseline to Week 26 in HbA1c. Dr. Misra
+                    also concluded that (together with the data from the clinical pharmacology studies and the
+                    results of the pharmacometric models) that LY900014 may be dosed at mealtime or up to 20
+                    minutes after the start of a meal. I concur with the conclusions of Drs. Misra and Kettermann.
+                    See the reviews of Drs Misra and Kettermann for additional details.
+
+
+                    Page 12 of 24                                                                                  12
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    ITRM
+
+                    Study ITRM (PRONTO-T1D) was a 52 week, prospective, randomized, double-blind
+                    comparison of LY900014 to Humalog, in combination with insulin glargine or insulin
+                    degludec, in adults with T1D. The primary objective of this study was to demonstrate that
+                    LY900014 was noninferior to Humalog on glycemic control as measured by change from
+                    baseline to Week 26 in HbA1c (non-inferiority margin [NIM] = 0.4%) when administered as
+                    mealtime insulin in combination with basal insulin glargine or insulin degludec in patients
+                    with T1D. In 2 of the treatment groups, LY900014 and Humalog were administered
+                    immediately (0-2 minutes) prior to the start of the meal in a double-blind manner. A third
+                    open-label treatment group consisted of LY900014 administered 20 minutes after the start of a
+                    meal (LY+20). See Dr. Misra’s clinical review for details including inclusion/exclusion
+                    criteria, randomization strategy, titration of basal and prandial insulin doses, and secondary
+                    efficacy endpoints.
+
+                    Figure 6: Study Design ITRM
+
+
+
+
+                                                       Source: ITRM Clinical Study Report
+
+                    Of the 1621 patients screened for Study ITRM, 1222 patients were randomized (Humalog
+                    =442; LY900014 =451; LY+20 =329). Treatment discontinuation rates were low, with over
+                    94% of patients completing 26 weeks of treatment. The demographics of the study population
+                    revealed the mean age of patients was 44.36 years. and the majority of patients (92.0 %) were
+                    under 65 years of age. More than half of the patients were male (56.3%) and the majority of
+                    patients were White (77.3%), followed by Asian (18.6%) and Black/African American (1.7%).
+
+
+                    Page 13 of 24                                                                               13
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    In this multinational trial, the US comprised the greatest number of patients (29.3%), followed
+                    by Japan (13.7%). The baseline disease characteristics for the diabetic study participants
+                    revealed the mean duration of diabetes was 18.9 years. Patients had a mean BMI of 26.55
+                    kg/m2 and mean weight of 77.37 kg at baseline. The mean HbA1c at screening was 8.03%, and
+                    at the end of the lead-in period, during which basal insulin was optimized, the mean HbA1c
+                    was 7.34%. Insulin therapy used prior to study participation included basal insulin treatment
+                    with insulin glargine (57.8%), insulin degludec (30.9%), insulin detemir (8.9%), and NPH
+                    (2.4%). Pre-study bolus insulin treatment included insulin aspart (48.9%), insulin lispro
+                    (38.4%) and insulin glulisine (12.8%). The prandial insulin dosing plan was pattern adjustment
+                    in 54.7% of patients and carbohydrate counting in 45.3%.
+
+                    The primary efficacy endpoint was the change from baseline in HbA1c after 26 weeks of
+                    treatment (see Table 3 for results).
+
+                    Mealtime LY900014 vs Humalog change in HbA1c for non-inferiority: In the FDA analysis,
+                    the change from baseline in HbA1c after 26 weeks of treatment was -0.12% with mealtime
+                    LY900014 compared to -0.04% with Humalog. The treatment difference of -0.08 with the
+                    upper bound of the two-sided 95% CI less than 0.4% (95% CI: -0.16, 0.00) established non-
+                    inferiority. The upper limit of the 95% CI for the difference in change in HbA1c was also less
+                    than the noninferiority margin of 0.3%.
+
+                    Mealtime LY900014 vs Humalog change in HbA1c for superiority: LY900014 was found to
+                    be statistically superior to Humalog; the 95% CI for difference between LY900014 and
+                    Humalog was below zero.
+
+                    LY+20 vs Humalog change in HbA1c for non-inferiority: In the FDA analysis, the change
+                    from baseline in HbA1c after 26 weeks of treatment was 0.01% with LY+20 compared to
+                    -0.04% with Humalog. The treatment difference of 0.14 with the upper bound of the two-sided
+                    95% CI less than 0.4% (95% CI: 0.05, 0.22) established noninferiority. The upper limit of the
+                    95% CI for the difference in change in HbA1c was also less than the noninferiority margin of
+                    0.3%.
+
+                    Table 3: Primary Analysis Outcomes Study ITRM
+                        Treatment                  LY900014                  LY900014+20                         Humalog
+                                                    N = 451                     N=329                             N = 442
+                  Baseline HbA1c (%)               7.3 (0.65)                   7.4 (0.64)                       7.3 (0.67)
+                        Mean (std)
+                    Adjusted Mean Change
+                    from Baseline                    -0.12                         0.10                             -0.04
+                    Difference between               -0.08                       0.14
+                 treatment and Humalog             (-0.16, 0.00)             (0.05, 0.22)
+                          (95% CI)
+                              Source: Data from BLA 761109 as analyzed by FDA statistical reviewer in support of labeling
+
+                    CDTL comment: From a statistical perspective, mealtime LY900014 narrowly demonstrated
+                    superiority to Humalog with regard to the primary endpoint – the difference between mealtime
+
+
+                    Page 14 of 24                                                                                             14
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    LY900014 and Humalog was -0.08 with an upper bound of the CI of zero. Clinically, however,
+                    the small difference observed between the two treatments is not significant. Moreover, while
+                    the doses of basal insulin were similar across treatment arms, they were not identical (the
+                    mean doses were slightly higher among patients treated with LY900014). In addition, the
+                    finding of statistical superiority was not replicated in the Phase 3 trial in patients with T2D
+                    (ITRN, see below). Therefore, the FDA statistical reviewer, the FDA primary clinical
+                    reviewer, and I all agree that superiority was not demonstrated. However, efficacy was
+                    demonstrated on the basis of meeting the pre-specified non-inferiority margin for both
+                    mealtime LY900014 and postmeal LY900014 compared to mealtime Humalog.
+
+                    ITRN
+
+                    Study ITRN (PRONTO-T2D) was a 26-week prospective, randomized, double-blind
+                    comparison of LY900014 to Humalog, both in combination with insulin glargine or insulin
+                    degludec in adults with T2D. The primary objective of this study was to demonstrate that
+                    LY900014 was noninferior to Humalog on glycemic control as measured by change from
+                    baseline to Week 26 in HbA1c (non-inferiority margin [NIM] = 0.4%) when administered as
+                    prandial insulin in combination with basal insulin glargine or insulin degludec in patients with
+                    T2D. The study had 2 double-blind groups to allow comparison of LY900014 and Humalog
+                    when injected at the start of the meal. See Dr. Misra’s clinical review for details including
+                    inclusion/exclusion criteria, randomization strategy, titration of basal and prandial insulin
+                    doses, and secondary efficacy endpoints.
+
+                    Figure 7: Study Design ITRN
+
+
+
+
+                                                       Source: ITRN Clinical Study Report
+
+
+                    Of 963 patients screened, 673 were randomized (Humalog =337; LY900014 =336). Treatment
+                    discontinuation rates were low with over 95% of patients completing 26 weeks of treatment
+
+
+                    Page 15 of 24                                                                                 15
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    (Humalog=319 patients; LY900014=320 patients). The mean age of the study population was
+                    60 years, with 60% of patients under 65 years of age and 97% under 75 years. More than half
+                    of the patients were male (53.3%) and the majority of patients were White (68.6%), followed
+                    by Asian (24.4%) and Black/African American (4.5%). The US comprised the 27% of study
+                    participants. The baseline disease characteristics for study participants revealed the mean
+                    duration of diabetes was 16.5 years. Patients had a mean BMI of 32.28 kg/m2. The mean
+                    HbA1c at screening was 8.3% and 7.3% following basal insulin titration, prior to
+                    randomization. Prestudy basal insulin treatment showed use of insulin glargine (65.7%),
+                    insulin detemir (12.0%), NPH (11.3%), and insulin degludec (11.1%). Oral antidiabetic
+                    medication used by patients prior to study participation included metformin (70.6%) and
+                    SGLT-2 inhibitor (17.7%).
+
+                    The primary efficacy endpoint was the change from baseline in HbA1c after 26 weeks of
+                    treatment (see Table 4). In Study ITRN, dosing with LY900014 20 minutes after meal was not
+                    studied.
+
+
+                    Table 4: Primary Analysis Study ITRN
+
+                        Treatment                                        LY900014                        Humalog
+                                                                          N = 336                        N = 337
+                               Baseline HbA1c (%)                           7.3(0.68)                       7.3(0.72)
+                                   Mean (std)
+
+                                Change in HbA1c                            -0.36                           -0.38
+
+                               Difference between                                           0.03
+                             treatment and Humalog                                      (-0.08, 0.13)
+                                    (95% CI)
+
+                              Source: Data from BLA 761109 as analyzed by FDA statistical reviewer in support of labeling
+
+
+                    LY900014 vs Humalog change in HbA1c for non-inferiority: In the FDA analysis, the change
+                    from baseline in HbA1c after 26 weeks of treatment was -0.36% with LY900014 compared to
+                    -0.38% with Humalog. The treatment difference of 0.03 with the upper bound of the two-sided
+                    95% CI less than 0.4% (95% CI: -0.08, 0.13) established non-inferiority. The upper limit of
+                    the 95% CI for the difference in change in HbA1c was also less than the noninferiority margin
+                    of 0.3%.
+
+                    LY900014 vs Humalog change in HbA1c for superiority: LY900014 was not found to be
+                    superior to Humalog, as the treatment difference and 95% CI for the difference between
+                    LY900014 and Humalog was not below zero.
+
+
+
+
+                    Page 16 of 24                                                                                           16
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    CDTL Comment: the FDA statistical reviewer, the FDA primary clinical reviewer, and I all
+                    agree that efficacy was demonstrated on the basis of meeting the pre-specified non-inferiority
+                    margin for mealtime LY900014 compared to mealtime Humalog.
+
+                    CDRL Comment: At the pre-BLA meeting, the Applicant proposed that the totality of data from
+                    the Phase 3 studies, clinical pharmacology mealtime studies (ITRV and ITRW) and the model-
+                    based simulations, support the dosing of LY90014 at the start of the meal and 20 minutes after
+                    the start of the meal in patients with T2D as well as T1D. FDA agreed that this data package
+                    appeared adequate to support review of a post-meal dosing indication in patients with T1D
+                    and T2D. As previously described, postmeal LY900014 administration was demonstrated to be
+                    noninferior to Humalog on glycemic control in the pivotal Study ITRM in patients with T1D.
+                    The Applicant’s clinical pharmacology studies comparing postmeal dosing of LY900014 to
+                    mealtime Humalog in patients with T1D and T2D for PPG excursion following MMTT showed
+                    that the PPG excursion over the 5-hour MMTT was not statistically significantly different
+                    between LY900014 and Humalog when LY900014 was dosed 20 minutes after the start of the
+                    meal and Humalog was dosed immediately before the start of the meal. Additionally, the
+                    simulations from the pharmacometrics assessment suggest that the safety of postmeal dosing
+                    of LY900014 in patients with T2D, with respect to hypoglycemia, is comparable to that of
+                    Humalog (see section 5). In addition, as detailed in her review, Dr Misra’s clinical judgment
+                    is that adverse safety or efficacy findings associated with insulin products such as LY900014
+                    are more likely be captured in trials with T1D patients than with T2D patients, as the T2D
+                    population is less insulin sensitive. Overall, she therefore concluded the data support postmeal
+                    dosing in the T2D population as well as the T1D population. I concur with her assessment.
+
+
+                        7. Safety
+                    Dolly Misra (from the Division of Diabetes, Lipid Disorders, and Obesity) also reviewed the
+                    clinical safety data supporting BLA 761109. She based her assessment of safety primarily on
+                    the data from the pivotal MDI trials (ITRM and ITRN). She also considered supported safety
+                    data from the CSII trial (ITSI). She concluded, and I concur, that the safety data support a
+                    finding of a favorable benefit-risk profile for LY900014. See Dr. Misra’s clinical review for
+                    additional details.
+
+                    In summary, the safety data from ITRM and ITRN were generally integrated. However, certain
+                    safety outcomes were assessed individually due the differences in dosing regimens (i.e., the
+                    inclusion of a postmeal dosing arm in ITRM): dropouts, treatment discontinuations, deaths,
+                    and hypoglycemia. No notable differences across dosing regimens or study populations were
+                    observed for these safety parameters.
+
+                    The review of the safety data from ITSI was not integrated with the MDI trials because of the
+                    differences in route of administration and differences in study design (e.g., study duration):
+                    during the treatment periods, there were no deaths or discontinuations due to AEs. The
+                    incidence of patients reporting at least 1 TEAE was higher among patients receiving
+                    LY900014 (46.9%) than patients receiving Humalog (18.8%); this difference was driven by
+                    infusion site reactions.
+
+
+                    Page 17 of 24                                                                                17
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+
+                    Exposure in Phase 3 MDI trials
+
+                    Details about the safety population and duration of exposure to study drug administered in
+                    trials ITRM and ITRN is presented in Table 5).
+
+                    Table 5: Summary of Exposure to Investigational Product from Randomization to Week
+                    52 in ITRM and ITRN
+                                                            Study ITRM (T1D)                   Study ITRN (T2D)                      Total
+                                                          Humalog            All LY         Humalog            All LY          Humalog           All LY
+                                                          (N=442)           (N=780)         (N=337)           (N=336)          (N=779)          (N=1116)
+                         Days of exposure, n (%)
+                             >0 to <30 days                 1 (0.2)          4 (0.5)         1 (0.3)           5 (1.5)           2 (0.3)          9 (0.8)
+                            ≥30 to <90 days                 11 (2.5)        16 (2.1)          8 (2.4)          5 (1.5)          19 (2.4)         21 (1.9)
+                           ≥90 to <180 days                  9 (2.0)        47 (6.0)         33 (9.8)         45 (13.4)         42 (5.4)         92 (8.2)
+                           ≥180 to <360 days               84 (19.0)       327 (41.9)       295 (87.5)       281 (83.6)        379 (48.7)       608 (54.5)
+                               >360 days                  337 (76.2)       386 (49.5)            0                0            337 (43.3)       386 (34.6)
+                    Abbreviations: All LY = LY900014 administered 0 to 2 minutes prior to the start of the meal or administered 20 minutes after the start of a
+                    meal; N = number of patients in the analysis population; n = number of patients in the specified category; T1D = type 1 diabetes; T2D = type
+                    2 diabetes. Source: Table 2.7.4.3 Summary of Clinical Safety
+
+
+                    Results
+                    In the MDI studies, six deaths were observed (4 among patients treated with LY900014 and 2
+                    among patients treated with Humalog) prior to database lock. An additional 4 deaths were
+                    reported after the safety follow-up visit (three among patients treated with LY900014 and 1
+                    among patients treated with Humalog). Dr. Misra reviewed the narratives for all the deaths and
+                    concluded that they were unlikely to have been causally associated with the investigational
+                    products.
+
+                    In general, adverse events and serious adverse events were consistent with the known adverse
+                    reactions associated with insulin products and similar across treatment arms (see Table 6 and
+                    Table 7). Treatment discontinuations due to adverse events were generally similar across
+                    treatment arms in the MDI studies: 1.7% of patients receiving LY900014 discontinued due to
+                    adverse events, compared to 1.0% of patients receiving Humalog (see Table 8).
+
+                    Table 6: Adverse Events in Safety Populations of ITRM and ITRN
+
+
+
+
+                    Page 18 of 24                                                                                                                            18
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Abbreviations: All LY = LY900014 administered 0-2 minutes prior to the start of the meal or administered 20
+                    minutes after the start of a meal; N = number of subjects in the analysis population; n = number of subjects with
+                    at least one adverse event per event type.
+                    *a - Subjects may be counted in more than one category.
+                    *b - Deaths are also included as serious adverse events and discontinuations due to adverse events.
+                    *c - Includes events that were considered related to study treatment as judged by the investigator.
+                    *d – Mantel-Haenszel Odds Ratio stratified by study. All LY is numerator
+                    ty of odds ratios across studies was assessed using the Breslow Day test
+                    p-values are from Cochran-Mantel-Haenszel (CMH) test of general association stratified by study. MedDRA
+                    Version 21.1 Source: Summary of Clinical Safety Table 2.7.4.9
+
+
+                    Table 7: Serious Adverse Events by Preferred Term Reported by >1 Patient from
+                    Randomization to Safety Follow-Up in ITRM and ITRN
+                                                 Humalog               All LY             Total
+                                                 (N=779)              (N=1116)          (N=1895                     Heterogeneity
+         Preferred Term                                n (%)            n (%)             n (%)             ORa             p-           p-valuec
+         Patients with ≥1 SAE                        100 (12.8)       113 (10.1)        213 (11.2)          0.73          0.342           0.030
+
+         Hypoglycaemia                                  45 (5.8)       53 (4.7)          98 (5.2)           0.69          0.952           0.077
+         Pneumonia                                       2 (0.3)        5 (0.4)           7 (0.4)           2.09          0.247           0.347
+         Cellulitis                                      1 (0.1)        3 (0.3)           4 (0.2)           1.92          0.399           0.546
+         Angina pectoris                                 0 (0.0)        3 (0.3)           3 (0.2)           NC             NC             0.147
+         Chronic obstructive pulmonary disease           0 (0.0)        3 (0.3)           3 (0.2)           NC             NC             0.082
+         Nephrolithiasis                                 0 (0.0)        3 (0.3)           3 (0.2)           NC             NC             0.111
+         Gastroenteritis                                 1 (0.1)        2 (0.2)           3 (0.2)           1.35          0.284           0.790
+         Acute respiratory failure                       0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.156
+         Dyspnoea                                        0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.156
+         Hypoglycaemic coma                              0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.287
+         Hypoglycaemic unconsciousness                   0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.287
+         Osteomyelitis                                   0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.214
+         Radius fracture                                 0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.287
+         Septic shock                                    0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.156
+         Syncope                                         0 (0.0)        2 (0.2)           2 (0.1)           NC             NC             0.214
+         Acute myocardial infarction                     3 (0.4)        1 (0.1)           4 (0.2)           0.30          0.401           0.251
+         Transient ischaemic attack                      3 (0.4)        1 (0.1)           4 (0.2)           0.20          0.599           0.145
+         Angina unstable                                 1 (0.1)        1 (0.1)           2 (0.1)           0.72          0.220           0.843
+         Appendicitis                                    1 (0.1)        1 (0.1)           2 (0.1)           0.57           NC             0.684
+         Cataract                                        1 (0.1)        1 (0.1)           2 (0.1)           1.00           NC             0.998
+         Depression                                      1 (0.1)        1 (0.1)           2 (0.1)           0.57           NC             0.684
+         Fall                                            1 (0.1)        1 (0.1)           2 (0.1)           1.00           NC             0.998
+         Headache                                        1 (0.1)        1 (0.1)           2 (0.1)           0.57           NC             0.684
+         Hypertension                                    1 (0.1)        1 (0.1)           2 (0.1)           1.00           NC             0.998
+         Peritonsillar abscess                           1 (0.1)        1 (0.1)           2 (0.1)           0.57           NC             0.684
+         Spinal compression fracture                     1 (0.1)        1 (0.1)           2 (0.1)           0.78          0.103           0.843
+         Ankle fracture                                  2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.060
+         Aortic stenosis                                 2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.060
+         Coronary Artery stenosis                        2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.158
+         Gastrointestinal haemorrhage                    2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.158
+         Myocardial infarction                           2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.158
+         Pulmonary embolism                              2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.158
+         Pyelonephritis acute                            2 (0.3)        0 (0.0)           2 (0.1)           0.00           NC             0.158
+
+
+
+
+                    Page 19 of 24                                                                                                   19
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Source: Summary of Clinical Safety Table 2.7.4.14
+
+                    Table 8: Adverse Events Reported as Reason for Discontinuation from IP in Week 52
+                    Safety Populations from ITRM and ITRN
+
+
+
+
+                    Abbreviations: IP = Investigational Product; All LY = LY900014 administered 0-2 minutes prior to the start of the meal or administered 20
+                    minutes after the start of a meal; N = number of subjects in analysis population; n = number of subjects with events meeting specified
+                    criteria; NC = Not Calculable.
+                    *a - Denominator adjusted because gender-specific event for females: N=348(Humalog), N=500(All LY)
+                    *b – Mantel-Haenszel Odds Ratio stratified by study. All LY is numerator
+                    *c – Heterogeneity of odds ratios across studies was assessed using the Breslow Day test
+                    *d – p-values are from Cochran-Mantel-Haenszel (CMH) test of general association stratified by study. MedDRA Version 21.1
+                    Source: ISS Table ISS.4.12
+
+                    Dr. Misra evaluated hypoglycemia separately in the two pivotal MDI studies, due to
+                    differences in the study populations (i.e., T1D vs T2D) and differences in the dosing regimens
+                    (i.e., the inclusion of a postmeal treatment arm in ITRM). Dr. Misra focused her review on the
+                    incidence and rates of severe hypoglycemia and documented clinically significant
+                    hypoglycemia with blood glucose <54 mg/dl (with and without symptoms). See Table 9, Table
+                    10, Figure 8, Figure 9, and Figure 10.
+
+                    Table 9: Summary of Severe Hypoglycemia Rate and Incidence from Randomization to
+                    Week 26 - Study ITRM Safety Population
+                            Treatment                                 Rate                                   Incidence
+                                                               Aggregate p-valuea p-valuea    (%)                 p-valueb p-valueb
+                                                                Rate/100      vs       vs                            vs        vs
+                                                  Mean (SD)       Years    Humalog LY900014           Episodes Humalog LY900014
+                                                                               —       —                              -        —
+                    Humalog (N=442)             18.48 (103.90)    18.34                     25 (5.66)     40
+                    LY900014 (N=451)            17.04 (84.34)     16.50     0.764       -   25 (5.54)     37       0.941        -
+                    LY900014+20 (N=329)         21.15 (168.38)    13.70     0.454    0.610 15 (4.56)      22        0.517    0.559
+                    Abbreviations: N = number of patients in the population with baseline and post-baseline value at the specified time point: n
+                    = number of patients with hypoglycemia; SD = standard deviation. a p-value is from empirical variance estimation for the
+                    event rate, and is for comparison of aggregate rates, b p-value is from logistic regression model with term for treatment.
+                    Note: The aggregate rate was calculated using the total number of severe hypoglycemia episodes divided by the cumulative
+                    days on treatment from all patients within a treatment group, times 36525 (for rate per 100 years).
+                    Source: Summary of Clinical Safety Table 2.7.4.17
+
+
+
+
+                    Page 20 of 24                                                                                                                               20
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Figure 8: Rate of Hypoglycemia (BG<54 mg/dL) at Baseline and 0 to 26 weeks in ITRM
+
+
+
+
+                    Abbreviations: A = LY900014/Humalog; B = LY900014+20/Humalog; BG = blood glucose; C =
+                    LY900014+20/LY900014; LSM = least squares mean; RR = relative rate; SE = standard error. Event rate data are
+                    LSM (SE). Source: Summary of Clinical Safety Figure 2.7.4.1
+
+                    Figure 9: Rate and Incidence of Documented Symptomatic and Asymptomatic Postmeal
+                    Hypoglycemia from 0 to 26 weeks in ITRM
+
+
+
+
+                    Abbreviations: A = LY900014/Humalog; B = LY900014+20/Humalog; BG = blood glucose; C =
+                    LY900014+20/LY900014; LSM = least squares mean; RR = relative rate; SE=standard error. Data are LSM (SE)
+                    a Rate of daily all documented hypoglycemia. Source: CSR ITRM Figure ITRM.12.6
+
+
+
+
+                    Page 21 of 24                                                                                            21
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    Table 10: Summary of Severe Hypoglycemia Rate and Incidence from Randomization to
+                    Week 26 in ITRN Safety Population
+                                                                    Rate                                           Incidence
+                                                                    Aggregate
+                    Treatment        N          Mean (SD)         Rate 100 Years        p-valuea       n (%)       Episodes      p-valueb
+                    Humalog          337       4.15 (32.49)            4.19               0.467        6(1.78)         7           0.350
+                    LY900014         336       2.37 (26.53)            2.44                            3 (0.89)        4
+                    Abbreviations: N = number of patients in the population with baseline and post-baseline value at the specified time point: n
+                    = number of patients with hypoglycemia; SD = standard deviation. a P-value is from empirical variance estimation for the
+                    event rate, and is for comparison of aggregate rates, b Logistic regression model for postbaseline comparisons between
+                    treatment and control groups: Incidence = Treatment. Note: The aggregate rate is calculated using the total number of
+                    severe hypoglycemia episodes divided by the cumulative days on treatment from all patients within a treatment group,
+                    times 36525 (for rate per 100 years). Source: Summary of Clinical Safety Table 2.7.4.23
+
+                    Figure 10: Rate of Hypoglycemia (BG<54 mg/dL) from 0 to 26 Weeks in ITRN
+
+
+
+
+                    Abbreviations: BG = blood glucose; LSM = least squares mean; RR = relative rate; SE = standard error.
+                    Source: Summary of Clinical Safety Figure 2.7.4.5
+
+                    Overall, Dr. Misra concluded that the hypoglycemia data from ITRM and ITRN show that
+                    LY900014 has a comparable safety profile to Humalog with response to postprandial
+                    hypoglycemia. She also concluded that, while ITRN did not investigate postmeal dosing of
+                    LY900014 in patients with T2D, that the reassuring hypoglycemia profile associated with
+                    postmeal dosing of LY900014 in ITRM supports a favorable benefit-risk assessment for
+                    postmeal dosing of LY900014 in the T2D population. She based this conclusion on her clinical
+                    opinion that adverse hypoglycemia findings associated with postmeal dosing would be more
+                    likely to have been observed in the T1D patient population. I concur with her assessment.
+
+
+                        8. Advisory Committee Meeting
+                    No new efficacy or safety issue rose to the level of requiring the input from an advisory panel.
+                    Therefore, an advisory committee meeting was not convened for this NDA.
+
+
+
+
+                    Page 22 of 24                                                                                                             22
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+
+                        9. Pediatrics
+                    BLA 761109 triggers PREA. The Applicant reached agreement with FDA on December 4,
+                    2017 on the initial Pediatric Study Plan (iPSP) for LY900014 under IND 127210. Partial
+                    waivers were granted for pediatric patients with T1D less than one year of age because studies
+                    are impossible or highly impracticable and for pediatric patients less than 10 years of age
+                    because the product fails to represent a meaningful therapeutic benefit over existing therapies
+                    and because it is unlikely to be used in a substantial number of all pediatric age groups. A
+                    pediatric deferral was requested for its clinical study (ITSB) in children with T1D older than
+                    one year of age; ITSB was initiated on April 7, 2019. As described below, PMR 3874-1 will
+                    be issued with the approval of BLA 761109 to ensure the completion of Study ITSB.
+                                                                                                            (b) (4)
+                    No clinical studies are planned in children with T2D.
+
+
+
+
+                        10.         Other Relevant Regulatory Issues
+                    OSI Site Inspections: Cynthia Kleppinger from OSI conducted the review of the inspections
+                    for the clinical sites for BLA 761109. The inspections included two domestic and three foreign
+                    clinical sites. The inspection of one clinical investigator revealed regulatory deficiencies,
+                    which are unlikely to have a significant impact on overall safety and efficacy results. The
+                    inspection of the remaining investigators and of the Applicant reveal no regulatory violations.
+                    Dr. Kleppinger concluded, and I concur, that the inspectional findings support the validity of
+                    the data reported by the Applicant under BLA 761109.
+
+                    Proprietary Name: Ariane Conrad from DMEPA reviewed the proposed proprietary names
+                    Lyumjev, Lyumjev KwikPen, Lyumjev Junior KwikPen, and Lyumjev Tempo Pen for review
+                    on December 13, 2019. After review, Dr. Conrad determined (and I concur) that the proposed
+                    proprietary names are acceptable.
+
+                    Non-proprietary Name: Carlos Mena-Grillasca from DMEPA reviewed the proposed four-
+                    letter suffixes for inclusion in the non-proprietary name. DMEPA concluded, and I concur, that
+                    the suffix -aabc is acceptable and that the non-proprietary name will be insulin lispro-aabc.
+
+                        11.         Labeling
+                    Human Factors: Janice Purcell evaluated the human factors (HF) differentiation study results.
+                    The HF differentiation study sought to demonstrate that LY900014 pre-filled pens can be
+                    differentiated from other products that users may take concurrently. The review of the study
+                    revealed six instances where patients selected the wrong pen injector. However, it does not
+                    appear that any of the selection errors were due to the user interface; it was therefore
+                    determined that no changes to the user interface were warranted. The evaluation did identify
+                    areas of vulnerability that may lead to medication errors. Recommendations were provided to
+
+
+                    Page 23 of 24                                                                                     23
+
+Reference ID: 4625108
+                    Division Summary Memo/CDTL Review
+                    BLA 761109 (Lyumjev/insulin lispro-aabc)
+
+                    the Applicant to implement, as it was determined that the changes can be implemented without
+                    additional validation testing.
+
+                    DMEPA: Ariane Conrad reviewed revised container labels and carton labeling received on
+                    May 27, 2020 and June 4, 2020 to determine if they are acceptable from a medication error
+                    perspective. The revisions were made in response to recommendations previously provided.
+                    The review determined that the Applicant implemented all of the recommendations.
+
+                    OPDP and Patient Labeling: Ankur Kalola from the Office of Prescription Drug Programs
+                    (OPDP) and Nyedra Booker from the Division of Medical Policy Program (DMPP) – in
+                    conjunction with reviewers from DDLO – provided recommendations to the Applicant for the
+                    proposed prescribing information (PI), patient package inserts (PPI), and Instructions for Use
+                    (IFUs). The Applicant implemented acceptable revisions to the PI, PPI, and IFUs to address
+                    the recommendations.
+
+
+                        12.            Recommendations/Risk Benefit Assessment
+
+                             •      Recommended Regulatory Action
+
+                    I recommend Approval
+
+                             •      Post-marketing requirements:
+
+                    I recommend issuing a post-marketing requirement to ensure completion of the clinical study
+                    (ITSB) in children with T1D older than one year of age for which the Applicant requested a
+                    pediatric deferral.
+
+                    PMR 3874-1: Conduct a 26-week, randomized, controlled efficacy and safety study comparing
+                    Lyumjev (insulin lispro-aabc) administered at mealtime and Lyumjev (insulin lispro-aabc)
+                    administered 20 minutes postmeal to Humalog administered at mealtime, in combination with
+                    long acting insulin, in pediatric patients with type 1 diabetes ages 1 to 17 years (inclusive).
+
+
+
+
+                    Page 24 of 24                                                                               24
+
+Reference ID: 4625108
+                                                                                                    Signature Page 1 of 1
+
+          --------------------------------------------------------------------------------------------
+          This is a representation of an electronic record that was signed
+          electronically. Following this are manifestations of any and all
+          electronic signatures for this electronic record.
+          --------------------------------------------------------------------------------------------
+          /s/
+          ------------------------------------------------------------
+
+          PATRICK ARCHDEACON
+          06/15/2020 02:25:37 PM
+
+
+
+
+Reference ID: 4625108
+

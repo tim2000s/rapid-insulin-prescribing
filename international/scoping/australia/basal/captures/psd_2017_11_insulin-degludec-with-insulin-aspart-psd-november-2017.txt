@@ -1,0 +1,888 @@
+                           Public Summary Documents – November 2017 PBAC Meeting
+
+
+
+5.09 INSULIN DEGLUDEC WITH INSULIN ASPART,
+     Injections, cartridges, 70 units-30 units per mL, 3 mL,
+     5
+     Injections, pre-filled pen, 70 units-30 units per mL,
+     3 mL, 5
+     Ryzodeg®, Novo Nordisk Pharmaceuticals Pty Ltd
+1        Purpose of application
+1.1       The submission requested an unrestricted listing for insulin degludec with insulin
+          aspart (IDegAsp) for treatment of adult patients with diabetes mellitus where insulin
+          treatment is necessary.
+1.2       For the proposed drug a cost-minimisation was made to biphasic insulin aspart 30
+          (BIAsp 30) as main comparator in type 2 diabetes mellitus (T2DM) patients and
+          insulin detemir (IDet) in type 1 diabetes mellitus (T1DM) patients.
+Table 1: Key components of the clinical issue addressed by the submission
+Component      Description
+Population     Diabetes mellitus
+               Co-formulated 70% IDeg (basal/long-acting) + 30% IAsp (bolus/bolus-acting)
+Intervention
+               Dosed once-daily or twice-daily with the main meal(s)
+               T2DM: 30% IAsp and 70% protamine-crystallised IAsp (BIAsp 30)
+Comparator
+               T1DM: IDet
+               Noninferior HbA1c
+               Lower fasting plasma glucose
+Outcomes
+               Lower risk of hypoglycaemia
+               Lower total insulin dose
+               T2DM: IDegAsp is noninferior in terms of effectiveness (change in HbA1c) and superior in terms of safety
+               (confirmed hypoglycaemia) compared with BIAsp 30.
+Clinical claim
+               T1DM: IDegAsp is noninferior in terms of effectiveness (change in HbA1c) and superior in terms of safety
+               (confirmed nocturnal hypoglycaemia) compared with IDet.
+Source: Table 1.1.1, p13 of the submission
+BIAsp = biphasic insulin aspart; HbA1c = glycated haemoglobin; IAsp = insulin aspart; IDeg insulin degludec; IDegAsp = insulin
+degludec/insulin aspart; IDet = insulin detemir; T1DM = type 1 diabetes mellitus; T2DM = type 2 diabetes mellitus
+
+
+
+
+                                                                1
+                            Public Summary Documents – November 2017 PBAC Meeting
+
+
+2 Requested listing
+Name, restriction, manner of            Max        Max         No. of       Dispensed price for      Proprietary name
+administration, form                    Qty        Qty         repeats      maximum quantity         and manufacturer
+                                        (packs)    (units)
+INSULIN DEGLUDEC + INSULIN              5          5           1            Published                Ryzodeg®
+ASPART                                                                      $'''''''''''''''''       FlexTouch® &
+insulin degludec 70 units/mL +                                              Effective                Ryzodeg® Penfill®b,
+insulin aspart 30 units/mL injection,                                       SPA $'''''''''''''''''   Novo Nordisk
+5 x 3 mL syringes                                                                                    Pharmaceuticals Pty
+                                                                                                     Limited
+Condition                               Type 1 diabetes mellitus and type 2 diabetes mellitus
+                                        To improve glycaemic control in adults with diabetes mellitus requiring basal and
+PBS Indication
+                                        prandial insulin (where insulin treatment is necessary)
+Population criteria                     Adults with diabetes mellitus (age ≥ 18 years)
+Restriction:                            Unrestricted
+SPA = special price arrangement
+
+2.1       The submission proposed a special price arrangement (SPA) with an effective
+          dispensed price of $''''''''''''. The requested published dispensed price is $''''''''''''.
+
+3         Background
+Registration status
+3.1       TGA status at time of PBAC consideration: The submission was made under the
+          TGA/PBAC Parallel Process. The second round clinical evaluation report and TGA
+          Delegate’s Overview were available to the PBAC. TGA approval is expected in mid-
+          November 2017. The PBAC noted that IDeg as a single agent is currently undergoing
+          TGA evaluation (submission, p18).
+3.2       IDegAsp has not been considered previously by the PBAC.
+
+Previous PBAC considerations of insulin products
+3.3       There is a range of insulin products currently subsidised on the PBS. Many have been
+          listed for a considerable time. Insulin NPH (human) was PBS listed in 1986, insulin
+          lispro was listed in 1996. The therapeutic relativity sheets and Public Summary
+          Documents (PSDs) provide the following information in relation to previous PBAC
+          recommendations for insulin products:
+           Insulin lispro was accepted for listing on the basis of an advantage over short
+            acting insulin (this is reflected in a price premium of 20% over NPH);
+           The insulin lispro-insulin lispro protamine combination insulin product was listed
+            on the basis that it deserves a premium similar to that for plain insulin lispro
+            compared to regular human insulin (this is reflected in a price premium of 20%
+            over NPH);
+           Insulin aspart and Insulin glulisine were recommended on a cost-minimisation
+            basis to insulin lispro (unit to unit);
+
+
+
+
+                                                                2
+             Public Summary Documents – November 2017 PBAC Meeting
+
+
+ Insulin glargine was recommended for listing on a cost-effectiveness basis versus
+  insulin NPH (this is reflected in a price premium of '''''% over NPH)
+ Insulin detemir was recommended for listing on a cost minimisation basis with
+  insulin glargine for T1DM (unit to unit);
+ Insulin detemir was recommended for listing for use in T2DM on a cost-
+  minimisation basis with insulin glargine. However, the PBAC had doubts regarding
+  the equi-effective dose of detemir versus glargine. The submission claimed that
+  one unit of detemir was equivalent to one unit of glargine, based on the direct
+  randomised controlled data. When the calculations were adjusted to allow for the
+  disparate dosing of detemir and glargine in the clinical trials, the analysis
+  suggested a daily per unit ratio of 1.10 of detemir to glargine. The sponsor elected
+  not to proceed with this listing; and
+ Insulin glargine and insulin detemir have special pricing arrangements.
+
+
+
+
+                                        3
+                            Public Summary Documents – November 2017 PBAC Meeting
+
+
+Table 2: Ex-manufacturer prices (AEMP) of currently listed insulin products and proposed new product
+Legal Instrument        Legal Instrument Form           Brand Name             Pack      AEMP        Price per
+Drug                                                                           Quantity              unit of
+                                                                                                     insulin
+
+Insulin degludec +          insulin degludec 70 units/mL                            1   Proposed
+insulin aspart              + insulin aspart 30 units/mL                                $'''''''''''''     ''''''''''''''''''''
+                            injection, 5 x 3 mL syringes
+
+Insulin detemir             Injections (human analogue),    Levemir FlexPen         1   $'''''''''''''*    ''''''''''''''''''''
+                            cartridges, 100 units per mL,   Levemir
+                            3 mL, 5                         Penfill
+
+Insulin glargine            Injections (human analogue),    Lantus                  1   $''''''''''''''*   ''''''''''''''''''
+                            cartridges, 100 units per mL,
+                            3 mL, 5
+
+Insulin aspart              Injections (human analogue),    NovoRapid FlexPen       1   $42.38             0.02825
+                            cartridges, 100 units per mL,   NovoRapid Penfill 3
+                            3 mL, 5                         mL
+Insulin aspart with         Injections (human analogue),    NovoMix 30 FlexPen      1   $42.38             0.02825
+insulin aspart              cartridges, 30 units-70 units   NovoMix 30 Penfill 3
+protamine suspension        per mL, 3 mL, 5                 mL
+Insulin glulisine           Injections (human analogue),    Apidra                  1   $42.38             0.02825
+                            cartridges, 100 units per mL,   Apidra SoloStar
+                            3 mL, 5
+Insulin lispro              Injections (human analogue),    Humalog                 1   $42.38             0.02825
+                            cartridges, 100 units per mL,   Humalog KwikPen
+                            3 mL, 5
+Insulin lispro with         Injections (human analogue),    Humalog Mix25           1   $42.38             0.02825
+insulin lispro protamine    cartridges, 25 units-75 units   Humalog Mix25
+suspension                  per mL, 3 mL, 5                 KwikPen
+Insulin lispro with         Injections (human analogue),    Humalog Mix50           1   $42.38             0.02825
+insulin lispro protamine    cartridges, 50 units-50 units   Humalog Mix50
+suspension                  per mL, 3 mL, 5                 KwikPen
+Insulin isophane            Injections (human),             Humulin NPH             1   $35.32             0.02355
+                            cartridges, 100 units per mL,   Protaphane InnoLet
+                            3 mL, 5                         Protaphane Penfill 3
+                                                            mL
+Insulin neutral             Injections (human),             Actrapid Penfill 3 mL   1   $35.32             0.02355
+                            cartridges, 100 units per mL,   Humulin R
+                            3 mL, 5
+Insulin neutral with        Injections (human),             Humulin 30/70           1   $35.32             0.02355
+insulin isophane            cartridges, 30 units-70 units   Mixtard 30/70 InnoLet
+                            per mL, 3 mL, 5
+Insulin neutral with        Injections (human),             Mixtard 30/70 Penfill   1   $35.32             0.02355
+insulin isophane            cartridges, 30 units-70 units   3 mL
+                            per mL, 3 mL, 5                 Mixtard 50/50 Penfill
+                                                            3 mL
+Source: compiled during evaluation
+NPH = neutral protamine Hagedorn
+*Effective price
+
+
+4          Population and disease
+4.1        IDegAsp is a premixed insulin that the submission proposed will be used for the
+           treatment of adults with T1DM and T2DM in order to achieve good glycaemic
+           control without increasing the risk of adverse events (AE) such as hypoglycaemic
+           events. Premixed insulins are especially used in T2DM patients for glycaemic control
+
+
+                                                               4
+                    Public Summary Documents – November 2017 PBAC Meeting
+
+
+       as they cover the basal needs through the day and the bolus needs for meal times.
+       The existing premixed insulins are typically a 70/30 mixture of an intermediate-
+       acting and a fast-acting insulin. However, due to physiological incompatibilities it was
+       not possible, until recently, to combine long- and short-acting insulins. If listed
+       IDegAsp would be the first long acting/short acting premixed insulin available on the
+       PBS.
+4.2    The clinical management algorithms for T2DM patients are based on a position
+       statement of the Australian Diabetes Society (Gunton et al 2016). This treatment
+       algorithm for T2DM consists of first line, second line and third line treatment. The
+       proposed drug would be similarly positioned as other premixed insulins which
+       include mixtures of basal and bolus insulins. Insulin treatment is used typically as a
+       second or third line treatment.
+4.3    The submission did not present clinical management for T1DM. Insulin is a necessary
+       therapy for patients with T1DM. Typically, a combination of a long-acting and a
+       short-acting insulin is used for these patients. Premixed insulins are also used as part
+       of the treatment regimen for T1DM patients; however, they play only a very minor
+       role in managing T1DM patients. The dosage of insulin for these patients is adjusted
+       to the frequency of meal(s) and carbohydrate intake.
+4.4    The PBAC accepted the clinical place of IDegAsp in T2DM as proposed by the
+       submission but considered that the clinical place of IDegAsp in T1DM was unclear as
+       pre-mixed insulins are generally not preferred in this population.
+For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+5      Comparator
+T2DM
+5.1    The submission nominated BIAsp 30, a premixed insulin, as the main comparator in
+       T2DM patients. The main arguments provided in support of this nomination are the
+       pharmacologic similarities of both drugs and that both formulations are premixed
+       insulins. BIAsp 30 holds a market share of 70% of the PBS premixed insulin market.
+5.2    The PBAC considered that BIAsp30 was an appropriate comparator for T2DM.
+5.3    The PBAC could only recommend listing of IDegAsp if it is satisfied that IDegAsp
+       provides, for some patients, a significant improvement in efficacy or reduction of
+       toxicity over the alternative therapy or therapies The PBAC noted it had previously
+       accepted there was a clinical advantage to using insulin aspart over short acting
+       insulins (through insulin lispro). The PBAC was satisfied that IDegAsp would provide a
+       similar clinical advantage over short acting insulins.
+5.4    The PBAC did not consider insulin glargine (IGlar) to be an alternative therapy to
+       IDegAsp for T2DM. The PBAC agreed with the pre-PBAC response (p1) that basal
+       bolus use incorporating IGlar is not expected to change with the introduction of
+       IDegAsp and that IGlar is targeted to a different patient population from IDegAsp.
+       However, the PBAC noted that the price requested for IDegAsp was higher than that
+
+
+
+                                                5
+                   Public Summary Documents – November 2017 PBAC Meeting
+
+
+       for IGlar and that a clinical comparison against IGlar in T2DM may be informative in
+       this context.
+
+T1DM
+5.5    The submission nominated insulin detemir (IDet) as the main comparator in T1DM
+       patients.
+5.6    The PBAC noted that pre-mixed insulins are not typically used in T1DM and
+       considered that it was not clear what role IDegAsp would have in T1DM if listed. The
+       PBAC considered that although there may be a small uptake in T1DM patients
+       currently using a pre-mixed insulin who may switch to IDegAsp, it would be unlikely
+       that prescribers would substitute IDegAsp for basal plus bolus treatments.
+5.7    The PBAC considered that the comparator proposed for the T2DM population (BIAsp
+       30) or other premixed insulins may be more appropriate comparators for T1DM as
+       they possess pharmacologic similarities and both formulations are premixed insulins.
+For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+6      Consideration of the evidence
+Sponsor hearing
+6.1    The sponsor requested a hearing for this item. The clinician detailed his personal
+       experience treating diabetic patients and discussed the importance of
+       hypoglycaemic control. The clinician stated that IDegAsp had demonstrated
+       significant reductions in the risk of confirmed hypoglycaemia in clinical trials. The
+       clinician described that the fear of future episodes of hypoglycaemia conflicts with
+       treatment success, for both patients and clinicians. Patients may self-modify their
+       insulin doses following a hypoglycaemic event, which in turn may impact the proper
+       treatment of their condition. The clinician considered that IDegAsp, the first
+       combination of basal and ultra, long-acting insulin, may increase the chances that
+       patients will meet targets for HbA1c and would likely be the pre-mixed insulin of
+       choice for T2DM patients.
+6.2    The PBAC considered that the hearing did not add substantively to the evidence
+       presented in the submission.
+
+Consumer comments
+6.3    The PBAC noted and welcomed the input from one organisation, the Australian
+       Diabetes Society, via the Consumer Comments facility on the PBS website. The
+       Australian Diabetes Society supported the use of IDegAsp in clinical practice. The
+       PBAC noted the advice that recent studies have shown that the use of IDegAsp has
+       been shown to reduce the risk of hypoglycaemia in both T1DM and T2DM,
+       particularly nocturnal hypoglycaemic events and that IDegAsp and IGlar achieved
+       similar HbA1c reduction. The Australian Diabetes Society also noted that IDegAsp
+       would be the first available combination of rapid and ultralong-acting insulin. The
+       PBAC noted that this advice was supportive of the submission.
+
+
+
+                                               6
+                             Public Summary Documents – November 2017 PBAC Meeting
+
+
+Clinical trials
+6.4        The submission was based on three head-to-head trials comparing IDegAsp to BIAsp
+           30 (study 3940, N=394; study 3592, N=447; study 3597, N=424) for T2DM patients
+           and one head-to-head trial (main trial with extension trial) comparing IDegAsp to
+           IDet (study 3594/3645, N=548) for T1DM patients. No subgroup analyses or meta-
+           analyses were required. The T2DM trials were not pooled in the clinical evidence as
+           they were from three different population groups; 3940 (T2DM, insulin-naïve), 3592
+           (T2DM, insulin-experienced), and 3597 (T2DM, insulin-experienced, Japanese study).
+           A supplementary pooled analysis of 3592, and 3597 was provided.
+6.5        Details of the trials presented in the submission for T2DM are provided in table 3.
+Table 3: Trials and associated reports presented in the submission for T2DM
+Trial ID                  Protocol title/ Publication title                                              Publication citation
+Direct randomised trial(s)
+3940 (T2DM, insulin- A 26-week, randomised, open-label, multinational treat-to-target trial   June 2013
+naïve)                comparing  efficacy and  safety of IDegAsp  BID and  BIAsp 30 BID  both
+                      with metformin in insulin naïve subjects with type 2 diabetes mellitus
+                      inadequately controlled on metformin monotherapy or metformin in
+                      combination with one OAD.
+
+                          Franek, E., et al. (2016). Twice-daily insulin degludec/insulin aspart    Diabetic Medicine 33(4):
+                          provides superior fasting plasma glucose control and a reduced rate of 497-505.
+                          hypoglycaemia compared with biphasic insulin aspart 30 in insulin-
+                          naïve adults with Type 2 diabetes.
+3592 (T2DM, insulin-      A 26-week, randomised, open-labelled, two-arm, parallel-group, treat- May 2011
+experienced)              to-target trial comparing efficacy and safety of NN5401 twice daily (BID)
+                          with biphasic insulin aspart (BIAsp) 30 BID, with or without metformin,
+                          with or without DPP-4 inhibitor, with or without pioglitazone in subjects
+                          with type 2 diabetes in inadequate glycaemic control on once or twice
+                          daily premixed or self-mixed insulin regimen with or without OADs.
+
+                          Fulcher, G. R., et al. (2014). Comparison of insulin degludec/insulin
+                          aspart and biphasic insulin aspart 30 in uncontrolled, insulin-treated    Diabetes Care 37(8): 2084-
+                          type 2 diabetes: A phase 3a, randomized, treat-to-target trial.           2090.
+3597 (T2DM, insulin-      A 26-week trial, randomised, open-label, two-arm, parallel-group, treat- June 2011
+experienced)              to-target study comparing efficacy and safety of the NN5401 twice daily
+                          with biphasic insulin aspart 30 twice daily, with or without metformin in
+                          subjects with type 2 diabetes in inadequate glycaemic control on once
+                          or twice daily insulin regimen with or without metformin.
+
+                          Christiansen, J. S., et al. (2013). Superior FPG control and less
+                          nocturnal hypoglycaemia with IDegAsp vs BIAsp 30 in Asian subjects Diabetologia 56: S420.
+                          poorly controlled on basal or pre/self-mixed insulin: Randomised phase
+                          3 trial
+Source: Table 2.2.2, p27 of the submission
+BIAsp 30 = biphasic insulin aspart; BID = twice-daily; DPP-4i = dipeptidyl peptidase 4 inhibitor; FPG = fasting plasma glucose IDegAsp =
+insulin degludec/insulin aspart; IDet = insulin detemir; OAD = oral antidiabetic drug; T2DM = type 2 diabetes mellitus
+
+6.6        Details of the trials presented in the submission for T1DM are provided in the table
+           4.
+
+
+
+
+                                                                     7
+                             Public Summary Documents – November 2017 PBAC Meeting
+
+
+
+
+Table 4: Trials and associated reports presented in the submission for T1DM
+Trial ID               Protocol title/ Publication title                                      Publication citation
+Direct randomised
+trial(s)
+3594 (main trial,         An extension trial comparing safety and efficacy of NN5401      November 2010
+T1DM)                     plus meal-time insulin aspart for the remaining meals with IDet
+3645 (extension trial,    plus meal-time insulin aspart in type 1 diabetes.
+T1DM)
+                          A 26 week, multinational, multi-centre, open labelled, two arm,
+                          parallel, randomised, treat to target trial comparing efficacy and
+                                                                                             June 2011
+                          safety of NN5401 once daily plus meal time insulin aspart for
+                          the remaining meals vs. basal bolus treatment with IDet plus
+                          meal time insulin aspart in subjects with type 1 diabetes.
+
+                          Hirsch, I. B., et al. (2017). Safety and efficacy of insulin     Diabetes Care 35(11): 2174-2181.
+                          degludec/insulin aspart with bolus mealtime insulin aspart
+                          compared with standard basal–bolus treatment in people with
+                          Type 1 diabetes: 1–year results from a randomized clinical trial
+                          (BOOST® T1).
+                                                                                              Diabetic Medicine 34(2): 167-173.
+                          Hirsch, I. B., et al. (2012). Insulin degludec/insulin aspart
+                          administered once daily at any meal, with insulin aspart at other
+                          meals versus a standard basal-bolus regimen in patients with
+                          type 1 diabetes: A 26-week, phase 3, randomized, open-label,
+                          treat-to-target trial.
+Source: Table 2.2.2, p27 of the submission; compiled during evaluation
+IDet = insulin detemir; T1DM = type 1 diabetes mellitus
+
+6.7       The key features of the direct randomised trials are summarised in the table 5.
+Table 5: Key features of the included evidence, IDegAsp vs. BIASp30 (T2DM) and IDegAsp vs. IDet (T1DM)
+                      Design/ duration of
+Trial        N                            Risk of bias          Patient population       Outcomes              Use in CMA
+                      follow-up
+                      R, OL                                                              HbA1c                 hypoglycaemic
+3940         394                              low/unclear       T2DM, insulin-naïve                            events
+                      26 weeks                                                           hypoglycaemic
+                      R, OL                                                              events                insulin dose
+                                                                T2DM, insulin-
+3592         447                              low/unclear                                FPG
+                      26 weeks                                  experienced
+                                                                                         insulin dose
+                      R, OL                                     T2DM, insulin-
+3597         424                              low/unclear
+                      26 weeks                                  experienced
+                      R, OL
+3594         548                              low/unclear       T1DM, main trial
+                      26 weeks
+                      R, OL
+3645         548                              low/unclear       T1DM, extension trial
+                      26 weeks
+Source: Table 2.3.1, p29 of the submission compiled during the evaluation
+BIAsp 30 = biphasic insulin aspart; IDegAsp = insulin degludec/insulin aspart; IDet = insulin detemir;
+FPG = fasting plasma glucose; HbA1c = glycated haemoglobin; OL = open label; R = randomised; T1DM = type 1 diabetes mellitus;
+T2DM = type 2 diabetes mellitus; CMA = cost-minimisation analysis
+
+6.8       The ESC and PBAC noted the risk of bias in these open label trials and considered
+          that this risk was in part mitigated by the use of objective outcome measures such as
+          HbA1c. However, the PBAC agreed with the ESC that it was difficult to assess the
+          likely impact of IDegAsp on overall rates of hypoglycaemia in clinical practice on the
+
+
+
+                                                                     8
+                              Public Summary Documents – November 2017 PBAC Meeting
+
+
+          basis of these trials, particularly asymptomatic hypoglycaemia, as there would be
+          less testing in the clinical environment than in a study environment.
+6.9       The PBAC further considered that the comparison against IDet in T1DM was of
+          limited value for decision making, as this drug is unlikely to be replaced in clinical
+          practice in this population.
+
+Comparative effectiveness
+6.10       The results for the primary outcome (change in HbA1c) of the direct randomised
+           trials are summarised in the table 6.
+Table 6: Results of change in HbA1c (%) from baseline across the studies
+                                   IDegAsp mean change                Comparator mean change              Mean difference (95% CI)
+                                   from baseline (SE)                 from baseline (SE)
+Trial ID 3940 – T2DM (insulin-naïve), 26 weeks
+IDegAsp BID N = 197;          -1.71 (0.10)                            -1.73 (0.09)                        0.02 (-0.12, 0.17)
+BIAsp 30 N = 197
+Trial ID 3592 – T2DM (insulin-experienced), 26 weeks
+IDegAsp BID N = 224;          -1.31 (0.09)                            -1.29 (0.10)                        -0.03 (-0.18, 0.13)
+BIAsp 30 N = 222
+Trial ID 3597 – T2DM (insulin-experienced), 26 weeks
+IDegAsp BID N = 280;         -1.39 (0.05)                             -1.44 (0.07)                        0.05 (-0.10, 0.20)
+BIAsp 30 N = 142
+Trial ID 3594 – T1DM (main study), 26 weeks
+IDegAsp N = 366;             -0.75 (0.06)                             -0.70 (0.08)                        -0.05 (-0.18, 0.08)
+IDet N = 182
+Trial ID 3645 – T1DM (extension study), 52 weeks
+IDegAsp N = 366;             -0.67 (0.07)                             -0.57 (0.08)                        -0.10 (-0.24, 0.03)
+IDet N = 182
+Source: Table 2.5.1 p46 of the submission
+BIAsp 30 = biphasic insulin aspart; BID = twice-daily; CI = confidence interval; IDegAsp = insulin degludec/insulin aspart; N = number of
+subjects contributing to the analysis; SE = standard error of the mean; T1DM = type 1 diabetes mellitus; T2DM = type 2 diabetes mellitus
+
+6.11       The results of the four trials, excluding the extension trial (study 3645), were in
+           agreement with the predetermined non-inferiority margin proposed. The proposed
+           drug was non-inferior for all the analysed trials with a non-inferiority margin of 0.4%.
+           None of the trials showed superiority for change in HbA1c.
+
+Comparative harms
+6.12       The adverse event profiles of the proposed drug and the submission nominated
+           comparators were similar with no statistical differences in all adverse events,
+           adverse events resulting in withdrawal, serious adverse events, and mortality.
+6.13      Trials 3940, 3592, 3597, and 3594/3645 collected hypoglycaemic episodes recorded
+          by subjects in their trial diaries throughout the trial. Information to be collected
+          included plasma glucose (PG) before treating the episode and whether the subject
+          was able to treat him/herself. Hypoglycaemic episodes were reported at all visits. If
+          the subject reported one or more hypoglycaemic episodes (symptomatic or
+          asymptomatic) since the last visit or phone contact, the investigator or trial
+          coordinator completed a hypoglycaemia questionnaire/interview. Confirmed
+
+
+                                                                       9
+                   Public Summary Documents – November 2017 PBAC Meeting
+
+
+       episodes included severe episodes (subject not able to treat him/herself) plus minor
+       episodes (symptoms consistent with hypoglycaemia with confirmation by PG <3.1
+       mmol/L (56 mg/dL) or full blood glucose <2.8 mmol/L (50 mg/dL) and handled by the
+       subject him/herself; or any asymptomatic PG value <3.1 mmol/L (56 mg/dL) or full
+       blood glucose value <2.8 mmol/L (50 mg/dL). The nocturnal period was defined as
+       00:01 to 05:59 inclusive (Source: Table 2.4.2, p33 of Commentary, Table 2.4.9, p44 of
+       the submission).
+6.14   There were less confirmed hypoglycaemic events (treatment ratio) in the proposed
+       drug IDegAsp compared to BIAsp 30 in studies 3940 and 3592 and less nocturnal
+       hypoglycaemic events in IDegAsp compared to IDet in study 3645 (Table 7); however,
+       there was no difference in confirmed hypoglycaemic events for IDegAsp compared to
+       BIAsp 30 in study 3597.
+6.15   There was no difference between IDegAsp and the submission nominated
+       comparator drugs in the relative risk of an individual person experiencing one or
+       more confirmed or severe hypoglycaemia events in the four trials. Similarly, there
+       was no difference in the total numbers of severe hypoglycaemic events between the
+       proposed drug IDegAsp and the comparator drugs in the four trials.
+6.16   The Pre-Sub Committee Response (PSCR) argued (p2) that the hypoglycaemia rate or
+       ‘treatment ratio’ (incidence rate ratio) “based on the event rate per 100 patient-
+       years of exposure (PYE) is an appropriate calculation … which accounts for all
+       confirmed hypoglycaemic events, rather than one event per patient”.
+6.17   The PBAC noted that there were differences in the total documented hypoglycaemic
+       events per 100 PYE in some but not all trials, and considered that the clinical
+       significance of these differences is uncertain particularly as some of the events were
+       asymptomatic and there were no significant differences in severe hypoglycaemic
+       events per 100 PYE.
+
+
+
+
+                                               10
+                             Public Summary Documents – November 2017 PBAC Meeting
+
+
+
+
+Table 7: Results of analysis of confirmed and severe hypoglycaemias across the studies
+                                             Proposed medicine              Main comparator              Treatment ratio (95% CI)
+Trial ID                                    No. of Events (per 100        No. of Events (per 100
+                                                    PYE)                          PYE)
+3940 – T2DM, insulin-naïve, 26 weeks
+Confirmed hypo                                      553 (580)                   1221 (1301)                   0.46 (0.35, 0.61)
+Severe hypo                                           5 (5)                          3 (3)                           NR
+3592 – T2DM, insulin-experienced, 26 weeks
+Confirmed hypo                                      993 (972)                   1379 (1396)                   0.68 (0.52, 0.89)
+Severe hypo                                            9(9)                         25(25)                           NR
+3597 – T2DM, insulin-experienced (Asian study), 26 weeks
+Confirmed hypo                               1227 (956)                           621 (952)                   1.00 (0.76, 1.32)
+Severe hypo                                            6(5)                          2(3)                            NR
+3594 – T1DM (main study), 26 weeks
+Confirmed hypo                                    6634 (3917)                   3720 (4434)                          NR
+Severe hypo                                          56(33)                         35(42)                           NR
+3645 – T1DM (extension study), 52 weeks
+Confirmed hypo                                    9450 (3183)                   5342 (3673)                          NR
+Severe hypo                                          79(22)                         65(45)                           NR
+Source: Table 2.5.6 of the Commentary, Tables 2.5.10, p52 of the submission; CSR Study 3594, Tables 12-18 to 12-19, p140 and p143;
+CSR Study 3645, Table 12-20 to 12-21; CSR Study; 3940, Tables 12-14 to 12-15; CSR Study 3592, Tables 12-14 to 12-15; CSR Study
+3597, Tables 12-13 to 12-14, Values for severe hypos were compiled during evaluation.
+CI = confidence interval; N = total participants in group; NR = not reported; T1DM = type 1 diabetes mellitus; T2DM = type 2 diabetes
+mellitus; PYE = patient years of exposure
+Bold = statistically significant
+
+6.18       Additionally, the PBAC noted that blood glucose levels in the studies were measured
+           using self-measuring devices rather than continuous blood glucose monitoring and
+           therefore do not provide complete or accurate data of blood glucose levels over the
+           whole dosing interval.
+
+Benefits and harms
+6.19       As the PBAC did not accept the submission’s claim of superior safety, a benefit and
+           harms table has not been presented.
+
+Interpretation of clinical evidence
+6.20       The submission concluded that in T2DM and T1DM patients IDegAsp had non-
+           inferior effectiveness (measured by the change in HBA1c). The PBAC considered this
+           claim to be reasonably supported for T2DM. As noted above, the PBAC considered
+           the comparison against IDet in T1DM to be of limited usefulness for decision making.
+6.21       The submission concluded that in T2DM and T1DM patients IDegAsp had superior
+           safety in terms of rate of confirmed hypoglycaemic events. The evaluation and ESC
+           considered this claim was not well supported by the evidence as IDegAsp was non-
+           inferior:
+
+
+
+                                                                    11
+                    Public Summary Documents – November 2017 PBAC Meeting
+
+
+        in study 3597 (T2DM, insulin-experienced (Asian study)) in the rate of confirmed
+         hypoglycaemic events;
+        in terms of risk of a patient experiencing one or more confirmed hypoglycaemic
+         events or confirmed severe hypoglycaemic events; and
+        in terms of rates of confirmed severe hypoglycaemic events.
+
+6.22   The PSCR (p2) claimed that IDegAsp provided a clinically meaningful reduction in the
+       treatment ratio of confirmed and nocturnal hypoglycaemia to support the superior
+       safety of IDegAsp over the comparators. In particular, based on the American
+       Diabetes Association (ADA) work group on hypoglycaemia, a reduction in rate of
+       confirmed and nocturnal hypoglycaemia of ≥30% by a new drug is considered
+       clinically meaningful. Further, the PSCR claimed that for hypoglycaemic episodes,
+       including less severe hypoglycaemic episodes (confirmed and nocturnal
+       hypoglycaemia) often precede severe hypoglycaemia and are considered the
+       greatest risk factor for the development of severe hypoglycaemia in the future which
+       were not demonstrated in trials specifically for IDegAsp. The PSCR also claimed that
+       non-severe hypoglycaemia will have an impact on cardiovascular deaths and overall
+       survival. The pre-PBAC response (p2) argued that these trials were not designed to
+       measure outcomes of hypoglycaemia but that the link between hypoglycaemia and
+       these long-term conditions has been well established.
+6.23   The PBAC considered that while IDegAsp was statistically superior in terms of
+       number of biochemically confirmed hypoglycaemic episodes in some trials, this
+       difference may not be clinically meaningful, particularly as there was no difference in
+       the relative risk of an individual patient having at least one confirmed hypoglycaemic
+       event and there was no difference in the risk of a patient having a severe
+       hypoglycaemic event (either relative risk or incidence rate ratios). Thus the PBAC did
+       not accept the submission’s claim of superior safety.
+
+Economic analysis
+6.24   The submission presented a cost-minimisation analysis of IDegAsp versus BIAsp 30
+       (T2DM) and IDet (T1DM), with cost offsets for severe hypoglycaemic events. The
+       PBAC noted the submission’s approach was in line with the clinical evidence of non-
+       inferior efficacy in T2DM, but not in line with the clinical evidence for safety.
+6.25   The submission did not take a conventional approach of calculating the cost
+       minimised price of the drug based on equi-effective doses and cost offsets; rather,
+       the submission set the price of IDegAsp at an effective DMPQ of $''''''''''''' and
+       calculated that at this price the listing of IDegAsp would be overall cost-saving due to
+       differences in the rates of hypoglycaemic events.
+6.26   Table 8 presents the components of the submission’s cost-minimisation approach.
+
+
+
+
+                                               12
+                              Public Summary Documents – November 2017 PBAC Meeting
+
+
+Table 8: Key assumptions and components of the cost-minimisation approach
+Component                      Claim or assumption
+Cost of comparators                                                         DPMQ                         Price per unit
+                                 BIAsp 30, 5 x 3 mL syringes                $240.07                      $0.03
+                                 IDet, 5 x 3 mL syringes                    ''''''''''''''''''''''       ''''''''''''''
+                                 IAsp, 5 x 3 mL syringes                    $240.07                      $0.03
+                                 IDegAsp, 5 x 3 mL syringes                 '''''''''''''''''''''        ''''''''''''''
+
+Equi-effective doses           The submission used trial based data to estimate the equi-effective doses of IDegAsp compared
+                               to BIAsp 30 and IDet in different population groups. The equi-effective doses used in the
+                               submission were:
+                               1 unit IDegAsp : 1 unit BIAsp 30 in T2DM (Insulin-naïve)
+                               0.82 units IDegAsp : 1 unit BIAsp 30 in T2DM (Insulin-experienced)
+                               0.81 units IDegAsp : 1 unit IDet in T1DM (Basal only)
+Cost offsets                   The submission used the difference in bolus insulin dose utilisation in T1DM.
+                               The submission used a difference in severe hypoglycemic event rates to cost offset service
+                               utilisation. Rather than using the number of severe hypos in each arm of the trials, the
+                               submission estimated the number of severe hypos. This was based on the mean number of
+                               severe hypos per confirmed hypoglycemic event in the total trial, multiplied by the number of
+                               confirmed hypos in each arm. Overall, this overestimated the number of severe hypos in the
+                               control arms.
+                               Average cost per severe hypoglycemic event = $2943 (See Table 9)
+
+
+
+                                 Severe hypoglycaemia costs                 Comparator                  IDegAsp                Difference
+                                 Average cost per patient per year          $910.29                     $605.20                $305.09
+
+
+Source: Compiled during evaluation, and calculated during evaluation
+BIAsp = biphasic insulin aspart; IAsp = insulin aspart; IDeg=insulin degludec, IDegAsp = insulin degludec/insulin aspart; IDet = insulin
+detemir; T1DM = type 1 diabetes mellitus, T2DM = type 2 diabetes mellitus, hypos = hypoglycaemic events
+
+Table 9 Submission’s derivation of severe hypoglycaemic event cost
+Resource                               Patients (%)            Cost, 2009-10 prices                  Average cost per event (2017-18 priced)
+Ambulance                                  66.6%                        $738a                                              $492
+Emergency department visit                 65.2%                        $600b                                              $391
+Hospitalisation                            31.8%                       $5,318c                                            $1,691
+                                                                                                                           $2,574
+Total cost                                                                                                                ($2,943)
+Source: Table 3.3.3, submission, p71. Notes: a Life threatening or urgent ambulance call-out. b Fremantle Hospital (Director of ED,
+personal communication). c Average cost of hospitalisation with hypoglycaemia as a principal diagnosis. d Inflated using Total Health
+Price Index (AIHW 2016)
+
+6.27       Using this methodology, the submission estimated that there would be a cost saving
+           of $'''''''' per patient per year with T1DM and cost neutrality for patients with T2DM.
+6.28       The PSCR (pp4-5) presented a sensitivity analysis which uses the reported rates of
+           severe hypoglycaemic events per trial arm and claimed a cost saving of $'''''' per
+           patient per year with T1DM and $''' for patients with T2DM for a combined save of
+           $'''''' per patient per year.
+
+
+
+                                                                       13
+                     Public Summary Documents – November 2017 PBAC Meeting
+
+
+6.29   The PBAC did not accept the approach taken by the submission which assumed a
+       difference in severe hypoglycaemic events. Therefore, the PBAC considered that it
+       was not appropriate for the price of IDegAsp to include a premium over BIAsp 30 in
+       T2DM to account for a reduction in hypoglycaemic events based on the evidence
+       provided in the submission. Additionally, the PBAC considered that the differences in
+       biochemically confirmed hypoglycaemia were not clinically meaningful and noted
+       that there were no statistically significant differences in the rates of severe
+       hypoglycaemic events.
+6.30   The PBAC noted the submission proposed the equi-effective doses for IDegAsp
+       compared to BIAsp 30 in T2DM to be different for insulin-naïve (1:1) and insulin-
+       experienced (0.82:1) patients (weighted equi-effective dose is '''''''''''''', assuming
+       ''''''''% insulin naïve and '''''''''% insulin experienced patients (submission table 3.1.2 p
+       64)). The submission postulated that this is “related to the glucose lowering profile
+       of IDegAsp, in which the rapid acting prandial effect is followed by a distinct separate
+       and stable basal effect” (p62). Although the ESC considered that the approach used
+       in the submission which resulted in different equi-effective doses was reasonable,
+       the PBAC considered that the differences in naïve and experienced patients created
+       some uncertainty in the equi-effective dose overall.
+6.31   As, the PBAC did not consider IDet to be the appropriate comparator for T1DM, the
+       Committee did not form a view on the cost-minimisation analysis or equi-effective
+       doses of IDegAsp in this setting.
+6.32   The PBAC noted the Department’s advice that prices should be calculated using
+       approved ex-manufacturer prices and not DPMQ prices.
+
+Drug cost/patient/year: $'''''' at DPMQ
+6.33   The submission estimated a weighted drug cost/patient/year of $'''''''' for IDegAsp.
+       This was based on a weighted mean drug cost/patient/year of $''''''' for insulin-
+       experienced T2DM patients (''''''''%), $'''''''''' for insulin-naïve T2DM patients ('''''''''%),
+       and $'''''''' for T1DM patients ('''''''%). This was based on a DPMQ of $'''''''''''''.
+6.34   The submission estimated a weighted drug cost/patient/year of $'''''''' for the
+       comparators. This was based on a weighted mean drug cost/patient/year of $1,008
+       for BIAsp 30 in insulin-experienced T2DM patients (''''''''%), $865 for BIAsp 30 in
+       insulin-naïve T2DM patients ('''''''''%), and $'''''' for IDet in T1DM patients (''''''%) and
+       a higher number of insulin units used per year compared to IDegAsp.
+6.35   The pre-PBAC response (p1) proposed a reduced DPMQ of $'''''''''''''', which
+       incorporated the cost-minimised price of IDegAsp to 70%IGlar/30%IAsp, accounted
+       in 17% premixed neutral/isophane human insulin use and assumed the effective
+       dispensed price of IGlar to be equivalent to IDet. The PBAC considered this price
+       reduction was not sufficient to address its concerns regarding cost-effectiveness.
+
+Estimated PBS usage & financial implications
+6.36   This submission was not considered by DUSC. A market share approach was chosen
+       using PBS and RPBS utilisation statistics for estimating the total units of premixed
+       and long-acting insulins used in Australia in 2016.
+
+
+                                                   14
+                              Public Summary Documents – November 2017 PBAC Meeting
+
+
+6.37      The submission identified eight insulin formulations that were likely to be replaced.
+6.38      Table 10 summarises the insulin PBS items, the expected annual growth rate and the
+          expected replacement of these items if IDegAsp were to be listed on the PBS.
+Table 10: Assumed growth rate and proportions of each of the current treatments displaced by the insulin
+degludec/ insulin aspart
+Item       Drug                                   Annual      Year 1       Year 2   Year 3   Year 4   Year 5   Year 6
+                                                  growth      (2018)       (2019)   (2020)   (2021)   (2022)   (2023)
+                                                  rate
+8609D      Insulin aspart/insulin aspart          3.7%        5.0%         15.0%    25.0%    35.0%    45.0%    55.0%
+           protamine
+8390N      Insulin lispro/insulin lispro          2.6%        3.0%         10.0%    15.0%    20.0%    25.0%    30.0%
+           protamine
+8874C      Insulin lispro/insulin lispro          5.9%        3.0%         10.0%    15.0%    20.0%    25.0%    30.0%
+           protamine
+1426C      Insulin isophane human/insulin         -14.5%      3.0%         10.0%    15.0%    20.0%    25.0%    30.0%
+           neutral human
+1763T      Insulin isophane human/insulin         -11.5%      3.0%         10.0%    15.0%    20.0%    25.0%    30.0%
+           neutral human
+2062M      Insulin isophane human/insulin         -10.7%      3.0%         10.0%    15.0%    20.0%    25.0%    30.0%
+           neutral human
+9040T      Insulin detemir                        3.6%        1.0%         2.0%     3.0%     4.0%     5.0%     6.0%
+9039R      Insulin glargine                       6.3%        1.0%         2.0%     3.5%     5.0%     7.0%     9.0%
+Source: Tables 4.3 and 4.5, p77 of the submission; compiled during evaluation
+
+6.39      The submission applied script equivalence ratios based on those identified in the
+          clinical evaluation; however, there was an assumption that formulations not
+          compared in the clinical evidence would have similar equi-effectiveness to those
+          identified in the clinical trials. The evaluation considered that this was not
+          appropriate. The PSCR (p4) argued that the script equivalence ratios were
+          appropriate as the IDegAsp versus BIAsp 30 equivalence ratio was based on the
+          weighted averages for the T2DM clinical trials and IDegAsp versus IDet was based on
+          the T1DM trial. Where established relativities were lacking (i.e., for premixed human
+          insulins), a 1:1 equivalence ratio was used. However, the ESC noted the submission
+          used the BIAsp 30:IDegAsp relativities from the trials for lispro premixes and the
+          IDet:IDegAsp relativities for glargine, not the 1:1 relativities as suggested.
+
+
+
+
+                                                                     15
+                             Public Summary Documents – November 2017 PBAC Meeting
+
+
+Table 11: Estimated use and financial implications
+                             Year 1                          Year 2                            Year 3                             Year 4                          Year 5                             Year 6
+Estimated extent of use
+Number of eligible
+                             ''''''''''''''''''              '''''''''''''''''''''             '''''''''''''''''                  ''''''''''''''''''''            '''''''''''''''''''                '''''''''''''''''''
+patientsa
+Number of patients
+                             '''''''''''''                   ''''''''''''''''''                ''''''''''''''''                   '''''''''''''''''               ''''''''''''''''                   '''''''''''''''
+treated a
+Number of scripts
+                             '''''''''''''''''               '''''''''''''''                   '''''''''''''''''                  '''''''''''''''''''''           ''''''''''''''''''                 ''''''''''''''''''
+dispensed
+Estimated financial implications of IDegAsp
+Cost to PBS/RPBS             '''''''''''''''''''''''''''''   '''''''''''''''''''''''''''       '''''''''''''''''''''''''''''''    '''''''''''''''''''''''''''''   ''''''''''''''''''''''''''''       '''''''''''''''''''''''''''''
+Co-payments                  ''''''''''''''''''''''''        '''''''''''''''''''''''           ''''''''''''''''''''''''''''       '''''''''''''''''''''''''''     '''''''''''''''''''''''''          '''''''''''''''''''''''''''''
+Cost to PBS/RPBS less
+                             '''''''''''''''''''''''''''     '''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''       '''''''''''''''''''''''''''     ''''''''''''''''''''''''''''       '''''''''''''''''''''''''''
+co-payments
+Estimated financial implications for comparators**
+Cost to PBS/RPBS             ''''''''''''''''''''''''''''    '''''''''''''''''''''''''''''     ''''''''''''''''''''''''''''''     ''''''''''''''''''''''''''''    ''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''
+Copayments                   ''''''''''''''''''''''''        ''''''''''''''''''''''            '''''''''''''''''''''''''          '''''''''''''''''''''''''''''   '''''''''''''''''''''''''''        '''''''''''''''''''''''''''''
+Cost to PBS/RPBS less
+                             ''''''''''''''''''''''''        '''''''''''''''''''''''''''''     '''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''   ''''''''''''''''''''''''''''''     ''''''''''''''''''''''''''''
+copayments
+Net financial implications
+Net cost to PBS/RPBS         ''''''''''''''''''''            ''''''''''''''''''''''            '''''''''''''''''''''''            ''''''''''''''''''''''          ''''''''''''''''''''               '''''''''''''''''''
+Source: Table 4.14, p82, table 4.21, p87, table 4.22, p87 of the submission
+IDegAsp = insulin degludec/insulin aspart; PBS = Pharmaceutical Benefits Scheme; RPBS = Repatriation Pharmaceutical Benefits
+Scheme
+a Assuming 3.4 scripts per year as estimated during evaluation. ** calculated using effective prices for insulin determir and glargine.
+
+
+
+
+          The redacted table shows that at year 5, the estimated number of patients was
+          10,000 – 50,000 per year and the net cost to the PBS would be less than $10 million
+          per year.
+6.40      Although the submission presented a cost-minimisation approach, there was an
+          increased cost of less than $10 million to the PBS/RPBS in Year 1 rising to less than
+          $10 million in Year 6 with a total cost increase of $20 - $30 million in the first six
+          years of listing. This was primarily due to the inclusion of cost offsets for severe
+          hypoglycaemias in the cost-minimisation calculations that were not included in the
+          financial estimates.
+6.41      The PBAC considered there was a high degree of uncertainty in the financial
+          estimates as:
+           the estimated growth of the insulin market was uncertain and varied depending
+            on the method used (underestimate or overestimate);
+           the estimate of the market share for IDegAsp was associated with a high degree
+            of uncertainty and was assumed with no evidence base (underestimate or
+            overestimate); and
+           the estimate of script equivalence ratios was uncertain due to uncertainty of the
+            equi-effective doses and the lack of comparative data with some of the drugs
+            being replaced (underestimate).
+For more detail on PBAC’s view, see section 7 PBAC outcome.
+
+
+                                                                                                        16
+                   Public Summary Documents – November 2017 PBAC Meeting
+
+
+7     PBAC Outcome
+7.1   The PBAC did not recommend insulin degludec with insulin aspart (IDegAsp) for
+      treatment of adult patients with diabetes mellitus where insulin treatment is
+      necessary on the basis that the cost effectiveness of the drug in type 2 diabetes
+      mellitus (T2DM) was not established at the proposed price, and because the clinical
+      place in type 1 diabetes mellitus (T1DM) was not established in the submission.
+7.2   The PBAC acknowledged the clinical need for insulin products that improve
+      glycaemic control whilst minimising the risk of hypoglycaemia. However, the
+      Committee was not convinced that the evidence provided for IDegAsp demonstrated
+      it fulfilled this role.
+7.3   The PBAC noted that IDegAsp was not TGA registered at the time of its
+      consideration. The PBAC also noted that IDeg as a single agent is currently
+      undergoing TGA evaluation.
+7.4   The PBAC noted that if listed, IDegAsp would be the first long acting/short acting
+      premixed insulin available on the PBS. The PBAC considered there was a clinical place
+      for IDegAsp in the treatment of T2DM but it was not certain if there was a clinical
+      place for T1DM, as most T1DM patients are treated with basal/bolus regimens or
+      insulin pumps. Thus, biphasic mixed insulins have an extremely limited role in this
+      setting.
+7.5   The PBAC considered that biphasic insulin aspart 30 (BIAsp 30) was an appropriate
+      comparator in T2DM. However, the PBAC noted that the price requested for IDegAsp
+      was higher than that for insulin glargine (IGlar) and that a clinical comparison against
+      IGlar in T2DM may be informative in this context.
+7.6   The PBAC considered that insulin detemir (IDet) was not the appropriate comparator
+      in T1DM. The PBAC considered that BIAsp 30 or other pre-mixed insulins may be
+      more appropriate comparators as they possess pharmacologic similarities.
+7.7   The PBAC noted the risk of bias in the open label clinical trials presented in the
+      submission and agreed that this risk was in part mitigated by the objective outcome
+      measures of effectiveness such as HbA1c. However, the PBAC agreed that it was
+      difficult to assess the likely impact of IDegAsp on overall rates of hypoglycaemia in
+      clinical practice, particularly asymptomatic hypoglycaemia, as there would be less
+      testing in the clinical environment than in a study environment. Additionally, the
+      PBAC noted that blood glucose levels in the studies were measured using self-
+      measuring devices rather than continuous blood glucose monitoring and therefore
+      do not provide complete or accurate data of blood glucose levels over the whole
+      dosing interval.
+7.8   The PBAC considered that the claim of non-inferior comparative effectiveness was
+      reasonably supported by the data for T2DM.
+7.9   The PBAC considered that the claim of superior comparative safety was not
+      adequately supported by the data (see paragraph 6.23)
+
+
+
+
+                                               17
+                    Public Summary Documents – November 2017 PBAC Meeting
+
+
+7.10   The PBAC considered the inclusion of cost offsets for severe hypoglycaemic events in
+       the price for IDegAsp to be inconsistent with the clinical evidence for safety (see
+       paragraph 6.24).
+7.11   The PBAC considered that the equi-effective doses in T2DM were uncertain (see
+       paragraph 6.30).
+7.12   The PBAC considered there was a high degree of uncertainty in the financial
+       estimates (see paragraph 6.41). The PBAC noted that at the proposed price, the
+       listing of IDegAsp would result in a higher cost to the PBS/RPBS due to the higher
+       price of IDegAsp compared to the insulins replaced and because the cost offsets
+       included in the price calculations are not included in the financial estimates.
+7.13   The PBAC considered that any future major resubmission seeking a premium over
+       BIAsp30 on the basis of an improved safety profile would need to clearly
+       demonstrate the benefits over this drug, including providing more data on
+       hypoglycaemic events.
+7.14   The PBAC noted that this submission is eligible for an Independent Review.
+
+Outcome:
+Rejected
+
+8      Context for Decision
+The PBAC helps decide whether and, if so, how medicines should be subsidised in Australia.
+It considers submissions in this context. A PBAC decision not to recommend listing or not to
+recommend changing a listing does not represent a final PBAC view about the merits of the
+medicine. A company can resubmit to the PBAC or seek independent review of the PBAC
+decision.
+
+9      Sponsor’s Comment
+Novo Nordisk remains committed to working with the PBAC to make Ryzodeg® 70/30
+available for Australians with diabetes mellitus who would benefit from this product.
+
+
+
+
+                                              18
+

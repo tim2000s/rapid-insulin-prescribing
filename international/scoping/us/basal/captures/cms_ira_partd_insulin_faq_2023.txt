@@ -1,0 +1,149 @@
+Frequently Asked Questions
+about Medicare Insulin Cost-Sharing Changes
+in the Prescription Drug Law
+(Updated January 2023)
+
+1. Is all insulin covered at $35, or just certain ones?
+Under a Medicare Part D prescription drug plan, if an insulin is a covered insulin product, the $35
+cap for a month’s supply for each insulin product applies, as of January 1, 2023. A covered insulin
+product is one that is included on a Part D sponsor’s formulary. This includes any new insulin
+products that become available during the plan year. An insulin product might also be considered
+covered in other instances.
+In addition, under Medicare Part B, if insulin is delivered through a traditional pump that is covered
+under the durable medical equipment benefit, the cost-sharing amount for a person with Medicare
+is capped at $35 for a month’s supply of insulin beginning July 1, 2023.
+
+2. Does the $35 cap apply across all phases of prescription drug coverage (including the coverage gap)?
+Yes, and the deductible doesn’t apply to these covered insulin products.
+
+3. Does the $35 cap on covered insulin products apply to everyone, even those with Partial Extra Help?
+Yes, the $35 cap applies to all people with prescription drug coverage under Medicare Part D,
+including those with Partial Extra Help, as of January 1, 2023. People with Full Extra Help already
+have lower cost sharing for insulin, and will continue to pay the lower amounts.
+In addition, beginning July 1, 2023, the $35 cap on cost sharing for a month’s supply of insulin applies
+to people with Medicare Part B that use insulin provided through a traditional pump that is covered
+under the durable medical equipment benefit.
+
+4. Is the $35 insulin cap at both preferred and non-preferred pharmacies under an individual’s
+prescription drug plan?
+Yes
+
+5. What costs for insulin count toward True Out-of-Pocket (TrOOP) costs?
+The $35 (or less) cost sharing for a month’s supply of each covered insulin product counts toward
+TrOOP.
+
+6. Why don’t the plans in Medicare Plan Finder reflect the insulin provisions in the prescription drug law?
+While the insulin provision in the prescription drug law places a limit on the enrollee cost sharing for
+a one month’s supply of each covered insulin drug, it doesn’t change the drug prices submitted by
+Part D plan sponsors. Cost-sharing data is collected by CMS in the Plan Benefit Package (PBP), which
+is part of the approved plan bid. The plan bid is submitted and approved on an annual cycle, and it
+cannot be modified after the bid process concludes for the year. Plan bids for 2023 were submitted
+to CMS on Monday, June 6, 2022, before the Inflation Reduction Act was signed into law, meaning
+the 2023 plan bids don’t account for the new $35 cap on covered insulin drugs.
+
+7. Will the insulin cost-sharing amounts be updated in the Medicare Plan Finder later in 2023?
+The insulin cost-sharing amounts will be updated as part of the next annual bid cycle in to display the
+updated information for the 2024 plan year in the fall of 2023. Until this time, for individuals who
+include insulin in their drug list in Plan Finder, targeted messaging will help educate and guide them
+on the insulin benefit.
+
+8. Can you tell me more about the Special Enrollment Period I’ve heard about?
+Since the annual Medicare Open Enrollment period ended on December 7, 2022, we have been
+helping people who use insulin who experience any issues or concerns, using our existing processes
+to grant a Special Enrollment Period (SEP) for Exceptional Circumstances. This SEP allows an
+individual who uses a covered insulin product to add, drop, or change their Part D coverage during
+the period that began on December 8th, 2022 and ends on December 31, 2023. A person with
+Medicare who takes insulin may use this SEP one time during this period. Consistent with current
+policy, when Part D enrollees change plans mid-year, their True Out-of-Pocket (TrOOP) costs carry
+over from their old plan to their new one.
+
+9. If someone takes insulin through a traditional pump and is using that pump on January 1, 2023, will
+they will be required to pay the Medicare Part B deductible when they get insulin for the pump? Will
+they have any additional out-of-pocket costs for insulin and if so, will a Medigap supplemental plan
+cover those costs?
+From January 1, 2023 through June 30, 2023, the Part B deductible will apply for insulin used through
+a traditional pump covered under the durable medical equipment benefit. However, beginning July
+1, 2023, the Medicare Part B deductible does not apply for insulin used through a traditional pump
+that is covered under the durable medical equipment benefit. In addition, beginning July 1, 2023, cost
+sharing through Medicare Part B cannot be more than $35 for a month’s supply. If you have Medicare
+Supplement Insurance (Medigap) that pays Medicare Part B coinsurance/copayments, that plan should
+cover the $35 (or less) cost for insulin beginning July 1, 2023.
+
+10. Will plans be able to remove some insulin products from their formularies during the year or add
+restrictions i.e. prior authorization or step therapy?
+Your plan can change their formulary for specific reasons during the year, for example, because of
+new drug developments or safety improvements. Your plan may change their formulary by:
+•
+
+Adding or removing drugs,
+
+•
+
+Placing a drug in a lower cost-sharing level,
+
+•
+
+Replacing a brand-name drug with a generic drug, or
+
+•
+
+Removing utilization management requirements.
+
+Medicare must approve most changes that your plan makes to the formulary. In general, your plan
+must notify you at least 30 days before the cost or coverage of your drug changes. Your plan doesn’t
+need Medicare’s approval for removing from its formulary drugs withdrawn from the market by
+either the Food and Drug Administration or a product manufacturer.
+
+11. Does the $35 cost-sharing cap apply to disposable “patch” pumps and/or the insulin that goes
+into the pump?
+People with Medicare with Part D coverage who use a disposable insulin patch pump (i.e., a small
+wireless, tubeless pump worn directly on the body; for example, Insulet Omnipod) will continue to
+get their insulin through their Part D prescription drug plan benefit. For these people, the $35 cost
+sharing cap for a month’s supply of each covered insulin product (i.e. the insulin that goes into their
+pump) applies as of January 1, 2023. If your Part D plan covers your disposable insulin patch pump,
+the pump is considered an insulin supply. Because it isn’t an insulin product, the pump is not subject
+to the $35 cap on cost sharing and might cost more than $35, and the plan deductible may apply.
+Also, because the disposable pump is a supply (and not a drug), people with Medicare cannot add
+the pump to a drug list in Medicare Plan Finder.
+
+12. Are other types of prescription drugs that I take to manage diabetes (e.g., Trulicity, Bydureon BCise,
+Byetta, Mounjaro, Ozempic, Symlin, Victoza) included in the monthly $35 cost-sharing cap?
+Prescription drugs, including injectable drugs, that aren’t insulin products or combination products
+that combine an insulin product with another drug (e.g. a diabetes management drug), aren’t
+covered by the prescription drug law’s cost-sharing cap of $35 for a month’s supply of a covered
+insulin product.
+
+13. What amounts paid for insulin and recommended preventive vaccines will count toward the
+Medicare 2023 Part D deductible?
+If someone with Medicare fills a prescription for a Part D covered insulin product before meeting
+the Part D deductible, their cost-sharing amount (up to $35 maximum for a month’s supply) will be
+applied to their deductible. Under the prescription drug law, a person with Medicare isn’t required
+to meet the Part D deductible before Medicare will cover a Part D covered insulin product or
+recommended preventive vaccine, and recommended preventive vaccines have zero cost sharing.
+In addition, for plan year 2023, under the prescription drug law, the amount Medicare pays for a
+covered insulin product or recommended preventive vaccine that would otherwise have been paid
+by the Medicare enrollee (i.e., if the law’s cost sharing caps did not apply) will also count toward the
+person’s deductible and total True Out-of-Pocket (TrOOP) costs, and will count toward the person’s
+progression into the catastrophic phase of the Part D benefit.
+
+14. How can someone with Medicare who takes insulin estimate when they’ll move through the
+coverage phases in Medicare Part D?
+In the Medicare Plan Finder, once someone adds their insulin products to their drug list and
+compares plans, the coverage phase details shown are accurate estimates for moving through the
+phases. The full cost amount of insulin (more than the $35/month’s supply cap) will be counted
+toward out-of-pocket costs.
+
+15. If a person with Medicare pays more than $35 for a month’s supply of a covered insulin product at
+the pharmacy using their Medicare Part D coverage between January, 1, 2023 and March 31, 2023,
+will they get reimbursed for the amount that exceeds $35?
+For any month’s supply of Part D-covered insulin products dispensed between January 1, 2023 and
+March 31, 2023, a Medicare Part D prescription drug plan must reimburse the person with Medicare
+within 30 calendar days for any cost-sharing amount the person is charged that is more than $35 for
+each month’s supply of a covered Part D insulin product. Part D plans have until March 31, 2023 to
+update their systems to make sure enrollees are charged the correct amount. If the enrollee hasn’t
+received reimbursement within 30 days, they should contact their plan.
+
+CMS Product No. 12173
+January 2023
+
+

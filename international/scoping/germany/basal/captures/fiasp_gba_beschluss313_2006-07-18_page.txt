@@ -1,0 +1,731 @@
+ Arzneimittel-Richtlinie/ Neuer Abschnitt I (Anlage 4/ Insulin-Analogon Lispro und Anlage 10/ Insulinanaloga) - Gemeinsamer Bundesausschuss 
+ /* Lemon Sans Next Regular 300 */
+ @font-face {
+ font-family: 'Lemon';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src:
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ /* Lemon Sans Next Regular 400 */
+ @font-face {
+ font-family: 'Lemon';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src:
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ /* Lemon Sans Next Regular Italic 300 */
+ @font-face {
+ font-family: 'Lemon';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src:
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-RegularItalic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-RegularItalic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ /* Hinweis: als fetten Schnitt verwenden wir die Lemon Medium! */
+ /* Lemon Sans Next Medium 700 */
+ @font-face {
+ font-family: 'Lemon';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src:
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Medium.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-Medium.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ /* Lemon Sans Next Medium Italic 700 */
+ @font-face {
+ font-family: 'Lemon';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src:
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-MediumItalic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+ url('/assets-version-1790595665/bundles/gbadesignsystem/fonts/LemonSansNext-MediumItalic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+ var Hyphenopoly = {
+ require: {
+ "de": "Silbentrennungsalgorithmus"
+ },
+ paths: {
+ patterndir: "/assets-version-1790595665/js/hyphenopoly/",
+ maindir: "/assets-version-1790595665/js/hyphenopoly/"
+ },
+ setup: {
+ selectors: {
+ ".hyphenate": {
+ minWordLength: 8,
+ leftmin: 4,
+ rightmin: 4
+ }
+ }
+ }
+ };
+ <body id="top" data-theme="default" class=" beschluesse
+ " xml:lang="de" lang="de">
+ Zum Inhalt Zur Hauptnavigation 
+ Zur Startseite 
+ Gemeinsamer Bundesausschuss 
+ Menü 
+ <li class=" hidden-mobile-nav
+ nav__item
+ nav__item--is-first nav__item--is-first-0 nav__item--is-parent nav_item--is-parent-0 nav__item--level-0">
+ Presse 
+ <li class=" hidden-mobile-nav
+ nav__item
+ nav__item--is-parent nav_item--is-parent-0 nav__item--level-0">
+ Service 
+ <li class=" nav__item
+ nav__item--is-parent nav_item--is-parent-0 nav__item--level-0">
+ FAQ 
+ <li class=" nav__item
+ nav__item--is-parent nav_item--is-parent-0 nav__item--level-0">
+ English 
+ <li class=" nav__item
+ nav__item--is-last nav__item--is-last-0 nav__item--is-parent nav_item--is-parent-0 nav__item--level-0">
+ Leichte Sprache 
+ Suchbegriff 
+ Suchen 
+ <li class=" gba-main-nav__item--is-mega-dropdown
+ gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Über den GBA
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Wer wir sind
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Mitglieder
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Patientenbeteiligung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Stellungnahmeberechtigte
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Plenum
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Unterausschüsse
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Arbeitsweise
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Beratungsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Wissenschaftliche Expertise
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Stellungnahmeverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Bürokratiekostenermittlung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Beschlussfassung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Fristenberichte
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Finanzierung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Systemzuschlag
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Geschäftsstelle
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Geschäftsführung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Abteilungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Stellenangebote
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Ausschreibungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Anfahrt zur Geschäftsstelle
+ Erklärfilm – Der GBA in vier Minuten zum Erklärfilm Informationsbroschüre zur Informationsbroschüre Geschäftsberichte zu den Geschäftsberichten 
+ <li class=" gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Themen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Ambulante spezialfachärztliche Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ ASV
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Ambulante Behandlung Krankenhaus
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Arzneimittel
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Arzneimittel-Richtlinie und Anlagen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Nutzenbewertung gemäß § 35a SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Informationen für Unternehmen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Ablauf der Nutzenbewertung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ EU-HTA
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Ergebnisse der Nutzenbewertung – Kategorien des Zusatznutzens
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ AIS – Maschinenlesbare Fassung der Beschlüsse nach § 35a SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Reserveantibiotika
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Anwendungsbegleitende Datenerhebung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Arzneimittel zur Tabakentwöhnung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Bilanzierte Diäten zur enteralen Ernährung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Biologika und Biosimilars
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Aut-idem-Regelung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Festbetragsgruppenbildung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Kosten-Nutzen-Bewertung nach § 35b SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Medizinprodukte
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Antragsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Off-Label-Use
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ OTC-Übersicht
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Antragsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Therapiehinweise
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Verordnungseinschränkungen und -ausschlüsse
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Verbandmittel und Wundbehandlung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Beratungsangebot zu sonstigen Produkten zur Wundbehandlung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Lifestyle Arzneimittel
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Zulassungsüberschreitende Anwendung in klinischen Studien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Schutzimpfungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Qualitätsgesicherte Anwendung von ATMP
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Bedarfsplanung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Vertragsärztliche Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Notfallstrukturen in Krankenhäusern
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Sicherstellungszuschläge
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Zentrums-Regelungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Disease-Management-Programme
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Koordinierte Versorgung bei Long-COVID
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Methodenbewertung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Allgemeine vertragsärztliche Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Bewertung und Erprobung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Ambulante und stationäre Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Methoden mit Medizinprodukten hoher Risikoklasse
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Beratungsangebot
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Früherkennungsuntersuchungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Erprobung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Richtlinien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Antragsgesteuerte Erprobung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Früherkennungsuntersuchungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Erwachsene
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Krebsfrüherkennung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Brustkrebs-Screening
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Darmkrebs-Screening
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Gebärmutterhalskrebs-Screening
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Lungenkrebs-Screening
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Programmbeurteilung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Krebsfrüherkennungsprogramme: Sekundäre Datennutzung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Gesundheitsuntersuchungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Aneurysmen der Bauchaorta
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Chlamydien-​Test
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Jugendliche
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Kinder
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Empfängnisregelung und Schwangerschaftsabbruch
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Kryokonservierung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Künstliche Befruchtung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Methoden
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Definition und Zählweise von Versuchen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Schwangerschaft und Mutterschaft
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Stationäre Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Psychotherapie und psychiatrische Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Ambulante Psychotherapie
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Komplexversorgung: Koordinierte Versorgung für schwer psychisch erkrankte Erwachsene
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Komplexversorgung für schwer psychisch erkrankte Kinder und Jugendliche
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Evaluation neuer Strukturen in der ambulanten Psychotherapie
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Evaluation der Komplexversorgung für schwer psychisch Kranke
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Qualitätssicherung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Vorgaben zur Qualitätssicherung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Anforderungen an einrichtungsübergreifende Fehlermeldesysteme
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Mindestmengenregelungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Nachweispflichten zur Fortbildung im Krankenhaus
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Personalausstattung in Psychiatrie und Psychosomatik
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Qualitätsmanagement
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Strukturqualitätsvorgaben
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Zweitmeinung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Datenerhebung zur Qualitätssicherung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Qualitätsberichte der Krankenhäuser
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Servicedateien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Krankenhaussuche
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Datengestützte Qualitätssicherungsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Datengestützte Qualitätssicherung: Sekundäre Datennutzung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Qualitätsindikatoren für die Krankenhausplanung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Qualitätsprüfung und -beurteilung im ambulanten Bereich
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Perinataldatenbank
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Weitere Bereiche
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Qualitätsprüfungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Regelungen von Folgen bei Nichteinhaltung von Qualitätsvorgaben
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Qualitätsverträge zwischen Krankenkassen und Kliniken
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Heilkundeübertragung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Veranlasste Leistungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Arbeitsunfähigkeit
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Außerklinische Intensivpflege
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Häusliche Krankenpflege
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Heilmittel
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Verordnung in der vertragsärztlichen Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ ">
+ Verordnung in der vertragszahnärztlichen Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Hilfsmittel
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Krankenbeförderung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Krankengeldanspruch für Begleitpersonen von Menschen mit Behinderung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Krankenhauseinweisungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Medizinische Rehabilitation
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Chroniker-Regelung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Soziotherapie
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Palliativversorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Zahnärztliche und kieferorthopädische Versorgung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Prophylaxe und Früherkennung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Behandlung von Zahnerkrankungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Behandlung von Parodontalerkrankungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Kieferorthopädische Behandlung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Zahnersatz
+ <li class=" gba-main-nav__item gba-main-nav__item--level-0
+ ">
+ Richtlinien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-0
+ nav__item--is-on-active-path
+ ">
+ Beschlüsse
+ <li class=" gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Bewertungsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Nutzenbewertung nach § 35a SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Verfahren nach §§ 135, 137c und 137e SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Verfahren nach § 137h SGB V
+ <li class=" gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Studien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Erprobungsstudien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Anwendungsbegleitende Datenerhebung
+ <li class=" hidden-desktop-nav
+ gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Service
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Öffentliche Sitzungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Livestream und Mediathek
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ GBA-Fachnews
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Versicherteninformationen und U-Hefte
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ GBA-Infodienst
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Informationsmaterialien und Grafiken
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Veranstaltungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Qualitätssicherungskonferenz 2026
+ <li class=" gba-main-nav__item gba-main-nav__item--level-3
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Qualitätssicherungskonferenz 2026: Programm
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Qualitätssicherungskonferenz 2026: Programm – 26. November 2026
+ <li class=" gba-main-nav__item gba-main-nav__item--level-4
+ ">
+ Qualitätssicherungskonferenz 2026: Programm – 27. November 2026
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ RSS-Feeds
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Benutzerhinweise
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ FAQ
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Allgemeine Fragen zum Gemeinsamen Bundesausschuss
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Mitglieder und Gremien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Aufgaben für die gesetzliche Krankenversicherung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Beschlüsse und Richtlinien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Beratungsverfahren
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Evidenzbasierte Medizin
+ <li class=" hidden-desktop-nav
+ gba-main-nav__item gba-main-nav__item--level-0
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Presse
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Pressemitteilungen und Meldungen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Gesetzesaufträge
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Stellungnahmen
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ ">
+ Der GBA in den Medien
+ <li class=" gba-main-nav__item gba-main-nav__item--level-1
+ gba-main-nav__item--has-menu js-gba-main-nav__item--has-menu">
+ Pressefotos
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Unparteiische Mitglieder
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Geschäftsführung
+ <li class=" gba-main-nav__item gba-main-nav__item--level-2
+ ">
+ Geschäftsstelle
+ Sie sind hier: 
+ Startseite 
+ Beschlüsse 
+ Arzneimittel 
+ Verordnungseinschränkungen und -ausschlüsse (Anlage III) 
+ Arzneimittel-Richtlinie/ Neuer Abschnitt I (Anlage 4/ Insulin-Analogon Lispro und Anlage 10/ Insulinanaloga) 
+ Beschluss
+ Arzneimittel-Richtlinie/ Neuer Abschnitt I (Anlage 4/ Insulin-Analogon Lispro und Anlage 10/ Insulinanaloga) 
+ Beschlussdatum: 18.07.2006 
+ Inkrafttreten: 29.09.2006 
+ Beschluss veröffentlicht: 
+ BAnz. Nr. 184 (S. 6527) vom 28.09.2006
+ Beschlusstext
+ (PDF 363,76 kB) 
+ Tragende Gründe zum Beschluss
+ (PDF 606,77 kB) 
+ Prüfung gem. § 94 SGB V durch das BMG
+ (PDF 473,22 kB) 
+ Beratung der Stellungnahmen
+ (PDF 149,72 kB) 
+ Richtlinie 
+ Arzneimittel-Richtlinie 
+ Richtlinien-Anlagen 
+ Anlage III: Verordnungseinschränkungen und -ausschlüsse 
+ Anlage IV: Therapiehinweise 
+ Zuständiger Unterausschuss 
+ Arzneimittel 
+ Pressemitteilung/Meldung 
+ 18.07.2006 | Pressemitteilung
+ Medizinische Versorgung von Diabetes-Typ-2-Patienten gesichert 
+ alle Pressemitteilungen 
+ Letzte Änderungen 
+ Letzte Änderungen als RSS-Feed ( Tipps zur Nutzung ) 
+ Inhalte drucken 
+ Zum Seitenanfang 
+ .foreground{stroke-width:0;fill:var(--icon-foreground, #fff)} 
+ LinkedIn 
+ (öffnet sich in neuem Fenster) 
+ Instagram 
+ (öffnet sich in neuem Fenster) 
+ Bluesky 
+ (öffnet sich in neuem Fenster) 
+ <li class="nav__item
+ nav__item--is-first nav__item--is-first-0 nav__item--level-0">
+ Impressum 
+ <li class="nav__item
+ nav__item--level-0">
+ Datenschutz 
+ <li class="nav__item
+ nav__item--level-0">
+ Kontakt 
+ <li class="nav__item
+ nav__item--level-0">
+ Inhalt 
+ <li class="nav__item
+ nav__item--level-0">
+ Benutzerhinweise 
+ <li class="nav__item
+ nav__item--is-last nav__item--is-last-0 nav__item--level-0">
+ Erklärung zur Barrierefreiheit 
+ //<![CDATA[
+var _paq = (_paq||[]).concat([["setDoNotTrack",true],["disableCookies"],["enableLinkTracking"],["trackPageView"]]);
+(function() {
+ var u=(("https:" == document.location.protocol) ? "https" : "http") + "://matomo.webfactory.de/";
+ _paq.push(["setTrackerUrl", u+"js/"]);
+ _paq.push(["setSiteId", "8"]); _paq.push(['setAPIUrl', u]); var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+ g.defer=true; g.async=true; g.src=u+"js/"; s.parentNode.insertBefore(g,s);
+})();
+//]]> 

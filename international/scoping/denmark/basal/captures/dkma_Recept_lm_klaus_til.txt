@@ -1,0 +1,2508 @@
+Receptpligtige lægemidler med klausuleret tilskud
+
+
+A03AB02                  GLYCOPYRRON
+
+Sialanar   oral opløsning                                    SIALA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+SIALA      Symptomatisk behandling af svær sialorré (kronisk patologisk spytflåd) hos
+           børn og unge med kroniske neurologiske forstyrrelser i alderen 3 år til 17 år.
+
+
+
+
+A07EA01                  PREDNISOLON
+
+Prednisolon "Unimedic"      rektalvæske, opløsning                          PREDN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PREDN Patienter med aktiv distal colitis ulcerosa, hvor lokalbehandling med mesalazin
+      har vist sig utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                      1
+A07EA06                 BUDESONID
+
+Budenofalk             suppositorier                                   BUDRE
+Budenopar              rektalskum                                      PREDN
+
+Budesonid "Orifarm"    rektalskum                                      PREDN
+Entocort               tabletter til rektalvæske, suspension           PREDN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+BUDRE Patienter med aktiv distal colitis ulcerosa begrænset til rektum, hvor
+      lokalbehandling med mesalazin har vist sig utilstrækkelig, er kontraindiceret
+      eller ikke tolereres.
+
+
+PREDN Patienter med aktiv distal colitis ulcerosa, hvor lokalbehandling med mesalazin
+      har vist sig utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+
+
+A10AB05                 INSULIN ASPART
+
+Fiasp              injektionsvæske, opløsning, hætteglas            INSHV
+
+Fiasp FlexTouch    injektionsvæske, opløsning i fyldt pen           INSHV
+Fiasp Penfill      injektionsvæske, opløsning i cylinderampul       INSHV
+
+Fiasp PumpCart     injektionsvæske, opløsning i cylinderampul       INSHV
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+INSHV      Patienter med diabetes, der på grund af postprandiel hyperglykæmi ikke opnår
+           tilfredsstillende blodglukose-kontrol ved behandling med anden hurtigtvirkende
+           insulinanalog.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                       2
+A10AC01                    INSULIN (HUMAN)
+
+Humulin NPH KwikPen          injektionsvæske, suspension, fyldt pen               BINS1
+Insulatard                   injektionsvæske, suspension, hætteglas               BINS1
+
+Insulatard FlexPen           injektionsvæske, suspension, fyldt pen               BINS1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+BINS1        Patienter med diabetes, der er velbehandlede med NPH-insulin før
+             tilskudsændringen i 2022. Patienter med steroidinduceret diabetes.
+             Behandling af diabetes i forbindelse med graviditet.
+
+
+
+
+A10AE05                    INSULIN DETEMIR
+
+Levemir FlexPen       injektionsvæske, opløsning i fyldt pen                  BINS2
+
+Levemir Penfill       injektionsvæske, opløsning i cylinderampul              BINS2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+BINS2        Patienter med diabetes, der er velbehandlede med insulin detemir før
+             tilskudsændringen i 2022. Behandling af diabetes i forbindelse med graviditet.
+
+
+
+
+A10AE56                    INSULIN DEGLUDEC OG LIRAGLUTID
+
+Xultophy      injektionsvæske, opløsning i fyldt pen                  GLPIN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GLPIN        Patienter med diabetes mellitus type 2, der ikke har opnået tilstrækkelig
+             glykæmisk kontrol ved behandling med enten basalinsulin i kombination med
+             metformin eller en GLP-1 analog i kombination med metformin og andre orale
+             antidiabetika.
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                      3
+A10BJ05                   DULAGLUTID
+
+Trulicity   injektionsvæske, opløsning i fyldt pen     GLPNY
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GLPNY Patienter med type 2-diabetes, hvor SGLT-2-hæmmer ikke kan anvendes på
+      grund af intolerance eller svært nedsat nyrefunktion, og som enten har 1)
+      hjertekar- eller nyresygdom eller 2) mindst tre risikofaktorer for
+      hjertekarsygdom og samtidig utilstrækkelig glykæmisk kontrol med metformin.
+      Alle patienter med type 2-diabetes, som ikke har tilfredsstillende glykæmisk
+      kontrol ved behandling med alle relevante orale antidiabetika, herunder
+      SGLT-2-hæmmer.
+
+
+
+
+A10BJ06                   SEMAGLUTID
+
+Ozempic      injektionsvæske, opløsning i fyldt pen     GLPNY
+
+Rybelsus     tabletter                                  GLPNY
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GLPNY Patienter med type 2-diabetes, hvor SGLT-2-hæmmer ikke kan anvendes på
+      grund af intolerance eller svært nedsat nyrefunktion, og som enten har 1)
+      hjertekar- eller nyresygdom eller 2) mindst tre risikofaktorer for
+      hjertekarsygdom og samtidig utilstrækkelig glykæmisk kontrol med metformin.
+      Alle patienter med type 2-diabetes, som ikke har tilfredsstillende glykæmisk
+      kontrol ved behandling med alle relevante orale antidiabetika, herunder
+      SGLT-2-hæmmer.
+
+
+
+
+A12BA01                   KALIUMCHLORID
+
+Kaliumchlorid "Orifarm"     oral opløsning                          HYPKA
+
+Kaliumklorid "PS"           oral opløsning                          HYPKA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+HYPKA Behandling og forebyggelse af hypokaliæmi hos patienter, hvor behandling
+      med kaliumchlorid i fast formulering ikke er mulig
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                              4
+A12BA02                    KALIUMCITRAT
+
+Alkacit     tabletter med modificeret udløsning            ALKAC
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ALKAC Behandling og forebyggelse af nyresten hos patienter, hvor udredning og
+      behandling er iværksat af en speciallæge i urologi eller nefrologi.
+
+
+
+
+B01AC06                    ACETYLSALICYLSYRE
+
+Acetylsalicylsyre Carefarm      enterotabletter                         PKARD
+Acetylsalicylsyre "Teva"        tabletter                               PKARD
+
+Hjercatyl                       tabletter                               PKARD
+
+Hjerdyl                         tabletter                               PKARD
+
+Hjertealbyl                     enterotabletter                         PKARD
+
+Hjertemagnyl                    filmovertrukne tabletter                PKARD
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PKARD Sekundær profylakse af IHS, iskæmisk cerebral apopleksi, TCI og PAD.
+      Atrieflimren. Primær profylakse af kardiovaskulær sygdom som trombose og
+      AKS hos personer over 50 år med en eller flere af følgende lidelser:
+      Hypertension, hyperkolesterolæmi, diabetes mellitus, adipositas (BMI > 30) og
+      familiær historie om AMI før 55 års alderen hos mindst en forælder eller
+      søskende. Polycytæmia vera. Essentiel thrombocytose. Idiopatisk
+      myelofibrose. Uklassificeret myeloproliferativ tilstand.
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                              5
+B01AC24                  TICAGRELOR
+
+Brilique                      filmovertrukne tabletter                         AKSTI
+Ticagrelor "Holsten"          filmovertrukne tabletter                         AKSTI
+
+Ticagrelor "Krka"             filmovertrukne tabletter                         AKSTI
+Ticagrelor "Medical Valley"   filmovertrukne tabletter                         AKSTI
+Ticagrelor "Newbury"          filmovertrukne tabletter                         AKSTI
+
+Ticagrelor "Stada"            filmovertrukne tabletter                         AKSTI
+Ticagrelor "Teva"             filmovertrukne tabletter                         AKSTI
+
+Ticagrelor "Zentiva"          filmovertrukne tabletter                         AKSTI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AKSTI      Patienter med akut koronart syndrom i tillæg til acetylsalicylsyre i 12 måneder.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                        6
+B01AF01                 RIVAROXABAN
+
+Rivaroxaban Accord               filmovertrukne tabletter                  XARE3
+Rivaroxaban "Hexal"              filmovertrukne tabletter                  XARE3
+
+Rivaroxaban "Krka"               filmovertrukne tabletter                  XARE3
+Rivaroxaban "Medical Valley"     filmovertrukne tabletter                  XARE3
+Rivaroxaban "Orion"              filmovertrukne tabletter                  XARE3
+
+Rivaroxaban "Stada"              filmovertrukne tabletter                  XARE3
+Rivaroxaban "Teva"               filmovertrukne tabletter                  XARE3
+
+Rivaroxaban Viatris              filmovertrukne tabletter                  XARE3
+Rivaroxaban "Zentiva"            filmovertrukne tabletter                  XARE3
+Rivaxa                           filmovertrukne tabletter                  XARE3
+
+Xarelto                          filmovertrukne tabletter                  XARE3
+Xarelto                          granulat til oral suspension              XARE2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+XARE2 Behandling af venøs tromboemboli og forebyggelse af recidiverende venøs
+      tromboemboli hos børn, der vejer mindre end 30 kg efter mindst 5 dage med
+      indledende parenteral antikoagulationsbehandling.
+
+
+XARE3 I tillæg til acetylsalicylsyre til: (1) Patienter med symptomatisk perifer
+      arteriesygdom i forlængelse af revaskularisering og høj tromboserisiko (samlet
+      klinisk vurdering). (2) Patienter med kronisk iskæmisk hjertesygdom, høj
+      tromboserisiko (diabetes, tidligere akut myokardieinfarkt, perifer
+      arteriesygdom) og lav/normal risiko for blødningskomplikation. For begge
+      patientgrupper gælder, at behandlingen skal være iværksat af en speciallæge i
+      kardiologi eller karkirurgi.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                7
+B03BA01                 CYANOCOBALAMIN
+
+Betolvex                      filmovertrukne tabletter                     PERN
+Bevitan                       filmovertrukne tabletter                     PERN
+
+Cyanocobalamin "Orifarm"      filmovertrukne tabletter                     PERN
+Permadoze Oral                filmovertrukne tabletter                     PERN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PERN       Perniciøs anæmi. B12-vitaminmangeltilstande som følge af indgreb på mave-
+           tarmkanalen eller malabsorption fra mave-tarmkanalen.
+
+
+
+
+B03BA03                 HYDROXOCOBALAMIN
+
+Cohemin                               injektionsvæske, opløsning                  PERN
+
+Hydroxocobalamin "Alternova"          injektionsvæske, opløsning                  PERN
+
+Hydroxocobalamin "G.L. Pharma"        injektionsvæske, opløsning                  PERN
+
+Hydroxocobalamin "Nordic Prime"       injektionsvæske, opløsning                  PERN
+
+Vibeden                               injektionsvæske, opløsning                  PERN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PERN       Perniciøs anæmi. B12-vitaminmangeltilstande som følge af indgreb på mave-
+           tarmkanalen eller malabsorption fra mave-tarmkanalen.
+
+
+
+
+B03BB01                 FOLSYRE
+
+Folimet                tabletter                                    FOL1
+
+Folsyre "Orifarm"      tabletter                                    FOL1
+Folsyre "Vitabalans"   tabletter                                    FOL1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+FOL1       Patienter i behandling med methotrexat.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                    8
+C01EB17                   IVABRADIN
+
+Ivabradin "Krka"               filmovertrukne tabletter                        HJSVI
+Ivabradin "Medical Valley"     filmovertrukne tabletter                        HJSVI
+
+Ivabradin "Teva B.V."          filmovertrukne tabletter                        HJSVI
+Procoralan                     filmovertrukne tabletter                        HJSVI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+HJSVI      Patienter med kronisk hjertesvigt i NYHA klasse II til IV, i sinusrytme, med
+           systolisk dysfunktion (EF < 35 %) og med hvilepuls > 75 slag/min, i
+           kombination med standardbehandling inklusiv betablokker eller når
+           betablokker er kontraindiceret eller ikke tolereres.
+
+
+
+
+C03DA05                   FINERENON
+
+Kerendia     filmovertrukne tabletter                         KERE2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+KERE2 Behandling af voksne med type 2-diabetes og kronisk nyresygdom med eGFR
+      > eller = 25 ml/min/1,73 m2 og vedvarende albuminuri (> eller = 30 mg/g)
+      trods behandling med de for patienten maksimalt tolerable doser af ACE-
+      hæmmer/ARB og SGLT2-hæmmer eller hvor SGLT2-hæmmer ikke tolereres/
+      er kontraindiceret. Behandlingen skal være iværksat af eller konfereret med en
+      speciallæge i nefrologi eller endokrinologi.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                   9
+C08CA05                 NIFEDIPIN
+
+Adalat LA     depottabletter                                   HTCAA
+Adalat Oros   depottabletter                                   HTCAA
+
+Nifenova      depottabletter                                   HTCAA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+HTCAA Patienter med behandlingskrævende hypertension eller anden form for hjerte-
+      karsygdom, hvor behandling med dihydropyridin-calciumantagonister med
+      generelt tilskud uden klausulering ikke tolereres, eller i helt særlige tilfælde -
+      efter lægens samlede kliniske vurdering af patientens tilstand - ikke er
+      hensigtsmæssig.
+
+
+
+
+C09AA02                 ENALAPRIL
+
+AQUMELDI      smeltetabletter                                  AQMDI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AQMDI Behandling af børn, der vejer under 20 kg
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                   10
+C09DX04                     VALSARTAN OG SACUBITRIL
+
+Entresto     filmovertrukne tabletter                         ENTR3
+Entresto     granulat                                         ENTR4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ENTR3 Patienter med symptomatisk kronisk systolisk hjertesvigt (NYHA II-IV) med
+      venstre ventrikel uddrivningsfraktion < eller = 40%. Voksne patienter skal have
+      været i stabil dosering af de for patienten maksimalt tolerable doser af ACE-
+      hæmmer/ARB og beta-blokker og med et systolisk blodtryk > eller = 95
+      mmHg. Børn og unge (1-17 år), skal have utilstrækkelig effekt eller oplevet
+      bivirkninger på relevant standardbehandling. Behandlingen skal i alle tilfælde
+      være iværksat af en speciallæge i kardiologi.
+
+
+ENTR4 Børn og unge, der vejer mindre end 50 kg med symptomatisk kronisk systolisk
+      hjertesvigt (NYHA II-IV) med venstre ventrikel uddrivningsfraktion < eller =
+      40% med utilstrækkelig effekt eller har oplevet bivirkninger på relevant
+      standardbehandling. Behandlingen skal i alle tilfælde være iværksat af en
+      speciallæge i kardiologi.
+
+
+
+
+C10AA05                     ATORVASTATIN
+
+Zarator    tyggetabletter                                    CHOTG
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+CHOTG Patienter med behandlingskrævende hyperlipidæmi, for hvem behandling med
+      statin med generelt tilskud uden klausulering ikke er mulig.
+
+
+
+
+C10AB04                     GEMFIBROZIL
+
+Lopid     filmovertrukne tabletter                         TRIGL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+TRIGL      Patienter med isoleret svær forhøjelse af triglycerid eller patienter med
+           kombineret hyperlipidæmi evt. i kombination med statin
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                11
+C10AC01                  COLESTYRAMIN
+
+Colestyramin "Orifarm"       pulver til oral suspension, enkeltdosisbeholder   NILEM
+Questran                     pulver til oral suspension, enkeltdosisbeholder   NILEM
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+NILEM      Patienter, der ikke har nået behandlingsmålet for LDL på maksimalt tolereret
+           dosis af atorvastatin eller rosuvastatin i kombination med ezetimib, eller som
+           har dokumenteret statinintolerans (har afprøvet mindst tre forskellige statiner i
+           laveste dosis med langsom optrapning) og ikke har nået behandlingsmålet for
+           LDL med ezetimib alene
+
+
+
+
+C10AD06                  ACIPIMOX
+
+Olbetam     kapsler, hårde                                          CHOL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+CHOL       Patienter med behandlingskrævende hyperlipidæmi, for hvem behandling med
+           generelt tilskudsberettiget statin har vist sig utilstrækkelig, eller som ikke tåler
+           disse lægemidler
+
+
+
+
+C10AX15                  BEMPEDOINSYRE
+
+Nilemdo    filmovertrukne tabletter                                 NILEM
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+NILEM      Patienter, der ikke har nået behandlingsmålet for LDL på maksimalt tolereret
+           dosis af atorvastatin eller rosuvastatin i kombination med ezetimib, eller som
+           har dokumenteret statinintolerans (har afprøvet mindst tre forskellige statiner i
+           laveste dosis med langsom optrapning) og ikke har nået behandlingsmålet for
+           LDL med ezetimib alene
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                          12
+D06BB10                   IMIQUIMOD
+
+Aldara     creme                                           AKCAR
+Zyclara    creme                                           AKTIN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AKCAR Patienter med aktiniske keratoser eller basalcelle karcinom, hvor fysisk
+      behandling og/eller photodynamisk terapi ikke er det mest velegnede
+      behandlingsvalg.
+
+
+AKTIN      Patienter med aktiniske keratoser, hvor fysisk behandling og/eller
+           photodynamisk terapi ikke er det mest velegnede behandlingsvalg.
+
+
+
+
+G02BA03                   PLAST INTRAUTERINT INDLÆG MED GESTAGEN
+
+Mirena    intrauterint indlæg                             GESTA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GESTA Kvinder med behandlingskrævende menoragi samt kvinder med behov for
+      beskyttelse mod endometriehyperplasi under østrogen-
+      substitutionsbehandling
+
+
+
+
+G02CX06                   FEZOLINETANT
+
+Veoza     filmovertrukne tabletter                        FEZO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+FEZO1 Behandlingskrævende hede-svedeture forårsaget af menopausen, hvor
+      hormonbehandling er kontraindiceret eller har medført uacceptable
+      bivirkninger
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                         13
+G02CX07                    ELINZANETANT
+
+Lynkuet    kapsler, bløde                                  ELIN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ELIN       Behandlingskrævende hede svedeture forårsaget af adjuverende endokrin
+           terapi relateret til brystkræft
+
+
+
+
+G03CC06                    ESTRIOL
+
+Gynoflor     vaginaltabletter                              GYNO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GYNO       Behandling af atrofisk vaginitis hos perimenopausale eller postmenopausale
+           kvinder
+
+
+
+
+G03DA04                    PROGESTERON
+
+Pleyris        injektionsvæske, opløsning                    PROGE
+
+Prolutex       injektionsvæske, opløsning                    PROGE
+Utrogestan     kapsler, bløde                                UTROG
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PROGE Infertile kvinder, der har forsøgt billigere behandling med vaginalt administreret
+      progesteron og hvor denne behandling har medført uacceptable bivirkninger
+
+
+UTROG Kvinder i behandling med oral østrogen (Estrofem/Estrofem mite) eller
+      transdermal østrogen gel i pumpe eller kutanspray, som har behov for
+      gestagen til beskyttelse mod endometriehyperplasi
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                   14
+G03HA01                     CYPROTERON
+
+Androcur    tabletter                                  CYPRO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+CYPRO Behandling af mandlig hyperseksualitet, når behandlingen varetages af
+      specialist på området og andre behandlingsmuligheder er vurderet uegnede
+      eller utilstrækkelige.
+
+
+
+
+G04BD12                     MIRABEGRON
+
+Betmiga    depottabletter                             OABMI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OABMI Patienter med symptomer på overaktiv blæresyndrom, hvor behandling med
+      muskarinreceptorantagonist med generelt tilskud uden klausulering ikke er
+      mulig
+
+
+
+
+G04BD15                     VIBEGRON
+
+Obgemsa     filmovertrukne tabletter                   OABMI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OABMI Patienter med symptomer på overaktiv blæresyndrom, hvor behandling med
+      muskarinreceptorantagonist med generelt tilskud uden klausulering ikke er
+      mulig
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                            15
+H02AB09                    HYDROCORTISON
+
+Alkindi    granulat i enkeltdosisbeholder                       HYDBO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+HYDBO Erstatningsterapi ved binyreinsufficiens hos børn, hvor behandling med
+      hydrocortison som tabletter ikke er mulig
+
+
+
+
+H04AA01                    GLUCAGON
+
+Ogluo      injektionsvæske, opløsning i fyldt pen               OGLUO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OGLUO Patienter med insulinbehandlet diabetes, hvor lægen vurderer, at glucagon til
+      injektion med generelt tilskud ikke kan administreres succesfuldt.
+
+
+
+
+H05AA02                    TERIPARATID
+
+Movymia                injektionsvæske, opløsning i cylinderampul       OSTTE
+
+Movymia Pen            injektionsvæske, opløsning i fyldt pen           OSTTE
+Sondelbay              injektionsvæske, opløsning i fyldt pen           OSTTE
+Terrosa                injektionsvæske, opløsning i cylinderampul       OSTTE
+
+Terrosa Startpack      injektionsvæske, opløsning i fyldt pen           OSTTE
+
+Tetridar               injektionsvæske, opløsning i fyldt pen           OSTTE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OSTTE Behandling i 18-24 måneder af postmenopausale kvinder samt mænd over 40
+      år, som inden for de sidste tre år har pådraget sig en lavenergifraktur i ryggen
+      (> eller = 25% sammenfald), og som har en T-score i ryg eller hofte < eller =
+      -3,0, eller som har to eller flere lavenergifrakturer i ryggen (> eller = 25%
+      sammenfald).
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                 16
+J01CF05                  FLUCLOXACILLIN
+
+Flucloxacillin "Nordic Prime"    pulver til oral opløsning                     FLUCL
+Nerbutix                         pulver til oral opløsning                     FLUCL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+FLUCL      Behandling af mistænkt eller bekræftet stafylokokinfektion hos børn, der vejer
+           op til 20 kg, samt hos børn der vejer mellem 20 og 30 kg, hvor behandling
+           med dicloxacillin og flucloxacillin i fast formulering ikke er mulig.
+
+
+
+
+J01XX05                  METHENAMIN
+
+Methenamine hippurate "EQL Pharma"           tabletter                                      METHE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+METHE Voksne patienter med recidiverende symptomatiske urinvejsinfektioner, hvor
+      øvrige relevante tiltag er forsøgt. Behandlingen skal seponeres ved
+      utilstrækkelig effekt efter 6-12 måneder.
+
+
+
+
+J07AL01                  PNEUMOCOCCUS, RENSET POLYSACC. ANTIGEN
+
+               injektionsvæske, opløsning i fyldt
+Pneumovax      injektionssprøjte                                P9SST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+P9SST      Personer på eller over 65 år. Personer over 2 år m. udført/planlagt
+           splenektomi, organ- el. stamcelletranspl. el. cochleaimplant., mangl.
+           miltfunktion, likvorlækage, tidl. invasiv pneumokoksygd., immunsupp., KOL
+           ved FEV1 <40%. Personer 2-18 år m. cyanotisk hjertesygd., hjerteinsuff.,
+           palliativ operation for hjertesygd., hæmodynamisk betydende residua efter
+           hjerteoperation, kronisk lungelidelse, hypodynamisk respirationsinsuff.,
+           nefrotisk syndrom, immundefekter excl. agammaglobulinæmi og SCID
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                            17
+J07AL02                PNEUMOCOCCUS, RENSET POLYSACC. ANTIGEN KONJ.
+
+              injektionsvæske, opløsning i fyldt
+CAPVAXIVE     injektionssprøjte                                        P10SS
+              injektionsvæske, suspension, fyldt
+Prevenar 20   injektionssprøjte                                        P8SST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+P10SS    Voksne på 18 år eller derover med manglende milt eller dysfunktion af milt,
+         organ- el. stamcelletransplantation, cochleaimplantation, likvorlækage,
+         tidligere invasiv pneumokoksygdom, immunsuppression pga. sygdom eller
+         behandling. Personer på eller over 65 år med diabetes mellitus eller kronisk
+         hjerte-, lunge-, nyre eller leversygdom.
+
+
+P8SST    Pers. m mangl. milt el. dysfunkt. af milt, organ- el. stamcelletranspl,
+         cochleaimplant, likvorlækage, tidl. invasiv pneumokoksygd., immunsupp. Pers.
+         under 18 år m. cyanotisk hjertesygd., hjerteinsuff., palliativ op. pro hjertesygd.,
+         hæmodyn. betydende residua post hjerteop., kronisk lungelidelse, hypodyn.
+         respirationsinsuff., nefrotisk syndrom, immundefekter excl.
+         agammaglobulinæmi og SCID. Pers. på el. over 65 år m. diabetes mellitus
+         eller kronisk hjerte-, lunge-, nyre eller leversygd.
+
+
+
+
+J07BC01                HEPATITIS B, RENSET ANTIGEN
+
+                                  injektionsvæske, suspension, fyldt
+Engerix-B 10 mikrogram/0,5 ml     injektionssprøjte                                 ENSST
+                                  injektionsvæske, suspension, fyldt
+Engerix-B 20 mikrogram/1 ml       injektionssprøjte                                 ENSST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ENSST Personer med Downs syndrom. Personer udsat for relevante stikuheld.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                         18
+J07BK03                   ZOSTER, RENSET ANTIGEN
+
+             pulver og suspension til injektionsvæske,
+Shingrix     suspension                                         S3SST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+S3SST        Personer på 18 år og derover med immunsuppression, enten som følge af
+             medicinsk behandling (planlagt eller igangværende) eller som følge af
+             medfødte eller erhvervede sygdomme og tilstande.
+
+
+
+
+J07BX05                   RESPIRATORISK SYNCYTIALVIRUS-VACCINER
+
+Abrysvo      pulver og solvens til injektionsvæske, opløsning   ARSST
+             pulver og suspension til injektionsvæske,
+Arexvy       suspension                                         ARSST
+             pulver og suspension til injektionsvæske,
+Arexvy       suspension i fyldt injektionssprøjte               ARSST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ARSST Personer på 60 år og derover med KOL.
+
+
+
+
+L01BC52                   FLUORURACIL, KOMBINATIONER
+
+Actikerall    kutanopløsning                                    AKTIN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AKTIN        Patienter med aktiniske keratoser, hvor fysisk behandling og/eller
+             photodynamisk terapi ikke er det mest velegnede behandlingsvalg.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                              19
+L04AX03                    METHOTREXAT
+
+               injektionsvæske, opløsning i fyldt
+Injexate       injektionssprøjte                                METEX
+               injektionsvæske, opløsning i fyldt
+Metex          injektionssprøjte                                METEX
+
+Metex Pen      injektionsvæske, opløsning i fyldt pen           METEX
+Methofill      injektionsvæske, opløsning i fyldt injektor      METEX
+Nordimet       injektionsvæske, opløsning i fyldt pen           METEX
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+METEX Voksne patienter med psoriasis, psoriasisartrit eller reumatoid artrit, hvor
+      behandling med methotrexat tabletter har vist sig utilstrækkelig eller ikke
+      tolereres, og som følges af en privatpraktiserende speciallæge i dermatologi
+      eller reumatologi.
+
+
+
+
+M01AE01                    IBUPROFEN
+
+Ibumetin Junior               oral suspension                                 IBURO
+
+Ibuprofen "Nordic Prime"      oral suspension                                 IBURO
+
+Ibuprofen "XGX"               oral suspension                                 IBURO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+IBURO       Patienter, hvor behandling med ibuprofen i fast formulering ikke er mulig
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                 20
+M03BX02                     TIZANIDIN
+
+Tizanidin "2care4"           tabletter                                   SPAST
+Tizanidin "Nordic Prime"     tabletter                                   SPAST
+
+Tizanidin "Paranova"         tabletter                                   SPAST
+Tizanidin "Teva"             tabletter                                   SPAST
+Tizanidin Teva               tabletter                                   SPAST
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+SPAST Kroniske spastiske tilstande forårsaget af lidelser i centralnervesystemet.
+
+
+
+
+M04AA03                     FEBUXOSTAT
+
+Adenuric               filmovertrukne tabletter                    AUFEB
+
+Febuxostat "Krka"      filmovertrukne tabletter                    AUFEB
+
+Febuxostat "Teva"      filmovertrukne tabletter                    AUFEB
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AUFEB Uratsænkende behandling af patienter, hvor behandling med allopurinol i
+      maksimalt tolerabel dosis har vist sig utilstrækkelig
+
+
+
+
+M05BA04                     ALENDRONSYRE
+
+Alensol    oral opløsning                                OSTBI
+Binosto    brusetabletter                                OSTBI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OSTBI      Patienter med osteoporose, hvor behandling med orale bisfosfonater, med
+           generelt tilskud uden klausulering, ikke tolereres, samt patienter med
+           synkebesvær.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                              21
+M05BA07                 RISEDRONSYRE
+
+Risedronatnatrium "2care4"     filmovertrukne tabletter                    OSTRI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OSTRI      Patienter med osteoporose, hvor behandling med orale bisfosfonater, med
+           generelt tilskud uden klausulering, ikke tolereres.
+
+
+
+
+M05BX04                 DENOSUMAB
+
+             injektionsvæske, opløsning i fyldt
+Izamby       injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+Jubbonti     injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+Junod        injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+Obodence     injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+Osvyrti      injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+Ponlimsi     injektionssprøjte                              OSTDE
+
+Prolia       injektionsvæske, opløsning                     OSTDE
+             injektionsvæske, opløsning i fyldt
+Stoboclo     injektionssprøjte                              OSTDE
+             injektionsvæske, opløsning i fyldt
+ZADENVI      injektionssprøjte                              OSTDE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OSTDE Patienter med osteoporose, hvor behandling med orale bisfosfonater har vist
+      sig utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                22
+N02AA01                  MORPHIN
+
+Contalgin                    depottabletter                                    OPIO1
+Doltard                      depottabletter                                    OPIO1
+
+Doltard Delbar               depottabletter                                    OPIO1
+Malfin                       depottabletter                                    OPIO1
+Morfin "DAK"                 tabletter                                         OPIO3
+
+Morfin "EQL Pharma"          tabletter                                         OPIO3
+Morphinsulfat "2care4"       depottabletter                                    OPIO1
+
+Morphinsulfat "Carefarm"     depottabletter                                    OPIO1
+Oramorph                     orale dråber, opløsning                           OPIO4
+Oramorph                     oral opløsning                                    OPIO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO1       Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+            utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+OPIO3       Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+            gennembrudssmerter.
+
+
+OPIO4       Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+            gennembrudssmerter. I begge tilfælde dog kun, hvor behandling med opioider
+            som kapsler eller tabletter ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                     23
+N02AA05                OXYCODON
+
+Codilek Depot                   depottabletter                                  OPIO1
+Coxynon Depot                   depottabletter                                  OPIO1
+
+Oxycodone "Teva"                kapsler, hårde                                  OPIO3
+Oxycodonhydrochlorid "G.L."     filmovertrukne tabletter                        OPIO3
+Oxycontin Depot                 depottabletter                                  OPIO1
+
+OxyContin Depot                 depottabletter                                  OPIO1
+Oxylan Depot                    depottabletter                                  OPIO1
+
+OxyNorm                         kapsler, hårde                                  OPIO3
+OxyNorm                         oral opløsning                                  OPIO4
+OxyNorm Dispersa                smeltetabletter                                 OPIO4
+
+Reltebon Depot                  depottabletter                                  OPIO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO1     Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+          utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+OPIO3     Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+          gennembrudssmerter.
+
+
+OPIO4     Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+          gennembrudssmerter. I begge tilfælde dog kun, hvor behandling med opioider
+          som kapsler eller tabletter ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                  24
+N02AB03                  FENTANYL
+
+Fentanyl "Orion"      depotplastre                                       OPIO5
+Fentanyl "Sandoz"     depotplastre                                       OPIO5
+
+Lafene                depotplastre                                       OPIO5
+Matrifen              depotplastre                                       OPIO5
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO5       Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+            utilstrækkelig, er kontraindiceret eller ikke tolereres, og hvor behandling med
+            orale opioider ikke er mulig.
+
+
+
+
+N02AE01                  BUPRENORPHIN
+
+Buprefarm                        depotplastre                                       OPIO5
+
+Bupremyl                         depotplastre                                       OPIO5
+
+Buprenorphine "G.L. Pharma"      resoribletter, sublinguale                         OPIO2
+Buprenorphine "Sandoz"           depotplastre                                       OPIO5
+
+Buprenorphine "Stada"            depotplastre                                       OPIO5
+
+Buprenorphine "Teva"             depotplastre                                       OPIO5
+Norspan                          depotplastre                                       OPIO5
+
+Norvipren                        resoribletter, sublinguale                         OPIO2
+
+Temgesic                         resoribletter, sublinguale                         OPIO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO2       Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+            utilstrækkelig, er kontraindiceret eller ikke tolereres, og hvor behandling med
+            opioider som depotkapsler eller depottabletter ikke er mulig.
+
+
+OPIO5       Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+            utilstrækkelig, er kontraindiceret eller ikke tolereres, og hvor behandling med
+            orale opioider ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                        25
+N02AX02                 TRAMADOL
+
+Dolatramyl                       depottabletter                                    OPIO1
+Dolol                            kapsler, hårde                                    OPIO3
+
+Dolol Retard UNO                 depotkapsler, hårde                               OPIO1
+Gemadol Retard                   depotkapsler                                      OPIO1
+Nobligan                         kapsler, hårde                                    OPIO3
+
+Nobligan Retard                  depottabletter                                    OPIO1
+Tadol                            kapsler, hårde                                    OPIO3
+
+Tadol                            suppositorier                                     OPIO4
+Tradolan                         filmovertrukne tabletter                          OPIO3
+Tradolan Retard                  depottabletter                                    OPIO1
+
+Tramadol "Actavis"               kapsler, hårde                                    OPIO3
+Tramadolhydrochlorid "2care4"    depotkapsler, hårde                               OPIO1
+
+Tramadol "Krka"                  depottabletter                                    OPIO1
+
+Tramadol "Krka"                  kapsler, hårde                                    OPIO3
+Tramadol Retard "Actavis"        depottabletter                                    OPIO1
+
+Tramadol Retard "Hexal"          depottabletter                                    OPIO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO1      Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+           utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+OPIO3      Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+           gennembrudssmerter.
+
+
+OPIO4      Til kortvarig behandling af opioid-krævende smerter samt til behandling af
+           gennembrudssmerter. I begge tilfælde dog kun, hvor behandling med opioider
+           som kapsler eller tabletter ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:     28/09/26                                                       26
+N02BA01                   ACETYLSALICYLSYRE
+
+Magnyl "DAK"     enterotabletter                                   PKARD
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PKARD Sekundær profylakse af IHS, iskæmisk cerebral apopleksi, TCI og PAD.
+      Atrieflimren. Primær profylakse af kardiovaskulær sygdom som trombose og
+      AKS hos personer over 50 år med en eller flere af følgende lidelser:
+      Hypertension, hyperkolesterolæmi, diabetes mellitus, adipositas (BMI > 30) og
+      familiær historie om AMI før 55 års alderen hos mindst en forælder eller
+      søskende. Polycytæmia vera. Essentiel thrombocytose. Idiopatisk
+      myelofibrose. Uklassificeret myeloproliferativ tilstand.
+
+
+
+
+N02BE01                   PARACETAMOL
+
+Panodil Brus   brusetabletter                                     SVSBR
+
+Pinex          suppositorier                                      SVSSU
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+SVSBR Patienter, hvor behandling med paracetamol i faste orale formuleringer ikke er
+      mulig.
+
+
+SVSSU Patienter, hvor behandling med orale lægemidler ikke er mulig, fx på grund af
+      kvalme eller opkastning.
+
+
+
+
+N02BF02                   PREGABALIN
+
+Lyrica   oral opløsning                                    EPIOO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIOO     Generaliseret angst eller supplerende behandling af epileptiske anfald, hvor
+          (supplerende) behandling med angstdæmpende lægemiddel/antiepileptika i
+          fast formulering med generelt eller generelt klausuleret tilskud ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                    27
+N02CC01                  SUMATRIPTAN
+
+Imigran                       injektionsvæske, opløsning             MIGIV
+Imigran                       næsespray, opløsning                   MIGLO
+
+Sumatriptan "Paranova"        næsespray, opløsning                   MIGLO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+MIGIV      Klyngehovedpine
+
+
+MIGLO Akut behandling af migræneanfald, når det ikke er muligt at behandle med
+      orale triptaner, fx pga. kvalme og opkastning.
+
+
+
+
+N03AA02                  PHENOBARBITAL
+
+Fenemal "DLF"     tabletter                                  EPIL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIL       Epilepsi
+
+
+
+
+N03AD01                  ETHOSUXIMID
+
+Ethosuximid "2care4"          oral opløsning                         ETHO2
+
+Ethosuximid Medartuum         oral opløsning                         ETHO2
+Zarondan                      oral opløsning                         ETHO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ETHO2 Patienter med absencer, hvor behandling med ethosuximid kapsler ikke er
+      mulig
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                         28
+N03AE01                   CLONAZEPAM
+
+Rivotril   orale dråber                                      EPIL
+Rivotril   tabletter                                         EPIL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIL       Epilepsi
+
+
+
+
+N03AF02                   OXCARBAZEPIN
+
+Apydan      tabletter                                         EPIOX
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIOX      Velbehandlede patienter med epilepsi, hvor det efter lægens samlede kliniske
+           vurdering af patienten vil være uhensigtsmæssigt med et præparatskifte til et
+           lægemiddel med indhold af oxcarbazepin med generelt tilskud uden
+           klausulering.
+
+
+
+
+N03AF03                   RUFINAMID
+
+Inovelon    filmovertrukne tabletter                           EPISU
+
+Inovelon    oral suspension                                    EPISU
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPISU      Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+           med antiepileptika med generelt tilskud uden klausulering har vist sig
+           utilstrækkelig eller ikke tolereres. Derudover til velbehandlede patienter, hvor
+           det efter lægens samlede kliniske vurdering af patienten vil være
+           uhensigtsmæssigt med et præparatskifte til et antiepileptikum med generelt
+           tilskud uden klausulering.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                       29
+N03AF04                   ESLICARBAZEPIN
+
+Arupsan     tabletter                                          EPISU
+Zebinix     tabletter                                          EPISU
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPISU      Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+           med antiepileptika med generelt tilskud uden klausulering har vist sig
+           utilstrækkelig eller ikke tolereres. Derudover til velbehandlede patienter, hvor
+           det efter lægens samlede kliniske vurdering af patienten vil være
+           uhensigtsmæssigt med et præparatskifte til et antiepileptikum med generelt
+           tilskud uden klausulering.
+
+
+
+
+N03AG01                   VALPROINSYRE
+
+Orfiril Retard   depottabletter                                    EPIVA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIVA      Velbehandlede patienter med epilepsi, hvor det efter lægens samlede kliniske
+           vurdering af patienten vil være uhensigtsmæssigt med et præparatskifte til et
+           lægemiddel med indhold af valproinsyre med generelt tilskud uden
+           klausulering.
+
+
+
+
+N03AG04                   VIGABATRIN
+
+Sabrilex    filmovertrukne tabletter                          INFSP
+Sabrilex    granulat til oral opløsning                       INFSP
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+INFSP      Infantile spasmer
+
+
+
+
+Sidste opdateringsdato:           28/09/26                                                    30
+N03AX03                  SULTIAM
+
+Ospolot        oral suspension                                  OSPO2
+Ospolot-tab    filmovertrukne tabletter                         OSPO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OSPO1 Patienter med selvlimiterende epilepsi med centrotemporale spikes
+      (SeLECTS), hvor behandling med antiepileptika med generelt tilskud uden
+      klausulering har vist sig utilstrækkelig, er kontraindiceret eller ikke tolereres
+
+
+OSPO2 Patienter med selvlimiterende epilepsi med centrotemporale spikes
+      (SeLECTS), hvor behandling med antiepileptika med generelt tilskud uden
+      klausulering har vist sig utilstrækkelig, er kontraindiceret eller ikke tolereres og
+      hvor behandling med sultiam i fast formulering ikke er mulig
+
+
+
+
+N03AX15                  ZONISAMID
+
+Zonisamid "Desitin"    oral suspension                                  ZONIS
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ZONIS      Patienter med epilepsi, hvor behandling med zonisamid i fast formulering ikke
+           er mulig.
+
+
+
+
+N03AX17                  STIRIPENTOL
+
+Diacomit    kapsler, hårde                                   DRAVE
+Diacomit    pulver til oral suspension                       DRAVE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DRAVE Supplerende behandling ved Dravet syndrom, hvor behandling med clobazam
+      og valproat er utilstrækkelig. Derudover til velbehandlede patienter, hvor det
+      efter lægens samlede kliniske vurdering af patienten vil være
+      uhensigtsmæssigt med et præparatskifte til et antiepileptikum med generelt
+      tilskud uden klausulering.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                      31
+N03AX18                 LACOSAMID
+
+Lacosamide "1A Farma"      filmovertrukne tabletter                           EPI2
+Lacosamide Accord          filmovertrukne tabletter                           EPI2
+
+Lacosamide "Krka"          filmovertrukne tabletter                           EPI2
+Lacosamide "Stada"         filmovertrukne tabletter                           EPI2
+Lacosamide "Strides"       syrup                                              EPI2
+
+Lacosamide "Zentiva"       filmovertrukne tabletter                           EPI2
+Lacosamid "Viatris"        filmovertrukne tabletter                           EPI2
+
+Vimpat                     filmovertrukne tabletter                           EPI2
+Vimpat                     syrup                                              EPI2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPI2      Epileptiske anfald, hvor behandling med antiepileptika med generelt tilskud
+          uden klausulering har vist sig utilstrækkelig eller ikke tolereres. Derudover til
+          velbehandlede patienter, hvor det efter lægens samlede kliniske vurdering af
+          patienten vil være uhensigtsmæssigt med et præparatskifte til et
+          antiepileptikum med generelt tilskud uden klausulering.
+
+
+
+
+N03AX22                 PERAMPANEL
+
+Fycompa    filmovertrukne tabletter                            EPISU
+Fycompa    oral suspension                                     EPISK
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPISK     Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+          med antiepileptika med generelt tilskud uden klausulering har vist sig
+          utilstrækkelig eller ikke tolereres.
+
+
+EPISU     Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+          med antiepileptika med generelt tilskud uden klausulering har vist sig
+          utilstrækkelig eller ikke tolereres. Derudover til velbehandlede patienter, hvor
+          det efter lægens samlede kliniske vurdering af patienten vil være
+          uhensigtsmæssigt med et præparatskifte til et antiepileptikum med generelt
+          tilskud uden klausulering.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                         32
+N03AX23                  BRIVARACETAM
+
+Abavalex                   filmovertrukne tabletter                     EPISK
+Abavalex                   oral opløsning                               EPISK
+
+Brivaracetam "Sandoz"      filmovertrukne tabletter                     EPISK
+Brivaracetam "Stada"       filmovertrukne tabletter                     EPISK
+Brivaracetam "Teva"        filmovertrukne tabletter                     EPISK
+
+Brivaracetam "Zentiva"     filmovertrukne tabletter                     EPISK
+Briviact                   filmovertrukne tabletter                     EPISK
+
+Briviact                   oral opløsning                               EPISK
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPISK      Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+           med antiepileptika med generelt tilskud uden klausulering har vist sig
+           utilstrækkelig eller ikke tolereres.
+
+
+
+
+N03AX25                  CENOBAMAT
+
+Ontozry                filmovertrukne tabletter                      EPISK
+
+Ontozry Startpakke     filmovertrukne tabletter + tabletter          EPISK
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPISK      Supplerende behandling af epileptiske anfald, hvor supplerende behandling
+           med antiepileptika med generelt tilskud uden klausulering har vist sig
+           utilstrækkelig eller ikke tolereres.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                 33
+N04BB01                   AMANTADIN
+
+Dinetrel     kapsler, hårde                                   AMANT
+Parkadin     kapsler, hårde                                   AMANT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+AMANT Til behandling af dyskinesier hos patienter med Parkinsons sygdom, hvor
+      behandlingen varetages under ansvar af en speciallæge i neurologi.
+
+
+
+
+N04BC09                   ROTIGOTIN
+
+Neupro                          depotplastre                                   PKDP
+
+Rotigotine "Medical Valley"     depotplastre                                   PKDP
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PKDP        Patienter, hvor behandling med billigere orale dopaminagonister ikke er mulig.
+
+
+
+
+N05AE03                   SERTINDOL
+
+Serdolect    filmovertrukne tabletter                         PSYKT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKT Patienter, hvor behandling med antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering har vist sig utilstrækkelig eller ikke tolereres, eller aktuelt/
+      tidligere velbehandlede patienter, for hvem det efter lægens samlede kliniske
+      vurdering af patientens psykiske tilstand vil være uhensigtsmæssigt at
+      behandle med eller skifte til et antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                      34
+N05AE05                 LURASIDON
+
+Latuda                  filmovertrukne tabletter                       PSYKT
+Lurasidone "Accord"     filmovertrukne tabletter                       PSYKT
+
+Lurasidone "Orifarm"    filmovertrukne tabletter                       PSYKT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKT Patienter, hvor behandling med antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering har vist sig utilstrækkelig eller ikke tolereres, eller aktuelt/
+      tidligere velbehandlede patienter, for hvem det efter lægens samlede kliniske
+      vurdering af patientens psykiske tilstand vil være uhensigtsmæssigt at
+      behandle med eller skifte til et antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering.
+
+
+
+
+N05AF05                 ZUCLOPENTHIXOL
+
+Cisordinol   orale dråber, opløsning                         PSYKE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKE Patienter, hvor behandling med oralt antipsykotisk lægemiddel i fast
+      formulering med generelt tilskud uden klausulering ikke er mulig.
+
+
+
+
+N05AH03                 OLANZAPIN
+
+             pulver og solvens til depotinjektionsvæske,
+Zypadhera    suspension                                      PSYKV
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKV Vedligeholdelsesbehandling af patienter, hvor oral behandling ikke kan
+      gennemføres og hvor billigere antipsykotisk 2. generations
+      depotinjektionsvæske har vist sig utilstrækkelig eller ikke tolereres eller
+      aktuelt/tidligere velbehandlede patienter, for hvem det efter lægens samlede
+      kliniske vurdering af patientens psykiske tilstand vil være uhensigtsmæssigt at
+      behandle med eller skifte til billigere antipsykotisk depotinjektionsvæske.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                      35
+N05AL05                  AMISULPRID
+
+Aktiprol                       tabletter                                     PSYKT
+Amisulprid "Nordic Prime"      tabletter                                     PSYKT
+
+Solian                         tabletter                                     PSYKT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKT Patienter, hvor behandling med antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering har vist sig utilstrækkelig eller ikke tolereres, eller aktuelt/
+      tidligere velbehandlede patienter, for hvem det efter lægens samlede kliniske
+      vurdering af patientens psykiske tilstand vil være uhensigtsmæssigt at
+      behandle med eller skifte til et antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering.
+
+
+
+
+N05AX08                  RISPERIDON
+
+                            pulver og solvens til depotinjektionsvæske,
+OKEDI                       suspension                                    PSYKE
+
+Risperdal                   oral opløsning                                PSYKE
+                            depotinjektionsvæske, pulver og solvens til
+Risperdal Consta            suspension                                    PSYKI
+                            depotinjektionsvæske, pulver og solvens til
+RisperdalConsta             suspension                                    PSYKI
+
+Risperidon "Krka"           smeltetabletter                               PSYKE
+
+Risperidon "Paranova"       smeltetabletter                               PSYKE
+                            depotinjektionsvæske, pulver og solvens til
+Rispolept Consta            suspension                                    PSYKI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKE Patienter, hvor behandling med oralt antipsykotisk lægemiddel i fast
+      formulering med generelt tilskud uden klausulering ikke er mulig.
+
+
+PSYKI       Vedligeholdelsesbehandling af patienter, hvor oral behandling ikke kan
+            gennemføres.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                    36
+N05AX12                 ARIPIPRAZOL
+
+Abilify               oral opløsning                                 PSYKL
+Abilify               smeltetabletter                                PSYKL
+                      depotinjektionsvæske, suspension i fyldt
+Abilify Maintena      injektionssprøjte                              PSYKI
+                      pulver og solvens til depotinjektionsvæske,
+Abilify Maintena      suspension                                     PSYKI
+                      pulver og solvens til depotinjektionsvæske,
+Abilify Maintena      suspension i fyldt injektionssprøjte           PSYKI
+
+Aripiprazol "Stada"   oral opløsning                                 PSYKL
+Aripiprazol "Stada"   smeltetabletter                                PSYKL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKI     Vedligeholdelsesbehandling af patienter, hvor oral behandling ikke kan
+          gennemføres.
+
+
+PSYKL Patienter, hvor behandling med oralt antipsykotisk lægemiddel i fast
+      formulering ikke er mulig, og hvor behandling med billigere antipsykotisk
+      lægemiddel i tilsvarende formulering har vist sig utilstrækkelig eller ikke
+      tolereres, eller aktuelt/tidligere velbehandlede patienter, for hvem det efter
+      lægens samlede kliniske vurdering af patientens psykiske tilstand vil være
+      uhensigtsmæssigt at behandle med eller skifte til et billigere antipsykotisk
+      lægemiddel.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                  37
+N05AX13                  PALIPERIDON
+
+Invega                           depottabletter                                     PSYKT
+Niapelf                          depotinjektionsvæske, suspension                   PSYKI
+
+Paliperidon "2care4"             depottabletter                                     PSYKT
+Paliperidon "Abacus Medicine"    depottabletter                                     PSYKT
+Paliperidon "Ebb Medical"        depottabletter                                     PSYKT
+                                 depotinjektionsvæske, suspension i fyldt
+Paliperidone "Exeltis"           injektionssprøjte                                  PSYKI
+Paliperidon "Epione"             depottabletter                                     PSYKT
+                                 depotinjektionsvæske, suspension i fyldt
+Paliperidone "Stada"             injektionssprøjte                                  PSYKI
+Paliperidon "Krka"               depottabletter                                     PSYKT
+Paliperidon "Nordic Prime"       depottabletter                                     PSYKT
+
+Paliperidon "Teva"               depotinjektionsvæske, suspension                   PSYKI
+                                 depotinjektionsvæske, suspension i fyldt
+Paliperidon "Zentiva"            injektionssprøjte                                  PSYKI
+
+Trevicta                         depotinjektionsvæske, suspension                   TREVI
+Xeplion                          depotinjektionsvæske, suspension                   PSYKI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKI      Vedligeholdelsesbehandling af patienter, hvor oral behandling ikke kan
+           gennemføres.
+
+
+PSYKT Patienter, hvor behandling med antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering har vist sig utilstrækkelig eller ikke tolereres, eller aktuelt/
+      tidligere velbehandlede patienter, for hvem det efter lægens samlede kliniske
+      vurdering af patientens psykiske tilstand vil være uhensigtsmæssigt at
+      behandle med eller skifte til et antipsykotisk lægemiddel med generelt tilskud
+      uden klausulering.
+
+
+TREVI      Vedligeholdelsesbehandling af patienter med skizofreni, som er klinisk stabile
+           efter behandling med månedlige injektioner med paliperidon i mindst 4
+           måneder og hvor oral behandling ikke kan gennemføres
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                       38
+N05AX15                     CARIPRAZIN
+
+Reagila    kapsler, hårde                                   PSYKC
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKC Patienter med skizofreni, hvor behandling med antipsykotisk lægemiddel med
+      generelt tilskud uden klausulering har vist sig utilstrækkelig eller ikke tolereres.
+
+
+
+
+N05AX16                     BREXPIPRAZOL
+
+RXULTI     filmovertrukne tabletter                         PSYKC
+RXULTI     filmovertrukne tabletter                         RXBRN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+PSYKC Patienter med skizofreni, hvor behandling med antipsykotisk lægemiddel med
+      generelt tilskud uden klausulering har vist sig utilstrækkelig eller ikke tolereres.
+
+
+RXBRN Til optitrering af behandling med brexpiprazol hos børn og unge, hvor
+      behandling med billigere antipsykotisk lægemiddel med generelt eller generelt
+      klausuleret tilskud har vist sig utilstrækkelig eller ikke tolereres.
+
+
+
+
+N05BA01                     DIAZEPAM
+
+Stesolid   rektalvæske, opløsning, enkeltdosisbeholder      KRAMP
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+KRAMP Akutte behandlingskrævende krampeanfald og non-konvulsive epileptiske
+      anfald.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                       39
+N05BA09                  CLOBAZAM
+
+Frisium   tabletter                                        EPIL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+EPIL      Epilepsi
+
+
+
+
+N05BE01                  BUSPIRON
+
+Buripal               tabletter                                       GENAN
+Buspiron "Actavis"    tabletter                                       GENAN
+
+Buspirone "Orion"     tabletter                                       GENAN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GENAN Generaliseret angst hvor behandling med angstdæmpende lægemiddel med
+      generelt tilskud uden klausulering har vist sig utilstrækkelig eller ikke tolereres,
+      eller i de helt særlige tilfælde, hvor et skifte for velbehandlede patienter til
+      angstdæmpende lægemiddel med generelt tilskud uden klausulering efter
+      lægens samlede kliniske vurdering af patientens mentale tilstand vil være
+      forbundet med stor risiko for tilbagefald.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                       40
+N05CD08                  MIDAZOLAM
+
+Buccolam                       mundhulevæske, opløsning                        MIDA1
+Buccolam                       mundhulevæske, opløsning                        MIDA2
+
+Buccolam                       mundhulevæske, opløsning                        MIDA4
+Buccolam                       mundhulevæske, opløsning                        MIDA5
+Epistatus                      mundhulevæske, opløsning                        MIDA3
+
+Midazolam Carefarm             mundhulevæske, opløsning                        MIDA4
+Midazolam "Medical Valley"     mundhulevæske, opløsning                        MIDA1
+
+Midazolam "Medical Valley"     mundhulevæske, opløsning                        MIDA2
+Midazolam "Medical Valley"     mundhulevæske, opløsning                        MIDA4
+Midazolam Medical Valley       mundhulevæske, opløsning                        MIDA1
+
+Midazolam Medical Valley       mundhulevæske, opløsning                        MIDA2
+Midazolam Medical Valley       mundhulevæske, opløsning                        MIDA4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+MIDA1       Behandling af langvarige, akutte konvulsive anfald hos småbørn med epilepsi i
+            alderen 1 år til <5 år
+
+
+MIDA2       Behandling af langvarige, akutte konvulsive anfald hos børn med epilepsi i
+            alderen 5 år til <10 år
+
+
+MIDA3       Behandling af langvarige, akutte konvulsive anfald hos børn og unge med
+            epilepsi i alderen 10 til 18 år
+
+
+MIDA4       Behandling af langvarige, akutte konvulsive anfald hos børn fra 10 år, unge og
+            voksne med epilepsi.
+
+
+MIDA5       Behandling af langvarige, akutte konvulsive anfald hos spædbørn med
+            epilepsi i alderen 6-12 måneder.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                        41
+N06AA02                  IMIPRAMIN
+
+Imipramin "DAK"     filmovertrukne tabletter                        ENDEP
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ENDEP Enuresis nocturna (ufrivillig natlig vandladning) og depression. Ved depression
+      hvor behandling med antidepressivum med generelt tilskud uden klausulering
+      har vist sig utilstrækkelig eller ikke tolereres, eller i de helt særlige tilfælde,
+      hvor et skifte for velbehandlede patienter til antidepressivum med generelt
+      tilskud uden klausulering efter lægens samlede kliniske vurdering af
+      patientens mentale tilstand vil være forbundet med stor risiko for tilbagefald.
+
+
+
+
+N06AB08                  FLUVOXAMIN
+
+Dumirox    filmovertrukne tabletter                         DEPAN
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEPAN Depression eller angst hvor behandling med antidepressivum/
+      angstdæmpende lægemiddel med generelt tilskud uden klausulering har vist
+      sig utilstrækkelig eller ikke tolereres, eller i de helt særlige tilfælde, hvor et
+      skifte for velbehandlede patienter til antidepressivum/angstdæmpende
+      lægemiddel med generelt tilskud uden klausulering efter lægens samlede
+      kliniske vurdering af patientens mentale tilstand vil være forbundet med stor
+      risiko for tilbagefald.
+
+
+
+
+N06AB10                  ESCITALOPRAM
+
+Cipralex   orale dråber, opløsning                          DEAFL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEAFL Depression eller angst, hvor behandling med peroralt antidepressivum/
+      angstdæmpende lægemiddel i fast formulering med generelt tilskud uden
+      klausulering ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                      42
+N06AF01                    ISOCARBOXAZID
+
+Marplan      tabletter                                       DEPRE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEPRE Depression hvor behandling med antidepressivum med generelt tilskud uden
+      klausulering har vist sig utilstrækkelig eller ikke tolereres, eller i de helt særlige
+      tilfælde, hvor et skifte for velbehandlede patienter til antidepressivum med
+      generelt tilskud uden klausulering efter lægens samlede kliniske vurdering af
+      patientens mentale tilstand vil være forbundet med stor risiko for tilbagefald.
+
+
+
+
+N06AX22                    AGOMELATIN
+
+Agomelatin "Glenmark"        filmovertrukne tabletter                       DEPRE
+
+Agomelatin "Stada"           filmovertrukne tabletter                       DEPRE
+
+Valdoxan                     filmovertrukne tabletter                       DEPRE
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEPRE Depression hvor behandling med antidepressivum med generelt tilskud uden
+      klausulering har vist sig utilstrækkelig eller ikke tolereres, eller i de helt særlige
+      tilfælde, hvor et skifte for velbehandlede patienter til antidepressivum med
+      generelt tilskud uden klausulering efter lægens samlede kliniske vurdering af
+      patientens mentale tilstand vil være forbundet med stor risiko for tilbagefald.
+
+
+
+
+N06AX26                    VORTIOXETIN
+
+Brintellix   filmovertrukne tabletter                         DEPRI
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEPRI        Depression hvor behandling med antidepressivum med generelt tilskud uden
+             klausulering har vist sig utilstrækkelig eller ikke tolereres.
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                                       43
+N06DA02                 DONEPEZIL
+
+Donepezilhydrochlorid "Accord"     filmovertrukne tabletter                     DEMKO
+Donepezil "Jubilant"               filmovertrukne tabletter                     DEMKO
+
+Donepezil "Krka"                   filmovertrukne tabletter                     DEMKO
+Donepezil "Sandoz"                 filmovertrukne tabletter                     DEMKO
+Donepezil "Stada"                  filmovertrukne tabletter                     DEMKO
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEMKO Patienter med relevant demenssygdom, hvor diagnosen er stillet af en
+      speciallæge i psykiatri, neurologi og/eller geriatri
+
+
+
+
+N06DA03                 RIVASTIGMIN
+
+Exelon                             depotplastre                                 DEMPL
+
+Rigmin                             depotplastre                                 DEMPL
+
+Rivastigmin "Stada Arzneimittel"   depotplastre                                 DEMPL
+
+Rivastor                           depotplastre                                 DEMPL
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEMPL Patienter med relevant demenssygdom, hvor diagnosen er stillet af en
+      speciallæge i psykiatri, neurologi og/eller geriatri og hvor behandling med oral
+      kolinesterasehæmmer ikke er mulig.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                    44
+N06DX01                MEMANTIN
+
+Ebixa                filmovertrukne tabletter                          DEMME
+Marbodin             filmovertrukne tabletter                          DEMME
+
+Memantin "Accord"    filmovertrukne tabletter                          DEMME
+Mentixa              filmovertrukne tabletter                          DEMME
+Nemdatine            filmovertrukne tabletter                          DEMME
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+DEMME Patienter med relevant demenssygdom i moderat til svær grad, hvor
+      diagnosen er stillet af en speciallæge i psykiatri, neurologi og/eller geriatri
+
+
+
+
+N07BB03                ACAMPROSAT
+
+Acamprosatcalcium "2care4"     enterotabletter                                  ALKOH
+
+Campral                        enterotabletter                                  ALKOH
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ALKOH Supplement til samtalebehandling hos alkoholafhængige, der ønsker
+      afholdenhed
+
+
+
+
+N07BB04                NALTREXON
+
+Maltrecol                    filmovertrukne tabletter                         ALKO2
+Naltrexon "Accord"           filmovertrukne tabletter                         ALKO2
+
+Naltrexon Accord             filmovertrukne tabletter                         ALKO2
+
+Naltrexon "AOP"              filmovertrukne tabletter                         ALKO2
+Naltrexone "POA Pharma"      filmovertrukne tabletter                         ALKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ALKO2 Supplement til samtalebehandling hos alkoholafhængige
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                   45
+N07BC02                      METHADON
+
+Marlodon               tabletter                                       OPIO1
+Metadon "2care4"       tabletter                                       OPIO1
+
+Metadon "DAK"          oral opløsning                                  OPIO1
+Metadon "DAK"          tabletter                                       OPIO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+OPIO1      Til behandling af smerter, hvor relevant non-opioid behandling har vist sig
+           utilstrækkelig, er kontraindiceret eller ikke tolereres.
+
+
+
+
+P02CF01                      IVERMECTIN
+
+Ivermectin "Medartuum"             tabletter                                   FNAT
+
+Ivermectin "Medical Valley"        tabletter                                   FNAT
+
+Ivermectin "Nordic Prime"          tabletter                                   FNAT
+
+Ivermectin "Orifarm"               tabletter                                   FNAT
+
+Ivermectin "Orion"                 tabletter                                   FNAT
+Ivermectin "Stada"                 tabletter                                   FNAT
+
+Scatol                             tabletter                                   FNAT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+FNAT       Personer med påvist fnat samt husstandsmedlemmer og andre personer i tæt
+           kontakt til smittede personer
+
+
+
+
+P03AC04                      PERMETHRIN
+
+Permethrin "LMP"       gel                                            FNAT
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+FNAT       Personer med påvist fnat samt husstandsmedlemmer og andre personer i tæt
+           kontakt til smittede personer
+
+
+
+
+Sidste opdateringsdato:            28/09/26                                              46
+R03AC12                  SALMETEROL
+
+Salmeterol "2care4"     inhalationsspray, suspension           ASKO1
+Serevent                inhalationsspray, suspension           ASKO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO1 Patienter, som ikke kan behandles med LABA med generelt tilskud uden
+      klausulering
+
+
+
+
+R03AC13                  FORMOTEROL
+
+Atimos              inhalationsspray, opløsning             ASKO1
+
+Oxis Turbohaler     inhalationspulver                       ASKO1
+
+Oxis Turbuhaler     inhalationspulver                       ASKO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO1 Patienter, som ikke kan behandles med LABA med generelt tilskud uden
+      klausulering
+
+
+
+
+R03AC18                  INDACATEROL
+
+Onbrez Breezhaler      inhalationspulver, hård kapsel         ASKO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO1 Patienter, som ikke kan behandles med LABA med generelt tilskud uden
+      klausulering
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                       47
+R03AC19                  OLODATEROL
+
+Striverdi Respimat     inhalationsvæske, opløsning                       ASKO1
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO1 Patienter, som ikke kan behandles med LABA med generelt tilskud uden
+      klausulering
+
+
+
+
+R03AK06                  SALMETEROL OG FLUTICASON
+
+Airflusal Forspiro                        inhalationspulver, afdelt                  ASKO2
+AirFluSal Forspiro                        inhalationspulver, afdelt                  ASKO2
+
+AirFluSal Sprayhaler                      inhalationsspray, suspension               ASKO2
+
+Salflumix Easyhaler                       inhalationspulver                          ASKO2
+
+Salmeterol/Fluticasonpropionat "Cipla"    inhalationsspray, suspension               ASKO2
+
+Salmex                                    inhalationspulver, afdelt                  ASKO2
+
+Serefarm                                  inhalationspulver, afdelt                  ASKO2
+
+Seretide                                  inhalationspulver, afdelt                  ASKO2
+Seretide                                  inhalationsspray, suspension               ASKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO2 Patienter med astma eller KOL-patienter med astmatisk komponent, som ikke
+      kan behandles tilstrækkeligt med inhalationssteroid alene. Patienter med KOL
+      i GOLD C eller D, som ikke kan behandles tilstrækkeligt med langtidsvirkende
+      bronkodilatatorer
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                       48
+R03AK07                 FORMOTEROL OG BUDESONID
+
+Bufomix Easyhaler             inhalationspulver                         ASKOB
+DuoResp Spiromax              inhalationspulver                         ASKOB
+
+Symbicort                     inhalationsspray, suspension              ASKO2
+Symbicort Forte Turbohaler    inhalationspulver                         ASKO2
+Symbicort Forte Turbuhaler    inhalationspulver                         ASKO2
+
+Symbicort Mite Turbuhaler     inhalationspulver                         ASKO2
+Symbicort Turbohaler          inhalationspulver                         ASKO2
+
+Symbicort Turbuhaler          inhalationspulver                         ASKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO2 Patienter med astma eller KOL-patienter med astmatisk komponent, som ikke
+      kan behandles tilstrækkeligt med inhalationssteroid alene. Patienter med KOL
+      i GOLD C eller D, som ikke kan behandles tilstrækkeligt med langtidsvirkende
+      bronkodilatatorer
+
+
+ASKOB Patienter med astma eller KOL-patienter med astmatisk komponent. Patienter
+      med KOL i GOLD C eller D, som ikke kan behandles tilstrækkeligt med
+      langtidsvirkende bronkodilatatorer.
+
+
+
+
+R03AK08                 FORMOTEROL OG BECLOMETASON
+
+Ambofoz              inhalationsspray, opløsning                ASKO2
+Befoair              inhalationsspray, opløsning                ASKO2
+
+Forobec              inhalationsspray, opløsning                ASKO2
+
+Innovair             inhalationsspray, opløsning                ASKO2
+Innovair Nexthaler   inhalationspulver                          ASKO2
+Laberon              inhalationsspray, opløsning                ASKO2
+
+Pumunix              inhalationsspray, opløsning                ASKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO2 Patienter med astma eller KOL-patienter med astmatisk komponent, som ikke
+      kan behandles tilstrækkeligt med inhalationssteroid alene. Patienter med KOL
+      i GOLD C eller D, som ikke kan behandles tilstrækkeligt med langtidsvirkende
+      bronkodilatatorer
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                49
+R03AK10                   VILANTEROL OG FLUTICASONFUROAT
+
+Relvar Ellipta   inhalationspulver, afdelt                    ASKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO2 Patienter med astma eller KOL-patienter med astmatisk komponent, som ikke
+      kan behandles tilstrækkeligt med inhalationssteroid alene. Patienter med KOL
+      i GOLD C eller D, som ikke kan behandles tilstrækkeligt med langtidsvirkende
+      bronkodilatatorer
+
+
+
+
+R03AK11                   FORMOTEROL OG FLUTICASON
+
+Flutiform   inhalationsspray, suspension                   ASKO2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO2 Patienter med astma eller KOL-patienter med astmatisk komponent, som ikke
+      kan behandles tilstrækkeligt med inhalationssteroid alene. Patienter med KOL
+      i GOLD C eller D, som ikke kan behandles tilstrækkeligt med langtidsvirkende
+      bronkodilatatorer
+
+
+
+
+R03AL01                   FENOTEROL OG IPRATROPIUMBROMID
+
+Berodual    inhalationsspray, opløsning                    ASKO3
+            inhalationsvæske til nebulisator, opløsning,
+Berodual    enkeltdosisbeholder                            ASKO3
+Duovent     inhalationsspray, opløsning                    ASKO3
+            inhalationsvæske til nebulisator, opløsning,
+Duovent     enkeltdosisbeholder                            ASKO3
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO3 Som anfaldsbehandling til patienter, der ikke kan behandles tilstrækkeligt med
+      SABA i monoterapi.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                50
+R03AL02                  SALBUTAMOL OG IPRATROPIUMBROMID
+
+                                   inhalationsvæske til nebulisator, opløsning,
+Combivent                          enkeltdosisbeholder                              ASKO3
+                                   inhalationsvæske til nebulisator, opløsning,
+Ipramol Steri-Neb                  enkeltdosisbeholder                              ASKO3
+                                   inhalationsvæske til nebulisator, opløsning,
+Ipratropium/salbutamol "Orion"     enkeltdosisbeholder                              ASKO3
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO3 Som anfaldsbehandling til patienter, der ikke kan behandles tilstrækkeligt med
+      SABA i monoterapi.
+
+
+
+
+R03AL03                  VILANTEROL OG UMECLIDINIUMBROMID
+
+Anoro Ellipta   inhalationspulver, afdelt                              ASKO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO4 Patienter, som ikke kan behandles tilstrækkeligt med LABA eller LAMA i
+      monoterapi samt KOL-patienter i GOLD D.
+
+
+
+
+R03AL04                  INDACATEROL OG GLYCOPYRRONIUMBROMID
+
+Ultibro Breezhaler   inhalationspulver, hård kapsel                         ASKO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO4 Patienter, som ikke kan behandles tilstrækkeligt med LABA eller LAMA i
+      monoterapi samt KOL-patienter i GOLD D.
+
+
+
+
+Sidste opdateringsdato:       28/09/26                                                      51
+R03AL05                 FORMOTEROL OG ACLIDINIUMBROMID
+
+Brimica Genuair    inhalationspulver                          ASKO4
+Duaklir Genuair    inhalationspulver                          ASKO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO4 Patienter, som ikke kan behandles tilstrækkeligt med LABA eller LAMA i
+      monoterapi samt KOL-patienter i GOLD D.
+
+
+
+
+R03AL06                 OLODATEROL OG TIOTROPIUMBROMID
+
+Spiolto Respimat    inhalationsvæske, opløsning               ASKO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO4 Patienter, som ikke kan behandles tilstrækkeligt med LABA eller LAMA i
+      monoterapi samt KOL-patienter i GOLD D.
+
+
+
+
+R03AL07                 FORMOTEROL OG GLYCOPYRRONIUMBROMID
+
+Bevespi Aerosphere     inhalationsspray, suspension              ASKO4
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO4 Patienter, som ikke kan behandles tilstrækkeligt med LABA eller LAMA i
+      monoterapi samt KOL-patienter i GOLD D.
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                          52
+R03AL08                  VILANTEROL, UMECLIDINIUMBROMID OG FLUTICASONFUR
+
+Trelegy Ellipta   inhalationspulver, afdelt               TRKO3
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+TRKO3 Voksne med astma, hvor behandling med en kombination af LABA + ICS ikke
+      har haft tilstrækkelig effekt. KOL-patienter med eksacerbationer eller
+      symptomer, hvor behandling med en kombination af LABA + LAMA eller LABA
+      + ICS ikke har haft tilstrækkelig effekt.
+
+
+
+
+R03AL09                  FORMOTEROL, GLYCOPYRRONIUMBROMID OG BECLOMET
+
+Trimbow     inhalationspulver                         TRKO4
+
+Trimbow     inhalationsspray, opløsning               TRKO3
+
+Trimbow     inhalationsspray, opløsning               TRKO5
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+TRKO3 Voksne med astma, hvor behandling med en kombination af LABA + ICS ikke
+      har haft tilstrækkelig effekt. KOL-patienter med eksacerbationer eller
+      symptomer, hvor behandling med en kombination af LABA + LAMA eller LABA
+      + ICS ikke har haft tilstrækkelig effekt.
+
+
+TRKO4 KOL-patienter med eksacerbationer eller symptomer, hvor behandling med en
+      kombination af LABA + LAMA eller LABA + ICS ikke har haft tilstrækkelig
+      effekt.
+
+
+TRKO5 Voksne med astma, hvor behandling med en kombination af LABA + ICS ikke
+      har haft tilstrækkelig effekt.
+
+
+
+
+Sidste opdateringsdato:         28/09/26                                          53
+R03AL11                 FORMOTEROL, GLYCOPYRRONIUMBROMID OG BUDESONID
+
+Trixeo Aerosphere     inhalationsspray, suspension                          KOLTR
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+KOLTR KOL-patienter med eksacerbationer eller symptomer, hvor behandling med en
+      kombination af LABA + LAMA eller LABA + ICS ikke har haft tilstrækkelig
+      effekt.
+
+
+
+
+R03AL12                 INDACATEROL, GLYCOPYRROINIUMBROMID OG MOMETAS
+
+Enerzair Breezhaler    inhalationspulver, hård kapsel                       TRKO5
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+TRKO5 Voksne med astma, hvor behandling med en kombination af LABA + ICS ikke
+      har haft tilstrækkelig effekt.
+
+
+
+
+R03BB01                 IPRATROPIUMBROMID
+
+Atrovent                     inhalationsspray, opløsning                        ASKO5
+                             inhalationsvæske til nebulisator, opløsning,
+Atrovent                     enkeltdosisbeholder                                ASKO5
+                             inhalationsvæske til nebulisator, opløsning,
+Ipratropiumbromid "Teva"     enkeltdosisbeholder                                ASKO5
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ASKO5 Som anfaldsbehandling til patienter, der ikke kan behandles med SABA
+
+
+
+
+Sidste opdateringsdato:      28/09/26                                                   54
+S01XA18                   CICLOSPORIN
+
+Verkazia    øjendråber, emulsion                           CICOJ
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+CICOJ      Børn og unge med svær vernal keratokonjunktivitis
+
+
+
+
+V01AA02                   GRÆSPOLLEN
+
+Aitgrys    resoribletter, sublinguale                    GRAZ2
+Grazax     frysetørret sublingual tablet                 GRAZ2
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+GRAZ2 Patienter med dokumenteret græspollenallergi med allergisk rhino-
+      conjunctivitis, der ikke opnår tilstrækkelig sygdomskontrol med optimal
+      symptomatisk behandling med antihistaminer og nasalsteriod eller hvor denne
+      behandling medfører uacceptable bivirkninger, og er stærkt motiverede for
+      immunterapi og med forventelig god compliance.
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                             55
+V01AA03                   HUSSTØVMIDER
+
+Acarizax    frysetørret sublingual tablet                     HUSST
+Aitmyte     resoribletter, sublinguale                        HUSTR
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+HUSST Patienter med dokumenteret husstøvmideallergi med allergisk rhinitis og
+      eventuelt husstøvmideudløst allergisk astma, der ikke opnår tilstrækkelig
+      sygdomskontrol med husstøvmide sanering, optimal symptomatisk behandling
+      med antihistamin og nasalsteroid (samt med inhalationssteroid hvor det er
+      indiceret), eller hvor denne behandling medfører uacceptable bivirkninger, og
+      er stærkt motiverede for immunterapi og med forventelig god compliance
+
+
+HUSTR Patienter med dokumenteret husstøvmideallergi med allergisk rhinitis eller
+      rhino-konjunktivitis, der ikke opnår tilstrækkelig sygdomskontrol med
+      husstøvmide sanering, optimal symptomatisk behandling med antihistamin og
+      nasalsteroid, eller hvor denne behandling medfører uacceptable bivirkninger,
+      og er stærkt motiverede for immunterapi og med forventelig god compliance.
+
+
+
+
+V01AA05                   TRÆPOLLEN
+
+Itulazax   frysetørret sublingual tablet                     ITULA
+
+Ovenstående lægemidler har følgende tilskudsklausul
+
+
+ITULA      Voksne patienter med dokumenteret træpollenallergi (birk, el, avnbøg, bøg,
+           eg, hassel) med moderat til svær allergisk rhinitis og/eller konjunktivitis, der
+           ikke opnår tilstrækkelig sygdomskontrol med optimal symptomatisk behandling
+           med antihistaminer og nasalsteroid, eller hvor denne behandling medfører
+           uacceptable bivirkninger, og er stærkt motiverede og med forventelig god
+           compliance
+
+
+
+
+Sidste opdateringsdato:        28/09/26                                                       56
+

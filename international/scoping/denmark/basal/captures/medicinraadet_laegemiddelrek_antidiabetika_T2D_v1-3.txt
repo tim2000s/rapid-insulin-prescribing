@@ -1,0 +1,642 @@
+Medicinrådets
+  IK
+lægemiddelrekommandation
+vedrørende antidiabetika til
+G KE
+ Æ
+type 2-diabetes
+   L D LÆ
+      EN N
+        D EG
+         E RE
+
+
+Version 1.3
+           Om Medicinrådet
+           Medicinrådet er et uafhængigt råd etableret af Danske Regioner.
+
+           Medicinrådet udarbejder fælles regionale behandlingsvejledninger.
+           Behandlingsvejledningerne indeholder vurderinger af, hvilke lægemidler der er mest
+           hensigtsmæssige at behandle patienter med inden for et terapiområde. De danner
+           dermed grundlag for ensartet høj kvalitet for behandling af patienter på tværs af
+           sygehuse og regioner. Medicinrådet angiver kliniske rækkefølger af de inkluderede
+           lægemidler på baggrund af en redegørelse for evidensen for klinisk effekt og sikkerhed.
+
+
+
+
+  IK       Om Medicinrådets lægemiddelrekommandation
+           Lægemiddelrekommandationen er Medicinrådets prioriterede liste for brugen af
+
+
+
+
+G KE
+           lægemidler, når både de kliniske og økonomiske aspekter er sammenvejet.
+           Medicinrådets lægemiddelrekommandation er udgivet sammen med Medicinrådets
+
+
+
+
+ Æ
+           behandlingsvejledning.
+
+           Se Metodehåndbog for Medicinrådets vurdering af flere lægemidler inden for samme
+
+
+
+
+   LD LÆ
+           terapiområde for yderligere information. Du finder denne på Medicinrådets hjemmeside
+           under siden Metoder.
+
+           Fremkommer der nye og væsentlige oplysninger af betydning for
+           behandlingsvejledningens indhold, kan Medicinrådet tage den op til fornyet behandling.
+           Det samme gælder, hvis der er begået væsentlige fejl i forbindelse med
+
+
+
+
+     EN N
+           sagsbehandlingen.
+
+
+
+
+       D EG Dokumentoplysninger
+
+            Godkendelsesdato                   4. april 2023
+
+
+
+
+        E RE
+            Ikrafttrædelsesdato                4. april 2023
+
+            Dokumentnummer                     143963
+
+            Versionsnummer                     1.3
+
+
+
+
+           ©Medicinrådet, 2023
+           Publikationen kan frit refereres
+           med tydelig kildeangivelse.
+
+           Sprog: dansk
+           Format: pdf
+           Udgivet af Medicinrådet, 4. april 2023
+
+
+
+
+Side 1/8
+           Formål med lægemiddelrekommandationen
+           Lægemiddelrekommandationen er baseret på Medicinrådets behandlingsvejledning for
+           antidiabetika til type 2-diabetes version 1.1.
+
+           Formålet med lægemiddelrekommandationen er at vejlede læger og regioner i valget af
+           den bedste behandling, som ikke koster mere end nødvendigt. Det vil sige, hvilke
+           lægemidler der er billigst blandt de lægemidler, som Medicinrådet har vurderet, er
+           klinisk ligestillede. I praksis betyder ’klinisk ligestilling’, at Medicinrådet på baggrund af
+           effekt, bivirkninger og evt. praktiske forhold vurderer, at størstedelen af patienterne
+
+
+
+
+  IK
+           bliver behandlet lige godt, uanset hvilket af de ligestillede lægemidler som patienterne
+           behandles med. Der er således fortsat plads til individuel klinisk vurdering af den enkelte
+           patient.
+
+
+
+
+G KE
+           Valg af lægemiddel
+
+
+
+
+ Æ
+           Formålet med at behandle med antidiabetika er dels at nå det glykæmiske
+           behandlingsmål (HbA1c), med henblik på at forebygge alvorlige mikrovaskulære
+           komplikationer, og dels at opnå en hjerte- eller nyrebeskyttende effekt. Det glykæmiske
+
+
+
+
+   LD LÆ
+           behandlingsmål for patienten fastsættes i henhold til DES/DSAM’s
+           behandlingsvejledning.
+
+           Medicinrådets anbefalinger for valg mellem lægemidlerne er opdelt i følgende
+           subpopulationer:
+
+
+
+
+     EN N
+           •   Patienter uden komorbiditet eller andre særlige risikofaktorer
+
+           •   Patienter med meget høj risiko for (men endnu uden erkendt) hjertekarsygdom (se
+
+
+
+
+          G
+               definition nedenfor)
+
+
+
+
+       D E
+           •   Patienter med erkendt hjertekarsygdom
+
+           •   Patienter med erkendt nyresygdom
+
+
+
+
+        E RE
+           •   Patienter med svær overvægt (BMI > 30)
+
+           •   Ældre patienter (> 75 år) eller patienter med langvarig diabetes (> 20 år).
+
+
+
+           Meget høj risiko for hjertekarsygdom er defineret som:
+
+           Mindst tre af følgende risikofaktorer:
+
+           •   Mandligt køn
+
+           •   Alder > 60 år
+
+           •   Hypertension > 130/80 mmHg trods behandling
+
+           •   LDL-kolesterol > 1,8 mmol/l trods behandling
+
+           •   Familiær disposition til tidlig hjertekarsygdom (< 55 år for mænd, < 65 år for kvinder)
+
+           •   Rygning > 10 pakkeår.
+
+
+
+
+Side 2/8
+           Patienter uden komorbiditet eller andre særlige risikofaktorer
+
+           Patientgruppen omfatter patienter, som ikke har nået behandlingsmålet for HbA1c og
+           har ingen eller få (≤ 2) risikofaktorer for hjertekarsygdom udover type 2-diabetes.
+
+           •      Vælg som udgangspunkt dét billigste af de ligestillede lægemidler, som er angivet i
+                  tabel 1.1, i tillæg til metformin, til patienter uden komorbiditet eller andre særlige
+                  risikofaktorer.
+
+
+           Tabel 1.1. Klinisk ligestillede lægemidler til ’patienter uden komorbiditet’
+
+
+
+
+  IK
+                             Lægemiddelklasser            Lægemidler                                              Prisniveau
+                                                                                                                  per døgn$
+
+
+
+
+G KE
+               1. valgs-     SU-stoffer*                  Gliclazid, glimepirid                                   0,9-2,2 kr.
+               præparater
+                             DPP-4-hæmmer                 Alogliptin, linagliptin, saxagliptin, sitagliptin*      1-15 kr.
+
+
+
+
+ Æ
+                             SGLT-2-hæmmer                Canagliflozin, dapagliflozin, empagliflozin             13-16 kr.
+
+
+
+
+   LD LÆ
+               2. valgs-       GLP-1RA                    Dulaglutid, liraglutid semaglutid oral og s.c.          32-78 kr.
+               præparater
+
+           * Anvend billigste DPP-4-hæmmer sitagliptin (eller SU medmindre det, efter individuel vurdering, er
+           uhensigtsmæssigt at anvende SU grundet specielle forhold hos patienten. Fx særlig risiko for hypoglykæmi eller
+           alder over 75 år).
+
+
+
+
+     EN N
+           $ Prisudsving i AUP fra 12.12.2022 til 20.3.2023 på det til hvert tidspunkt billigste parallelimporterede
+           præparat. Beregningen er baseret på de sammenligningsdoser, der er angivet i Medicinrådets
+           behandlingsvejledning.
+
+
+
+
+       D EGPatienter med meget høj risiko for hjertekarsygdom
+
+           Patientgruppen omfatter patienter, som ikke har nået behandlingsmålet for HbA1c og
+           samtidig har mindst tre af de øvrige ovenfor nævnte risikofaktorer for kardiovaskulær
+
+
+
+
+        E RE
+           sygdom, udover type 2-diabetes.
+
+           •      Vælg som udgangspunkt det billigste blandt ligestillede lægemidler (SGLT-2-hæmmer
+                  og GLP-1RA), i tillæg til metformin, til patienter med meget høj risiko for
+                  hjertekarsygdom, såfremt behandlingsmålet for HbA1c ikke er nået.
+
+
+
+
+Side 3/8
+           Tabel 1.2. Klinisk ligestillede lægemidler til ’patienter med meget høj risiko for
+           hjertekarsygdom’
+
+                              Lægemiddelklasser         Lægemidler                                             Prisniveau per
+                                                                                                               døgn$
+
+
+               1. valgs-      SGLT-2-hæmmer             Canagliflozin, dapagliflozin, empagliflozin            13-16 kr.
+               præparater
+
+               2. valgs-      GLP-1RA                   Dulaglutid, liraglutid semaglutid oral og s.c.         32-78kr.
+               præparater
+
+
+
+
+  IK
+               Overvej        DPP-4-hæmmer              Alogliptin, linagliptin, saxagliptin, sitagliptin*     1-15 kr.
+
+                              SU-stof                   Gliclazid glimepirid                                   0,9-2,2 kr.
+
+
+
+
+G KE
+           * billigste DPP-4-hæmmer er sitagliptin
+           $ Prisudsving i AUP fra 12.12.2022 til 20.3.2023 på det til hvert tidspunkt billigste parallelimporterede
+
+
+
+
+ Æ
+           præparat. Beregningen er baseret på de sammenligningsdoser, der er angivet i Medicinrådets
+           behandlingsvejledning.
+
+
+
+
+   LD LÆ
+           Patienter med erkendt hjertekarsygdom
+
+           Patientgruppen omfatter patienter med iskæmisk hjertekarsygdom og/eller hjertesvigt
+           (NYHA-klasse II-IV).
+
+           Vælg, uafhængigt af om patienten får metformin og/eller har nået behandlingsmålet for
+
+
+
+
+     EN N
+           HbA1c (dosisjustering eller tillæg af metformin kan ske samtidig eller efterfølgende):
+
+           •      Det billigste blandt de ligestillede lægemidler (SGLT-2-hæmmer og GLP-1RA) med
+
+
+
+
+          G
+                  henblik på at forebygge alvorlige kardiovaskulære hændelser hos patienter med
+                  iskæmisk hjertekarsygdom.
+
+
+
+
+       D E
+           •      SGLT-2-hæmmer med henblik på at forebygge forværring af hjertesvigt og
+                  hospitalsindlæggelser hos patienter med hjertesvigt.
+
+
+
+
+        E RE
+           Tabel 1.3. Klinisk ligestillede lægemidler til ’patienter med erkendt hjertekarsygdom’
+
+                              Lægemiddelklasser         Lægemidler                                           Prisniveau per
+                                                                                                             døgn$
+
+
+               1. valgs-      SGLT-2-hæmmer#            Canagliflozin, dapagliflozin, empagliflozin          13-16 kr.
+               præparater
+
+               2. valgs-      GLP-1RA                   Dulaglutid, liraglutid semaglutid oral og            32-78 kr.
+               præparater                               s.c.
+
+               Overvej        DPP-4-hæmmer              Alogliptin, linagliptin, saxagliptin,                1-15 kr.
+                                                        sitagliptin*
+
+                              SU-stof                   Gliclazid glimepirid                                 0,9-2,2 kr.
+           #Anvend SGLT-2-hæmmer frem for GLP-1RA til patienter med hjertesvigt.
+
+           * billigste DPP-4-hæmmer er sitagliptin
+
+
+
+
+Side 4/8
+           $ Prisudsving i AUP fra 12.12.2022 til 20.3.2023 på det til hvert tidspunkt billigste parallelimporterede
+           præparat. Beregningen er baseret på de sammenligningsdoser, der er angivet i Medicinrådets
+           behandlingsvejledning.
+
+
+           Patienter med erkendt nyresygdom
+
+           Patientgruppen omfatter patienter med kronisk nyresygdom defineret som nedsat eGFR
+           (< 60 ml/min/1,73 m2). og/eller albuminuri (> 30 mg/g).
+
+           Vælg, uafhængigt af om patienten får metformin og/eller har nået behandlingsmålet for
+
+
+
+
+  IK
+           HbA1c (dosisjustering eller tillæg af metformin kan ske samtidig eller efterfølgende)::
+
+           •      SGLT-2-hæmmer med henblik på at forebygge yderligere progression af nyresygdom.
+
+
+
+
+G KE
+           •      Hvis patienten ikke kan tåle SGLT-2-hæmmer, overvej da her GLP-1RA fremfor DPP-
+                  4-hæmmer eller SU-stof.
+
+
+
+
+ Æ
+           Tabel 1.4. Klinisk ligestillede lægemidler til ’patienter med erkendt nyresygdom’
+
+                                Lægemiddelklasser          Lægemidler                                          Prisniveau
+
+
+
+
+   LD LÆ
+                                                                                                               per døgn$
+
+               1. valgs-        SGLT-2-hæmmer              Canagliflozin, dapagliflozin, empagliflozin         13-16 kr.
+               præparater
+
+               Overvej          GLP-1RA                    Dulaglutid, liraglutid, semaglutid oral og          32-78 kr.
+
+
+
+
+     EN N
+                                                           s.c.
+
+
+
+
+          G
+               Anvend ikke      DPP-4-hæmmer               Alogliptin, linagliptin, saxagliptin,               1-15 kr.
+               rutinemæssigt                               sitagliptin*
+
+
+
+
+       D E
+                                SU-stof                    Gliclazid, glimepirid                               0,9-2,2 kr.
+           * billigste DPP-4-hæmmer er sitagliptin
+
+
+
+
+        E RE
+           $ Prisudsving i AUP fra 12.12.2022 til 20.3.2023 på det til hvert tidspunkt billigste parallelimporterede
+           præparat. Beregningen er baseret på de sammenligningsdoser, der er angivet i Medicinrådets
+           behandlingsvejledning.
+
+           Patienter med svær overvægt (BMI > 30 kg/m2)
+
+           •      Vælg som udgangspunkt det billigste blandt de ligestillede lægemidler i tabel 1.1-1.4,
+                  i tillæg til metformin, til patienter med svær overvægt (BMI > 30 kg/m2), afhængig af
+                  patientens øvrige risikofaktorer.
+
+           Svær overvægt er ikke i sig selv grund til at skelne imellem lægemidlerne.
+
+
+           Ældre patienter (> 75 år) eller patienter med langvarig diabetes (> 20 år)
+
+           •      Vælg som udgangspunkt det billigste blandt de ligestillede lægemidler i tabel 1.1-1.4,
+                  i tillæg til metformin, afhængig af patientens øvrige risikofaktorer.
+
+           •      Vælg ikke SU-stoffer til patienter over 75 år pga. øget risiko for svær hypoglykæmi.
+
+
+
+
+Side 5/8
+           Valg af lægemiddel følger som udgangspunkt de samme anbefalinger som for yngre. Dog
+           undtaget SU-stofferne, da der hos patienter over 75 år er en højere forekomst af svær
+           hypoglykæmi sammenlignet med patienter under 75 år. Der er en tendens til flere
+           bivirkningsrelaterede behandlingsophør af GLP-1RA blandt patienter i aldersgruppen
+           over 65 år, men dette forhold er uafklaret for aldersgruppen over 75 år, da der ikke er
+           fundet data, som kan belyse det i denne aldersgruppe.
+
+
+
+           Valg mellem basalinsuliner
+
+
+
+
+  IK
+           DES/DSAM’s behandlingsvejledning redegør for mulige indikationer for at påbegynde
+           insulinbehandling, hvordan denne initieres, samt hvornår skift mellem basalinsuliner og
+           andre insulinregimer er relevant:
+
+
+
+
+G KE
+           Følgende er Medicinrådets anbefalinger for valg mellem de basalinsuliner, som
+           Medicinrådet har vurderet er klinisk ligestillede.
+
+
+
+
+ Æ
+           •      Vælg det billigste af de ligestillede basalinsuliner i tabel 1.5. Også til patienter over
+                  75 år, patienter med svær overvægt (BMI > 30 kg/m2) og patienter, der har behov for
+                  en høj dosis (> 1 IE/kg/døgn).
+
+
+
+
+   LD LÆ
+           •      Overvej at vælge et præparat, der kun skal doseres én gang dagligt.
+
+           •      Overvej skift fra øvrige basalinsuliner til insulin degludec hos patienter, der oplever
+                  gentagne tilfælde af svær hypoglykæmi på trods af relevant dosisjustering af
+                  eksisterende insulinbehandling.
+
+
+
+
+     EN N
+           •      Ved følgende skift skal døgndosis reduceres med ca. 20 %:
+                  ◦      Fra insulin detemir til insulin glargin 100 IE/ml
+
+
+
+
+          G
+                  ◦      Fra insulin glargin 300 IE/ml til insulin glargin 100 IE/ml
+
+
+
+
+       D E
+                  ◦      Fra NPH insulin (kun ved dosering x 2) til glargin 100 IE/ml.
+
+
+
+
+        E RE
+           Tabel 1.5. Klinisk ligestillede basalinsuliner
+
+                            Lægemidler                                  Dosisinterval         Prisniveau        Billigste præparat
+                                                                                              per døgn$         20.3.2023
+
+               1. valg      Insulin glargin 100 IE/ml                   1 gang daglig         7-8 kr.           Semglee
+
+
+
+               2. valg      Insulin glargin 300 IE/ml                   1 gang daglig         Ca. 10 kr.        Toujeo
+
+                            Insulin degludec 100 eller 200 IE/ml        1 gang daglig         Ca. 10 kr.        Tresiba 200 IE/ml
+
+               3. valg      NPH insulin (Isophaninsulin) 100 IE/ml      2 gange daglig        10-11 kr.         Insulatard
+
+                            Insulin detemir 100 IE/ml x 1-2             1-2 gange daglig      Ca. 11 kr.        Levemir
+           $ Prisudsving i AUP fra 12.12.2022 til 20.3.2023 på det til hvert tidspunkt billigste parallelimporterede præparat
+           inkl. pen. Beregn ingen er baseret på de sammenligningsdoser, der er angivet i Medicinrådets
+           behandlingsvejledning.
+
+
+
+
+Side 6/8
+           Sammensætning af fagudvalg og
+           kontaktinformation til Medicinrådet
+           Se Medicinrådets behandlingsvejledning vedrørende antidiabetika til behandling af type
+           2-diabetes.
+
+
+
+
+  IK
+G KE
+ Æ
+   LD LÆ
+     EN N
+       D EG
+        E RE
+
+
+Side 7/8
+           Versionslog
+           Versionslog
+
+           Version       Dato                Ændring
+
+           1.3           4. april 2023       Anbefalingstekst justeret efter den opdaterede
+                                             behandlingsvejledning, version 1.1.
+
+                                             Opdateret med nye priser:
+
+
+
+
+  IK
+                                             •   Stort prisfald på DPP-4-hæmmeren sitagliptin
+                                                 grundet generisk konkurrence
+
+                                             •   Exenatid i ugentlig dosering er udgået af
+
+
+
+
+G KE
+                                                 taksten pr. 26.12.2022.
+
+           1.2           15. juni 2022       Opdateret med nye priser. Rækkefølge er uændret.
+
+
+
+
+ Æ
+                                             •   Semglee er fortsat billigste insulin trods
+                                                 prisreduktion på andre insuliner.
+
+
+
+
+   LD LÆ
+           1.1           14. marts 2022      Opdateret med nye priser. Rækkefølge er uændret.
+
+                                             •   Insuliner: Prisfald på 2. og 3. valg (1-4 kr.)
+
+                                             •   GLP-1-RA: Lille prisstigning (1-2 kr.)
+
+                                             •   Øvrige: Små prisudsving (< 1kr.)
+
+
+
+
+     EN N
+           1.0           15. december 2021   Godkendt af Medicinrådet
+
+
+
+
+       D EG
+        E RE
+
+
+Side 8/8
+  IK
+G KE
+ Æ
+   LD LÆ
+     EN N
+       D EG
+        E RE
+Medicinrådets sekretariat
+Medicinrådet Dampfærgevej 21-23, 3. sal
+2100 København Ø
+
++ 45 70 10 36 00
+medicinraadet@medicinraadet.dk
+
+www.medicinraadet.dk
+
+
+
+
+Side 9/8
+

@@ -1,0 +1,589 @@
+CENTER FOR DRUG EVALUATION AND
+           RESEARCH
+
+
+       APPLICATION NUMBER:
+        206538Orig1s000
+
+      SUMMARY REVIEW
+              Division Director Review
+
+
+
+                                     Signatory Authority Review Template
+
+
+                    1. Introduction
+              On April 25, 2014 Sanofi-Aventis submitted a new drug application for Toujeo under section
+              505(b)(1) of the Federal Food, Drug and Cosmetic Act.
+
+              Toujeo is a sterile solution containing 300 units of insulin glargine per mL. Sanofi-aventis also
+              owns and markets Lantus, a sterile solution containing 100 units of insulin glargine per mL
+              (NDA# 21081).
+
+              The applicant is seeking to indicate Toujeo to improve glycemic control in adults with
+              diabetes mellitus. Toujeo is a drug-device combination product. The presentation is a
+              disposable pen, with an irreversibly integrated 1.5 mL cartridge pre-filled with a sterile drug
+              product solution. The drug product is to be administered once daily by subcutaneous
+              injection and the dose is to be individualized according to the individual’s metabolic needs,
+              blood glucose monitoring results, and glycemic control goal.
+
+              Toujeo will be the second concentrated insulin (i.e., insulin with a potency of > 100 units/mL)
+              available on the US market. The other concentrated insulin is a vial presentation of a 5-fold
+              concentrated solution of regular insulin [Humulin R (U500)]. Concentrated insulins may be
+              useful for insulin resistant patients requiring large amounts of insulin per day (i.e., >200 units)
+              because they obviate the need for delivering a large insulin dose1 by way of two or more
+              injections.
+
+              Medication and dosing errors resulting in serious unintended consequences (i.e., severe
+              hypoglycemia from unintentional overdose) have been a major problem with the Humulin R
+              (U500) vial presentation (NDA#18780). These errors stem in part from the fact that no
+              dedicated devices are available to administer the insulin leaving patients and caregivers with
+              the burden of performing volumetric conversions to calculate dose. Dosing errors are
+              expected to be less of an issue with Toujeo because the presentation is not in vial form, the
+              delivery device is specifically designed to deliver the U300 formulation and no dose
+              calculation/volumetric conversion is required for dosing and administration. Furthermore,
+              the cartridge is irreversibly integrated in the pen device and cannot be easily removed from
+              the device. This will further limit the possibility of dosing errors arising from administration
+              with insulin syringes calibrated for 100 units/mL products.
+
+
+
+
+              1
+                  Note: The current Toujeo device can only administer a maximum of 80 units at a time.
+
+
+              Page 2 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              Concentrated insulins, owing to slower systemic absorption, have distinct pharmacodynamic
+              properties which in some case may more closely approximate basal physiologic pancreatic
+              insulin secretion and result in improved glycemic control.
+
+                     2. Background
+              Drs. Yanoff and Condarco have summarized the regulatory history for the application (refer
+              to Section 2 of their respective reviews). In brief, the applicant had initially proposed to
+              qualify the new glargine dosage strength by demonstrating bioequivalence (BE) between
+              Toujeo (insulin glargine, 300 units/mL) and Lantus (insulin glargine, 100 units/mL) and the
+              Division agreed with this approach. The BE study demonstrated that the two formulations
+              were not bioequivalent. The applicant, encouraged by the product PK/PD profile, proposed
+              to establish the safety and effectiveness of the new dosage strength in four pivotal trials. The
+              intent of these trials was to; first establish glycemic non-inferiority to Lantus, then glycemic
+              superiority to Lantus (referred to as a “second” primary endpoint), then superiority on a
+              hypoglycemia related endpoint2. There was no disagreements regarding the primary efficacy
+              objective (demonstration of change in HbA1c non-inferiority) or proposed trial designs to
+              reach this objective. Areas of discussions and disagreements focused mostly on the
+              adequacy of proposed secondary endpoints to address the third objective                      (b) (4)
+
+
+                                                                                                  The detailed
+              interactions and advice given to the applicant by Division on this topic are described in Dr.
+              Condarco’s review.
+
+                     3. CMC/Device
+              I concur with the conclusions reached by the chemistry reviewer, Dr. Ysern, regarding the
+              acceptability of the manufacturing of the drug product and drug substance. Manufacturing
+              site inspections were acceptable. Stability testing supports an expiry of 30 months between
+              2 °C and 8 °C protected from light for unopened product and expiry of (b)          (4) days at room
+
+              temperature (up to 30 °C) protected from light for opened (i.e., in use) product. There are no
+              outstanding issues related to CMC, device engineering or human factors/usability (refer to Dr.
+              Yanoff’s CDTL summary for details). Particularly, the human factors study demonstrated that
+              users are able to use the prefilled pen safely and effectively with no reported instances of
+              calculation errors (i.e. multiplying or dividing by 3, resulting in 3-fold over or under doses).
+
+                     4. Nonclinical Pharmacology/Toxicology
+              I concur with the conclusions reached by, Dr. Quinn, the pharmacology/toxicology reviewer
+              that there are no outstanding pharmacology toxicology issues that preclude approval. The
+              toxicology data submitted for the approval of Lantus (insulin glargine, 100 U/mL) support the
+              2
+                  Refer to page 44 of the Statistical Analysis Plans for Studies EFC11628 and EFC11629
+
+
+
+
+              Page 3 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              approval of Toujeo. A local tolerance study was conducted to bridge Toujeo to Lantus.
+              Toujeo and Lantus displayed similar local tolerability in rabbits following subcutaneous
+              injection.
+
+
+                  5.         Clinical Pharmacology/Biopharmaceutics
+
+              I concur with the conclusions reached by the clinical pharmacology/biopharmaceutics
+              reviewer that there are no outstanding clinical pharmacology issues that preclude approval.
+              Refer to Dr. Lau’s and Yanoff’s reviews for details. PK/PD data support a recommendation for
+              once daily administration. Toujeo compared to Lantus has a longer terminal half-life3 and
+              greater intra-individual variability4. The glucose lowering effect of Toujeo begins to wane
+              approximately 30 hours after injection compared to 26 hours for Lantus (refer to Figure 5 in
+              Dr. Yanoff’s review), suggesting Toujeo is slightly longer lasting than Lantus.       Although
+              greater intra-individual variability raises concerns with regard to day-to-day performance-
+              reproducibility and the impact this may have on glycemic control (i.e., risks of highs and low
+              glucose), Phase 3 clinical trial data did not reveal any major or concerning differences
+              between the two insulins on glycemic control (i.e., adverse reactions related to hyper or
+              hypoglycemia) at the end of 26-weeks (refer to Dr. Condarco’s review).
+
+              The major clinical pharmacology issue identified in the clinical pharmacology review was a
+              lack of unit-to-unit (i.e., dose-to-dose) potency (i.e., glucose lowering effect) equivalence
+              between Toujeo and Lantus. Single dose and steady state clinical pharmacology studies
+              revealed that, on a unit-to-unit basis, Toujeo has less glucose lowering effect than Lantus.
+              Table 7 in Dr. Lau’s review compares the maximum (GIR max)5 and overall glucose lowering
+              effects (GIR-AUC)6 of Toujeo relative to Lantus when equivalent doses [0.4 units per kilogram
+              (U/kg)] of the two drugs are administered once daily for eight days to patients with type 1
+              diabetes. The maximum glucose lowering effect achieved with Toujeo was ~ 19% lower than
+              that of Lantus and the overall glucose lowering in the 24 and 36 hours that followed the
+              injection was also lower relative to Lantus by 27% and 15% respectively.
+
+
+
+
+              3
+                19 versus 13 hours for Toujeo versus Lantus
+              4
+                Maximum and overall glucose lowering variability based on a coefficient of variation comparison is 2-fold
+              higher in Toujeo versus Lantus
+              5
+                Glucose infusion rate maximum (GIR max)
+              6
+                Area under the glucose infusion rate (GIR-AUC)
+
+
+              Page 4 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              difference (i.e., the flatter and longer steady state PK profile). It is likely that lowering the
+              dose of Lantus to match the lower effectiveness of Toujeo would have achieved the same
+              salutary effect on hypoglycemia rate. This will be discussed further in the Section 6 and 7 of
+              this memorandum.
+
+              The Office of Clinical Pharmacology raised several questions with regards to the observation
+              of the lack of in vivo unit-to-unit potency equivalence between Toujeo and Lantus. They did
+              not agree with the applicant’s proposal                                                  (b) (4)
+
+
+
+
+              The CMC and clinical teams did not agree                                                      (b) (4)
+
+
+                                                                               From a CMC perspective, the
+              strength (nmoles/mL) and potency (U/mL) of Toujeo was adequately characterized. One unit
+              of insulin glargine is defined as the activity contained in 36.4 mcg of glargine (6 nmoles) per
+              the European Pharmacopeia standard. To establish the potency of Toujeo, the mass (mg)
+              amount of insulin glargine in Toujeo was measured by chromatography and converted to
+              units using the European Pharmacopeia insulin glargine standard. The applicant, using the
+              same batch of Toujeo, compared the chromatography derived potency to potency derived
+              using a bioassay and confirmed that both strength (1800 nmoles/mL) and potency (300
+              U/mL) were preserved for Toujeo.
+
+              From a clinical perspective, the lack of unit-to-unit PD equivalence between Toujeo and
+              Lantus could potentially lead to worsening glycemic control when converting from Lantus to
+              Toujeo and better glycemic control when converting from Toujeo to Lantus in the care
+              setting. The risk of the former was evaluated in clinical trials. In the early part of the trials,
+              night time glycemic control (using fasting pre-breakfast SMBG as a surrogate) was worst on
+              Toujeo than on Lantus but no serious hyperglycemia related issues (i.e., DKA or hyperosmolar
+              hyperglycemia coma) were identified for either patients with type 1 or type 2 diabetes
+              mellitus. In these trials, the lower Toujeo effectiveness was eventually overcome by using
+              higher doses of Toujeo as reflected by the end of the trial Toujeo dose which was 12-19%
+              higher than Lantus dose. Titration of Toujeo will occur in the care setting as doses of all
+              insulins are individualized to target patient specific goals. Care givers will be instructed to
+              monitor glucose frequently in the first month after Toujeo is initiated to minimize the risk of
+              hyperglycemia while transitioning to Toujeo. The risk of slightly worst glycemic control when
+              switching from one insulin to the next is a potential issue with currently marketed basal
+              insulins (i.e., NPH, glargine, detemir).
+
+
+
+
+              Page 6 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              In the care setting, converting from Toujeo to Lantus could potentially lead to an increase in
+              glucose lowering of approximately of 10-20%8 placing patients at increased risk for
+              hypoglycemia. Switching between insulin preparations in the care setting should be done
+              only under close supervision because it is widely recognized that each insulin preparation has
+              slightly different PK/PD characteristics. The risk of hypoglycemia in this setting is labeled for
+              all insulin products. The clinical team felt that the risks of hyper and hypoglycemia specific to
+              the fact that this product shares an active ingredient with an already labeled product but has
+              distinct pharmacodynamics could be adequately mitigated through Sections 2 (Dosage and
+              Administration), 5 (Warning and Precautions) and 12 (Clinical Pharmacology) of the product
+              label.
+
+
+                  6. Clinical Microbiology
+              I concur with the conclusions reached by the clinical microbiology reviewer that there are no
+              outstanding clinical microbiology or sterility issues that preclude approval.
+
+
+                  7. Clinical/Statistical-Efficacy
+              Details of the trial design and analyses can be found in Dr. Condarco’s and Kettermann’s
+              reviews. Dr. Yanoff has also summarized efficacy results in her CDTL memorandum. No
+              efficacy issues that preclude approval were identified in the reviews.
+
+              The applicant relies on four clinical trials to support the indication. The four pivotal trials
+              were randomized, open-label, parallel group, trials comparing Toujeo to Lantus across the
+              following patient populations and clinical use scenarios.
+
+              •         Trial EFC12456: Patients with type 1 diabetes inadequately controlled on multiple
+                        daily insulin injections (i.e., basal/bolus insulin therapy switch study)
+              •         Trial EFC11628: Patients with type 2 diabetes inadequately controlled on multiple
+                        daily insulin injections (i.e., basal/bolus insulin therapy switch study)
+              •         Trial EFC11629: Patient with type 2 diabetes inadequately controlled on basal insulin
+                        injections in combination with oral antidiabetic therapies (basal insulin therapy
+                        switch study)
+              •         Trial EFC12347: Patients on with type 2 diabetes inadequately controlled on oral anti-
+                        diabetic medications (add-on to oral anti-diabetic in insulin naïve patient study)
+
+
+
+
+              8
+                To provide context on the magnitude of this doses increase; a 10% dose increase was recommended for
+              patients not optimally controlled on their dose of basal insulin in the type 1 DM clinical trial Trial#12456. In the
+              care setting it would not be uncommon for a physician to increase insulin dose by 10% for patients not
+              optimized on their current insulin regimen.
+
+
+              Page 7 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              The primary objective for each trial was to demonstrate that the change in Hemoglobin A1c
+              from baseline to Week 26 in the Toujeo arm was not worse than the change in Hemoglobin
+              A1c from baseline to Week 26 in the Lantus arm by a difference of 0.4% or more (i.e., non-
+              inferiority comparison with a non-inferiority margin set at 0.4%).
+
+              In the three ‘switch’ studies, patients transitioned from their pre-trial basal insulin dose to
+              the intervention insulin dose using the same scheme9 for both Lantus and Toujeo. In the add-
+              on to oral anti-diabetic drug trial, patients were initiated on a 0.2 units/kg dose of either
+              Toujeo or Lantus. At randomization, baseline insulin dose in units/kg were identical across
+              intervention groups (i.e., Lantus and Toujeo) for each of the four trials10. The trials employed
+              a basal insulin (i.e., Lantus and Toujeo) titration scheme targeting a pre-breakfast self-
+              monitored glucose between 80 to 130 mg/dL in the type 1 diabetes trial and 80 to 100 mg/dL
+              in the type 2 diabetes. Dose increases in basal insulin could occur no more frequently than
+              every 3-4 days. The dosing scheme (initial dose and titration) which, at randomization,
+              assumed that the two insulins are equally effective on a unit-to-unit basis impacts
+              interpretation of the hypoglycemia data. This is discussed in Section 5 and 7 of this
+              memorandum.
+
+              Across all trials, baseline demographics and disease characteristics were balanced and no
+              major issues in study design or execution that would impact primary efficacy analyses or
+              interpretation were identified. The primary analysis was based on a modified intent to treat
+              population. To handle data missing at 26 weeks, the applicant relied on both a Last
+              Observation Carried Forward (LOCF) strategy and on a Mixed Model Repeated Measures
+              (MMRM) strategy. Although Dr. Kettermann points to inadequacies in both of these
+              methodologies with regard to estimating the true value of the data missing at 26 weeks, she
+              was reassured by the relatively small amount of data missing and the consistency across
+              results obtained using the two imputation methods. She concludes that missing data is not a
+              primary decisive factor in this application.
+
+              Dr. Yanoff has summarized the main efficacy findings and results of analyses using two
+              missing data imputation methods in Table 2 of her CDTL memorandum. This table is
+              reproduced below for convenience. Across all four studies, Toujeo was found to offer a level
+              of HbA1c control that was non-inferior to that of Lantus after 26 weeks of treatment.
+              Subgroup analyses did not reveal significant interactions across regions, baseline
+              demographic or disease characteristics.
+
+
+
+
+              9
+                  Refer to Table 6 in Dr. Condarco’s review.
+              10
+                   Refer to Table 12 in Dr. Condarco’s review.
+
+
+              Page 8 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+                              Figure 2: Pre-breakfast SMBG by Visit; Type 2 Diabetes TEFC11628-Basal Bolus Trial
+
+
+
+
+                        Figure 3: Pre-breakfast SMBG by visit; Type 2 Diabetes EFC11629-Basal add-on to OAD Trial
+
+
+
+
+              Page 10 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+                          Figure 4: Pre-breakfast SMBG by visit; Type 2 Diabetes EFC12347-Basal add-on to OAD Trial
+
+
+
+
+              This differential effectiveness in the early part of the trial was corroborated by the
+              observation of a consistently larger magnitude of dose increase in the Toujeo arm for each
+              study visit in each of the four trials. Recall that the titration algorithm was similar between
+              arms and differential dose increase was driven entirely by differences in fasting morning
+              SMBG (Refer to figures 11, 17, 23, and 29 in Dr. Condarco’s review for graphs of consecutive
+              dose increase by visit in each of the four trials).
+
+              The differential unit-to-unit effectiveness of the two insulins was eventually overcome with
+              differential dose titration [both basal and and when applicable bolus insulin) and did not
+              result in large HbA1c differences at Week-26. Recall that HbA1c is a "weighted" average of
+              blood glucose levels for the 120 days that precede the test. It is a “weighted” average
+              because glucose levels in the 30 days preceding the test contribute substantially more to the
+              level of HbA1c than do glucose levels between days 90 to 120. This may partly explain why
+              the level of glucose control can be different early in the trial and still be roughly similar at trial
+              end in a 26 week trial.
+
+              Another reason could be that similarities in glucose control in the daytime (~3/4 of the hours
+              in a 24 hour period) mask differences in nighttime effectiveness (~1/4 of the hours in a 24
+              hour period) and that HbA1c is insufficiently sensitive to detect these differences. The
+              applicant points to 24 hour average self-measured blood glucose (point-of-care derived)
+              profiles to claim that overall no difference in SMBG reported glycemic control was observed
+              across seven consecutive time points in the trial. Two trials show a trend towards
+              numerically worst control on Toujeo across all time points (ECF12456 and ECF12347)11 and
+              two trials show differences in a few early and late time points (i.e., Week 2 and 4; ECF11628
+              and ECF11629)12 also suggesting numerically worst control on Toujeo. These analyses are less
+              granular than the Pre-Breakfast SMBG analyses (i.e., fewer time points considered) and real
+
+              11
+                   Refer to figures 12 and 30 in Dr. Condarco’s review
+              12
+                   Refer to figures 19 and 24 in Dr. Condarco’s review
+
+
+              Page 11 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              differences in nighttime effectiveness (i.e., ascertained by two time points; 3 AM and pre-
+              breakfast) for a part of the day could be masked by the more numerous time points obtained
+              during waking hours (i.e., post-breakfast, pre-lunch, post-lunch, pre-dinner, post-dinner,
+              bedtime).
+
+
+                  8. Safety
+
+              Drs. Yanoff and Condarco have summarized the main safety findings in the application. The
+              main safety database comprised of 304 and 1242 patients with type 1 and type 2 diabetes
+              respectively exposed to Toujeo. The median exposure duration was 183 days in both groups.
+              Seventy six and 89 percent of patients with type 1 and 2 diabetes were exposed for at least
+              25 weeks respectively. The total exposure at 6 months is consistent with the FDA draft
+              guidance for products to treat diabetes mellitus. Although there is relatively sparse 1-year
+              data the active ingredient is not a new molecular entity and the exposure number and
+              duration were judged to be sufficient for filing. No new concerning safety signal that would
+              preclude approval was identified in the safety analyses. I agree with Dr. Yanoff’s summary of
+              the main safety findings which are repeated below in italics.
+
+              “Notable findings from these safety assessments include:
+
+                       Injection site reactions and Hypersensitivity reactions were relatively balanced
+                        between treatment groups and generally consistent with current Lantus labeling. The
+                        incidence of injection site reactions is shown below. The most common preferred
+                        terms were ‘injection site bruising’ and ‘injection site pain’. There were no serious
+                        reactions.
+
+                                                      T1DM                       T2DM
+                                                      Toujeo      Lantus         Toujeo       Lantus
+                        Any injection site reaction   2.6%        1.6%           2.4%         3.1%
+
+                       There was no apparent imbalance in CV risk although the incidence of any MACE event
+                        was only about 1% or less in both treatment groups.
+                       There were no reported accidental ‘overdose’ of U300 due to misunderstanding of the
+                        concentration of the formulation
+                       There were two reports of ‘hyperglycemia’ during the first week of randomized
+                        therapy – one in each treatment group suggesting no clinically important implications
+                        of the lesser PD effect of U300 within this early time frame. There were no reports of
+                        diabetic ketoacidosis (DKA) or severe hyperglycemia.
+                       There were no important differences in body weight between Toujeo and Lantus
+                        treated patients.
+
+              Common Adverse Events:
+
+
+
+              Page 12 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              Common adverse events were comparable between Toujeo and Lantus. The only adverse
+              events (other than hypoglycemia) reported with a frequency ≥5% and more commonly with
+              Toujeo were nasopharyngitis and upper respiratory tract infection. These are unlikely to be
+              related to insulin use.
+
+                                                      T1DM                    T2DM
+                                                      Toujeo    Lantus        Toujeo        Lantus
+                  Nasopharyngitis                     12.8%     10.9%         7.1%          5.8%
+                  Upper respiratory tract infection   9.5%      7.6%          5.7%          5.4%
+
+              Other Safety Analyses:
+              All other routine safety analyses such as laboratory findings, vital signs, electrocardiograms
+              were reviewed by Dr. Condarco and found to be unremarkable.
+
+              In addition, the difference in insulin effectiveness noted in Section 7 may impact risks of
+              hyperglycemia and hypoglycemia while transitioning to or from Toujeo. Risks may be
+              amplified in the care setting as compared to the clinical trial setting because monitoring will
+              be less frequent. Labeling will be used to emphasize the fact that Toujeo and Lantus products
+              have distinct pharmacokinetics that could impact effectiveness during transition if wrong
+              assumptions are made. Instructions to physicians in the Dosing and Administration,
+              Warnings and Precautions, and Clinical Pharmacology Sections of the full prescribing
+              information will be used to minimize this risk.
+
+              Hypoglycemia in the Toujeo Program
+
+              Too few patients experienced at least one event of severe hypoglycemia (i.e., third party
+              assistance required for recovery) across the four trials to draw meaningful conclusions from
+              these analyses and no unexpected large imbalance in any arm or trial was observed (the two
+              basal bolus trials had the highest risk as expected). Dr. Yanoff in Table 5 of her CDTL shows
+              that larger numerical differences in the proportion of patients experiencing at least one
+              episode of severe hypoglycemia were observed in the early part of the trial when glycemic
+              control, and particularly nighttime glycemic control, was worst on Toujeo.
+
+              In the type 1 diabetes trial a similar proportion of patients experienced at least one episode
+              of hypoglycemia across multiple definitions of hypoglycemia which; aim to capture less-
+              severe hypoglycemic episodes and differ in their diagnostic sensitivity/specificity (See Table
+              48 in Dr. Condarco’s review). Across the three type 2 diabetes trials, numerically fewer
+              patients experienced at least one episode of these less-severe hypoglycemia episodes (refer
+              to Tables 51, 53, and 55 in Dr. Condarco’s review). Analyses that split the trial timeline into
+              Week 0 to 8 and Week 9 to 24 reveal that the greatest numerical difference between Toujeo
+              and Lantus is observed between Week 0 to 8 when glycemic control was worst on Toujeo
+              (refer to Tables 52 and 54 in Dr. Condarco’s review). These analyses are consistent with lead
+              time analyses performed by Dr. Kettermann and shown in Table 13 of her review.
+
+
+
+              Page 13 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+                                                                             (b) (4)
+                                                                                       The Division believes that
+                                                                                                   (b) (4)
+                                                                                                           would be
+              misleading as it is unsubstantiated by substantial evidence.
+
+
+                                                                                                               (b) (4)
+
+
+
+
+                  9. Advisory Committee Meeting
+              No new efficacy or safety issue rose to the level of requiring the input from an advisory panel.
+              Therefore no advisory committee was convened.
+
+                  10.            Pediatrics
+
+              This product does not trigger PREA because it does not involve a new active ingredient, new
+              indication, route of administration, dosage form, or dosing regimen. See Dr. Yanoff’s review
+              for additional details.
+
+                  11.            Other Relevant Regulatory Issues
+              No issues were identified, refer to Drs. Yanoff and Condarco’s reviews for details.
+
+
+                  12.            Labeling
+
+              Dr. Yanoff has summarized labeling issues in her CDTL memorandum and I have summarized
+              issues                                               (b) (4)
+                                                                           in Section 7 of this memorandum.
+
+                  13.            Decision/Action/Risk Benefit Assessment
+
+                  Regulatory Action
+              Approval
+
+                       Risk Benefit Assessment
+
+
+
+              Page 15 of 16
+
+Reference ID: 3707918
+              Division Director Review
+
+
+
+              The applicant established the efficacy and safety of Toujeo in patients with Type 1 and Type 2
+              diabetes mellitus across several, relevant, clinical use scenarios. Toujeo administered once
+              daily and titrated to goal resulted in levels of HbA1c reduction which were non-inferior to
+              those observed in Lantus at the end of 26-weeks. The safety of Toujeo was not clinically
+              meaningfully different than the safety of the approved product Lantus.                    PK/PD
+              characterization revealed that less glargine insulin is systemically absorbed when it is
+              administered as Toujeo compared to Lantus and that Toujeo has less glucose lowering effect
+              on a unit-to-unit basis compared to Lantus. Risks of hypoglycemia, hyperglycemia, and
+              inadequate insulinization when transitioning to or from Toujeo have been discussed in
+              Section 5 of this memo and addressed in specific sections of product labeling. Issues related
+              to real or potential overdose associated with confusion stemming from differences in
+              strengths between Toujeo (1800 nmol/mL) and Lantus (600 nmol/mL) were not observed in
+              clinical trials or Human Factor studies. Strength (insulin potency) will be clearly labeled. The
+              fact that a dedicated device, which is not easily tampered with, is used for product
+              administration mitigates this risk as well. We did not agree with the applicant’s conclusion
+              that the data in the application provide conclusive evidence that Toujeo is comparatively
+              safer than Lantus from a hypoglycemia risk perspective. This issue is discussed in Section 5,
+              6, and 7 of this memorandum.
+
+                       Recommendation for Postmarketing Risk Evaluation and Mitigation Strategies
+
+              No new safety findings from this clinical development program prompt the need for a
+              postmarketing risk evaluation and management strategies.
+
+                       Recommendation for other Postmarketing Requirements and Commitments
+
+              No new safety findings from this clinical development program prompt the need for a
+              postmarketing requirements and commitments.
+
+
+
+
+              Page 16 of 16
+
+Reference ID: 3707918
+     ---------------------------------------------------------------------------------------------------------
+     This is a representation of an electronic record that was signed
+     electronically and this page is the manifestation of the electronic
+     signature.
+     ---------------------------------------------------------------------------------------------------------
+     /s/
+     ----------------------------------------------------
+     JEAN-MARC P GUETTIER
+     02/25/2015
+
+
+
+
+Reference ID: 3707918
+

@@ -1,0 +1,324 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+7500 Security Boulevard, Mail Stop WB-06-05
+Baltimore, Maryland 21244-1850
+
+CENTER FOR MEDICARE & MEDICAID INNOVATION
+
+Date:         October 11, 2022
+
+To:           Medicare Part D Prescription Drug Plan Sponsors Participating in the Contract
+              Year (CY) 2023 Part D Senior Savings (PDSS) Model
+
+From:         Laura T. McWright, Deputy Director, Seamless Care Models Group, Center for
+              Medicare and Medicaid Innovation
+
+Subject:      Additional CY 2023 PDSS Model Guidance Related to Inflation Reduction Act
+              (IRA) Changes to Part D Coverage of Insulin
+
+This memorandum provides Part D sponsors participating in the PDSS Model in CY 2023 with
+additional clarifying guidance, specific to the Model, for implementing section 11406
+(Appropriate Cost Sharing for Covered Insulin Products under Medicare Part D) of the Inflation
+Reduction Act (IRA, P.L. 117-169). This guidance is specific to CY 2023 PDSS Model. This
+memorandum also presents the operational approach that the Centers for Medicare & Medicaid
+Services (CMS) will take when implementing section 11406 of the IRA in the Part D program for
+Part D plans that are also participating in the PDSS Model and includes Prescription Drug Event
+(PDE) reporting instructions specifically for PDSS-participating plans to implement the
+appropriate cost-sharing obligations for covered insulin products.
+
+In addition to the obligations stated in the September 26, 2022 HPMS memorandum titled,
+“Contract Year 2023 Program Guidance Related to Inflation Reduction Act Changes to Part D
+Coverage of Vaccines and Insulin,” PDSS-participating plans must continue to provide Model-
+Specific Supplemental Benefits for Plan-Selected Model Drugs in accordance with the CY 2023
+addendum to their Part D contract for participation in PDSS (“CY 2023 PDSS Addendum”),
+inclusive of the requirements in PDSS Model guidance and their submitted and approved bids for
+CY 2023.
+
+The following table provides an overview of the interaction between a PDSS-participating plan’s
+obligations under the PDSS Model and its obligations under the IRA for coverage of insulin
+products when the PDSS Model does not apply. The temporary retrospective subsidy under
+section 1860D-15(h) of the Social Security Act (the Act) as added by the IRA may be available
+to reimburse PDSS-participating plans for costs incurred in applying the IRA’s $35 cap on cost
+sharing for a one-month supply of a covered insulin product to: covered insulin products that are
+not Plan-Selected Model Drugs, Plan-Selected Model Drugs for which the plan does not provide
+supplemental benefits in the catastrophic phase, and covered insulin products provided to low-
+income subsidy eligible (LIS-eligible) beneficiaries.
+
+
+
+                                                                                                1
+Plan Coverage/Benefit        PDSS Model Requirements          IRA Requirements
+
+Eligible Beneficiaries       Non-LIS beneficiaries            LIS beneficiaries
+
+Part D Benefit Phase         First three phases of the Part   Catastrophic Phase
+Coverage for Plan-Selected   D benefit only. (Deductible,
+Model Drugs                  Initial Coverage Limit, and
+                             Coverage Gap phases of the
+                             Part D benefit)
+
+Plan-Selected Model Drugs    Plan-Selected Model Drugs.       Drugs that are not Plan-
+                             Identified in Part D sponsor’s   Selected Model Drugs but are
+                             Approved Proposal for which      covered insulin products on
+                             Part D sponsor offers Model-     the Part D plan’s formulary.
+                             Specific Supplemental            Deductible does not apply for
+                             Benefits.                        covered insulin products and
+                                                              coverage is available in all
+                                                              other phases of the Part D
+                                                              benefit.
+
+Formulary Exceptions         Must provide formulary           Required to provide covered
+                             exceptions where applicable      insulin products treated as
+                             at the approved cost-sharing     being included in a Part D
+                             for the designated formulary     plan’s formulary as a result of
+                             exceptions tier(s).              a coverage determination or
+                                                              appeal, or covered under the
+                             Not required to offer Model      transition process in
+                             cost sharing for non-            accordance with §
+                             formulary insulins approved      423.120(b)(3) at cost-sharing
+                             through the formulary            of $35 or less for a one-
+                             exceptions process.              month supply.
+
+Extended Day Supplies        Extended day supplies and        Required to cover extended
+                             associated cost sharing as       day supplies (two-month
+                             submitted and approved in        and/or three-month supplies)
+                             the PDSS section of the          consistent with the approved
+                             approved 2023 plan benefit       Part D bid.
+                             package (PBP).
+                                                              Cost-sharing must not exceed
+                                                              $70 for up to a two-month
+                                                              supply or $105 for up to a
+                                                              three-month supply.
+
+
+
+
+                                                                                                2
+ Out-of-Network (OON)            OON cost sharing as             Cost sharing for all covered
+                                 submitted and approved in       insulin products (including
+                                 the PDSS section of the 2023    Plan-Selected Model Drugs)
+                                 PBP.                            must not exceed $35 for a
+                                                                 one-month supply of a
+                                                                 covered insulin product when
+                                                                 provided by an OON provider
+                                                                 in accordance with
+                                                                 §423.124(a) and (c).
+
+                                                                 Consequently, although Part
+                                                                 D sponsors, including those
+                                                                 participating in the PDSS
+                                                                 Model, may charge an
+                                                                 enrollee for the differential
+                                                                 between the OON price and
+                                                                 the plan allowance, in no
+                                                                 event may a Part D sponsor
+                                                                 require an enrollee to pay cost
+                                                                 sharing (inclusive of any
+                                                                 OON differential) that
+                                                                 exceeds the statutory limit of
+                                                                 $35 for a one-month supply
+                                                                 of a covered insulin product.
+
+
+
+CY 2023 PDSS Plan Bids, including PDSS Supplemental Files
+
+PDSS Model participants should not submit requests to update, based on IRA requirements, the
+PDSS cost sharing or Plan Selected Model Drugs in the bids that have already been submitted and
+approved to be offered under the PDSS Model for CY 2023 or their PDSS supplemental file. Any
+changes to the PDSS supplemental file should be submitted only if they are in accordance with
+Article 3, Section F (Notice of Changes) of the CY 2023 PDSS Addendum.
+
+Coverage Gap Discounts
+
+PDSS-participating plans will continue to determine coverage gap discounts for Plan-Selected
+Model Drugs in accordance with previously published guidance for enhanced alternative plans
+participating in the PDSS Model.
+
+Please refer to the September 26, 2022 HPMS memorandum titled, “Contract Year 2023
+Program Guidance Related to Inflation Reduction Act Changes to Part D Coverage of Vaccines
+and Insulin,” for guidance on determination of coverage gap discounts for covered insulin
+products that are not Plan-Selected Model Drugs provided to applicable beneficiaries enrolled in
+PDSS plans.
+
+
+
+                                                                                                   3
+Prescription Drug Event (PDE) Data
+
+In addition to the PDE calculation and reporting guidance in the September 26, 2022 HPMS
+memorandum titled, “PDE Reporting Instructions for Implementing the Cost Sharing Maximums
+Established by the Inflation Reduction Act for Covered Insulin Products and ACIP-
+Recommended Vaccines for Contract Year 2023,” 1,2 PDSS-participating plans must also ensure
+their PDE calculations and reporting properly account for Plan-Selected Model Drugs dispensed
+to Model-eligible beneficiaries.
+
+When a covered insulin product that is a Plan-Selected Model Drug is dispensed to a Model-
+eligible beneficiary, PDSS-participating sponsors shall continue to follow existing PDSS
+guidance 3 regarding PDE calculation and reporting, with the amendments described in this
+memorandum.
+
+We are updating Example #2 from the September 24, 2021 HPMS memorandum,
+“CORRECTION - Part D Senior Savings Model Prescription Drug Event (PDE) Reporting
+Guidance (Part 2)” 4 to reflect the cost-sharing cap on insulin products added by the IRA in the
+Catastrophic Phase. We have increased the drug cost for the drug in the example so that we can
+illustrate what occurs in the scenario where the sum of the coinsurance in the Catastrophic Phase
+and the copay in the Coverage Gap would exceed $35. The updates to this example are provided
+in bolded red text below to clarify how reporting should account for the IRA’s beneficiary cost-
+sharing reduction in the Catastrophic Phase. The Part D Model Indicator is also noted in bolded
+red text, as this PDE field was unavailable when Example #2 was originally provided.
+
+Example #2: PDE for a Plan-Selected Model Drug that straddles copay to coinsurance
+benefit phases (Coverage Gap to Catastrophic), the drug cost remaining in the Coverage
+Gap is below the Model-Specific Supplemental copay, and the Inflation Reduction Act
+Subsidy Amount (IRASA) applies in the Catastrophic Phase
+This example demonstrates how to report a PDE for an $800.00 Plan-Selected Model Drug on
+tier 3, having a $795.00 ingredient cost and a $5.00 dispensing fee. The EA plan has a $35 copay
+for tier 3 drugs until the Catastrophic Phase (this is also the Model-Specific Supplemental
+copay) and does not have supplemental benefits in the Catastrophic Phase.
+
+Step 1 - Determine costs that fall within the Coverage Gap:
+When the claim adjudication begins, the TGCDC Accumulator is $13,950.00, the TrOOP
+Accumulator is $7,380.00, the beginning benefit phase is the Coverage Gap, and remaining
+
+1
+  As stated in the September 26, 2022 HPMS memorandum, the guidance provided in that memo applies to all non-
+Model covered insulin products provided to all beneficiaries enrolled in PDSS plans, all covered insulin products
+provided to LIS-eligible beneficiaries enrolled in PDSS plans, all covered insulin products provided to all
+beneficiaries enrolled in PDSS plans in the catastrophic phase, and ACIP-recommended vaccines covered by PDSS
+plans.
+2
+  This memorandum is available here.
+3
+  PDSS PDE guidance is available in the additional information section of the PDSS Model website here.
+4
+  This memorandum is available here.
+
+
+                                                                                                                    4
+TrOOP is $20.00. To determine the drug cost in the Coverage Gap, the remaining TrOOP
+amount is divided by 1 minus the covered plan cost-sharing in the Coverage Gap or 0.95. The
+total drug cost in the Coverage Gap is $21.05. This amount excludes the dispensing fee, which
+falls completely in the Catastrophic Phase.
+
+Step 2 – Determine the discount eligible cost:
+Because this is a Plan-Selected Model Drug, the discount eligible cost is equal to the ingredient
+cost falling in the Coverage Gap, which is $21.05. The dispensing fee falls entirely in the
+Catastrophic Phase.
+
+Step 3 - Calculate the Gap Discount:
+The gap discount is 70% of the $21.05 discount eligible cost or $14.74.
+
+Step 4 - Determine beneficiary cost-sharing and calculate IRASA:
+The beneficiary has a $35 copay for tier 3 drugs in the Coverage Gap and does not have
+supplemental coverage in the Catastrophic Phase. Because there is only $5.26 of remaining
+TrOOP in the Coverage Gap ($20.00 - $14.74), the beneficiary pays a capped copay of $5.26 in
+the Coverage Gap instead of $35.00. In the Catastrophic Phase, prior to the application of the
+requirements of section 1860D-2(b)(9) of the Act, as added by section 11406 of the IRA, the
+beneficiary would have been responsible for the greater of 5% of drug costs falling in the
+Catastrophic Phase ($778.95 * 0.05 = $38.95) or $10.35 in CY 2023. In this case, the beneficiary
+would have paid a total of $44.21 ($38.95 + $5.26). Although PDSS Model benefits do not
+apply in the Catastrophic Phase, the PDSS Model Plan must still apply the beneficiary cost-
+sharing maximum of $35.00 as required under the IRA. Therefore, the beneficiary cost-
+sharing in the Catastrophic Phase is reduced to $29.74 ($35.00 - $5.26).
+
+The IRASA is calculated by subtracting the IRA-reduced beneficiary cost sharing from the
+original beneficiary cost sharing under the plan’s 2023 benefit design consistent with the
+plan’s 2023 bid ($38.95 - $29.74 = $9.21). This amount is reported in the Other TrOOP
+Amount field, and because there is no additional non-IRASA payment reported in the
+Other TrOOP Amount field, the Other TrOOP Amount Indicator field is populated with
+an “S”.
+
+Step 5 - Calculate CPP, NPP, and PLRO amounts:
+For Plan-Selected Model Drugs, supplemental benefits that fall in the Coverage Gap are reported
+as PLRO and supplemental benefits that fall in the Catastrophic Phase are reported as NPP.
+
+Coverage Gap: To determine the portion of this amount that is CPP, we consider this claim in
+light of the Defined Standard benefit where CPP is 5% of ingredient cost and sales tax in the gap
+plus 75% of dispensing fee in the gap. Because the amount of the claim falling in the
+Catastrophic Phase exceeds the dispensing fee on the claim, there is no plan liability for this fee
+in the Coverage Gap. CPP equals $1.05 ($21.05 * .05). PLRO is determined by taking the cost
+falling within the Coverage Gap and subtracting the beneficiary cost-sharing, reported gap
+discount, and CPP. PLRO is $21.05 - ($5.26 + $14.74 + $1.05) = $0.00.
+
+
+
+
+                                                                                                    5
+Catastrophic Phase: CPP is the lesser of 95% of the drug cost in the Catastrophic Phase or drug
+cost in the Catastrophic Phase minus $10.35 in CY 2023. In this case, CPP in the Catastrophic
+Phase is $740.00 (($778.95 * 0.95 = $740.00) < ($778.95 - $10.35 = $768.60)). NPP is
+determined by taking the cost falling within the Catastrophic Phase and subtracting the
+beneficiary cost-sharing, CPP, and IRASA. NPP is $778.95 - ($29.74 + $740.00 + $9.21) =
+$0.00.
+
+The Model Plan will populate the Part D Model Indicator with an “07” value for this PDE
+record.
+
+    PDE Field                                                                    Value
+    TGCDC Accumulator                                                          $13,950.00
+    TrOOP Accumulator                                                           $7,380.00
+    Tier                                                                             3
+    GDCB                                                                          $21.05
+    GDCA                                                                         $778.95
+    Ingredient Cost                                                              $795.00
+    Dispensing Fee                                                                 $5.00
+    Beginning Benefit Phase                                                          G
+    Ending Benefit Phase                                                             C
+    Patient Pay                                                                   $35.00
+    CPP                                                                          $741.05
+    NPP                                                                            $0.00
+    PLRO                                                                           $0.00
+    Reported Gap Discount                                                         $14.74
+    Part D Model Indicator                                                          07
+    Other TrOOP Amount Indicator                                                     S
+    Other TrOOP Amount                                                             $9.21
+
+PDSS-participating sponsors should also be aware that the IRA’s beneficiary cost-sharing
+reduction requirement applies for LIS-eligible beneficiaries. Examples #6 and #7 from the April
+27, 2021 HPMS memorandum, “Part D Senior Savings Model – Prescription Drug Event (PDE)
+Reporting Guidance,” 5 detail how PDSS plans should adjudicate the benefit and report costs for
+Plan Selected Model Drugs for LIS-eligible beneficiaries. PDSS plans should adjudicate the
+benefit and report costs in accordance with these examples prior to CY 2023. Beginning in CY
+2023, PDSS-participating sponsors should adjudicate the benefit and report costs for all covered
+insulin products (including Plan Selected Model Drugs) for LIS-eligible beneficiaries in
+accordance with the examples for LIS-eligible beneficiaries in the September 26, 2022 HPMS
+memorandum, “PDE Reporting Instructions for Implementing the Cost Sharing Maximums
+Established by the Inflation Reduction Act for Covered Insulin Products and ACIP-
+Recommended Vaccines for Contract Year 2023.”
+
+Medicare Plan Finder (MPF)
+
+5
+    This memorandum is available here.
+
+
+                                                                                                   6
+The CY 2023 MPF will reflect Part D sponsors’ insulin benefits and cost sharing as submitted in
+their 2023 bid and formulary submissions, including PDSS Model benefits/coverage. For CY
+2023 Open Enrollment, CMS is updating MPF to include a new insulin drug footnote and other
+help features to explain the benefit changes resulting from the IRA.
+
+Please refer to the September 12, 2022 HPMS memorandum titled, “Updates to PDSS Model
+Communications and Marketing Guidelines for Contract Year 2023” for guidance on PDSS-
+specific Model requirements.
+
+Special Enrollment Period
+
+Since MPF will reflect Part D sponsors’ insulin benefits and cost sharing as submitted in their
+CY 2023 bids, CMS is granting a Special Enrollment Period (SEP) for Exceptional
+Circumstances to allow beneficiaries to add, drop, or change their Part D coverage if they find a
+better option after the 2022 Annual Enrollment Period (AEP). This SEP will be available for all
+beneficiaries who use a covered insulin product and begins on December 8, 2022 and ends on
+December 31, 2023. Beneficiaries may use this SEP one time during this period. To utilize this
+SEP, beneficiaries must call 1-800-MEDICARE so a customer service representative can process
+the enrollment change. Consistent with current policy, when Part D enrollees change plans mid-
+year, their True Out-of-Pocket (TrOOP) costs carry over from one plan to the next.
+
+Questions concerning this memorandum may be directed to PartDSavingsModel@cms.hhs.gov.
+
+
+
+
+                                                                                                7
+

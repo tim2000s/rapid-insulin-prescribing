@@ -1,0 +1,2776 @@
+Hurtig metodevurdering ved
+forhåndsgodkjent refusjon §2
+Tresiba (insulin degludec) til
+behandling av diabetes mellitus type 2
+Revurdering av dokumentasjon innsendt i
+juni 2017 sak ID 16/13823
+
+29-05-2019
+Statens legemiddelverk
+
+ID 16/13823
+
+29-05-2019
+
+side 2/59
+
+FORORD
+Legemiddelverket gjør oppmerksom på at dette er en fornyet vurdering basert på Novo Nordisk
+søknad fra juni 2017 og gjort etter bestemmelsene i legemiddelforskriften som gjaldt per 21. august
+2017. Forordet er i henhold til dette regelverket, og ikke til de bestemmelsene som er gjeldende fra
+1.januar 2018.
+Statens legemiddelverk forvalter forskriften av 28. juni 2007 nr. 814 om stønad til dekning av utgifter
+til viktige legemidler mv. (blåreseptforskriften) § 2. Legemiddelverket vurderer, etter søknad fra
+legemiddelfirmaene, hvorvidt et legemiddel skal tas opp i blåreseptordningen (forhåndsgodkjent
+refusjon). Forskriften definerer fire faglige kriterier som alltid skal ligge til grunn ved vurdering av
+refusjonsverdighet av et legemiddel. Et legemiddel kan bare godkjennes for pliktmessig refusjon
+dersom:
+a) legemidlet skal brukes til behandling av alvorlige sykdommer eller av risikofaktorer som med høy
+sannsynlighet vil medføre eller forverre alvorlig sykdom,
+
+b) sykdommen eller risiko for sykdom som nevnt i bokstav a medfører behov eller risiko for gjentatt
+behandling over en langvarig periode,
+
+c) legemidlet har en vitenskapelig godt dokumentert og klinisk relevant virkning i en definert, aktuell
+pasientpopulasjon, og
+
+d) kostnadene ved bruk av legemidlet står i et rimelig forhold til den behandlingsmessige verdi og til
+kostnader forbundet med alternativ behandling.
+
+Refusjonsverdighet av et legemiddel vurderes på bakgrunn av innsendt søknad i henhold til de fire
+faglige kriterier. Legemiddelverket har veiledningsplikt overfor søkere men bevisbyrden ligger alltid
+hos søkeren. Hovedanalysen av kostnadseffektivitet utføres av søkeren og skal legges ved søknaden.
+Legemiddelverket vurderer det innsendte datagrunnlaget for alle viktige kliniske utfall, angitt
+ressursbruk samt gitte forutsetninger for analysen, og de presenterte resultater. Legemiddelverket
+utfører vanligvis ikke egne helseøkonomiske analyser. Legemiddelverket kan ved behov innhente
+tilleggsopplysninger hos søkeren eller på egen hånd søke etter oppdatert informasjon og foreta egne
+beregninger av kostnader og kostnadseffektivitet.
+Alle våre vurderinger publiseres etter at vedtaket er gjort gyldig og rapportene er tilgjengelig for
+allmennheten (www.legemiddelverket.no)
+
+ID 16/13823
+
+29-05-2019
+
+side 3/59
+
+OPPSUMMERING
+Formål:
+Å vurdere forhåndsgodkjent refusjon for insulin degludec (Tresiba) etter forskrift av 28. juni 2007 nr.
+814 om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften) § 2 og
+Legemiddelforskriften kapittel 14. Metodevurderingen er et resultat av en fornyet vurdering etter at
+Legemiddelverkets vedtak av 21. august 2017 ble opphevet av Helse- og omsorgsdepartementet i
+deres vedtak av 2. juli 2018 etter klage fra firmaet Novo Nordisk Scandinavia AS.
+Bakgrunn
+Tresiba er et legemiddel til behandling av diabetes type 2. Nytte/risikoforholdet ved behandling av
+diabetes type 2 er dokumentert gjennom utstedelse av markedsføringstillatelse. Om lag 37 000
+diabetes type 2 pasienter ble behandlet med basalinsulin i Norge i 2017, hvorav majoriteten med
+NPH-insulin. Legemiddelverkets vurdering tar utgangspunkt i dokumentasjon innsendt av Novo
+Nordisk Scandinavia AS den 2. juni 2017.
+Effektdokumentasjon i henhold til norsk klinisk praksis
+Novo Nordisk har levert inn dokumentasjon som beskriver potensielle fordeler av Tresiba
+sammenlignet med NPH-insulin når det gjelder hypoglykemier, egenmåling av blodsukker og fleksibel
+dosering. Det er kun hypoglykemier som er dokumentert med kliniske data fra studieprogrammet til
+Tresiba. Legemiddelverket mener at effekten ved behandling med Tresiba sammenlignet med
+komparator er usikker, da det basert på innlevert dokumentasjon er vanskelig å anslå størrelsen på
+effekten og verdien av den i norsk klinisk praksis.
+Langvarighet
+Diabetes type 2 oppfyller Legemiddelforskriftens krav om langvarig behandling.
+Alvorlighet og helsetap
+Diabetes type 2 oppfyller Legemiddelforskriftens krav om alvorlighet. Legemiddelverket legger til
+grunn at diabetes type 2 med dagens standard behandling inkludert NPH-insulin, har et absolutt
+prognosetap (APT) på ca. 5 QALY.
+Kostnadseffektivitet
+Legemiddelverket har vurdert om kostnadene ved bruk av Tresiba står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling.
+Gitt foreliggende dokumentasjon og med de legemiddelpriser som var gjeldende da opprinnelig
+dokumentasjon ble levert inn i 2017 (maks AUP eks mva.), har Legemiddelverket beregnet en
+merkostnad for Tresiba, sammenlignet med NPH-insulin på:
+
+ID 16/13823
+
+29-05-2019
+
+side 4/59
+
+725 000 NOK per vunnet kvalitetsjusterte leveår (QALY)
+
+Legemiddelverkets totalvurdering
+Legemiddelverket mener at Legemiddelforskriftens krav til langvarighet og alvorlighet er oppfylt.
+Legemiddelverket mener at kostnadene ved bruk av Tresiba ikke står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling.
+Vedtak:
+Legemiddelverket har revurdert dokumentasjon og økonomisk modell slik det opprinnelig var
+innlevert fra Novo Nordisk i 2017, og vedtar at Tresiba ikke innvilges forhåndsgodkjent refusjon til
+behandling av diabetes type 2 basert på denne dokumentasjonen.
+
+ID 16/13823
+
+29-05-2019
+
+side 5/59
+
+3-SIDERS SAMMENDRAG
+Metode
+Hurtig metodevurdering av legemiddelet Tresiba (insulin degludec, IDeg). Legemiddelverket har
+vurdert forhåndsgodkjent refusjon for IDeg ved type 2 diabetes mellitus (T2DM) etter forskrift av 28.
+juni 2007 nr. 814 om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften) § 2
+og legemiddelforskriften § 14-10.
+Metodevurderingen er et resultat av en fornyet vurdering etter at Legemiddelverkets vedtak av 21.
+august 2017 ble opphevet av Helse- og omsorgsdepartementet i deres vedtak av 2. juli 2018, etter
+klage fra firmaet Novo Nordisk Scandinavia AS. Legemiddelverket ble i vedtaket av 2. juli 2018
+anmodet om å gjøre en fornyet vurdering av legemiddelforskriften §14-13 d, jf. forvaltningsloven §
+34 fjerde ledd, det vil si en vurdering av om «kostnadene ved bruk av legemidlet står i et rimelig
+forhold til den behandlingsmessige verdi og til kostnader forbundet med alternativ behandling».
+Helse- og omsorgsdepartementet har uttalt at Legemiddelverkets fornyede vurdering skal gjøres
+etter bestemmelsene i legemiddelforskriften som gjaldt 21. august 2017 til tross for at endringer i
+Legemiddelforskriften trådte i kraft 1. januar 2018. Vurderingen tar utgangspunkt i dokumentasjon
+innsendt av Novo Nordisk Scandinavia AS, heretter Novo Nordisk, i juni 2017. I forbindelse med den
+fornyede vurderingen har Novo Nordisk hatt et møte med Legemiddelverket, og det har også vært epost korrespondanse mellom Novo Nordisk og Legemiddelverket.
+Legemiddelverket har fastsatt ny, redusert maksimalpris på IDeg under den tiden arbeidet med
+revurderingen av opprinnelige refusjonssøknad har pågått. Ettersom dette ikke var en del av den
+opprinnelige innleverte dokumentasjonen som er til revurdering, vil det ikke bli omtalt her.
+Legemiddelverket henviser til saksnummer 19/08836 hvor Legemiddelverket vurderer å utvide
+forhåndsgodkjent refusjon for langtidsvirkende insulinanaloger (inkludert IDeg) til også å gjelde
+T2DM.
+Pasientgrunnlag i Norge
+Folkehelseinstituttet anslår at ca. 216 000 personer i Norge er diagnostisert med T2DM i år 2017. Av
+disse behandles om lag 37 000 med basalinsulin, hvorav majoriteten med NPH-insulin.
+Langvarighet
+T2DM er kronisk. Det er vanligvis behov for behandling over en langvarig periode.
+Alvorlighet og prognosetap
+T2DM oppfyller kravet om alvorlighet i Legemiddelforskriften.
+Legemiddelverket har beregnet at T2DM for denne populasjonen behandlet med NPH-insulin har et
+absolutt prognosetap (APT) på ca. 5 QALY.
+
+ID 16/13823
+
+29-05-2019
+
+side 6/59
+
+Behandling i norsk klinisk praksis
+Nasjonale faglige retningslinjer for behandling av T2DM anbefaler metformin som førstevalg ved
+behov for medikamentell behandling. Effekt av behandling og eventuelt behov for
+behandlingsintensivering vurderes utfra HbA1c. Når sykdommen utvikler seg og det er behov for å
+intensivere behandlingen, anbefaler retningslinjene å legge til et preparat av typen sulfonylurea,
+DPP4-hemmer, SGLT2-hemmer, GLP-1 analog eller basalinsulin. IDeg og NPH-insulin er basalinsuliner.
+Effektdokumentasjon i henhold til norsk klinisk praksis
+I pivotal-studiene til IDeg ble det gjort randomiserte kontrollerte, åpne studier mot insulin glargin
+(IGlar). Disse viste en likeverdig glykemisk kontroll mellom IDeg og IGlar, men lavere antall episoder
+av enkelte typer hypoglykemi med IDeg enn med IGlar.
+IGlar har ikke forhåndsgodkjent refusjon ved T2DM, det benyttes per i dag NPH-insulin for å
+behandle majoriteten av pasienter med T2DM som har behov for insulinbehandling. NPH-insulin er
+det eneste basalinsulin som i dag har forhåndsgodkjent refusjon ved T2DM. Legemiddelverket
+mener at rett komparator i denne metodevurderingen er NPH-insulin.
+I mangel på direkte studiedata som sammenligner IDeg og NPH-insulin, har Novo Nordisk levert inn
+en indirekte sammenligning av IGlar vs. NPH-insulin. Denne sammenligningen viser tilsvarende effekt
+på blodsukkerkontroll, HbA1c, mellom IGlar og NPH-insulin, samt en mulig reduksjon i nattlige,
+symptomatiske hypoglykemier til fordel for IGlar. Med bakgrunn i disse analysene blir det gjort en
+tilnærming der det benyttes resultater fra de randomiserte kontrollerte studiene som sammenlikner
+IDeg og IGlar, og basert på antagelsen om likeverdighet mellom IGlar og NPH-insulin, blir resultatene
+for IGlar antatt å være representative NPH-insulin. Effektresultatene for IGlar blir dermed benyttet
+som proxy for NPH-insulins effekt i den økonomiske analysen.
+Den eneste effektparameteren fra pivotalstudiene til IDeg som benyttes i den økonomiske modellen
+er forekomst av hypoglykemi. Legemiddelverket finner det utfordrende å vurdere frekvensen av
+hypoglykemiske hendelser mellom IDeg, IGlar og NPH-insulin, og relevansen av studieresultatene for
+dette endepunktet i norsk klinisk praksis. Blant annet skyldes dette at studiedesignet, med
+inklusjonskriterier, behandlingsmål og definisjon av hypoglykemi, kan avvike noe fra norsk klinisk
+praksis slik at det observeres flere hypoglykemier i studiene enn det som er tilfelle i norsk klinisk
+praksis. Hypoglykemi blant T2DM pasienter er sjelden. Norske leger tilpasser behandlingen og
+behandlingsmålene individuelt for å oppnå optimal blodsukkerkontroll og samtidig unngå
+hypoglykemier.
+Likevel er hypoglykemier en kjent bivirkning ved insulinbehandling, og Novo Nordisk har vist en
+redusert forekomst av hypoglykemier ved behandling med IDeg vs IGlar i studiene som lå til grunn for
+markedsføringstillatelsen for IDeg. Legemiddelverket er ikke kjent med at det finnes sikre tall for
+forekomst av hypoglykemier blant T2DM pasienter som behandles med basalinsulin i norsk klinisk
+praksis. Legemiddelverket bruker derfor de innleverte studiedata fra pivotal-studiene til IDeg for
+
+ID 16/13823
+
+29-05-2019
+
+side 7/59
+
+denne effektparameteren. Usikkerheten i denne effektparameteren er utforsket i
+sensitivitetsanalyser.
+Novo Nordisk hevder også en positiv effekt ved behandling med IDeg på livskvalitet grunnet fleksibel
+dosering og redusert antall blodsukkermålinger. Legemiddelverket har forkastet disse effektendepunktene da de etter Legemiddelverkets vurdering ikke er tilstrekkelig godt dokumentert og
+heller ikke har avgjørende betydning i klinisk praksis for T2DM.
+Sikkerhet
+Hypoglykemier er den eneste bivirkningen som er tatt med i den økonomiske modellen. Det legges
+inn både kostnader og nyttetap for denne bivirkningen. Behandling med IDeg har vist en reduksjon i
+hypoglykemier sammenlignet med komparator.
+Kostnadseffektivitet
+Legemiddelverket har vurdert innsendt analyse, og forutsetninger for denne. Forutsetningene
+Legemiddelverket har lagt til grunn er endret i forhold til base case analysen til Novo Nordisk på flere
+punkter, og kan oppsummeres med det følgende;
+ Novo Nordisk påståtte nytte ved fleksibel dosering er ikke tatt med i Legemiddelverkets
+hovedanalyse, se kapittel 3.4.3.
+ Novo Nordisk påståtte nytte ved redusert antall blodsukkermålinger er ikke tatt med i
+Legemiddelverket hovedanalyse, se kapittel 3.4.3.
+ Antall blodsukkermålinger er justert fra 7 til 6 per uke i gjennomsnitt for pasienter som
+administrerer sitt basalinsulin en gang daglig, og fra 9,59 til 7,20 per uke i gjennomsnitt for
+pasienter som administrerer basalinsulin to ganger daglig, se kapittel 3.4.1.
+ Kostnadene for hypoglykemier er justert til 41,0 NOK for pasienter som får basalinsulin og
+52,7 NOK for pasienter som får basal-bolus insulin for ikke-alvorlige hendelser, og til 4491
+NOK for alvorlige hendelser, se kapittel 4.1.2.
+ Andel pasienter som administrerer NPH-insulin to ganger daglig er endret fra 73,9% til 40%,
+se kapittel 3.3.
+
+Legemiddelverket har vurdert om kostnadene ved bruk av IDeg står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling ved hjelp av en
+økonomisk modell som har 1 års tidshorisont. Gitt foreliggende dokumentasjon beregner
+Legemiddelverket med de legemiddelpriser som var gjeldende da opprinnelig dokumentasjon ble
+levert inn i 2017 basert på maks AUP eks mva., at merkostnad for IDeg, sammenlignet med NPHinsulin er:
+725 000 NOK per vunnet kvalitetsjusterte leveår (QALY).
+
+ID 16/13823
+
+29-05-2019
+
+side 8/59
+
+Tabell 1: Resultater fra Legemiddelverkets hovedanalyse
+
+Insulin degludec
+
+NPH-insulin
+
+Differanse
+
+Totale kostnader
+
+12 316
+
+8 911
+
+3 406
+
+Totale QALYs
+
+0,8226
+
+0,8179
+
+0,0047
+
+Merkostnad per vunnet
+QALY
+
+724 989
+
+Novo Nordisk sin hovedanalyse avviker fra det Legemiddelverket har beregnet. Resultatene i denne
+analysen er gjengitt i tabellen under.
+Tabell 2: Resultater fra Novo Nordisk sin hovedanalyse
+
+Insulin Degludec
+
+NPH-insulin
+
+Differanse
+
+Totale kostnader
+
+12 570
+
+9 598
+
+2 972
+
+Totale QALYs
+
+0,8016
+
+0,7476
+
+0,0540
+
+Merkostnad per vunnet QALY
+
+54 985
+
+Usikkerhet i analysen
+Legemiddelverket mener den største usikkerheten i analysen er knyttet til om den observerte
+frekvensen av hypoglykemier i IDegs kliniske studieprogram virkelig er tilsvarende høy for pasienter
+med T2DM i norsk klinisk praksis. Et scenario med lavere antall hypoglykemier kan være sannsynlig.
+Dette gjør at ICER trolig er høyere enn i Legemiddelverkets hovedanalyse.
+Legemiddelverkets totalvurdering
+Legemiddelverket mener at Legemiddelforskriftens krav til langvarighet og alvorlighet er oppfylt.
+Legemiddelverket mener at kostnadene ved bruk av IDeg ikke står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling.
+Vedtak:
+Legemiddelverket har revurdert dokumentasjon og økonomisk modell slik det opprinnelig var
+innlevert i 2017, og vedtar at IDeg ikke innvilges forhåndsgodkjent refusjon til behandling av T2DM
+basert på denne dokumentasjonen.
+
+ID 16/13823
+
+29-05-2019
+
+side 9/59
+
+INNHOLDSFORTEGNELSE
+FORORD ........................................................................................................................................................... 2
+OPPSUMMERING ............................................................................................................................................. 3
+3-SIDERS SAMMENDRAG.................................................................................................................................. 5
+INNHOLDSFORTEGNELSE .................................................................................................................................. 9
+LOGG .............................................................................................................................................................. 11
+ORDLISTE ....................................................................................................................................................... 12
+1
+
+BAKGRUNN ............................................................................................................................................ 13
+PROBLEMSTILLING .................................................................................................................................... 13
+DIABETES MELLITUS TYPE 2 (T2DM) ............................................................................................................ 13
+BEHANDLING AV T2DM ............................................................................................................................ 14
+1.3.1
+
+Behandlingsretningslinjer/anbefalinger/norsk klinisk praksis ........................................................ 14
+
+1.3.2
+
+Behandling med insulin degludec (1)............................................................................................... 16
+
+1.3.3
+
+Komparator ..................................................................................................................................... 16
+
+1.3.4
+
+Behandling med NPH-insulin ........................................................................................................... 16
+ALVORLIGHETSGRAD OG PROGNOSETAP ........................................................................................................ 17
+
+2
+
+DOKUMENTASJON FOR Å VISE RELATIV EFFEKT ..................................................................................... 18
+OVERSIKT OVER RELEVANTE, INNSENDTE STUDIER ............................................................................................ 18
+LEGEMIDDELVERKETS VURDERING AV INNSENDT KLINISK DOKUMENTASJON .......................................................... 21
+
+3
+
+PICO ....................................................................................................................................................... 23
+PASIENTPOPULASJONEN ............................................................................................................................. 23
+INTERVENSJON ......................................................................................................................................... 25
+KOMPARATOR.......................................................................................................................................... 26
+UTFALLSMÅL............................................................................................................................................ 28
+
+4
+
+3.4.1
+
+Effekt ............................................................................................................................................... 28
+
+3.4.2
+
+Bivirkninger ..................................................................................................................................... 36
+
+3.4.3
+
+Helsenytte/helsetap ........................................................................................................................ 36
+
+ØKONOMISK ANALYSE ........................................................................................................................... 43
+MODELL, METODE OG FORUTSETNINGER ....................................................................................................... 43
+
+ID 16/13823
+
+29-05-2019
+
+side 10/59
+
+4.1.1
+
+Analyseperspektiv............................................................................................................................ 43
+
+4.1.2
+
+Kostnader (input data) .................................................................................................................... 44
+RESULTATER ............................................................................................................................................ 47
+
+5
+
+4.2.1
+
+Firmaets base case .......................................................................................................................... 47
+
+4.2.2
+
+Legemiddelverkets analyse ............................................................................................................. 47
+
+4.2.3
+
+Sensitivitets- og scenarioanalyser ................................................................................................... 48
+
+4.2.4
+
+Legemiddelverkets konklusjon om inkrementell kostnadseffektivitetsratio ................................... 49
+
+DISKUSJON OG KONKLUSJON ................................................................................................................ 50
+KONKLUSJON ........................................................................................................................................... 51
+
+REFERANSER .................................................................................................................................................. 53
+APPENDIKS 1: KORT OM HELSEØKONOMI OG BEGREPER I RAPPORTEN ......................................................... 56
+
+ID 16/13823
+
+29-05-2019
+
+side 11/59
+
+LOGG
+Legemidlets
+rettighetshaver
+Preparat:
+
+Novo Nordisk Scandinavia AS
+
+Virkestoff:
+
+Insulin degludec
+
+Indikasjon:
+ATC-nr:
+
+Behandling av diabetes mellitus hos voksne, ungdom og barn fra 1
+år.
+A10AE06
+
+Saksnummer SLV
+
+ID 16/13823
+
+Dokumentasjon mottatt
+hos Legemiddelverket
+Vedtak fattet
+Saksutredere:
+
+02-06-2017
+
+Kliniske eksperter:
+
+Tresiba
+
+29-05-2019
+Ingrid Johanne Bettum
+Anette Helene Olsson Grøvan
+
+Tore Julsrud Berg
+Kåre Birkeland
+Sigurd Hortemo
+Kliniske eksperter har bidratt med avklaringer av sentrale forutsetninger i analysen (bl.a.
+sammenlignende behandling, pasientgrunnlag og overførbarhet av studiedata til norsk klinisk
+praksis). I arbeide med rapporten har klinikerne besvart skriftlige spørsmål, deltatt i møte og
+hatt muntlig kommunikasjon med saksbehandlere. Ved ferdigstillelse av rapporten har
+klinikerne bekreftet sine utsagn som er brukt i rapporten. Legemiddelverket er ansvarlig for
+rapportens innhold. De kliniske ekspertene har ikke hatt noen formell «peer review» funksjon
+ved utarbeidelse av rapporten.
+
+ID 16/13823
+
+29-05-2019
+
+side 12/59
+
+ORDLISTE
+APT
+AUP
+BB
+BID
+BOT
+CUA
+eks
+FBG
+IDeg
+IGlar
+ICER
+MT
+MVA
+mtp
+NICE
+NOK
+NPH-insulin
+OD
+OS
+PFS
+QALY
+SMBG
+T1DM
+T2DM
+UK
+US
+
+Absolutt prognosetap
+Apotekenes utsalgspris
+Basal bolus treatment
+To ganger daglig dosering
+Basal only treatment
+Cost utility analyse
+ekskludert
+Fastende blodglukose
+Insulin degludec
+Insulin glargine
+Inkrementell kostnadseffektivitetsratio
+Markedsføringstillatelse
+Merverdiavgift
+Med tanke på
+National Institute for Health and Care Excellence
+Norske kroner
+Neutral protamine Hagedorn insulin- middels langtidsvirkende insulin
+humaninsulin
+Once daily, en gang daglig
+Totaloverlevelse
+Progresjonsfri overlevelse
+Kvalitetsjustert leveår
+Self monitoring blood glucose, egenmåling av blodsukker
+Type 1 diabetes mellitus
+Type 2 diabetes mellitus
+United Kingdom
+United States of Amerika
+
+ID 16/13823
+
+29-05-2019
+
+side 13/59
+
+1 BAKGRUNN
+PROBLEMSTILLING
+Tresiba (insulin degludec, IDeg) er indisert til behandling av diabetes mellitus type 2 (T2DM), enten
+alene eller i kombinasjon med orale antidiabetika, GLP-1-reseptoragonister og bolusinsulin (1).
+Denne metodevurderingen vurderer kostnadseffektiviteten av IDeg ved hjelp av en kostnad per
+QALY-analyse (CUA) der behandling med IDeg sammenlignes med behandling med NPH -insulin.
+Metodevurderingen er et resultat av en fornyet vurdering etter at Legemiddelverkets vedtak av 21.
+august 2017 ble opphevet av Helse- og omsorgsdepartementet i deres vedtak av 2. juli 2018 etter
+klage fra firmaet Novo Nordisk Scandinavia AS, (heretter Novo Nordisk). Legemiddelverket ble i
+vedtaket av 2. juli 2018 anmodet om å gjøre en fornyet vurdering av legemiddelforskriften §14-13 d,
+jf. forvaltningsloven § 34 fjerde ledd, det vil si en vurdering av om «kostnadene ved bruk av
+legemidlet står i et rimelig forhold til den behandlingsmessige verdi og til kostnader forbundet med
+alternativ behandling».
+Helse- og omsorgsdepartementet har uttalt at Legemiddelverkets fornyede vurdering skal gjøres
+etter bestemmelsene i legemiddelforskriften som gjaldt 21. august 2017, og ikke etter endringer i
+Legemiddelforskriften som trådte i kraft 1. januar 2018. Vurderingen tar utgangspunkt i
+dokumentasjon innsendt av Novo Nordisk i juni 2017. I forbindelse med den fornyede vurderingen
+har Novo Nordisk og Legemiddelverket hatt ett møte (05.februar 2019), og det har også vært e-post
+korrespondanse mellom Novo Nordisk og Legemiddelverket.
+Legemiddelverket har fastsatt ny, redusert maksimalpris på IDeg under den tiden arbeidet med
+revurderingen av opprinnelige refusjonssøknad har pågått. Legemiddelkostnaden for IDeg har med
+dette gått ned med om lag 20%. Ettersom den nye prisen ikke var en del av den opprinnelige
+innleverte dokumentasjonen som er til revurdering, vil den ikke bli omtalt i denne saken.
+Legemiddelverket har imidlertid, på bakgrunn av prisjusteringen og denne metodevurderingen, sett
+behovet for en helhetlig gjennomgang av forhåndsgodkjent refusjon for langtidsvirkende
+insulinanaloger (inkludert IDeg) ved T2DM. Legemiddelverket henviser derfor til saksnummer
+19/08836 hvor Legemiddelverket vurderer å utvide forhåndsgodkjent refusjon for langtidsvirkende
+insulinanaloger (inkludert IDeg) til også å gjelde T2DM.
+
+DIABETES MELLITUS TYPE 2 (T2DM)
+T2DM karakteriseres av varierende grader av insulinresistens og relativ insulinmangel. Arvelig
+disposisjon, oftest i kombinasjon med overvekt og lite fysisk aktivitet, medfører redusert
+insulinsekresjon og/eller redusert følsomhet for insulin. Når insulinproduksjonen/følsomheten ikke er
+tilstrekkelig til å holde et normalt blodglukosenivå og blodsukkeret forhøyes, utløses diabetes. For
+høyt blodsukker over tid kan gi skader på de små blodårene i kroppen (mikrovaskulær sykdom) og
+skader på øyets netthinne (retinopati). Dette kan igjen føre til blindhet, skader på nerver (nevropati),
+
+ID 16/13823
+
+29-05-2019
+
+side 14/59
+
+skader i nyrene (nefropati) og nyresvikt. I tillegg har pasienter med diabetes økt risiko for hjerte- og
+karsykdommer(2).
+Prevalensen av kjent T2DM har økt. Folkehelseinstituttet anslår at ca. 216 000 personer i Norge har
+diagnostisert T2DM i år 2017. Av disse behandles ca. 60 000 med kost og mosjonstiltak, mens
+156 000 også behandles med glukosesenkende legemidler (3).
+
+BEHANDLING AV T2DM
+1.3.1
+
+Behandlingsretningslinjer/anbefalinger/norsk klinisk praksis
+
+Ifølge de nylig reviderte nasjonale faglige retningslinjene for diabetes, er en rekke
+behandlingsalternativer sidestilte for pasienter med T2DM dersom man ikke når behandlingsmålene
+med metformin som monoterapi. Det foreligger ikke tilstrekkelig vitenskapelig evidens til å gi kun en
+enkeltanbefaling.
+Tabell 3 under viser de ulike behandlingsalternativene tilgjengelig i henhold til norske
+behandlingsretningslinjer (2).
+De nasjonale faglige retningslinjene foreslår at metformin kontinueres i samtlige kombinasjonsregimer så sant det tolereres og nyrefunksjonen ikke er for dårlig.
+Insulin brukt på riktig måte har størst potensiale for å redusere blodsukkeret, og anbefales til alle hvis
+HbA1c > 86 mmol/mol (10 %), fastende blodsukker > 15 mmol/l eller ved betydelige symptomer på
+hyperglykemi. Videre anbefales det å velge insulin hvis det er behov for å senke HbA1c mer enn 22
+mmol/mol (2 %-poeng).
+De fleste pasienter kan behandles med NPH-insulin. Utvalgte pasienter vil ha nytte av
+langtidsvirkende insulinanalog (glargin, glargin-300, detemir, degludec), særlig ved nattlig
+hypoglykemi eller åpenbart for kort virketid av NPH-insulin (2).
+NPH-insulin har forhåndsgodkjent refusjon til behandling av T2DM. Ingen av de langtidsvirkende
+insulinanalogene (glargin, glargin-300, detemir, degludec) har forhåndsgodkjent refusjon ved T2DM,
+men legen kan søke om individuell stønad for den enkelte pasient.
+
+ID 16/13823
+
+29-05-2019
+
+side 15/59
+
+Tabell 3 Retningslinjer for medikamentell behandling av T2DM, kilde Helsedirektoratet. Nasjonal faglig retningslinje for
+diabetes:
+
+Behandlingsmål ved T2DM (2):
+Ved T2DM bør intensivert blodsukkersenkende behandling tilpasses til den enkelte pasient.
+Behandlingsmål for de fleste pasienter vil være HbA1c omkring 53 mmol/mol (7 %), dette tilsvarer
+FBG på 4-6 mmol/l.
+
+ID 16/13823
+
+29-05-2019
+
+side 16/59
+
+Hos en del pasienter, særlig yngre og nydiagnostiserte, som forholdsvis lett når behandlingsmålet
+ved å endre livsstil og eventuelt bruke 1-2 legemidler, kan det være aktuelt med lavere
+behandlingsmål, (for eksempel HbA1c omkring 48 mmol/mol (6,5%).
+HbA1c mellom 53 - 64 mmol/mol (7.0 - 8.0 %) kan være aktuelt for pasienter med:
+•
+
+Lang sykdomsvarighet
+
+•
+
+Betydelig komorbiditet (særlig ved redusert nyrefunksjon, eGFR < 45 ml/min/1.73 m²)
+
+•
+
+Risiko for hypoglykemi
+
+For personer på sykehjem og andre med betydelig reduserte leveutsikter er målet å unngå
+symptomatisk hyperglykemi. Det oppnås hos de fleste når blodsukkeret sjelden overstiger 12-14
+mmol/l.
+
+1.3.2
+
+
+
+
+
+
+
+Behandling med insulin degludec (1)
+Indikasjon
+Behandling av diabetes mellitus hos voksne, ungdom og barn fra 1 år
+Virkningsmekanisme
+IDeg bindes spesifikt til humaninsulinreseptoren og gir samme farmakologiske effekt som
+humant insulin. Insulinets blodglukosenedsettende effekt skyldes at opptaket av glukose
+lettes ved at insulinet bindes til reseptorer i muskel- og fettceller, samtidig som utskillelsen
+av glukose fra leveren hemmes. IDeg er et basalinsulin som danner oppløselige multiheksamerer ved subkutan injeksjon. Dette resulterer i dannelsen av et depot hvorfra IDeg
+kontinuerlig og langsomt absorberes over i sirkulasjonen, noe som gir en flat og stabil
+glukosenedsettende effekt av IDeg.
+Dosering
+Subcutan administrering 1 gang daglig når som helst i løpet av dagen, fortrinnsvis på samme
+tidspunkt hver dag. Anbefalt daglig startdose er 10 enheter, etterfulgt av individuelle
+dosejusteringer.
+Bivirkninger
+Hypoglykemi er den hyppigst rapporterte bivirkningen.
+
+For ytterligere informasjon henvises det til preparatomtalen for Tresiba (1).
+1.3.3 Komparator
+Basert på avsnittene over mener Legemiddelverket at relevant komparator for denne
+metodevurderingen er NPH-insulin.
+1.3.4 Behandling med NPH-insulin
+Det er flere produsenter som markedsfører NPH-insulin.
+
+ID 16/13823
+
+29-05-2019
+
+side 17/59
+
+
+
+Indikasjon
+Behandling av diabetes mellitus
+ Virkningsmekanisme
+Insulin letter opptaket av glukose ved å binde seg til insulinreseptorer i muskel- og fettceller, og
+hemmer også utskillelsen av glukose fra leveren. NPH-insulin har middels lang virketid.
+Virkningstiden er intra- og interindividuell. Gjennomsnittlig virkningsprofil etter s.c. injeksjon:
+Innsettende effekt innen 1 ½ time, maks. effekt i løpet av 4-12 timer, virkningens totale varighet
+er ca. 24 timer. Denne virkningsprofilen er for Insulatard (4), som er den mest brukte NPHinsulinen i Norge. Det er beskrevet noe ulike virkningsprofiler for de ulike NPH-insulinene.
+Dosering
+Individuell dosering
+ Bivirkninger
+Hypoglykemi er den hyppigst rapporterte bivirkningen ved bruk av NPH-insulin
+For ytterligere informasjon henvises det til preparatomtalen for Insulatard, Humulin NPH og Insuman
+Basal (5).
+
+ALVORLIGHETSGRAD OG PROGNOSETAP
+Det faglige kriteriet om kostnadseffektivitet i legemiddelforskriften sier at kostnadene skal stå i
+et rimelig forhold til nytten av behandlingen. Hva som er rimelig kan avhenge av sykdommens
+alvorlighetsgrad. Da kan det være nyttig å benytte en kvantitativ metode for å gradere
+alvorligheten for pasienter med T2DM. Dette krever imidlertid en økonomisk modell som
+modellerer hele pasientenes livsløp, slik at man kan beregne antall tapte gode leveår for pasienter
+som mottar dagens standardbehandling i et livstidsperspektiv. Innsendt modell har et ett års
+perspektiv og ikke livstidshorisont. Modellen er derfor lite egnet til å gjøre beregninger av
+alvorlighetsgrad. Imidlertid har Legemiddelverket metodevurdert flere andre legemidler til pasienter
+med T2DM hvor det er beregnet en alvorlighetsgrad for sykdommen ut i fra dagens behandling.
+Beregningene tilsier et absolutt prognosetap på ca. 5 QALY for pasienter med T2DM.
+
+ID 16/13823
+
+29-05-2019
+
+side 18/59
+
+2 DOKUMENTASJON FOR Å VISE RELATIV EFFEKT
+OVERSIKT OVER RELEVANTE, INNSENDTE STUDIER
+De pivotale studiene til IDeg ved T2DM, inkluderer fem randomiserte, kontrollerte, åpne studier mot
+insulin glargin (IGlar). Studiene som undersøker effekt og sikkerhet av IDeg vs IGlar ved T2DM er
+summert i Tabell 4.
+Tabell 4: Pivotal studier av IDeg ved T2DM, kilde Novo Nordisk
+
+Ettersom pivotalstudiene for IDeg ikke ble gjort mot den komparatoren som blir benyttet som
+standard i norsk klinisk praksis (NPH-insulin), har Novo Nordisk gjort et systematisk litteratursøk (SLR)
+for å finne studier til en sammenlikning av IDeg versus NPH-insulin. Det ble ikke funnet noen direkte
+sammenlignende studier mellom IDeg og NPH-insulin. Imidlertid ble det funnet 4 studier som
+sammenligner IDeg og IGlar og 8 studier som sammenligner IGlar og NPH- insulin. Dette var alle fase
+III studier og alle foruten en, var av åpent design. For sammenligningen IDeg vs IGlar ble det i de
+aktuelle studiene funnet non-inferiority for de fleste kliniske endepunkt, for eksempel for HbA1c.
+Imidlertid viste IDeg lavere antall bekreftede behandlingsutløste hypoglykemiske episoder enn IGlar.
+Studiene hadde «treat to target» design, det vil si at insulindosen titreres for å oppnå et
+prespesifisert behandlingsmål. Alle pasientene i alle armer behandles altså ned til samme mål for
+
+ID 16/13823
+
+29-05-2019
+
+side 19/59
+
+HbA1c. Det gis ingen standard dose av legemidlene, men pasienten doseres individuelt inntil de når
+behandlingsmålet i studien, uansett legemiddel. Et slikt design gjør at det oppnås sammenlignbart
+nivå for HbA1c med ulike insuliner, og det er derfor ikke forventet å finne noen forskjell mellom
+insulinene for HbA1c. Frekvensen av hypoglykemier kan imidlertid være forskjellig.
+I litteratursøket ble det også identifisert to metaanalyser av IGlar vs. NPH-insulin, en av disse var en
+systematisk oversikt fra Cochrane (6) og den andre en metaanalyse gjennomført av de kanadiske
+legemiddelmyndighetene (7). Begge metaanalysene viser tilsvarende blodsukkerkontroll mellom
+IGlar og NPH-insulin. Den systematiske oversikten fra Cochrane viste ingen signifikante forskjeller i
+utfall som mortalitet, morbiditet eller livskvalitet mellom IGlar og NPH-insulin, men en mulig
+reduksjon i nattlige symptomatiske hypoglykemier til fordel for IGlar.
+Med bakgrunn i disse studiene antar Novo Nordisk likeverdighet mellom IGlar og NPH-insulin, dvs at
+de lar resultatene fra IGlar- armen fra de randomiserte kontrollerte studiene av IDeg vs IGlar
+representer NPH-insulin i modellen.
+Input-data til den helseøkonomiske modellen bygger på to metaanalyser, henholdsvis Vora et al (8)
+og Ratner et al (9), som ble gjort på pasientnivådata fra 5 studier med pasienter med T2DM og to
+studier med pasienter med T1DM. Alle studiene sammenligner behandling med IDeg versus IGlar.
+Legemiddelverket har også vurdert den innsendte DEVOTE-studien, da denne studien har
+kardiovaskulære endepunkt, dobbeltblindet studiedesign og lengre behandlingsvarighet enn de
+øvrige studiene.
+
+Tabell 5: Oversikt over relevante, innsendte studier
+
+Studie (akronym, id nr.)
+
+Populasjon
+
+Intervensjon
+
+Sammenlikning/
+kontrollarmen
+
+Primære utfallsmål
+
+Ratner 2013 (9)
+Hypoglycaemia risk with
+insulin degludec compared
+with insulin glargine in
+type 2 and type 1
+diabetes: a pre-planned
+meta-analysis of phase 3
+trials
+Vora 2014 (8)
+Insulin Degludec Versus
+Insulin Glargine in Type 1
+and Type 2 Diabetes
+Mellitus: A Meta-Analysis
+of Endpoints in Phase 3a
+Trials
+DEVOTE studien (10)
+Efficacy and Safety of
+Degludec versus Glargine
+in Type 2 Diabetes
+
+Pasienter med type
+1 eller type 2
+diabetes (n=4330),
+pre-definert
+metaanalyse av 7
+randomiserte
+kontrollerte studier
+
+Insulin
+Degludec, se
+spesifikke
+studier for
+ytterligere
+informasjon
+
+Insulin Glargine, se
+spesifikke studier
+for ytterligere
+informasjon
+
+Bekreftet episode
+med hypoglykemi,
+
+Pasienter med type
+1 eller type 2
+diabetes, predefinert metaanalyse
+av 7 randomiserte
+kontrollerte studier
+(6 studier inkludert)
+Pasienter med type
+2 diabetes med høy
+risiko for
+kardiovaskulære
+hendelser (n=7500)
+
+Insulin
+Degludec, se
+spesifikke
+studier for
+ytterligere
+informasjon
+
+Insulin Glargine, se
+spesifikke studier
+for ytterligere
+informasjon
+
+HbA1c, FPG,
+insulindose, rate av
+hypoglykemi
+
+Insulin
+Degludec, se
+spesifikke
+studier for
+ytterligere
+informasjon
+
+Insulin Glargine, se
+spesifikke studier
+for ytterligere
+informasjon
+
+Tid fra
+randomisering til
+første tilfelle av
+MACE1
+Kardiovaskulær død,
+ikke fatalt
+hjerteinfarkt, ikke
+fatalt hjerneslag2
+
+1
+
+Major Adverse Cardiovascular Event
+
+2
+
+Time Frame: From randomisation to individual end of trial date (maximum patient year observation: 2.75 years)
+
+Sekundære
+utfallsmål
+
+Alvorlige
+hypoglykemiske
+hendelser
+
+Tabell 6: Studier inkludert i metaanalysen til Vora et al:
+
+Vora et al., som benyttes i den helseøkonomiske analysen, inkluderer fire av de fem pivotale
+studiene av IDeg vs. IGlar ved T2DM, se tabell over. Den siste av de pivotale studiene som er
+beskrevet i innlevert dokumentasjon, Meneghini et. al (11), er ekskludert fra metaanalysen. Denne
+studien undersøker fleksibel dosering av IDeg og er ekskludert fra metaanalysen på grunn av de store
+variasjonene i de daglige doseringsintervallene (8).
+Også i Ratner et al., som benyttes i den helseøkonomiske analysen, er behandlingsarmen med
+fleksibel dosering av IDeg, fra Meneghini et al (11), ekskludert med den begrunnelse at dette ikke
+reflekterer den tiltenkte kliniske bruken av IDeg, utover dette er de samme studiene inkludert som i
+Vora et al (9).
+
+LEGEMIDDELVERKETS VURDERING AV INNSENDT KLINISK DOKUMENTASJON
+Legemiddelverket bruker den samme antagelsen som Novo Nordisk i egne analyser, om at
+resultatene fra IGlar-armen, fra de randomiserte kontrollerte studiene av IDeg vs. IGlar, representer
+NPH-insulin i modellen. Legemiddelverket baserer dette på de to identifiserte metaanalysene (6, 7),
+hvor resultatene fra den systematiske oversikten fra Cochrane tillegges mest vekt. Det er ikke vist
+signifikante forskjeller i utfall som mortalitet, morbiditet eller livskvalitet mellom IGlar og NPHinsulin.
+Videre bruker Legemiddelverket den samme antagelsen som Novo Nordisk om at IDeg og
+komparator gir lik reduksjon i HbA1c. De randomiserte, kontrollerte, «treat-to-target» studiene viste
+at forbedringen i HbA1c med IDeg ikke var dårligere enn («non-inferior») med IGlar. Videre viser
+DEVOTE-studien samme reduksjon i HbA1c etter 2 år for IDeg og IGlar, og ingen signifikant forskjell i
+kardiovaskulær sikkerhet mellom gruppene(10).
+Legemiddelverket har imidlertid flere innvendinger til sammenligningen av frekvensen av
+hypoglykemiske hendelser mellom IDeg og komparator og relevansen av resultatene for dette
+endepunktet i norsk klinisk praksis , se kapittel 3.4.1.
+
+16/13823
+
+29-05 2019
+
+side
+22/59
+
+Legemiddelverket anser at kort varighet (26-52 uker) og åpent design er en svakhet ved studiene i
+det kliniske utprøvningsprogrammet av IDeg. Det er riktig nok et argument for åpent design at det er
+vanskelig å blinde de ulike injeksjonspennene. Allikevel er et åpent design særlig uheldig ved måling
+av subjektive endepunkter som symptomatiske hypoglykemier, da studiedeltagerne kan la
+kunnskapen om hvilken type behandling de mottar påvirke deres oppfatning av effekten av
+produktet. Dette har også har blitt kritisert av NICE (Tahrani et al., 2012)(16).
+
+16/13823
+
+29-05 2019
+
+side
+23/59
+
+3 PICO3
+PASIENTPOPULASJONEN
+Den kliniske parameteren som benyttes i den helseøkonomiske modellen fra de kliniske studiene av
+IDeg, er frekvensen av hypoglykemier. For å vurdere hvorvidt pasientpopulasjonen i de kliniske
+studiene er relevante, er det hensiktsmessig å vurdere sentrale inklusjons/eksklusjons kriterier i
+forhold til hva som praktiseres i norsk klinisk praksis.
+Norsk klinisk praksis
+Insulin anbefales ifølge norske retningslinjer til alle T2DM pasienter hvis HbA1c > 86 mmol/mol (10
+%), fastende blodsukker > 15 mmol/l eller ved betydelige symptomer på hyperglykemi. Videre
+anbefales det å velge insulin hvis det er behov for å senke HbA1c mer enn 22 mmol/mol (2 %-poeng)
+(2).
+I norsk klinisk praksis forsøkes det i hovedsak å oppnå blodsukkerkontroll med andre antidiabetika
+før det startes insulinbehandling ved T2DM. Ifølge retningslinjene er det kun hos pasienter med
+betydelig behov for blodsukkerreduksjon at insulin benyttes, da dette er behandlingsalternativet som
+har størst potensiale for å redusere blodsukkeret (2).
+De nasjonale faglige retningslinjene foreslår at metformin kontinueres i samtlige
+kombinasjonsregimer, så sant metformin kan tolereres og nyrefunksjonen ikke er for dårlig.
+Innsendt klinisk dokumentasjon (i forhold til klinisk praksis)
+Orale antidiabetika var grunnbehandling hos samtlige pasienter i tre av de fem pivotale studiene av
+IDeg vs IGlar, se tabell 4 kapittel 2.
+Tabellen under viser inklusjonskriterium for HbA1c og behandlingsmål for FBG i de fem studiene som
+var inkludert i metaanalysene til Vora et al og Ratner et al, og for DEVOTE-studien. I studiene hadde
+pasientene en gjennomsnittlig HbA1c på i overkant av 8 % ved baseline.
+Tabell 7: Inklusjonskriterium for HbA1c
+
+3
+
+Studie
+
+Inklusjonskriterium HbA1c
+
+Behandlingsmål
+
+Zinman 2012 (12)
+
+HbA1c: 7-10% (median/gjennomsnitt: 8,2±0,8),
+
+FBG: 3,9-4,9 mmol/L
+
+Gough 2013 (13)
+
+HbA1c: 7-10% (median/gjennomsnitt: 8,3±1,0)
+
+FBG:<5 mmol/L
+
+Onishi 2013 (14)
+
+HbA1c: 7-10% (median/gjennomsnitt: 8,5)
+
+FBG: 3.9 - <5 mmol/L
+
+Patients, Intervention, Comparator, Outcome.
+
+16/13823
+
+29-05 2019
+
+side
+24/59
+
+Meneghini 2013 (11)
+
+HbA1c: 7-10/11% (median/gjennomsnitt:
+8,4±0,9)
+
+FBG: 3,9- <5 mmol/L
+
+Garber 2012 (15)
+
+HbA1c: 7-10% etter minimum tre mnd.
+insulinbehandling (gjennomsnitt: 8,3±0,8,
+8,4±0,9)
+
+FBG: 3,9- <5 mmol/L
+
+DEVOTE studien
+(10):
+
+HbA1c ≥ 7.0% eller HbA1c <7.0% ved
+insulinbehandling med and ≥ 20 U basalinsulin
+per dag
+
+FBG: 4-5 mmol/L (5-7
+mmol/L i en mer
+sårbar pasientgruppe)
+
+Innsendt modell:
+Pasientpopulasjonen i innsendt modell består av T2DM-pasienter på gruppenivå, og dekker både
+pasienter som kun trenger basalinsulin, det vil si en eller annen form for langtidsvirkende insulin som
+vanligvis administreres en eller to ganger daglig, og pasienter som benytter basal-bolusregime, det vil
+si hurtigvirkende insulin (bolus) administrert flere ganger daglig (gjerne i forbindelse med matinntak)
+i tillegg til basalinsulin. I modellen ligger oral behandling i bunn.
+Pasientene i modellen har på gruppenivå ikke noen spesielle utfordringer med hverken dårlig kontroll
+av blodsukkeret, hyppige hypoglykemier eller med å gjennomføre administrasjon av
+insulininjeksjonene til faste tider.
+Legemiddelverkets vurdering
+Inklusjonskriterium for HbA1c i studiene som inngår i metaanalysene til Vora et al og Ratner et al
+inkluderer pasienter med baseline karakteristika som avviker noe fra de som vil bli behandlet med
+basalinsulin i norsk klinisk praksis. Dette er pasienter som først og fremst ville bli behandlet med
+perorale antidiabetika i Norge (2). I tillegg er behandlingsmålene for fastende blodglukose i studiene
+lavere enn det som praktiseres i norsk klinisk praksis der det er flere pasienter som får et justert mål
+for blodglukose basert på individuelle forhold, se punkt 1.3. I studiene hadde pasientene en
+gjennomsnittlig HbA1c på i overkant av 8 % ved oppstart av insulinbehandling. I følge en publisert
+studie (17) og erfaring fra norske klinikere er dette antagelig lavere enn det som gjelder for den
+pasientpopulasjonen som vil være aktuell for behandling i norsk klinisk praksis. Dessuten bekrefter
+norske klinikere at det nok er vanligere med behandlingsmål FPG<6 mmol/l i klinisk praksis enn <5
+mmol/l som ble brukt i flere av de kliniske studiene. Inklusjonskriterium for HbA1c og
+behandlingsmål i de kliniske studiene av IDeg vs IGlar er således satt på en slik måte at man antagelig
+vil observere en høyere frekvens av hypoglykemier i studiene enn det som er tilfelle i norsk klinisk
+praksis.
+
+16/13823
+
+29-05 2019
+
+side
+25/59
+
+INTERVENSJON
+Norsk klinisk praksis
+I Preparatomtalen (SPC) for IDeg beskrives anbefalt bruk slik: «subkutan administrering én gang
+daglig når som helst i løpet av dagen, fortrinnsvis på samme tidspunkt hver dag»(1).
+Fleksibilitet i valg av administreringstidspunkt tillates når det ikke er mulig å administrere ved samme
+tidspunkt hver dag. Norske klinikere anbefaler pasientene sine å administrere IDeg til samme tid hver
+dag -/+2 timer, da det er ønskelig at diabetespasienter lever så regelmessig som mulig for å holde
+god blodsukkerkontroll. Fleksibilitet i doseringstidspunkt er diskutert ytterligere i punkt 3.4.3.
+Videre fremkommer det i SPCen følgende om dosejustering: «Overgang fra andre insulinpreparater:
+For pasienter som behandles med basalinsulin 1 gang daglig, basalbolusbehandling, eller behandling
+med blandingsinsulin eller selvblandet insulin, kan overgangen fra basalinsulin til IDeg gjøres enhet
+for enhet basert på tidligere basalinsulindose, etterfulgt av individuelle dosejusteringer. En
+dosereduksjon på 20% av den tidligere dosen med basalinsulin bør vurderes ved overgang fra
+basalinsulin 2 ganger daglig og ved overgang fra insulin glargin (300 E/ml), etterfulgt av individuell
+dosejustering (1).»
+Noen pasienter med T2DM får i dag IDeg eller andre langtidsvirkende insulinanaloger ved individuell
+stønad. HELFO bekrefter at de vanligste årsakene til individuell stønad av langtidsvirkende
+insulinanaloger er variasjon i blodsukker og hyppige hypoglykemiske episoder ved bruk av NPH insulin.
+Innsendt klinisk dokumentasjon (i forhold til klinisk praksis)
+Studiene av IDeg hadde et «treat to target» design, det vil si at insulindosen titreres for å oppnå et
+prespesifisert behandlingsmål. Behandlingsmålet for fastende blodsukker i studiene er et lavere nivå
+på blodglukose enn det som er aktuelt i norsk klinisk praksis for de fleste pasienter (2).
+Metaanalysen til Vora et al rapporterer en lavere insulindose av IDeg i forhold til IGlar (8), men i de
+publiserte studiene med direkte sammenlikninger mellom IDeg og IGlar var det ikke konsistent lavere
+doser av IDeg i forhold til IGlar. I DEVOTE studien var dosen høyere (2 enheter) for IDeg enn for IGlar
+(10).
+IDeg ble administrert daglig i forbindelse med kveldsmåltidet i samtlige av pivotalstudiene, bortsett
+fra i Meneghini et al hvor et fleksibelt doseringsregime med 8-40 timers intervaller mellom
+insulindosene av IDeg ble undersøkt.
+Innsendt modell (i henhold til klinisk dokumentasjon og klinisk praksis)
+Dosering av IDeg og komparator i modellen er hentet fra metaanalysen til Vora et al (8). Dette
+innebærer at Novo Nordisk antar en lavere insulindose for IDeg enn for NPH-insulin i modellen.
+
+16/13823
+
+29-05 2019
+
+side
+26/59
+
+Legemiddelverkets vurdering
+Legemiddelverket benytter Novo Nordisks antagelse om insulindoser fra Vora et al. i den
+helseøkonomiske hovedanalysen. I Vora et al er det vist en lavere insulindose av IDeg i forhold til
+IGlar, men det er ikke kjent om en tilsvarende dosereduksjon er relevant i forhold til NPH-insulin.
+Videre er en lavere dose for IDeg sammenlignet med IGlar ikke observert i DEVOTE-studien og ikke
+beskrevet i Ratner et al. Det fremgår heller ikke av preparatomtalen til IDeg at en slik dosejustering
+er relevant for pasienter som behandles med NPH-insulin en gang daglig, og som skal bytte til IDeg.
+En scenarioanalyse med lik insulindose for IDeg og komparator gir høyere ICER, se kapittel 4.2.3.
+Basert på norsk klinisk praksis mener Legemiddelverket at IDeg sannsynligvis vil bli dosert i henhold
+til anbefalingene i preparatomtalen, dvs fortrinnsvis til samme tidspunkt hver dag.
+
+KOMPARATOR
+Norsk klinisk praksis
+I Norge er det kun basalinsulin av typen NPH- insulin som har forhåndsgodkjent refusjon til T2DM i
+dag, dette anses derfor som den relevante komparatoren i denne metodevurderingen.
+Dosering av NPH-insulin er individuell og fastsettes i overensstemmelse med behandlingsmålet for
+den enkelte pasient. Legen avgjør om det er nødvendig med én (OD) eller to daglige (BID) injeksjoner.
+Norske klinikere opplyser at en pasients insulinbehov kan variere gjennom døgnet. En fordel med
+NPH-insulin, er at det kan administreres doser av ulik størrelse morgen og kveld ved behov. Norske
+klinikere anslår at det kan være ca. 25%, maks 40%, som har behov for to doser NPH-insulin for å
+dekke sitt insulinbehov gjennom et døgn. Imidlertid påpeker klinikerne at det er vanskelig å anslå
+nøyaktig hvor stor andel av de norske T2DM pasientene som administrerer NPH-insulin i en versus to
+doser daglig.
+Innsendt klinisk dokumentasjon (i forhold til klinisk praksis)
+Ifølge Novo Nordisk finnes det ikke presise norske tall på hvor stor andel av T2DM pasientene som
+står på NPH-insulin som doserer dette to ganger daglig. Novo Nordisk velger derfor å benytte
+europeiske data hentet fra «data on file» fra en observasjonsstudie kalt PREDICTIVE (18). PREDICTIVE
+er en europeisk, multinasjonal, prospektiv observasjonsstudie fra ca. år 2007 som undersøker effekt
+og sikkerhet av insulin detemir hos T1DM og T2DM pasienter. Studien inkluderte pasienter som
+behandlende lege mente hadde problemer med nåværende insulinbehandling og som dermed hadde
+behov for å bytte til insulin detemir. Etter det Legemiddelverket erfarer er det ikke gjort systematisk
+litteratursøk for å finne kilder til fordelingen av OD vs. BID for NPH-insulin.
+Innsendt modell (i henhold til klinisk dokumentasjon og klinisk praksis)
+Følgende fordeling av basalinsulin OD vs BID ble funnet i PREDICTIVE-studien og benyttes i modellen:
+
+16/13823
+
+29-05 2019
+
+side
+27/59
+
+Tabell 8: Klide Novo Nordisk
+
+Novo Nordisk antar at 73,9 % av NPH-insulin brukerne, som ikke bruker bolus insulin, deler dosen i to
+administrasjoner daglig.
+Legemiddelverkets vurdering
+Legemiddelverket mener det er flere forhold ved PREDICTIVE studien som gjør denne uegnet til å
+anslå andelen BID vs. OD NPH-insulin i den populasjonen som er aktuell i denne metodevurderingen.
+Studiepopulasjonen i PREDICITVE skiller seg fra populasjonen som er aktuell i denne
+metodevurderingen, og som modelleres i den økonomiske modellen. PREDICTIVE inkluderte en
+studiepopulasjon som var suboptimalt behandlet med insulin. Dette er en snevrere populasjon enn
+den generelle T2DM populasjonen som er omfattet av denne metodevurderingen. Pasientene var
+insulin naive i fire av de fem pivotalstudiene til IDeg (BEGIN-studiene) som er
+dokumentasjonsgrunnlag i denne metodevurderingen. Videre er PREDICTIVE fra ca. år 2007, noe som
+gjør den noe mindre relevant for dagens behandlingssituasjon hvor det finnes flere ulike strategier
+for blodsukkersenkning til pasienter med T2DM enn det som var tilgjengelig i 2007.
+Norske klinikere er usikre på nøyaktig hvilken fordeling av BID vs. OD som eksisterer i norsk klinisk
+praksis, men gir et estimat på ca. 25 - 40 % på BID-dosering. Norske klinikere svarer følgende på
+spørsmål om to administrasjoner med NPH-insulin:
+«Råd og praksis varierer sterkt og det vitenskapelige grunnlaget for rådene er svakt.
+Injeksjonspennene har jo maks-doser i området 60-80 E/injeksjon (opp til 160 E/injeksjon ved for
+eksempel Tresiba 200 E/ml), om selv om flere doser kan gis like etter hverandre vil mange bruke
+anledningen til å gi morgen og kveldsdose når mer enn en injeksjon trengs, særlig av NPH-insulin.»
+Legemiddelverket anser at firmaets estimat på andel BID vs. OD NPH-insulin ikke er godt nok
+begrunnet med innlevert dokumentasjon og heller ikke sammenlignbar med dagens kliniske praksis i
+Norge. Legemiddelverket benytter isteden norske klinikeres anslag på andel med to daglige
+doseringer, og lar 40% av pasientene få insulinet dosert to ganger daglig i Legemiddelverkets
+hovedanalyse. Dette estimatet ligger under Novo Nordisk anslag på om lag 74 %, men samtidig i øvre
+grense av klinikernes antagelser.
+
+16/13823
+
+29-05 2019
+
+side
+28/59
+
+UTFALLSMÅL
+3.4.1 Effekt
+Novo Nordisk inkluderer fordeler av IDeg vs. komparator for følgende parametere i modellen:
+ Hypoglykemier
+ Fleksibel dosering
+ Egenmåling av blodsukker
+Det er kun ett av disse utfallsmålene, hypoglykemier, som er dokumentert med kliniske data fra
+studieprogrammet til IDeg.
+Innsendt klinisk dokumentasjon
+Den kliniske dokumentasjonen som er innsendt for å dokumentere effekt av IDeg sammenliknet med
+IGlar er fem «treat to target» studier, samt to predefinerte metaanalyser for å undersøke frekvensen
+av ulike former for hypoglykemier. Legemiddelverket har også identifisert DEVOTE-studien som
+relevant for å vurdere effekt av IDeg, da denne har relevante harde endepunkter. DEVOTE- studien
+ble publisert kort tid etter at Legemiddelverket mottok dokumentasjonspakken fra Novo Nordisk og
+er beskrevet i søknaden fra juni 2017. Samtlige studier rapporterer sammenliknbar effekt av IDeg og
+IGlar med tanke på blodsukkerkontroll. Studiene viser også en viss reduksjon av enkelte typer
+hypoglykemi ved behandling med IDeg. Studiene er presentert i kapittel 2.1.
+I tillegg er det også innsendt dokumentasjon for effekt av IDeg behandling som ikke stammer fra
+kliniske studier på IDeg, men som støtter seg på en rekke andre referanser fra ulike kilder, dette
+gjelder blant annet for dokumentasjon av verdien av fleksibilitet i doseringstidspunkt og redusert
+antall blodsukkermålinger. Disse er beskrevet i nærmere detalj nedenunder.
+Hypoglykemi:
+Hypoglykemi er en vanlig komplikasjon ved diabetesbehandling med insulin. Det oppstår når
+blodsukkeret blir for lavt og det vil oppstå symptomer som gir ubehag hos pasienten. Symptomene
+kan være svette, skjelvinger, hjertebank, forvirring og i verste fall, ved alvorlige hypoglykemier,
+bevisstløshet og død. Mange diabetikere opplever også frykt for hypoglykemi (19). Definisjon av
+hypoglykemier som er brukt i studiene på IDeg er presentert i tabellen under.
+Tabell 9: Definisjon av hypoglykemier brukt i studiene av IDeg (hentet fra Ratner et al):
+
+16/13823
+
+29-05 2019
+
+side
+29/59
+
+Forekomsten av hypoglykemier hos T2DM pasienter er svært lav i pivotalstudiene til IDeg og IGlar.
+For å belyse alvorlighet og frekvens av hypoglykemiske hendelser hos T2DM pasienter, har Novo
+Nordisk i den innleverte refusjonssøknaden beskrevet problemet ved bruk av også andre kilder enn
+egne studier. Når det gjelder frekvensen av alvorlige og ikke-alvorlige hypoglykemier hos T2DM
+pasienter viser Novo Nordisk til Donnelly et. al (20). Der refereres det til en årlig frekvens på 16 ikkealvorlige hypoglykemier og en alvorlig episode hvert 3. år for T2DM pasienter. Hypoglykemier er en
+langt større utfordring ved T1DM enn ved T2DM, både ifølge refererte artikler og ifølge norske
+klinikere.
+Videre beskriver Novo Nordisk i sin søknad problemer rundt nattlige hypoglykemier basert på
+observasjoner fra følgende artikler:
+1. Nocturnal hypoglycemia: clinical manifestations and therapeutic strategies toward
+prevention, 2003 (21): Beskriver frekvensen av hypoglykemier hos barn og voksne med
+T1DM.
+2. Induction of hypoglycemia unawareness by asymptomatic nocturnal hypoglycemia, 1993
+(22): Beskriver “hypoglycemia unawareness” hos pasienter med T1DM
+3. Dead-in-Bed Syndrome in Young Diabetic Patients, 1999 (23): Beskriver nattlig hypoglykemi
+som dødsårsak hos unge pasienter med T1DM.
+Samtlige av disse artiklene omhandler pasienter med T1DM. Legemiddelverket mener det er urimelig
+å overføre observasjoner fra denne populasjonen til pasienter med T2DM i norsk klinisk praksis.
+Estimatet på at opptil 50% av voksne pasienter opplever nattlige hypoglykemier er således et estimat
+basert på feil pasientpopulasjon og ikke relevant for denne metodevurderingen. Videre blir estimatet
+på at nattlige hypoglykemier hos unge diabetikere (under 40 år) på 6% av samtlige dødsfall i denne
+gruppen også en irrelevant observasjon. Imidlertid benyttes ikke data fra disse kildene inn i den
+økonomiske modellen, hvilket legemiddelverket mener er rimelig.
+Frekvensen av hypoglykemier var lav i samtlige av pivotalstudiene for IDeg, forskjellene mellom
+frekvensen av hypoglykemier ved behandling med IDeg og IGlar er kun signifikant bedre i IDeg armen
+for enkelte typer hypoglykemier og kun i noen av studiene. I metaanalysene, der resultatene fra
+enkeltstudiene er sammenslått slik at antallet observasjoner øker, vises en signifikant lavere samlet
+hypoglykemifrekvens ved behandling med IDeg. Metaanalysene var predefinerte.
+Totalt antall bekreftede hypoglykemier og alvorlige hypoglykemiske hendelser ble analysert i
+metaanalysen Ratner et al. (9):
+Ratner er al. analyserer totalt antall bekreftede hypoglykemier, nattlige hypoglykemier og alvorlige
+hypoglykemier i totalpopulasjonen av pasienter med T2DM og pasienter som var insulin naive.
+
+16/13823
+
+29-05 2019
+
+side
+30/59
+
+Tabell 10: Risk/Ratio (R/R) i pasienter med T2DM (hentet fra Ratner et al.)
+
+Totalt antall bekreftede hypoglykemier var lavere i IDeg vs IGlar i totalpopulasjonen av T2DM
+pasienter og blant insulinnaive pasienter. Nattlige bekreftede hypoglykemiske hendelser var også
+lavere i IDeg vs IGlar for totalpopulasjonen av T2DM pasienter og for insulinnaive pasienter. Det ble
+ikke vist signifikante forskjeller i titreringsperioden. Blant insulinnaive pasienter var det signifikant
+lavere forekomst av alvorlige hypoglykemiske hendelser til fordel for IDeg. Det var ikke signifikant
+lavere forekomst av alvorlige hypoglykemier i totalpopulasjonen. Alvorlige hypoglykemiske hendelser
+hos pasienter med basal-bolus insulinbehandling ble ikke analysert p.g.a. få hendelser.
+Frekvensen av hypoglykemier, og spesielt alvorlige hypoglykemier, var svært lav i samtlige av
+studiene som var inkludert i metaanalysen, se tabell under.
+
+16/13823
+
+29-05 2019
+
+side
+31/59
+
+Tabell 11 : Rate (number of episodes per patient year of exposure) and incidence (% of subjects) of hypoglycaemic episodes
+in subjects with type 2 or type (hentet fra Ratner et al.)
+
+Ikke alvorlige hypoglykemiske hendelser ble analysert i Vora et al (8):
+Vora et. al rapporterer raten av ikke alvorlige hypoglykemier og ikke alvorlige nattlige hypoglykemier.
+IDeg ga signifikant lavere ratio av nattlige hypoglykemier, signifikant lavere rate av ikke alvorlige
+hypoglykemier på dagtid hos pasienter som behandles med basal-bolus insulin.
+
+16/13823
+
+29-05 2019
+
+side
+32/59
+
+Fleksibel dosering:
+I søknaden fra Novo Nordisk hevdes det en effekt på livskvalitet av en mulighet for fleksibilitet i
+doseringstidspunktet for insulin injeksjon basert på observasjoner fra en «time trade off studie» av
+Evans et al. Studien er beskrevet nærmere i punkt 3.4.3.
+Muligheten til å dosere IDeg fleksibelt (ved varierende tidspunkt fra dag til dag) ble undersøkt i
+Meneghini et al. (11). Studien viste sammenliknbar effekt på HbA1c ved fast og fleksibel dosering av
+IDeg og fast dosering av IGlar, samt ingen signifikant forskjell i hypoglykemiske hendelser mellom de
+tre behandlingsregimene. Studien er ekskludert i sin helhet fra metaanalysen til Vora et al. og
+behandlingsarmen med fleksibel dosering er ekskludert fra Ratner et al.
+Egen måling av blodsukker:
+I den innsendte søknaden hevder Novo Nordisk at pasientene ideelt sett skal måle blodsukker før
+hver insulininjeksjon, med henvisning til nettstedet til en konkurrerende insulin-produsent. Novo
+Nordisk hevder videre at det er en lavere rate av egenmålinger av blodsukker ved bruk av IDeg enn
+NPH-insulin.
+Legemiddelverket har spurt norske klinikere hva som er en vanlig frekvens av blodsukkermålinger
+ved behandling av T2DM pasienter med insulin og har fått følgende svar på hva som ansees som
+normalt forbruk ved stabil sykdom:
+«Jeg kjenner ikke til gode undersøkelser av dette og det må bli skjønn fra min side. Ved stabil sykdom
+er det rimelig at pasienten måler rutinemessig to ganger i uka og i tillegg et par ganger ved behov.
+Men det er selvsagt grunn til å tillate individuelle variasjoner i behov, i hvert fall opp til 2-3 ganger
+denne frekvensen. Altså vanlig behov 4 x/uke – inntil 8-12 x/uke.»
+Norske klinikere ble videre spurt om «Hva er et rimelig anslag for antall målinger (ved stabil sykdom)
+per dag ved bruk av langtidsvirkende insulinanalog (eks Lantus og Tresiba)». Klinikerne var usikre på
+om det vil være noen forskjell på antallet blodsukkermålinger for pasienter i stabil sykdomsfase som
+bruker langtidsvirkende insulinanaloger i stedet for NPH-insulin når begge doseres en gang daglig. En
+kliniker uttalte følgende:
+«Selv om hypoglykemiforekomsten er noe lavere vil prinsippene som gjelder for NPH-insulin også
+gjelde for disse insulinene. Det kan av nevnte grunn likevel bli noe færre «behovsinduserte målinger» 20-40%?»
+Det er finnes så vidt Legemiddelverket kjenner til, ikke sikre norske tall for hvor stor en eventuell
+reduksjon i antallet blodsukkermålinger skulle være.
+Klinikerne Legemiddelverket har konsultert, mener imidlertid at å dele NPH-insulin dosen i to vil
+generere noe økt antall målinger.
+
+16/13823
+
+29-05 2019
+
+side
+33/59
+
+Innsendt modell
+Hypoglykemier
+I modellen legges det inn en frekvens av hypoglykemier per år som baseres på tall fra metaanalysene
+til Ratner et al og Vora et al (8, 9). Novo Nordisk benytter observasjoner fra kliniske data til å regne ut
+en ratio IDeg vs IGlar av antall hypoglykemier og regner så ut fra denne ratioen en forekomst av
+hypoglykemier i IDeg-gruppen. Forekomsten uttrykkes i antall hendelser per 100 personår.
+Tabell 12 Forekomst av hypoglykemier:
+
+Gruppe
+
+Rate -ratio
+(IDeg/IGlar)
+
+T2BB
+
+Observert ikke
+alvorlig hypoglykemi
+dagtid IGlar
+1175
+
+T2BOT
+
+154
+
+T2BB
+
+Observerte ikke
+alvorlig nattlig
+hypoglykemi IGlar
+183
+
+Ikke signifikant
+forskjell IDeg/IGlar
+Rate -ratio
+(IDeg/IGlar)
+
+T2BOT
+
+0,83
+
+Kalkulert antall
+hypoglykemier for
+IDeg
+975,25
+
+0,75
+
+Kalkulert antall
+hypoglykemier for
+IDeg
+137,25
+
+51
+
+0,64
+
+32,64
+
+Observert alvorlig
+hypoglykemier IGlar
+
+Rate -ratio
+(IDeg/IGlar)
+
+T2BB
+
+5
+
+T2BOT
+
+2
+
+Ikke signifikant
+forskjell IDeg/IGlar
+0,14
+
+Kalkulert antall
+hypoglykemier for
+IDeg
+5
+0,28
+
+Den utregnede forekomsten legges inn i modellen og det tilegnes kostnader og nytteverdier til
+hendelsene.
+Fleksibel dosering
+Fleksibel dosering tillegges i modellen en positiv nyttegevinst som hentes fra en studie av Evans et al
+2013 (24). Dette er omtalt i kapittel 3.4.3.
+Egenmåling av blodsukker
+I den helseøkonomiske modellen er det gjort et anslag på hvor ofte det utføres egenmålinger av
+blodsukker. I Novo Nordisk sitt base case legges det inn at pasientene som bruker BOT behandling
+
+16/13823
+
+29-05 2019
+
+side
+34/59
+
+(basalinsulin alene) måler blodsukkeret gjennomsnittlig 7 ganger i uken, uavhengig av type
+basalinsulin. I tillegg blir det hos pasienter som behandles med regimet NPH-insulin BOT, og som
+deler dosen i to injeksjoner daglig (BID), antatt at 50% av pasientene vil utføre en ekstra
+blodsukkermåling daglig i forbindelse med den ekstra injeksjonen. I basecase til Novo Nordisk blir det
+følgelig for BOT–pasientene lagt inn henholdsvis 7 målinger i gjennomsnitt for pasienter som
+administrerer en gang daglig og 10,5 målinger i gjennomsnittlig for 50% av pasientene som
+administrerer to ganger daglig. Hos pasientene som også bruker bolus insulin (BB) antar Novo
+Nordisk at behovet for blodsukkermålinger i forbindelse med administrering av denne typen
+hurtigvirkende insulin i hovedsak er det som styrer antall blodsukkermålinger med tilhørende forbruk
+av utstyr til blodsukkermåling (strips og lansetter) for disse pasientene. Novo Nordisk legger dermed
+ikke inn noe økt antall blodsukker målinger for denne gruppen, uavhengig av type bolus insulin disse
+pasientene benytter.
+Legemiddelverkets vurdering
+Hypoglykemier
+Både metaanalysene og DEVOTE-studien viser signifikant færre hypoglykemier ved bruk av IDeg
+sammenlignet med IGlar, men for alvorlige hypoglykemier viser DEVOTE studien (som er en
+dobbeltblindet studie og har lengst varighet av studiene vurdert i denne rapporten og et betydelig
+antall pasienter) ikke signifikante forskjeller i alvorlige hypoglykemier med bevisstløshet/koma eller
+kramper. Antallet alvorlige hypoglykemier i studiene er lavt (10). At det selv ikke ved å slå sammen
+resultatene i større metaanalyser og dermed få data fra en større pasientpopulasjon og et økt antall
+hendelser, kan vises større forskjell i frekvensen av hypoglykemiske hendelser, tilsier at den
+absolutte forskjellen mellom de ulike behandlingene er små. Det er alvorlige hypoglykemier som har
+den største kliniske konsekvensen og som det er lavest toleranse for i klinisk praksis. Norske klinikere
+mener at lette hypoglykemier 1-2 ganger i måneden vil tolereres av de fleste leger og pasienter,
+særlig hos insulinbrukere.
+I norsk klinisk praksis er frekvensen av hypoglykemi lav og anses ikke som en stor utfordring ved
+T2DM. De nasjonale retningslinjene anbefaler at pasientene skal titreres ned til mellom 4-6 mmol/l i
+fastende blodglukose (FBG), dette tilsvarer HbA1c = 7 % for de fleste pasienter. Imidlertid åpnes det
+for individuell justering av behandlingsmålene f.eks. ved risiko for hypoglykemi (2). Hvis en pasient
+opplever hypoglykemi ved FBG 4 mmol/l i klinisk praksis vil man ofte endre målet for fastende
+blodsukker til f.eks. 6 mmol/l for å unngå hypoglykemier. Behandlingsmålene i de innsendte studiene
+avviker derfor noe fra det som praktiseres i norsk klinisk praksis. I de relevante IDeg-studiene er
+målet for FBG lavere enn det som er satt i retningslinjene og det som praktiseres i norsk klinisk
+praksis.
+Studiene er ofte designet slik at man titrerer blodglukosenivået ned til et nivå som er ganske nært
+det nivået man definerer som en hypoglykemi, f.eks. om man titrere ned til 4 og definerer en
+hypoglykemi til litt over 3 slik som er tilfelle i studiene på IDeg. Dette medfører antagelig at det vil
+observeres en høyere frekvens av hypoglykemier i studiene enn det som er tilfelle i norsk klinisk
+praksis. Noen pasienter med T2DM får i dag IDeg eller andre langtidsvirkende insulinanaloger på
+
+16/13823
+
+29-05 2019
+
+side
+35/59
+
+individuell stønad. HELFO bekrefter at de vanligste årsakene til individuell stønad av langtidsvirkende
+insulin er variasjon i blodsukker og hyppige hypoglykemiske episoder.
+Forekomsten av hypoglykemier vil derfor sannsynligvis være høyere i de kliniske studiene enn det
+man kan forvente i norsk klinisk praksis der det praktiseres mindre aggressive behandlingsmål. Dette
+støttes også av kliniske eksperter som Legemiddelverket har konsultert.
+Likevel er hypoglykemier en kjent bivirkning ved insulinbehandling, og Novo Nordisk har vist en
+redusert forekomst av hypoglykemier ved behandling med IDeg vs IGlar i studiene som lå til grunn for
+markedsføringstillatelsen av IDeg ved T2DM. Legemiddelverket er ikke kjent med at det finnes sikre
+tall for forekomsten av hypoglykemier blant T2DM pasienter som behandles med basalinsulin i norsk
+klinisk praksis. Legemiddelverket bruker derfor det samme estimatet som Novo Nordisk på antall
+hypoglykemier i hovedanalysen, basert på metaanalysene til Ratner et al og Vora et al, selv om dette
+vurderes å være et høyt antall for norsk klinisk praksis. Dette gir usikkerhet i Legemiddelverkets
+analyse. Et scenario med lavere frekvens av hypoglykemier og effekten av dette på ICER belyses i
+sensitivitetsanalyser, se kapittel 4.2.3.
+Egenmåling av blodsukker
+Legemiddelverket mener at antallet egenmålinger av blodglukose i norsk klinisk praksis er noe lavere
+enn det som er antatt av Novo Nordisk.
+Novo Nordisk legger til grunn at alle T2DM pasientene som behandles med basalinsulin må utføre en
+måling daglig, og at det er en ytterligere økt frekvens av blodsukkermåling hos de pasientene som
+deler NPH-insulindosen i to administreringer daglig. For å underbygge dette henviser Novo Nordisk til
+de nasjonale retningslinjene for diabetes (2) og en rekke kilder fra litteraturen. Kildene som det
+henvises til er av varierende kvalitet, dels er de gamle og ikke på den samme pasientpopulasjonene
+som er aktuell i denne metodevurderingen, det er et abstract, det er en webside fra en annen
+insulinprodusent og det er en lenke som ikke lenger virker, ref. Davidson et al 2005(25), Strowig et al
+1998(26), Karter et al 2001(27), Sanofi Aventis (28). Legemiddelverket kan ikke se at de nasjonale
+faglige retningslinjene for diabetes underbygger at det må utføres daglige blodsukkermålinger hos
+T2DM pasienter som får basalinsulin og som er i stabil fase av sykdommen. Tvert imot omtales
+egenkontroll av blodsukker som relevant ved oppstart og titrering av insulin, ved endring av
+legemiddelbehandlingen og når det er vanskelig å nå behandlingsmålene (2). Dette støttes også av
+klinikere Legemiddelverket har konsultert. Norske klinikere er også usikre på om antallet daglige
+blodsukkermålinger vil påvirkes i nevneverdig grad av hvorvidt pasientene bruker NPH-insulin eller
+IDeg som basalinsulin i stabil fase av sykdommen. Klinikerne anslår likevel at pasientene som
+benytter NPH-insulin to ganger daglig, kan ha behov for et noe økt antall blodsukkermålinger.
+Legemiddelverket er ikke kjent med at det finnes data på akkurat hvor mange ekstra målinger dette i
+så fall skulle generere i norsk klinisk praksis.
+I følge norske klinikere er det vanlig med to rutinemessige blodsukkermålinger i uken. I tillegg kan det
+tilkomme behovsinduserte målinger ved episoder med svingene blodsukker. Klinikerne anslår at
+pasienter med problemer med periodevis svingene blodsukker, kan utføre behovsinduserte målinger
+
+16/13823
+
+29-05 2019
+
+side
+36/59
+
+inntil 6-10 ganger per uke. Ettersom de fleste T2DM pasienter ikke har slike problemer, legger
+Legemiddelverket til grunn et gjennomsnitt på 4 behovsinduserte målinger per uke. Dette gir et snitt
+på 6 målinger (rutinemessige pluss behovsinduserte) i uken for pasienter som doserer sitt
+basalinsulin 1 gang daglig. Legemiddelverket velger på bakgrunn av det ovennevnte å redusere antall
+gjennomsnittlige blodsukkermålinger i den økonomiske modellen for alle OD basalinsulin pasientene
+fra 7 til 6 ganger per uke. Dette genererer dermed også en mindre reduksjon i målinger for de som
+bruker NPH-insulin to ganger daglig fra gjennomsnittlig 9,59 målinger ukentlig til 7,2 målinger
+ukentlig. Denne endringen gir en økning i ICER på ca 3 000 NOK. Om man legger til grunn et scenario
+med likt antall målinger for BID og OD NPH-insulin vil dette øke ICER med omtrent 30 000 NOK.
+Legemiddelverket anser at det er usikkerhet rundt dette estimatet og har utført sensitivitetsanalyser,
+se kapittel 4.2.3.
+
+Fleksibel dosering blir omtalt i punkt 3.4.3.
+
+3.4.2 Bivirkninger
+Innsendt klinisk dokumentasjon
+Studiene viste at behandling med IDeg var generelt godt tolerert og viste en sammenlignbar
+forekomst av behandlingsrelaterte bivirkninger som den som er kjent ved behandling med andre
+insuliner. IDeg hadde lavere forekomst av noen typer hypoglykemi sammenlignet med IGlar.
+Innsendt modell
+Hypoglykemier er den eneste bivirkningen som er tatt med i modellen. Det legges inn både kostnader
+og nyttetap for denne bivirkningen. Behandling med IDeg har vist en reduksjon i hypoglykemier
+sammenlignet med komparator.
+Forekomst, nyttetap og kostnader ved hypoglykemier er omtalt nærmere i henholdsvis kapittel 3.4.1,
+3.4.3 og 4.1.2.
+3.4.3 Helsenytte/helsetap
+Innsendt dokumentasjon
+Det er i flere av pivotalstudiene til IDeg målt helserelatert livskvalitet ved bruk av 36-item Short Form
+(SF-36) spørreskjema. Generelt rapporterte pasientene i disse studiene en høyere livskvalitet ved
+bruk av IDeg versus IGlar. I en prespesifisert metaanalyse fra det kliniske studieprogrammet til IDeg,
+ble det funnet at pasienter som hadde fått behandling med IDeg viste høyere livskvalitet, blant annet
+fordi de oppgav mindre kroppslig smerte og bedre vitalitet, enn pasientene som hadde fått IGlar (29).
+Disse data er ikke benyttet i den helseøkonomiske modellen.
+
+16/13823
+
+29-05 2019
+
+side
+37/59
+
+I modellen har Novo Nordisk lagt inn negative nytteverdier (nyttetap) for hypoglykemiske episoder
+og for egenmålinger av blodsukker, og en positiv nytteverdi (nyttegevinst) for fordelen av fleksibel
+dosering. Kvantitative data for nytteverdier brukt i modellen henter Novo Nordisk fra litteraturen.
+Nyttetap ved hypoglykemiske episoder:
+Novo Nordisk gjorde et systematisk litteratursøk i 2013 for å identifisere studier som rapporterte
+helserelatert livskvalitet ved hypoglykemiske episoder. Det ble søkt i følgende databaser:
+ Medline
+ Embase
+ Cochrane
+ EconLit
+I tillegg ble også en del databaser for sentrale europeiske og amerikanske kongresser, der det kunne
+finnes data på helsenytte fra studier som ikke hadde fullstendige publikasjoner, gjennomgått.
+Søket ble utført på en populasjon som omfattet voksne pasienter med T1DM eller T2DM, kombinert
+med søkeordene «(hypoglycaemia/hypoglycaemic events (including fear of hypoglycaemic events) or
+flexible dosing schedules)». Det ble søkt etter flere ulike livskvalitetsendepunkter og flere ulike
+metoder for å samle dem inn. Totalt ble det funnet 15 studier som rapporterte nytteverdier for
+diabetesrelaterte emner.
+Novo Nordisk valgte ut en studie av Evans et al. 2013 (25) og hentet nyttevekter for hypoglykemier
+fra denne. Dette begrunnes med at studien til Evans et al var den eneste i litteratursøket som
+rapporterte kvantitative verdier for nyttetap for de ulike kategorier av hypoglykemier som Novo
+Nordisk bruker i modellen. Den aktuelle studien er en «time trade off» -studie (TTO-studie) der en
+populasjon bestående av 8286 personer fra normalbefolkningen, 551 pasienter med T1DM og 1603
+pasienter med T2DM fra Tyskland, Sverige, USA og Storbritannia besvarte et web-basert
+spørreskjema for å kvantifisere nytteverdier for de ulike hypoglykemiske episodene. Respondentene
+ble spurt om hvordan de verdsatte et bytte mellom økt livslengde og forbedret helse i ulike
+helsetilstander relatert til diabetes. Definisjonene av de ulike helsetilstandene var utarbeidet på
+bakgrunn av uttalelser fra pasienter med diabetes og kliniske eksperter. Det er resultatene fra
+populasjonen med T2DM som benyttes i modellen.
+
+16/13823
+
+29-05 2019
+
+side
+38/59
+
+Figur 1: Nyttevektene for hypoglykemier estimert på bakgrunn av Evans et a 2013, kilde Novo Nordisk:
+
+Nytteverdiene per hendelse fra Evans et al. blir i modellen multiplisert med observerte antall
+hendelser i de kliniske studiene som oppgitt i metaanalysene av Ratner et al. 2013 og Vora et al. 2014
+(8, 9).
+Nyttegevinst for fleksibelt versus fast administrasjonstidspunkt:
+I preparatomtalen for IDeg står det oppgitt at legemiddelet skal administreres fortrinnsvis på samme
+tidspunkt hver dag, men at det tillates fleksibilitet når det gjelder valg av tidspunkt for administrering
+av insulinet (1). Det fremgår ikke av innlevert dokumentasjon om Novo Nordisk har gjort et
+systematisk litteratursøk for å finne nytteverdi ved fleksibel dosering. Novo Nordisk henviser til en
+annen publikasjon av Evans et al. (23). Denne publikasjonen omhandler også en studie designet som
+en web-basert spørreundersøkelse der metoden time-trade-off (TTO) benyttes for å estimere verdier
+for helserelatert livskvalitet knyttet til fleksibel insulindosering. Populasjonen i denne studien består
+av 2465 personer fra normalbefolkningen, 274 personer med T1DM og 417 med T2DM fra
+Storbritannia, Canada og Sverige. Resultatet av spørreundersøkelsen for pasienter med T2DM er
+gjengitt i tabellen under.
+Tabell 13: Forskjell i nytteverdier med fleksibel versus fast insulindosering
+
+Doseringsregime
+
+T2DM basal-oral (95 % CI)
+
+T2DM Basal-bolus (95 % CI)
+
+OD (fleksibel) vs OD (fast)
+
+0,015 (0,004 – 0,027)
+
+0,004 (-0,006 – 0,014)*
+
+OD (fleksibel) vs BID (fast)
+
+0,057 (0,040 – 0,076)
+
+0,025 (0,015 – 0,035)
+
+* Ikke statistisk signifikant
+
+Studien til Meneghini et al 2013 (26) viser ingen signifikant forskjell i hypoglykemier mellom IDeg gitt
+med fleksibel dosering vs IGlar administrert til fast tidspunkt.
+Nyttetap ved blodsukkermåling:
+Novo Nordisk benytter i den økonomiske modellen en verdi for tapt livskvalitet ved
+blodsukkermålinger på 0,0001 per test. Denne verdien hentes fra en studien av Farmer et al. 2009
+
+16/13823
+
+29-05 2019
+
+side
+39/59
+
+(27). Studien er en randomisert kontrollert studie der 453 pasienter med T2DM skulle vurdere
+hvilken nytte de kunne ha av egenkontroll av blodsukkeret for å regulere sin diabetes. Pasientene i
+studien var godt kontrollerte pasienter som behandlet sin diabetes med kost, mosjon og eventuelt
+med tillegg av orale antidiabetiske legemidler. Det var altså pasienter som ikke ble behandlet med
+insulin og dermed ikke hadde rutinemessige egenmålinger av blodsukker som en del av sitt
+behandlingsregime. Nytteverdiene ble målt med EQ-5D spørreskjema. Det er ikke levert inn noe
+systematisk litteratursøk som dokumenterer hvordan Novo Nordisk har kommet fram til kilden for
+nyttetap ved blodsukkermåling.
+
+Legemiddelverkets vurdering av innlevert dokumentasjon:
+Legemiddelverket mener at det er en svakhet at det ikke benyttes data for livskvalitet direkte fra de
+kliniske studiene som er gjort med IDeg i den økonomiske modellen. Nytteverdiene i modellen
+hentes fra svært mange ulike kilder, og for noen av kildene som benyttes synes det ikke å være gjort
+systematiske litteratursøk som dokumenterer hvordan Novo Nordisk har kommet fram til disse. Flere
+av studiene som er valgt ut er finansiert av Novo Nordisk, der også ansatte i Novo Nordisk er
+medforfattere. Ettersom mye av dokumentasjonen heller ikke er understøttet av systematiske
+litteratursøk, er det risiko for at innsendt dokumentasjon er skjevt valgt ut.
+Nyttetap ved hypoglykemier
+Det finnes flere ulike studier i litteraturen som oppgir nytte(tap)verdier av hypoglykemier, men som
+benytter andre klassifiseringer av hypoglykemier enn det Novo Nordisk gjør i den innsendte
+modellen. F.eks. er det flere studier som deler inn i «mild/minor/major» eller i «severe/non-severe»
+hypoglykemier og rapporterer kvantitative nytteverdier for disse. Ettersom Novo Nordisk benytter
+inndelingen «ikke- alvorlige hypoglykemier om natten», «ikke- alvorlige hypoglykemier på dagtid» og
+«alvorlige hypoglykemier» i den økonomiske modellen, var det kun denne ene artikkelen fra Evans et
+al (25) i litteratursøket som ifølge Novo Nordisk hadde tilstrekkelige data. Frekvensen av
+hypoglykemier i registreringsstudiene for IDeg ved T2DM er svært liten (1). Ifølge norske klinikere er
+ikke hypoglykemier noe stort problem blant norske pasienter med T2DM, se kapittel 3.4.1. Særlig er
+den kliniske betydningen av ikke-alvorlige, nattlige hypoglykemier hos gruppen vanskelig å
+bedømme.
+I den helseøkonomiske rapporten som er bakgrunnen for NICE guideline NG28 «Type 2 diabetes in
+adults: management» (28) velger NICE, etter råd fra sitt kliniske panel, å modellere uten særskilt vekt
+på nattlige, ikke-alvorlige hypoglykemier.
+Evans studien (25) som angir nyttevekter for hypoglykemier er en web- basert spørreundersøkelse
+noe som i seg selv er beheftet med fare for systematiske skjevheter i svarene da det ikke er gitt at
+det er en representativ populasjon som svarer, og respons-raten i slik undersøkelser generelt er lav.
+Hypoglykemier er i seg selv rapportert å være en belastning for pasienter med diabetes, se kapittel
+3.4.1., og det forekommer hypoglykemier også blant T2DM pasienter, selv om det for de fleste er
+
+16/13823
+
+29-05 2019
+
+side
+40/59
+
+svært sjelden. Legemiddelverket benytter de samme nytteverdiene, med tilhørende oppdeling, som
+Novo Nordisk har lagt til grunn i sin analyse. Det er grunn til å tro at frekvensen av hypoglykemier
+som benyttes er overestimert i forhold til norsk klinisk praksis, se kapittel 3.4.1. Oppdelingen av ikkealvorlige hypoglykemier i daglige og nattlige har lite å si for resultatet av den helseøkonomiske
+analysen.
+Nytteverdi av fleksibel dosering
+Nytteverdien av fleksibel dosering til pasienter med T2DM er etter Legemiddelverkets vurdering ikke
+tilstrekkelig begrunnet i den innleverte dokumentasjonen. Novo Nordisk benytter også her en studie
+av Evans et al (23) som kilde til de nytteverdiene som legges inn i modellen for nytte av fleksibel
+dosering. På samme måte som studien som er kilde til nyttevektene for hypoglykemier, er også
+denne Evans-studien beheftet med svakheter i form av å være en web-basert spørreundersøkelse.
+Studien er finansiert av Novo Nordisk og har ansatte i Novo Nordisk som medforfattere. Novo
+Nordisk har også vært involvert i studiedesignet, datainnsamlingen samt tolkningen og analyseringen
+av dataene i denne studien.
+Evans et al beskriver at pasienter kan oppleve tap av nytte ved injeksjon av insulin på to måter: i) fast
+dosering og ii) antall injeksjoner per dag. Tap av livskvalitet kan ifølge Evans begrunnes i lavere
+etterlevelse av behandling og som igjen kan medføre dårligere glykemisk kontroll og dermed
+komplikasjoner for pasienter med T2DM. Imidlertid har ikke Evans et al i denne studien undersøkt
+om fleksibel dosering har hatt påvirkning på livskvalitet grunnet bedre etterlevelse og færre
+komplikasjoner. Registreringsstudien Meneghini et al (11) som undersøkte effekten av fleksibel vs.
+fast dosering av IDeg viste sammenlignbar glykemisk kontroll og ikke signifikante forskjeller i
+frekvens på hypoglykemier mellom fleksibel dosering og fast dosering. Dette betyr at det ikke er
+dokumentert at fleksibel dosering har påvirkning på glykemisk kontroll og diabetesrelaterte
+komplikasjoner, som er et hovedargument for økt livskvalitet fra Evans et al.
+Evans et al synes å ta sikte på å undersøke om fleksibel dosering har en nytteverdi i seg selv i
+pasientenes daglige liv. Allikevel blir det ikke anført noen hypotese i studien om at dette skal ha en
+egennytte. Pasienter med T2DM oppfordres generelt til et regelmessig liv, og IDeg skal ifølge
+preparatomtalen fortrinnsvis gis til samme tidspunkt (1, 29). Norske klinikere beskriver heller ikke
+fleksibilitet i doseringstidspunktet som et tungtveiende eller mye brukt argument for å forskrive IDeg.
+HELFO angir heller ikke at utfordringer med fast dosering av NPH -insulin er benyttet som
+begrunnelse i søknader om individuell stønad til langtidsvirkende insulinanaloger. Det er derfor ikke
+dokumentasjon for at fleksibel dosering er av betydning i dagliglivet til majoriteten av pasientene
+med T2DM som behandles med insulin. Dette er heller ikke vist i Evans et al.
+Evans et al har flere metodiske svakheter som det er grunn til å tro vil påvirke resultatet av studien:
+i)
+
+Studiedeltagerne har fått beskrevet helsetilstander med medisineringen av diabetes i
+fast dosering og fleksibel dosering. I tilstanden fleksibel dosering er det beskrevet at du
+som diabetespasient kan ta behandling når du selv føler det passer: «You must give
+yourself one insulin injection each day. This can be taken at a time of your choosing».
+
+16/13823
+
+ii)
+
+iii)
+
+29-05 2019
+
+side
+41/59
+
+Denne beskrivelsen fraviker klinisk anbefaling om regelmessig liv med faste rutiner for
+T2DM (2, 29). I tillegg skal behandling med IDeg ifølge preparatomtalen tas fortrinnsvis til
+samme tidspunkt hver dag. Dette kan gi inntrykk av en større frihet fra
+sykdomspåvirkning i praktisk hverdag enn behandling med IDeg innebærer i klinisk
+virkelighet.
+Det er ikke oppgitt hvilken behandling T2DM-pasientene som deltar i studien står på. De
+fleste T2DM pasienter i norsk klinisk praksis behandles ikke med insulin, se kapittel 1.3.1.
+Det er dermed grunn til å tro at deltagerne i studien vurderer verdien av hypotetiske
+helsetilstander som til en stor del ikke er selvopplevd når de skal verdsette fleksibilitet i
+et insulinbehandlingsregime. Studier viser at normalbefolkningen har en tendens til å
+vekte utfordringer med tap av helse større enn pasienter som har den aktuelle
+sykdommen (30, 31). Dette kan gi usikkerhet i generaliserbarheten av svarene i forhold
+til den populasjonen som er aktuell for bruk av IDeg.
+Den faktoren som synes å ha størst påvirkning på nytteverdiene i Evans studien er om
+pasienten må administrere basalinsulinet to eller en gang i døgnet. Legemiddelverket
+viser til kapittel 3.3 der det beskrives at muligheten for to doseringer kan ha en
+helsemessig gevinst ved varierende insulinbehov gjennom døgnet. Dette er ikke
+adressert i Evans et al.
+
+Nytteverdien som tillegges fleksibel dosering er den viktigste parameteren i analysen til Novo Nordisk
+og har stor betydning for resultatet av de helseøkonomiske analysene. Etter Legemiddelverkets
+mening er inklusjon av denne parameterverdien ikke tilstrekkelig begrunnet i innleverte
+dokumentasjon.
+Oppsummert har Legemiddelverket i sin hovedanalyse ikke lagt vekt på nytte av fleksibilitet i
+doseringstidspunktet av følgende grunner:
+-
+
+-
+
+-
+
+-
+
+Evans argumentere med at fleksibel dosering kan føre til høyere etterlevelse i behandlingen
+og dermed bedre HbA1c og mindre komplikasjoner, men undersøker ikke dette.
+Fortrinnsvis anbefales det fast dosering av IDeg i preparatomtale, og av norske kliniske
+eksperter, for best mulig blodsukkerkontroll og mindre langtidskomplikasjoner av aktuell
+sykdom.
+jf. Menighini et al. ble det ikke vist samme fordel med henblikk på hypoglykemier når det ble
+benyttet fleksibelt doseringstidspunkt av IDeg som ved fast doseringstidspunkt. Det er
+dermed ikke vist at fordelen med hensyn på hypoglykemier som modelleres i den
+økonomiske modellen er tilstede for pasienter som benytter fleksibelt doseringstidspunkt.
+Evans et al har ikke målt verdien av fleksibel dosering i praktiske situasjoner i dagliglivet der
+fleksibilitet kunne hatt en betydning. Det er dermed ikke tilstrekkelig begrunnet at fleksibelt
+doseringstidspunkt i seg selv skal ha egennytte.
+Det er sannsynlig at deltagerne som estimerer nytteverdiene for fleksibel dosering i Evans et
+al vurderer hypotetiske tilstander, og ikke tilstander de selv har erfaring med, og dette
+bringer usikkerhet i resultatene.
+
+16/13823
+
+29-05 2019
+
+side
+42/59
+
+Nyttetap ved blodsukkermålinger
+Novo Nordisk henter verdien for tap av nytte ved blodsukkermålinger fra studien av Farmer et al
+2009 (27). Studien var designet for å undersøke om egenmålinger er nyttig for pasienter som skal
+endre/kontrollere kost og livsstil i forbindelse med T2DM. Pasientene inkludert i studien var
+pasienter med T2DM, de var imidlertid nokså godt kontrollerte pasienter som ikke ble behandlet
+med insulin, men med kost, mosjon og eventuelt tillegg av orale antidiabetika. Pasientpopulasjonene
+i studien avviker dermed på viktige punkt fra den pasientpopulasjonene som vurderes for behandling
+med IDeg i denne metodevurderingen. Videre måler ikke Farmer et al konsekvensen på livskvalitet av
+blodsukkermålingen i seg selv, men livskvaliteten til pasienter som inngår i en mer intensiv
+oppfølging. Farmer et al viser til at redusert livskvalitet hovedsakelig var knyttet til økt nivå av angst
+og depresjon. Legemiddelverket mener at data fra et sekundært endepunkt i denne studien ikke er
+egnet til å kvantifisere et eventuelt nyttetap ved blodsukkermålinger i metodevurderingen av IDeg til
+den populasjon av T2DM pasienter som er aktuell for denne metodevurderingen.
+Nyttetapet som hentes ut av studien og puttes inn i modellen er høyt. Legemiddelverket mener det
+ikke er sannsynlig at dette er tilfelle for pasienter som er etablert på insulinbehandling.
+Norske klinikere som Legemiddelverket har konsultert fremhever ikke nedsatt livskvalitet på grunn av
+blodsukkermåling som noe vesentlig problem hos pasientgruppen.
+Nyttetap for blodsukkermåling har ikke vært inkludert i tidligere helseøkonomiske vurderinger
+Legemiddelverket har gjort av legemidler til behandling av T2DM (32).
+Legemiddelverket velger på bakgrunn av dette å modellere sitt hovedscenario uten tap av nytte ved
+blodsukkermålinger.
+
+16/13823
+
+29-05 2019
+
+side
+43/59
+
+4 ØKONOMISK ANALYSE
+I den økonomiske analysen sammenlignes IDeg med NPH-insulin. Dette er en fornyet vurdering av
+dokumentasjon og økonomisk modell innlevert av Novo Nordisk i juni 2017.
+
+MODELL, METODE OG FORUTSETNINGER
+Modellbeskrivelse
+I modellen modelleres fordelene ved bruk av IDeg sammenlignet med NPH-insulin både ved
+endringer i kliniske parametere, kostnader og ressursbruk, samt livskvalitet. Effekt og ressursbruk
+varierer med om pasienten bruker kun basalinsulin, basal og bolus insulin, type insulin (IDeg eller
+NPH-insulin), og om NPH-insulinet administreres i en eller to doser daglig.
+Pasientene som modelleres er oppdelt i flere populasjoner. Det deles opp i pasienter som får basal
+only behandling (BOT) og basal bolus behandling (BB). Innenfor de som får kun basalinsulin
+behandling (BOT), skilles det mellom de som administrere basalinsulinet en gang daglig (OD) og de
+som administrere to ganger daglig (BID). For å estimere andelen av T2DM pasientene som benytter
+kun basalinsulin og basal bolus kombinasjonen, begge i tillegg til oral behandling, benytter Novo
+Nordisk flere ulike norske kilder. De tar utgangspunkt i Reseptregisteret og den forskrivning av
+basalinsulin som finnes der, dette kombineres så med tall over antall T1DM, bolus insulin forskrivning
+med mer. Det fremkommer av disse tallene at det blant T2DM pasientene som får insulinbehandling
+vil være 21,9 % som benytter BB og 78,1 % som benytter BOT. Legemiddelverket kan ikke se at det er
+gjort systematisk litteratursøk for å estimere eller understøtte denne fordelingen som brukes i
+modellen.
+Legemiddelverkets vurdering
+Den innleverte modellen er enkel og oversiktlig. Det er ikke mulig å velge å modellere noen annen
+populasjon enn en generell totalpopulasjon av T2DM-pasienter basert på studiene, men
+Legemiddelverket kan selv endre verdier på input data for de mest relevante parameterne.
+Legemiddelverket benytter den innleverte modellen.
+Legemiddelverket vurderer at den fordelingen av insulinbrukerne mellom basal oral og basal bolus
+behandling som Novo Nordisk fremlegger, er sannsynlig basert på innlevert dokumentasjon.
+4.1.1 Analyseperspektiv
+Tidshorisonten i den økonomiske modellen er 1 år. Dette begrunnes med at det ikke er behov for en
+modell med lang tidshorisont da det ikke er antatt forskjeller mellom intervensjon og komparator i
+langtidsendepunkter.
+
+16/13823
+
+29-05 2019
+
+side
+44/59
+
+Legemiddelverkets vurdering
+IDeg har vist tilsvarende effekt på blodsukkerkontroll som andre langtidsvirkende insuliner. Basert på
+de data som foreligger synes det derfor rimelig å anta tilsvarende effekt på lengre sikt, og
+Legemiddelverket godtar at modellen har 1 års tidshorisont.
+Det er ikke gjort diskontering, hverken av kostnader eller nytte, i modellen. Legemiddelverket godtar
+dette da diskontering ikke er nødvendig når modellen kun går over 1 år.
+
+4.1.2
+
+Kostnader (input data)
+
+Innsendt dokumentasjon
+Det er brukt norske kostnader i modellen. Legemiddeldosene av IDeg og NPH-insulin baseres på
+observasjoner fra metaanalysen til Vora et al.(8), der dosene ved studiens slutt benyttes i modellen.
+Kostnadene til grunnbehandling med orale glukosesenkende legemidler (metformin) er antatt å være
+like for IDeg og for NPH-insulin, og er ikke inkludert i analysene.
+I tillegg til legemiddelkostnadene legges det inn kostnader for nåler til insulinpenn, lansetter og strips
+til blodsukkermålinger og kostnader til behandling av hypoglykemier. En injeksjon av insulin
+genererer forbruk av en nål, og en blodsukkermåling genererer forbruk av en strimmel og en lansett.
+Tabell 14: Legemiddelkostnader maks AUP eks mva. oppgitt i NOK.
+
+IE/dag
+Preparat
+Tresiba
+NPH
+(Insulatard)
+
+Pris per pakning
+med 1500 IE
+
+Pris per enhet
+
+BOT
+
+BB
+
+597,8
+
+0,4
+
+46,5
+
+71,9
+
+274,9
+
+0,2
+
+51,7
+
+66,6
+
+*Det antas like kostnader for bolus insulin for både intervensjon og komparator.
+
+16/13823
+
+29-05 2019
+
+side
+45/59
+
+Tabell 15: Kostnader for utstyr oppgitt i NOK
+
+Kostnad og forbruk av utstyr i Novo Nordisk base case
+
+Preparat
+
+Nåler
+
+Strimler
+
+Kostnad
+per stykk Forbruk
+NOK
+per uke
+Tresiba
+NPH
+(Insulatard)
+
+1,02
+1,02
+
+Kostnad
+per år
+NOK
+7
+
+371,28
+
+14=BID
+
+742,56
+
+7=OD
+
+371,28
+
+Lansetter
+
+Kostnad
+per stykk Forbruk
+NOK
+per uke
+4,82
+4,82
+
+Kostnad
+per år
+NOK
+
+Kostnad
+per stykk
+NOK
+0,53
+
+7
+
+1754,48
+
+10,5=BID
+
+2631,72
+
+7=OD
+
+1754,48
+
+0,53
+
+Kostnad
+per år
+NOK
+
+Forbruk
+per uke
+7
+
+192,92
+
+10,5=BID
+
+289,38
+
+7=OD
+
+192,92
+
+BID= to ganger daglig, OD= en gang daglig
+
+For hypoglykemiske hendelser deler Novo Nordisk kostnadene opp i ikke-alvorlige og alvorlige
+hendelser. For ikke-alvorlige hendelser baseres ressursbruken på data fra en studie over effekten av
+hypoglykemi på ressursbruk i helsevesenet og tapt arbeidstid av Geelhoed-Duijvestijn et al 2013 (37).
+I studien var det en liten andel av pasientene som ved en hypoglykemisk ikke-alvorlig hendelse,
+kontaktet lege enten via et besøk hos fastlegen eller ved telefonkonsultasjon. Enhetskostnadene for
+legebesøk og telefonkonsultasjon hentes fra Legeforeningens normaltariff. For alvorlig hypoglykemi,
+benyttes enhetskostnad fra Jönsson et al (38). Det finnes også kostnader for ikke-alvorlige eller milde
+hypoglykemier i samme kilde.
+Tabell 16: Kostnader ved hypoglykemier oppgitt i NOK. Kilde: Novo Nordisk.
+
+Type hypoglykemi
+Ikke alvorlig natt
+Ikke alvorlig dag
+Alvorlig
+
+Kostnader i NOK
+T2BOT
+41,99
+41,99
+6926,96
+
+T2BB
+53,50
+53,50
+6935,37
+
+Legemiddelverkets vurdering
+Kostnadene til grunnbehandling med orale glukosesenkende legemidler (metformin) er antatt å være
+like for IDeg og for NPH-insulin, og er ikke inkludert i analysene. Legemiddelverket mener dette er en
+rimelig antagelse og godtar å utelate disse kostnadene fra analysen.
+Legemiddelkostnadene for IDeg og NPH-insulin baseres på doseringen som ble observert i de kliniske
+studiene og hentes fra metaanalysen til Vora et al. (8). Legemiddelverket beholder i sin hovedanalyse
+doseringen som er satt i Novo Nordisk base case, men dette vil være en optimistisk forutsetning for
+ICER.
+
+16/13823
+
+29-05 2019
+
+side
+46/59
+
+Som beskrevet i kapittel 3.2, er ulike kilder ikke entydige på om det i alle tilfeller vil bli brukt en
+lavere dose av IDeg enn av NPH-insulin. I en sensitivitetsanalyse der insulindosen er den samme for
+intervensjon og komparator, øker ICER med ca 90 000, se kapittel 4.2.3.
+Legemiddelverket har ikke endret på det estimerte forbruket av nåler. Det hender trolig i klinisk
+praksis at pasientene ikke bytter nål for hver injeksjon, men det er god hygiene og anbefalt praksis å
+bytte nål for hver injeksjon. Det forbrukes en injeksjonsnål per dag for pasienter som administrerer
+sin basalinsulin en gang daglig og to injeksjonsnåler per dag for de som administrerer to ganger
+daglig.
+Når det gjelder kostnader for lansetter og strips til blodsukkermåling bruker Legemiddelverket de
+innleverte enhetskostnadene, men reduserer antallet blodsukkermålinger både for IDeg og for
+komparator, se begrunnelse i kapittel 3.4.1. Forbruket av strimler og lansetter er dermed noe
+redusert i Legemiddelverket hovedanalyse.
+Tabell 17 : Kostnader for utstyr oppgitt i NOK i Legemiddelverkets hovedanalyse
+
+Kostnad og forbruk av utstyr i Legemiddelverkets hovedanalyse
+
+Preparat
+
+Nåler
+
+Kostnad
+per stykk
+
+Tresiba
+NPH
+(Insulatard)
+
+Forbruk
+per år
+
+1,02
+1,02
+
+7
+
+371,28
+
+14=BID
+
+742,56
+
+7=OD
+
+371,28
+
+Strimler
+
+Lansetter
+
+Kostnad Forbruk
+per stykk per år
+
+Kostnad
+per stykk
+
+4,82
+4,82
+
+6
+
+1503,84
+
+9=BID
+
+2255,76
+
+6=OD
+
+1503,84
+
+0,53
+0,53
+
+Forbruk
+per år
+6
+
+165,36
+
+9=BID
+
+248,04
+
+6=OD
+
+165,36
+
+BID= to ganger daglig, OD= en gang daglig
+
+Videre har Novo Nordisk og Legemiddelverket, e-post 13. februar 2019, kommet til enighet om at det
+benyttes enhetskostnader fra Jönsson et al. (38) for både milde og moderate hypoglykemier da dette
+synes å sammenfalle best med ikke-alvorlige og alvorlige hypoglykemier slik det er definert i Ratner
+et al.(9). Disse enhetskostnadene er også benyttet i tidligere metodevurdering av diabetes
+legemiddel.
+Tabell 18: Kostnader ved hypoglykemier i benyttet i Legemiddelverkets hovedanalyse oppgitt i NOK.
+
+Type hypoglykemi
+Ikke alvorlig
+
+Kostnader i NOK
+T2BOT
+41,0
+
+T2BB
+52,7
+
+Alvorlig
+
+4491,0
+
+4491,0
+
+16/13823
+
+29-05 2019
+
+side
+47/59
+
+RESULTATER
+4.2.1
+
+Firmaets base case
+
+Tabell 19: Kostnad per vunne kvalitetsjusterte leveår (QALY) oppgitt i NOK eks mva.
+
+Insulin Degludec
+Totale kostnader
+Totale QALYs
+
+NPH-insulin
+
+12 570
+0,8016
+
+9 598
+0,7476
+
+Merkostnad per vunnet QALY
+
+4.2.2
+
+Differanse
+2 972
+0,0540
+54 985
+
+Legemiddelverkets analyse
+
+Basert på Legemiddelverkets kritiske vurderinger i kapitlene over har Legemiddelverket gjort en egen
+hovedanalyse. Forutsetningene er som i analysen til Novo Nordisk, bortsett fra følgende:
+
+
+
+
+
+
+
+
+Novo Nordisk påståtte nytte ved fleksibel dosering er ikke tatt med i Legemiddelverkets
+hovedanalyse, se kapittel 3.4.3
+Novo Nordisk påståtte nyttetap for blodsukkermålinger er ikke tatt med i Legemiddelverkets
+hovedanalyse, se kapittel 3.4.3
+Antall blodsukkermålinger er justert fra 7 til 6 per uke i gjennomsnitt for pasienter som
+administrere basalinsulin en gang daglig, og fra 9,59 til 7,20 per uke i gjennomsnitt for
+pasienter som administrerer basalinsulin to ganger daglig, se kapittel 3.4.1.
+Kostnadene for hypoglykemier er justert til 41,0 NOK og 52,7 NOK for ikke-alvorlige
+hendelser hos henholdsvis BOT og BB pasienter, og til 4491 NOK for alvorlig hendelser, se
+kapittel 4.1.2
+Andelen pasienter som administrerer NPH-insulin to ganger daglig er endret fra 73,9% til
+40%, se kapittel 3.3
+
+Resultater fra Legemiddelverkets hovedanalyse:
+Tabell 20: Kostnad per vunne kvalitetsjusterte leveår (QALY) og vunne leveår med maks AUP eks mva
+
+Totale kostnader
+Totale QALYs
+Merkostnad per vunnet QALY
+
+Insulin Degludec
+12 316
+0,8226
+
+NPH-insulin
+8 911
+0,8179
+
+Differanse
+3 406
+0,0047
+724 989
+
+16/13823
+
+29-05 2019
+
+side
+48/59
+
+4.2.3 Sensitivitets- og scenarioanalyser
+I tabellen under presenteres scenarioanalyser der alternative input-data benyttes for ulike kostnadsog effektparametere.
+Tabell 21: Enveis sensitivitetsanalyser
+
+Justert parameter/variabel
+
+SLV Hovedscenario
+
+Endring
+
+ICER (diskontert)
+
+Legemiddelverkets hovedanalyse
+Antall blodsukkermålinger
+Insulindose per dag, BOT
+Insulindose per dag, BB
+
+OD
+6
+BID 7,20
+IDeg=46,53 IE
+IGlar= 51,7 IE
+IDeg= 71,93 IE
+IGlar=66,60 IE
+
+OD=BID
+OD=7 BID=14
+
+724 989
+780 715
+650 688
+
+BOT IDeg=IGlar= 51,70 IE
+BB IDeg=IGlar = 66,60 IE
+813 931
+
+Alvorlige
+IDeg: BOT=0,28 BB=5,0
+IGlar: BOT=2 BB=5
+
+Reduksjon 50%
+
+800 031
+
+Ikke alvorlige natt
+IDeg: BOT=32,54
+BB=137,25
+IGlar: BOT=51 BB=183
+
+Reduksjon 50%
+
+887 157
+
+Ikke alvorlige dag
+IDeg: BOT=154
+BB=975,25
+IGlar: BOT=154 BB=
+1175
+
+Reduksjon 50%
+
+948 141
+
+Samlet
+
+Reduksjon i alle hypoglykemiene
+50%
+
+1 470 101
+
+BOT BID = 40%
+
+Alle NPH brukere BID
+
+604 243
+
+BOT OD= 60%
+*BOT= basalinsulin only
+OD= en gang daglig
+behandlingsregime, BB= Basal og BID= to ganger daglig
+bolus behandlingsregime
+
+Alle NPH brukere OD
+
+805 487
+
+Hypoglykemier, hendelser per 100
+pasient år
+
+Andel BID og OD (gjelder NPHinsulin brukerne)
+
+Enveis sensitivitetsanalyser indikerer at følgende parametere betyr mest for modellresultatene:
+- Doseringen av legemidlene med den tilhørende legemiddelkostnaden for IDeg (og komparator)
+
+16/13823
+
+-
+
+29-05 2019
+
+side
+49/59
+
+Antallet hypoglykemier
+
+Legemiddelverket vurderer det som plausibelt at det ikke er fullt så mange hypoglykemier i norsk
+klinisk praksis blant den generelle norske populasjonen med T2DM, i stabil fase av sykdommen, som
+det er estimert i hovedanalysen. Det er derfor mulig at en høyere ICER bedre representerer norsk
+klinisk praksis, men det finnes ikke kliniske data som kan verifisere dette.
+4.2.4
+
+Legemiddelverkets konklusjon om inkrementell kostnadseffektivitetsratio
+
+I hovedanalysen er beregnet merkostnad for IDeg sammenlignet med NPH-insulin: ca 725 000 NOK
+per vunnet kvalitetsjusterte leveår (QALY) med legemiddelprisen fra opprinnelig innlevert
+dokumentasjon (maks AUP eks mva).
+
+16/13823
+
+29-05 2019
+
+side
+50/59
+
+5 DISKUSJON OG KONKLUSJON
+Legemiddelverket har vurdert om kostnadene ved bruk av IDeg står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling, NPH-insulin.
+Legemiddelverket bruker den samme antagelsen som Novo Nordisk i egne analyser, om at
+resultatene fra IGlar-armen, fra de randomiserte kontrollerte studiene av IDeg vs. IGlar, representer
+NPH-insulin i modellen.
+Legemiddelverket mener at frekvensen av hypoglykemier som er målt i pivotalstudiene for IDeg vs
+IGlar er høyere enn det som kan forventes i norsk klinisk praksis, ettersom de behandlingsmålene for
+blodglukose som var fastsatt i studiene er strengere enn det som er anbefalt i de nasjonale
+retningslinjene. Dette støttes av norske klinikere. Grunnet måten helsetapet ved hypoglykemiske
+hendelser er modellert på, er dette en usikkerhet i de økonomiske beregningene som kan gi utslag i
+at den reelle ICER er høyere enn det som er beregnet.
+Den helseøkonomiske modellen legger til grunn at det benyttes en lavere insulindose ved bruk av
+IDeg i forhold til NPH-insulin. Legemiddelverket bemerker at dette ikke vil gjelde alle pasienter og at
+dette dermed også kan gi en underestimering av ICER.
+Legemiddelverket mener dokumentasjonen Novo Nordisk legger til grunn for å hevde en helsegevinst
+ved fleksibel dosering av IDeg sammenliknet med komparator, ikke er tilstrekkelig til å inkludere en
+slik gevinst i beregningene. Legemiddelverket begrunner ekskludering av en slik helsegevinst med at
+fremgangsmåte for valg av artikkel som ligger til grunn for en slik gevinst ikke aksepteres, stor
+fleksibilitet i dosering er ikke den tiltenkte bruken av IDeg og at fleksibel dosering ikke ansees som en
+klinisk parameter av vesentlig betydning i norsk klinisk praksis. Fleksibel dosering er
+Legemiddelverket bekjent ikke benyttet som tilstrekkelig begrunnelse for å få innvilget individuell
+stønad. Meneghini et al (11) er fleksibilitetsstudien blant pivotalstudiene av IDeg. Studien viser ingen
+signifikant forskjell i frekvensen av hypoglykemi i IDeg fleksibel dosering vs IGlar. Det å legge til grunn
+en nytteeffekt av både frekvensen av hypoglykemi og fleksibilitet i doseringstidspunkt i samme
+modell blir således spekulativt.
+Legemiddelverket vurderer at innsendt dokumentasjon knyttet til egenmåling av blodglukose ikke er
+tilstrekkelig til å inkludere denne parameteren i analysen. Populasjonen i den innleverte
+dokumentasjonen gjenspeiler ikke de aktuelle pasientene i denne helseøkonomiske vurderingen.
+Egenmålinger av blodsukker ved insulinbehandling av T2DM ikke ansees som en betydelig klinisk
+utfordring for den generelle populasjonene av T2DM pasienter. Et helsetap knyttet til
+blodsukkermålinger har heller aldri tidligere vært akseptert i helseøkonomiske vurderinger gjort av
+Legemiddelverket.
+Ifølge de nasjonale faglige retningslinjene for diabetes, vil NPH-insulin gi god sykdomskontroll for
+majoriteten av pasienter med T2DM. Dette støttes av norsk klinikere som også legger til at NPHinsulin gir mulighet for å administrere ulike dosestyrker morgen og kveld, noe som vil være en fordel
+for pasienter som har ulikt insulinbehov gjennom døgnet. Retningslinjene beskriver at utvalgte
+
+16/13823
+
+29-05 2019
+
+side
+51/59
+
+pasienter vil ha nytte av en langtidsvirkende insulinanalog som alternativ til NPH-insulin, særlig ved
+nattlig hypoglykemi eller åpenbart for kort virketid av NPH-insulin (2).
+Imidlertid er det ikke en slik populasjon som er modellert i innsendte dokumentasjon. Den
+populasjonen som inngår i modellen er en generell pasientpopulasjon med T2DM som ikke har
+spesielle problemer med hypoglykemier, problemer med egenmåling av blodsukker eller problemer
+med administrasjon. Det er således ikke vist i innsendt dokumentasjon at den generelle norske
+populasjonen med T2DM vil få alle de fordelene med IDeg behandling som firma legger til grunn for
+sin søknad. Kostnadene for behandling med IDeg i Legemiddelverkets hovedscenario er basert på
+den innleverte søknaden fra 2017. Legemiddelverkets analyse viser at kostnadene er høye i forhold
+til den heller beskjedne dokumenterte nytten i IDeg vs NPH-insulin for den omsøkte populasjonen.
+
+KONKLUSJON
+Legemiddelverket har gjort en fornyet metodevurdering av Tresiba (insulin degludec).
+Metodevurderingen er et resultat av at Legemiddelverkets vedtak av 21. august 2017 ble opphevet
+av Helse- og omsorgsdepartementet i deres vedtak av 2. juli 2018, etter klage fra firmaet Novo
+Nordisk Scandinavia AS. Legemiddelverket ble i vedtaket av 2. juli 2018 anmodet om å gjøre en
+fornyet vurdering av legemiddelforskriften §14-13 d, jf. forvaltningsloven § 34 fjerde ledd, det vil si
+en vurdering av om «kostnadene ved bruk av legemidlet står i et rimelig forhold til den
+behandlingsmessige verdi og til kostnader forbundet med alternativ behandling».
+Helse- og omsorgsdepartementet har uttalt at Legemiddelverkets fornyede vurdering skulle gjøres
+etter bestemmelsene i legemiddelforskriften som gjaldt 21. august 2017 til tross for at endringer i
+Legemiddelforskriften trådte i kraft 1. januar 2018. Revurderingen baserer seg på den opprinnelig
+innleverte dokumentasjonen fra juni 2017.
+T2DM er en alvorlig sykdom som krever langvarig behandling. Legemiddelverket legger et absolutt
+prognosetap på ca 5 QALY til grunn. Legemiddelverket godtar innsendt dokumentasjon som
+tilstrekkelig til å kunne belyse relativ effekt mellom IDeg og relevant komparator (NPH-insulin), men
+er uenig med Novo Nordisk i hvilke endepunkt/parametere som er relevant å inkludere i
+sammenligningen. Med Legemiddelverkets forutsetninger i analysen får vi en kostnad per QALY i
+underkant av 725 000 millioner NOK/QALY. Dermed fremkommer det av Legemiddelverkets
+hovedanalyse at for den omsøkte populasjonen står ikke kostnadene ved behandling med IDeg i et
+rimelig forhold til den behandlingsmessige verdien og til kostnader forbundet med alternativ
+behandling jf. legemiddelforskriften §14-13 d.
+I revurderingen av den opprinnelige refusjonssøknaden, mener Legemiddelverket dermed at
+konklusjonen fra tidligere vurdering må opprettholdes. Behandling av pasienter med T2DM med IDeg
+(Tresiba) sammenlignet med NPH-insulin oppfyller etter Legemiddelverkets fornyede vurdering ikke
+det faglige kriteriet i legemiddelforskriften §14-13 d) om kostnadseffektivitet.
+
+16/13823
+
+29-05 2019
+
+Statens legemiddelverk, 29-05-2019
+
+Hallstein Husbyn
+
+enhetsleder
+
+Saksutredere
+Ingrid Johanne Bettum
+Anette Helene Olsson Grøvan
+
+side
+52/59
+
+16/13823
+
+29-05 2019
+
+side
+53/59
+
+REFERANSER
+1.
+legemiddelverk S. Preparatomtale Tresiba 2013 [Available from:
+https://www.ema.europa.eu/documents/product-information/tresiba-epar-productinformation_no.pdf
+2.
+Helsedirektoratet. Nasjonal faglig retningslinje for diabetes, [Available from:
+https://helsedirektoratet.no/retningslinjer/diabetes/seksjon?Tittel=blodsukkersenkende-behandlingog-behandlingsmal-3295#valg-av-blodsukkersenkende-legemiddel-etter-metformin-ved-diabetestype-2.
+3.
+Folkehelseinstituttet. Folkehelserapporten Diabetes i Norge [Available from:
+https://www.fhi.no/nettpub/hin/helse-og-sykdom/diabetes-i-norge---folkehelserappor/.
+4.
+Legemiddelverk S. Preparatomtale Insulatard 2002 [Available from:
+https://www.ema.europa.eu/en/documents/product-information/insulatard-epar-productinformation_no.pdf.
+5.
+Statens legemiddelverk. Legemiddelsøk [Available from: https://www.legemiddelsok.no/
+6.
+Horvath K, Jeitler K, Berghold A, Ebrahim SH, Gratzer TW, Plank J, et al. Long‐acting insulin
+analogues versus NPH insulin (human isophane insulin) for type 2 diabetes mellitus. Cochrane
+Database of Systematic Reviews. 2007(2).
+7.
+Canadian Agency for D, Technologies in H. Long-Acting Insulin Analogues for the Treatment
+of Diabetes Mellitus: Meta-analyses of Clinical Outcomes. CADTH technology overviews.
+2010;1(1):e0113-e.
+8.
+Vora J, Christensen T, Rana A, Bain SC. Insulin degludec versus insulin glargine in type 1 and
+type 2 diabetes mellitus: a meta-analysis of endpoints in phase 3a trials. Diabetes therapy : research,
+treatment and education of diabetes and related disorders. 2014;5(2):435-46.
+9.
+Ratner RE, Gough SCL, Mathieu C, Del Prato S, Bode B, Mersebach H, et al. Hypoglycaemia
+risk with insulin degludec compared with insulin glargine in type 2 and type 1 diabetes: a pre-planned
+meta-analysis of phase 3 trials. Diabetes, obesity & metabolism. 2013;15(2):175-84.
+10.
+Marso SP, McGuire DK, Zinman B, Poulter NR, Emerson SS, Pieber TR, et al. Efficacy and
+Safety of Degludec versus Glargine in Type 2 Diabetes. New England Journal of Medicine.
+2017;377(8):723-32.
+11.
+Meneghini L, Atkin SL, Gough SCL, Raz I, Blonde L, Shestakova M, et al. The efficacy and safety
+of insulin degludec given in variable once-daily dosing intervals compared with insulin glargine and
+insulin degludec dosed at the same time daily: a 26-week, randomized, open-label, parallel-group,
+treat-to-target trial in individuals with type 2 diabetes. Diabetes care. 2013;36(4):858-64.
+12.
+Zinman B, Philis-Tsimikas A, Cariou B, Handelsman Y, Rodbard HW, Johansen T, et al. Insulin
+Degludec Versus Insulin Glargine in Insulin-Naive Patients With Type 2 Diabetes. A 1-year,
+randomized, treat-to-target trial (BEGIN Once Long). 2012;35(12):2464-71.
+13.
+Gough SCL, Bhargava A, Jain R, Mersebach H, Rasmussen S, Bergenstal RM. Low-Volume
+Insulin Degludec 200 Units/mL Once Daily Improves Glycemic Control Similarly to Insulin Glargine
+With a Low Risk of Hypoglycemia in Insulin-Naïve Patients With Type 2 Diabetes. A 26-week,
+randomized, controlled, multinational, treat-to-target trial: The BEGIN LOW VOLUME trial.
+2013;36(9):2536-42.
+14.
+Onishi Y, Iwamoto Y, Yoo SJ, Clauson P, Tamer SC, Park S. Insulin degludec compared with
+insulin glargine in insulin-naïve patients with type 2 diabetes: A 26-week, randomized, controlled,
+Pan-Asian, treat-to-target trial. Journal of diabetes investigation. 2013;4(6):605-12.
+
+16/13823
+
+29-05 2019
+
+side
+54/59
+
+15.
+Garber AJ, King AB, Prato SD, Sreenan S, Balci MK, Muñoz-Torres M, et al. Insulin degludec,
+an ultra-longacting basal insulin, versus insulin glargine in basal-bolus treatment with mealtime
+insulin aspart in type 2 diabetes (BEGIN Basal-Bolus Type 2): a phase 3, randomised, open-label,
+treat-to-target non-inferiority trial. The Lancet. 2012;379(9825):1498-507.
+16.
+Tahrani AA, Bailey CJ, Barnett AH. Insulin degludec: a new ultra-longacting insulin. Lancet.
+2012;379(9825):1465-7.
+17.
+Dornhorst A, Luddeke HJ, Koenen C, Merilainen M, King A, Robinson A, et al. Transferring to
+insulin detemir from NPH insulin or insulin glargine in type 2 diabetes patients on basal-only therapy
+with oral antidiabetic drugs improves glycaemic control and reduces weight gain and risk of
+hypoglycaemia: 14-week follow-up data from PREDICTIVE. Diabetes Obes Metab. 2008;10(1):75-81.
+18.
+Bjørgaas M. Hypoglykemi- en fryktet komplikasjon ved diabetes. Tidsskriftet Den norske
+legeforening. 2000;120:2441-4.
+19.
+Donnelly LA, Morris AD, Frier BM, Ellis JD, Donnan PT, Durrant R, et al. Frequency and
+predictors of hypoglycaemia in Type 1 and insulin-treated Type 2 diabetes: a population-based study.
+Diabet Med. 2005;22(6):749-55.
+20.
+Allen KV, Frier BM. NOCTURNAL HYPOGLYCEMIA: CLINICAL MANIFESTATIONS AND
+THERAPEUTIC STRATEGIES TOWARD PREVENTION. Endocrine Practice. 2003;9(6):530-43.
+21.
+Veneman T, Mitrakou A, Mokan M, Cryer P, Gerich J. Induction of Hypoglycemia
+Unawareness by Asymptomatic Nocturnal Hypoglycemia. Diabetes. 1993;42(9):1233-7.
+22.
+Sovik O TH. Dead-in-bed syndrome in young diabetic patients. Diabetes Care. 1999;22 Suppl
+2.
+23.
+Evans M, Jensen HH, Bøgelund M, Gundgaard J, Chubb B, Khunti K. Flexible insulin dosing
+improves health-related quality-of-life (HRQoL): a time trade-off survey. Journal of medical
+economics. 2013;16(11):1357-65.
+24.
+Freemantle N, Meneghini L, Christensen T, Wolden ML, Jendle J, Ratner R. Insulin degludec
+improves health-related quality of life (SF-36(R) ) compared with insulin glargine in people with Type
+2 diabetes starting on basal insulin: a meta-analysis of phase 3a trials. Diabet Med. 2013;30(2):22632.
+25.
+Evans M, Khunti K, Mamdani M, Galbo-Jørgensen CB, Gundgaard J, Bøgelund M, et al. Healthrelated quality of life associated with daytime and nocturnal hypoglycaemic events: a time trade-off
+survey in five countries. Health and quality of life outcomes. 2013;11(1):90.
+26.
+Meneghini L, Atkin SL, Gough SC, Raz I, Blonde L, Shestakova M, et al. The efficacy and safety
+of insulin degludec given in variable once-daily dosing intervals compared with insulin glargine and
+insulin degludec dosed at the same time daily: a 26-week, randomized, open-label, parallel-group,
+treat-to-target trial in individuals with type 2 diabetes. Diabetes Care. 2013;36(4):858-64.
+27.
+Farmer A, Wade A, French D, Simon J, Yudkin P, Gray A, et al. Blood glucose self-monitoring
+in type 2 diabetes: a randomised controlled trial. Health Technol Assess. 2009;13(15):1-50.
+28.
+NICE NIfHaCE. Full Health Economics Report, Type 2 diabetes in adults: management
+
+NICE guideline NG28 2015 [Available from:
+https://www.nice.org.uk/guidance/ng28/evidence/appendix-f-full-health-economics-report-pdf2185320355.
+
+16/13823
+
+29-05 2019
+
+side
+55/59
+
+29.
+Diabetesforbundet. Diabetesforbundet- om diabetes [Available from:
+https://www.diabetes.no/om-diabetes/.
+30.
+Gandhi M, San Tan R, Ng R, Choo SP, Chia WK, Toh CK, et al. Comparison of health state
+values derived from patients and individuals from the general population. 2017;26(12):3353-63.
+31.
+Peeters Y, Stiggelbout AMJViH. Health state valuations of patients and the general public
+analytically compared: a meta-analytical comparison of patient and population health state utilities.
+2010;13(2):306-9.
+32.
+legemiddelverk S. Metodevurderingsrapporter-søkeside [Available from:
+https://legemiddelverket.no/offentlig-finansiering/metodevurderinger/metodevurderingsrapportert.
+33.
+Davidson PC, Hebblewhite HR, Bode BW, Steed RD. Increased frequency of self blood glucose
+monitoring improves A1c in non-insulin-using persons with diabetes. Diabetes. 2005;54:A100.
+34.
+Strowig SM, Raskin P. Improved glycemic control in intensively treated type 1 diabetic
+patients using blood glucose meters with storage capability and computer-assisted analyses.
+Diabetes care. 1998;21(10):1694-8.
+35.
+Karter AJ, Ackerson LM, Darbinian JA, D’Agostino Jr RB, Ferrara A, Liu J, et al. Self-monitoring
+of blood glucose levels and glycemic control: the Northern California Kaiser Permanente Diabetes
+registry∗. The American journal of medicine. 2001;111(1):1-9.
+36.
+Aventis S. Lantus® Dosage and administration [Available from:
+https://www.lantus.com/hcp/dosing-injection/insulin-dose-and-dosing-calculator.
+37.
+Geelhoed-Duijvestijn PH, Pedersen-Bjergaard U, Weitgasser R, Lahtela J, Jensen MM,
+Östenson C-G. Effects of patient-reported non-severe hypoglycemia on healthcare resource use,
+work-time loss, and wellbeing in insulin-treated patients with diabetes in seven European countries.
+Journal of medical economics. 2013;16(12):1453-61.
+38.
+Jönsson L, Bolinder B, Lundkvist J. Cost of hypoglycemia in patients with Type 2 diabetes in
+Sweden. Value in health. 2006;9(3):193-8.
+
+16/13823
+
+29-05 2019
+
+side
+56/59
+
+APPENDIKS 1: KORT OM HELSEØKONOMI OG BEGREPER I
+RAPPORTEN
+Legemiddelverket har i flere år vurdert kostnadseffektivitet av legemidler som søker opptak til
+forhåndsgodkjent refusjon. Slike vurderinger baserer seg på” Forskrift om stønad til dekning av
+utgifter til viktige legemidler mv. (blåreseptforskriften)”.
+Følgende faglige kriterier vurderes:
+ Om legemidlet skal brukes til behandling av alvorlige sykdommer eller av risikofaktorer som
+med høy sannsynlighet vil medføre eller forverre alvorlig sykdom
+ Om sykdommen eller risiko for sykdom som nevnt i punktet over medfører behov eller risiko
+for gjentatt behandling over en langvarig periode
+ Om legemidlet har en vitenskapelig godt dokumentert og klinisk relevant virkning i en
+definert, aktuell pasientpopulasjon
+ Om kostnadene ved bruk av legemidlet står i et rimelig forhold til den behandlingsmessige
+verdi og til kostnader forbundet med alternativ behandling.
+Produsenten av legemiddelet utarbeider en legemiddeløkonomisk analyse for å dokumentere at
+disse kriteriene er oppfylt hvorpå Legemiddelverket kritisk vurderer den innsendte analysen med
+tilhørende dokumentasjon.
+Legemiddelverket har fra 2013 fått i oppdrag fra Helse-og omsorgsdepartementet å vurdere
+kostnadseffektiviteten av legemidler som vurderes innført i spesialisthelsetjenesten. Vurderingen
+baseres i hovedsak på legemiddeløkonomiske analyser utarbeidet av legemiddelprodusenten etter
+tilsvarende mal som for blåreseptsaker.
+Vurdering av kostnadseffektivitet kan bidra til at samfunnet kan velge de tiltakene som maksimerer
+nytte gitt hensyn til fordeling m.m.
+For lettere å forstå innholdet i rapporten gis det nedenfor en kort innføring i helseøkonomiske
+begreper som også i denne saken vil kunne forekomme.
+Legemiddeløkonomisk evaluering – er en helseøkonomisk evaluering der intervensjonene som
+evalueres er legemidler
+Intervensjon – er det behandlingsalternativet/legemidlet som vurderes og som er utgangspunkt for
+analysen.
+Komparator – er det behandlingsalternativet/legemidlet som sannsynligvis vil fortrenges dersom
+intervensjonen tas i bruk.
+
+16/13823
+
+29-05 2019
+
+side
+57/59
+
+ICER – er en måleenhet for kostnader i forhold til effekt, for vurdering av kostnadseffektivitet. ICER
+står for incremental cost-effect ratio, og angir den inkrementelle kostnads-effekt raten (IKER på
+norsk):
+
+Dette betyr at ICER påvirkes av både kostnader og effekter. Usikkerheter rundt en eller begge av
+disse, kan ha stor betydning for ICER. I analysene inngår legemiddelkostnader, men også kostnader til
+sykehusinnleggelser, primærhelsetjenesten m.m. knyttet til de to behandlingene (intervensjon og
+komparator). ICER angir således netto merkostnad per vunnet enhet helseeffekt for den nye
+behandlingen sammenliknet med komparator, for eksempel merkostnader per vunne
+kvalitetsjusterte leveår (QALYs).
+Kostnadseffektivitet – en intervensjon vurderes gjerne som kostnadseffektiv (sammenliknet med
+komparator) dersom ICER er lavere enn det man er villig til å betale for helseeffekten som oppnås.
+Betalingsvilligheten kan variere med alvorlighetsgrad, effektstørrelse m.m.
+Modeller – For vurdering av kostnadseffektivitet brukes ofte helseøkonomiske beregningsmodeller.
+Dette fordi datagrunnlaget fra kliniske studier ofte er for begrenset til å vurdere alle relevante
+helseeffekter og kostnader over tilstrekkelig lang tidsperiode. I modellene kombineres best mulig
+informasjon fra ulike kilder matematisk for å anslå forventede effekter på helse, livskvalitet og
+kostnader av ulike behandlinger.
+QALY – er et mål på størrelsen av helsegevinster. QALY står for quality adjusted life year, og angir
+effekt både på levetid og helserelatert livskvalitet. Til beregningene benyttes QALY-vekter (også kalt
+nyttevekter) for ulike helsetilstander, fra 0 ved død til 1 ved full helse. Ett år med perfekt helse
+tilsvarer 1 QALY. Dersom et tiltak øker levetiden til en pasient med 1 år, men at kvaliteten på dette
+året vurderes som lavere enn perfekt helse, vil denne gevinsten få en lavere verdi enn 1. Også
+effekten av tiltak som ikke er livsforlengende kan måles i QALY, i det de kan bedre helsetilstanden til
+pasienten i en gitt periode.
+LYG – er en måleenhet som angir helseeffekten i vunne leveår (life years gained). Denne
+måleenheten kobles ofte opp mot kostnaden for en behandling og uttrykkes som merkostnad per
+vunne leveår. I motsetning til QALY tar LYG ikke hensyn til livskvaliteten i de vunne leveårene.
+TTO – er en måte å måle QALY på. TTO står for ”time trade off”, og går ut på at man enten beskriver
+en helsetilstand for et individ, eller spør en pasient med tilstanden man ønsker å undersøke, om
+hvordan han verdsetter tilstanden. Dette gjøres ved at individet blir bedt om å angi hvor mye tid i
+perfekt helse, av en fremtidig periode på 10 år, individet er villig til å oppgi for å unngå 10 år i
+tilstanden man vil verdsette.
+
+16/13823
+
+29-05 2019
+
+side
+58/59
+
+SG – er en måte å måle QALY på. SG står for ”standard gamble”, og går ut på at man enten beskriver
+en helsetilstand for et individ, eller spør en pasient med tilstanden man ønsker å undersøke, om
+hvordan han verdsetter tilstanden. Dette gjøres ved at individet blir presentert for to alternativer:
+Alternativ 1 er å leve resten av livet med tilstanden man vil verdsette; alternativ 2 er en fiktiv
+intervensjon som enten vil gjøre individet frisk fra tilstanden for resten av individets levetid eller
+være dødelig. Individet blir så spurt om hvor liten sannsynlighet for overlevelse ved intervensjonen
+individet vil være villig til å akseptere, og fortsatt takke ja til intervensjonen. Er tilstanden veldig
+alvorlig og lite ønskelig, vil pasienten være villig til å risikere livet i større grad og akseptere en lavere
+sannsynlighet for å overleve intervensjonen.
+Analyseperspektiv – angir hvilket perspektiv analysen har. Her skiller man gjerne mellom
+helsetjenesteperspektiv og samfunnsperspektiv. Mens helsetjenesteperspektivet kun tar hensyn til
+effekter og kostnader i helsetjenesten vil man i et samfunnsperspektiv i tillegg også inkludere andre
+gevinster/kostnader utenom spesialisthelsetjenesten som endringer i produktivitetstap, spart tid osv.
+Ekstrapolering – innebærer framskrivning av data utover tidsperioden med konkrete studiedata.
+Dette vil si en form for modellering av sannsynligheten for fremtidige hendelser basert på
+tilgjengelige data. Dette gjøres for eksempel i analyser hvor det kun finnes studiedata for en kortere
+periode. Sannsynligheten for overlevelse vurderes da utover tidsperioden dekket av tilgjengelige
+studiedata, og man lager en prognose på bakgrunn av dette. En slik ekstrapolering vil kunne brukes
+som grunnlag for et tidsperspektiv som er lengre enn det finnes studiedata for.
+Diskontering – er en metode som benyttes for å kunne sammenlikne og summere helseeffekter og
+kostnader som oppstår i ulike år. De årlige helse- og kostnadsvirkninger omregnes til en nåverdi og i
+en slik nåverdiberegning blir både helseeffekter og kostnader diskontert med en rate som i skrivende
+stund er 4 prosent per år. Dette antas å gjelde de fleste tiltak innen helsesektoren. Nåverdien regnes
+ut etter følgende formel hvor P er nåverdi, F er kostnaden (eller helseeffekten), t er tiden og r er
+diskonteringsraten:
+
+Deterministisk sensitivitetsanalyse (DSA) – er en usikkerhetsmåling som brukes for å undersøke
+robustheten av analysen. DSA tar utgangspunkt i en deterministisk hovedanalyse. I den
+deterministiske hovedanalysen bruker man en fastsatt verdi for hver parameter uten å ta hensyn til
+usikkerheten rundt parameteren. I en deterministisk sensitivitetsanalyse endrer man en og en eller
+kun et mindre antall variabler om gangen. Ved å gjøre dette får man se effekten en bestemt variabel
+har på utfallet.
+
+16/13823
+
+29-05 2019
+
+side
+59/59
+
+Probabilistisk sensitivitetsanalyse (PSA) – er en usikkerhetsmåling som brukes for å undersøke
+robustheten av analysen. De enkelte parametre i den økonomiske beregningsmodellen tilordnes en
+sannsynlighetsfordeling. I en probabilistisk sensitivitetsanalyse utføres en rekke (f.eks. 2000)
+simuleringer med modellen. I hver simulering trekkes en verdi for hver parameter ut ifra
+sannsynlighetsfordelingene. Modellen simuleres så med disse parameterverdiene. Hver simulering
+gir et anslag på kostnader og effekt. En kan derfor si at i en PSA endrer man en rekke gitte variabler
+innenfor et forhåndsbestemt intervall samtidig i hver simulering. Resultatene av simuleringene
+presenteres gjerne som en «sky» i et diagram med merkostnader og mereffekt på hver akse.
+Cost effect acceptability curve (CEAC) – er en kurve som viser sammenhengen mellom
+betalingsvillighet og sannsynligheten for kostnadseffektivitet (dvs at ICER er lavere enn ulike nivåer
+for betalingsvillighet). Kurven er basert på probabilistiske simuleringer og brukes for å vurdere om et
+tiltak er kostnadseffektivt eller ikke avhengig av hvor tiltaket kan plasseres, over eller under CEA
+
+

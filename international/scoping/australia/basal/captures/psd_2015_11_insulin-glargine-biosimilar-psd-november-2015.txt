@@ -1,0 +1,1088 @@
+              Public Summary Document – November 2015 PBAC Meeting
+
+7.10 INSULIN GLARGINE
+     3 ml cartridges, 100 IU/ml,
+     Basaglar®, Eli Lilly
+
+1     Purpose of submission
+
+1.1   The minor submission requested further advice from the PBAC regarding its previous
+      recommendation (March 2015) for the PBS listing of the biosimilar insulin glargine,
+      Basaglar®.
+
+
+2     Background
+
+2.1   Basaglar (the trade name was previously Abasria®) was registered by the TGA on
+      21 November 2014 as:
+            “an insulin analogue indicated for once daily subcutaneous administration in
+            the treatment of type 1 diabetes mellitus in adults and children and type 2
+            diabetes mellitus in adults who require insulin for the control of
+            hyperglycaemia.”
+
+2.2   Basaglar was submitted to the TGA as an abridged biosimilar submission.
+
+2.3   The PBAC previously considered Basaglar at the March 2015 PBAC meeting.
+
+2.4   At this time, the PBAC recommended the unrestricted benefit listing of the biosimilar
+      insulin glargine Basaglar for the treatment of type 1 and 2 diabetes mellitus on a
+      cost-minimisation basis with insulin glargine Lantus®. The equi-effective doses are
+      100 IU/mL Basaglar and 100 IU/mL Lantus.
+
+2.5   The PBAC further advised the Minister that it considered the Basaglar and Lantus
+      brands of insulin glargine cartridges could be marked as equivalent in the Schedule
+      for the purposes of substitution by the pharmacist at the point of dispensing. Further,
+      the PBAC advised that Basaglar KwikPen and Lantus Solostar brands of insulin
+      glargine pre-filled disposable pens could also be marked as equivalent in the
+      Schedule for the purposes of substitution. However, the PBAC considered that the
+      differences between the cartridges (for use in re-usable pens) versus pre-filled
+      disposable pens were sufficient to preclude substitution between cartridges and pre-
+      filled disposable pens.
+
+2.6   In forming its view on brand substitution (“a” flagging), the PBAC considered a range
+      of factors including that patient response is monitored regularly (through self-
+      monitoring or diabetes educators), and that dose titration occurs routinely in current
+      practice as insulin dose requirements may vary frequently, for example due to
+      intercurrent illness or changes in diet. The PBAC further noted that approximately
+      81% and 41% of patients switched from Lantus to Basaglar in the Basaglar arm of
+      the ABEB and ABEC trials respectively, albeit the patients switched brands once
+      only.
+
+
+
+
+                                             1
+              Public Summary Document – November 2015 PBAC Meeting
+
+2.7   The PBAC noted that:
+         - The current TGA Product Information for Basaglar states that the
+            “replacement of Lantus with Basaglar, or vice versa, should take place only
+            under the supervision of the prescribing medical practitioner”, and this
+            statement is in line with the TGA guidance paper “Evaluation of Biosimilars”,
+            V1.0, July 2013, pg 17 [http://www.tga.gov.au/pdf/pm-argpm-biosimilars.pdf].
+            It is also consistent with the 2010 TGA/PBD discussion paper on Similar
+            Biological Medicinal Products, which is no longer current.
+         - Basaglar and Lantus are both cartridges for use with a compatible re-usable
+            pen. Basaglar KwikPen and Lantus Solostar are both pre-filled disposable
+            pens. The PBAC noted that substituting between a cartridge for use in a re-
+            usable pen and a disposable pen may require specific training particularly
+            around loading cartridges into a pen device.
+
+2.8   The PBAC also noted that the ACPM has ‘advised that acceptable similarity between
+      Abasria (Basaglar) and Lantus has been demonstrated by the PK and PD studies’
+      (ACPM Resolution, October 2014). Given also that patients with diabetes currently
+      experience variability in their response to the same brand of insulin, have their
+      response to insulin monitored very closely and have their doses titrated accordingly,
+      the PBAC advised that it would expect that these brands may be interchanged
+      (substituted) without differences in clinical effect beyond the variability in response
+      seen within any one brand of insulin (i.e. the PBAC considered that the risk in terms
+      of safety and diminished efficacy is not necessarily greater for a switch between
+      Basaglar and Lantus, than for continued use of Lantus or Basaglar).
+
+2.9   The PBAC also considered that any differences in the re-usable pen devices, can be
+      managed in the course of the regular patient education and counselling on the use of
+      the devices that is provided to patients by prescribers, pharmacists and diabetes
+      educators, and that these differences were not sufficient to preclude marking the two
+      brands as equivalent. Similarly, the PBAC considered that any differences in the pre-
+      filled disposable pen devices can be managed in the course of the regular patient
+      education and counselling.
+
+3     Consideration of the evidence
+
+Sponsor hearing
+
+3.1   There was no hearing for this item as it was a minor submission.
+
+Consumer comments
+
+3.2   The PBAC noted that no consumer comments were received for this item.
+
+3.3   The introduction to the resubmission stated:
+
+      “The purpose of this submission is to request further advice from the PBAC regarding
+      its previous recommendation for the PBS listing of Basaglar.
+
+      The focus of this submission is to respond to various aspects associated with
+      substitution of Basaglar and Lantus by the pharmacist at the point of dispensing. It
+      will focus on three points:
+
+                                             2
+                 Public Summary Document – November 2015 PBAC Meeting
+
+        1.      The evidence base required to enable substitution at the pharmacy level
+        2.      Potential safety implications associated with substituting Basaglar and Lantus
+                in clinical practice.
+        3.      Inconsistencies between the PBAC recommendation and TGA
+                determination.”
+
+3.4     The key issue being considered in the resubmission and this overview is the
+        substitutability of Basaglar and Lantus, as the efficacy and safety of Basaglar has
+        previously been assessed and accepted by the PBAC. However, some additional
+        safety related data related to immunogenicity and antibodies, as well as a summary
+        of a review regarding switching biologicals has also been included.
+
+Insulin glargine safety
+
+3.5     Regarding the impact of insulin antibodies, the March 2015 PBAC Minutes
+        (paragraph 6.17) include the following quotes from the Basaglar Delegate’s
+        Overview:
+
+        ‘formation of antibodies to insulin occurs frequently, without major consequences for
+        efficacy and safety’; and
+
+        ‘Antibodies could have an effect on efficacy, with larger doses of insulin required
+        (neutralising antibodies) or safety, with injection site reactions or very rarely IgE
+        mediated anaphylaxis (non-neutralising antibodies).’
+
+3.6     Similarly the Australian Product Information (PI) for Lantus 1 states:
+
+        ‘In rare cases, the presence of such insulin antibodies may necessitate adjustment of
+        the insulin dose in order to correct a tendency to hyperglycaemia or hypoglycaemia.’
+
+3.7     The Canadian Product Monograph for Lantus 2 notes that a review of the clinical data
+        has not identified a need for dose adjustments due to insulin antibodies. Specifically,
+        the following statement is included in the PI:
+
+        “Insulin administration may cause insulin antibodies to form. In clinical studies,
+        antibodies that cross-react with human insulin and insulin glargine were observed in
+        both NPH human insulin and insulin glargine treatment groups with similar percents
+        of increased and decreased titers. There was no correlation in either treatment group
+        between increases or decreases in these antibody titers and changes in either A1C
+        or total insulin requirements. In theory, the presence of such insulin antibodies may
+        necessitate adjustment of the insulin dose in order to correct a tendency to
+        hyperglycaemia or hypoglycaemia, but has not been found on review of LANTUS
+        clinical trials and available post-marketing data.”
+
+
+
+
+1
+  p.19, Australian PI for Lantus®, Insulin glargine, Sanofi, Date of most recent amendment 25 March
+2014
+2
+  p.7. Canadian Product Monograph for Lantus®, Insulin glargine (rDNA origin), solution for injection
+100 U/mL. Sanofi-aventis Canada Inc., version s-a 13.0 dated January 7, 2015
+
+                                                  3
+                Public Summary Document – November 2015 PBAC Meeting
+
+3.8     The proportion of patients with detectable insulin antibodies at baseline, study
+        endpoint and overall was similar with Basaglar and Lantus in the ABEB and ABEC
+        trials (March 2015 PBAC minutes, paragraph 6.18). The European Medicines Agency
+        (EMA) further commented that “there was no evidence that these antibodies had any
+        impact on efficacy and safety outcomes (HbA1c, weight, insulin dose, hypoglycaemic
+        episodes, allergic or injection site reactions)..”3. Data from the ABEB and ABEC trials
+        published as a conference abstract4 and poster5 show that the incidences of
+        treatment emergent antibody responses (TEAR) and treatment emergent allergic
+        events did not differ (p>0.05) between Basaglar and Lantus (antibody responses:
+        10.9% vs 9.4% in ABEB, 3.8% vs 3.8% in ABEC; allergic events: 7.5% vs 4.1% in
+        ABEB, 5.6% vs 7.1% in ABEC). It is also stated that clinical outcomes (HbA1c, basal
+        insulin dose, and total hypoglycaemia) were not affected by TEAR status in ABEB or
+        ABEC (p>0.05 for treatment-by-TEAR interaction for these outcomes).
+
+General biosimilar safety
+
+3.9    A review of data related to switching between therapeutic proteins was published in
+       2012 6. The review included:
+        13 cross-over trials in 415 volunteers and growth-hormone deficient patients
+           assessing growth hormone products;
+        35 cross-over trials in 11,249 volunteers and patients assessing erythropoietin
+           products; and
+        10 trials in 374 volunteers and patients assessing granulocyte colony stimulating
+           agents.
+
+3.10    The review also included data from pharmacovigilance databases and literature on
+        the frequency of switching between human recombinant growth hormones,
+        erythropoietins and granulocyte colony stimulating agents. The authors concluded:
+
+       “We were not able to identify direct safety risk associated with substituting
+       biopharmaceuticals in any of the data sources we analyzed. Although there may be
+       valid reasons to be prudent with switching between biopharmaceuticals, including
+       traceability of adverse events or concerns about patient anxiety, thus far there is no
+       evidence that the process of switching in itself poses a risk to patients. Currently,
+       there is limited clinical data that specifically studied the effects of switching, but they
+       mostly concluded that patients can be safely switched from one product to the other.
+
+       However, most clinical trials included in our analysis were not designed to identify
+       switching related adverse events, while spontaneous reporting systems may not be
+
+
+
+
+3
+  Pg. 58, European Medicines Agency, Assessment Report, Abasria, insulin glargine. Procedure No.
+EMEA/H/C/002835/0000
+4
+  Deeg, M, Ilag, L, et al. Evaluation of Immunogenicity of LY2963016 Insulin Glargine Compared with
+Lantus® Insulin Glargine in Patients with T1D or T2D. Abstract 70-OR. Presented at 74th American
+Diabetes Association (ADA) Scientific Sessions; June 13-17, 2014; San Francisco, CA, abstract
+presented in 141, Canadian Journal of Diabetes, 38 (2014) S51-S52
+5
+  http://www.easdvirtualmeeting.org/resources/18907, accessed 9 June 2015
+6
+  Ebbers HC, Muenzberg M, Schellekens H. The safety of switching between therapeutic proteins.
+Expert Opin Biol Ther. 2012 Nov;12(11):1473-85.
+
+                                                 4
+                Public Summary Document – November 2015 PBAC Meeting
+
+       well equipped to identify adverse events associated with switching between
+       biopharmaceuticals.”
+
+       “Thus far there have been no safety concerns with marketed biosimilars. Although
+       adverse events related to immunogenicity are a concern for most biopharmaceuticals
+       including biosimilars and different products may be more or less immunogenic, there
+       is no data that supports the notion that switching between different products induces
+       immunogenicity.”
+
+3.11   Ebbers and Chamberlain 20147 state that no post-authorisation immunogenicity-
+       related issues have yet been detected in the post-authorisation phase for any EU-
+       approved bio similar product. Since April 2006, 19 biosimilars have been approved
+       by the EMA. The medicines approved include insulin glargine, epoetin (alfa and
+       zeta), filgrastim, follitropin alfa, infliximab and somatropin.
+
+3.12   The PBAC noted the sponsor’s responses in the pre-PBAC response.
+
+
+Evidence for substitution at the pharmacy level
+
+3.13   The resubmission presented three issues as being relevant to consideration of
+       substitution at the pharmacy level:
+
+       -    The evidence supporting substitution at the pharmacy level,
+       -    The impact of substitution on the collection of longer term evidence of safety,
+              and
+       -    The substitutability of the devices used to deliver brands of insulin glargine.
+
+The evidence supporting substitution at the pharmacy level
+
+3.14   The minor resubmission noted (p2) that under the US Biologics Price Competition
+       and Innovation (BCPI) Act of 2009 the FDA may declare a biosimilar as
+       interchangeable and thereby substitutable without the physician consent, however,
+       this requires additional data beyond those required to meet the biosimilarity standard.
+       The submission states the required additional evidence does not exist within the
+       Basaglar data package.
+
+3.15   For the FDA to consider a product to be interchangeable, in addition to
+       demonstrating biosimilarity, information must be provided to show that the proposed
+       interchangeable product is expected to produce the same clinical result as the
+       reference product in any given patient. In addition, for a biological product that is
+       administered more than once to an individual, it must be demonstrated that the risk in
+       terms of safety or diminished efficacy of alternating or switching between use of the
+       proposed interchangeable product and the reference product is not greater than the
+       risk of using the reference product without such alternating or switching
+       (resubmission p3).
+
+
+
+7
+ Ebbers HC and Chamberlain P. Interchangeability. An insurmountable fifth hurdle? GaBI Journal
+2014; 3(2):88-93
+
+                                                5
+                 Public Summary Document – November 2015 PBAC Meeting
+
+3.16    The resubmission stated (p4) a clinical trial design that would provide the evidence
+        that would satisfy the requirements of the FDA for interchangeability would involve
+        switching and alternating between the biosimilar and reference products within an
+        individual patient and would show that this practice adds no risk to patient safety. A
+        cross-over design study with the following comparisons is noted to address both
+        switching and alternating:
+         biosimilar to biosimilar (BB);
+         reference product to reference product (RR);
+         biosimilar to reference product to biosimilar (BRB); and
+         reference product to biosimilar to reference product (RBR).
+
+3.17    The FDA has not yet published guidance on the information required to demonstrate
+        a product is interchangeable8. The trial design discussed in the resubmission to
+        assess interchangeability is that recommended by individual statisticians from two
+        American and two Taiwanese Universities (Chow et al9). Ebbers et al 2014 10 have
+        similarly suggested assessing multiple switches and consider that this could be
+        incorporated into the required registration study(s). A number of designs are
+        proposed. The simplest is a comparison of B, R and BRB. For infliximab the
+        Norwegian Department of Health are funding a double-blind randomised trial
+        comparing the safety and efficacy of switching from innovator infliximab (Remicade)
+        to biosimilar infliximab compared with continued treatment with innovator infliximab
+        (NOR-SWITCH study 11). For inclusion patients must have been on stable treatment
+        with innovator infliximab for at least 6 months. The planned sample size is 500
+        patients. The trial is due to be completed in April 2016. This trial is not assessing
+        multiple switches between the innovator and biosimilar.
+
+3.18    To date, the only biosimilar product approved using the pathway defined by the BCPI
+        Act is Zarxio (filgrastim) 12. This product has been approved as biosimilar. This
+        product has not been assessed for interchangeability.
+
+3.19    Basaglar received tentative FDA approval in August 201413. All regulatory
+        requirements were met; however, the approval is tentative because of litigation filed
+        by Sanofi claiming patent infringement. Basaglar was approved under the 505(b) (2)
+        pathway. Similar to the BCPI pathway, the 505(b) (2) pathway uses safety and
+        effectiveness data of a previously approved product. The 505(b)(2) pathway is largely
+        used to obtain approval of small-molecule drugs (eg. for approval of different dosage
+
+
+
+
+8
+
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM27
+3001.pdf, accessed 3 June 2015
+9
+  Chow et al Statistical methods for assessing interchangeability of biosimilars. Statist. Med 2013; 32:
+442-448
+10
+   Ebbers HC and Chamberlain P. Interchangeability. An insurmountable fifth hurdle? GaBI Journal
+2014; 3(2):88-93
+11
+   https://clinicaltrials.gov/ct2/show/study/NCT02148640
+12
+   http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm436648.htm, accessed 1
+June 2015
+13
+   http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/205692Orig1s000TAltr.pdf,
+accessed 10 June 2015
+
+                                                   6
+               Public Summary Document – November 2015 PBAC Meeting
+
+       forms, formulations, combination products) but has also been used to obtain approval
+       of products considered in Europe to be biosimilars (eg. somatropin, glucagon).
+
+3.20   The 505(b) (2) pathway is only available for biologics that had been approved under
+       a new drug application (NDA) before the BPCI Act was signed into law in March 23,
+       2010, and it is only available for these biologics until March 23, 2020. After this,
+       biological products will be considered under the BPCI pathway.
+
+3.21   As Basaglar was not considered under the BCPI pathway it was not assessed for
+       interchangeability. The PBAC noted the sponsor’s assertion in the pre-PBAC
+       response that the 505(b)(2) pathway is analogous to the FDA biosimilar pathway in
+       all scientific aspects and the FDA has the opportunity to issue an interchangeability
+       determination for Basaglar through the 505(b)(2) pathway, by designation of an ‘A’
+       rating but so far has given no indication that it will do so.
+
+3.22   The resubmission considered (p5) the data from the ABEB and ABEC trials would
+       not be adequate for the assessment of switching as this would require switching and
+       alternating between Lantus and Basaglar, in a clinical trial setting.
+
+3.23   The submission’s assertions regarding clinical trial designs are speculative as the
+       FDA requirements for assessing interchangeability are yet to be defined, and as FDA
+       did not consider, nor was it asked to consider the interchangeability of Basaglar and
+       Lantus.
+
+3.24   At the March 2015 meeting, the PBAC noted that approximately 81% of 268 patients
+       and 41% of 376 patients switched from Lantus to Basaglar in the Basaglar arm of the
+       ABEB (in type 1 diabetes patients) and ABEC (in type 2 diabetes patients) trials
+       respectively, albeit the patients switched brands once only (paragraph 7.4 of March
+       2015 minutes). The resubmission notes (p4-5):
+
+          the switch occurred at randomisation under direct medical supervision;
+          no data are available from the period before the switch other than patients basal
+           characteristics assessed at a single time point; and
+          patients that received Lantus prior to randomisation did not receive it in a
+           controlled clinical trial environment and hence, data regarding safety, dosage and
+           compliance are incomplete.
+
+3.25   Additional information regarding the design of the ABEB and ABEC trials is provided
+       below.
+
+       ABEB Trial
+3.26   In the ABEB trial, the insulin glargine (Lantus and Basaglar) was self-administered
+       using pre-filled pens. Both bolus and basal insulins were switched in patients. At
+       randomisation, all patients were switched from their pre-study bolus mealtime insulin
+       (human regular insulin, or insulin analog lispro, aspart, or glulisine) to insulin lispro
+       (ABEB CSR, p58 and p62). All patients were switched from their pre-study QD basal
+       insulin (NPH, LANTUS®, or detemir) to either Basaglar or Lantus based on their
+       random allocation (ABEB CSR, p58 and p62).
+
+
+
+
+                                              7
+               Public Summary Document – November 2015 PBAC Meeting
+
+3.27   Titration of the basal or bolus insulin dose was investigator driven during phone and
+       office visits. Most of the basal and bolus insulin dose adjustments occurred during
+       the initial titration period (Weeks 0 through 6). However, titration was extended up to
+       Week 12 for patients who needed more intensification to achieve glycaemic targets.
+       Insulin dose adjustments during the maintenance period were for safety concerns
+       such as hypoglycaemia or unacceptable hyperglycaemia. Patients who based their
+       bolus insulin doses on carbohydrate-counting continued adjusting their doses
+       accordingly to attain/maintain glycaemic goals (p62). Therefore, it is likely that
+       patients continue to titrate their insulin lispro throughout the study period, on top of
+       any adjustments for the insulin glargine.
+
+3.28   Data are not recorded in the CSR for the period prior to the switch however, for
+       inclusion in the ABEB trial, patients must have been on basal-bolus insulin therapy
+       for at least 1 year prior to screening. Basal insulin was required to be QD injection of
+       NPH, LANTUS®, or detemir for at least 3 months prior to screening and combined
+       with mealtime injections of bolus insulin (ABEB CSR, p58). Patients had no more
+       than one episode of severe hypoglycaemia, diabetic ketoacidosis or emergency room
+       visit for uncontrolled diabetes leading to hospitalisation within the previous 6 months.
+       Thus the trial included type 1 diabetes patients with stable disease.
+
+3.29   This trial had a longer study period compared to ABEC. ABEB included a 24-week
+       treatment period, a 28-week active-controlled extension period, and a 4-week post-
+       treatment follow-up. Patients visited the investigator site at weeks 0, 2, 6, 12, 18, 24,
+       30, 36, 44, and 52 for study assessments (ABEB CSR, p56). Between visits 2 (week
+       0) and 3 (week 2), and visits 3 (week 2) and 4 (week 6), patients were contacted over
+       the telephone to assess their response to the study drug and to further adjust insulin
+       doses, if needed.
+
+3.30   At baseline the LS mean HbA1c (%) was 7.76 and 7.79 in the Basaglar and Lantus
+       group, respectively, and by 24 weeks this had reduced slightly to 7.42 and 7.33
+       (ABEB CSR, Table ABEB 11.2). The insulin glargine dose (either as Lantus or
+       Basaglar) was increased by a mean of 2 units/day, between baseline and week 24
+       (ABEB CSR, Table ABEB.11.8). The insulin lispro dose reduced by a mean of 1
+       unit/day between baseline and week 24 (ABEB CSR, Table ABEB 11.9). Thus during
+       the ABEB trial the patient’s insulin glargine and bolus insulin dose was reasonably
+       stable, and the reduction in HbA1c levels was relatively small.
+
+       ABEC Trial
+3.31   In the ABEC trial, the insulin glargine (Lantus or Basaglar) was self-administered
+       using a vial and syringe. The titration of the insulin glargine dose was patient-driven
+       utilising instructional material provided by Eli Lilly (ABEC CSR, p42). Sites were
+       responsible for consistent instruction of all enrolled patients with the materials
+       provided. The patient-driven titration included the addition of 1 U of insulin daily until
+       fasting blood glucose (FBG) reached ≤100 mg/dL (5.6 mmol/L). The investigators
+       had the discretion of titrating the patient dose by more than 1 U daily during the visits
+       if it was found to be necessary (ie, hyperglycaemia persisted despite appropriate
+       patient titration). The investigators also had the discretion to decrease the dose only
+       if it was noted that patients were experiencing hypoglycaemia.
+
+
+
+
+                                               8
+               Public Summary Document – November 2015 PBAC Meeting
+
+3.32   During the 24 week treatment period patients visited the investigator site at weeks 0,
+       2, 4, 8, 12, 16, 20, and 24, and patients were contacted by telephone between the
+       office visits.
+
+3.33   Data are not recorded in the CSR for the period prior to the switch however, for
+       inclusion in the ABEC trial patients were required to be receiving 2 or more oral
+       antidiabetic agents (OADs) at stable doses for at least 12 weeks. Furthermore,
+       patients were to have not used any other insulin except Lantus within the 30 days
+       prior to entry, and were to not have had more than 1 episode of severe
+       hypoglycaemia within the previous 6 months. Thus the trial included type 2 diabetes
+       patients with stable disease.
+
+3.34   The type 2 diabetes patients included in the ABEC trial are a subset of patients likely
+       to be treated in clinical practice. Specifically, patients with a history of taking basal
+       bolus therapy, patients likely to require mealtime insulin to achieve target control, and
+       patients that had used short-acting glucagon-like peptide 1 (GLP-1) agonist (eg,
+       exenatide) or long acting GLP-1 agonist (eg, liraglutide) within the previous 90 days
+       were excluded from participating in the trial. Patients with significant comorbidities
+       were also excluded.
+
+3.35   The ABEC trial included patients that were (i) insulin naïve, (ii) treated with Lantus
+       with adequate glycaemic control or (iii) treated with Lantus but had inadequate
+       glycaemic control. Overall, 39.6% of patients were treated with Lantus at study entry.
+       Only 5.8% of patients had a HbA1c of <7.0% at baseline, and 44.6% had a HbA1c
+       ≥8.5% (AEBC CSR, Table ABEC.11.1). Thus it appears that the majority of patients
+       in the ABEC trial had inadequate glycaemic control at study entry. For patients
+       treated with Lantus at study entry, the insulin glargine dose (either as Lantus or
+       Basaglar) was increased by a mean of 16-20 units/day, and the HbA1c decreased by
+       a mean of approximately 1.0%, during the 24 week trial period (ABEC CSR, Table
+       ABEC.11.11). Thus during the ABEC trial the patient’s insulin glargine treatment was
+       generally intensified compared with that prior to study entry.
+
+The impact of substitution on the collection of longer term evidence of safety
+
+3.36   The safety data from the ABEB and ABEC trials were reviewed by the PBAC at their
+       March 2015 meeting. The PBAC considered that the claim of non-inferior
+       comparative safety was adequately supported (PBAC minutes paragraph 7.2). The
+       resubmission notes (p5) that establishing the comparative safety profile requires
+       more experience than that gained within a clinical trial, and market experience with
+       the biosimilar product is essential in order to detect rare events that cannot be
+       detected in clinical trials. Immunogenicity is noted to be of particular concern. The
+       resubmission (p6) and the March 2015 PBAC minutes (paragraph 6.16) quote the
+       following from the Delegate’s Overview for Basaglar, and it is noted that a
+       pharmacovigilance plan is in place for Basaglar:
+
+       ‘[t]he general corresponding concern for biosimilars is that even small and innocuous
+       differences in manufacture, formulation, or presentation could lead to unforseen
+       clinical consequences associated with immunogenicity, which could lead to reduced
+       efficacy or new safety problems.’
+
+
+
+                                              9
+                   Public Summary Document – November 2015 PBAC Meeting
+
+3.37      The resubmission considered (p6) that substitution of Lantus and Basaglar by the
+          pharmacist could compromise pharmacovigilance, specifically the traceability to a
+          particular form of insulin glargine could be compromised. It is noted that prescribers
+          report significantly more adverse events (AEs) than pharmacists, and only
+          pharmacists will have direct knowledge of the actual item dispensed. Further, the
+          clinician may rely on assumed knowledge of the medicine used based on the original
+          prescription. TGA AE reporting statistics for 2011 are presented in the resubmission
+          (p6). Of the approximately 14,400 reports received by the TGA, 52% were from
+          pharmaceutical companies, 12% from hospitals, 7% from General Practitioners, 18%
+          from State and Territory Health Departments and 3% from consumers. The sources
+          for other reports (8%) included community pharmacists and specialists. Lilly states
+          that most of the AEs reported through their local pharmacovigilance programs are
+          derived through sales representative interactions with prescribing health care
+          professionals.
+
+3.38      The “Blue Card” for AE reporting requests for the suspected medicine that the trade
+          name is used and, if known, the batch number and AUST R or AUST L number is
+          provided14. Given this a prescriber may source additional detail, including the trade
+          name, from the patient and/or pharmacist. Table 1 provides the number of AEs
+          reported with and without the trade name specified for insulin glargine, two oral
+          antidiabetic agents with multiple generic brand available (metformin and gliclazide)
+          and a biological with a biosimilar available (filgrastim).
+
+          Table 1: AEs reported with and without trade name from the Australian Database of
+          Adverse Event Notifications (DEAN)
+
+           Medicine           Time period          AE Reports
+
+           Insulin glargine   1 January 2013 –     Total: 85 reports
+                              21 February 2015     Trade name specified (Lantus, Lantus Optiset,
+                                                   Lantus Solostar): 82 reports
+                                                   Trade name not specified: 3 reports
+
+           Metformin          1 January 2013 –     Total: 182 reports
+                              21 February 2015     Trade name specified: 76 reports
+                                                   Trade name not specified: 106 reports
+
+           Gliclazide         1 January 2013 –     Total: 26 reports
+                              21 February 2015     Trade name specified: 14 reports
+                                                   Trade name not specified: 12 reports
+                                              a
+           Filgrastim         1 January 2011 –     Total: 20 reports
+                              21 February 2015     Trade name specified (Neupogen, Nivestim): 11
+                                                   reports
+                                                   Trade name not specified: 9 reports
+
+          a The first filgrastim biosimilar (Nivestim) was listed on 1 April 2011
+          Source: Database of Adverse Event Notifications (DEAN) – medicines;
+          http://apps.tga.gov.au/PROD/DAEN/daen-entry.aspx, accessed 9-10 June 2015
+
+
+
+
+14
+     https://www.tga.gov.au/sites/default/files/problem-medicines-forms-bluecard-150218.pdf
+
+                                                    10
+                Public Summary Document – November 2015 PBAC Meeting
+
+3.39   As of 2012 European legislation mandates prescription of all biological medicinal
+       products by brand name, as well as recording of the batch number of the product
+       used 15. Based on an analysis of 13,790 spontaneous adverse drug reaction (ADR)
+       reports from the EU EudraVigilance over the period 2004-2010, brand names were
+       recorded for 90.4% of biopharmaceuticals and for 96.2% of biopharmaceuticals when
+       the biopharmaceutical was the suspected drug 16. Batch numbers were rarely
+       reported with the brand name and batch number reported for 3.8% of
+       biopharmaceuticals and for 5.3% of suspected biopharmaceutical. However, this
+       analysis predates the legislation mandating the recording of batch numbers.
+
+3.40   A similar analysis of the Italian Spontaneous Reporting System Database over the
+       period 2001-2013, reported that 94.8% of biological-related reports included an
+       identifiable product name, whilst only 8.6% indicated the corresponding batch
+       number.17
+
+Substitutability of delivery devices
+
+3.41   The resubmission quoted (p5) the following from the FDA’s Guidance for Industry o n
+       Biosimilars: Q & As Regarding Implementation of the BPCI Act of 2009 :
+
+       “Additional considerations apply for a proposed interchangeable product. For
+       example, in reviewing an application for a proposed interchangeable product, the
+       FDA may consider whether the differences from the reference product significantly
+       alter critical design attributes, product performance, or operating principles, or would
+       require additional instruction to healthcare providers or patients, for patients to be
+       safely alternated or switched between the reference product and one or more
+       interchangeable products without the intervention of the prescribing healthcare
+       provider. Additional performance data about the delivery device may also be
+       necessary”.
+
+3.42   The resubmission noted (p5) the Basaglar clinical trials did not test the possible
+       safety implications of switching patients between Lantus and Basaglar delivery
+       devices without the intervention of the prescribing healthcare provider.
+
+3.43   The resubmission argued (p7) that ‘…differences between the disposable pens can
+       create confusion and potentially compromise patient safety, and …. that there are
+       significant risks associated with substitution between the different brands of
+       cartridges’. More specifically, patients may receive a different device to the one they
+       were trained on, or they may receive a cartridge that cannot be used with their
+       current re-usable pen. It is further noted that with the Lantus Solostar pen patients
+       are able to dial 80 units per injection whereas with the Basaglar Kwikpen patients are
+       only able to dial 60 units per injection. Thus patients who require more than 60U per
+
+
+15
+   Ebbers HC and Chamberlain P. Interchangeability. An insurmountable fifth hurdle? GaBI Journal
+2014; 3(2):88-93
+16
+   Vermeer NS et al. Traceability of Biopharmaceuticals in Spontaneous Reporting Systems: A Cross-
+Sectional Study in the FDA Adverse Event Reporting System (FAERS) and EudraVigilance
+Databases. Drug Saf 2013; 36:617–625
+17
+   Cutroneo PM et al. Safety Profile of Biological Medicines as Compared with Non-Biologicals: An
+Analysis of the Italian Spontaneous Reporting System Database. Drug Saf 2014; 37:961–970
+
+                                               11
+                   Public Summary Document – November 2015 PBAC Meeting
+
+          day will need to inject twice with Basaglar, but possibly only once with Lantus. Or, if a
+          second injection was required with Lantus, the number of units required to be dialled
+          for the second injection when using Basaglar would be different to that when using
+          Lantus. The resubmission considers that this could create significant confusion to the
+          patients and could potentially lead to serious medication errors.
+
+3.44      The resubmission appeared to be concerned that substitution will occur automatically
+          and unchecked.
+
+3.45      However, brand substitution has been occurring successfully for many years and
+          there are well established guidelines and processes for substitution of ‘a’ flagged
+          items, which clinicians, pharmacists and patients are familiar with.
+
+3.46      As always, the prescriber has the option to offer patients the choice of taking the
+          original brand or the substitute brand, or to indicate on the prescription that only the
+          brand being prescribed must be dispensed. Similarly, the patient has the choice as
+          to whether or not they wish to receive a substitute brand at the time of dispensing, if
+          that option has been made available by the prescriber.
+
+3.47      Further, professional societies such as the Pharmaceutical Society of Australia (PSA)
+          provide guidelines to professional pharmacists which outline the conditions under
+          which substitution is permitted and provide guidance on best practice for dispensing
+          substitute pharmaceutical benefits. These include recommendations including that; 18
+
+                 Where substitution is allowed and the patient is offered or enquires about
+                  alternate brands, the pharmacist and the patient should discuss the safety
+                  and suitability of alternate brands for that patient,
+                 Brand substitution may only occur after consultation with and agreement of
+                  the patient, and
+                 Where substitution is allowed, the pharmacist must provide thorough advice
+                  (including for example, differences in product presentation) whenever
+                  substitution occurs.
+
+3.48      The PSA has also recently published a position statement on biosimilar medicines, in
+          which it notes that pharmacists follow substitution principles which respect the choice
+          of prescribers and patients. The statement affirms that patient safety is a prime
+          concern of the pharmacy profession and notes that in relation to biosimilar
+          medicines, risk assessment steps include assessment of safety and efficacy by the
+          TGA, consideration by the PBAC and clinical assessment by the prescriber have
+          been taken. 19
+
+3.49      In relation to insulin, many pharmacies stock and supply delivery devices, with
+          pharmacists able to provide training to patients on their use. In addition, diabetes
+          educators can discuss the available brands of insulin glargine and, if appropriate,
+          instruct patients to request the pharmacist provide a specific brand or device.
+
+
+18
+     http://www.psa.org.au/download/policies/pbs-brand-substitution.pdf; accessed 19 June 2015
+19
+  https://www.psa.org.au/download/policies/biosimilar-medicines-position-statement.pdf, accessed 30
+September 2015
+
+                                                  12
+                Public Summary Document – November 2015 PBAC Meeting
+
+
+3.50   Further, the Commonwealth has recently committed to the launch of a national
+       campaign costing up to $20 million over three years to increase the awareness,
+       understanding and uptake of biosimilar medicines.
+
+3.51   There is currently a multiplicity of insulin brands and devices listed on the PBS with
+       some insulins being available in five different brand/device combinations, not all of
+       which are readily distinguishable at the brand name level (see examples in Table 2).
+       The availability of the Basaglar devices as alternatives to the Lantus devices would
+       not be expected to result in additional complexity to what is already being managed
+       in practice.
+
+       Table 2: Examples of PBS listed insulin brand/device combinations
+
+
+
+
+       Source: National Health (Listing of Pharmaceutical Benefits) Instrument 2012 (PB 71 of 2012);
+       http://www.comlaw.gov.au/Details/F2015C00406, accessed 14 June 2015
+
+3.52   At the March 2015 meeting, the PBAC considered “that any differences in the re-
+       usable pen devices, can be managed in the course of the regular patient education
+       and counselling on the use of the devices that is provided to patients by prescribers,
+       pharmacists and diabetes educators, and that these differences were not sufficient to
+       preclude marking the two brands as equivalent. Similarly, the PBAC considered that
+       any differences in the pre-filled disposable pen devices can be managed in the
+       course of the regular patient education and counselling.” (PBAC minutes paragraph
+       7.7)
+
+
+                                                    13
+               Public Summary Document – November 2015 PBAC Meeting
+
+3.53   The PBAC reiterated this position at the July 2015 consumer meeting on biosimilars,
+       stating that it considered that differences in drug delivery devices may be able to be
+       managed in the course of the regular patient education and counselling on the use of
+       the devices that is provided to patients by prescribers, pharmacists and other health
+       care professionals, but that this would be considered on a case by case basis.
+
+3.54   PBAC noted Lilly’s continuing concerns regarding the substitutability of the delivery
+       devices as set out in its pre-PBAC response. See also Section 4 – outcomes.
+
+
+Therapeutic Goods Administration (TGA) and Advisory Committee for Prescription
+Medicines (ACPM) considerations
+
+3.55   In considering what advice to give to the Minister on this matter, the PBAC took into
+       account the materials concerning the TGA’s consideration of Basaglar, including:
+
+          -   The Basaglar Product Information;
+          -   Email correspondence of 10-11 November 2014 between the TGA and Eli
+              Lilly regarding the Health Care Professionals letter;
+          -   the TGA letter to Eli Lilly dated 17 April 2015;
+          -   Eli Lilly’s Basaglar resubmission of April 2015, including the submissions in
+              section 3 of that resubmission;
+          -   the Department’s overview for PBAC for insulin glargine, including the
+              outcomes of the TGA review of the section of the Eli Lilly resubmission
+              relevant to the TGA/ACPM’s determination regarding substitutability as
+              recorded at paragraphs 3.53 – 3.54 of that overview ; and
+          -   the sponsors pre-PBAC response of October 2015.
+3.56   The PBAC Minutes from March 2015 indicate that the PBAC considered that neither
+       the TGA nor the ACPM made a determination regarding the pharmacist-level
+       substitutability of Basaglar and Lantus. However, Eli Lilly’s resubmission asserts that
+       documentary evidence demonstrates that the TGA and/or the ACPM did indeed
+       make a positive determination regarding the substitution of Basaglar and Lantus and
+       required conditions of registration and PI wording, confirming Basaglar should only
+       be substituted with Lantus under strict medical supervision.
+
+3.57   The TGA subsequently wrote to Eli Lilly on 17 April 2015 to confirm its position that
+       substitutability was not evaluated by the TGA and advice on whether or not the
+       product was substitutable was not sought from ACPM.
+
+3.58   The TGA has reviewed the section of the Eli Lilly resubmission relevant to the
+       TGA/ACPM’s determination regarding substitutability and has indicated that,
+       consistent with the 17 April letter, it does not agree with the proposition that “the
+       actions of the TGA and ACPM… evidence an active consideration of the issue, and
+       positive determination that pharmacist-level substitution is not appropriate for
+       Basaglar and Lantus, by the TGA and ACPM.”
+
+3.59   Rather, the TGA has confirmed its view that the material described by Eli Lilly in the
+       resubmission, is consistent with the proposition that both the delegate and ACPM
+       were adopting the approach outlined in the 2013 TGA guidance document
+       (Evaluation of Biosimilars V1.0, July 2013), and not making a specific finding about
+
+
+                                             14
+               Public Summary Document – November 2015 PBAC Meeting
+
+       whether Basaglar could be substituted at the pharmacy level for Lantus. The TGA
+       confirmed that the approved PI wording was intended to reflect the statements in the
+       biosimilars guidance document generally, rather than being indicative of any specific
+       conclusion in relation to Basaglar resulting from analysis, by the delegate or by
+       ACPM, of data provided by Ely Lilly in relation to for the particular medicine. While
+       the TGA acknowledges the email correspondence of 10-11 November 2014
+       regarding the possibility of the imposition of a condition in relation to a health care
+       professional letter, it notes that no such condition was imposed on the registration of
+       Basaglar.
+
+The PBAC’s power to make a finding regarding substitutability
+
+3.60   The PBAC has always provided advice to the Minister regarding whether a brand or
+       form of a medicine listed on the PBS should be substitutable for another brand or
+       form of the same medicine at the time of dispensing. Examples of where this advice
+       is provided include different brands and forms of both small chemical molecule and
+       biological medicines.
+
+3.61   At its March 2015 meeting, the PBAC considered a request for advice, pursuant to
+       section 101(3) of the National Health Act 1953 (NH Act), made to it by the Minister’s
+       delegate. That section of the Act provides:
+
+       “The Pharmaceutical Benefits Advisory Committee shall make recommendations to
+       the Minister from time to time as to the drugs and medicinal preparations which it
+       considers should be made available as pharmaceutical benefits under this Part and
+       shall advise the Minister upon any other matter concerning the operation of this Part
+       referred to it by the Minister.”
+
+3.62   The resubmission argued that, read in the context of the Therapeutic Goods Act
+       1989 (TG Act):
+
+          s101 (3) of the NH Act does not permit the PBAC to find that two products are
+           “equivalent” under section 84AJ of the NH Act if the TGA “has not made a
+           positive determination regarding the safety and efficacy of allowing pharmacist
+           level substitution of those products”. It would seem to follow that that the
+           Minister could not make a determination of equivalence in those circumstances;
+           and
+          (it follows from that, or even if that is wrong) the NH Act does not permit the
+           Minister to determine or decide that two products are equivalent for the purposes
+           of “a”-flagging, nor the PBAC to give advice to that effect, if the TGA has
+           concluded that pharmacy-level substitution is unsafe or should not be permitted.
+
+3.63   The resubmission argued the TGA is solely responsible, as part of considering
+       whether or not to register a medicine in Australia, for determining matters concerning
+       the safety and efficacy of the medicine.
+
+       (References in this context to conclusions of the TGA should be understood to mean
+       the conclusions of the Secretary’s delegate - usually an officer of the TGA - under the
+       TG Act.)
+
+
+
+                                             15
+               Public Summary Document – November 2015 PBAC Meeting
+
+3.64   In support of the argument made, the resubmission pointed to matters including the
+       following:
+
+          s25(1)(d) of the TG Act requires the TGA to consider matters of quality, safety
+           and efficacy when determining whether to register a product on the ARTG;
+          the PBAC is established under s100A of the NH Act to assess whether certain
+           drugs ought to be made available under the PBS;
+          the distinction between the PBAC’s economic focus and the TGA’s safety focus
+           is made clear in the two Acts’ regulation of the eligibility for membership to, and
+           the functions of, the respective bodies. This includes the detailed requirements in
+           the TG Act regarding the clinical and other data to be furnished to, and complex
+           evaluation of safety evidence to be undertaken by, the TGA.
+
+3.65   Subsequent to this resubmission being made, legislation passed by the Parliament
+       on 23 June 2015 made a technical amendment to the NH Act related to the PBAC
+       function for recommending schedule equivalence to the Minister, and the Minister’s
+       power to determine schedule equivalence:
+
+3.66   Under subsection 85(6A) of the NH Act commencing 1 November 2015, “If the
+       Minister determines a brand of a pharmaceutical item under subsection (6), the
+       Minister may, by legislative instrument, determine that, for the purposes of paragraph
+       103(2A)(b), the brand is to be treated as equivalent to one or more other brands of
+       pharmaceutical items.”
+
+3.67   Under subsection 85(6B) of the NH Act commencing 1 November 2015, “ In deciding
+       whether the brand of pharmaceutical item is to be treated as equivalent to one or
+       more other brands of pharmaceutical items, the Minister must have regard to any
+       advice given by the Pharmaceutical Benefits Advisory Committee.”
+
+3.68   Under subsection 101(4AACD) of the NH Act, commencing 1 November 2015, “The
+       Pharmaceutical Benefits Advisory Committee may give advice to the Minister in
+       relation to whether or not the Minister should determine that a brand of a
+       pharmaceutical item is to be treated as equivalent to one or more other brands of
+       pharmaceutical items.”
+
+3.69   Neither section 85(6A) or 85(6B) of the NH Act require that, prior to two
+       pharmaceutical benefits being marked as equivalent in the Schedule of
+       Pharmaceutical Benefits, any advice, let alone positive advice, must first be obtained
+       from the TGA that the two pharmaceutical benefits are substitutable.
+
+3.70   Nor does section 101(4AACD) of the NH Act, which empowers the PBAC to give
+       advice to the Minister, make any reference to the TG Act.
+
+3.71   The Department considers that:
+
+          substitutability of brands or forms of the same medicine (drug) is a matter which
+           may or may not be examined by the TGA in the course of assessing whether a
+           particular brand or form of that medicine should be registered;
+
+
+
+
+                                             16
+               Public Summary Document – November 2015 PBAC Meeting
+
+          if the TGA has not considered substitutability, that does not prevent the Minister
+           from deciding that the two pharmaceutical benefits should be “a”-flagged, nor the
+           PBAC from giving advice to the Minister about whether that should happen;
+          if the TGA has considered substitutability, then any views expressed by the TGA
+           about that are matters which the Minister is permitted to, and would be likely to
+           wish to, take into account when deciding whether or not two pharmaceutical
+           benefits should be “a”-flagged. Similarly, they would be matters which the
+           PBAC, if advising the Minister, would be permitted to take into account.
+
+3.72   In understanding the PBAC’s and the Minister’s powers it is of relevance to recall
+       that:
+
+          the primary implications of an “a”-flagging decision relate to an offence in the
+           context of the supply of a pharmaceutical benefit as part of a Commonwealth
+           subsidy scheme;
+          the decision as to whether, in any particular case, an “a”-flagged pharmaceutical
+           benefit will be substituted, remains in the hands of prescribers and pharmacists;
+           and
+          an “a”-flagging decision does not prevent a prescriber or pharmacist from
+           deciding that, for any particular patient, switching between the two “a”-flagged
+           pharmaceutical benefits is not safe.
+
+3.73   The “a”-flagging of two pharmaceutical benefits in the Schedule of Pharmaceutical
+       Benefits, as a matter of law simply has the effect that it is not an offence for a
+       pharmacist, in certain circumstances, to supply under the PBS a particular
+       pharmaceutical benefit (the substitute benefit) even though another pharmaceutical
+       benefit was prescribed. It will be an offence for the pharmacist to do that if:
+
+          the prescriber indicated that only the pharmaceutical benefit referred to in the
+           prescription could be supplied; or
+          the supply of the substitute benefit is prohibited in the state or territory where it is
+           to be supplied.
+
+3.74   “A”-flagging does not require substitution for all patients, nor permit substitution
+       where a prescriber has considered that not to be appropriate.
+
+3.75   Even where two pharmaceutical benefits are “a”-flagged, it is up to the relevant
+       prescriber and pharmacist to determine whether substitution is appropriate. Both of
+       those health professionals will have regard to the individual patient’s circumstances
+       to consider whether substitution is appropriate and may:
+
+          in the case of the prescribing physician, elect to write the prescription so as to
+           indicate that substitution by the pharmacist is not permissible; or
+          in the case of the pharmacist, elect not to dispense the ‘substitute’
+           pharmaceutical benefit.
+
+3.76   The fact that individual patient safety concerns remains an issue for the pharmacist
+       to consider, even where two pharmaceutical benefits are “a”-flagged, is reflected in
+       the PSA’s “Dispensing Practice Guidelines and Guidelines for Pharmacists on PBS
+       Brand Substitution”. Those documents contain the following statements:
+
+
+                                               17
+               Public Summary Document – November 2015 PBAC Meeting
+
+
+          “Where there is a potential option for brand substitution, a discussion of the
+           rationale should take place if the patient desires. Following a full disclosure of the
+           choices, the pharmacist should be satisfied that the patient understands the
+           outcome. Details of the substitution should be recorded if substitution takes place
+           and noted on the prescription”;
+          “Consumer Medicine Information leaflets should be provided on initiation of any
+           treatment, and offered on subsequent dispensings according to established
+           guidelines.”
+          “Brand substitution may only occur after consultation with and agreement of the
+           patient (or the carer), and if the prescriber has not indicated on the prescription,
+           “no substitution”, or equivalent.
+          Where substitution is allowed and the patient is offered or enquires about
+           alternate brands, the pharmacist and the patient should discuss the safety and
+           suitability of alternate brands for that patient.
+          The patient’s health should always be the pharmacist’s prime consideration in
+           any brand substitution decision. Decisions to substitute one brand for another
+           should not place patients at risk.
+          Pharmacists should endeavour to be consistent in the selection of brands for
+           patients on long-term therapy in order to avoid patient confusion. If this is not
+           possible then the patient should be consulted.”
+
+3.77   The pre-PBAC response noted that subsequent to Lilly’s resubmission, legislation
+       was passed to amend the NH Act related to the PBAC function for recommending
+       schedule equivalence to the Minister, and the Minister’s power to determine schedule
+       equivalence.
+
+3.78   The pre-PBAC response asserts that “in providing legitimate advice to the Minister on
+       the question of substitutability, the PBAC cannot disregard issues of safety and
+       efficacy, which are matters assessed by the TGA, ACPM and Secretary’s delegate
+       related to the statutory obligation under section 25(1)(d) of the TG Act. The evidence
+       indicates that the Secretary’s delegate made a decision to register Basaglar on the
+       basis that pharmacy-level substitution should not be permitted and should only
+       otherwise occur under strict medical supervision. If the PBAC disregards the
+       decision of the Secretary’s delegate and recommends to the Minister that Basaglar
+       and Lantus ought to nevertheless be regarded as equivalent, then the PBAC would
+       likely fall into administrative error, having failed to take relevant considerations into
+       account in making its recommendation.
+
+3.79   As noted above in paragraphs 3.54 to 3.58, the PBAC has taken into account, in the
+       course of considering the resubmission, the views of the TGA (including the
+       Secretary’s delegate).
+
+4      PBAC Outcome
+
+4.1    The PBAC reaffirmed its March 2015 advice to the Minister that the Basaglar and
+       Lantus brands of insulin glargine cartridges, and the Basaglar KwikPen and Lantus
+       Solostar brands of insulin glargine pre-filled disposable pens respectively, could be
+       marked as equivalent in the Schedule of Pharmaceutical Benefits for the purposes of
+       substitution by the pharmacist at the point of dispensing.
+
+
+                                              18
+              Public Summary Document – November 2015 PBAC Meeting
+
+
+4.2   The PBAC noted the sponsor’s concerns about safety of substitution and risk to
+      pharmacovigilance as set out in the resubmission and pre-PBAC response. The
+      PBAC considered that these concerns could be addressed, in part because the
+      substitution of medicines in Australia is not “automatic”. Substitution at the point of
+      dispensing is performed only in consultation with, and with the consent of, the
+      patient. The submission claimed that pharmacovigilance accuracy would be
+      negatively impacted because only pharmacists would have direct knowledge of the
+      actual item dispensed, however the PBAC considered that as substitution is
+      performed in consultation with the patient, the patient would also have knowledge of
+      the brand dispensed. The PBAC noted that there may be a role for the eHealth
+      record in the collection of this information to aid with pharmacovigilance.
+
+4.3   The PBAC noted that there are professional guidelines on substitution issued by the
+      Pharmaceutical Society of Australia and that the Pharmacy Guild of Australia has
+      also produced a policy position on biosimilars and substitution that emphasise patient
+      safety and consultation.
+
+4.4   The PBAC noted that the prescriber has the option to offer patients the choice of
+      taking the original brand or the substitute brand, or to indicate on the prescription that
+      only the brand being prescribed must be dispensed. Similarly, the patient has the
+      choice as to whether or not they wish to receive a substitute brand at the time of
+      dispensing, if that option has been made available by the prescriber.
+
+4.5   The PBAC noted the sponsors concern that doctors are more often reporters of
+      adverse drug reactions (ADRs) and that they will use their prescribing records for
+      reporting. The PBAC noted that the TGA ADR reporting system requests the trade
+      name of the medicine, and additionally the batch and AUSTL or AUSTR numbers if
+      known. The PBAC agreed that community pharmacists may not be as frequent
+      reporters of ADRs, however considered that with the education and promotion being
+      undertaken for biosimilars, there was opportunity to enhance pharmacovigilance by
+      pharmacists.
+
+4.6   The PBAC noted that the Solostar delivery device for Lantus can deliver a higher
+      dose, 80 units, than the Kwikpen device for Basalgar, 60 units. The PBAC
+      considered that the proportion of patients requiring a dose in the range between 60
+      and 80 units was small, and that in other aspects, the pen delivery devices were
+      similar. The PBAC further noted that the actual devices are not routinely provided by
+      pharmacies, but by clinicians and diabetes educators. The PBAC considered this
+      would likely reduce the occasions on which pharmacy level substitution can occur
+      without the involvement of the clinician or diabetes educator. The PBAC therefore
+      reaffirmed its view that any differences in the re-usable pen devices, can be
+      managed in the course of the regular patient education and counselling on the use of
+      the devices that is provided to patients by prescribers, pharmacists and diabetes
+      educators, and that these differences were not sufficient to preclude marking the two
+      brands as equivalent.
+
+4.7   The PBAC also noted an Australian study (Kalisch et al 2009) that found that the
+      number of pharmacies attended by a patient was the factor most likely to increase
+      odds of multiple brand substitution. The PBAC noted that most pharmacies do not
+
+
+                                             19
+               Public Summary Document – November 2015 PBAC Meeting
+
+       stock a large range of insulins (given the high cost, large number of brands and
+       forms available, and the requirement for refrigeration) and considered that patients
+       who require insulin glargine are more likely to utilise a single pharmacy that orders
+       stock specifically for that patient.
+
+4.8    The PBAC reiterated that it is of a mind to consider whether a biosimilar medicine is
+       suitable for substitution by pharmacists on the basis of each application on its own
+       merit, based on the evidence presented in each case, rather than adopting an overall
+       policy-position a priori.
+
+Outcome:
+The PBAC reaffirmed its March 2015 advice to the Minister that the Basaglar and Lantus
+brands of insulin glargine cartridges, and the Basaglar KwikPen and Lantus Solostar brands
+of insulin glargine pre-filled disposable pens respectively, could be marked as equivalent in
+the Schedule of Pharmaceutical Benefits for the purposes of substitution by the pharmacist
+at the point of dispensing.
+
+
+5      Context for Decision
+
+       The PBAC helps decide whether and, if so, how medicines should be subsidised in
+       Australia. It considers submissions in this context. A PBAC decision not to
+       recommend listing or not to recommend changing a listing does not represent a final
+       PBAC view about the merits of the medicine. A company can resubmit to the PBAC
+       or seek independent review of the PBAC decision.
+
+6      Sponsor’s Comment
+
+       The sponsor disagrees with the PBAC’s recommendation to reaffirm the March 2015
+       advice to the Minister to ‘a’-flag Basaglar and Lantus brands of insulin glargine. We
+       remain concerned that the evidence base for Basaglar does not support substitution
+       at the pharmacy level and that the regulatory and cost effectiveness processes
+       together created yet-unresolved conflicts between the TGA and PBAC requirements
+       for Basaglar that make it difficult to proceed with a listing till they are sufficiently
+       resolved.
+
+
+
+
+                                             20
+

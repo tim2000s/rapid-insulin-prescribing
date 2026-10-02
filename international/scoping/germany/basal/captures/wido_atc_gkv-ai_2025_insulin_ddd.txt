@@ -1,0 +1,37 @@
+Source: WIdO, Anatomisch-therapeutisch-chemische Klassifikation mit Tagesdosen, GKV-Arzneimittelindex 2025 (ATC GKV-AI_2025.pdf), in https://www.wido.de/fileadmin/Dateien/Dokumente/Publikationen_Produkte/Arzneimittel-Klassifikation/ATC_2026/wido_arz_atc-index_april25_04_2026.zip, fetched 2026-10-02. Lines from pdftotext -layout:
+
+A10AB      Insuline und Analoga zur Injektion, schnell wirkend
+A10AB01    Insulin (human)                                         40 E P
+A10AB02    Insulin (Rind)                                          40 E P
+A10AB03    Insulin (Schwein)                                       40 E P
+A10AB04    Insulin lispro                                          40 E P
+A10AB05    Insulin aspart                                          40 E P
+A10AB06    Insulin glulisin                                        40 E P
+A10AB30    Kombinationen                                           40 E P
+ATC-Code   ATC-Bedeutung                                              DDD-Info
+
+A10AC      Insuline und Analoga zur Injektion, intermediär wirkend
+A10AC01    Insulin (human)                                            40 E P
+A10AC02    Insulin (Rind)                                             40 E P
+A10AC03    Insulin (Schwein)                                          40 E P
+A10AC04    Insulin lispro                                             40 E P
+A10AC30    Kombinationen                                              40 E P
+
+A10AD      Insuline und Analoga zur Injektion, intermediär oder lang wirkend kombiniert mit schnell wirkend
+A10AD01    Insulin (human)                                            40 E P
+A10AD02    Insulin (Rind)                                             40 E P
+A10AD03    Insulin (Schwein)                                          40 E P
+A10AD04    Insulin lispro                                             40 E P
+A10AD05    Insulin aspart                                             40 E P
+A10AD06    Insulin degludec und Insulin aspart                        40 E P
+A10AD30    Kombinationen                                              40 E P
+
+A10AE      Insuline und Analoga zur Injektion, lang wirkend
+A10AE01    Insulin (human)                                            40 E P
+A10AE02    Insulin (Rind)                                             40 E P
+A10AE03    Insulin (Schwein)                                          40 E P
+A10AE04    Insulin glargin                                            40 E P
+A10AE05    Insulin detemir                                            40 E P
+A10AE06    Insulin degludec                                           40 E P
+A10AE07    Insulin icodec                                             40 E P
+A10AE30    Kombinationen                                              40 E P

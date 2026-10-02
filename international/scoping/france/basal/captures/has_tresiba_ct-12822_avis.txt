@@ -1,0 +1,1801 @@
+                  COMMISSION DE LA TRANSPARENCE
+                                                Avis
+                                             2 avril 2014
+
+     Le projet d’avis de la Commission de la transparence adopté le 18 décembre 2013
+                           a fait l’objet d’une audition le 2 avril 2014
+
+
+     TRESIBA 100 U/ml, solution injectable en stylo pré rempli
+     B/5 stylos pré remplis de 3 ml (CIP : 34 009 268 531-5 0)
+
+     TRESIBA 100 U/ml, solution injectable en cartouche
+     B/5 cartouches de 3 ml (CIP : 34 009 268 533-8 9)
+
+
+     Laboratoire NOVO NORDISK
+
+     DCI                 insuline degludec
+     Code ATC (2013)     Non encore attribué
+
+
+     Motif de l’examen   Inscription
+
+
+                         Sécurité Sociale (CSS L.162-17)
+     Listes concernées
+                         Collectivités (CSP L.5123-2)
+     Indication
+                         « Traitement du diabète de l’adulte. »
+     concernée
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique       1/33
+Avis 3
+                      Le service médical rendu par TRESIBA est important dans le traitement du
+SMR                   diabète de type 1 et de type 2 de l’adulte.
+
+                      Compte tenu :
+                         - du contrôle glycémique obtenu avec TRESIBA (insuline degludec)
+                             comparable à celui observé avec l’insuline glargine (LANTUS) dans le
+                             diabète de type 1 et de type 2 et l’insuline détémir (LEVEMIR) dans le
+                             diabète de type 1,
+                         - de la pertinence clinique difficilement appréciable d’un éventuel
+                             avantage en termes de réduction de la survenue d’hypoglycémies
+                             notamment nocturnes au vu des différences très faibles observées
+                             par rapport aux autres analogues lents et ce, malgré une évaluation
+ASMR                         méthodologique rigoureuse,
+                         - de la non-démonstration d’un impact en termes de morbi-mortalité
+                             notamment cardio-vasculaire,
+                         - de l’absence de donnée robuste permettant de recommander
+                             préférentiellement un analogue lent de l’insuline,
+                      la Commission considère que TRESIBA n’apporte pas d’amélioration du
+                      service médical rendu (ASMR V, inexistante) dans la prise en charge par les
+                      analogues lents de l’insuline (LANTUS et LEVEMIR) des patients adultes
+                      atteints de diabète de type 1 ou de type 2.
+
+                      Dans le diabète de type 1, TRESIBA peut être utilisé comme insuline basale
+                      dans un schéma basal-bolus (en association avec une insuline d’action
+                      rapide ou un analogue d’action rapide) au même titre que les autres
+                      analogues à longue durée d’action.
+
+Place     dans   la   Dans le diabète de type 2, TRESIBA, comme les autres analogues à longue
+stratégie             durée d’action, peut être utilisé :
+thérapeutique         - lors de la mise en place d’une insulinothérapie, comme insuline basale (en
+                      association avec un ou plusieurs antidiabétiques oraux)
+                      - lors de la mise en place d’un schéma insulinique intensifié, comme insuline
+                      basale dans un schéma basal-bolus (en association avec une insuline ou un
+                      analogue rapide ou ultrarapide).
+
+Recommandations       -
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                  2/33
+Avis 3
+01 INFORMATIONS ADMINISTRATIVES ET REGLEMENTAIRES
+
+AMM (procédure)          Date (procédure centralisée) : 21 janvier 2013
+
+Conditions de
+prescription et de
+                         Liste II
+délivrance / statut
+particulier
+
+                         2013
+Classement ATC
+                         non encore attribué
+
+
+
+02 CONTEXTE
+Il s’agit d’une demande d’inscription pour une nouvelle insuline basale, un analogue de l’insuline
+d’action lente, dans le traitement du diabète de l’adulte.
+
+
+
+03 INDICATIONS THERAPEUTIQUES
+« Traitement du diabète de l’adulte. »
+
+
+
+04 POSOLOGIE
+« Tresiba est une insuline basale pour administration sous-cutanée une fois par jour à n’importe
+quel moment de la journée, de préférence au même moment chaque jour.
+
+La teneur en insuline des analogues de l’insuline, y compris l’insuline dégludec, est exprimée en
+unités (U). Une (1) unité (U) d’insuline dégludec correspond à 1 unité internationale (UI) d’insuline
+humaine, à 1 unité d’insuline glargine ou à 1 unité d’insuline détémir.
+
+Chez les patients ayant un diabète de type 2, Tresiba peut être administré seul, en association
+avec des antidiabétiques oraux ou en association avec une insuline en bolus (voir rubrique 5.1).
+
+Chez les patients ayant un diabète de type 1, Tresiba doit être associé à une insuline d’action
+courte/rapide afin de couvrir les besoins en insuline lors des repas.
+
+La dose de Tresiba doit être ajustée en fonction des besoins individuels du patient. Il est
+recommandé d’optimiser le contrôle glycémique par l’ajustement de la dose d’insuline en fonction
+de la glycémie à jeun.
+Comme pour toutes les insulines, un ajustement de la dose peut être nécessaire si le patient
+augmente son activité physique, modifie son régime alimentaire habituel ou en cas de maladie
+concomitante.
+[…]
+Avec Tresiba 100 unités/ml, il est possible d’administrer une dose de 1 à 80 unités par injection,
+par palier de 1 unité.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 3/33
+Avis 3
+La fenêtre d’indication de la dose affiche le nombre d’unités indépendamment de la concentration
+et aucune conversion de dose ne doit être effectuée en cas de changement de la concentration
+administrée à un patient.
+
+Flexibilité de l’heure d’administration de la dose
+Lorsque l’administration de la dose n’est pas possible au même moment de la journée, Tresiba
+permet une flexibilité de l’heure d’administration de l’insuline (voir rubrique 5.1). Un intervalle
+minimum de 8 heures entre deux injections devra toujours être respecté.
+
+Il est conseillé aux patients qui oublient une injection de la faire dès qu’ils s’en rendent compte,
+puis de reprendre leur schéma posologique habituel en une fois par jour.
+
+Initiation
+Patients ayant un diabète de type 2
+La dose initiale journalière recommandée est de 10 unités, suivie par des ajustements individuels
+de la posologie.
+
+Patients ayant un diabète de type 1
+Tresiba doit être utilisé une fois par jour avec l’insuline administrée au moment du repas et
+nécessite ensuite des ajustements individuels de la posologie.
+
+En remplacement d’autres insulines
+Il est recommandé de surveiller attentivement la glycémie lors du changement de traitement et
+durant les semaines suivantes. Il pourra être nécessaire d’ajuster les doses et les horaires
+d’administration des insulines d’action courte ou d’action rapide ou des autres traitements
+antidiabétiques concomitants.
+
+Patients ayant un diabète de type 2
+Chez les patients ayant un diabète de type 2, et précédemment traités par insuline basale, basal-
+bolus, pré-mélangée ou sous insuline qu’ils mélangent eux-mêmes, le passage de l’insuline basale
+à Tresiba peut se faire dose pour dose sur la base de la dose antérieure d’insuline basale
+quotidienne, suivi par des ajustements individuels de la posologie.
+
+Patients ayant un diabète de type 1
+Chez la plupart des patients ayant un diabète de type 1, le passage de l’insuline basale à Tresiba
+peut se faire dose pour dose sur la base de la dose antérieure d’insuline basale quotidienne, suivi
+par des ajustements individuels de la posologie. Chez les patients ayant un diabète de type 1,
+précédemment traités par une insuline basale administrée deux fois par jour ou chez qui
+l’HbA1c < 8,0% au moment du changement de traitement, la dose de Tresiba sera déterminée
+individuellement. Une réduction de la dose doit être envisagée, suivie par un ajustement individuel
+de la posologie en fonction de la réponse glycémique.
+
+Populations particulières
+Sujets âgés (≥ 65 ans)
+Tresiba peut être utilisé chez les sujets âgés. Il est nécessaire d’intensifier la surveillance
+glycémique et d’ajuster la dose d’insuline de façon individuelle (voir rubrique 5.2).
+
+Sujets atteints de troubles rénaux ou hépatiques
+Tresiba peut être utilisé chez les sujets atteints de troubles rénaux ou hépatiques. Il est nécessaire
+d’intensifier la surveillance glycémique et d’ajuster la dose d’insuline de façon individuelle (voir
+rubrique 5.2).
+
+Population pédiatrique
+La sécurité et l’efficacité de Tresiba chez les enfants et les adolescents de moins de 18 ans n’ont
+pas été établies. Les données actuellement disponibles sont décrites à la rubrique 5.2, mais
+aucune recommandation sur la posologie ne peut être donnée.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                  4/33
+Avis 3
+Mode d’administration
+Tresiba doit être administré par voie sous-cutanée uniquement.
+Tresiba ne doit pas être administré par voie intraveineuse en raison du risque d’hypoglycémie
+sévère. Tresiba ne doit pas être administré par voie intramusculaire car l’absorption pourrait en
+être modifiée. Tresiba ne doit pas être utilisé dans les pompes à perfusion d’insuline.
+
+Tresiba est administré par voie sous-cutanée par injection dans la cuisse, le haut du bras ou la
+paroi abdominale. Une rotation des sites d’injection devra toujours être effectuée au sein d’une
+même région afin de diminuer le risque de développer une lipodystrophie.
+
+Tresiba est présenté dans un stylo prérempli (FlexTouch) conçu pour être utilisé avec les aiguilles
+NovoFine ou NovoTwist. Le stylo prérempli de 100 unités/ml permet d’injecter de 1 à 80 unités par
+palier de 1 unité. »
+
+
+
+05 BESOIN THERAPEUTIQUE1,2,3,4
+05.1. Stratégie thérapeutique de prise en charge du diabète de type 1
+Les patients adultes ayant un diabète de type 1 doivent bénéficier d’une insulinothérapie et d’une
+prise en charge nutritionnelle. La répartition de l’apport alimentaire en énergie et en glucides doit
+correspondre au profil d’action des insulines et à l‘activité physique.
+Les objectifs du traitement sont : le contrôle de la glycémie pour prévenir les complications à long
+terme liées à la microangiopathie diabétique (rétinopathie, insuffisance rénale, complications
+neurologiques, infectieuses et cutanées) et la prévention du développement staturo-pondéral et
+pubertaire chez l’enfant, la prévention des hypoglycémies et de l’acidocétose.
+
+Plusieurs schémas d’insulinothérapie sont possibles ; le choix dépend des objectifs glycémiques
+de chaque patient, de ses préférences et de son mode de vie :
+  - traitement à 2 injections/j : d’un mélange d’insuline d‘action rapide (ou analogue d’action
+  rapide) et d’insuline d’action intermédiaire (avant le petit déjeuner et le repas du soir).
+  - traitement à 3, 4 ou 5 injections/j : injections d’un mélange d’insuline d‘action rapide (ou
+  analogue d’action rapide) et d’insuline d’action intermédiaire (2 fois/j : avant le petit déjeuner et
+  le repas du soir), et d’une insuline d’action rapide (ou analogue d’action rapide) avant le repas
+  de midi (1 fois/j). Dans ce schéma, l’insuline d’action intermédiaire du soir peut-être décalée au
+  moment du coucher pour mieux couvrir les besoins insuliniques de la nuit (cf. avec les experts).
+  - traitement « basal-bolus » à 3, 4 ou 5 injections/j : une « insuline basale » d’action
+  intermédiaire (2 fois/j matin et soir) ou un analogue à longue durée d’action (1 à 2 fois/j) est
+  associée à une « insuline prandiale » d‘action rapide (ou analogue d’action rapide) injectée en
+  bolus avant chacun des principaux repas (3 fois/j).
+  - traitement par pompe portable SC (perfusion continue avec débit de base fixe ou variable selon
+  les horaires de la journée ou de la nuit et bolus au moment des repas). L’administration par
+  pompe nécessite l’utilisation d’insuline d’action rapide (ou analogue d’action rapide).
+
+
+1
+  NICE (National Institute for Health and Clinical Excellence). NICE and diabetes: a summary of relevant
+guidelines. Novembre 2009.
+2
+  SIGN (Scottish Intercollegiate Guidelines Network). Management of diabetes - A national clinical guideline.
+Guideline 116. Mars 2010.
+3
+  ADA (American Diabetes Association) and EASD (European Association for the Study of Diabetes).
+Inzucchi SE, Bergenstal RM, Buse JB, et al. Management of hyperglycemia in type 2 diabetes: a patient-
+centered approach: position statement of the American Diabetes Association (ADA) and the European
+Association for the Study of Diabetes (EASD). Diabetes Care 2012;35:1364-79.
+4
+  Stratégie médicamenteuse du contrôle glycémique du diabète de type 2. Recommandations de bonne
+pratique de la HAS. Janvier 2013
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         5/33
+Avis 3
+Les schémas d’administration de type basal-bolus ou par pompe sont ceux qui reproduisent le
+mieux la physiologie normale. L’administration par pompe permet le plus de s’approcher de la
+physiologie normale d’insulinosécrétion, mais au prix d’une autosurveillance glycémique et
+d’ajustements insuliniques réguliers et répétés.
+
+En cas de mauvais contrôle métabolique, un changement de schéma insulinique est discuté après
+avoir pris en compte les autres paramètres de l’équilibre glycémique : régime alimentaire, activité
+physique, observance.
+
+Place des analogues à longue durée d’action dans la stratégie thérapeutique de prise en charge
+du diabète de type 1 :
+Les analogues à longue durée d’action, insuline glargine (LANTUS) et détémir (LEVEMIR) sont
+utilisés comme insuline basale dans un schéma basal-bolus (en association avec une insuline
+d’action rapide ou un analogue d’action rapide).
+
+
+05.2. Stratégie thérapeutique de prise en charge du diabète de type 2
+Objectif du traitement : réduire la morbi-mortalité, par l’intermédiaire notamment d’un contrôle
+glycémique correct. L’objectif à court terme est l’amélioration des symptômes (soif, polyurie,
+asthénie, amaigrissement et flou visuel) et la prévention des complications aiguës (infectieuses et
+coma hyperosmolaire). L’objectif à plus long terme est la prévention des complications chroniques
+microvasculaires (rétinopathie, néphropathie et neuropathie), macrovasculaires (infarctus du
+myocarde, accidents vasculaires cérébraux et artériopathie oblitérante des membres inférieurs) et
+la diminution de la mortalité.
+
+Objectif glycémique : selon les recommandations de la HAS (2013), il doit être individualisé en
+fonction du profil des patients et peut donc évoluer au cours du temps. Le diabète est évolutif et le
+traitement doit être réévalué régulièrement dans toutes ses composantes : mesures hygiéno-
+diététiques, éducation thérapeutique et traitement médicamenteux. Les données de la littérature
+ne permettent pas de définir une borne inférieure pour l’objectif d’HbA1c. Une fois l’objectif atteint,
+le traitement sera ajusté au cas par cas. Pour la plupart des patients diabétiques de type 2, une
+cible d’HbA1c ≤ 7 % est recommandée. Le traitement médicamenteux doit être instauré ou
+réévalué si l’HbA1c est supérieure à 7 %.
+Cas particuliers : pour les patients dont le diabète est nouvellement diagnostiqué, avec une
+espérance de vie supérieure à 15 ans et sans antécédent cardio-vasculaire, un objectif ≤ 6,5 % est
+recommandé, sous réserve d’être atteint par la mise en œuvre ou le renforcement des mesures
+hygiéno-diététiques puis, en cas d’échec, par une monothérapie orale.
+Il existe un certain nombre de cas particuliers pour lesquels l’objectif glycémique est moins
+exigeant : âge > 75 ans ; antécédent de complication macrovasculaire ; insuffisance rénale
+chronique ; comorbidité grave avérée ; espérance de vie limitée (< 5 ans) ; longue durée
+d’évolution du diabète (> 10 ans) et pour lesquels la cible de 7 % s’avère difficile à atteindre car
+l’intensification médicamenteuse provoque des hypoglycémies sévères.
+La mise en place de mesures hygiéno-diététiques efficaces est un préalable nécessaire au
+traitement médicamenteux du contrôle glycémique.
+
+Stratégie médicamenteuse :
+Selon les recommandations récentes de la HAS, dans le cas général, la stratégie
+d’introduction des antidiabétiques recommandée est la suivante :
+- monothérapie par metformine
+- puis, bithérapie metformine + sulfamide hypoglycémiant si l’écart à l’objectif est < 1 % d’HbA1c.
+- puis, trithérapie par metformine + sulfamide hypoglycémiant + inhibiteurs des alpha-glucosidases
+ou par inhibiteurs de la DPP-4 si l’écart à l’objectif est < 1 % d’HbA1c.
+- puis, si l’objectif glycémique n’est pas atteint, l’insuline est introduite en association à metformine
++ sulfamide hypoglycémiant. Alternative possible à l’insuline : analogues du GLP-1 si IMC ≥ 30 ou
+si la prise de poids sous insuline est une situation préoccupante.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     6/33
+Avis 3
+L’insulinothérapie est aussi envisageable dans les situations particulières suivantes :
+
+Au stade de la trithérapie
+L’Insuline peut être associée à metformine + sulfamide hypoglycémiant si l’écart à l’objectif est > 1
+% d’HbA1c avec la bithérapie.
+Alternative : association metformine + sulfamide hypoglycémiant + analogues du GLP-1 si IMC ≥
+30 ou si la prise de poids sous insuline est une situation préoccupante.
+
+Au stade de la bithérapie en cas d’intolérance ou de contre-indication aux sulfamides
+hypoglycémiants ou à la metformine
+L’insuline peut être associée à la metformine (ou au sulfamide hypoglycémiant) si l’écart à l’objectif
+est > 1 % d’HbA1c sous monothérapie, et en cas d’échec de la bithérapie orale.
+Alternative : association metformine (sulfamides hypoglycémiants) + analogues du GLP-1 si IMC ≥
+30 ou si la prise de poids sous insuline ou la survenue d’hypoglycémies sont une situation
+préoccupante.
+
+Au stade de la monothérapie
+L’insulinothérapie n’est pas recommandée en dehors de situations particulières (grossesse). De
+plus, il est recommandé d’introduire l’insulinothérapie si l’objectif glycémique n’est pas atteint
+malgré une monothérapie par répaglinide, inhibiteur des alphaglucosidases ou inhibiteur de la
+DPP-4 et si metformine et sulfamide hypoglycémiant sont non tolérés ou contre-indiqués.
+
+Place de l’insulinothérapie
+Le choix d’un schéma d’insulinothérapie dépend de plusieurs paramètres, tels que :
+- le choix du patient : le patient accepte-t-il le traitement ? Le nombre d’injections ?
+- les objectifs glycémiques et la capacité du patient à les atteindre ;
+- l’autonomie du patient : peut-il gérer son traitement ? En cas d’impossibilité, son entourage peut-il
+y suppléer ou le passage d’un(e) infirmier(ère) est-il obligatoire ?
+- les profils glycémiques : y a-t-il une hyperglycémie à jeun isolée ou associée à une ou plusieurs
+hyperglycémies post-prandiales ?
+- le mode de vie du patient : le type d’alimentation (horaires des repas et teneur glucidique) et
+l’activité physique sont-ils réguliers ou erratiques ?
+
+De ce fait le choix d’un traitement insulinique repose sur une expertise des soignants à transmettre
+au patient ou à la personne qui prendra en charge ce traitement. Le recours à un endocrinologue
+sera envisagé pour instaurer ou optimiser le schéma insulinique en cas de difficulté à atteindre les
+objectifs glycémiques fixés.
+
+Lors de la mise en place de l’insulinothérapie, il est recommandé, en adjonction à une
+monothérapie ou à une bithérapie, de débuter :
+- de préférence par une insuline d’action intermédiaire (NPH) au coucher ;
+- ou par un analogue à longue durée d’action, si le risque d’hypoglycémie nocturne est
+préoccupant.
+
+Si l’objectif glycémique n’est pas atteint malgré la mise en place de l’insulinothérapie, celle-ci sera
+intensifiée. Les différents schémas possibles sont :
+- schéma basal-bolus : insuline d’action lente ou analogue à longue durée d’action et insuline ou
+analogue rapide ou ultrarapide avant un ou plusieurs repas de la journée ;
+- schéma de 1 à 3 injections par jour d’insuline biphasique (mélange d’insuline à action rapide ou
+ultrarapide et d’insuline à action intermédiaire ou lente).
+
+En cas de diabète très déséquilibré, avec des glycémies supérieures à 3 g/l répétées et/ou une
+HbA1c > 10 %, un schéma insulinique intensifié pourra être instauré d’emblée après avis d’un
+endocrinologue.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                   7/33
+Avis 3
+     06 COMPARATEURS CLINIQUEMENT PERTINENTS
+     Les comparateurs cliniquement pertinents du médicament évalué concernent les
+     médicaments disponibles au même stade de la stratégie thérapeutique et destinés à la
+     même population, à la date de l’évaluation.
+
+     Dans ce cas, il s’agit des analogues lents de l’insuline humaine.
+
+
+     06.1. Médicaments
+     Dans le diabète de type 1 :
+     Les comparateurs cliniquement pertinents de l’insuline degludec (TRESIBA) sont :
+        - les insulines utilisées comme insuline basale dans un schéma basal-bolus ou dans un schéma
+        en 2 à 5 injections par jour (insuline intermédiaire NPH ou insuline glargine LANTUS insuline
+        détémir LEVEMIR) en association avec une insuline ou un analogue rapide ou ultrarapide*,
+        - les insulines administrées comme insuline basale par pompe portable sous-cutanée (insuline
+        ou analogue rapides).
+
+     Dans le diabète de type 2 :
+     Les comparateurs cliniquement pertinents de l’insuline degludec sont :
+        - lors de la mise en place d’une insulinothérapie : les insulines utilisées comme insuline basale
+        à raison d’une injection par jour (insuline intermédiaire NPH ou insuline glargine LANTUS
+        insuline détémir LEVEMIR) ou 2 injections par jour (LEVEMIR), et en association à au moins un
+        antidiabétique oral ;
+        - lors de la mise en place d’un schéma insulinique intensifié :
+             - les insulines utilisées comme insuline basale dans un schéma basal-bolus (insuline
+             intermédiaire NPH ou insuline glargine LANTUS insuline détémir LEVEMIR) en association
+             avec une insuline ou un analogue rapide ou ultrarapide*,
+             - les insulines mélangées (ou pré-mix) administrées en 1 à 3 injections par jour.
+
+     *Insulines intermédiaire NPH ou insuline détémir LEVEMIR
+
+                         CPT*           Nom                                                                   Prise en
+         DCI                                           Date de l’avis      SMR            ASMR
+                       identique    (Laboratoire)                                                             charge
+                                   INSUMAN
+Insuline NPH
+                         Oui       BASAL (Sanofi-    12 septembre 2007   Important      Sans objet              Oui
+Insuline humaine
+                                   Aventis France)         (RI)**
+
+Insuline NPH                       INSULATARD          18 juillet 2012
+                         Oui                                             Important      Sans objet              Oui
+Insuline humaine                   (Novo Nordisk)          (RI)**
+
+
+Insuline NPH                       UMULINE NPH
+                         Oui                          20 février 2013    Important      Sans objet              Oui
+Insuline humaine                   (Lilly France)
+                                                           (RI)**
+
+Insuline glargine                  LANTUS               25 mai 2011
+                                                                                     V par rapport aux
+Analogue                 Oui       (Sanofi-Aventis     (réévaluation)    Important                              Oui
+                                                                                      autres insulines
+recombinant                        France)             RI** en cours
+                                                        d’évaluation
+
+Insuline détémir
+                                   LEVEMIR           18 décembre 2013                    ASMR V
+Analogue                 Oui                                             Important                              Oui
+                                   (Novo Nordisk)          (RI)**                      (inexistante)
+recombinant
+
+     *CPT = classe pharmaco-thérapeutique
+     **renouvellement d’inscription
+
+     HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         8/33
+     Avis 3
+06.2. Autres technologies de santé
+Sans objet
+
+   Conclusion
+Tous les comparateurs cités sont cliniquement pertinents. Les plus pertinents sont les
+autres insulines utilisées comme insuline basale : insuline NPH, insuline glargine et
+l’insuline détémir.
+
+
+
+07 INFORMATIONS SUR LE MEDICAMENT A L’INTERNATIONAL
+TRESIBA a obtenu une AMM dans les pays suivants : Japon (le 28 septembre 2012), Mexique (le
+18 décembre 2012), Norvège (le 12 février 2013).
+A l’heure actuelle, TRESIBA est pris en charge au Japon.
+L’évaluation de la prise en charge par le système d’assurance maladie au Royaume Uni est en
+cours.
+
+Aux USA, l’AMM est en cours d’évaluation par la FDA qui n’a pas homologué TRESIBA compte
+tenu des craintes sur l’augmentation du risque de survenue d’événements cardiovasculaires
+majeurs.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique        9/33
+Avis 3
+08 ANALYSE DES DONNEES DISPONIBLES
+Le laboratoire a déposé à l’appui de sa demande :
+
+    •   3 études de phase III dans le traitement du diabète de type 1 :
+
+-   2 études de méthodologie similaire : l’étude 3583, comparant l’insuline degludec à l’insuline
+    glargine pendant 52 semaines; l’étude 3585, comparant l’insuline degludec à l’insuline détémir
+    pendant 26 semaines chez des patients insulino-traités. Les insulines étaient administrées
+    selon un schéma basal/bolus en association à l’insuline asparte. Ces 2 études ont fait l’objet de
+    suivi à 104 semaines pour l’étude 3583 et à 52 semaines pour l’étude 3585 dont l’objectif
+    principal était l’évaluation de la tolérance.
+
+-   1 étude (3770) comparant 2 schémas d’administrations de l’insuline degludec (horaires fixes et
+    horaires flexibles) à l’insuline glargine. Cette étude ne sera pas décrite car d’une part son
+    objectif n’est pas d’apprécier le bénéfice clinique et d’autre part elle compare des schémas
+    d’administration validés par les RCP des insulines degludec et glargine5.
+
+    • 5 études de phase III dans le traitement du diabète de type 2 :
+-   2 études dont la méthodologie est comparable : l’étude 3579, d’une durée de 52 semaines,
+    versus insuline glargine en association à des antidiabétiques oraux (ADO) ; l’étude 3582, d’une
+    durée de 26 semaines, versus insuline glargine en association ou non à des ADO et à l’insuline
+    asparte. Ces 2 études ont fait l’objet d’extension à 104 semaines pour l’étude 3579 et à 78
+    semaines pour l’étude 3582.
+-   1 étude (3580), d’une durée de 26 semaines, versus sitagliptine, non retenue car à ce stade de
+    la prise en charge des patients diabétiques de type 2, la sitagliptine n’est pas un comparateur
+    cliniquement pertinent. En effet, les gliptines doivent être arrêtées lors de la mise sous
+    insulinothérapie selon les dernières recommandations de la HAS.
+-   1 étude (3668) comparant 2 schémas d’administrations de l’insuline degludec (horaires fixes et
+    horaires flexibles) à l’insuline glargine, non décrite pour les mêmes raisons que l’étude 3770
+    dans le diabète de type 1.
+-   1 étude (3846) comparant deux algorithmes de titration de Tresiba, non retenue car ne permet
+    pas d’apprécier le bénéfice clinique apporté aux patients.
+
+    • 2 méta-analyses6 :
+-   une méta-analyse a évalué la survenue d’épisodes hypoglycémiques sous insuline degludec
+    par rapport à l’insuline glargine
+-   une autre avait pour objectif d’évaluer le profil cardiovasculaire de l’insuline degludec en
+    termes de survenue d’événements cardiovasculaires majeurs par rapport aux autres
+    comparateurs utilisés dans les essais du plan de développement clinique de phase III.
+
+
+
+
+5
+  En effet, l’insuline glargine selon son RCP doit être administré une fois par jour à n’importe quel moment de
+la journée mais au même moment chaque jour, donc à horaire fixe. Pour TRESIBA, le RCP recommande
+une préférence d’administration au même moment chaque jour. Lorsque l’administration de la dose n’est pas
+possible au même moment de la journée, TRESIBA permet une flexibilité de l’heure d’administration. les
+intervalles d’administration de Tresiba dans les bras flexibles de ces études correspondent à des conditions
+de flexibilité poussées à l’extrême qui ne reflètent pas l’utilisation recommandée en pratique clinique.
+6
+  Prévues dans le plan de développement clinique de Tresiba.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                         10/33
+Avis 3
+08.1 Efficacité
+8.1.1 Etudes dans le diabète de type 1 : études 35837 et 3585 (en cours de publication)
+
+                                                  Etude 3583                                  Etude 3585
+
+                                    Evaluer l’efficacité et la tolérance de l’insuline degludec comparées à celles
+                                    d’une insuline basale, l’insuline glargine (étude 3583) ou détémir (étude 3585),
+    Objectif principal de l’étude   en titration forcée, selon un schéma basal bolus en association à l’insuline
+                                    asparte chez des patients diabétiques de type 1
+
+                                    Etude de phase III randomisée 3 :1 dans l’étude 3583, 2 :1 dans l’étude 3585,
+                                    ouverte, de non infériorité versus insuline glargine ou détémir, en association à
+    Méthode                         l’insuline asparte
+
+
+                                                 52 semaines                                 26 semaines
+    Durée de l’étude
+                                    - Patients diabétiques de type 1, âge ≥ 18 ans, traités par insuline selon un
+                                    régime basal-bolus depuis au moins 12 mois
+    Critères d’inclusion            - HbA1c ≤ 10,0%
+                                    - IMC ≤ 35,0 kg/m²
+                                    - pathologie cardiovasculaire dans les 6 mois précédents l’étude, définie
+                                    comme infarctus du myocarde ; insuffisance cardiaque (NYHA) classe III ou IV ;
+                                    angor instable ; pontage coronarien ; angioplastie
+                                    - hypertension artérielle sévère, non contrôlée, traitée ou pas (PAS ≥ 180
+                                    mmHg et/ou PAD ≥ 100 mmHg)
+                                    - fonction hépatique détériorée (ALAT ≥ 2,5 fois la valeur supérieure de la
+                                    normale)
+    Critères de non inclusion       - altération de la fonction rénale (créatinémie ≥ 180 µmol/L)
+                                    - hypoglycémie majeure récente (plus d’un épisode hypoglycémique sévère au
+                                    cours des 12 derniers mois) ; coma hypoglycémique ou acidocétose diabétique
+                                    au cours des 6 derniers mois
+                                    - rétinopathie proliférative ou maculopathie nécessitant un traitement aigu
+                                    - traitement par tout autre antidiabétique autre que l’insuline dans 3 les mois
+                                    précédents l’étude.
+
+                                    Insuline degludec + insuline asparte        Insuline degludec + insuline asparte
+                                    versus insuline glargine + insuline         versus insuline détémir + insuline
+    Groupes de traitement           asparte                                     asparte
+
+                                    Dans les 2 études, au cours des 26 premières semaines de traitement une
+                                    titration forcée stricte (suivi hebdomadaire par l’investigateur, cf algorithme de
+                                    titration en annexe) était appliquée, afin d’atteindre les objectifs glycémiques.
+                                                                                                                    ème
+    Déroulement de l’étude          Alors que la période de traitement de l’étude 3585 s’arrêtait à cette 26
+                                                                            ème                  ème
+                                    semaine, dans l’étude 3583, de la 26        semaine à la 52      semaine, un suivi
+                                    moins intensif était mené (suivi toutes les 2 semaines par l’investigateur).
+
+                                    Variation moyenne du taux d’HbA1c à 52 semaines de traitement pour l’étude
+    Critère principal de
+                                    3583 et 26 semaines pour l’étude 3585 par rapport à la valeur initiale
+    jugement
+                                    - Taux d’épisodes hypoglycémiques nocturnes confirmés
+                                    - Taux d’épisodes hypoglycémiques confirmés (épisodes hypoglycémiques
+    Critères secondaires de         mineurs et sévères aussi bien diurnes que nocturnes)
+    jugement                        - Variation de la glycémie à jeun à la fin de l’étude.
+
+                                    Le calcul du nombre de sujets à inclure a été réalisé selon les hypothèses
+    Calcul du nombre de sujets      suivantes : un écart-type de 1,1% (basé sur les expériences des études de
+    nécessaires                     phase III chez les patients diabétique de type 1 et traités à l’insuline) ; un risque
+
+7
+   Heller S, Buse J, Fisher M, Garg S, Marre M, Merker L, Renard E, Russell-Jones D, Philotheou A,
+Francisco AMO, Pei H, Bode B. Insulin degludec versus insulin glargine in basal bolus therapy with mealtime
+insulin aspart in type 1 diabetes: a 52 week, phase 3, randomised, open-label, multicentre, treat-to-target
+trial. Lancet 2012;379 :1489 – 1497
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                     11/33
+Avis 3
+                                  alpha-unilatéral de 2,5% ; une différence moyenne de 0% entre les 2
+                                  traitements ; une puissance de 95% ; un seuil de non-infériorité de 0,4%.
+                                  Le nombre de patients à inclure était de 468 patients dans le groupe degludec
+                                  et 156 patients dans le groupe glargine pour l’étude 3583 ; 284 patients dans le
+                                  groupe degludec et 142 patients dans le groupe détémir pour l’étude 3585.
+
+                                  L’insuline degludec devait être considérée comme non-inférieure à l’insuline
+                                  glargine ou l’insuline détémir si la borne supérieure de l’intervalle de confiance
+                                  à 95% de la différence sur le critère variation du taux d’HbA1c entre les deux
+                                  traitements (degludec - glargine et degludec - détémir) était inférieure à 0,4%.
+                                  Si la non infériorité était établie, une analyse de supériorité était prévue sur ce
+                                  critère (supériorité établie si borne supérieure de l’intervalle de confiance à 95%
+                                  inférieure à 0).
+
+                                  En cas de non-infériorité démontrée pour le critère principal, les critères
+                                  secondaires ont été testés selon une procédure séquentielle hiérarchique (afin
+                                  de se prémunir du risque d’inflation du risque alpha), dans l’ordre suivant :
+                                  1. épisodes hypoglycémiques nocturnes confirmés : la supériorité était
+    Analyse statistique           confirmée si l’intervalle de confiance à 95% du risque relatif (insuline
+                                  degludec/insuline détémir ou glargine) était strictement inférieur à 1.
+                                  2. Episodes hypoglycémiques confirmés : la supériorité était confirmée si
+                                  l’intervalle de confiance à 95% du risque relatif (insuline degludec/insuline
+                                  détémir ou glargine) était strictement inférieur à 1.
+                                  3. Variation de la glycémie à jeun à la fin de l’étude : la supériorité était
+                                  confirmée si l’intervalle de confiance à 95% de la différence entre les deux
+                                  traitements (insuline degludec – insuline détémir ou glargine) était strictement
+                                  inférieur à 0.
+                                  Dès lors qu’aucune différence n’était démontrée pour un des critères
+                                  secondaires, aucune conclusion ne pouvait être tirée des résultats sur les
+                                  critères secondaires de rang inférieur dans la séquence hiérarchique prédéfinie.
+
+
+
+Résultats de l’étude 3583 :
+Au total, 629 patients ont été randomisés : 472 patients dans le groupe insuline degludec et 157
+dans le groupe insuline glargine8.
+
+Caractéristiques des patients à l’inclusion (tableau 1)
+
+                                                               TRESIBA                    LANTUS
+                                                           insuline degludec          insuline glargine
+                                                                 N=472                      N=157
+          Age moyen (Années) (DS)                              42,8 (13,7)               43,7 (13,3)
+          Ancienneté du diabète (Années) (DS)                  19,1 (12,2)               18,2 (11,4)
+          HbA1c moyen (%) (DS)                                  7,7 (0,9)                 7,7 (1,0)
+          Glycémie à jeun moyenne (mmol/L) (DS)                 9,1 (4,0)                 9,7 (4,4)
+          IMC moyen (kg/m²) (DS)                                26,3 (3,7)                26,4 (4,2)
+          Poids moyen (kg) (DS)                                78,9 (14,3)               78,3 (16,2)
+
+Les caractéristiques des patients étaient similaires entre les deux groupes de traitement : les
+patients avaient un âge moyen de 43 ans, une ancienneté du diabète de 18,9 ans, un taux
+d’HbA1c de 7,7% et un IMC de 26,3 kg/m².
+Le traitement antidiabétique en cours le plus fréquemment observé (chez 70,4% des patients
+randomisés) était le traitement par insuline basale 1 fois/jour + insuline rapide 3 fois/jour. Dans les
+deux groupes de traitement, le schéma d’insulinothérapie basal-bolus concernait 99% des patients
+randomisés.
+
+Critère principal de jugement :
+
+
+8
+ La plupart des patients (626 patients soit 99,5%) ont été exposés aux produits de l’étude : seuls 3 patients
+du groupe glargine ont été randomisés mais non exposés.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                 12/33
+Avis 3
+Tableau 2 : variation du taux d’HbA1c à 52 semaines (Population PP)
+
+
+                                  Moyenne finale du taux    Modification moyenne (ET) à la semaine 52 par
+Groupe de traitement       N
+                                      d’HbA1c (ET)                       rapport au taux initial
+
+degludec + asparte         448          7,32 (0,05)                          -0,37 (0,05)
+glargine + asparte         147          7,33 (0,07)                          -0,36 (0,07)
+
+Différence estimée                                               Différence des moyennes (IC à 95%) :
+degludec versus glargine                                                   -0,01 [-0,14 ; 0,12]
+
+
+Après 52 semaines de traitement, dans la population per protocole, la différence entre insuline
+degludec et insuline glargine en termes de réduction du taux d’HbA1c a été de -0,01% IC95% [-
+0,14 ; 0,12]. La borne supérieure de l’intervalle de confiance de cette différence étant inférieure au
+seuil fixé (0,4%), la non infériorité de l’insuline degludec par rapport à l’insuline glargine a été
+démontrée.
+La supériorité de l’insuline degludec par rapport à l’insuline glargine n’est pas établie.
+Ces résultats sont retrouvés dans la population ITT.
+
+A noter que la réduction du taux d’HbA1c a été maximale sous degludec et sous glargine jusqu’à
+la 26ème semaine de traitement. Au-delà, les taux d’HbA1c augmentent.
+
+Variation de l’HbA1c à la fin de l’étude:
+Etude 3644 (extension de l’étude 3583) :
+Après 104 semaines de traitement, l’HbA1c était de 7,4 ± 1,0% dans le groupe degludec et 7,5 ±
+1,1% dans le groupe insuline glargine.
+
+Critères secondaires de jugement :
+
+- épisodes hypoglycémiques nocturnes confirmés :
+Le taux d’épisodes hypoglycémiques nocturnes était comparable dans les deux groupes de
+traitement jusqu’à la 6ème semaine de traitement. Au delà, le taux d’épisodes hypoglycémiques
+nocturnes était plus faible dans le groupe degludec.
+A la fin du traitement, il a été rapporté une différence en faveur de l’insuline degludec (413,66
+épisodes pour 100 patients-années N=472) par rapport à l’insuline glargine (548,20 épisodes pour
+100 patients-années N=154), RR insuline degludec/glargine = 0,75, IC95% [0,59 ; 0,96], p=0,011).
+
+- épisodes hypoglycémiques confirmés (diurnes + nocturnes) :
+Aucune différence n’a été observée entre les 2 groupes de traitement.
+La procédure d’analyse des critères secondaires a donc été arrêtée9.
+
+
+
+
+9
+  Pour information, il n’y a pas eu de différence entre les 2 groupes de traitement en termes de survenue
+d’épisodes hypoglycémiques sévères.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    13/33
+Avis 3
+Résultats de l’étude 3585 :
+
+Au total, 455 patients ont été randomisés : 302 patients dans le groupe insuline degludec et 153
+dans le groupe insuline détémir10.
+
+Caractéristiques des patients à l’inclusion (tableau 3)
+
+                                                            TRESIBA                LEVEMIR
+                                                        insuline degludec       insuline détémir
+                                                               N=302                  N=157
+         Age moyen (ans) (DS)                               41,1 (14,9)            41,7 (14,4)
+         Adultes (18-65 ans)                                277 (91,7)             141 (92,2)
+         >65 ans                                              25 (8,3)               12 (7,8)
+         Ancienneté du diabète (Années) (DS)                13,7 (10,6)             14,4 (9,7)
+         HbA1c moyen (%) (DS)                                 8,0 (1,0)              8,0 (0,9)
+         Glycémie à jeun moyenne (mmol/L) (DS)                9,9 (4,0)              9,5 (4,0)
+         IMC moyen (kg/m²) (DS)                              24,0 (3,5)             23,7 (3,4)
+         Poids moyen (kg) (DS)                              66,5 (14,9)            66,7 (13,4)
+
+Les caractéristiques des patients étaient similaires entre les deux groupes de traitement : les
+patients avaient un âge moyen de 41,3 ans, un IMC de 23,9 kg/m², une valeur d’HbA1c moyenne
+de 8,0% et une ancienneté du diabète de type 1 de 13,9 ans. La valeur moyenne de la glycémie à
+jeun était de 9,8 mmol/L. Dans les deux groupes de traitement, le schéma d’insulinothérapie basal-
+bolus concernait plus de 99% des patients randomisés.
+
+Critère principal de jugement :
+
+Tableau 4 : variation du taux d’HbA1c à 26 semaines (Population PP)
+
+
+                                    Moyenne finale du taux    Modification moyenne (ET) à la semaine 26 par
+Groupe de traitement       N
+                                        d’HbA1c (ET)                       rapport au taux initial
+
+degludec + asparte        291             7,29 (0,06)                           -0,71 (0,06)
+détémir + asparte         144             7,37 (0,07)                           -0,62 (0,07)
+
+Différence estimée                                                 Différence des moyennes (IC à 95%) :
+degludec versus détémir                                                      -0,08 [-0,23 ; 0,06]
+
+
+Après 26 semaines de traitement, dans la population per protocole, la différence entre insuline
+degludec et insuline détémir en termes de réduction du taux d’HbA1c a été de -0,08% IC95% [-
+0,23 ; 0,06]. La borne supérieure de l’intervalle de confiance de cette différence étant inférieure au
+seuil fixé (0,4%), la non infériorité de l’insuline degludec par rapport à l’insuline détémir a été
+démontrée.
+La supériorité de l’insuline degludec par rapport à l’insuline détémir n’est pas établie.
+Ces résultats sont retrouvés dans la population ITT.
+
+Variation de l’HbA1c à la fin de l’étude:
+Etude 3725 (extension de l’étude 3585) :
+Dans les deux groupes de traitement, l’HbA1c moyenne a diminué pendant les 26 premières
+semaines. Au-delà, l’HbA1c a légèrement augmenté jusqu’à la 39ème semaine (12ème semaine de la
+
+10
+  La plupart des patients (453 soit 99.3%) ont été exposés aux produits de l’étude : seuls trois patients ont
+été randomisés mais non exposés aux produits de l’étude (2 patients dans le groupe degludec, 1 patient
+dans le groupe détémir).
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       14/33
+Avis 3
+période d’extension), puis est restée stable jusqu’à la fin de l’étude. Après 52 semaines de
+traitement, l’HbA1c était de 7,5 ± 1,1% dans le groupe degludec et 7,5 ± 0,9% dans le groupe
+insuline détémir.
+
+Critères secondaires de jugement :
+
+- épisodes hypoglycémiques nocturnes confirmés :
+Les épisodes hypoglycémiques nocturnes confirmés ont été rapportés chez 58,5% des patients
+sous degludec et 58,6% des patients sous détémir. Le taux d’épisodes hypoglycémiques
+nocturnes était comparable dans les deux groupes de traitement jusqu’à la 4ème semaine de
+traitement.
+A la fin du traitement, il a été rapporté une différence en faveur de l’insuline degludec (390,72
+épisodes pour 100 patients-années N=301) par rapport à l’insuline détémir (591,59 épisodes pour
+100 patients-années N=152), RR insuline degludec/détémir = 0,66, IC95% [0,49 ; 0,88], p<0,05).
+
+- épisodes hypoglycémiques confirmés (diurnes + nocturnes) :
+Aucune différence n’a été observée entre les 2 groupes de traitement.
+La procédure d’analyse des critères secondaires a donc été arrêtée11.
+
+
+
+
+11
+   Pour information, il n’y a pas eu de différence entre les 2 groupes de traitement en termes de survenue
+d’épisodes hypoglycémiques sévères.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                     15/33
+Avis 3
+8.1.2 Etudes dans le diabète de type 2 : études 357912 et 358213
+
+                                             Etude 3579                                Etude 3582
+                                Evaluer l’efficacité et la tolérance de l’insuline degludec comparées à celles de
+                                l’insuline glargine chez des patients diabétiques de type 2 insuffisamment
+Objectif principal de l’étude
+                                contrôlés et déjà traités par ADO (antidiabétiques oraux)
+
+                                Etude de phase III randomisée 3 :1, ouverte, de non infériorité versus insuline
+                                glargine, en titration forcée
+Méthode                         en association à des ADO                 en association à des ADO + insuline
+                                                                         asparte selon un schéma basal/bolus
+
+                                                                 52 semaines
+Durée de l’étude
+                                - Patients âgés de plus de 18 ans, diabétiques de type 2 depuis plus de 6 mois,
+                                traités par ADO (metformine en monothérapie ou en association à un sulfamide
+                                ou une gliptine à doses stables depuis au moins 3 mois) et naïfs de tout
+Critères d’inclusion            traitement par insuline uniquement dans l’étude 3579
+                                - 7,0% ≤ HbA1c ≤ 10,0%
+                                - IMC ≤ 40,0 kg/m²
+
+                                - pathologie cardiovasculaire dans les 6 mois précédents l’étude, définie
+                                comme infarctus du myocarde ; insuffisance cardiaque (NYHA) classe III ou IV ;
+                                angor instable ; pontage coronarien ; angioplastie
+                                - hypertension artérielle sévère, non contrôlée, traitée ou pas (PAS ≥ 180
+                                mmHg et/ou PAD ≥ 100 mmHg)
+                                - fonction hépatique détériorée (ALAT ≥ 2,5 fois la valeur supérieure de la
+                                normale)
+Critères de non inclusion       - altération de la fonction rénale (créatinémie ≥ 180 µmol/L)
+                                - hypoglycémie majeure récente (plus d’un épisode hypoglycémique sévère au
+                                cours des 12 derniers mois) ; coma hypoglycémique ou acidocétose diabétique
+                                au cours des 6 derniers mois
+                                - rétinopathie proliférative ou maculopathie nécessitant un traitement aigu
+                                - traitement par agoniste du GLP1 (exénatide ou liraglutide) et/ou par glitazone
+                                (uniquement rosiglitazone pour l’étude 3582) dans les 3 mois précédant l’essai
+
+                                Degludec + metformine ± gliptine          Degludec + asparte (1 injection à
+                                versus glargine + metformine ±            chaque repas) ± metformine ±
+Groupes de traitement           gliptine                                  pioglitazone versus glargine +
+                                                                          asparte ± metformine ± pioglitazone
+
+                                Lors de la randomisation, les ADO étaient interrompus, à l’exception de :
+                                - Pour l’étude 3579 : la metformine et les gliptines. Pendant toute la durée
+                                    de l’étude, aucun autre antidiabétique ne pouvait être utilisé.
+                                - Pour l’étude 3582 : la metformine et la pioglitazone si l’association était
+                                    possible, en fonction de la réglementation de chaque pays participant.
+Déroulement de l’étude              Durant l’étude, les doses de metformine et de pioglitazone ne devaient pas
+                                    être modifiées, excepté pour des raisons de tolérance. Pendant toute la
+                                    durée de l’étude, aucun autre antidiabétique ne pouvait être utilisé.
+
+                                La dose d’insuline basale (insuline degludec ou insuline glargine) était ajustée
+                                par l’investigateur selon l’algorithme de titration détaillé en annexe.
+Critère principal de            Variation moyenne du taux d’HbA1c à 52 semaines par rapport à la valeur
+jugement                        initiale
+
+12
+   Zinman B, Philis-Tsimikas A, Cariou B, Handelsman Y, Rodbard HW, Johansen T, Endahl L, Mathieu C;
+on behalf of the NN1250-3579 Once Long Trial: Insulin degludec, an ultra-long-acting basal insulin,
+compared with insulin glargine in insulin-naïve patients with type 2 diabetes in a 1-year, phase 3,
+randomised, parallel-group, multinational, treat-to-target trial.Once Long Trial Investigators. Diabetes Care
+2012; 35:2464-2471
+13
+   Garber A, King AB, Del Prato S, Sreenan S, Rosenstock J, Endahl LA, Francisco AMO, Hollander P; on
+behalf of the NN1250-3582. Trial Investigators. Insulin degludec versus insulin glargine in basal-bolus
+therapy with mealtime insulin aspart in type 2 diabetes: a 52-week, phase 3, randomised, parallel-group,
+multinational, treat-to-target trial. Lancet 2012; 379: 1498 – 1507.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                 16/33
+Avis 3
+                             - Taux d’épisodes hypoglycémiques confirmés (diurnes et nocturnes)
+                             - Variation de la glycémie à jeun
+Critères secondaires de      - Taux de patients répondeurs (HbA1c < 7,0%) sans épisode hypoglycémique
+jugement                     confirmé (sévère ou mineurs) au cours des 12 dernières semaines de
+                             traitement.
+
+                             Le calcul du nombre de sujets à inclure a été réalisé selon les hypothèses
+                             suivantes : un écart-type de 1,3% ; un risque alpha-unilatéral de 2,5% ; une
+                             différence moyenne de 0% entre les 2 traitements ; une puissance de 95% ; un
+Calcul du nombre de sujets
+                             seuil de non-infériorité de 0,4%.
+nécessaires
+                             Le nombre de patients à inclure était de 984 patients au total, soit 738 patients
+                             pour l’insuline degludec et 246 patients pour l’insuline glargine.
+
+                             L’insuline degludec devait être considérée comme non-inférieure à l’insuline
+                             glargine si la borne supérieure de l’intervalle de confiance à 95% de la
+                             différence sur le critère variation du taux d’HbA1c entre les deux traitements
+                             (degludec - glargine) était inférieure à 0,4%.
+                             Si la non infériorité était établie, une analyse de supériorité était prévue sur ce
+                             critère (supériorité établie si borne supérieure de l’intervalle de confiance à 95%
+                             inférieure à 0).
+
+                             En cas de non-infériorité démontrée pour le critère principal, les critères
+                             secondaires ont été testés selon une procédure séquentielle hiérarchique (afin
+                             de se prémunir du risque d’inflation du risque alpha), dans l’ordre suivant :
+                             1. épisodes hypoglycémiques confirmés : la supériorité était confirmée si
+                             l’intervalle de confiance à 95% du risque relatif degludec/glargine était
+Analyse statistique
+                             strictement inférieur à 1.
+                             2. Variation de la glycémie à jeun à la fin de l’étude : la supériorité était
+                             confirmée si l’intervalle de confiance à 95% de la différence entre les deux
+                             traitements (degludec – insuline glargine) était strictement inférieur à 0.
+                             3. Taux de patients répondeurs sans épisode hypoglycémique confirmé au
+                             cours des 12 dernières semaines de traitement : la supériorité était confirmée si
+                             l’intervalle de confiance à 95% de l’Odds-ratio degludec/ glargine était
+                             strictement supérieur à 1.
+
+                             Dès lors qu’aucune différence n’était démontrée pour un des critères
+                             secondaires, aucune conclusion ne pouvait être tirée des résultats sur les
+                             critères secondaires de rang inférieur dans la séquence hiérarchique prédéfinie.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                                17/33
+Avis 3
+Résultats de l’étude 3579 :
+
+Au total, 1 030 patients ont été randomisés : 773 patients dans le groupe insuline degludec et 257
+dans le groupe insuline glargine.
+
+Caractéristiques des patients à l’inclusion (tableau 5)
+
+                                                           TRESIBA                 LANTUS
+                                                       insuline degludec       insuline glargine
+                                                             N=773                   N=257
+         Age moyen (ans) (DS)                              59,3 (9,7)              58,7 (9,9)
+         Ancienneté du diabète (Années) (DS)                9,4 (6,3)               8,6 (5,7)
+         HbA1c moyen (%) (DS)                               8,2 (0,8)               8,2 (0,8)
+         Glycémie à jeun moyenne (mmol/L) (DS)              9,6 (2,6)               9,7 (2,6)
+         IMC moyen (kg/m²) (DS)                            30,9 (4,8)              31,6 (4,4)
+
+Les caractéristiques des patients à l’inclusion étaient similaires dans les deux groupes de
+traitement : les patients avaient un âge moyen de 59,1 ans, un IMC de 31,1 kg/m², une ancienneté
+du diabète de 9,2 ans. Environ 28% des patients étaient âgés de plus de à 65 ans. Les valeurs
+d’HbA1c et de glycémie à jeun étaient comparables à l’inclusion avec un taux d’HbA1c de 8,2% et
+une glycémie à jeun de 9,7 mmol/L.
+La monothérapie par metformine concernait 27,3% des patients inclus dans le groupe degludec et
+34,2% des patients inclus dans le groupe glargine. 70,9% des patients recevaient 2 ADO avant
+l’inclusion dans l’étude14.
+
+
+Critère principal de jugement :
+
+Tableau 6 : variation du taux d’HbA1c à 52 semaines (Population PP)
+
+
+                                   Moyenne finale du taux    Modification moyenne (ET) à la semaine 52 par
+Groupe de traitement       N
+                                       d’HbA1c (ET)                       rapport au taux initial
+
+Degludec + ADO             665           7,04 (0,04)                           -1,14 (0,04)
+Glargine + ADO             221           6,91 (0,06)                           -1,27 (0,06)
+
+Différence estimée                                                Différence des moyennes (IC à 95%) :
+degludec versus glargine                                                    0,13 [-0,01 ; 0,26]
+
+
+Après 52 semaines de traitement, dans la population per protocole, la différence entre insuline
+degludec et insuline glargine en termes de réduction du taux d’HbA1c a été de 0,13% IC95% [-
+0,01 ; 0,26]. La borne supérieure de l’intervalle de confiance de cette différence étant inférieure au
+seuil fixé (0,4%), la non infériorité de l’insuline degludec par rapport à l’insuline glargine a été
+démontrée.
+La supériorité de l’insuline degludec par rapport à l’insuline glargine n’est pas établie.
+Ces résultats sont retrouvés dans la population ITT. A noter que la réduction du taux d’HbA1c a
+été plus importante sous insuline glargine que sous insuline degludec.
+
+A noter que la réduction du taux d’HbA1c a été maximale sous degludec et sous glargine jusqu’à
+la 40ème semaine de traitement. Au-delà, les taux d’HbA1c sont restés stables.
+
+
+
+14
+   Seuls la metformine et les gliptines étaient maintenus pendant l’étude. Aucun autre ADO ou antidiabétique
+injectable ne pouvait être utilisé pendant toute la durée de l’étude.
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       18/33
+Avis 3
+Variation de l’HbA1c à la fin de l’étude :
+Etude 3643 (extension de l’étude 3579) :
+Il n’y a pas eu de différence entre les deux groupes de traitement.
+
+Critères secondaires de jugement :
+
+- épisodes hypoglycémiques confirmés :
+Aucune différence n’a été observée entre les 2 groupes de traitement.
+La procédure d’analyse des critères secondaires a donc été arrêtée15.
+
+
+Résultats de l’étude 3582 :
+
+Au total, 1 006 patients ont été randomisés : 755 patients dans le groupe insuline degludec et 251
+dans le groupe insuline glargine16.
+
+Caractéristiques des patients à l’inclusion (tableau 7)
+
+                                                              TRESIBA                   LANTUS
+                                                          insuline degludec         insuline glargine
+                                                                N=755                     N=251
+         Age moyen (ans) (DS)                                 59,2 (9,1)               58,1 (10,0)
+         Ancienneté du diabète (Années) (DS)                  13,6 (7,4)                13,4 (6,9)
+         HbA1c moyen (%) (DS)                                  8,3 (0,8)                 8,4 (0,9)
+         Glycémie à jeun moyenne (mmol/L) (DS)                 9,2 (3,0)                 9,2 (3,2)
+         IMC moyen (kg/m²) (DS)                               32,3 (4,7)                31,9 (4,5)
+
+Les caractéristiques des patients à l’inclusion étaient similaires dans les deux groupes de
+traitement : les patients avaient un âge moyen de 58,9 ans, un IMC de 32,2 kg/m², une ancienneté
+du diabète de 13,5 ans. A l’inclusion, les patients avaient en moyenne un taux d’HbA1c de
+8,3±0,8% et une glycémie à jeun de 9,2 ± 3,1 mmol/L.
+
+Avant inclusion dans l’étude, le schéma basal/bolus ± ADO était le plus fréquent (49% des
+patients), suivi par les schémas utilisant des insulines Premix ± ADO (24,4% des patients) puis
+l’insuline basale ± ADO (21,2%)17.
+Parmi les insulines basales utilisées avant la randomisation, la plus fréquente était l’insuline
+glargine (42,7%) suivie de l’insuline détémir (16,1%). Pour les insulines prandiales, la plus
+fréquente était l’insuline asparte (28,8%) suivie de l’insuline lispro (12,2%).
+Concernant les ADO, avant la randomisation, les plus fréquemment prescrits étaient la metformine
+(58,2% des patients du groupe degludec, 60,9% des patients du groupe glargine), et les
+sulfamides hypoglycémiants (15,7% des patients sous degludec et 14,1% des patients sous
+glargine)18.
+
+
+
+
+15
+   Pour information, une analyse post hoc ne pouvant être retenue par la Commission a été réalisée sur le
+critère épisodes hypoglycémiques sévères.
+16
+   Seuls 2 patients du groupe degludec ont été randomisés mais non exposés au produit.
+17
+    La randomisation ayant été stratifiée selon les différents schémas d’insulinothérapie, les différents
+schémas étaient représentés de manière équivalente dans les deux groupes de traitement.
+18
+   L’utilisation des autres ADO (inhibiteurs des alphaglucosidases, glinides, glitazones, gliptines) était faible,
+de l’ordre de 0.4 à 4.8% de la totalité des patients inclus dans l’étude.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                            19/33
+Avis 3
+  Critère principal de jugement :
+
+  Tableau 8 : variation du taux d’HbA1c à 52 semaines (Population PP)
+
+
+                                       Moyenne finale du taux   Modification moyenne (ET) à la semaine 52 par
+Groupe de traitement          N
+                                           d’HbA1c (ET)                      rapport au taux initial
+
+Degludec + asparte ± ADO     694            7,11 (0,06)                         -1,18 (0,06)
+Glargine + asparte ± ADO     233            7,06 (0,08)                         -1,22 (0,08)
+
+Différence estimée                                                  Différence des moyennes (IC à 95%) :
+degludec versus glargine                                                      0,05 [-0,08 ; 0,18]
+
+
+  Après 52 semaines de traitement, dans la population per protocole, la différence entre insuline
+  degludec et insuline glargine en termes de réduction du taux d’HbA1c a été de 0,05% IC95% [-
+  0,08 ; 0,18]. La borne supérieure de l’intervalle de confiance de cette différence étant inférieure au
+  seuil fixé (0,4%), la non infériorité de l’insuline degludec par rapport à l’insuline glargine a été
+  démontrée.
+  La supériorité de l’insuline degludec par rapport à l’insuline détémir n’est pas établie.
+  Ces résultats sont retrouvés dans la population ITT. A noter que la réduction du taux d’HbA1c a
+  été légèrement plus importante sous insuline glargine que sous insuline degludec.
+
+  A noter que la réduction du taux d’HbA1c a été maximale sous degludec et sous glargine jusqu’à
+  la 26ème semaine de traitement. Au-delà, les taux d’HbA1c augmentent.
+
+  Variation de l’HbA1c à la fin de l’étude :
+  Etude 3667 (extension de l’étude 3582) :
+  Le taux d’HbA1c est resté stable pendant la phase d’extension. Après 78 semaines de traitement,
+  l’HbA1c était de 7,3 ± 1,1% dans le groupe degludec et 7,2 ± 1,0% dans le groupe insuline
+  glargine.
+
+  Critères secondaires de jugement :
+
+  - épisodes hypoglycémiques confirmés (diurnes et nocturnes):
+  Le pourcentage de patients avec hypoglycémies confirmées a été de 80,9% dans le groupe
+  degludec et 82,1% dans le groupe glargine. Ainsi, à la fin du traitement, il a été rapporté une
+  différence en faveur de l’insuline degludec (728,90 épisodes pour 100 patients-années) par rapport
+  à l’insuline glargine (886,07 épisodes pour 100 patients-années) ; RR = 0,82 IC95% [0,69 ; 0,99]).
+
+  - Variation de la glycémie à jeun après 52 semaines de traitement :
+  Aucune différence n’a été observée entre les 2 groupes de traitement.
+  La procédure d’analyse des critères secondaires a donc été arrêtée.
+
+
+
+
+  HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    20/33
+  Avis 3
+08.2. Tolérance/Effets indésirables
+8.2.1 Données issues de l’ensemble des études chez les diabétiques de type 1 et
+      de type 2
+
+Des événements indésirables ont été observés chez 3 018/4 275 patients (70,6%) du groupe
+insuline degludec et 1 530/2 269 patients (67,4%) des groupes comparateurs. Ces événements
+ont été graves chez 7,9% des patients du groupe degludec et 6,5% des patients des groupes
+comparateurs. Ils ont été considérés comme liés au traitement chez 646 patients sous degludec
+(15,1%) et 305 sous comparateurs (13,4%).
+Ces événements ont conduit à l’arrêt du traitement chez 2,3% des patients sous degludec et 1,3%
+des patients sous comparateurs.
+En termes d’événements, les principaux étaient rhinopharyngites (15% des patients sous insuline
+degludec, 12,3% des patients sous comparateurs), les maux de tête en raison d’hypoglycémie
+(9,5% des patients sous insuline degludec, 7,5% des patients sous comparateurs), les infections
+des voies respiratoires supérieures (8,7% des patients sous insuline degludec, 7,7% des patients
+sous comparateurs), des affections gastro-intestinales principalement diarrhée (chez 5,7% des
+patients sous insuline degludec, 6,7% des patients sous comparateurs).
+
+Chez les patients diabétiques de type 1, des événements indésirables ont été observés chez
+77,3% des patients sous insuline degludec (852/1 102) et 76,2% des patients sous comparateurs
+(356/467). Ces événements ont été liés au traitement pour 21,2% des patients du groupe degludec
+et 17,1% des patients des groupes comparateurs et ont conduit à l’arrêt du traitement chez 24
+patients sous degludec et 4 sous comparateurs.
+
+Chez les patients diabétiques de type 2, des événements indésirables ont été observés chez
+68,3% des patients sous insuline degludec (2 166/3 173) et 65,1% des patients sous comparateurs
+(1 174/1 802). Ces événements ont été liés au traitement pour 13,0% des patients du groupe
+degludec et 12,5% des patients des groupes comparateurs et ont conduit à l’arrêt du traitement
+chez 74 patients sous degludec et 26 sous comparateurs.
+Les événements indésirables graves ont concerné tous patients confondus (diabétiques de type 1
+et 2) 7,9% des patients sous degludec (337/4 275) et 6,5% des patients sous comparateurs
+(147/2 269). L’évènement indésirable grave le plus fréquent était l’hypoglycémie dans les 2
+groupes.
+
+Evénements indésirables d’intérêt particulier :
+Néoplasies :
+Les néoplasies ont été analysées sur la base de l’ensemble des études réalisées pour Tresiba et
+pour Ryzodeg (mélange insuline asparte/insuline degludec, non concerné par la présente
+demande). Les cas de néoplasies identifiés ont été revus et classés, en aveugle, par un comité
+indépendant (45 malignes, 128 bénignes, 25 inclassables).
+Le nombre de néoplasies malignes rapporté dans le groupe Tresiba/Ryzodeg était faible et
+similaire à celui observé dans les groupes comparateurs (0.9 évènements/100 patient-années
+versus 0.8 évènements/100 patients-années, respectivement).
+Les néoplasies malignes les plus fréquemment rapportées ont été :
+- les néoplasies cutanées (n=13), principalement carcinomes basocellulaires ou carcinomes
+épidermoïdes dont 11 sous insuline degludec. La majorité des évènements (n=9) ont été
+diagnostiqués dans les 3 mois suivant le début de l’étude. Dans 5 cas du groupe Tresiba/Ryzodeg,
+la lésion cutanée était présente avant l’initiation du traitement et/ou le patient avait des
+antécédents de cancer cutané.
+- Les néoplasies gastro-intestinales (n=11), dont 8 sous degludec ; 7 étaient des cancers du côlon
+chez des patients diabétiques de type 2 majoritairement obèses. Un cas a été diagnostiqué peu
+après l’initiation du traitement. Les autres cas ont été diagnostiqués dans les 6-7 mois suivant
+l’initiation du traitement.
+- des cancers du sein (n=5), des néoplasies thyroïdiennes (n=4) et de la vessie (n=3).
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique              21/33
+Avis 3
+Les néoplasies cutanées, gastro-intestinales et des seins étaient plus fréquentes dans le groupe
+Tresiba/Ryzodeg. Les néoplasies thyroïdiennes et de la vessie étaient plus fréquentes dans les
+groupes comparateurs.
+
+Rétinopathies :
+Les taux de rétinopathies étaient comparables entre les 2 groupes (5.1 événements pour 100
+patients-années dans le groupe degludec et 5.6 événements pour 100 patients-années dans le
+groupe comparateur). Chez les patients diabétiques de type 1, le taux d’événements dans le
+groupe degludec était plus important que dans le groupe comparateur (6.2 versus 4.4 événements
+pour 100 patients-années) mais chez les patients diabétiques de type 2, le taux d’événements
+dans le groupe degludec était moins important que dans le groupe comparateur (4.7 versus 5.9
+événements pour 100 patients-années). Il n’a pas été rapporté de différence entre les groupes en
+termes de délai de survenue de l’événement ou de la durée de l’événement. La majorité des cas
+sont survenus après 6 mois de traitement. L’événement n’était pas résolu chez 71% des sujets du
+groupe degludec et 80% de ceux du groupe comparateur après la fin des études.
+
+Anticorps :
+L’administration d’insuline peut induire la formation d’anticorps. Dans de rares cas, la présence
+d’anticorps anti-insuline peut nécessiter un ajustement de la dose d’insuline afin de corriger une
+tendance à l’hyperglycémie ou à l’hypoglycémie.
+Le niveau moyen d’anticorps croisés était faible à l’inclusion dans l’ensemble des études.
+Globalement, les anticorps spécifiques de l’insuline degludec, de l’insuline glargine et de l’insuline
+asparte sont restés à des niveaux très bas et comparables pendant toute la durée des études.
+
+Evolution du poids :
+La prise de poids a été :
+    - dans la population globale, de 2,0 kg sous degludec (N=3 746) et 1,4 kg sous
+        comparateurs (N=1 998) après 26 semaines de traitement et de 2,7 kg sous degludec
+        (N=1 991) et comparateurs (N=662) après 52 semaines de traitement
+    - dans la population de diabétiques de type 1, de 1,5 kg sous degludec (N=985) et 1,3 kg
+        sous comparateurs (N=429) après 26 semaines de traitement et de 1,8 kg sous degludec
+        (N=472) et 1,6 kg sous comparateurs (N=154) après 52 semaines de traitement
+    - dans la population de diabétiques de type 2, de 2,1 kg sous degludec (N=2 761) et 1,5 kg
+        sous comparateurs (N=1 569) après 26 semaines de traitement et de 3,0 kg sous
+        degludec (N=1 519) et sous comparateurs (N=508) après 52 semaines de traitement.
+
+
+8.2.2 Données issues des phases d’extension à long terme
+
+L’objectif principal de ces phases d’extension était d’évaluer la tolérance de l’insuline degludec à
+long terme.
+
+Synthèse des résultats des études d’extension dans le diabète de type 1 :
+Etude 3644 (extension de l’étude 3583 de 52 semaines) :
+Au total, 629 patients ont été randomisés dans l’étude principale (3583) : 472 patients dans le
+groupe degludec et 157 dans le groupe insuline glargine. Un total de 469 patients ont été recrutés
+dans l’étude d’extension : 351 (74,4%) dans le groupe degludec et 118 (75,2%) dans le groupe
+insuline glargine. Le nombre de patients sortis d’étude de suivi était de 21 (dont 3 pour
+événements indésirables, 5 pour abandon) dans le groupe degludec et 5 patients (dont 2 pour
+événements indésirables), dans le groupe insuline glargine.
+
+Aucune différence n’a été observée entre les deux groupes en termes d’hypoglycémies confirmées
+et d’hypoglycémies sévères.
+Les épisodes hypoglycémiques nocturnes confirmés ont été rapportés chez 77,5% des patients du
+groupe degludec et 79,2% des patients du groupe insuline glargine. Le taux d’épisodes
+hypoglycémiques nocturnes confirmés était comparable dans les deux groupes de traitement
+jusqu’à la 6ème semaine de traitement. Il y a eu 381,42 événements/100 patients années dans le
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 22/33
+Avis 3
+groupe degludec (n=472) et 508,49 événements/100 patients années dans le groupe glargine
+(n=154), soit un RR=0,75 IC95% [0,59 ; 0,95].
+
+Etude 3725 (extension de l’étude 3585 de 26 semaines) :
+370 patients ont été recrutés dans l’étude d’extension : 248 (81,8%) dans le groupe degludec et
+122 (79,7%) dans le groupe insuline détémir. Au total 13 patients (6 sous degludec, 7 sous
+détémir) sont sortis de l’étude dont 1 dans chaque groupe pour événement indésirable.
+
+Aucune différence n’a été observée entre les deux groupes en termes d’hypoglycémies confirmées
+et d’hypoglycémies sévères.
+Les épisodes hypoglycémiques nocturnes confirmés ont été rapportés chez 68,1% des patients du
+groupe degludec et 64,5% des patients du groupe insuline détémir. Le taux d’épisodes
+hypoglycémiques nocturnes confirmés était comparable dans les deux groupes de traitement
+jusqu’à la 4ème semaine de traitement. Il y a eu 333,0 événements/100 patients années dans le
+groupe degludec (n=301) et 497,06 événements/100 patients années dans le groupe détémir
+(n=152), soit un RR=0,67 IC95% [0,51 ; 0,88].
+
+
+Synthèse des résultats des études d’extension dans le diabète de type 2 :
+Etude 3643 (extension de l’étude 3579 de 52 semaines) :
+Au total, 1030 patients ont été randomisés dans l’étude principale. Parmi ces patients, 725 ont été
+inclus dans l’étude d’extension : 551 patients dans le groupe degludec et 174 patients dans le
+groupe insuline glargine. Parmi ces patients, 659 ont terminés la phase d’extension avec 505
+patients dans le groupe degludec et 154 patients dans le groupe insuline glargine. Les arrêts de
+traitement pour événement indésirable ont concerné 12 patients sous degludec, 5 sous glargine.
+
+Aucune différence n’a été observée entre les deux groupes en termes d’hypoglycémies
+confirmées.
+Le pourcentage de patients avec des hypoglycémies nocturnes confirmées au cours des 104
+semaines a été de 20,6% dans le groupe degludec et 23,7% dans le groupe insuline glargine. Le
+risque relatif degludec/glargine de survenue d’hypoglycémies nocturnes a été de 0,57 IC95% [0,40
+; 0,81].
+Le pourcentage de patients ayant eu des hypoglycémies sévères a été faible dans les deux
+groupes au cours des 104 semaines : 0,8% dans le groupe degludec et 2,7% dans le groupe
+insuline glargine. Le risque relatif degludec/glargine a été de 0,305 IC95% [0,110 ; 0,849].
+
+Etude 3667 (extension de l’étude 3582 de 52 semaines) :
+Au total, 1006 patients ont été randomisés dans l’étude principale. Parmi ces patients, 757 ont été
+inclus dans l’étude d’extension : 566 patients dans le groupe degludec et 191 patients dans le
+groupe insuline glargine. Parmi ces patients, 722 ont terminés la phase d’extension avec 539
+patients dans le groupe degludec et 183 patients dans le groupe insuline glargine. Les arrêts de
+traitement pour événement indésirable ont concerné uniquement 4 patients sous degludec.
+
+Il n’a pas été rapporté de différence entre les 2 groupes en termes d’hypoglycémies confirmées,
+d’hypoglycémies nocturnes confirmées et d’hypoglycémies sévères.
+
+
+8.2.3 Données issues du RCP
+
+« L’effet indésirable le plus fréquemment rapporté lors du traitement est l’hypoglycémie.
+L’hypoglycémie survient lorsque la dose d’insuline est trop importante par rapport aux besoins en
+insuline. L’hypoglycémie sévère peut entraîner une perte de connaissance et/ou des convulsions
+et peut causer une altération transitoire ou définitive des fonctions cérébrales, voire le décès. Les
+symptômes de l’hypoglycémie surviennent habituellement de manière soudaine. Ils peuvent inclure
+: sueurs froides, pâleur et froideur cutanées, fatigue, nervosité ou tremblement, anxiété, asthénie
+ou faiblesse inhabituelles, confusion, difficulté de concentration, somnolence, sensation de faim
+excessive, troubles visuels, maux de tête, nausées et palpitations.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                23/33
+Avis 3
+[…]
+Des réactions allergiques peuvent survenir avec les préparations d’insuline. Des réactions
+allergiques de type immédiat, soit à l’insuline elle-même soit aux excipients, peuvent
+potentiellement menacer le pronostic vital.
+Une hypersensibilité (se manifestant par un gonflement de la langue et des lèvres, de la diarrhée,
+des nausées, de la fatigue et des démangeaisons) et de l’urticaire ont rarement été rapportés avec
+TRESIBA.
+
+Une lipodystrophie (notamment lipohypertrophie, lipoatrophie) peut survenir au niveau du site
+d’injection. Une rotation continue des sites d’injection au sein d’une même région peut aider à
+diminuer le risque de développer ces réactions.
+Des réactions au site d’injection (notamment hématome au site d’injection, douleur, hémorragie,
+érythème, nodules, gonflement, décoloration, prurit, chaleur et masse au site d’injection) se sont
+produites chez des patients traités avec TRESIBA. Ces réactions sont habituellement légères et
+transitoires et disparaissent généralement lors de la poursuite du traitement. »
+
+
+8.2.4 Méta-analyse pré-spécifiée sur les événements hypoglycémiques19
+
+Les études retenues pour cette méta-analyse étaient l’ensemble des études prévues au plan de
+développement ayant dans le groupe comparateur l’insuline glargine20.
+
+L’objectif principal de cette méta-analyse était de comparer l’effet de l’insuline degludec par rapport
+à l’insuline glargine sur la survenue d’hypoglycémies confirmées.
+Le critère principal de jugement était le taux d’hypoglycémies confirmées.
+Les critères secondaires étaient le taux d’hypoglycémies nocturnes confirmées, le taux
+d’hypoglycémies sévères, le taux d’épisode hypoglycémiques confirmés et le taux d’épisodes
+hypoglycémiques nocturnes confirmés chez les patients âgés de plus de 65 ans (ce sous-groupe
+n’a concerné que 20% des patients, ses résultats ne seront donc pas présentés).
+
+L’analyse statistique a été réalisée à l’aide d’un test hiérarchique afin d’éviter l’inflation du risque
+alpha du fait de la multiplicité des tests. Un biais de sélection des études ne peut être exclu. Aucun
+test d’hétérogénéité n’a été effectué, les résultats sont donc à interpréter avec précaution21.
+
+Au total, 4 330 patients ont été inclus (2 899 dans le groupe degludec, 1 431 dans les groupes
+glargine). Il s’agissait de patients âgés de 55,1±12,2 ans parmi lesquels 3 426 patients (79,1%)
+avaient un âge ≤ 65 ans. L’IMC était en moyenne de 29,7±5,2 kg/m² et l’ancienneté du diabète de
+12,6±9,0 ans avec un taux d’HbA1c de 8,2±0,9% et une glycémie à jeun de 9,3±3,1 mmol/L. Le
+pourcentage de patients avec un diabète de type 1 était de 22% (soit 952 patients).
+
+Le risque relatif de survenue d’épisodes hypoglycémiques confirmés (critère principal de jugement)
+sous degludec par rapport à l’insuline glargine a été de 0,91 IC95% [0,83 ; 0,99]. Il y a eu 829,4
+événements pour 100 patients-années dans le groupe degludec (n=2 886) et 914,1 événements
+dans le groupe glargine (n=1 421).
+Dans la sous-population de patients diabétiques de type 1, aucune différence n’a été observée.
+Dans la sous-population de patients diabétiques de type 2, ce risque relatif est de 0,84 IC95%
+
+
+19
+     Ratner RE, Gough SC, Mathieu C, Del Prato S, Bode B, Mersebach H, Endahl L, Zinman B.
+Hypoglycaemia risk with insulin degludec compared with insulin glargine in type 2 and type 1 diabetes: a pre-
+planned meta-analysis of phase 3 trials. Diabetes Obes Metab. 2013 ;15:175-84.
+20
+    Les épisodes hypoglycémiques rapportés dans les phases d’extension des études n’ont pas été pris en
+compte car ces extensions d’étude étaient toujours en cours de réalisation au moment du gel de base.
+21
+    L’influence d’une hétérogénéité potentielle a été évaluée dans une analyse de sensibilité en évaluant
+l’interaction du traitement dans les études comme un effet aléatoire. Il existe des différences entre les
+populations incluses selon le type de diabète.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                       24/33
+Avis 3
+[0,76 ; 0,93]. Il y a eu 6 346 événements pour 100 patients-années sous degludec (n=637) et
+5 719 sous glargine (n=316).
+
+Concernant les critères secondaires :
+   - il y a eu 100,7 événements d’hypoglycémies nocturnes confirmés dans le groupe degludec
+       (n=2 866) et 135,2 dans le groupe glargine (n=1 421), soit un RR degludec/glargine de
+       0,74 IC95% [0,65 ; 0,85]
+   - il n’a pas été rapporté de différence sur les épisodes hypoglycémiques sévères.
+
+Des analyses post-hoc ont été réalisées à la demande de la FDA, elles ne peuvent être prises en
+compte par la HAS.
+
+
+8.2.5 Méta-analyse sur les événements cardiovasculaires
+
+La tolérance cardiovasculaire de l’insuline degludec a été évaluée sur la base d’une méta analyse
+prédéfinie des évènements cardiovasculaires majeurs.
+Cette méta-analyse était basée sur les données de 16 études des programmes de développement
+cliniques de Tresiba et de Ryzodeg. La population d’analyse comprenait 8 941 patients, 5 631
+exposés au traitement par Tresiba ou Ryzodeg et 3 306 patients exposés au(x) comparateur(s).
+Il n’a pas été observé de différence entre le groupe degludec et les groupe comparateur(s) en
+termes d’évènements cardiovasculaires (troubles cardiaques et vasculaires).
+
+A la demande du CHMP, une nouvelle analyse a été réalisée sur la base des nouvelles données
+disponibles au 1er mai 2012. Cette nouvelle analyse a inclus 9 études supplémentaires : 6 études
+d’extension (5 pour Tresiba et 1 pour Ryzodeg), 1 étude de phase IIIa pour Ryzodeg chez les
+patients japonais et 2 nouvelles études de phase IIIb pour Tresiba. Ces nouvelles données
+incluaient 742 patients supplémentaires traités par degludec et 149 patients supplémentaires dans
+les groupes comparateurs.
+
+L’objectif principal de la méta-analyse était de définir le profil cardiovasculaire de l’insuline
+degludec en termes d’événements cardiovasculaires majeurs par rapport aux autres comparateurs
+utilisés dans les essais du plan de développement clinique de phase III.
+Ces études ont évalué des populations différentes à des stades de la prise en charge différents.
+En l’absence de test d’hétérogénéité, les résultats de cette méta-analyse sont à interpréter avec
+prudence car aucune conclusion formelle ne peut en être tirée.
+
+Le critère principal d’évaluation était le délai de survenue (en nombre de jours) du premier
+événement cardiovasculaire majeur (MACE) défini par les syndromes coronaires aigus, incluant
+les angors instables, les infarctus du myocarde avec sus-décalage du segment ST, les infarctus du
+myocarde sans sus-décalage du segment ST, les accidents vasculaires cérébraux et les décès
+d’origine cardiovasculaire22.
+Il était prévu de réaliser des analyses de sensibilité avec une stratification par type de diabète, de
+traitement, de sexe et en prenant l’âge comme co-variable.
+
+Principaux résultats :
+Au total, 8 959 patients ont été inclus (5 647 dans le groupe TRESIBA/RYZODEG, 3 312 dans les
+groupes comparateurs).
+
+
+22
+   Tous les événements cardiovasculaires d’intérêt ou les événements cardiovasculaires suspectés colligés
+au cours des essais cliniques ont été réévalués par un comité d’évaluation indépendant afin de valider leur
+inclusion dans la méta-analyse. Les définitions des évènements ainsi que les procédures d’adjudication des
+évènements ont été soumises en amont à la FDA.
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                      25/33
+Avis 3
+Les patients étaient âgés de 54,3±12,7 ans parmi lesquels 7 152 patients (79.8%) avaient un âge
+≤ 65 ans. L’IMC était en moyenne de 29,3±5,3 kg/m² et l’ancienneté du diabète de 12,3±8,8 ans
+avec une valeur d’HbA1c de 8,3±0,9% et une glycémie à jeun de 9,3±3,2mmol/L. Le nombre de
+patients avec un diabète de type 1 était de 2 125 patients soit 23,7%. Par ailleurs, 18,8% des
+patients avec un diabète de type 2 et 5,5% des patients avec un diabète de type 1 avaient un
+antécédent de pathologie cardiovasculaire (AVC ischémique, IDM, AVC hémorragique, autre
+cardiopathie ischémique).
+
+Concernant l’incidence globale des événements cardiovasculaires majeurs, il a été rapporté 83
+événements chez 80 patients parmi les 8 959 patients. 53 patients ont rapportés au moins un
+événement dans le groupe degludec soit 1,48 événements pour 100 patients-année. Dans le
+groupe comparateur, il a été rapporté 27 patients avec au moins un événement cardiovasculaire
+majeur soit 1,44 événements pour 100 patients-année.
+50 patients diabétiques de type 2 sous insuline degludec et 26 sous comparateurs ont rapporté au
+moins un événement cardiovasculaire majeur. Quatre patients diabétiques de type 1 dont 3 sous
+degludec et diabétiques de type 1 ont rapporté au moins un événement.
+Dans les deux groupes, la majorité des évènements cardiovasculaires majeurs rapportés étaient
+des syndromes coronaires aigus.
+L’incidence des événements pour 100 patients-année a été plus importante chez les patients avec
+un diabète de type 2 (1,96 dans le groupe degludec et 1,81 dans le groupe comparateur) que chez
+les patients avec un diabète de type 1 (0,29 dans le groupe degludec et 0,23 dans le groupe
+comparateur).
+
+Il n’a pas été rapporté de différence entre les 2 groupes concernant le délai de survenue du
+premier événement cardiovasculaire majeur. L’analyse selon le type de diabète n’a pas montré de
+différence entre les 2 groupes de traitement. Les différentes analyses de sensibilité réalisées ont
+confirmé ces résultats.
+Des analyses post-hoc ont été réalisées à la demande de la FDA. Ces analyses ne seront pas
+détaillées pour des raisons méthodologiques. Cependant, il est rappelé que la FDA n’a pas validé
+l’AMM de TRESIBA pour des doutes quant à la tolérance cardiovasculaire de l’insuline degludec.
+
+
+
+09 RESUME & DISCUSSION
+1/ Efficacité
+Dans le diabète de type 1
+L’efficacité de l’insuline degludec a été évaluée dans 2 études randomisées, ouvertes, de non-
+infériorité versus insuline glargine (étude 3583 ayant inclus 629 patients) et versus insuline détémir
+(étude 3585 ayant inclus 455 patients), administrées en titration forcée, selon un schéma
+d’intensification basal/bolus en association à l’insuline asparte.
+Dans l’étude 3583, à l’inclusion, les patients étaient en surpoids, âgés en moyenne de 43 ans et
+avaient un taux d’HbA1c de 7,7%, soit un taux d’HbA1c faible pour justifier une insulinothérapie
+intensive. Après 52 semaines de traitement, dans la population per protocole, la non-infériorité de
+l’insuline degludec par rapport à l’insuline glargine a été démontrée, mais pas sa supériorité sur le
+critère principal de jugement variation du taux d’HbA1c.
+Dans l’étude 3585, l’âge des patients était en moyenne de 41,3 ans et le taux d’HbA1c moyen de
+8,0%. Après 26 semaines de traitement, dans la population per protocole, la non-infériorité de
+l’insuline degludec par rapport à l’insuline détémir a été démontrée en termes de variation du taux
+d’HbA1c, mais pas sa supériorité.
+
+A 26 semaines, la diminution du taux d’HbA1c a été plus importante qu’à 52 semaines mais ces
+diminutions sont faibles, <1%, comprises entre 0,4% et 0,6%.
+Ces études ont inclus un faible nombre de patients.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                 26/33
+Avis 3
+Dans le diabète de type 2
+L’efficacité de l’insuline degludec a été évaluée dans 2 études d’une durée de 52 semaines,
+randomisées, ouvertes, de non-infériorité, versus insuline glargine, en titration forcée, chez des
+patients insuffisamment contrôlés par ADO et naïfs de tout traitement par insuline.
+Dans l’étude 3579 où l’insulinothérapie était instaurée, les patients inclus (1 030) étaient obèses,
+âgés en moyenne de 59,1 ans, avec un taux d’HbA1c de 8,2% et en majorité (70%) sous
+traitement par ADO associant la metformine ou non à une gliptine.
+Dans l’étude 3582 ayant inclus 1 006 patients, âgés d’environ 59 ans, obèses, avec un taux
+d’HbA1c de 8,3%, l’insulinothérapie a été administrée en majorité selon un schéma basal/bolus
+associé ou non à des ADO (metformine + sulfamide).
+Après 52 semaines de traitement, dans la population per protocole, la non-infériorité de l’insuline
+degludec par rapport à l’insuline glargine a été démontrée dans les 2 études en termes de
+variation du taux d’HbA1c. La supériorité de l’insuline degludec par rapport à glargine n’est pas
+établie.
+La réduction du taux d’HbA1c a été plus importante sous glargine que sous degludec.
+
+On ne dispose pas du taux de répondeurs donc de la réponse aux objectifs thérapeutiques.
+La pertinence de la stratégie thérapeutique utilisée dans l’étude 3579 est discutable. D’une part la
+trithérapie metformine/gliptine/insuline utilisée dans cette étude n’a pas été citée dans les
+recommandations de bonne pratique actualisée par la HAS en janvier 2013 sur le contrôle
+glycémique du diabète de type 2 ; d’autre part, les gliptines doivent être arrêtées lorsqu’une
+insulinothérapie est instaurée. Enfin, seulement 60% des patients étaient sous metformine qui est
+pourtant l’ADO de référence. Par ailleurs, dans cette étude, les patients étaient naïfs de tout
+traitement par insuline alors qu’habituellement un schéma d’intensification est mis en place si les
+objectifs glycémiques ne sont pas atteints malgré une insulinothérapie préalable.
+
+L’ensemble des études (chez les diabétiques de type 1 et de type 2) n’ont pas inclus les patients à
+risque cardiovasculaire et ceux ayant eu au préalables des hypoglycémies majeures alors que
+sous insulinothérapie intensive les hypoglycémies sont majorées.
+
+2/ Tolérance
+Dans l’ensemble des études réalisées chez les diabétiques de type 1 et de type 2, des
+événements indésirables ont été observés chez 3 018/4 275 patients (70,6%) du groupe insuline
+degludec et 1 530/2 269 patients (67,4%) des groupes comparateurs. Ils ont été considérés
+comme liés au traitement chez 646 patients sous degludec (15,1%) et 305 sous comparateurs
+(13,4%). Ces événements ont conduit à l’arrêt du traitement chez 2,3% des patients sous degludec
+et 1,3% des patients sous comparateurs. Les principaux événements indésirables étaient
+rhinopharyngites, maux de tête liés à une hypoglycémie, infections des voies respiratoires
+supérieures, affections gastro-intestinales principalement diarrhée.
+Dans les études de phase III à 26 et 52 semaines, les critères secondaires liés à l’évaluation de la
+survenue d’hypoglycémie ont été analysés rigoureusement (selon une procédure séquentielle
+hiérarchisée limitant une surestimation de l’effet). Leurs résultats peuvent donc être pris en
+compte.
+        Chez les diabétiques de type 1, une différence en termes d’épisodes hypoglycémiques
+nocturnes a été rapportée en faveur de l’insuline degludec par rapport à l’insuline glargine à 52 et
+à 104 semaines (étude 3583 et sa phase d’extension) de traitement et par rapport à l’insuline
+détémir à 26 et 52 semaines (étude 3585 et son suivi).
+En revanche, aucune différence n’a été observée sur la survenue d’hypoglycémies confirmées
+(mineures et sévères aussi bien diurnes que nocturnes) et d’hypoglycémies sévères dans chacune
+des études et leur phase d’extension.
+        Chez les patients diabétiques de type 2, dans l’étude 3579, il n’y a pas eu de différence sur
+les épisodes hypoglycémiques confirmés à 52 et 104 semaines entre insulines degludec et
+glargine. Dans l’étude 3582, une différence a été observée sur ce critère à 52 semaines en faveur
+de l’insuline degludec mais pas à 104 semaines.
+A 104 semaines, dans l’étude d’instauration de l’insulinothérapie (3579), une différence a été
+observée en faveur de l’insuline degludec en termes d’hypoglycémies sévères et nocturnes. Dans
+l’étude d’intensification, il n’y a pas eu de différence.
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                27/33
+Avis 3
+Au total, à contrôle glycémique équivalent,
+    - les résultats à court terme, malgré leur bonne évaluation sur un plan méthodologique, ne
+         permettent pas de tirer de conclusion sur l’avantage d’une insuline par rapport à l’autre en
+         termes de risque survenue d’hypoglycémies car les différences en valeur absolue entre les
+         traitements sont très faibles
+    - les résultats à long terme sont à interpréter avec prudence compte tenu de la multiplicité
+         des tests réalisés lors de l’analyse des différents épisodes hypoglycémiques.
+
+Une méta-analyse prospective prévue dans le plan de développement clinique de l’insuline
+degludec, avait pour objectif de comparer l’insuline degludec à l’insuline glargine en termes de
+survenue d’hypoglycémies confirmées (critère principal de jugement). Ses résultats sont à
+interpréter avec précaution en raison des biais méthodologiques. Elle a analysé 4 330 patients
+âgés de 55 ans en moyenne, en surpoids, avec un taux d’HbA1c de 8,2% et en majorité avec un
+diabète de type 2. Une différence en faveur de l’insuline degludec a été observée par rapport à la
+glargine sur le critère principal de jugement dans la population globale de diabétiques. Ce même
+résultat est retrouvé uniquement dans la population de diabétiques de type 2. Concernant les
+critères secondaires (exploratoires), une différence a été observée sur les épisodes
+hypoglycémiques nocturnes. Il n’y a pas eu de différence sur les épisodes sévères.
+Le niveau de preuve de la démonstration peu robuste ne permet pas de conclure sur une
+éventuelle pertinence clinique des réductions de risque observées.
+
+Dans une méta-analyse relative à la tolérance cardiovasculaire en termes de survenue
+d’événements cardiovasculaires majeurs de l’insuline degludec par rapport aux comparateurs
+utilisés dans l’ensemble des études, il n’a pas été rapporté de différence entre les groupes de
+traitement en termes de délai de survenue du 1er événement majeur (critère principal de
+jugement). Aucune conclusion ne peut être tirée de ce résultat qui doit être interprété avec
+prudence compte tenu des biais méthodologiques inhérents à cette méta-analyse et
+l’augmentation du risque d’événements cardiovasculaires majeurs sous insuline degludec montrée
+lors d’analyses post hoc réalisées par la FDA. De ce fait, la FDA elle a demandé la réalisation
+d’une étude évaluant spécifiquement la tolérance cardiovasculaire.
+On ne dispose pas de données à long terme sur les complications micro-vasculaires et macro-
+vasculaires, ni de données sur la qualité de vie.
+
+
+
+010               PROGRAMME D’ETUDES
+Le plan de gestion des risques comporte principalement des mesures de suivi de :
+- certains évènements indésirables tels que : les hypoglycémies, les réactions allergiques, les
+   erreurs médicamenteuses entre les insulines basales et bolus et entre les différentes
+   concentrations de TRESIBA (100 U/ml et 200 U/ml23), la formation des anticorps neutralisants.
+- certaines populations particulières : femmes enceintes ou allaitantes, enfants et adolescents <
+   18 ans, patients avec une insuffisance hépatique, patients avec une insuffisance rénale
+   modérée à sévère, patients âgés (>75 ans), patients recevant un inhibiteur des GLP-1.
+
+Parmi les essais actuellement en cours, une étude évalue l’efficacité (en termes de variation du
+taux d’HbA1c) et la tolérance (hypoglycémies) de l’ajout de liraglutide ou d’insuline asparte à
+TRESIBA, après 26 semaines de traitement, chez des patients diabétiques de type 2 et traités par
+metformine.
+
+
+
+
+23
+     Pour information, la formulation à 200 U/mL n’est pas concernée par la présente demande d’inscription
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                        28/33
+Avis 3
+011                PLACE           DU         MEDICAMENT                DANS           LA        STRATEGIE
+THERAPEUTIQUE
+
+Dans le diabète de type 1, TRESIBA peut être utilisé comme insuline basale dans un schéma
+basal-bolus (en association avec une insuline d’action rapide ou un analogue d’action rapide) au
+même titre que les autres analogues à longue durée d’action, l’insuline glargine (LANTUS) et
+l’insuline détémir (LEVEMIR).
+
+Lors de la mise sous insuline dans le diabète de type 2, l’objectif glycémique doit tenir compte du
+bénéfice et des risques potentiels de l’intensification en particulier chez les patients âgés et/ou
+présentant des co-morbidités en particulier cardiovasculaires et rénales.
+Les recommandations actuelles ne privilégient plus systématiquement les schémas insuliniques
+intensifiés.
+TRESIBA, comme les autres analogues à longue durée d’action, peut être utilisé :
+       - lors de la mise en place d’une insulinothérapie, comme insuline basale (en association
+       avec un ou plusieurs antidiabétiques oraux). Selon la recommandation récente de la HAS, il
+       est préconisé de débuter de préférence par une insuline intermédiaire (NPH) au coucher. La
+       prescription d’un analogue lent de l’insuline, en alternative à l’insuline intermédiaire, est à
+       discuter si le risque d’hypoglycémie nocturne sévère est préoccupant.
+       - lors de la mise en place d’un schéma insulinique intensifié, comme insuline basale dans un
+       schéma basal-bolus (en association avec une insuline ou un analogue rapide ou
+       ultrarapide)24.
+
+Lorsque l’administration de la dose n’est pas possible au même moment de la journée, TRESIBA
+permet une flexibilité de l’heure d’administration de l’insuline (voir rubrique 5.1 du RCP).
+
+
+
+012                CONCLUSIONS DE LA COMMISSION
+
+Considérant l’ensemble de ces informations et après débat et vote, la Commission estime :
+
+
+012.1. Service Médical Rendu
+  Le diabète (de type 1 et de type 2) est une maladie chronique aux complications potentiellement
+graves, notamment cardiovasculaires.
+TRESIBA entrerait dans le cadre du traitement de l’hyperglycémie.
+  Il s’agit d’un médicament à visée curative.
+Le rapport efficacité/effets indésirables de cette spécialité est important. Cependant, les risques à
+long terme concernant notamment les événements indésirables d’ordre cardiovasculaire sont mal
+cernés.
+  Il existe des alternatives médicamenteuses.
+
+       Intérêt de santé publique :
+     Le fardeau de santé publique représenté par le diabète insulino-traité est important.
+     L’amélioration de la prise en charge thérapeutique des diabétiques représente un besoin de
+     santé publique.
+     Au vu des données disponibles, tant dans le diabète de type 1 que dans le diabète de type 2,
+     TRESIBA ne présente pas d’impact supplémentaire par rapport aux comparateurs sur l’équilibre
+     glycémique. Par rapport à l’insuline glargine et l’insuline détémir, il n'est pas attendu d'impact
+     supplémentaire de TRESIBA sur la survenue d'hypoglycémies, en particulier nocturnes.
+24
+     Dès lors que l’intensification du traitement est nécessaire pour atteindre l’objectif en termes d’HbA1c
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                             29/33
+Avis 3
+  TRESIBA ne présente pas d’impact supplémentaire sur la morbi-mortalité, en particulier cardio-
+  vasculaire. L’impact de TRESIBA qui pouvait être attendu sur la qualité de vie des patients
+  traités ne peut être quantifié en l’absence de données. Il pouvait être attendu un impact faible
+  sur l’organisation des soins par le biais de la diminution du nombre d’auto-mesures mais, en
+  l’absence de données, cet impact ne peut être quantifié.
+  La transposabilité des données à la pratique courante est discutable du fait de l’exclusion des
+  patients présentant des problèmes cardio-vasculaires dans les essais présentés.
+  Aussi, TRESIBA n’apporte qu’une réponse partielle au besoin de santé publique identifié.
+  Au total, il n’est pas attendu de TRESIBA d’intérêt de santé publique dans le traitement du
+  diabète chez l’adulte.
+
+En conséquence, la Commission considère que le service médical rendu par TRESIBA est
+important dans le traitement du diabète de l’adulte.
+
+
+012.2. Amélioration du Service Médical Rendu
+Compte tenu :
+   - du contrôle glycémique obtenu avec TRESIBA (insuline degludec) comparable à celui
+      observé avec l’insuline glargine (LANTUS) dans le diabète de type 1 et de type 2 et
+      l’insuline détémir (LEVEMIR) dans le diabète de type 1,
+   - de la pertinence clinique difficilement appréciable d’un éventuel avantage en termes de
+      réduction de la survenue d’hypoglycémies notamment nocturnes au vu des différences très
+      faibles observées par rapport aux autres analogues lents et ce, malgré une évaluation
+      méthodologique rigoureuse,
+   - de la non-démonstration d’un impact en termes de morbi-mortalité notamment cardio-
+      vasculaire,
+   - de l’absence de donnée robuste permettant de recommander préférentiellement un
+      analogue lent de l’insuline,
+la Commission considère que TRESIBA n’apporte pas d’amélioration du service médical rendu
+(ASMR V, inexistante) dans la prise en charge par les analogues lents de l’insuline (LANTUS et
+LEVEMIR) des patients adultes atteints de diabète de type 1 ou de type 2.
+
+
+
+013           POPULATION CIBLE
+Définition :
+Les patients éligibles à une insulinothérapie sont :
+   - tous les patients diabétiques de type 1 (DT1) ;
+   - certains patients diabétiques de type 2 (DT2), principalement ceux en échec d’une
+        trithérapie orale (metformine + sulfamide hypoglycémiant + autre ADO) et ceux en échec
+        d’une bithérapie orale (metformine + sulfamide hypoglycémiant) avec un écart à l’objectif
+        glycémique ≥ 1% d’HbA1c.
+
+La population cible est constituée de la somme des patients diabétiques déjà traités par insuline
+(patients DT1 et patients DT2) et des patients DT2 traités par ADO seuls, non équilibrés et
+éligibles à l’insulinothérapie.
+Les hypothèses retenues sont :
+    - 70% des patients DT2 traités par ADO seuls, non équilibrés avec HbA1c ≥ 8% sont
+        éligibles à l’insulinothérapie (analyse de sensibilité : borne basse 0% ; borne haute 95%) ;
+    - 10% des patients DT2 traités par ADO seuls, non équilibrés, avec 7% ≤ HbA1c < 8% sont
+        éligibles à l’insulinothérapie (analyse de sensibilité : borne basse 0% ; borne haute 25%)
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique               30/33
+Avis 3
+Sur la base de données épidémiologiques récentes (population française25, pourcentage de
+patients diabétiques traités26, pourcentages de patients DT1 et DT2 traités26, pourcentages de
+patients DT2 traités par ADO seuls et équilibrés, traités par ADO seuls et non équilibrés, et déjà
+traités par insuline27), le nombre de patients diabétiques traités en France peut être estimé à
+2 886 196, dont 141 424 patients DT1 traités par insuline et 2 741 700 patients DT2 traités.
+Parmi les patients DT2, 1 724 202 sont traités par ADO seuls et équilibrés, 537 700 sont traités par
+ADO seuls, mais non équilibrés, et 479 798 sont déjà traités par insuline. Parmi les patients DT2
+traités par ADO seuls et non équilibrés, 157 707 ayant un taux d’HbA1c ≥ 8% sont éligibles à
+l’insulinothérapie et 31 240 ayant un taux d’HbA1c ≥ 7% et < 8% sont éligibles à l’insulinothérapie.
+
+Au total, la population cible de TRESIBA peut être estimée à environ 810 000 patients
+diabétiques (DT1 et DT2), soit la somme de 620 000 patients diabétiques déjà traités par insuline
+(dont 140 000 patients DT1 et 480 000 patients DT2) et de 190 000 patients DT2 traités par ADO
+seuls, non équilibrés et éligibles à l’insulinothérapie, avec un intervalle de plausibilité compris entre
+620 000 patients (borne basse) et 915 000 patients (borne haute).
+
+
+
+014              RECOMMANDATIONS DE LA COMMISSION
+La Commission donne un avis favorable à l'inscription sur la liste des spécialités
+remboursables aux assurés sociaux et sur la liste des médicaments agréés à l’usage des
+collectivités et divers services publics dans l’indication « traitement du diabète de l’adulte »
+et à la posologie de l’AMM.
+
+     Taux de remboursement proposé : 65%
+
+   Conditionnements
+Ils sont adaptés aux conditions de prescription.
+
+
+
+
+25
+      INSEE (Institut National de la Statistique et des Études Économiques). Population française en 2011
+                                  er
+      (France métropolitaine, au 1 janvier 2012).
+26
+      Assurance Maladie. Base de données EGB (Echantillon Généraliste des Bénéficiaires de l’Assurance
+      Maladie) 2011.
+27
+      Cegedim Strategic Data. Base de données LPD (Longitudinal Patient Databases) 2011.
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                    31/33
+Avis 3
+                                                 ANNEXE
+
+Algorithme de titration de l’insuline basale (insuline degludec ou insuline glargine ou
+insuline détémir) commun à toutes les études
+
+ Glycémie à jeun (moyenne
+                                    Ajustement de la dose d’insuline basale (Tresiba ou insuline glargine)
+  des trois derniers jours)
+< 3.1 mmol/L (56 mg/dL)                   - 4 U (Pour une dose > 45 U, diminution de la dose de 10%)
+< 3.9 mmol/L (70 mg/dL)                    - 2 U (Pour une dose > 45 U, diminution de la dose de 5%)
+< 5 mmol/L (90 mg/dL)                                          Pas d’ajustement
+< 7 mmol/L (126 mg/dL)                                              +2U
+< 8 mmol/L (144 mg/dL)                                              +4U
+< 9 mmol/L (162 mg/dL)                                              +6U
+≥ 9 mmol/L (162 mg/dL)                                              +8U
+
+
+Algorithme de titration de l’insuline asparte au cours de l’étude :
+L’insuline asparte devait être injectée juste avant les trois principaux repas (petit-déjeuner,
+déjeuner, dîner) et titrée en fonction des valeurs de glycémies préprandiales mesurées juste avant
+le déjeuner, juste avant le diner et au coucher.
+A la randomisation, le passage de l’insuline rapide antérieure à l’insuline asparte était réalisée
+dose pour dose.
+Après 8 semaines, il était attendu que la dose d’insuline basale soit optimisée. A ce moment,
+l’investigateur pouvait alors considérer si la dose d’insuline rapide devait être optimisée selon
+l’algorithme suivant :
+
+        Glycémie préprandiale
+      (moyenne des trois derniers           Ajustement de la dose d’insuline rapide (insuline asparte)
+               jours)
+         < 5 mmol/L (90 mg/dL)                                   Pas d’ajustement
+        < 8 mmol/L (144 mg/dL)                                         +2U
+        < 10 mmol/L (180 mg/dL)                                        +3U
+        ≥ 15 mmol/L (180 mg/dL)                                        +4U
+
+
+Instauration d’une seconde dose d’insuline détémir (étude 3585 uniquement) :
+En cas de contrôle glycémique inadéquat à la visite 10 (c’est-à-dire après 8 semaines de
+traitement et une optimisation de la dose), l’investigateur pouvait envisager l’ajout d’une deuxième
+dose d’insuline détémir uniquement si l’ensemble des trois critères suivant était rempli :
+- Manque d’amélioration du contrôle glycémique (Pour les sujets avec une valeur d’HbA1c
+     <8.0% à l’inclusion : une détérioration de l’HbA1c et pour les sujets avec une valeur d’HbA1c
+     entre 8.0% et 10% à l’inclusion : une amélioration de l’HbA1c <0.5%) ;
+- Glycémie préprandiale moyenne mesurée avant le diner > 6.0 mmol/L (108 mg/dL) ;
+- Aucune maladie traitable, entraînant des hyperglycémies, diagnostiquée.
+La dose d’initiation pour la deuxième dose d’insuline détémir devait être de 4 U, administrée avant
+le petit-déjeuner. Si une dose le matin était initiée, il était important de suivre la glycémie à jeun et
+d’ajuster le soir en conséquence. L’augmentation de la dose d’insuline détémir le matin était
+réalisée selon la moyenne de glycémie préprandiale mesurée juste avant le dîner dans les 3 jours
+précédents en utilisant l’algorithme de titration suivant.
+
+    Glycémie préprandiale (pré-dîner)                Ajustement de la dose d’insuline détémir
+         < 5 mmol/L (90 mg/dL)                                  Pas d’ajustement
+         < 10 mmol/L (180 mg/dL)                                        +2U
+         < 15 mmol/L (270 mg/dL)                                        +4U
+         ≥ 15 mmol/L (270 mg/dL)                                        +6U
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique                              32/33
+Avis 3
+Définition retenue pour les épisodes hypoglycémiques dans l’ensemble des études :
+- les épisodes mineurs étaient les épisodes symptomatiques avec une mesure de glycémie < 3.1
+   mmol/L (56 mg/dL) ne nécessitant pas l’assistance d’un tiers pour l’administration de
+   carbohydrate, glucagon ou pour toute action de réanimation ou, tout épisode asymptomatique
+   avec une mesure de glycémie < 3.1 mmol/L (56 mg/dL) ;
+- les épisodes sévères correspondent aux épisodes symptomatiques nécessitant l’assistance
+   d’un tiers en raison d’un trouble grave de la conscience ou du comportement, avec une
+   glycémie < 3.1 mmol/L et un rétablissement rapide après administration de glucose ou de
+   glucagon;
+- les épisodes nocturnes étaient ceux survenant entre 0:00 et 5:59 du matin ;
+- les épisodes hypoglycémiques confirmés étaient les épisodes mineurs et les épisodes sévères.
+
+
+
+
+HAS - Direction de l'Evaluation Médicale, Economique et de Santé Publique          33/33
+Avis 3
+

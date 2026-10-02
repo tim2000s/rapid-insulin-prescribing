@@ -1,0 +1,52 @@
+                                               Farmakologisk behandling ved type 2-diabetes
+                       Type 2 – diabetes med erkendt:                                                                          Type 2 – diabetes uden erkendt
+                                                                                                                       hjertekarsygdom1, hjertesvigt2 og nyresygdom3
+ Hjertekarsygdom1                    Hjertesvigt2                  Nyresygdom3
+                                                                                                 Patienter med meget høj risiko for                  Patienter uden komorbiditet eller
+       Tillæg uafhængig af HbA1c mhp. organbeskyttende effekt                                            hjertekarsygdom                                andre særlige risikofaktorer
+
+                                                                                                                                 Tillæg uafhængig af HbA1c
+ Livsstilsændring + SGLT-2-hæmmer (GLP-1RA, hvis SGLT-2 hæmmer
+                       ikke tåles)4 + metformin                                                                                 Livstilsændring + metformin
+
+        Tillæg af metformin kan ske samtidig eller efterfølgende                                                      Tillæg ved behov for yderligere reduktion i HbA1c
+
+                                                                                                      SCORE2-diabetes ≥ 20 %                            SCORE2-diabetes risiko < 20 %
+
+                                                                                                 SGLT-2-hæmmer (GLP-1RA, hvis                      1. DPP-4-hæmmer (billigst)
+                                                                                                  SGLT-2 hæmmer ikke tåles)4                       2. SGLT-2-hæmmer
+
+                                      Tillæg ved behov for yderligere reduktion i HbA1c
+
+                                      DPP-4-hæmmer (ikke saxagliptin ved hjertesvigt)
+                                              Kombiner ikke med GLP-1RA
+
+                                                                    Tillæg ved behov for yderligere reduktion i HbA1c                                                                                                   SU-stof​
+                                                                                                                                                                                                                   -------------------
+                                                                              GLP-1RA5 (GIP/GLP-1RA)6                                                                                                       Overvej til patienter uden
+                                                                     Seponer DPP-4-hæmmer ved tillæg af GLP-1-RA                                                                                                 risikofaktorer for
+                                                                                                                                                                                                                   hypoglykæmi.
+                                                                                                                                                                                                                  --------------------
+                                                                        Ved behov for opstart af insulinbehandling
+                                                                                                                                                                                                          Risikofaktorer:
+
+                                                               Basal insulin: Insulin glargin 100 IE/ml (ordiner billigste)                                                                               • Alder > 75 år eller langvarig
+                                                            Kombiner ikke SU og insulin grundet høj risiko for hypoglykæmi                                                                                  diabetes (> 20 år)
+                                                                                                                                                                                                          • Alkoholoverforbrug
+Patienter med svær overvægt (BMI > 30kg/m2): Følg som udgangspunkt samme anbefalinger uanset om patienten er overvægtig eller ej.                                                                         • Nedsat nyrefunktion
+Ældre patienter (> 75 år) eller patienter med langvarig diabetes (> 20 år): Følg som udgangspunkt samme anbefalinger som hos yngre patienter med følgende                                                 • Småtspisende
+forbehold: Anvend ikke SU-stoffer til disse patienter. Se i øvrigt anbefalinger for seponering.
+
+1 Hjertekarsygdom = iskæmisk hjertekarsygdom, cerebral iskæmi, perifer arteriel insufficiens
+2 Hjertesvigt = både med nedsat og bevaret LVEF
+3 Nyresygdom = nedsat nyrefunktion (eGFR<60 ml/min/1,73m2) og/eller albuminuri (≥30 mg/g)
+4 Hvis SGLT-2-hæmmer ikke kan anvendes (kontraindikation eller bivirkninger) ordineres billigste GLP-1RA mhp. organbeskyttende effekt (se oversigt over antidiabetika).
+5 Kombination af SGLT-2 hæmmer og GLP-1RA er forbundet med usikkerhed om additiv organbeskyttende effekt og høj pris. GLP1-RA anbefales derfor kun som tillæg til SGLT-2-hæmmer ved behov for yderligere reduktion i HbA1c, hvor
+
+patienten ikke kan forventes at nå behandlingsmålet ved tillæg af DPP4-hæmmer (forventet reduktion ↓ ca. 6 mmol/mol) og evt. SU (forventet reduktion ↓ ca. 10 mmol/mol), med mindre patienten har risikofaktorer for hypoglykæmi).
+6 GIP/GLP-1RA er klinisk ligestillet med GLP-1RA, men anbefales aktuelt ikke pga. meget højere pris (se oversigt over antidiabetika).
+
+
+
+For yderligere information henvises til Medicinrådets behandlingsvejledning vedr. antidiabetika til type 2-diabetes                                                                                           Opdateret 1. Oktober 2026
+

@@ -1,0 +1,771 @@
+
+<!DOCTYPE html>
+    <html lang="da-DK" xmlns="http://www.w3.org/1999/xhtml" xml:lang="da-DK" />
+<head>
+    <meta charset="utf-8" />
+        <meta name="robots" content="INDEX, FOLLOW" />
+<title>S&#xF8;geresultater - Amgros</title>
+<meta name="description" />
+<meta property="og:title" content="S&#xF8;geresultater - Amgros" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://amgros.dk/soegeresultater/" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+    <meta name="format-detection" content="telephone=no">
+        <script>
+            window.analyticsIdentifier = "G-1Q2NF834VD";
+        </script>
+
+    <script>
+        function getCookie(name) {
+            const match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+            if (match) return decodeURIComponent(match[2]);
+            return null;
+        }
+
+        function hasMarketingConsentFromCookie() {
+            const consentCookie = getCookie('CookieInformationConsent');
+            if (!consentCookie) return false;
+
+            try {
+                const consentData = JSON.parse(consentCookie);
+                const approved = consentData.consents_approved || [];
+                return approved.includes('cookie_cat_marketing');
+            } catch {
+                return false;
+            }
+        }
+
+        function loadAnalytics() {
+            if (!window.analyticsIdentifier || window.analyticsLoaded) return;
+            window.analyticsLoaded = true;
+
+            const gaScript = document.createElement('script');
+            gaScript.setAttribute('async', '');
+            gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + window.analyticsIdentifier;
+            document.head.appendChild(gaScript);
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            window.gtag = gtag;
+
+            gtag('js', new Date());
+            gtag('config', window.analyticsIdentifier);
+        }
+
+        function checkConsentAndLoad() {
+            if (hasMarketingConsentFromCookie()) {
+                loadAnalytics();
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', checkConsentAndLoad);
+
+        window.addEventListener('CookieInformationConsentGiven', function () {
+            setTimeout(checkConsentAndLoad, 300);
+        });
+    </script>
+
+    <!-- Splashscreen and theme -->
+    
+    
+    <link rel="stylesheet" type="text/css" media="all" href="/dist/css/master.min.css?v=489">
+    
+    <link rel="stylesheet" type='text/css' href="https://fonts.googleapis.com/css?family=Lato">
+<!-- Theme Styles (1158) -->
+<link rel="stylesheet" type='text/css' href="/dist/css/defaulttheme.css">
+<link rel="stylesheet" type='text/css' href="/dist/css/sitetheme1158.css">
+<link rel="stylesheet" type='text/css' href="/dist/css/theme-overwrites.min.css?v=222">
+
+    <!--[if lt IE 9]>
+       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+     <![endif]-->
+    <script type="text/javascript">
+        var _empTrack = _empTrack || []; _empTrack.push(['sslurl', 'tssl.emailplatform.com']);
+        _empTrack.push(['url', 't.emailplatform.com']); _empTrack.push(['action', 'pageview']); (function () { var emp = document.createElement('script'); emp.type = 'text/javascript'; emp.async = true; emp.src = ('https:' == document.location.protocol ? 'https://tssl.emailplatform.com' : 'http://t.emailplatform.com') + '/emptrack_1701_1558418428.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(emp, s); })();
+    </script>
+</head>
+<body id="site" class="theme-body-font theme-body" siteNodeId="1158" ng-app="myApp" ng-controller="myCtrl">
+    <!-- Accessibility Skip Link -->
+        <a href="#maincontent" class="skip-link">Spring til hovedindhold</a>
+
+
+
+        <script id="CookieConsent" data-culture="DA" type="text/javascript" data-gcm-version="2.0" src="https://policy.app.cookieinformation.com/uc.js"></script>
+    
+    
+    
+
+<nav class="site-navigation"
+     role="navigation"
+     aria-label="Prim&#xE6;r navigation">
+    <div class="container">
+        <div class="site-navigation__topbar" style="padding-bottom:10px;">
+            <div class="site-navigation__logo-bar">
+                <a href="/" class="site-navigation__logo">
+                    <img src="/media/1001/logo.svg" alt="Amgros logo" title="Amgros logo" />
+                </a>
+            </div>
+
+            <a tabindex="0" href="/en/" class="button site-navigation__language-switcher">
+                English
+                <svg class="site-navigation-language-switcher__icon">
+                    <use xlink:href="/dist/icons/amgros-icons.svg#language"></use>
+                </svg>
+            </a>
+
+            <div class="site-navigation__topbar-links">
+                    <a class="site-navigation__topbar-link" href="/kontakt/" target="">Kontakt</a>
+                    <a class="site-navigation__topbar-link" href="/om-amgros/presse-og-analyser/" target="">Presse og analyser</a>
+            </div>
+
+            <div class="topbar-container">
+                <div>
+                    <div class="search-overlay__preview" v-bind:class="{'search-overlay__preview--expanded': searchInput.focus}" id="js-search-overlay" role="search"
+     aria-label="S&#xF8;gning">
+    <div id="search-overlay-closed" class="search-overlay-closed" tabindex="0" role="button" aria-label="&#xC5;bn s&#xF8;gning">
+    <div style="padding-top:11px;" class="search-overlay-input-container">
+        <svg class="search-overlay-input-container__icon">
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/amgros-icons.svg#search"></use>
+        </svg>
+        <span class="search-overlay-text">
+            S&#xF8;g
+        </span>
+    </div>
+    </div>
+    <div class="search-overlay-open" id="search-overlay-open" >
+    <div class="search-overlay-input-container">
+        <form action="/soegeresultater/" method="GET">
+            <div class="input-icon-container">
+                <input class="search-overlay-input-container__input"
+                   type="text"
+                   placeholder="S&#xF8;g"
+                           autocomplete="off" name="s" v-model="params.searchTerm" v-on:input="onChange" @focus="onFocus" @blur="onBlur" aria-label="S&#xF8;gefelt">
+                    <!-- Close/Cross Icon (ensure you have an icon like this or replace with an appropriate one) -->
+                    <svg id="close-search-overlay" class="search-overlay-input-container__close-btn icon-close" role="button" aria-label="Luk s&#xF8;gning">
+                    <use xlink:href="/dist/icons/amgros-icons.svg#close"></use>
+                </svg>
+            </div>
+                <button style="display:none" type="submit" aria-label="Udf&#xF8;r s&#xF8;gning" class="search-overlay-input-container__button">
+                <svg class="search-overlay-input-container__icon">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/amgros-icons.svg#search"></use>
+                </svg>
+            </button>
+        </form>
+    </div>
+        <ul v-if="previewList.items && previewList.items.length"
+            :class="{
+      'search-overlay__results-list--open': previewList.open,
+      'search-overlay__results-list--scrollbar': previewList.scrollbar
+    }"
+            class="search-overlay__results-list"
+            role="list"
+            aria-label="S&#xF8;geresultater">
+
+            <li v-for="item in previewList.items"
+                :key="item.url"
+                class="search-overlay__results-item"
+                role="listitem">
+
+                <a class="search-overlay__results-item-link"
+                   :href="item.url"
+                   :aria-label="'S&#xF8;geresultat: ' + item.listTitle">
+                    <span class="search-overlay__results-item-link-image">
+                        <img v-if="item.listImageUrl"
+                             class="image"
+                             :src="item.listImageUrl"
+                             alt=""
+                             aria-hidden="true" />
+                    </span>
+                    <span class="search-overlay__results-item-link-title">
+                        {{ item.listTitle }}
+                    </span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="/dist/icons/amgros-icons.svg#arrow2"></use>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+        <!-- SR-only live region for antal søgeresultater -->
+        <p id="search-result-count"
+           class="sr-only"
+           aria-live="polite">
+        </p>
+
+    </div>
+</div>
+
+
+
+
+                </div>
+                <div class="levSektion">
+                        <span class="levSektionItem levSektionItemLink">
+                            <a href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">Ny leverand&#xF8;r</a>
+                        </span>
+                    <div class="levSektionItemLinksWrapper">
+                        <span tabindex="0" 
+                              class="levSektionItem levSektionItemLinks" 
+                              role="button"
+                              aria-haspopup="true"
+                              aria-expanded="false"
+                              aria-controls="loginDropdown"
+                              aria-label="Login">
+                            Login
+                        </span>
+                        <span id="loginDropdown"
+                        class="dropdown-content" 
+                        role="menu" 
+                        aria-label="Login links"
+                        aria-hidden="true"
+                        style="position: absolute; background-color: white; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); padding: 12px 16px; z-index: 24;">
+                                    <div class="dropdown-item" role="none">
+                                            <a href="https://levportal.amgros.dk/Sider/Default.aspx" target="_blank" class="dropdown-link" role="menuitem" aria-label="Leverand&#xF8;rportalen">
+                                                Leverand&#xF8;rportalen
+                                                <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                            </a>
+                                    </div>
+                                    <div class="dropdown-item" role="none">
+                                            <span class="dropdown-link" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-label="RHA-databasen ">
+                                                RHA-databasen 
+                                                <span class="sr-only">
+                                                    Tryk Tab for at navigere undermenu
+                                                </span>
+                                                <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                            </span>
+                                            <div class="sublevel-links" role="menu" style="position: absolute; left: 165%; top: 29px;">
+                                                    <a href="https://haweb-sdn.amgros.dk/" target="_blank" class="dropdown-link sublink" role="menuitem" aria-label="H&#xF8;reklinik offentlig">
+                                                        H&#xF8;reklinik offentlig
+                                                        <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                                    </a>
+                                                    <a href="https://haweb.amgros.dk/" target="_blank" class="dropdown-link sublink" role="menuitem" aria-label="H&#xF8;reklinik pulje">
+                                                        H&#xF8;reklinik pulje
+                                                        <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                                    </a>
+                                            </div>
+                                    </div>
+                                    <div class="dropdown-item" role="none">
+                                            <a href="https://ny.samnet.dk/" target="_blank" class="dropdown-link" role="menuitem" aria-label="Samnet">
+                                                Samnet
+                                                <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                            </a>
+                                    </div>
+                                    <div class="dropdown-item" role="none">
+                                            <a href="https://ha-handel.amgros.dk/" target="_blank" class="dropdown-link" role="menuitem" aria-label="HA-handel">
+                                                HA-handel
+                                                <svg class="icon"><use xlink:href="/dist/icons/amgros-icons.svg#arrow1"></use></svg>
+                                            </a>
+                                    </div>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="site-navigation__inner">
+            <nav class="site-navigation-list__wrapper" id="js-site-navigation-list-wrapper">
+                <ul class="site-navigation-list" role="menubar" id="js-site-navigation-list">
+                    <li role="none" class="site-navigation-list__item">
+                        <div id="js-mobile-search" class="mobile-search">
+                            <form action="/soegeresultater/" method="GET">
+                                <input class="mobile-search__input"
+                                       type="text"
+                                       placeholder="S&#xF8;g"
+                                       autocomplete="off" name="s" v-model="params.searchTerm" v-on:input="onChange" @focus="onFocus" @blur="onBlur">
+
+                                <button type="submit" aria-label="Submit search" class="mobile-search__button">
+                                    <svg class="mobile-search__icon">
+                                        <use xlink:href="/dist/icons/amgros-icons.svg#search"></use>
+                                    </svg>
+                                </button>
+                            </form>
+                        </div>
+                    </li>
+
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/om-amgros/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="true"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    Om Amgros
+                                </a>
+                                    <button aria-label="Subnavigation toggle" class="js-sub-navigation-toggle site-navigation-list__sub-navigation-toggle hidden-md hidden-lg">
+                                        <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-dropdown"></use></svg>
+                                    </button>
+                                    <div class="container fat-menu" role="menu">
+                                        <div class="fat-menu__inner ">
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/om-amgros/organisering/" role="menuitem" tabindex="-1">Organisering</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/om-amgros/ledelse/" role="menuitem" tabindex="-1">Ledelse</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/om-amgros/ledelse/bestyrelse/" role="menuitem" tabindex="-1">Bestyrelse</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/om-amgros/ledelse/direktion/" role="menuitem" tabindex="-1">Direktion</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/om-amgros/strategi/" role="menuitem" tabindex="-1">Strategi</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/om-amgros/samarbejde/" role="menuitem" tabindex="-1">Samarbejde</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/om-amgros/samarbejde/nationalt-samarbejde/" role="menuitem" tabindex="-1">Nationalt samarbejde</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/om-amgros/samarbejde/internationalt-samarbejde/" role="menuitem" tabindex="-1">Internationalt samarbejde</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/om-amgros/samarbejde/nordisk-samarbejde/" role="menuitem" tabindex="-1">Nordisk samarbejde</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/om-amgros/nyheder/" role="menuitem" tabindex="-1">Nyheder</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                        </div>
+                                            <a class="fat-menu__supplier-link" href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">
+                                                Bliv leverand&#xF8;r til Amgros
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/laegemidler/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="true"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    L&#xE6;gemidler
+                                </a>
+                                    <button aria-label="Subnavigation toggle" class="js-sub-navigation-toggle site-navigation-list__sub-navigation-toggle hidden-md hidden-lg">
+                                        <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-dropdown"></use></svg>
+                                    </button>
+                                    <div class="container fat-menu" role="menu">
+                                        <div class="fat-menu__inner ">
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/laegemidler/horizon-scanning/" role="menuitem" tabindex="-1">Horizon Scanning</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/horizon-scanning/horizon-scanning-orienteringer/" role="menuitem" tabindex="-1">Horizon Scanning orienteringer</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/horizon-scanning/horizon-scanning-oversigter/" role="menuitem" tabindex="-1">Horizon Scanning oversigter</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/horizon-scanning/pipelinemoeder/" role="menuitem" tabindex="-1">Pipelinem&#xF8;der</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/horizon-scanning/find-vej-gennem-ema/" role="menuitem" tabindex="-1">Find vej gennem EMA</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/laegemidler/prisforhandling-og-udbud/" role="menuitem" tabindex="-1">Prisforhandling og udbud</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/prisforhandling-og-udbud/nye-laegemidler-og-forhandling/" role="menuitem" tabindex="-1">Nye l&#xE6;gemidler og forhandling</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/prisforhandling-og-udbud/terapiomraader-med-analog-konkurrence/" role="menuitem" tabindex="-1">Terapiomr&#xE5;der med analog konkurrence</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/prisforhandling-og-udbud/generiske-laegemidler/" role="menuitem" tabindex="-1">Generiske l&#xE6;gemidler</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/prisforhandling-og-udbud/primaersektor/" role="menuitem" tabindex="-1">Prim&#xE6;rsektor</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/" role="menuitem" tabindex="-1">Indk&#xF8;b og forsyning af l&#xE6;gemidler</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/restordrer/" role="menuitem" tabindex="-1">Restordrer</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/tilladelser-til-at-haandtere-laegemidler/" role="menuitem" tabindex="-1">Tilladelser til at h&#xE5;ndtere l&#xE6;gemidler</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/strategisk-lager/" role="menuitem" tabindex="-1">Strategisk lager</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/akutkontakter/" role="menuitem" tabindex="-1">Akutkontakter</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/laegemidler/sad-laegemidler/" role="menuitem" tabindex="-1">SAD l&#xE6;gemidler</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                        <ul class="fat-menu__list" role="menu">
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/sad-laegemidler/akutkontakter-bivirkninger-sad-og-magistrelle/" role="menuitem" tabindex="-1">Akutkontakter - bivirkninger - SAD og magistrelle</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/sad-laegemidler/akutkontakter-produktfejl-sad-laegemidler/" role="menuitem" tabindex="-1">Akutkontakter - produktfejl - SAD l&#xE6;gemidler</a>
+                                                                </li>
+                                                                <li class="fat-menu__list-item " role="none">
+                                                                    <a class="fat-menu__item-link" href="/laegemidler/sad-laegemidler/kontaktoplysninger-til-sygehusapotekerne/" role="menuitem" tabindex="-1">Kontaktoplysninger til sygehusapotekerne</a>
+                                                                </li>
+                                                        </ul>
+                                                </div>
+                                        </div>
+                                            <a class="fat-menu__supplier-link" href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">
+                                                Bliv leverand&#xF8;r til Amgros
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/hoereapparater/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="true"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    H&#xF8;reapparater
+                                </a>
+                                    <button aria-label="Subnavigation toggle" class="js-sub-navigation-toggle site-navigation-list__sub-navigation-toggle hidden-md hidden-lg">
+                                        <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-dropdown"></use></svg>
+                                    </button>
+                                    <div class="container fat-menu" role="menu">
+                                        <div class="fat-menu__inner ">
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/hoereapparater/udbud-paa-hoereapparater/" role="menuitem" tabindex="-1">Udbud p&#xE5; h&#xF8;reapparater</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/hoereapparater/forsyning-af-hoereapparater/" role="menuitem" tabindex="-1">Forsyning af h&#xF8;reapparater</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                        </div>
+                                            <a class="fat-menu__supplier-link" href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">
+                                                Bliv leverand&#xF8;r til Amgros
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/medicinsk-udstyr/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="false"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    Medicinsk udstyr
+                                </a>
+                            </li>
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/baeredygtighed/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="true"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    B&#xE6;redygtighed
+                                </a>
+                                    <button aria-label="Subnavigation toggle" class="js-sub-navigation-toggle site-navigation-list__sub-navigation-toggle hidden-md hidden-lg">
+                                        <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-dropdown"></use></svg>
+                                    </button>
+                                    <div class="container fat-menu" role="menu">
+                                        <div class="fat-menu__inner ">
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/baeredygtighed/ansvarlig-virksomhedsadfaerd/" role="menuitem" tabindex="-1">Ansvarlig virksomhedsadf&#xE6;rd</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/baeredygtighed/klima/" role="menuitem" tabindex="-1">Klima</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/baeredygtighed/cirkulaer-oekonomi/" role="menuitem" tabindex="-1">Cirkul&#xE6;r &#xF8;konomi</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/baeredygtighed/medicinrester-i-spildevand-og-antimikrobiel-resistens/" role="menuitem" tabindex="-1">Medicinrester i spildevand og antimikrobiel resistens</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                        </div>
+                                            <a class="fat-menu__supplier-link" href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">
+                                                Bliv leverand&#xF8;r til Amgros
+                                            </a>
+                                    </div>
+                            </li>
+                            <li class="site-navigation-list__item" role="none">
+
+
+                                <a href="/vores-arbejdsplads/"
+                                   class="site-navigation-list__link "
+                                   role="menuitem"
+                                   aria-haspopup="true"
+                                   aria-expanded="false"
+                                   tabindex="-1">
+                                    Vores arbejdsplads
+                                </a>
+                                    <button aria-label="Subnavigation toggle" class="js-sub-navigation-toggle site-navigation-list__sub-navigation-toggle hidden-md hidden-lg">
+                                        <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-dropdown"></use></svg>
+                                    </button>
+                                    <div class="container fat-menu" role="menu">
+                                        <div class="fat-menu__inner ">
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/vores-arbejdsplads/ansaettelsesproces/" role="menuitem" tabindex="-1">Ans&#xE6;ttelsesproces</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                                <div class="fat-menu__list-container">
+                                                    <a class="fat-menu__level2-title " href="/vores-arbejdsplads/ledige-stillinger/" role="menuitem" tabindex="-1">Ledige stillinger</a>
+                                                    <hr class="fat-menu__seperator"/>
+                                                </div>
+                                        </div>
+                                            <a class="fat-menu__supplier-link" href="/om-amgros/saadan-bliver-du-leverandoer-til-amgros/" target="_self">
+                                                Bliv leverand&#xF8;r til Amgros
+                                            </a>
+                                    </div>
+                            </li>
+
+                        <li role="none" class="site-navigation-list__item site-navigation-list__item--mobile">
+                            <a class="site-navigation-list__link" href="/kontakt/" target="">Kontakt</a>
+                        </li>
+                        <li role="none" class="site-navigation-list__item site-navigation-list__item--mobile">
+                            <a class="site-navigation-list__link" href="/om-amgros/presse-og-analyser/" target="">Presse og analyser</a>
+                        </li>
+                    <li role="none" class="site-navigation-list__item site-navigation-list__item--language-picker">
+                        <a href="/en/" class="site-navigation-list__link">
+                            English
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="site-navigation-burger theme-header-text-color" id="js-site-navigation-toggle">
+                <span></span><span></span><span></span><span></span>
+            </div>
+            <a href="/" aria-label="Logo" class="site-navigation__logo site-navigation__logo--mobile">
+                <img src="/media/1001/logo.svg" alt="Amgros logo" title="Amgros logo" />
+            </a>
+        </div>
+    </div>
+</nav>
+<header class="top-banner  ">
+    
+    <div class="container">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a class="breadcrumb-item__text theme-link" href="/">Amgros</a>
+            </li>
+            <li class="breadcrumb-item">
+                <p class="breadcrumb-item__text theme-body">S&#xF8;geresultater</p>
+            </li>
+        </ul>
+    </div>
+
+        <div class="container">
+            <div class="top-banner__inner">
+                <div class="top-banner__content">
+                        <h1 class="top-banner__title">S&#xF8;geresultater</h1>
+                        <hr class="top-banner__seperator" />
+                </div>
+            </div>
+        </div>
+</header>
+    <main id="maincontent">
+        <section class="grid-section grid-section--spacing-top">
+    <div class="container">
+        <form method="GET" class="search-result-form">
+            <input class="search-result-form__input"
+                   type="text"
+                   placeholder="Hvad leder du efter?"
+                   autocomplete="off"
+                   name="s"
+                   value="adalimumab">
+            <button type="submit" class="search-result-form__button" aria-label="Søg">
+                <svg class="search-result-form__icon">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/icons.svg#icon-search"></use>
+                </svg>
+            </button>
+        </form>
+    </div>
+</section>
+<section class="grid-section">
+    <div class="container">
+        <div class="search-results">
+
+
+<div class="list-wrapper" v-init:list-items="[{&quot;ListTitle&quot;:&quot;Ny biosimil&#xE6;r rekord&quot;,&quot;ListTeaser&quot;:&quot;Ved f&#xE6;lles hj&#xE6;lp er det lykkedes os at skifte 90 procent af forbruget p&#xE5; adalimumab til nyt biosimil&#xE6;rt l&#xE6;gemiddel. Inden for bare tre uger.&quot;,&quot;ListLinkText&quot;:&quot;L&#xC6;S MERE&quot;,&quot;ListDate&quot;:&quot;2019-03-27T00:00:00Z&quot;,&quot;FormattedListDate&quot;:null,&quot;Image&quot;:{&quot;crop&quot;:null,&quot;properties&quot;:[{&quot;id&quot;:25807,&quot;value&quot;:{&quot;src&quot;:&quot;/media/1424/0e1a8784.jpg&quot;,&quot;crops&quot;:[]},&quot;alias&quot;:&quot;umbracoFile&quot;,&quot;editor&quot;:&quot;Umbraco.ImageCropper&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:25808,&quot;value&quot;:&quot;900&quot;,&quot;alias&quot;:&quot;umbracoWidth&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:25809,&quot;value&quot;:&quot;617&quot;,&quot;alias&quot;:&quot;umbracoHeight&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:25810,&quot;value&quot;:&quot;323003&quot;,&quot;alias&quot;:&quot;umbracoBytes&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:25811,&quot;value&quot;:&quot;jpg&quot;,&quot;alias&quot;:&quot;umbracoExtension&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:25812,&quot;value&quot;:&quot;0&quot;,&quot;alias&quot;:&quot;disallowRobots&quot;,&quot;editor&quot;:&quot;Umbraco.TrueFalse&quot;,&quot;isSensitive&quot;:false}],&quot;updateDate&quot;:&quot;2019-03-08 10:55:16&quot;,&quot;createDate&quot;:&quot;2019-03-08 10:55:16&quot;,&quot;published&quot;:false,&quot;hasPublishedVersion&quot;:false,&quot;owner&quot;:{&quot;id&quot;:1,&quot;name&quot;:&quot;Lone Haubro Andersen&quot;},&quot;updater&quot;:null,&quot;contentTypeAlias&quot;:&quot;Image&quot;,&quot;sortOrder&quot;:18,&quot;name&quot;:&quot;0E1A8784.jpg&quot;,&quot;id&quot;:2107,&quot;udi&quot;:&quot;umb://media/5bdf9e924e5340be8619f354b268e1cc&quot;,&quot;icon&quot;:&quot;icon-picture&quot;,&quot;trashed&quot;:false,&quot;key&quot;:&quot;5bdf9e92-4e53-40be-8619-f354b268e1cc&quot;,&quot;parentId&quot;:1656,&quot;alias&quot;:null,&quot;path&quot;:&quot;-1,1577,1654,1656,2107&quot;,&quot;metaData&quot;:{},&quot;isFolder&quot;:false,&quot;thumbnail&quot;:&quot;/media/1424/0e1a8784.jpg?width=500&amp;mode=max&amp;animationprocessmode=first&quot;,&quot;image&quot;:&quot;/media/1424/0e1a8784.jpg&quot;,&quot;file&quot;:{&quot;src&quot;:&quot;/media/1424/0e1a8784.jpg&quot;,&quot;crops&quot;:[]},&quot;extension&quot;:&quot;jpg&quot;,&quot;width&quot;:&quot;110&quot;,&quot;height&quot;:&quot;75.411111111111111&quot;,&quot;aspectRatio&quot;:&quot;0.54132901134521871&quot;,&quot;flexStyle&quot;:{&quot;flex&quot;:&quot;1 1 113.11666666666667px&quot;,&quot;max-width&quot;:&quot;110px&quot;,&quot;min-width&quot;:&quot;100px&quot;,&quot;min-height&quot;:&quot;75px&quot;},&quot;size&quot;:{&quot;naturalWidth&quot;:&quot;900&quot;,&quot;naturalHeight&quot;:&quot;617&quot;,&quot;ratio&quot;:0.6855555555555556},&quot;focalPoint&quot;:{&quot;left&quot;:0.5,&quot;top&quot;:0.5},&quot;dominantColor&quot;:&quot;#999285&quot;,&quot;Left&quot;:0.0,&quot;Top&quot;:0.0},&quot;ListImageUrl&quot;:&quot;/media/1424/0e1a8784.jpg&quot;,&quot;Url&quot;:&quot;/om-amgros/nyheder/ny-international-rekord-i-biosimilaert-skifte/&quot;,&quot;SortOrder&quot;:11,&quot;DocumentTypeAlias&quot;:&quot;articlePage&quot;},{&quot;ListTitle&quot;:&quot;Samlet oms&#xE6;tning af l&#xE6;gemidler steg 4 %&quot;,&quot;ListTeaser&quot;:&quot;I f&#xF8;rste halv&#xE5;r af 2020 indk&#xF8;bte regionerne l&#xE6;gemidler via Amgros for godt og vel fire milliarder kroner. Det var fire procent mere i forhold til samme periode sidste &#xE5;r. Det fremg&#xE5;r af den seneste markedsoverv&#xE5;gning fra Amgros.&quot;,&quot;ListLinkText&quot;:&quot;L&#xC6;S MERE&quot;,&quot;ListDate&quot;:&quot;2020-08-31T00:00:00Z&quot;,&quot;FormattedListDate&quot;:null,&quot;Image&quot;:{&quot;crop&quot;:null,&quot;properties&quot;:[{&quot;id&quot;:35666,&quot;value&quot;:{&quot;src&quot;:&quot;/media/1555/amgros-0180.jpg&quot;,&quot;crops&quot;:[]},&quot;alias&quot;:&quot;umbracoFile&quot;,&quot;editor&quot;:&quot;Umbraco.ImageCropper&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:35667,&quot;value&quot;:&quot;2000&quot;,&quot;alias&quot;:&quot;umbracoWidth&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:35668,&quot;value&quot;:&quot;1333&quot;,&quot;alias&quot;:&quot;umbracoHeight&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:35669,&quot;value&quot;:&quot;1110760&quot;,&quot;alias&quot;:&quot;umbracoBytes&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:35670,&quot;value&quot;:&quot;jpg&quot;,&quot;alias&quot;:&quot;umbracoExtension&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:35671,&quot;value&quot;:&quot;0&quot;,&quot;alias&quot;:&quot;disallowRobots&quot;,&quot;editor&quot;:&quot;Umbraco.TrueFalse&quot;,&quot;isSensitive&quot;:false}],&quot;updateDate&quot;:&quot;2019-03-11 09:58:52&quot;,&quot;createDate&quot;:&quot;2019-03-11 09:58:52&quot;,&quot;published&quot;:false,&quot;hasPublishedVersion&quot;:false,&quot;owner&quot;:{&quot;id&quot;:1,&quot;name&quot;:&quot;Lone Haubro Andersen&quot;},&quot;updater&quot;:null,&quot;contentTypeAlias&quot;:&quot;Image&quot;,&quot;sortOrder&quot;:7,&quot;name&quot;:&quot;AMGROS 0180.jpg&quot;,&quot;id&quot;:2254,&quot;udi&quot;:&quot;umb://media/8e5d40ee0f0e45f6bc9a0295166454d1&quot;,&quot;icon&quot;:&quot;icon-picture&quot;,&quot;trashed&quot;:false,&quot;key&quot;:&quot;8e5d40ee-0f0e-45f6-bc9a-0295166454d1&quot;,&quot;parentId&quot;:1655,&quot;alias&quot;:null,&quot;path&quot;:&quot;-1,1577,1654,1655,2254&quot;,&quot;metaData&quot;:{},&quot;isFolder&quot;:false,&quot;thumbnail&quot;:&quot;/media/1555/amgros-0180.jpg?width=500&amp;mode=max&amp;animationprocessmode=first&quot;,&quot;image&quot;:&quot;/media/1555/amgros-0180.jpg&quot;,&quot;file&quot;:{&quot;src&quot;:&quot;/media/1555/amgros-0180.jpg&quot;,&quot;crops&quot;:[]},&quot;extension&quot;:&quot;jpg&quot;,&quot;width&quot;:&quot;110&quot;,&quot;height&quot;:&quot;73.315&quot;,&quot;aspectRatio&quot;:&quot;1&quot;,&quot;flexStyle&quot;:{&quot;flex&quot;:&quot;1 1 109.56px&quot;,&quot;max-width&quot;:&quot;110px&quot;,&quot;min-width&quot;:&quot;100px&quot;,&quot;min-height&quot;:&quot;75px&quot;},&quot;size&quot;:{&quot;naturalWidth&quot;:&quot;2000&quot;,&quot;naturalHeight&quot;:&quot;1333&quot;,&quot;ratio&quot;:0.6665},&quot;focalPoint&quot;:{&quot;left&quot;:0.542,&quot;top&quot;:0.3153153153153153},&quot;dominantColor&quot;:&quot;#939593&quot;,&quot;Left&quot;:0.0,&quot;Top&quot;:0.0},&quot;ListImageUrl&quot;:&quot;/media/1555/amgros-0180.jpg&quot;,&quot;Url&quot;:&quot;/om-amgros/nyheder/samlet-omsaetning-af-laegemidler-steg-4/&quot;,&quot;SortOrder&quot;:54,&quot;DocumentTypeAlias&quot;:&quot;articlePage&quot;},{&quot;ListTitle&quot;:&quot;Udgifterne til medicin er faldet&quot;,&quot;ListTeaser&quot;:&quot;I f&#xF8;rste og andet kvartal af 2019 er udgifterne til medicin k&#xF8;bt gennem Amgros i gennemsnit faldet 4,5 procent. Vi forventer dog, at udgifterne vil stige igen allerede i efter&#xE5;ret 2019.&quot;,&quot;ListLinkText&quot;:&quot;L&#xC6;S MERE&quot;,&quot;ListDate&quot;:&quot;2019-08-15T00:00:00Z&quot;,&quot;FormattedListDate&quot;:null,&quot;Image&quot;:{&quot;crop&quot;:null,&quot;properties&quot;:[{&quot;id&quot;:112862,&quot;value&quot;:{&quot;src&quot;:&quot;/media/2024/istock_000002981947.jpg&quot;,&quot;crops&quot;:[]},&quot;alias&quot;:&quot;umbracoFile&quot;,&quot;editor&quot;:&quot;Umbraco.ImageCropper&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:112863,&quot;value&quot;:&quot;3279&quot;,&quot;alias&quot;:&quot;umbracoWidth&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:112864,&quot;value&quot;:&quot;2406&quot;,&quot;alias&quot;:&quot;umbracoHeight&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:112865,&quot;value&quot;:&quot;1911680&quot;,&quot;alias&quot;:&quot;umbracoBytes&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:112866,&quot;value&quot;:&quot;jpg&quot;,&quot;alias&quot;:&quot;umbracoExtension&quot;,&quot;editor&quot;:&quot;Umbraco.NoEdit&quot;,&quot;isSensitive&quot;:false},{&quot;id&quot;:112867,&quot;value&quot;:&quot;0&quot;,&quot;alias&quot;:&quot;disallowRobots&quot;,&quot;editor&quot;:&quot;Umbraco.TrueFalse&quot;,&quot;isSensitive&quot;:false}],&quot;updateDate&quot;:&quot;2019-04-03 21:45:19&quot;,&quot;createDate&quot;:&quot;2019-04-03 21:45:19&quot;,&quot;published&quot;:false,&quot;hasPublishedVersion&quot;:false,&quot;owner&quot;:{&quot;id&quot;:1,&quot;name&quot;:&quot;Lone Haubro Andersen&quot;},&quot;updater&quot;:null,&quot;contentTypeAlias&quot;:&quot;Image&quot;,&quot;sortOrder&quot;:20,&quot;name&quot;:&quot;iStock_000002981947.jpg&quot;,&quot;id&quot;:2873,&quot;udi&quot;:&quot;umb://media/1d689af5c19f4ccfb7320fd52589b7bc&quot;,&quot;icon&quot;:&quot;icon-picture&quot;,&quot;trashed&quot;:false,&quot;key&quot;:&quot;1d689af5-c19f-4ccf-b732-0fd52589b7bc&quot;,&quot;parentId&quot;:1655,&quot;alias&quot;:null,&quot;path&quot;:&quot;-1,1577,1654,1655,2873&quot;,&quot;metaData&quot;:{},&quot;isFolder&quot;:false,&quot;thumbnail&quot;:&quot;/media/2024/istock_000002981947.jpg?width=500&amp;mode=max&amp;animationprocessmode=first&quot;,&quot;image&quot;:&quot;/media/2024/istock_000002981947.jpg&quot;,&quot;file&quot;:{&quot;src&quot;:&quot;/media/2024/istock_000002981947.jpg&quot;,&quot;crops&quot;:[]},&quot;extension&quot;:&quot;jpg&quot;,&quot;width&quot;:&quot;110&quot;,&quot;height&quot;:&quot;80.713632204940538&quot;,&quot;aspectRatio&quot;:&quot;1&quot;,&quot;flexStyle&quot;:{&quot;flex&quot;:&quot;0.9083347880299251 1 99.5171593765586px&quot;,&quot;max-width&quot;:&quot;110px&quot;,&quot;min-width&quot;:&quot;100px&quot;,&quot;min-height&quot;:&quot;75px&quot;},&quot;size&quot;:{&quot;naturalWidth&quot;:&quot;3279&quot;,&quot;naturalHeight&quot;:&quot;2406&quot;,&quot;ratio&quot;:0.7337602927721867},&quot;focalPoint&quot;:{&quot;left&quot;:0.472,&quot;top&quot;:0.6294277929155313},&quot;dominantColor&quot;:&quot;#9092ca&quot;,&quot;Left&quot;:0.0,&quot;Top&quot;:0.0},&quot;ListImageUrl&quot;:&quot;/media/2024/istock_000002981947.jpg&quot;,&quot;Url&quot;:&quot;/om-amgros/nyheder/udgifterne-til-medicin-er-faldet/&quot;,&quot;SortOrder&quot;:25,&quot;DocumentTypeAlias&quot;:&quot;articlePage&quot;}]" v-cloak>
+
+    <div class="list list--card list--items-per-row-3" data-items-per-row="3">
+            <a class="list-item list-item--card"
+               v-bind:href="listItem.Url"
+               v-if="listItem.Url"
+               v-for="listItem in filteredListItems"
+               v-bind:data-filter="getDataFilters(listItem)"
+               :key="listItem.id">
+                <figure class="list-item__image-holder" v-if="listItem.ListImageUrl">
+                    <img :class="'lazyload lazyload-measure lazyload-bg'"
+                         :key="listItem.ListImageUrl"
+                         alt=" "
+                         v-bind:data-src="listItem.ListImageUrl && listItem.Image ? (listItem.ListImageUrl + '?mode=crop&center=' + (listItem.Image.focalPoint != null && listItem.Image.focalPoint.top !== null ? listItem.Image.focalPoint.top : 0) + ',' + (listItem.Image.focalPoint != null && listItem.Image.focalPoint.left !== null ? listItem.Image.focalPoint.left : 0)) : ''" />
+                </figure>
+                <div class="list-item__content">
+                    <h3 class="list-item__headline" v-if="listItem.ListTitle">{{ listItem.ListTitle }}</h3>
+                    <div v-if="listItem.ListTeaser" class="list-item__teaser">
+                        <p>{{ listItem.ListTeaser }}</p>
+                    </div>
+                    <span class="list-item__link theme-link" v-if="listItem.ListLinkText">
+                        {{ listItem.ListLinkText }}
+                    </span>
+                </div>
+            </a>
+
+    </div>
+</div>
+        </div>
+    </div>
+</section>
+
+    </main>
+<div class="bottom-info-bar">
+    <div class="container bottom-info-bar__inner">
+            <div class="bottom-info-bar__cta">
+                <a class="bottom-info-bar__link" href="/feedback/" target="_blank">
+                    Oplever du problemer med vores hjemmeside, s&#xE5; giv os besked her
+                    <svg>
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/amgros-icons.svg#arrow2"></use>
+                    </svg>
+                </a>
+            </div>
+    </div>
+</div><footer class="footer">
+    <div class="footer__inner container">
+        <div class="footer__row-1">
+            <div class="footer__logo">
+                <a href="/" aria-label="Logo">
+                    <img src="/media/1001/logo.svg" alt="Amgros logo" title="Amgros logo" />
+                </a>
+            </div>
+            <div class="footer__company-info">
+                    <span class="footer__company-info-name2"> Amgros I/S</span>
+                    <span class="footer__company-info-address">Dampf&#xE6;rgevej 22</span>
+                    <span class="footer__company-info-city">2100 K&#xF8;benhavn &#xD8;</span>
+                        <span class="footer__company-info-email"><a href="tel: Tlf: 8871 3000">Tlf: 8871 3000</a></span>
+                    <span class="footer__company-info-phone">Fax: 8871 3008</span>
+                    <span class="footer__company-info-email"><a href="mailto:Mail: amgros@amgros.dk">Mail: amgros@amgros.dk</a></span>
+                    <span class="footer__company-info-fax">CVR: 14479880</span>
+            </div>
+            <div class="footer__combined-container" style="width:100%;">
+                <div class="footer__link-lists">
+                        <ul class="footer__link-list">
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/laegemidler/indkoeb-og-forsyning-af-laegemidler/akutkontakter/" target="_self">
+                                            Akutkontakter
+                                        </a>
+                                    </li>
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/laegemidler/sad-laegemidler/akutkontakter-bivirkninger-sad-og-magistrelle/" target="_self">
+                                            Akutkontakter - bivirkninger - SAD og magistrelle
+                                        </a>
+                                    </li>
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/whistleblower-og-speak-up/" target="_self">
+                                            Whistleblower og Speak Up
+                                        </a>
+                                    </li>
+                        </ul>
+                        <ul class="footer__link-list">
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/it-support/" target="_self">
+                                            IT-support
+                                        </a>
+                                    </li>
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/persondatapolitik/" target="_self">
+                                            Persondatapolitik
+                                        </a>
+                                    </li>
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/cookies/" target="_self">
+                                            Cookies
+                                        </a>
+                                    </li>
+                        </ul>
+                        <ul class="footer__link-list">
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/find-vej/" target="_self">
+                                            Find vej
+                                        </a>
+                                    </li>
+                                    <li class="footer__list-item">
+                                        <a class="footer__list-item-link" href="/om-amgros/disclaimer/" target="_self">
+                                            Disclaimer
+                                        </a>
+                                    </li>
+                                        <li class="footer__list-item">
+                                            <a class="footer__list-item-link" href="https://dk.linkedin.com/company/amgros-i-s" target="_blank">
+                                                <div id="follow_lang" class="rowheader"> Følg os Linkedin</div>
+                                            </a>
+                                        </li>
+                        </ul>
+                </div>
+                <div class="footer__row-2">
+                    <div class="footer__copyright">
+                        
+                    </div>
+                        <div class="footer-newsletter" style="max-width: 100%;">
+                            <div class="footer-newsletter__header">
+                                F&#xC5; NYHEDER DIREKTE I DIN INDBAKKE
+                            </div>
+
+                            <a href="/sidste-nyt/" class="button footer-newsletter__button" target="_self">
+                                Tilmeld dig her
+                                <svg class="footer-newsletter-button__icon">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/dist/icons/amgros-icons.svg#arrow2"></use>
+                                </svg>
+                            </a>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <script defer src="/dist/scripts/vendor.min.js?v=939"></script>
+    <script defer src="/dist/scripts/master.min.js?v=157"></script>
+
+    
+    
+    <script src="/dist/scripts/jquery-3.6.4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            //console.log("jQuery is loaded");
+        });
+    </script>
+
+</body>
+</html>

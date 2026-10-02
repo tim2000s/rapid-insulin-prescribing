@@ -1,0 +1,280 @@
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+7500 Security Boulevard
+Baltimore, Maryland 21244-1850
+
+CENTERS FOR MEDICARE & MEDICAID SERVICES
+DATE:
+
+September 26, 2022
+
+TO:
+
+All Part D Sponsors
+
+FROM:
+
+Amy Larrick Chavez-Valdez
+Director, Medicare Drug Benefit and C&D Data Group
+Jennifer R. Shapiro
+Director, Medicare Plan Payment Group
+Jennifer Lazio
+Director, Parts C & D Actuarial Group
+
+SUBJECT:
+
+Contract Year 2023 Program Guidance Related to Inflation Reduction Act
+Changes to Part D Coverage of Vaccines and Insulin
+
+The purpose of this memorandum is to provide Part D sponsors with guidance for implementing
+section 11401 (Coverage of Adult Vaccines Recommended by the Advisory Committee on
+Immunization Practices under Medicare Part D) and section 11406 (Appropriate Cost Sharing for
+Covered Insulin Products under Medicare Part D) of the Inflation Reduction Act (IRA, P.L.
+117-169 1), enacted on August 16, 2022. These changes become effective January 1, 2023 and
+apply to all Part D plans, including Employer Group Waiver plans. This guidance is specific to
+Contract Year (CY) 2023. Separate guidance regarding future contract years will be issued at a
+later date.
+Contract Year 2023 Plan Bids, including Formularies
+Part D sponsors should not submit requests to reflect the new vaccine and insulin requirements in
+their bids that have already been submitted and approved for CY 2023. New section 1860D-15(h)
+of the Social Security Act (the Act) provides a temporary retrospective subsidy for plan year 2023
+in an amount equal to the aggregate reduction in cost sharing and deductible due to the application
+of the new requirements under sections 1860D-2(b)(8) and (9) of the Act. As specified in section
+1860D-2(b)(4)(C) of the Act, the temporary retrospective subsidy counts as incurred costs toward
+Part D enrollees’ progression into the catastrophic phase. Part D sponsors also should not submit
+requests to correct their Plan Benefit Packages (PBPs) – including cost sharing, tiering structure,
+or both – to reflect these new requirements via the Plan Correction Module. Additionally, the cost
+of the aggregate reduction in cost sharing and deductible for which the temporary retrospective
+1
+
+https://www.congress.gov/bill/117th-congress/house-bill/5376/text
+
+1
+
+subsidy created by the IRA is paid by Medicare does not meet the definition of allowable risk
+corridor costs provided at section 1860D-15(e)(1)(B) of the Act and § 423.308. Part D sponsors
+are not expected to update their formularies based on these new requirements, and any changes
+should be submitted only if they are in accordance with existing formulary update policy.
+Medicare Plan Finder
+The CY 2023 Medicare Plan Finder (MPF) will reflect Part D sponsors’ insulin and vaccine
+benefits and cost sharing as they were submitted in their 2023 bid and formulary submissions.
+For October 1, 2022, CMS is updating MPF to include new insulin and vaccine drug footnotes
+and other help features to explain the benefit changes resulting from the IRA.
+Requirements Applicable to Section 11401 (Coverage of Adult Vaccines Recommended by
+the Advisory Committee on Immunization Practices under Medicare Part D)
+Section 11401 of the IRA amends section 1860D-2 of the Act by adding paragraphs (b)(8) and
+(c)(5) and making other conforming amendments to require that, effective for plan years
+beginning on or after January 1, 2023, the deductible shall not apply to, and there is no cost
+sharing for, an adult vaccine recommended by the Advisory Committee on Immunization
+Practices (ACIP). Section 1860D-2(b)(8)(B) of the Act specifies that for purposes of section
+1860D-2(b)(8) of the Act, the term “adult vaccine recommended by [ACIP]” means a covered
+Part D drug that is a vaccine licensed by the US Food and Drug Administration (FDA) under
+section 351 of the Public Health Service Act (PHSA) for use by adult populations and
+administered in accordance with recommendations of ACIP.
+CMS interprets “adult vaccine” and “vaccine … for use by adult populations,” solely for the
+purposes of section 1860D-2(b)(8) of the Act, to refer to those vaccines licensed by the FDA and
+recommended by ACIP for use in “adults,” as described by the CDC/ACIP in the Adult
+Immunization Schedule 2 or other applicable ACIP recommendations. We also interpret the term
+“recommended” to mean all categories of ACIP recommendations, including those that are
+specified as based on shared clinical decision-making.
+We note that the ACIP Vaccine Recommendations and Guidelines 3 also provide
+recommendations for use in limited populations and circumstances for certain other vaccines that
+are not on the CDC/ACIP Adult Immunization Schedule for routine immunization. We interpret
+the requirements of section 1860D-2(b)(8) of the Act also to apply to vaccines provided in such
+limited populations and circumstances, when used for adults in accordance with ACIP
+recommendations.
+Part D vaccines are not subject to the requirements of section 1860D-2(b)(8) of the Act if they
+are (1) not recommended by ACIP for use in adults, or (2) administered to an individual who is
+not an adult, even if such use is supported by ACIP recommendations (e.g., according to the
+CDC/ACIP child and adolescent immunization schedule 4). For example, certain Meningococcal
+https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html
+https://www.cdc.gov/vaccines/hcp/acip-recs/index.html
+4
+https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html
+2
+3
+
+2
+
+ACWY vaccines, which are recommended for use in both children and adults, when
+administered to an individual aged 18 or younger, would not be subject to the requirements of
+section 1860D-2(b)(8) of the Act. Such vaccines are not eligible for the temporary retrospective
+subsidy for plan year 2023, and the cost sharing should be as reflected in the approved CY 2023
+bid.
+Generally, Part D vaccines that have ACIP-recommended uses in the adult population and are
+being used for an adult must be provided with no enrollee cost sharing. There is no enrollee cost
+sharing on the ingredient cost of the vaccine submitted on the prescription drug event (PDE)
+record, or any associated sales tax, dispensing fee, or vaccine administration fee, regardless of
+tier placement or benefit phase. CMS does not expect Part D sponsors to implement new prior
+authorization (PA) requirements on vaccines that were already submitted on approved
+formularies for CY 2023 to determine if their use is in accordance with ACIP recommendations.
+CMS will use information from the PDE record to calculate the amount of the retrospective
+subsidy.
+Please refer to the Health Plan Management System (HPMS) memorandum released on
+September 26, 2022 titled “Prescription Drug Event Reporting Instructions for the
+Implementation of the Statutory Cost Sharing Maximums Established by the Inflation Reduction
+Act for Covered Insulin Products and ACIP-Recommended Vaccines for Contract Year 2023” for
+more detailed examples.
+New Part D vaccines that become available during the plan year and have an ACIPrecommended use in the adult population are subject to the cost-sharing requirements of section
+1860D-2(b)(8) of the Act, regardless of whether a Part D sponsor adds such vaccines to the
+formulary midyear or the enrollee obtains the vaccine via a formulary exception. The ACIP
+holds three regular meetings in February, June, and October of each year, in addition to
+emergency sessions. 5 The purpose of these meetings is to review scientific data and vote on
+vaccine recommendations. If ACIP issues a new vaccine recommendation for use in adults
+during the plan year, Part D sponsors must apply the cost-sharing requirements of section
+1860D-2(b)(8) of the Act to any applicable vaccine claims with dates of service after the
+issuance of such recommendation.
+Requirements Applicable to Section 11406 (Appropriate Cost Sharing for Covered Insulin
+Products under Medicare Part D)
+Section 11406 of the IRA amends section 1860D-2 of the Act by adding paragraphs (b)(9) and
+(c)(6) and making other conforming amendments to require that, effective for plan years
+beginning on or after January 1, 2023, the deductible shall not apply to covered insulin products,
+and cost sharing for a one-month supply of each covered insulin product must not exceed $35 for
+all enrollees in all coverage phases. Part D sponsors should make every effort to implement the
+cost-sharing limits by January 1, 2023. However, if a Part D sponsor is unable to do so and
+charges higher cost sharing between January 1, 2023 through March 31, 2023 based on its
+previously approved CY 2023 PBP, the plan must reimburse enrollees within 30 calendar days
+any cost-sharing amount charged to the enrollee that exceeds $35 for a one-month supply of a
+5
+
+https://www.cdc.gov/vaccines/acip/meetings/index.html
+
+3
+
+covered insulin product. There is no such allowance beyond March 31, 2023. We note that
+existing formulary requirements under § 423.120(b) regarding formulary review and approval for
+insulin products otherwise remain unchanged for CY 2023.
+Covered Insulin Products
+Section 11406 defines “covered insulin product” at new paragraph (b)(9)(C) of section 1860D-2
+of the Act as an insulin product that is a part D drug covered under the prescription drug plan or
+MA-PD plan, approved under section 505 of the Federal Food, Drug, and Cosmetic Act
+(FFDCA) or licensed under section 351 of the PHSA and marketed pursuant to such approval or
+licensure, including any covered insulin product that has been deemed to be licensed under
+section 351 of the PHSA pursuant to section 7002(e)(4) of the Biologics Price Competition and
+Innovation Act of 2009 and marketed pursuant to such section.
+Covered insulin products are insulin products that are included on a Part D sponsor’s formulary,
+treated as being included in a Part D plan's formulary as a result of a coverage determination or
+appeal, or covered under the transition process in accordance with § 423.120(b)(3) and obtained
+at a network pharmacy or an out-of-network pharmacy in accordance with § 423.124(a) and (c).
+These include any new insulin products that become available during the plan year.
+The term “insulin product,” for purposes of section 1860D-2(b)(9) of the Act, means a product
+that contains insulin, including combination products that contain more than one type of insulin.
+In addition, “insulin product” includes a combination product that contains both insulin and a
+non-insulin drug or biological product. Medical supplies associated with the injection of an
+insulin product, when such supplies do not contain insulin and are not approved under section
+505 of the FFDCA or licensed under section 351 of the PHSA, are not subject to the
+requirements of section 1860D-2(b)(9) of the Act.
+Cost sharing on the ingredient cost submitted on the PDE record for a covered insulin product,
+and any associated sales tax or dispensing fee, must not exceed $35 for the plan-defined onemonth supply as entered in the PBP (one-month supply). Part D sponsors must charge the
+applicable cost sharing under their approved CY 2023 PBP or $35, whichever is less, regardless
+of tier placement (i.e., the $35 cap applies to all tiers) or benefit phase. CMS will use information
+from the PDE record to calculate the amount of the retrospective subsidy.
+Please refer to the HPMS memorandum released on September 26, 2022 titled “Prescription Drug
+Event Reporting Instructions for the Implementation of the Statutory Cost Sharing Maximums
+Established by the Inflation Reduction Act for Covered Insulin Products and ACIPRecommended Vaccines for Contract Year 2023” for more detailed examples.
+For dispensing increments that are less than a one-month supply or more than a one-month
+supply, Part D sponsors will treat the $35 limit like a copay for purposes of determining the
+appropriate cost sharing. Part D sponsors are not required to prorate the $35 copay if less than a
+one-month supply is dispensed because insulin is not a solid oral dosage form subject to daily
+cost-sharing requirements at § 423.153(b)(4). For extended-day supplies (i.e., more than one-
+
+4
+
+month supply), cost sharing must not exceed $70 for up to a two-month supply or $105 for up to a
+three-month supply.
+Requirements Applicable to Both Section 11401 (Vaccines) and Section 11406 (Insulin)
+Provisions
+Plan Cost Sharing Equal to or Less than Statutory Limits
+If cost sharing under the Part D sponsor’s approved CY 2023 PBP is equal to $0 for vaccines, or
+equal to or less than $35 for a one-month supply of a covered insulin product, the enrollee would
+pay the plan cost sharing (if any), and the Part D sponsor would receive no temporary
+retrospective subsidy.
+To the extent that a Part D sponsor’s approved CY 2023 PBP reflects cost sharing (either as a
+copayment or coinsurance) for a vaccine or covered insulin product that is less than the 25
+percent coinsurance provided under Defined Standard coverage, the Part D sponsor assumes the
+cost of that additional coverage. Only the difference between the plan cost sharing and the
+statutory limit of $0 for an ACIP-recommended vaccine or $35 for a one-month supply of a
+covered insulin product is eligible for the temporary retrospective subsidy.
+The same principles apply in the event that the Part D sponsor’s approved CY 2023 PBP reflects
+a complete or partial reduction in the deductible for an ACIP-recommended vaccine or a covered
+insulin product. For example, if the CY 2023 PBP eliminates the deductible for a vaccine or a
+covered insulin product, the cost of that additional coverage would be borne by the Part D
+sponsor as assumed in the plan bid, and a temporary retrospective subsidy would be available
+only to the extent necessary to reduce the cost sharing that would have applied under the Part D
+sponsor’s approved CY 2023 PBP to $0 for an ACIP-recommended vaccine or $35 for a onemonth supply of a covered insulin product. If the Part D sponsor’s CY 2023 PBP partly reduces
+the deductible for an ACIP-recommended vaccine or a covered insulin product, the cost of that
+reduction would be borne by the Part D sponsor as assumed in the plan bid, and a temporary
+retrospective subsidy would be available only to reduce the amount paid by the beneficiary in the
+partial deductible to $0 for an ACIP-recommended vaccine or $35 for a one-month supply of a
+covered insulin product and, to the extent necessary, to reduce the cost sharing that would have
+applied under the Part D sponsor’s approved CY 2023 PBP after the deductible to $0 for an
+ACIP-recommended vaccine or $35 for a one-month supply of a covered insulin product.
+Out-of-Network Claims
+Cost sharing must not exceed $0 for an ACIP-recommended adult vaccine or $35 for a one-month
+supply of a covered insulin product when provided by an out-of-network (OON) provider in
+accordance with § 423.124(a) and (c). Consequently, Part D sponsors may not charge an enrollee
+for any differential between the OON price and the plan allowance if it would result in cost
+sharing greater than these statutory limits. If the plan allowance for a covered insulin product
+obtained from the OON provider is less than $35, Part D sponsors may require non-LIS enrollees
+to pay a portion of, or all of, the differential between the OON provider’s usual and customary
+price and the plan allowance, but in no event may a plan require an enrollee to pay more than $35
+
+5
+
+in total cost sharing for a one-month supply of a covered insulin product, inclusive of any OON
+differential charged to the enrollee. The temporary retrospective subsidy will pay for any OON
+differential that an enrollee would otherwise have paid for a vaccine or covered insulin product
+obtained from an OON provider if the $35 limit on cost sharing for a one-month supply of
+covered insulin products did not apply.
+Low Income Subsidy (LIS) and Temporary Retrospective Subsidy
+The low-income cost-sharing subsidy (LICS) pays for any difference between the applicable LIS
+enrollee cost sharing prior to the application of the IRA limits and the plan’s cost sharing
+submitted with its approved CY 2023 PBP. If the applicable LIS cost sharing is greater than the
+IRA limits, the temporary retrospective subsidy pays this difference. Therefore, the temporary
+retrospective subsidy is available for any applicable LIS cost sharing that exceeds $0 for ACIPrecommended vaccines and any applicable LIS cost sharing that exceeds $35 (e.g., LIS
+Category 4) but is less than the plan’s cost sharing, as reflected in the CY 2023 PBP, for covered
+insulin products.
+Please refer to the HPMS memorandum released on September 26, 2022 titled “Prescription Drug
+Event Reporting Instructions for the Implementation of the Statutory Cost Sharing Maximums
+Established by the Inflation Reduction Act for Covered Insulin Products and ACIPRecommended Vaccines for Contract Year 2023” for more detailed examples.
+Coverage Gap Discounts
+Part D sponsors will continue to determine coverage gap discounts in accordance with existing
+rules for basic and enhanced alternative plans as assumed in the plan’s approved CY 2023 bid. If
+the Part D sponsor’s approved CY 2023 PBP reflects a reduction in cost sharing for ACIPrecommended vaccines or covered insulin products in the coverage gap as a supplemental
+benefit, the coverage gap discount and beneficiary cost sharing will be calculated after the
+application of said supplemental benefit, and a temporary retrospective subsidy will be available
+only to the extent necessary to reduce the enrollee’s cost to $0 for an ACIP-recommended
+vaccine as required under section 1860D-2(b)(8) of the Act or $35 for a month’s supply of a
+covered insulin product as required under section 1860D-2(b)(9) of the Act. If the Part D
+sponsor’s approved CY 2023 PBP does not reflect a reduction in cost sharing for such vaccines
+or covered insulin products in the coverage gap, the coverage gap discount and beneficiary cost
+sharing will be calculated based on the negotiated price of the drug and a temporary retrospective
+subsidy will be available as described above.
+Please refer to the HPMS memorandum released on September 26, 2022 titled “Prescription Drug
+Event Reporting Instructions for the Implementation of the Statutory Cost Sharing Maximums
+Established by the Inflation Reduction Act for Covered Insulin Products and ACIPRecommended Vaccines for Contract Year 2023” for more detailed examples.
+
+6
+
+Special Enrollment Period
+Since MPF will reflect Part D sponsors’ insulin benefits and cost sharing as they were submitted
+in their CY 2023 bids, CMS is granting a Special Enrollment Period (SEP) for Exceptional
+Circumstances to allow beneficiaries to add, drop, or change their Part D coverage if they find a
+better option after the 2022 Annual Enrollment Period (AEP) and through the end of 2023. This
+SEP will be available for all beneficiaries who use a covered insulin product and begins on
+December 8th, 2022 and ends on December 31, 2023. Beneficiaries may use this SEP one time
+during this period. To utilize this SEP, beneficiaries must call 1-800-MEDICARE so a customer
+service representative can process the enrollment change. Consistent with current policy, when
+Part D enrollees change plans mid-year, their True Out-of-Pocket (TrOOP) costs carry over from
+one plan to the next.
+Part D Senior Savings (PDSS) Model
+Part D Sponsors participating in the PDSS Model for CY 2023 should follow all guidance and
+requirements set forth in this memorandum unless otherwise specified in PDSS Model-specific
+guidance. Additional guidance specific to PDSS plans will be forthcoming.
+Questions concerning this memorandum may be directed to PartDPolicy@cms.hhs.gov.
+Questions specific to the temporary retrospective subsidy may be directed to
+PDE-Operations@cms.hhs.gov.
+
+7
+
+

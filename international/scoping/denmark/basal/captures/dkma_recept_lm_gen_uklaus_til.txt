@@ -1,0 +1,5307 @@
+Receptpligtige lægemidler med generelt uklausuleret tilskud
+
+A02BC01 OMEPRAZOL
+
+
+
+   Navn                           Lægemiddelform
+   Aciniks                        enterokapsler, hårde
+
+   Losec                          enterotabletter
+   Omedipram                      enterokapsler, hårde
+
+   Omeprazol "2care4"             enterokapsler, hårde
+   Omeprazol Carefarm             enterokapsler, hårde
+
+   Omeprazole "Teva"              enterokapsler, hårde
+   Omeprazol "Medical Valley"     enterokapsler, hårde
+
+   Omeprazol Pensa                enterokapsler, hårde
+
+   Omeprazol "Sandoz"             enterokapsler, hårde
+   Omestad                        enterokapsler, hårde
+
+
+
+A02BC02 PANTOPRAZOL
+
+
+
+   Navn                    Lægemiddelform
+
+   Pantoprazole "Teva"     enterotabletter
+
+   Pantoprazol "KRKA"      enterotabletter
+
+   Pantoprazol "Sandoz"    enterotabletter
+
+   Pantoprazol "Stada"     enterotabletter
+
+   Pantoprazol "Takeda"    enterotabletter
+
+
+
+A02BC03 LANSOPRAZOL
+
+
+
+   Navn                            Lægemiddelform
+   Lansoprazol "KRKA"              enterokapsler, hårde
+
+   Lansoprazol "Medical Valley"    enterokapsler, hårde
+   Lansoprazol "Stada"             enterokapsler, hårde
+   Lansoprazol "Teva"              enterokapsler, hårde
+
+   Lansoprazol "Viatris"           enterokapsler, hårde
+
+   Zolt                            enterokapsler, hårde
+
+
+
+             ESOMEPRAZOL
+
+Sidste opdateringsdato: 28/09/26                              1
+              ESOMEPRAZOL
+A02BC05
+
+
+
+   Navn                                  Lægemiddelform
+
+   Esomeprazol "2care4"                  enterokapsler, hårde
+   Esomeprazol "Abacus Medicine"         enterokapsler, hårde
+
+   Esomeprazol "Actavis"                 enterotabletter
+   Esomeprazol "Hexal"                   enterotabletter
+   Esomeprazol "Jubilant"                enterotabletter
+
+   Esomeprazol "Krka"                    enterokapsler, hårde
+   Esomeprazol "Sandoz"                  enterotabletter
+
+   Esomeprazol "Viatris"                 enterokapsler, hårde
+   Nexium                                enterotabletter
+
+   Ulcerex                               enterokapsler, hårde
+
+
+
+A03FA01 METOCLOPRAMID
+
+
+
+   Navn                                  Lægemiddelform
+
+   Metoclopramide "Accord"               tabletter
+
+   Metoclopramide Accord                 tabletter
+
+   Metoclopramide "G.L. Pharma"          injektionsvæske, opløsning
+
+   Metoclopramide "Medical Valley"       filmovertrukne tabletter
+
+   Metoclopramide "Orion"                filmovertrukne tabletter
+
+   Primperan                             injektionsvæske, opløsning
+
+
+
+A03FA03 DOMPERIDON
+
+
+
+   Navn                      Lægemiddelform
+
+   Domperidon Carefarm       tabletter
+
+
+
+A05AA02 URSODEOXYCHOLSYRE
+
+
+
+   Navn        Lægemiddelform
+
+   Urgaldex    kapsler, hårde
+   Ursochol    kapsler, hårde
+
+   Ursogrix    kapsler, hårde
+
+
+
+              NYSTATIN
+Sidste opdateringsdato: 28/09/26                                      2
+A07AA02 NYSTATIN
+
+
+
+   Navn                 Lægemiddelform
+
+   Mycostatin           oral suspension
+   Nystatin "Orifarm"   oral suspension
+
+   Nystimex             oral suspension
+
+
+
+A07EA06 BUDESONID
+
+
+
+   Navn                              Lægemiddelform
+
+   Budekron                          kapsler med modificeret udløsning, hårde
+   Budenofalk                        enterokapsler, hårde
+
+   Budesonid "Medical Valley"        kapsler med modificeret udløsning, hårde
+
+   Budesonid "Teva"                  enterokapsler, hårde
+
+   Cortiment                         depottabletter
+   Entocort                          kapsler med modificeret udløsning, hårde
+
+
+
+A07EC01 SULFASALAZIN
+
+
+
+   Navn                  Lægemiddelform
+
+   Salazopyrin           tabletter
+
+   Salazopyrina          tabletter
+
+   Salazopyrin Entabs    enterotabletter
+
+
+
+A07EC02 MESALAZIN
+
+
+
+   Navn                 Lægemiddelform
+   Asacol               enterotabletter
+
+   Asacol               rektalvæske, suspension
+
+   Asacol               suppositorier
+   Asacol               tabletter med modificeret udløsning
+   Mesalazin "Orion"    enterotabletter
+
+   Mesalazin "Orion"    suppositorier
+   Mesavancol           enterodepottabletter
+
+   Mezavant             enterodepottabletter
+   Pentasa              depottabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                3
+   Navn                     Lægemiddelform
+
+   Pentasa                  rektalvæske, suspension, enkeltdosisbeholder
+   Pentasa                  suppositorier
+
+   Pentasa Sachet           depotgranulat, enkeltdosisbeholder
+   Salofalk                 enterodepotgranulat, breve
+
+   Salofalk                 rektalskum
+   Salofalk                 suppositorier
+
+
+
+A07EC03 OLSALAZIN
+
+
+
+   Navn         Lægemiddelform
+   Dipentum     tabletter
+
+
+
+A07EC04 BALSALAZID
+
+
+
+   Navn       Lægemiddelform
+
+   Premid     kapsler, hårde
+
+
+
+A10AB01 INSULIN (HUMAN)
+
+
+
+   Navn        Lægemiddelform
+
+   Actrapid    injektionsvæske, opløsning, hætteglas
+
+
+
+A10AB05 INSULIN ASPART
+
+
+
+   Navn                         Lægemiddelform
+   Insulin aspart "Sanofi"      injektionsvæske, opløsning
+   Insulin aspart "Sanofi"      injektionsvæske, opløsning i cylinderampul
+
+   Insulin aspart "Sanofi"      injektionsvæske, opløsning i fyldt pen
+
+   Novorapid                    injektionsvæske, opløsning
+   Novorapid FlexPen            injektionsvæske, opløsning
+   Novorapid Penfill            injektionsvæske, opløsning
+
+   NovoRapid PumpCart           injektionsvæske, opløsning
+
+
+
+A10AD05 INSULIN ASPART
+
+
+
+Sidste opdateringsdato: 28/09/26                                             4
+   Navn                     Lægemiddelform
+
+   NovoMix 30 FlexPen       injektionsvæske, suspension, fyldt pen
+   NovoMix 30 Penfill       injektionsvæske, suspension
+
+
+
+A10AE04 INSULIN GLARGIN
+
+
+
+   Navn                   Lægemiddelform
+   Lantus                 injektionsvæske, opløsning i cylinderampul
+
+   Lantus SoloStar        injektionsvæske, opløsning i fyldt pen
+   Semglee                injektionsvæske, opløsning i fyldt pen
+
+   Toujeo DoubleStar      injektionsvæske, opløsning i fyldt pen
+   Toujeo SoloStar        injektionsvæske, opløsning i fyldt pen
+
+
+
+A10AE06 INSULIN DEGLUDEC
+
+
+
+   Navn                      Lægemiddelform
+
+   Tresiba 100 Flextouch     injektionsvæske, opløsning i fyldt pen
+
+   Tresiba 100 Penfill       injektionsvæske, opløsning i cylinderampul
+
+   Tresiba 200 Flextouch     injektionsvæske, opløsning i fyldt pen
+
+
+
+A10BA02 METFORMIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Forminet                       filmovertrukne tabletter
+   Lyomet                         depottabletter
+   Metformin "Accord"             filmovertrukne tabletter
+
+   Metformin "Actavis"            filmovertrukne tabletter
+
+   Metformin "Aurobindo"          filmovertrukne tabletter
+   Metformin "Bluefish"           filmovertrukne tabletter
+   Metformin "Medical Valley"     filmovertrukne tabletter
+
+   Metformin "Orifarm"            filmovertrukne tabletter
+
+   Metformin "Sandoz"             filmovertrukne tabletter
+   Metformin "Teva"               filmovertrukne tabletter
+   Metformin "Teva B.V."          filmovertrukne tabletter
+
+   Metformin "Zentiva"            filmovertrukne tabletter
+   Mitforgen                      filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                          5
+A10BB09 GLICLAZID
+
+
+
+   Navn                        Lægemiddelform
+   Diamicron Uno               tabletter med modificeret udløsning
+
+   Gliclazid "Krka"            tabletter med modificeret udløsning
+   Gliclazid "Nordic Prime"    tabletter med modificeret udløsning
+
+   Gliclazid "Paranova"        tabletter med modificeret udløsning
+   Gliclazid "Teva"            tabletter med modificeret udløsning
+
+
+
+A10BB12 GLIMEPIRID
+
+
+
+   Navn                            Lægemiddelform
+
+   Glimepirid "Bluefish"           tabletter
+
+   Glimepirid "Nordic Prime"       tabletter
+
+   Glimepirid "Sandoz"             tabletter
+
+   Glimepirid "Stada"              tabletter
+
+   Glimonor                        tabletter
+
+
+
+A10BD07 METFORMIN OG SITAGLIPTIN
+
+
+
+   Navn                                                   Lægemiddelform
+
+   Janumet                                                filmovertrukne tabletter
+   Sitagliptin/Metformin "Glenmark"                       filmovertrukne tabletter
+
+   Sitagliptin/Metformin hydrochloride Mylan              filmovertrukne tabletter
+
+   Sitagliptin/Metforminhydrochlorid "Medical Valley"     filmovertrukne tabletter
+   Sitagliptin/Metformin "Sandoz"                         filmovertrukne tabletter
+   Sitagliptin/Metformin "Stada"                          filmovertrukne tabletter
+
+   Sitagliptin/Metformin "Zentiva ApS"                    filmovertrukne tabletter
+
+
+
+A10BD08 METFORMIN OG VILDAGLIPTIN
+
+
+
+   Navn                                             Lægemiddelform
+   Vildagliptin/Metformin hydrochloride Accord      filmovertrukne tabletter
+
+   Vildagliptin/Metformin "Krka"                    filmovertrukne tabletter
+   Vildagliptin/Metformin "Stada"                   filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                     6
+   Navn                                               Lægemiddelform
+
+   Vildagliptin/Metformin "Teva"                      filmovertrukne tabletter
+
+
+
+A10BD15 METFORMIN OG DAPAGLIFLOZIN
+
+
+
+   Navn       Lægemiddelform
+   Xigduo     filmovertrukne tabletter
+
+
+
+A10BD20 METFORMIN OG EMPAGLIFLOZIN
+
+
+
+   Navn        Lægemiddelform
+   Synjardy    filmovertrukne tabletter
+
+
+
+A10BH01 SITAGLIPTIN
+
+
+
+   Navn                             Lægemiddelform
+
+   Januvia                          filmovertrukne tabletter
+
+   Sitagliptin "Glenmark"           filmovertrukne tabletter
+
+   Sitagliptin "Krka"               filmovertrukne tabletter
+
+   Sitagliptin "Medical Valley"     filmovertrukne tabletter
+
+   Sitagliptin "Sandoz"             filmovertrukne tabletter
+
+   Sitagliptin "Stada"              filmovertrukne tabletter
+
+   Sitagliptin "Teva"               filmovertrukne tabletter
+
+   Sitagliptin "Zentiva ApS"        filmovertrukne tabletter
+
+
+
+A10BH02 VILDAGLIPTIN
+
+
+
+   Navn                     Lægemiddelform
+
+   Vildagliptin "Krka"      tabletter
+
+   Vildagliptin "Stada"     tabletter
+   Vildagliptin "Teva"      tabletter
+
+
+
+A10BK01 DAPAGLIFLOZIN
+
+
+
+   Navn        Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                                 7
+   Navn        Lægemiddelform
+
+   Edistride   filmovertrukne tabletter
+   Forxiga     filmovertrukne tabletter
+
+
+
+A10BK02 CANAGLIFLOZIN
+
+
+
+   Navn        Lægemiddelform
+   Invokana    filmovertrukne tabletter
+
+
+
+A10BK03 EMPAGLIFLOZIN
+
+
+
+   Navn         Lægemiddelform
+
+   Jardiance    filmovertrukne tabletter
+
+
+
+A12BA01 KALIUMCHLORID
+
+
+
+   Navn                            Lægemiddelform
+
+   Kaleorid                        depottabletter
+
+   Kaliumklorid "EQL Pharma"       depottabletter
+
+   Kaliumklorid "Orifarm"          depottabletter
+
+
+
+B01AA03 WARFARIN
+
+
+
+   Navn                          Lægemiddelform
+
+   Marevan                       tabletter
+   Warfarinnatrium "2care4"      tabletter
+   Warfarin "Orion"              tabletter
+
+
+
+B01AA04 PHENPROCOUMON
+
+
+
+   Navn          Lægemiddelform
+   Marcoumar     tabletter
+
+
+
+B01AB04 DALTEPARIN
+
+
+
+Sidste opdateringsdato: 28/09/26                    8
+   Navn         Lægemiddelform
+   Fragmin      injektionsvæske, opløsning
+
+   Fragmin      injektionsvæske, opløsning i fyldt injektionssprøjte
+
+
+
+B01AB05 ENOXAPARIN
+
+
+
+   Navn      Lægemiddelform
+
+   Inhixa    injektionsvæske, opløsning i fyldt injektionssprøjte
+
+
+
+B01AB10 TINZAPARIN
+
+
+
+   Navn         Lægemiddelform
+
+   Innohep      injektionsvæske, opløsning
+
+   Innohep      injektionsvæske, opløsning i fyldt injektionssprøjte
+
+
+
+B01AC04 CLOPIDOGREL
+
+
+
+   Navn                              Lægemiddelform
+
+   Clopidogrel "Accord"              filmovertrukne tabletter
+
+   Clopidogrel "Actavis"             filmovertrukne tabletter
+
+   Clopidogrel "Epione"              filmovertrukne tabletter
+
+   Clopidogrel "Krka"                filmovertrukne tabletter
+   Clopidogrel "Medical Valley"      filmovertrukne tabletter
+   Clopidogrel "Stada"               filmovertrukne tabletter
+
+   Clopidogrel Zentiva               filmovertrukne tabletter
+
+   Cloriocard                        filmovertrukne tabletter
+   Grepid                            filmovertrukne tabletter
+   Plavix                            filmovertrukne tabletter
+
+
+
+B01AC07 DIPYRIDAMOL
+
+
+
+   Navn                             Lægemiddelform
+
+   Dipyridamol "Nordic Prime"       depotkapsler, hårde
+   Dipyridamol "Strides"            depotkapsler, hårde
+
+   Persantin                        overtrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                       9
+B01AC22 PRASUGREL
+
+
+
+   Navn                           Lægemiddelform
+   Efient                         filmovertrukne tabletter
+   Prasugrel "Epione"             filmovertrukne tabletter
+
+   Prasugrel "EQL Pharma"         filmovertrukne tabletter
+   Prasugrel "G.L. Pharma"        filmovertrukne tabletter
+
+   Prasugrel "Krka"               filmovertrukne tabletter
+
+
+
+B01AC30 KOMBINATIONER
+
+
+
+   Navn         Lægemiddelform
+
+   Diprasorin   kapsler med modificeret udløsning, hårde
+
+   Orisantin    kapsler med modificeret udløsning, hårde
+
+
+
+B01AE07 DABIGATRANETEXILAT
+
+
+
+   Navn                                        Lægemiddelform
+
+   Dabigatran etexilate Accord                 kapsler, hårde
+
+   Dabigatran etexilate "Glenmark"             kapsler, hårde
+
+   Dabigatran etexilate "Krka"                 kapsler, hårde
+   Dabigatran etexilate "Medical Valley"       kapsler, hårde
+
+   Dabigatran etexilate "Orion"                kapsler, hårde
+
+   Dabigatran etexilate "Sandoz"               kapsler, hårde
+   Dabigatran etexilate "Stada Nordic"         kapsler, hårde
+   Dabigatran etexilate Teva                   kapsler, hårde
+
+   Dabigatran etexilate "Zentiva"              kapsler, hårde
+   Pradaxa                                     kapsler, hårde
+
+
+
+B01AF01 RIVAROXABAN
+
+
+
+   Navn                               Lægemiddelform
+
+   Rivaroxaban Accord                 filmovertrukne tabletter
+   Rivaroxaban "Krka"                 filmovertrukne tabletter
+   Rivaroxaban "Medical Valley"       filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                 10
+   Navn                                   Lægemiddelform
+
+   Rivaroxaban "Orion"                    filmovertrukne tabletter
+   Rivaroxaban "Sandoz"                   filmovertrukne tabletter
+
+   Rivaroxaban "Stada"                    filmovertrukne tabletter
+   Rivaroxaban "Stada"                    kapsler, hårde
+
+   Rivaroxaban "Teva"                     filmovertrukne tabletter
+   Rivaroxaban Viatris                    filmovertrukne tabletter
+
+   Rivaroxaban "Zentiva"                  filmovertrukne tabletter
+   Xarelto                                filmovertrukne tabletter
+
+   Xarelto Startpakke                     filmovertrukne tabletter
+
+
+
+B01AF02 APIXABAN
+
+
+
+   Navn      Lægemiddelform
+
+   Eliquis   filmovertrukne tabletter
+
+
+
+B01AF03 EDOXABAN
+
+
+
+   Navn        Lægemiddelform
+
+   Lixiana     filmovertrukne tabletter
+
+
+
+B02AA02 TRANEXAMSYRE
+
+
+
+   Navn                                   Lægemiddelform
+   Cyklokapron                            filmovertrukne tabletter
+   Cyklonova                              filmovertrukne tabletter
+   Tracafour                              filmovertrukne tabletter
+
+   Tranexamsyre "Nordic Prime"            filmovertrukne tabletter
+
+
+
+B02BA01 PHYTOMENADION
+
+
+
+   Navn                   Lægemiddelform
+
+   Konakion Novum         injektionsvæske, opløsning
+
+
+
+C01AA05 DIGOXIN
+
+
+
+Sidste opdateringsdato: 28/09/26                                     11
+   Navn               Lægemiddelform
+
+   Digoxin "DAK"      tabletter
+
+
+
+C01BC03 PROPAFENON
+
+
+
+   Navn            Lægemiddelform
+
+   Rytmonorm       filmovertrukne tabletter
+
+
+
+C01BC04 FLECAINID
+
+
+
+   Navn                                       Lægemiddelform
+   Flecainid "2care4"                         tabletter
+
+   Flecainidacetat "Abacus Medicine"          tabletter
+
+   Flecainid "Sandoz"                         tabletter
+
+   Flecainid Sandoz                           tabletter
+
+   Flecin                                     tabletter
+
+   Flenoprim                                  tabletter
+
+   Tempinix                                   tabletter
+
+
+
+C01BD01 AMIODARON
+
+
+
+   Navn                                  Lægemiddelform
+
+   Amiodaronhydrochlorid "2care4"        tabletter
+
+   Cordan                                tabletter
+   Cordarone                             tabletter
+
+
+
+C01CA24 ADRENALIN
+
+
+
+   Navn         Lægemiddelform
+   Epipen       injektionsvæske, opløsning
+   EpiPen       injektionsvæske, opløsning
+
+   EpiPen Jr.   injektionsvæske, opløsning
+
+   EURneffy     næsespray, opløsning i enkeltdosisbeholder
+   Jext         injektionsvæske, opløsning i fyldt pen
+
+
+
+            NICORANDIL
+Sidste opdateringsdato: 28/09/26                               12
+C01DX16 NICORANDIL
+
+
+
+   Navn                        Lægemiddelform
+
+   Nicorandil "2care4"         tabletter
+   Nicorandil "Nordic Prime"   tabletter
+
+
+
+C02AC05 MOXONIDIN
+
+
+
+   Navn                        Lægemiddelform
+   Moxonat                     filmovertrukne tabletter
+
+   Moxonidin "2care4"          filmovertrukne tabletter
+   Moxonidin "Nordic Prime"    filmovertrukne tabletter
+
+   Moxonidin "Orifarm"         filmovertrukne tabletter
+
+   Moxonidin "Teva"            filmovertrukne tabletter
+
+
+
+C02CA04 DOXAZOSIN
+
+
+
+   Navn                               Lægemiddelform
+
+   Carduran Retard                    depottabletter
+
+   Doxablox                           depottabletter
+
+   Doxazosin "Epione Medicine"        depottabletter
+
+   Doxazosin "Nordic Prime"           depottabletter
+
+   Doxazosin "Orifarm"                depottabletter
+
+   Doxazosin "Sandoz"                 depottabletter
+   Doxazosin "Stada"                  depottabletter
+
+
+
+C03AA03 HYDROCHLORTHIAZID
+
+
+
+   Navn                                  Lægemiddelform
+
+   Hydrochlorothiazide "Orifarm"         tabletter
+   Hydrochlorthiazid "Nordic Prime"      tabletter
+   Hydromed                              tabletter
+
+
+
+C03AB01 BENDROFLUMETHIAZID OG KALIUM
+
+
+
+
+Sidste opdateringsdato: 28/09/26                          13
+   Navn                              Lægemiddelform
+
+   Bendroza                          filmovertrukne tabletter
+   Centyl med Kaliumklorid           overtrukne tabletter
+
+   Centyl Mite med Kaliumklorid      overtrukne tabletter
+
+
+
+C03BA11 INDAPAMID
+
+
+
+   Navn                    Lægemiddelform
+
+   Indapamid "2care4"      depottabletter
+   Indapamid "Teva"        depottabletter
+
+   Natrilix Retard         depottabletter
+
+
+
+C03CA01 FUROSEMID
+
+
+
+   Navn                            Lægemiddelform
+   Diural                          orale dråber
+
+   Diural                          tabletter
+
+   Furix                           tabletter
+
+   Furosemid "2care4"              tabletter
+
+   Furosemid "Accord"              injektions-/infusionsvæske, opløsning
+
+   Furosemid "EQL Pharma"          tabletter
+
+   Furosemid "Hameln"              injektionsvæske, opløsning
+
+   Furosemid "HEXAL"               tabletter
+
+   Furosemid "Medical Valley"      tabletter
+   Furosemid "Nordic Prime"        tabletter
+   Furosemid "Omet Pharma"         tabletter
+
+   Furosemid "Teva B.V."           tabletter
+
+
+
+C03CA02 BUMETANID
+
+
+
+   Navn                           Lægemiddelform
+
+   Bumetanid "Nordic Prime"       tabletter
+
+   Burinex                        injektionsvæske, opløsning
+   Burinex                        tabletter
+
+
+
+C03DA01 SPIRONOLACTON
+
+
+
+Sidste opdateringsdato: 28/09/26                                           14
+   Navn                         Lægemiddelform
+   Spirix                       tabletter
+
+   Spiron                       tabletter
+   Spironolacton Accord         filmovertrukne tabletter
+
+   Spironolactone "Accord"      filmovertrukne tabletter
+   Spironolactone Accord        filmovertrukne tabletter
+
+   Spironolactone "Viatris"     filmovertrukne tabletter
+
+
+
+C03DA04 EPLERENON
+
+
+
+   Navn                            Lægemiddelform
+   Eplerenon "Accord"              filmovertrukne tabletter
+
+   Eplerenon "Bluefish"            filmovertrukne tabletter
+
+   Eplerenone "Teva"               filmovertrukne tabletter
+
+   Eplerenon "Krka"                filmovertrukne tabletter
+
+   Eplerenon "Medical Valley"      filmovertrukne tabletter
+
+   Eplerenon "Stada"               filmovertrukne tabletter
+
+   Inspra                          filmovertrukne tabletter
+
+
+
+C03EB01 FUROSEMID OG KALIUMBESPARENDE MIDLER
+
+
+
+   Navn       Lægemiddelform
+
+   Frusamil   tabletter
+
+
+
+C07AA05 PROPRANOLOL
+
+
+
+   Navn                                     Lægemiddelform
+   Propranolol "EQL Pharma"                 filmovertrukne tabletter
+
+   Propranolol "Medical Valley"             filmovertrukne tabletter
+   Propranolol Retard "Nordic Prime"        depotkapsler, hårde
+
+
+
+C07AA07 SOTALOL
+
+
+
+   Navn                       Lægemiddelform
+   Sotalol "Nordic Prime"     tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                       15
+   Navn                         Lægemiddelform
+
+   Sotalol "Viatris"            tabletter
+
+
+
+C07AB02 METOPROLOL
+
+
+
+   Navn                                     Lægemiddelform
+   Betaloc Zok                              depottabletter
+   Bloxazoc                                 depottabletter
+
+   Metocar                                  tabletter
+   Metomylan                                depottabletter
+
+   Metonova                                 tabletter
+   Metoprolol "Medical Valley"              depottabletter
+
+   Metoprololsuccinat "2care4"              depottabletter
+
+   Metoprololsuccinat "Epione"              depottabletter
+
+   Metoprololsuccinat "Hexal"               depottabletter
+
+   Metoprololsuccinat "Orion"               depottabletter
+
+   Metoprololsuccinat "Teva"                depottabletter
+
+   Metoprololtartrat "2care4"               tabletter
+
+   Metoprololtartrat "Nordic Prime"         tabletter
+
+   Selo-zok                                 depottabletter
+
+   Selo-Zok                                 depottabletter
+
+   Succinor                                 depottabletter
+
+
+
+C07AB03 ATENOLOL
+
+
+
+   Navn                              Lægemiddelform
+
+   Atenodan                          tabletter
+
+   Atenolol "2care4"                 tabletter
+   Atenolol "Epione Medicine"        tabletter
+   Atenolol "Medical Valley"         filmovertrukne tabletter
+
+   Atenolol "Nordic Prime"           tabletter
+   Atenolol "Orifarm"                tabletter
+
+   Dantanol                          tabletter
+
+
+
+C07AB07 BISOPROLOL
+
+
+
+   Navn                                      Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                16
+   Navn                                   Lægemiddelform
+
+   Bisoprolol "2care4"                    filmovertrukne tabletter
+   Bisoprolol "Epione"                    tabletter
+
+   Bisoprololfumarat "2care4"             tabletter
+   Bisoprololfumarat "Nordic Prime"       tabletter
+
+   Bisoprolol "Krka"                      filmovertrukne tabletter
+   Bisoprolol "Medical Valley"            filmovertrukne tabletter
+
+   Bisoprolol "Paranova"                  filmovertrukne tabletter
+   Bisoprolol "Sandoz"                    filmovertrukne tabletter
+
+   Bisoprolol "Stada"                     filmovertrukne tabletter
+   Bisoprolol "Vitabalans"                tabletter
+
+   Bisoprolol "Zentiva"                   tabletter
+
+
+
+C07AB12 NEBIVOLOL
+
+
+
+   Navn                    Lægemiddelform
+
+   Hypoloc                 tabletter
+
+   Nebivolol "Accord"      tabletter
+
+   Nebivolol "Krka"        tabletter
+
+   Nebivolol "Orion"       tabletter
+
+
+
+C07AG01 LABETALOL
+
+
+
+   Navn        Lægemiddelform
+   Trandate    filmovertrukne tabletter
+
+
+
+C07AG02 CARVEDILOL
+
+
+
+   Navn                                Lægemiddelform
+   Carvedilol "2care4"                 tabletter
+   Carvedilol "Abacus Medicine"        tabletter
+
+   Carvedilol "Aurobindo"              filmovertrukne tabletter
+
+   Carvedilol "HEXAL"                  tabletter
+   Carvedilol "KRKA"                   tabletter
+   Carvedilol "Nordic Prime"           tabletter
+
+   Carvedilol "STADA"                  tabletter
+   Carvedilol "Teva"                   tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                     17
+C08CA01 AMLODIPIN
+
+
+
+   Navn                            Lægemiddelform
+
+   Amlodipin "2care4"              tabletter
+   Amlodipin "Accord"              tabletter
+
+   Amlodipin "Bluefish"            tabletter
+   Amlodipin Carefarm              tabletter
+
+   Amlodipin "Concorde"            tabletter
+   Amlodipin "Krka"                tabletter
+
+   Amlodipin "Medical Valley"      tabletter
+   Amlodipin "Sandoz"              tabletter
+
+   Amlodipin Sandoz                tabletter
+
+   Amlodipin "Teva"                tabletter
+
+   Amlodipin "Teva B.V."           tabletter
+
+   Amlodipin "Zentiva"             tabletter
+
+   Amlodistad                      tabletter
+
+   Norvasc                         tabletter
+
+
+
+C08CA02 FELODIPIN
+
+
+
+   Navn                    Lægemiddelform
+
+   Felodin                 depottabletter
+
+   Felodipin "HEXAL"       depottabletter
+
+   Felodipin "Holsten"     depottabletter
+   Felodipin "Teva"        depottabletter
+
+
+
+C08CA06 NIMODIPIN
+
+
+
+   Navn                       Lægemiddelform
+   Nimodipin "Paranova"       filmovertrukne tabletter
+   Nimotop                    filmovertrukne tabletter
+
+
+
+C08CA09 LACIDIPIN
+
+
+
+   Navn                  Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                         18
+   Navn                 Lægemiddelform
+
+   Lacidipin "Teva"     filmovertrukne tabletter
+   Lacipil              filmovertrukne tabletter
+
+
+
+C08CA13 LERCANIDIPIN
+
+
+
+   Navn                                            Lægemiddelform
+   Lercanidipine "Accord"                          filmovertrukne tabletter
+
+   Lercanidipine "Orion"                           filmovertrukne tabletter
+   Lercanidipinhydrochlorid "Ebb Medical"          filmovertrukne tabletter
+
+   Lercanidipinhydrochlorid "Rivopharm"            filmovertrukne tabletter
+   Lercastad                                       filmovertrukne tabletter
+
+   Zanidip                                         filmovertrukne tabletter
+
+
+
+C08DA01 VERAPAMIL
+
+
+
+   Navn                                  Lægemiddelform
+
+   Isoptine L.P.                         depottabletter
+
+   Isoptin KHK retard                    depottabletter
+
+   Isoptin retard                        depottabletter
+
+   Isoptin Retard                        depottabletter
+
+   Veraloc                               tabletter
+
+   Veraloc Retard                        depottabletter
+
+   Verapamil "2care4"                    filmovertrukne tabletter
+   Verapamil "Epione Medicine"           filmovertrukne tabletter
+   Verapamil "HEXAL"                     filmovertrukne tabletter
+
+   Verapamilhydrochlorid "2care4"        depottabletter
+
+   Verapamil "Nordic Prime"              filmovertrukne tabletter
+
+
+
+C08DB01 DILTIAZEM
+
+
+
+   Navn                                  Lægemiddelform
+
+   Capizid                               depottabletter
+   Cardil                                depottabletter
+   Diltiazemhydrochlorid Carefarm        depottabletter
+
+   Nifrocal                              depottabletter
+
+
+
+              CAPTOPRIL
+Sidste opdateringsdato: 28/09/26                                              19
+C09AA01 CAPTOPRIL
+
+
+
+   Navn                   Lægemiddelform
+
+   Captopril "Stada"      tabletter
+
+
+
+C09AA02 ENALAPRIL
+
+
+
+   Navn                           Lægemiddelform
+
+   Corodil                        tabletter
+   Enacodan                       tabletter
+
+   Enalapril "Accord"             tabletter
+   Enalapril "Epione"             tabletter
+
+   Enalapril "Krka"               tabletter
+
+   Enalaprilmaleat "2care4"       tabletter
+
+   Enalapril "Sandoz"             tabletter
+   Enalapril "Teva"               tabletter
+
+
+
+C09AA03 LISINOPRIL
+
+
+
+   Navn                    Lægemiddelform
+
+   Aceinhib                tabletter
+
+   Cardiostad              tabletter
+
+   Lisinopril "Actavis"    tabletter
+
+   Lisinopril "Epione"     tabletter
+   Lisinopril STADA        tabletter
+   Lisipax                 tabletter
+
+
+
+C09AA05 RAMIPRIL
+
+
+
+   Navn                   Lægemiddelform
+   Ramipril "Epione"      tabletter
+   Ramipril "HEXAL"       tabletter
+
+   Ramipril HEXAL         tabletter
+   Ramipril "Krka"        tabletter
+
+   Ramipril "Stada"       tabletter
+   Ramipril "Teva"        tabletter
+
+
+Sidste opdateringsdato: 28/09/26                   20
+C09AA10 TRANDOLAPRIL
+
+
+
+   Navn                            Lægemiddelform
+   Gopten                          kapsler, hårde
+
+   Odrik                           kapsler, hårde
+   Prixanor                        kapsler, hårde
+
+   Trandolapril "Aurobindo"        kapsler, hårde
+   Trandolapril "Nordic Prime"     kapsler, hårde
+
+   Trandolapril "Teva"             kapsler, hårde
+
+
+
+C09BA02 ENALAPRIL OG DIURETIKA
+
+
+
+   Navn                                                   Lægemiddelform
+
+   Corodil Comp                                           tabletter
+
+   Enacecor                                               tabletter
+
+   Enalapril/Hydrochlorothiazide "Medical Valley"         tabletter
+
+   Enalapril-Hydrochlorthiazid "Krka"                     tabletter
+
+   Enalapril Hydrochlorthiazid "Teva"                     tabletter
+
+
+
+C09BA03 LISINOPRIL OG DIURETIKA
+
+
+
+   Navn                                     Lægemiddelform
+   Lisinoplus                               tabletter
+   Lisinopril-hydrochlorthiazid "Actavis"   tabletter
+
+
+
+C09BA05 RAMIPRIL OG DIURETIKA
+
+
+
+   Navn                                       Lægemiddelform
+   Marilamed                                  tabletter
+
+   Ramipril/hydrochlorthiazid "1A Farma"      tabletter
+
+   Ranid                                      tabletter
+
+
+
+C09CA01 LOSARTAN
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                           21
+   Navn                           Lægemiddelform
+
+   Ancozan                        filmovertrukne tabletter
+   Cozaar                         filmovertrukne tabletter
+
+   Losartankalium "Krka"          filmovertrukne tabletter
+   Losartankalium "TEVA"          filmovertrukne tabletter
+
+   Losartan "Medical Valley"      filmovertrukne tabletter
+   Losartan "Stada"               filmovertrukne tabletter
+
+
+
+C09CA03 VALSARTAN
+
+
+
+   Navn                          Lægemiddelform
+   Daratekan                     filmovertrukne tabletter
+
+   Valsartan "Krka"              filmovertrukne tabletter
+
+   Valsartan "Nordic Prime"      filmovertrukne tabletter
+
+
+
+C09CA04 IRBESARTAN
+
+
+
+   Navn                            Lægemiddelform
+
+   Ifirmasta                       filmovertrukne tabletter
+
+   Irbesartan "Accord"             filmovertrukne tabletter
+
+   Irbesartan "Medical Valley"     tabletter
+
+   Irbesartan "STADA"              filmovertrukne tabletter
+
+   Irbesartan Zentiva              filmovertrukne tabletter
+
+
+
+C09CA06 CANDESARTAN
+
+
+
+   Navn                                 Lægemiddelform
+
+   Atacand                              tabletter
+
+   Candemox                             tabletter
+   Candesartan "Epione Medicine"        tabletter
+   Candesartan "Krka"                   tabletter
+
+   Candesartan "Medical Valley"         tabletter
+
+   Candesartan "Orion"                  tabletter
+   Candesartan "Stada"                  tabletter
+   Kairasec                             tabletter
+
+   Kandrozid                            tabletter
+
+
+
+               TELMISARTAN
+Sidste opdateringsdato: 28/09/26                              22
+C09CA07 TELMISARTAN
+
+
+
+   Navn                     Lægemiddelform
+
+   Telmisartan "Actavis"    tabletter
+   Telmisartan "Stada"      filmovertrukne tabletter
+
+   Tolura                   tabletter
+   Zanacodar                tabletter
+
+
+
+C09DA01 LOSARTAN OG DIURETIKA
+
+
+
+   Navn                                                    Lægemiddelform
+   Ancozan Comp                                            filmovertrukne tabletter
+
+   Cozaar Comp.                                            filmovertrukne tabletter
+
+   Cozaar Comp. Forte                                      filmovertrukne tabletter
+
+   Epionira                                                filmovertrukne tabletter
+   Hypernix Comp                                           filmovertrukne tabletter
+
+   Losanova HCT                                            filmovertrukne tabletter
+
+   Losarstad Comp                                          filmovertrukne tabletter
+
+   Losartan/Hydrochlorothiazide "Medical Valley"           filmovertrukne tabletter
+
+   Losartan/Hydrochlorothiazide "Stada"                    filmovertrukne tabletter
+
+   Losartan/Hydrochlorothiazide "Teva"                     filmovertrukne tabletter
+
+   Losartankalium/hydrochlorthiazid "Krka"                 filmovertrukne tabletter
+
+   Losartankalium/Hydrochlorthiazid "Medical Valley"       filmovertrukne tabletter
+
+   Losartankalium/hydrochlorthiazid "Nordic Prime"         filmovertrukne tabletter
+   Losartankalium/hydrochlorthiazid "Teva"                 filmovertrukne tabletter
+
+
+
+C09DA03 VALSARTAN OG DIURETIKA
+
+
+
+   Navn                                      Lægemiddelform
+   Valsartan/Hydrochlorothiazide "Krka"      filmovertrukne tabletter
+   Valsartan/hydroklortiazid "Jubilant"      filmovertrukne tabletter
+
+   Valsartore Comp                           filmovertrukne tabletter
+
+
+
+C09DA04 IRBESARTAN OG DIURETIKA
+
+
+
+   Navn                                                Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                                      23
+   Navn                                              Lægemiddelform
+
+   Ifirmacombi                                       filmovertrukne tabletter
+   Irbesartan Hydrochlorothiazide Zentiva            filmovertrukne tabletter
+
+   Irbesartan/hydrochlorthiazid "Medical Valley"     tabletter
+   Irbesartan/hydrochlorthiazid "Stada"              filmovertrukne tabletter
+
+
+
+C09DA06 CANDESARTAN OG DIURETIKA
+
+
+
+   Navn                                              Lægemiddelform
+   Atacand Zid 16 mg/12,5 mg                         tabletter
+
+   Candemox Comp                                     tabletter
+   Candesartancilexetil/Hydrochlorthiazid "Krka"     tabletter
+
+   Candesartan/Hydrochlorothiazide "Orion"           tabletter
+
+   Candexil                                          tabletter
+
+
+
+C09DA07 TELMISARTAN OG DIURETIKA
+
+
+
+   Navn                                             Lægemiddelform
+
+   Lesamor                                          tabletter
+
+   Telmisartan/Hydroklortiazid "Medical Valley"     tabletter
+
+   Tolucombi                                        tabletter
+
+
+
+C10AA01 SIMVASTATIN
+
+
+
+   Navn                       Lægemiddelform
+   Simitin                    filmovertrukne tabletter
+   Simvanor                   filmovertrukne tabletter
+
+   Simvastatin "KRKA"         filmovertrukne tabletter
+
+   Simvastatin "Paranova"     filmovertrukne tabletter
+   Simvastatin "Sandoz"       filmovertrukne tabletter
+   Simvastatin "Stada"        filmovertrukne tabletter
+
+   Simvastatin "Teva"         filmovertrukne tabletter
+
+   Simvastatin "Viatris"      filmovertrukne tabletter
+
+
+
+C10AA03 PRAVASTATIN
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                                24
+   Navn                            Lægemiddelform
+
+   Pravastatinnatrium "Teva"       tabletter
+   Pravastatin "Sandoz"            tabletter
+
+   Pravastatin "Stada"             filmovertrukne tabletter
+
+
+
+C10AA05 ATORVASTATIN
+
+
+
+   Navn                                  Lægemiddelform
+
+   Atorvastatin "Accord"                 filmovertrukne tabletter
+   Atorvastatin "Amarox"                 filmovertrukne tabletter
+
+   Atorvastatin "Epione Medicine"        filmovertrukne tabletter
+   Atorvastatin "Hexal"                  filmovertrukne tabletter
+
+   Atorvastatin "Krka"                   filmovertrukne tabletter
+
+   Atorvastatin "Oresund Pharma"         filmovertrukne tabletter
+
+   Atorvastatin "Sandoz"                 filmovertrukne tabletter
+
+   Atorvastatin "Teva"                   filmovertrukne tabletter
+
+   Atorvastatin "Teva B.V."              filmovertrukne tabletter
+
+   Atorvastatin "Viatris"                filmovertrukne tabletter
+
+   Atorvastatin "Xiromed"                filmovertrukne tabletter
+
+   Lipistad                              filmovertrukne tabletter
+
+   Zarator                               filmovertrukne tabletter
+
+
+
+C10AA07 ROSUVASTATIN
+
+
+
+   Navn                                Lægemiddelform
+   Crestor                             filmovertrukne tabletter
+
+   Rosuvastatin "Glenmark"             filmovertrukne tabletter
+
+   Rosuvastatin "Krka d.d."            filmovertrukne tabletter
+   Rosuvastatin "Medical Valley"       filmovertrukne tabletter
+   Rosuvastatin "Stada"                filmovertrukne tabletter
+
+   Rosuvastatin "Teva"                 filmovertrukne tabletter
+   Rosuvastatin "Viatris"              filmovertrukne tabletter
+
+   Rosuvastatin "Zentiva"              filmovertrukne tabletter
+
+
+
+C10AX09 EZETIMIB
+
+
+
+   Navn                        Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                    25
+   Navn                            Lægemiddelform
+
+   Ezetimib "Actavis"              tabletter
+   Ezetimibe "Accord"              tabletter
+
+   Ezetimibe "Zentiva"             tabletter
+   Ezetimib "Krka"                 tabletter
+
+   Ezetimib "Medical Valley"       tabletter
+   Ezetimib "Sandoz"               tabletter
+
+   Ezetimib "Stada"                tabletter
+   Ezetimib "Viatris"              tabletter
+
+   Ezetrol                         tabletter
+
+
+
+D01AC08 KETOCONAZOL
+
+
+
+   Navn                                            Lægemiddelform
+
+   Ketoconazole Shampoo "Actavis" 2 %              shampoo
+
+   Nizoral                                         shampoo
+
+
+
+D01AE14 CICLOPIROX
+
+
+
+   Navn       Lægemiddelform
+
+   Onytec     medicinsk neglelak
+
+
+
+D01BA02 TERBINAFIN
+
+
+
+   Navn                                Lægemiddelform
+   Terbinafin "Actavis"                tabletter
+   Terbinafin "Epione Medicine"        tabletter
+
+   Terbinafin Hexal                    tabletter
+
+   Terbinafin "Medical Valley"         tabletter
+   Terbinafin "Nordic Prime"           tabletter
+
+
+
+D05AX02 CALCIPOTRIOL
+
+
+
+   Navn                    Lægemiddelform
+
+   Calcipotriol "Sandoz"   salve
+   Daivonex                creme
+
+
+Sidste opdateringsdato: 28/09/26                                    26
+D05AX52 CALCIPOTRIOL, KOMBINATIONER
+
+
+
+   Navn                                           Lægemiddelform
+   Calcipotriol/Betamethason "2care4"             salve
+
+   Calcipotriol/Betamethason Carefarm             salve
+   Calcipotriol/Betamethasone "Aristo"            gel
+
+   Calcipotriol/Betamethasone "Epione Medicine"   salve
+   Calcipotriol/Betamethasone "Orifarm"           gel
+
+   Calcipotriol/Betamethasone "Paranova"          salve
+   Calcipotriol/Betamethasone "Sandoz"            salve
+
+   Calcipotriol/Betamethasone Sandoz              salve
+   Calcipotriol/Betamethasone "Teva"              salve
+
+   Cipotanor                                      salve
+
+   Daivobet                                       gel
+
+   Daivobet                                       salve
+
+   Enstilar                                       kutanskum
+
+   Epipotriol                                     gel
+
+   Wynzora                                        creme
+
+
+
+D05BB02 ACITRETIN
+
+
+
+   Navn                  Lægemiddelform
+
+   Acitretin "Orifarm"   kapsler, hårde
+   Neotigason            kapsler, hårde
+
+
+
+D06BB03 ACICLOVIR
+
+
+
+   Navn         Lægemiddelform
+
+   Aciclodan    creme
+   Acivir       creme
+
+   Zovir        creme
+
+
+
+D06BB04 PODOPHYLLOTOXIN
+
+
+
+   Navn         Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                   27
+   Navn           Lægemiddelform
+
+   Condyline      kutanopløsning
+
+
+
+D06BB06 PENCICLOVIR
+
+
+
+   Navn        Lægemiddelform
+   Vectavir    creme
+
+
+
+D06BX01 METRONIDAZOL
+
+
+
+   Navn                             Lægemiddelform
+   Metronidazol "Avia Pharma"       creme
+
+   Metronidazol Carefarm            creme
+
+   Metronidazol "Paranova"          creme
+
+   Robaz                            gel
+   Rosacel                          gel
+
+   Rozex                            creme
+
+   Rozex                            gel
+
+
+
+D07AB02 HYDROCORTISONBUTYRAT
+
+
+
+   Navn                Lægemiddelform
+
+   Locoid              creme
+
+   Locoid              kutanopløsning
+   Locoid              salve
+   Locoid Capilar      kutanopløsning
+   Locoid Crelo        kutanemulsion
+
+   Locoid Lipid        creme
+
+
+
+D07AC01 BETAMETHASON
+
+
+
+   Navn                                 Lægemiddelform
+
+   Bemeson                              creme
+   Betamethason "Nordic Prime"          creme
+
+   Betnovat                             kutanemulsion
+   Betnovat                             kutanopløsning
+
+
+Sidste opdateringsdato: 28/09/26                         28
+   Navn                            Lægemiddelform
+
+   Betnovat                        salve
+   Bettamousse                     kutanskum
+
+   Diproderm                       creme
+   Diproderm                       kutanopløsning
+
+   Diproderm                       salve
+
+
+
+D07AC04 FLUOCINOLON
+
+
+
+   Navn       Lægemiddelform
+
+   Synalar    creme
+   Synalar    gel
+
+   Synalar    salve
+
+
+
+D07AC13 MOMETASON
+
+
+
+   Navn                           Lægemiddelform
+
+   Elocom                         kutanopløsning
+
+   Elocom                         salve
+
+   Elocon                         creme
+
+   Elocon                         kutanopløsning
+
+   Elocon                         salve
+
+   Elopar                         creme
+
+   Elopar                         salve
+   Mometasonfuroat "2care4"       creme
+   Mometasonfuroat "Glenmark"     creme
+
+   Ovison                         creme
+
+   Ovison                         kutanopløsning
+
+
+
+D07AD01 CLOBETASOL
+
+
+
+   Navn                         Lægemiddelform
+
+   Clobetasolpropionat "Teva"   creme
+   Clobetasolpropionat "Teva"   salve
+   Clobex                       shampoo
+
+   Dermovat                     creme
+   Dermovat                     kutanopløsning
+
+
+Sidste opdateringsdato: 28/09/26                    29
+   Navn                           Lægemiddelform
+
+   Dermovat                       salve
+   Dermovate                      creme
+
+
+
+D07XC01 BETAMETHASON
+
+
+
+   Navn                                   Lægemiddelform
+   Betamethason/Salicylsyre "Orifarm"     salve
+
+   Diprosalic                             kutanopløsning
+   Diprosalic                             salve
+
+   Diprosalinova                          kutanopløsning
+
+
+
+D10AD03 ADAPALEN
+
+
+
+   Navn                         Lægemiddelform
+   Adapalen "2care4"            creme
+
+   Adapalen "Cabo"              creme
+
+   Adapalen "Nordic Prime"      creme
+
+   Differine                    creme
+
+
+
+D10AD06 TRIFAROTEN
+
+
+
+   Navn      Lægemiddelform
+
+   Aklief    creme
+
+
+
+D10AD53 ADAPALEN, KOMBINATIONER
+
+
+
+   Navn                                     Lægemiddelform
+
+   Adapalene/Benzoyl peroxide "Orifarm"     gel
+
+   Epiduo                                   gel
+
+
+
+D10AF01 CLINDAMYCIN
+
+
+
+   Navn         Lægemiddelform
+
+   Dalacin      kutanemulsion
+
+
+Sidste opdateringsdato: 28/09/26                             30
+D10AF51 CLINDAMYCIN, KOMB.
+
+
+
+   Navn        Lægemiddelform
+
+   Acnatac     gel
+   Clindonix   gel
+   Clindoxyl   gel
+
+   Clinzoyl    gel
+
+
+
+D10AX03 AZELAINSYRE
+
+
+
+   Navn        Lægemiddelform
+   Finacea     gel
+
+   Skinoren    creme
+
+
+
+D10BA01 ISOTRETINOIN
+
+
+
+   Navn                          Lægemiddelform
+
+   Isotracin                     kapsler, bløde
+
+   Isotretinoin "Cabo"           kapsler, bløde
+
+   Isotretinoin Ebb Medical      kapsler, bløde
+
+   Isotretinoin "Epione"         kapsler, bløde
+   Isotretinoin "Nordic Prime"   kapsler, bløde
+
+   Isotretinoin "Orion"          kapsler, bløde
+
+   Isotretinoin "Sandoz"         kapsler, bløde
+   Isotretinoin "Teva"           kapsler, bløde
+
+
+
+D11AH01 TACROLIMUS
+
+
+
+   Navn                          Lægemiddelform
+   Protopic                      salve
+   Tacrolimus "2care4"           salve
+
+   Tacrolimus "Accord"           salve
+
+   Tacrolimus "Epione"           salve
+   Tacrolimus "Nordic Prime"     salve
+   Tacronova                     salve
+
+
+Sidste opdateringsdato: 28/09/26                  31
+   Navn                         Lægemiddelform
+
+   Takrozem                     salve
+
+
+
+D11AH02 PIMECROLIMUS
+
+
+
+   Navn     Lægemiddelform
+   Elidel   creme
+
+
+
+D11AH11 DELGOCITINIB
+
+
+
+   Navn        Lægemiddelform
+   Anzupgo     creme
+
+
+
+D11AX22 IVERMECTIN
+
+
+
+   Navn                     Lægemiddelform
+
+   Ivermectin "Newbury"     creme
+
+   Ivermectin "Paranova"    creme
+
+   Soolantra                creme
+
+
+
+G01AF01 METRONIDAZOL
+
+
+
+   Navn     Lægemiddelform
+
+   Flagyl   vagitorier
+
+
+
+G02AB01 METHYLERGOMETRIN
+
+
+
+   Navn         Lægemiddelform
+
+   Methergin    injektionsvæske, opløsning
+
+
+
+G02CB03 CABERGOLIN
+
+
+
+   Navn                        Lægemiddelform
+
+
+
+
+Sidste opdateringsdato: 28/09/26                 32
+   Navn                            Lægemiddelform
+
+   Cabenex                         tabletter
+   Cabergolin "Ebb Medical"        tabletter
+
+   Cabergolin "Teva"               tabletter
+   Dostinex                        tabletter
+
+
+
+G03CA03 ESTRADIOL
+
+
+
+   Navn                Lægemiddelform
+   Divigel             gel
+
+   Estrifam            filmovertrukne tabletter
+   Estring             vaginalindlæg
+
+   Estrofem            filmovertrukne tabletter
+
+   Estrofem mite       filmovertrukne tabletter
+
+   Estrogel            gel
+
+   Lenzetto            kutanspray, opløsning
+
+   Østradiol "DLF"     filmovertrukne tabletter
+
+   Rewellfem           vaginaltabletter
+
+   Sisare              gel
+
+   Vagifem             vaginaltabletter
+
+   Vagirux             vaginaltabletter
+
+   Vivelle Dot         depotplastre
+
+
+
+G03CX01 TIBOLON
+
+
+
+   Navn                Lægemiddelform
+
+   Livial              tabletter
+
+   Tibocina            tabletter
+   Tibolon "Aristo"    tabletter
+
+
+
+G03DA02 MEDROXYPROGESTERON
+
+
+
+   Navn        Lægemiddelform
+   Provera     tabletter
+
+
+
+G03DA04 PROGESTERON
+
+
+
+Sidste opdateringsdato: 28/09/26                    33
+   Navn           Lægemiddelform
+   Amelgen        vagitorier
+
+   Crinone        vaginalgel
+   Cyclogest      vagitorier
+
+   Lutinus        vaginaltabletter
+   Progestan      vaginalkapsler, bløde
+
+
+
+G03FA01 NORETHISTERON OG ØSTROGEN
+
+
+
+   Navn                                   Lægemiddelform
+
+   Activelle                              filmovertrukne tabletter
+   Cliovelle                              tabletter
+
+   Evo-Conti                              depotplastre
+
+   Kliogest                               filmovertrukne tabletter
+
+   Noresmea                               filmovertrukne tabletter
+
+   Norethisteron/estrogen "2care4"        tabletter
+
+
+
+G03FA12 MEDROXYPROGESTERON OG ØSTROGEN
+
+
+
+   Navn        Lægemiddelform
+
+   Indivina    tabletter
+
+
+
+G03FB05 NORETHISTERON OG ØSTROGEN
+
+
+
+   Navn           Lægemiddelform
+
+   Evo-Sequi      depotplastre
+   Novofem        filmovertrukne tabletter
+   Trisekvens     filmovertrukne tabletter
+
+   Trisequens     filmovertrukne tabletter
+
+
+
+G03GA01 CHORIONGONADOTROPIN
+
+
+
+   Navn           Lægemiddelform
+
+   Gonasi Set     pulver og solvens til injektionsvæske, opløsning
+
+
+
+               GONADOTROPIN, HUMAN MENOPAUSAL
+Sidste opdateringsdato: 28/09/26                                     34
+G03GA02 GONADOTROPIN, HUMAN MENOPAUSAL
+
+
+
+   Navn              Lægemiddelform
+
+   Menopur           injektionsvæske, opløsning i fyldt pen
+   Menopur           pulver og solvens til injektionsvæske, opløsning
+
+   Meriofert Set     pulver og solvens til injektionsvæske, opløsning
+
+
+
+G03GA04 UROFOLLITROPIN
+
+
+
+   Navn            Lægemiddelform
+
+   Fostimonkit     pulver og solvens til injektionsvæske, opløsning
+
+
+
+G03GA05 FOLLITROPIN ALFA
+
+
+
+   Navn         Lægemiddelform
+
+   Bemfola      injektionsvæske, opløsning i fyldt pen
+
+   Gonal-f      injektionsvæske, opløsning i fyldt pen
+
+   Ovaleap      injektionsvæske, opløsning
+
+
+
+G03GA06 FOLLITROPIN BETA
+
+
+
+   Navn         Lægemiddelform
+   Puregon      injektionsvæske, opløsning
+
+
+
+G03GA08 CHORIONGONADOTROPIN ALFA
+
+
+
+   Navn         Lægemiddelform
+   Ovitrelle    injektionsvæske, opløsning i fyldt pen
+
+
+
+G03GA09 CORIFOLLITROPIN ALFA
+
+
+
+   Navn        Lægemiddelform
+   Elonva      injektionsvæske, opløsning
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                        35
+G03GA10 FOLLITROPIN DELTA
+
+
+
+   Navn              Lægemiddelform
+   REKOVELLE         injektionsvæske, opløsning i fyldt pen
+
+
+
+G03GA30 KOMBINATIONER
+
+
+
+   Navn            Lægemiddelform
+
+   Pergoveris      injektionsvæske, opløsning i fyldt pen
+
+
+
+G04BD07 TOLTERODIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Detrusitol Retard              depotkapsler, hårde
+   Detrusitol SR                  depotkapsler, hårde
+
+   Tolterodine "Sandoz"           depotkapsler, hårde
+
+   Tolterodin "Rivopharm"         depotkapsler, hårde
+
+   Tolterodintartrat "2care4"     depotkapsler, hårde
+
+   Tolterodintartrat "Teva"       depotkapsler, hårde
+
+
+
+G04BD08 SOLIFENACIN
+
+
+
+   Navn                              Lægemiddelform
+   Solifenacin "Krka"                filmovertrukne tabletter
+   Solifenacin "Medical Valley"      filmovertrukne tabletter
+
+   Solifenacin "Sandoz"              filmovertrukne tabletter
+   Solifenacin "Stada"               filmovertrukne tabletter
+
+   Solifenacinsuccinat "Accord"      filmovertrukne tabletter
+   Solifenacinsuccinat "Teva"        filmovertrukne tabletter
+
+   Vesicare                          filmovertrukne tabletter
+
+
+
+G04CA01 ALFUZOSIN
+
+
+
+   Navn                    Lægemiddelform
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                36
+   Navn                   Lægemiddelform
+
+   Alfuzosin "Orion"      depottabletter
+   Alfuzosin "Sandoz"     depottabletter
+
+   Alfuzosin "Stada"      depottabletter
+   Alfuzosin "Teva"       depottabletter
+
+
+
+G04CA02 TAMSULOSIN
+
+
+
+   Navn                            Lægemiddelform
+   Miktosan                        kapsler med modificeret udløsning, hårde
+
+   Omnistad                        kapsler med modificeret udløsning, hårde
+   Tamsulosin "Krka"               kapsler med modificeret udløsning, hårde
+
+   Tamsulosin "Medical Valley"     kapsler med modificeret udløsning, hårde
+
+   Tamsulosin "Teva"               kapsler med modificeret udløsning, hårde
+
+   Tamsulosin "Zentiva"            kapsler med modificeret udløsning, hårde
+
+   Tamsunic                        kapsler med modificeret udløsning, hårde
+
+
+
+G04CB01 FINASTERID
+
+
+
+   Navn                            Lægemiddelform
+
+   Finasterid "Amarox"             filmovertrukne tabletter
+
+   Finasteride "Medical Valley"    filmovertrukne tabletter
+
+   Finasteride "Teva"              filmovertrukne tabletter
+
+   Finasterid "Stada"              filmovertrukne tabletter
+
+
+
+G04CB02 DUTASTERID
+
+
+
+   Navn                            Lægemiddelform
+
+   Dutasteride "Medical Valley"    kapsler, bløde
+   Dutasteride "Teva"              kapsler, bløde
+   Dutasterid "Hexal"              kapsler, bløde
+
+   Dutasterid "Viatris"            kapsler, bløde
+
+
+
+H01BA02 DESMOPRESSIN
+
+
+
+   Navn                               Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                              37
+   Navn                                Lægemiddelform
+
+   Desmopressinacetat Carefarm         tabletter
+   Desmopressin "Newbury"              resoribletter, sublinguale
+
+   Desmopressin "Sandoz"               resoribletter, sublinguale
+   Desmopressin "Stada"                resoribletter, sublinguale
+
+   Desmopressin "Teva"                 tabletter
+   Desmopressin "Teva B.V."            resoribletter, sublinguale
+
+   Desmopressin "Zentiva"              resoribletter, sublinguale
+   Minirin                             frysetørret tablet
+
+   Minirin                             næsespray, opløsning
+   Nocdurna                            frysetørret tablet
+
+   Nocutil                             tabletter
+
+
+
+H01BB02 OXYTOCIN
+
+
+
+   Navn                  Lægemiddelform
+
+   Oxytocin "Orifarm"    koncentrat til injektions-/infusionsvæske, opløsning
+
+
+
+H01CA02 NAFARELIN
+
+
+
+   Navn         Lægemiddelform
+
+   Synarela     næsespray, opløsning
+
+
+
+H01CC01 GANIRELIX
+
+
+
+   Navn                          Lægemiddelform
+   Fyremadel                     injektionsvæske, opløsning i fyldt injektionssprøjte
+
+   Ganirelix Gedeon Richter      injektionsvæske, opløsning i fyldt injektionssprøjte
+
+   Ganirelix "Orifarm"           injektionsvæske, opløsning i fyldt injektionssprøjte
+   Orgalutran                    injektionsvæske, opløsning
+
+
+
+H01CC02 CETRORELIX
+
+
+
+   Navn         Lægemiddelform
+
+   Cetrotide    pulver og solvens til injektionsvæske, opløsning
+
+
+
+              RELUGOLIX, ESTRADIOL OG NORETHISTERON
+Sidste opdateringsdato: 28/09/26                                                        38
+H01CC54 RELUGOLIX, ESTRADIOL OG NORETHISTERON
+
+
+
+   Navn       Lægemiddelform
+
+   Ryeqo      filmovertrukne tabletter
+
+
+
+H02AA02 FLUDROCORTISON
+
+
+
+   Navn        Lægemiddelform
+
+   Florinef    tabletter
+
+
+
+H02AB01 BETAMETHASON
+
+
+
+   Navn                Lægemiddelform
+
+   Diprofos Depot      injektionsvæske, suspension
+
+   Diprophos           injektionsvæske, suspension
+
+   Diprospan           injektionsvæske, suspension
+
+
+
+H02AB04 METHYLPREDNISOLON
+
+
+
+   Navn                             Lægemiddelform
+
+   Depo-Medrol                      injektionsvæske, suspension
+
+   Medrol                           tabletter
+   Methylprednisolone "Orion"       tabletter
+
+   Solu-medrol                      pulver og solvens til injektionsvæske, opløsning
+
+   Solu-Medrol                      pulver og solvens til injektionsvæske, opløsning
+
+
+
+H02AB06 PREDNISOLON
+
+
+
+   Navn                             Lægemiddelform
+
+   Prednisolon "Actavis"            tabletter
+   Prednisolon "DAK"                tabletter
+   Prednisolon "EQL Pharma"         tabletter
+
+
+
+H02AB07 PREDNISON
+
+
+
+Sidste opdateringsdato: 28/09/26                                                       39
+   Navn                      Lægemiddelform
+   Prednison "DAK"           tabletter
+
+
+
+H02AB08 TRIAMCINOLON
+
+
+
+   Navn                                          Lægemiddelform
+   Kenalog                                       injektionsvæske, suspension
+
+   Lederspan                                     injektionsvæske, suspension
+   Triamcinolonacetonid "Orifarm"                injektionsvæske, suspension
+
+   Triamcinolonacetonid "Paranova"               injektionsvæske, suspension
+
+
+
+H02AB09 HYDROCORTISON
+
+
+
+   Navn                              Lægemiddelform
+   Hydrocortison "Activase"          tabletter
+
+   Hydrocortison "Strides"           tabletter
+
+   Hydrokortison "DAK"               tabletter
+
+   Hydrokortison "Orion"             tabletter
+
+   Solu-cortef                       pulver og solvens til injektionsvæske, opløsning
+
+
+
+H03AA01 LEVOTHYROXINNATRIUM
+
+
+
+   Navn          Lægemiddelform
+   Eltroxin      tabletter
+
+   Euthyrox      tabletter
+
+   Striroxin     tabletter
+
+
+
+H03BB02 THIAMAZOL
+
+
+
+   Navn                                  Lægemiddelform
+
+   Thiamazol "2care4"                    tabletter
+   Thiamazole "Uni-Pharma"               tabletter
+
+   Thiamazol Nordic Prime                tabletter
+   Thiamazol "Paranova"                  tabletter
+
+   Thycapzol                             tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                        40
+H04AA01 GLUCAGON
+
+
+
+   Navn                    Lægemiddelform
+   GlucaGen                pulver og solvens til injektionsvæske, opløsning
+   GlucaGen Hypokit        pulver og solvens til injektionsvæske, opløsning
+
+
+
+J01CA04 AMOXICILLIN
+
+
+
+   Navn                                Lægemiddelform
+
+   Ageniprim                           dispergible tabletter
+   Amoxar                              dispergible tabletter
+
+   Amoxicillin "2care4"                filmovertrukne tabletter
+
+   Amoxicillin "Abacus Medicine"       filmovertrukne tabletter
+
+   Amoxicillin Carefarm                pulver til oral suspension
+
+   Amoxicillin "Epione Medicine"       filmovertrukne tabletter
+
+   Amoxicillin "Nordic Prime"          filmovertrukne tabletter
+
+   Amoxicillin "Orifarm"               filmovertrukne tabletter
+
+   Amoxicillin "Viatris"               filmovertrukne tabletter
+
+   Amoxonor                            dispergible tabletter
+
+   Imadrax                             filmovertrukne tabletter
+
+   Imaxi                               pulver til oral suspension
+
+
+
+J01CA08 PIVMECILLINAM
+
+
+
+   Navn                                      Lægemiddelform
+   Penomax                                   filmovertrukne tabletter
+
+   Pivmecillinamhydrochlorid "Orifarm"       filmovertrukne tabletter
+   Selexid                                   filmovertrukne tabletter
+
+   SELEXID                                   filmovertrukne tabletter
+
+
+
+J01CE02 PHENOXYMETHYLPENICILLIN
+
+
+
+   Navn                                                 Lægemiddelform
+   Fenoximetylpenicillin "EQL"                          filmovertrukne tabletter
+   Ospen                                                filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                   41
+   Navn                                                   Lægemiddelform
+
+   Pancillin                                              filmovertrukne tabletter
+   Penhexal                                               filmovertrukne tabletter
+
+   PenHEXAL                                               filmovertrukne tabletter
+   Phenoxymethylpenicillin "EQL"                          granulat til oral opløsning
+
+   Phenoxymethylpenicillinkalium "EQL Pharma"             filmovertrukne tabletter
+   Primcillin                                             filmovertrukne tabletter
+
+   Primcillin                                             granulat til oral suspension
+   Priminova                                              filmovertrukne tabletter
+
+   Primve                                                 pulver til oral suspension
+
+
+
+J01CF01         DICLOXACILLIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Dicloxacillin "Alternova"      kapsler, hårde
+
+   Dicloxacillin "Bluefish"       kapsler, hårde
+
+   Dicloxacillin "Orion"          kapsler, hårde
+
+
+
+J01CF05         FLUCLOXACILLIN
+
+
+
+   Navn                        Lægemiddelform
+
+   Flucloxacillin "Orion"      filmovertrukne tabletter
+
+
+
+J01CR02 AMOXICILLIN OG BETA-LACTAMASEINHIBITOR
+
+
+
+   Navn                                         Lægemiddelform
+   Amoxicillin/clavulansyre "2care4"            filmovertrukne tabletter
+
+   Amoxicillin/clavulansyre "Aurobindo"         filmovertrukne tabletter
+
+   Amoxicillin/clavulansyre Aurobindo           filmovertrukne tabletter
+   Amoxicillin/Clavulansyre Aurovitas           filmovertrukne tabletter
+   Amoxicillin/Clavulansyre "Orifarm"           filmovertrukne tabletter
+
+   Augmentin Forte                              pulver til oral suspension
+
+   Baxumil                                      filmovertrukne tabletter
+   Betaklav                                     filmovertrukne tabletter
+   Bioclavid                                    filmovertrukne tabletter
+
+   Clavuzop                                     filmovertrukne tabletter
+   Klaximol                                     filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                         42
+   Navn                                       Lægemiddelform
+
+   Spektramox                                 pulver til oral suspension
+
+
+
+J01EA01 TRIMETHOPRIM
+
+
+
+   Navn                         Lægemiddelform
+   Trimethoprim "Orifarm"       filmovertrukne tabletter
+   Trimopan                     filmovertrukne tabletter
+
+   Trimopan                     oral suspension
+
+
+
+J01EB02 SULFAMETHIZOL
+
+
+
+   Navn                          Lægemiddelform
+
+   Sulfametizol "Alternova"      tabletter
+
+
+
+J01FA06     ROXITHROMYCIN
+
+
+
+   Navn                                  Lægemiddelform
+
+   Roximstad                             filmovertrukne tabletter
+
+   Roxithromycin "2care4"                filmovertrukne tabletter
+
+   Roxithromycin "Epione"                filmovertrukne tabletter
+
+   Roxithromycin "Medical Valley"        filmovertrukne tabletter
+
+   Roxithromycin "Nordic Prime"          filmovertrukne tabletter
+
+   Roxithromycin STADA                   filmovertrukne tabletter
+   Roxithrostad                          filmovertrukne tabletter
+
+
+
+J01FA09     CLARITHROMYCIN
+
+
+
+   Navn                                Lægemiddelform
+
+   Clarithromycin 1A Pharma            filmovertrukne tabletter
+   Clarithromycin "Accord"             filmovertrukne tabletter
+   Clarithromycin "Alternova"          pulver til infusionsvæske, opløsning
+
+   Clarithromycin "Hexal"              filmovertrukne tabletter
+   Clarithromycin "Krka"               filmovertrukne tabletter
+
+   Clarithromycin "Nordic Prime"       filmovertrukne tabletter
+   Clarithromycin "Stada"              filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                              43
+   Navn                              Lægemiddelform
+
+   Clarithromycin "Teva"             filmovertrukne tabletter
+   Klacid                            granulat til oral suspension
+
+   KLACID SR                         depottabletter
+   Klacid Uno                        depottabletter
+
+
+
+J01FA10       AZITHROMYCIN
+
+
+
+   Navn                                Lægemiddelform
+   Azithromycin "2care4"               filmovertrukne tabletter
+
+   Azithromycin "Epione Medicine"      filmovertrukne tabletter
+   Azithromycin "Jubilant"             filmovertrukne tabletter
+
+   Azithromycin "Krka"                 filmovertrukne tabletter
+
+   Azithromycin "Sandoz"               filmovertrukne tabletter
+
+   Azithromycin "Stada"                filmovertrukne tabletter
+
+   Azithromycin "Stada"                pulver til oral suspension
+
+   Azithromycin "Teva"                 filmovertrukne tabletter
+
+   Zithromax                           filmovertrukne tabletter
+
+   Zitromax                            filmovertrukne tabletter
+
+   Zitromax                            pulver til oral suspension
+
+
+
+J01XE01       NITROFURANTOIN
+
+
+
+   Navn                             Lægemiddelform
+   Nitrofurantoin "EQL Pharma"      tabletter
+
+
+
+J02AC01 FLUCONAZOL
+
+
+
+   Navn                              Lægemiddelform
+   Diflucan                          kapsler, hårde
+   Diflucan                          pulver til oral suspension
+
+   Fluconazol "2care4"               kapsler, hårde
+
+   Fluconazol "Accord"               kapsler, hårde
+   Fluconazol "Bluefish"             kapsler, hårde
+   Fluconazol "Epione Medicine"      kapsler, hårde
+
+   Fluconazol "HEXAL"                kapsler, hårde
+   Fluconazol "Krka"                 kapsler, hårde
+
+
+Sidste opdateringsdato: 28/09/26                                    44
+   Navn                                   Lægemiddelform
+
+   Fluconazol "KRKA"                      kapsler, hårde
+   Fluconazol "Nordic Prime"              kapsler, hårde
+
+   Fluconazol "Stada"                     kapsler, hårde
+   Fluconazol "Vitabalans"                tabletter
+
+
+
+J02AC02 ITRACONAZOL
+
+
+
+   Navn         Lægemiddelform
+   Niddazol     kapsler, hårde
+
+   Orungal      kapsler, hårde
+   Sporanox     kapsler, hårde
+
+
+
+J04AB02 RIFAMPICIN
+
+
+
+   Navn        Lægemiddelform
+
+   Rimactan    kapsler, hårde
+
+
+
+J04AK02 ETHAMBUTOL
+
+
+
+   Navn          Lægemiddelform
+
+   Myambutol     tabletter
+
+
+
+J04BA02 DAPSON
+
+
+
+   Navn                       Lægemiddelform
+   Dapson "Scanpharm"         tabletter
+
+
+
+J05AB01 ACICLOVIR
+
+
+
+   Navn                          Lægemiddelform
+   Aciclodan                     tabletter
+
+   Aciclovir "1A Farma"          tabletter
+   Aciclovir "Alternova"         tabletter
+
+   Aciclovir "Nordic Prime"      tabletter
+
+
+Sidste opdateringsdato: 28/09/26                           45
+   Navn                          Lægemiddelform
+
+   Zovirax                       oral suspension
+
+
+
+J05AB09 FAMCICLOVIR
+
+
+
+   Navn       Lægemiddelform
+   Famvir     filmovertrukne tabletter
+
+
+
+J05AB11 VALACICLOVIR
+
+
+
+   Navn                        Lægemiddelform
+   Valaciclovir "Bluefish"     filmovertrukne tabletter
+
+   Valaciclovir "Orion"        filmovertrukne tabletter
+
+   Valaciclovir "Sandoz"       filmovertrukne tabletter
+
+   Valaciclovir "Teva"         filmovertrukne tabletter
+   Valaciclovir "Viatris"      filmovertrukne tabletter
+
+
+
+L01AA02 CHLORAMBUCIL
+
+
+
+   Navn         Lægemiddelform
+
+   Leukeran     filmovertrukne tabletter
+
+
+
+L01AA03 MELPHALAN
+
+
+
+   Navn        Lægemiddelform
+   Alkeran     filmovertrukne tabletter
+
+
+
+L01AD02 LOMUSTIN
+
+
+
+   Navn                      Lægemiddelform
+   Lomustine "Medac"         kapsler
+
+
+
+L01BC02 FLUORURACIL
+
+
+
+
+Sidste opdateringsdato: 28/09/26                          46
+   Navn      Lægemiddelform
+
+   Tolak     creme
+
+
+
+L01CB01 ETOPOSID
+
+
+
+   Navn        Lægemiddelform
+
+   Vepesid     kapsler, bløde
+
+
+
+L02AB01 MEGESTROL
+
+
+
+   Navn       Lægemiddelform
+
+   Megace     tabletter
+
+
+
+L02AB02 MEDROXYPROGESTERON
+
+
+
+   Navn       Lægemiddelform
+
+   Provera    tabletter
+
+
+
+L02AE02 LEUPRORELIN
+
+
+
+   Navn                                       Lægemiddelform
+
+   Eligard                                    pulver og solvens til injektionsvæske, opløsning
+
+   Leuprorelinacetat "Abacus Medicine"        pulver og solvens til injektionsvæske, suspension, fyldt injektionssprøjte
+   Leuprorelin "Sandoz"                       implantat, fyldt injektionssprøjte
+
+
+
+L02AE03 GOSERELIN
+
+
+
+   Navn           Lægemiddelform
+
+   Zoladex        implantat, fyldt injektionssprøjte
+   Zoladex LA     implantat, fyldt injektionssprøjte
+
+
+
+L02AE04 TRIPTORELIN
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                                                                   47
+   Navn          Lægemiddelform
+
+   Gonapeptyl    injektionsvæske, opløsning
+   Pamorelin     depotinjektionsvæske, pulver og solvens til suspension
+
+
+
+L02BA01 TAMOXIFEN
+
+
+
+   Navn                      Lægemiddelform
+   Tamoxifen "Sandoz"        filmovertrukne tabletter
+
+   Tamoxifen "Viatris"       tabletter
+
+
+
+L02BB03 BICALUTAMID
+
+
+
+   Navn                        Lægemiddelform
+
+   Bicalustad                  filmovertrukne tabletter
+
+   Bicalutamide "Accord"       filmovertrukne tabletter
+   Bicalutamide "Teva"         filmovertrukne tabletter
+
+   Bicalutamide Teva           filmovertrukne tabletter
+
+   Bicalutamid "Sandoz"        filmovertrukne tabletter
+
+   Casodex                     filmovertrukne tabletter
+
+
+
+L02BG03 ANASTROZOL
+
+
+
+   Navn                              Lægemiddelform
+
+   Anastelb                          filmovertrukne tabletter
+   Anastrozol "Accord"               filmovertrukne tabletter
+   Anastrozol "Medical Valley"       filmovertrukne tabletter
+   Anastrozol "Sandoz"               filmovertrukne tabletter
+
+   Arimidex                          filmovertrukne tabletter
+
+
+
+L02BG04 LETROZOL
+
+
+
+   Navn                          Lægemiddelform
+
+   Letrozol "Accord"             filmovertrukne tabletter
+   Letrozol "Medical Valley"     filmovertrukne tabletter
+
+   Letrozol Medical Valley       filmovertrukne tabletter
+   Letrozol "Stada"              filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                          48
+   Navn                         Lægemiddelform
+
+   Letrozol "Teva"              filmovertrukne tabletter
+
+
+
+L02BG06 EXEMESTAN
+
+
+
+   Navn                     Lægemiddelform
+   Aromasin                 overtrukne tabletter
+   Exemestan "Accord"       filmovertrukne tabletter
+
+
+
+L04AA06 MYCOPHENOLSYRE
+
+
+
+   Navn                               Lægemiddelform
+
+   Cellcept                           filmovertrukne tabletter
+
+   Mycophenolatmofetil "Accord"       filmovertrukne tabletter
+
+   Mycophenolatmofetil "Accord"       kapsler, hårde
+   Myfenax                            filmovertrukne tabletter
+
+   Myfenax                            kapsler, hårde
+
+
+
+L04AD01 CICLOSPORIN
+
+
+
+   Navn                    Lægemiddelform
+
+   Ciqorin                 kapsler, bløde
+
+   Menelri                 kapsler, bløde
+
+   Sandimmun Neoral        kapsler, bløde
+   Sandimmun Neoral        oral opløsning
+
+
+
+L04AX01 AZATHIOPRIN
+
+
+
+   Navn                     Lægemiddelform
+
+   Azathioprin "Orifarm"    filmovertrukne tabletter
+   Azatioprin "Viatris"     filmovertrukne tabletter
+   Imurel                   filmovertrukne tabletter
+
+
+
+L04AX03 METHOTREXAT
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                 49
+   Navn                      Lægemiddelform
+
+   Methotrexat "Sandoz"      tabletter
+   Trexan                    tabletter
+
+
+
+M01AE01 IBUPROFEN
+
+
+
+   Navn                           Lægemiddelform
+   Brufen                         filmovertrukne tabletter
+
+   Brufen Retard                  depottabletter
+   Brufen SR                      depottabletter
+
+   Ibumax                         filmovertrukne tabletter
+   Ibumetin                       filmovertrukne tabletter
+
+   Ibuprofen "Medical Valley"     filmovertrukne tabletter
+
+   Ibuprofen "Orifarm"            filmovertrukne tabletter
+
+   Ibuprofen "Sandoz"             filmovertrukne tabletter
+
+   Ibuprofen "Teva"               filmovertrukne tabletter
+
+   Ibuprofen "Zentiva"            filmovertrukne tabletter
+
+   Ipren                          filmovertrukne tabletter
+
+
+
+M01AE02 NAPROXEN
+
+
+
+   Navn                          Lægemiddelform
+
+   Bonyl                         tabletter
+
+   Naproxen "Evolan"             tabletter
+   Naproxen "Mashal"             tabletter
+   Naproxen "Nordic Prime"       tabletter
+
+   Naproxen "Paranova"           tabletter
+
+
+
+M01AE14 DEXIBUPROFEN
+
+
+
+   Navn        Lægemiddelform
+
+   Seractiv    filmovertrukne tabletter
+
+
+
+M03BX01 BACLOFEN
+
+
+
+   Navn                             Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                             50
+   Navn                             Lægemiddelform
+
+   Baclofen "Epione Medicine"       tabletter
+   Baclofen "Medical Valley"        tabletter
+
+   Baclofen "Nordic Prime"          tabletter
+   Baklofen "2care4"                tabletter
+
+   Baklofen "Viatris"               tabletter
+   Lioresal                         oral opløsning
+
+   Zapifen                          tabletter
+
+
+
+M04AA01 ALLOPURINOL
+
+
+
+   Navn                           Lægemiddelform
+
+   Allopurinol "Accord"           tabletter
+
+   Allopurinol "EQL Pharma"       tabletter
+
+   Allopurinol "Orion"            tabletter
+
+   Allopurinol "Sandoz"           tabletter
+
+   Allopurinol "Teva"             tabletter
+
+
+
+M04AC01 COLCHICIN
+
+
+
+   Navn                     Lægemiddelform
+
+   Colchicin "Strides"      tabletter
+
+   Colchicin "Tiofarma"     tabletter
+
+   Colrefuz                 tabletter
+
+
+
+M05BA04 ALENDRONSYRE
+
+
+
+   Navn                        Lægemiddelform
+
+   Alendronat "Aurobindo"      tabletter
+   Alendronat "Bluefish"       tabletter
+   Alendronat "Sandoz"         filmovertrukne tabletter
+
+   Alendronat "Stada"          tabletter
+
+   Alendronat "Teva"           tabletter
+   Alendronat "Viatris"        tabletter
+
+
+
+N02BE01 PARACETAMOL
+
+
+
+Sidste opdateringsdato: 28/09/26                          51
+   Navn                             Lægemiddelform
+   Arax                             tabletter
+
+   Pamol                            filmovertrukne tabletter
+   Panodil                          filmovertrukne tabletter
+
+   Panodil                          tabletter med modificeret udløsning
+   Panodil Zapp                     filmovertrukne tabletter
+
+   Paracetamol "Krka"               tabletter
+   Paracetamol "Medical Valley"     filmovertrukne tabletter
+
+   Paracetamol "Orifarm"            filmovertrukne tabletter
+   Paracetamol "Sandoz"             filmovertrukne tabletter
+
+   Paracetamol "Zentiva"            tabletter
+   Pinex                            filmovertrukne tabletter
+
+   Pinex Retard                     depottabletter
+
+
+
+N02BF01 GABAPENTIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Gabamed                        kapsler, hårde
+
+   Gabapenstad                    kapsler, hårde
+
+   Gabapentin "2care4"            filmovertrukne tabletter
+
+   Gabapentin "Accord"            kapsler, hårde
+
+   Gabapentin "Carefarm"          filmovertrukne tabletter
+
+   Gabapentin "Nordic Prime"      filmovertrukne tabletter
+
+   Gabapentin "Orifarm"           kapsler, hårde
+
+   Gabapentin "Sandoz"            kapsler, hårde
+   Gabapentin "Strides"           kapsler, hårde
+   Gabapentin "Teva"              kapsler, hårde
+
+   Gabapentin "Viatris"           filmovertrukne tabletter
+
+   Gabaratio                      kapsler, hårde
+   Neurontin                      filmovertrukne tabletter
+
+
+
+N02BF02 PREGABALIN
+
+
+
+   Navn                              Lægemiddelform
+
+   Lyribastad                        kapsler, hårde
+   Lyrica                            kapsler, hårde
+
+   Pregabalin "Accord"               kapsler, hårde
+
+
+Sidste opdateringsdato: 28/09/26                                          52
+   Navn                               Lægemiddelform
+
+   Pregabalin "Krka"                  kapsler, hårde
+   Pregabalin "Medical Valley"        kapsler, hårde
+
+   Pregabalin "Oresund Pharma"        kapsler, hårde
+   Pregabalin "Sandoz"                kapsler, hårde
+
+   Pregabalin "Teva"                  kapsler, hårde
+   Pregabalin "Zentiva"               kapsler, hårde
+
+
+
+N02CC01 SUMATRIPTAN
+
+
+
+   Navn                            Lægemiddelform
+   Imigran Sprint                  dispergible tabletter
+
+   Sumatriptan "2care4"            filmovertrukne tabletter
+
+   Sumatriptan "Accord"            filmovertrukne tabletter
+
+   Sumatriptan "Bluefish"          tabletter
+
+   Sumatriptan "Ebb Medical"       filmovertrukne tabletter
+
+   Sumatriptan "Epione"            filmovertrukne tabletter
+
+   Sumatriptan "Nordic Prime"      filmovertrukne tabletter
+
+   Sumatriptan "Sandoz"            filmovertrukne tabletter
+
+   Sumatriptan "Teva"              filmovertrukne tabletter
+
+   Sumatriptan Teva                filmovertrukne tabletter
+
+   Sumatriptan "Viatris"           filmovertrukne tabletter
+
+
+
+N02CC04 RIZATRIPTAN
+
+
+
+   Navn                          Lægemiddelform
+
+   Clurizcare                    smeltetabletter
+
+   Maxalt Smelt                  frysetørret tablet
+   Rizapax                       tabletter
+   Rizasmelt                     smeltetabletter
+
+   Rizatriptan "2care4"          tabletter
+   Rizatriptan AL                tabletter
+
+   Rizatriptan "Ebb Medical"     tabletter
+   Rizatriptan "Glenmark"        smeltetabletter
+   Rizatriptan "Glenmark"        tabletter
+
+   Rizatriptan Glenmark          tabletter
+
+   Rizatriptan "Sandoz"          smeltetabletter
+   Rizatriptan "Stada"           tabletter
+
+
+Sidste opdateringsdato: 28/09/26                              53
+   Navn                             Lægemiddelform
+
+   Rizatriptan "Viatris"            smeltetabletter
+   Rizatrix                         smeltetabletter
+
+
+
+N03AD01 ETHOSUXIMID
+
+
+
+   Navn                               Lægemiddelform
+   Ethonor                            kapsler, bløde
+
+   Ethosuximid "Ebb Medical"          kapsler, bløde
+   Ethosuximide "Orifarm"             kapsler, bløde
+
+   Ethosuximide "Strides"             kapsler, bløde
+
+
+
+N03AF01 CARBAMAZEPIN
+
+
+
+   Navn                Lægemiddelform
+   Tegretal Retard     depottabletter
+
+   Tegretol            oral suspension
+
+   Tegretol            tabletter
+
+   Tegretol CR         depottabletter
+
+   Tegretol Retard     depottabletter
+
+   Timonil retard      depottabletter
+
+   Timonil Retard      depottabletter
+
+   Trimonil Retard     depottabletter
+
+
+
+N03AF02 OXCARBAZEPIN
+
+
+
+   Navn                            Lægemiddelform
+
+   Oxcarbazepin "Jubilant"         filmovertrukne tabletter
+
+   Oxcarbazepin "Orion"            filmovertrukne tabletter
+   Oxcarbazepin "Viatris"          filmovertrukne tabletter
+   Oxcarbazepin Viatris            filmovertrukne tabletter
+
+   Trileptal                       filmovertrukne tabletter
+
+   Trileptal                       oral suspension
+
+
+
+N03AG01 VALPROINSYRE
+
+
+
+
+Sidste opdateringsdato: 28/09/26                              54
+   Navn                    Lægemiddelform
+
+   Delepsine               enterotabletter
+   Delepsine               orale dråber, opløsning
+
+   Delepsine               oral opløsning
+   Delepsine Retard        depottabletter
+
+   Depakine Chrono         depottabletter
+   Deprakine Retard        depottabletter
+
+   Orfiril                 enterotabletter
+   Orfiril                 oral opløsning
+
+   Orfiril Long            depotgranulat
+   Orfiril Long            depotkapsler, hårde
+
+
+
+N03AX09 LAMOTRIGIN
+
+
+
+   Navn                            Lægemiddelform
+
+   Lamictal                        tabletter
+
+   Lamictal                        tyggetabletter/dispergible tabletter
+
+   Lamonor                         tabletter
+
+   Lamoprim                        dispergible tabletter
+
+   Lamotab                         dispergible tabletter
+
+   Lamotrigin "1A Farma"           tabletter
+
+   Lamotrigin "Bluefish"           tabletter
+   Lamotrigin "Epione"             tabletter
+
+   Lamotrigin "Nordic Prime"       tabletter
+
+   Lamotrigin "Orifarm"            tabletter
+   Lamotrigin "Orion"              tabletter
+
+   Lamotrigin "Stada"              dispergible tabletter
+
+   Lamotrigin "Teva"               dispergible tabletter
+   Lamotrigin "Teva"               tabletter
+
+   Lamotrigin "Viatris"            tabletter
+   Lanotok                         tabletter
+
+
+
+N03AX11 TOPIRAMAT
+
+
+
+   Navn                      Lægemiddelform
+
+   Topimax                   filmovertrukne tabletter
+
+   Topimax                   kapsler, hårde
+   Topinor                   filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                          55
+   Navn                    Lægemiddelform
+
+   Topiramat "Actavis"     filmovertrukne tabletter
+   Topiramat "Aristo"      filmovertrukne tabletter
+
+   Topiramat "Orion"       filmovertrukne tabletter
+
+
+
+N03AX14 LEVETIRACETAM
+
+
+
+   Navn                                    Lægemiddelform
+
+   Keppra                                  filmovertrukne tabletter
+   Keppra                                  oral opløsning
+
+   Levetiracetam "1A Farma"                filmovertrukne tabletter
+   Levetiracetam "Accord"                  filmovertrukne tabletter
+
+   Levetiracetam "Accord Healthcare"       oral opløsning
+
+   Levetiracetam Accord Healthcare         oral opløsning
+
+   Levetiracetam "Actavis Group"           oral opløsning
+
+   Levetiracetam "Krka"                    filmovertrukne tabletter
+
+   Levetiracetam "Medical Valley"          filmovertrukne tabletter
+
+   Levetiracetam "Nordic Prime"            filmovertrukne tabletter
+
+   Levetiracetam "Orion"                   filmovertrukne tabletter
+
+   Levetiracetam "Stada"                   oral opløsning
+
+
+
+N03AX15 ZONISAMID
+
+
+
+   Navn                              Lægemiddelform
+   Zonegran                          kapsler, hårde
+   Zonisamide "1A Farma"             kapsler, hårde
+
+   Zonisamid "Epione Medicine"       kapsler, hårde
+
+   Zonisamide "Teva"                 kapsler, hårde
+   Zonisamide Viatris                kapsler, hårde
+   Zonisamid "Glenmark"              kapsler, hårde
+
+
+
+N04AA02 BIPERIDEN
+
+
+
+   Navn       Lægemiddelform
+   Akineton   tabletter
+
+
+
+N04AA04 PROCYCLIDIN
+
+Sidste opdateringsdato: 28/09/26                                      56
+   Navn        Lægemiddelform
+
+   Kemadrin    tabletter
+
+
+
+N04AB02 ORPHENADRIN (CHLORID)
+
+
+
+   Navn       Lægemiddelform
+   Lysantin   filmovertrukne tabletter
+
+
+
+N04BA02 LEVODOPA OG DECARBOXYLASE-HÆMMER
+
+
+
+   Navn                                  Lægemiddelform
+
+   Bopazir                               kapsler, hårde
+
+   Carbidopa/levodopa "Fair-Med"         tabletter
+
+   Carbidopa/Levodopa "Orifarm"          tabletter
+
+   Carbidopa/Levodopa "Orion"            tabletter
+
+   Levodopa/Benserazid "Orifarm"         tabletter
+
+   Levodopa-Benserazid "Teva"            kapsler, hårde
+
+   Levodopa/Benserazid "Teva"            kapsler, hårde
+
+   Levodopa/carbidopa "Teva"             depottabletter
+
+   Madopar "125"                         kapsler, hårde
+   Madopar "125"                         tabletter
+
+   Madopar 125                           tabletter
+   Madopar "62,5"                        kapsler, hårde
+
+   Madopar Depot                         depotkapsler, hårde
+
+   Madopar Quick 125                     dispergible tabletter
+   Madopar Quick 62,5                    dispergible tabletter
+
+   Sinemet 12,5/50                       tabletter
+   Sinemet 25/100                        tabletter
+
+   Sinemet Depot Mite                    depottabletter
+
+
+
+N04BA03 LEVODOPA, DECARBOXYLASE-HÆMMER OG COMT-HÆMMER
+
+
+
+   Navn                                                    Lægemiddelform
+
+   Levodopa/Carbidopa/Entacapone "G.L. Pharma"             filmovertrukne tabletter
+   Levodopa/Carbidopa/Entacapone "Orion"                   filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                                      57
+   Navn                                                 Lægemiddelform
+
+   Pentiro                                              filmovertrukne tabletter
+   Stalevo                                              filmovertrukne tabletter
+
+
+
+N04BC04 ROPINIROL
+
+
+
+   Navn                           Lægemiddelform
+   Rolpryna                       depottabletter
+
+   Ropinirol "Abacus Medicine"    depottabletter
+   Ropinirol "Epione"             depottabletter
+
+   Ropinirol Krka                 depottabletter
+   Ropinirol "KRKA"               depottabletter
+
+   Ropinirol "Orion"              depottabletter
+
+   Ropinirol "Viatris"            filmovertrukne tabletter
+
+   Ropinor                        filmovertrukne tabletter
+
+   Ropinostad                     depottabletter
+
+   Tremonix                       depottabletter
+
+
+
+N04BC05 PRAMIPEXOL
+
+
+
+   Navn                          Lægemiddelform
+
+   Glepark                       tabletter
+
+   Oprymea                       depottabletter
+
+   Oprymea                       tabletter
+   Pramipexol "1A Farma"         tabletter
+   Pramipexol "Aurobindo"        tabletter
+
+   Pramipexol "Ebb Medical"      tabletter
+
+   Pramipexole "Orion"           depottabletter
+   Pramipexol "Stada"            depottabletter
+   Pramipexol "Stada"            tabletter
+
+   Pramipexol "Teva Pharma"      depottabletter
+   Pramipexol "Viatris"          tabletter
+
+   Sifrol                        tabletter
+
+
+
+N04BD01 SELEGILIN
+
+
+
+   Navn        Lægemiddelform
+
+
+Sidste opdateringsdato: 28/09/26                                                   58
+   Navn       Lægemiddelform
+
+   Eldepryl   tabletter
+
+
+
+N04BD02 RASAGILIN
+
+
+
+   Navn                      Lægemiddelform
+   Rasagilin "Accord"        tabletter
+   Rasagilin "Glenmark"      tabletter
+
+   Rasagilin "Krka"          tabletter
+   Rasagilin "Stada"         tabletter
+
+
+
+N04BX02 ENTACAPON
+
+
+
+   Navn                      Lægemiddelform
+
+   Comtess                   tabletter
+   Entacapone "Orion"        filmovertrukne tabletter
+
+   Entacapone "Teva"         filmovertrukne tabletter
+
+   Entacapone "Viatris"      filmovertrukne tabletter
+
+
+
+N04BX04 OPICAPON
+
+
+
+   Navn        Lægemiddelform
+
+   Ongentys    kapsler, hårde
+
+
+
+N05AB03 PERPHENAZIN
+
+
+
+   Navn                   Lægemiddelform
+   Trilafon Dekanoat      injektionsvæske, opløsning, i.m.
+
+
+
+N05AD01 HALOPERIDOL
+
+
+
+   Navn                      Lægemiddelform
+
+   Haloperidol "Orifarm"     injektionsvæske, opløsning
+   Serenase                  oral opløsning
+
+   Serenase                  tabletter
+
+
+Sidste opdateringsdato: 28/09/26                             59
+   Navn                         Lægemiddelform
+
+   Serenase Dekanoat            injektionsvæske, opløsning
+
+
+
+N05AE04 ZIPRASIDON
+
+
+
+   Navn                          Lægemiddelform
+   Zeldox                        kapsler, hårde
+   Ziprasidone "Sandoz"          kapsler, hårde
+
+   Ziprasidon "Krka"             kapsler, hårde
+   Ziprasidon "Stada"            kapsler, hårde
+
+
+
+N05AF01 FLUPENTIXOL
+
+
+
+   Navn                   Lægemiddelform
+
+   Fluanxol               filmovertrukne tabletter
+   Fluanxol Depot         injektionsvæske
+
+   Fluanxol Mite          filmovertrukne tabletter
+
+
+
+N05AF03 CHLORPROTHIXEN
+
+
+
+   Navn       Lægemiddelform
+
+   Truxal     filmovertrukne tabletter
+
+
+
+N05AF05 ZUCLOPENTHIXOL
+
+
+
+   Navn                    Lægemiddelform
+   Cisordinol              filmovertrukne tabletter
+   Cisordinol Depot        injektionsvæske, opløsning
+
+   Clopixol                filmovertrukne tabletter
+
+   Clopixol Depot          injektionsvæske, opløsning
+
+
+
+N05AG02 PIMOZID
+
+
+
+   Navn       Lægemiddelform
+
+   Orap       tabletter
+
+
+Sidste opdateringsdato: 28/09/26                             60
+N05AH02 CLOZAPIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Clozapin "Accord"              tabletter
+   Clozapin "Epione Medicine"     tabletter
+   Clozapin "Hexal"               tabletter
+
+   Clozapin "Nordic Prime"        tabletter
+   Froidir                        tabletter
+
+   Leponex                        tabletter
+
+
+
+N05AH03 OLANZAPIN
+
+
+
+   Navn                                Lægemiddelform
+
+   Farpenta                            filmovertrukne tabletter
+
+   Farpenta                            smeltetabletter
+
+   Olanzapin "Accord"                  filmovertrukne tabletter
+
+   Olanzapin "Actavis"                 filmovertrukne tabletter
+
+   Olanzapine "Glenmark"               tabletter
+
+   Olanzapine "Glenmark Europe"        smeltetabletter
+
+   Olanzapine "Teva"                   smeltetabletter
+
+   Olanzapin "Stada"                   filmovertrukne tabletter
+
+   Olanzapin "Stada"                   smeltetabletter
+
+   Zalasta                             smeltetabletter
+   Zalasta                             tabletter
+   Zyprexa                             overtrukne tabletter
+
+   Zyprexa Velotab                     smeltetabletter
+
+
+
+N05AH04 QUETIAPIN
+
+
+
+   Navn                         Lægemiddelform
+
+   Biquetan                     depottabletter
+
+   Quetiapin "2care4"           depottabletter
+   Quetiapin "Accord"           depottabletter
+   Quetiapin "Accord"           filmovertrukne tabletter
+
+   Quetiapin Carefarm           depottabletter
+   Quetiapin "Epione"           depottabletter
+
+
+Sidste opdateringsdato: 28/09/26                                  61
+   Navn                          Lægemiddelform
+
+   Quetiapine "Teva"             depottabletter
+   Quetiapine "Teva"             filmovertrukne tabletter
+
+   Quetiapin "Krka"              depottabletter
+   Quetiapin "KRKA"              depottabletter
+
+   Quetiapin "KRKA"              filmovertrukne tabletter
+   Quetiapin "Nordic Prime"      depottabletter
+
+   Quetiapin "Sandoz"            filmovertrukne tabletter
+   Seroquel Prolong              depottabletter
+
+   Stadaquel                     filmovertrukne tabletter
+
+
+
+N05AN01 LITHIUM
+
+
+
+   Navn                       Lægemiddelform
+
+   Carblit                    tabletter
+
+   Litarex                    depottabletter
+
+   Litiumkarbonat "OBA"       filmovertrukne tabletter
+
+
+
+N05AX08 RISPERIDON
+
+
+
+   Navn                    Lægemiddelform
+
+   Rispemyl                filmovertrukne tabletter
+
+   Risperanne              filmovertrukne tabletter
+
+   Risperidon "2care4"     filmovertrukne tabletter
+   Risperidon "Actavis"    filmovertrukne tabletter
+   Risperidon "Krka"       filmovertrukne tabletter
+
+   Risperidon "Sandoz"     filmovertrukne tabletter
+
+   Risperidon "Stada"      filmovertrukne tabletter
+   Risperidon "Teva"       filmovertrukne tabletter
+
+
+
+N05AX12 ARIPIPRAZOL
+
+
+
+   Navn                               Lægemiddelform
+   Abilify                            tabletter
+   Aripiprazole "Accord"              tabletter
+
+   Aripiprazole "Medical Valley"      tabletter
+   Aripiprazole "Teva"                tabletter
+
+
+Sidste opdateringsdato: 28/09/26                            62
+   Navn                               Lægemiddelform
+
+   Aripiprazole "Zentiva"             tabletter
+   Aripiprazol "Krka"                 tabletter
+
+   Aripiprazol "Stada"                tabletter
+
+
+
+N06AA04 CLOMIPRAMIN
+
+
+
+   Navn                       Lægemiddelform
+
+   Anafranil                  overtrukne tabletter
+   Anafranil Retard           depottabletter
+
+   Klomipramin "Viatris"      filmovertrukne tabletter
+
+
+
+N06AA09 AMITRIPTYLIN
+
+
+
+   Navn                     Lægemiddelform
+   Amitriptylin "Abcur"     filmovertrukne tabletter
+
+   Saroten                  filmovertrukne tabletter
+
+
+
+N06AA10 NORTRIPTYLIN
+
+
+
+   Navn        Lægemiddelform
+
+   Noritren    filmovertrukne tabletter
+
+
+
+N06AA16 DOSULEPIN
+
+
+
+   Navn           Lægemiddelform
+   Prothiaden     kapsler, hårde
+   Prothiaden     overtrukne tabletter
+
+
+
+N06AB03 FLUOXETIN
+
+
+
+   Navn                              Lægemiddelform
+
+   Fluoxetine "Orion"                kapsler, hårde
+   Fluoxetin "Epione Medicine"       dispergible tabletter
+
+   Fluoxetin "HEXAL"                 dispergible tabletter
+
+
+Sidste opdateringsdato: 28/09/26                             63
+   Navn                               Lægemiddelform
+
+   Fluoxetin HEXAL                    dispergible tabletter
+   Fluoxetin "Orifarm"                opløselige tabletter
+
+   Fluoxetin "Viatris"                kapsler, hårde
+   Fluzap                             kapsler, hårde
+
+   Hoanaca                            dispergible tabletter
+
+
+
+N06AB04 CITALOPRAM
+
+
+
+   Navn                            Lægemiddelform
+
+   Cipramil                        filmovertrukne tabletter
+   Citalopram "Epione"             filmovertrukne tabletter
+
+   Citalopram "Jubilant"           filmovertrukne tabletter
+
+   Citalopram "Nordic Prime"       filmovertrukne tabletter
+
+   Citalopram "Orion"              filmovertrukne tabletter
+
+   Citalopram "Sandoz"             filmovertrukne tabletter
+
+   Citalopram "Stada"              filmovertrukne tabletter
+
+   Citalopram "Teva"               filmovertrukne tabletter
+
+   Citalopram "Viatris"            filmovertrukne tabletter
+
+
+
+N06AB05 PAROXETIN
+
+
+
+   Navn                           Lægemiddelform
+
+   Paroxar                        filmovertrukne tabletter
+   Paroxetin "HEXAL"              filmovertrukne tabletter
+   Paroxetin "Nordic Prime"       filmovertrukne tabletter
+
+   Paroxetin "Orifarm"            filmovertrukne tabletter
+
+   Paroxetin "Orion"              filmovertrukne tabletter
+   Paroxetin "Stada"              filmovertrukne tabletter
+   Paroxetin "Teva"               filmovertrukne tabletter
+
+   Paxicur                        filmovertrukne tabletter
+   Seroxat                        filmovertrukne tabletter
+
+
+
+N06AB06 SERTRALIN
+
+
+
+   Navn                    Lægemiddelform
+   Sertralin "2care4"      filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                              64
+   Navn                    Lægemiddelform
+
+   Sertralin "Accord"      filmovertrukne tabletter
+   Sertralin "Hexal"       filmovertrukne tabletter
+
+   Sertralin "KRKA"        filmovertrukne tabletter
+   Sertralin "Orion"       filmovertrukne tabletter
+
+   Sertralin "Teva"        filmovertrukne tabletter
+   Sertralin "Zentiva"     filmovertrukne tabletter
+
+   Sertrone                filmovertrukne tabletter
+   Zoloft                  filmovertrukne tabletter
+
+
+
+N06AB10 ESCITALOPRAM
+
+
+
+   Navn                         Lægemiddelform
+
+   Cipralex                     filmovertrukne tabletter
+
+   Escitalopram "Accord"        filmovertrukne tabletter
+
+   Escitalopram "Bluefish"      filmovertrukne tabletter
+
+   Escitalopram "Krka"          filmovertrukne tabletter
+
+   Escitalopram "STADA"         filmovertrukne tabletter
+
+   Escitalopram "Teva"          filmovertrukne tabletter
+
+
+
+N06AX03 MIANSERIN
+
+
+
+   Navn                                          Lægemiddelform
+
+   Mianserinhydrochlorid "2care4"                filmovertrukne tabletter
+   Mianserinhydrochlorid "Nordic Prime"          filmovertrukne tabletter
+   Mianserin "Orifarm"                           filmovertrukne tabletter
+
+   Mianserin "Viatris"                           filmovertrukne tabletter
+
+
+
+N06AX11 MIRTAZAPIN
+
+
+
+   Navn                        Lægemiddelform
+
+   Combar                      filmovertrukne tabletter
+
+   Mirtazapin "Actavis"        filmovertrukne tabletter
+   Mirtazapin "Bluefish"       smeltetabletter
+   Mirtazapin "HEXAL"          filmovertrukne tabletter
+
+   Mirtazapin "KRKA"           filmovertrukne tabletter
+   Mirtazapin "Orion"          filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                            65
+   Navn                        Lægemiddelform
+
+   Mirtazapin "Orion"          smeltetabletter
+   Mirtazapin "Paranova"       smeltetabletter
+
+   Mirtazapin "Sandoz"         filmovertrukne tabletter
+   Mirtazapin "Stada"          smeltetabletter
+
+   Mirtin                      smeltetabletter
+
+
+
+N06AX16 VENLAFAXIN
+
+
+
+   Navn                             Lægemiddelform
+
+   Efastad                          depotkapsler, hårde
+   Efexor Depot                     depotkapsler, hårde
+
+   Venlafaxin "Bluefish"            depotkapsler, hårde
+
+   Venlafaxin "Krka"                depotkapsler, hårde
+
+   Venlafaxin "Medical Valley"      depottabletter
+
+   Venlafaxin "Nordic Prime"        depotkapsler, hårde
+
+   Venlafaxin "Orion"               depotkapsler, hårde
+
+   Venlafaxin "Sandoz"              depotkapsler, hårde
+
+   Venlafaxin "Teva"                depotkapsler, hårde
+
+
+
+N06AX21 DULOXETIN
+
+
+
+   Navn                             Lægemiddelform
+
+   Aritavi                          enterokapsler, hårde
+   Cymbalta                         enterokapsler, hårde
+   Duloxetine "Medical Valley"      enterokapsler, hårde
+
+   Duloxetine "Viatris"             enterokapsler, hårde
+
+   Duloxetine "Zentiva"             enterokapsler, hårde
+   Duloxetin "Krka"                 enterokapsler, hårde
+   Duloxetin "Nordic Prime"         enterokapsler, hårde
+
+   Duloxetin "Stada"                enterokapsler, hårde
+
+
+
+N07AA02 PYRIDOSTIGMIN
+
+
+
+   Navn                                Lægemiddelform
+
+   Mestinon                            overtrukne tabletter
+   Mestinon                            tabletter
+
+
+Sidste opdateringsdato: 28/09/26                              66
+   Navn                                 Lægemiddelform
+
+   Pyridostigminbromid "Orifarm"        overtrukne tabletter
+
+
+
+N07BA04 CYTISINICLIN
+
+
+
+   Navn                     Lægemiddelform
+   Cytisiniclin "2care4"    tabletter
+   Cytisiniclin "Orifarm"   tabletter
+
+   Decigatan                tabletter
+
+
+
+N07BB01 DISULFIRAM
+
+
+
+   Navn        Lægemiddelform
+
+   Antabus     brusetabletter
+
+
+
+N07XX02 RILUZOL
+
+
+
+   Navn                             Lægemiddelform
+
+   Glentek                          filmovertrukne tabletter
+
+   Rilucare                         filmovertrukne tabletter
+
+   Rilutek                          filmovertrukne tabletter
+
+   Riluzol "Abacus Medicine"        filmovertrukne tabletter
+
+   Riluzol "Nordic Prime"           filmovertrukne tabletter
+
+
+
+N07XX06 TETRABENAZIN
+
+
+
+   Navn         Lægemiddelform
+   Nitoman      tabletter
+
+   Tetmodis     tabletter
+
+
+
+P01AB01 METRONIDAZOL
+
+
+
+   Navn                         Lægemiddelform
+   Flagyl                       filmovertrukne tabletter
+
+   Flagyl                       oral suspension
+
+
+Sidste opdateringsdato: 28/09/26                               67
+   Navn                       Lægemiddelform
+
+   Flagyl-S                   oral suspension
+   Metronidazol "Actavis"     filmovertrukne tabletter
+
+   Metronidazol "DAK"         filmovertrukne tabletter
+
+
+
+P01BA02 HYDROXYCHLOROQUIN
+
+
+
+   Navn         Lægemiddelform
+
+   Pimaxiro     filmovertrukne tabletter
+   Plaquenil    filmovertrukne tabletter
+
+
+
+R01AD05 BUDESONID
+
+
+
+   Navn                               Lægemiddelform
+
+   Budesonid "2care4"                 næsespray, suspension
+   Budesonid "Abacus Medicine"        næsespray, suspension
+
+   Budesonid "Nordic Prime"           næsespray, suspension
+
+   Budesonid "Sandoz"                 næsespray, suspension
+
+   Budesonid Sandoz                   næsespray, suspension
+
+
+
+R01AD08 FLUTICASON
+
+
+
+   Navn                            Lægemiddelform
+
+   Flurhin                         næsespray, suspension
+   Fluticasonpropionat "Teva"      næsespray, suspension
+   Otrason                         næsespray, suspension
+
+
+
+R01AD09 MOMETASON
+
+
+
+   Navn                            Lægemiddelform
+   Aphiahsone                      næsespray, suspension
+   Momenex                         næsespray, suspension
+
+   Mometasone "Sandoz"             næsespray, suspension
+   Mometasonfuroat "Aristo"        næsespray, suspension
+
+   Mometasonfuroat "Teva"          næsespray, suspension
+   Mometasonfuroat "Zentiva"       næsespray, suspension
+
+
+Sidste opdateringsdato: 28/09/26                              68
+   Navn                           Lægemiddelform
+
+   Mometason "Orion"              næsespray, suspension
+   Nasonex                        næsespray, suspension
+
+
+
+R01AD11 TRIAMCINOLON
+
+
+
+   Navn        Lægemiddelform
+   Nasacort    næsespray, suspension
+
+
+
+R03AC02 SALBUTAMOL
+
+
+
+   Navn                   Lægemiddelform
+
+   Airomir                inhalationsspray, suspension
+
+   Airomir Autohaler      inhalationsspray, suspension
+
+   Buventol Easyhaler     inhalationspulver
+   Salamol                inhalationsspray, suspension
+
+   Salbutamol "TEVA"      inhalationsvæske til nebulisator, opløsning
+
+   Ventolin               inhalationspulver, afdelt
+
+   Ventoline              inhalationspulver, afdelt
+
+   Ventoline              inhalationsspray, suspension
+
+   Ventoline              inhalationsvæske til nebulisator, opløsning
+
+   Ventoline Diskos       inhalationspulver, afdelt
+
+
+
+R03AC03 TERBUTALIN
+
+
+
+   Navn                           Lægemiddelform
+   Bricanyl Turbuhaler            inhalationspulver
+
+   Terbutalinsulfat "2care4"      inhalationspulver
+
+   Terbutalinsulfat "Paranova"    inhalationspulver
+
+
+
+R03AC12 SALMETEROL
+
+
+
+   Navn                    Lægemiddelform
+   Salmeterol "Orifarm"    inhalationspulver, afdelt
+
+   Serevent                inhalationspulver
+
+
+
+              FORMOTEROL
+Sidste opdateringsdato: 28/09/26                                        69
+R03AC13 FORMOTEROL
+
+
+
+   Navn                            Lægemiddelform
+
+   Formo Easyhaler                 inhalationspulver
+   Formoterol "Medical Valley"     inhalationspulver, hård kapsel
+
+
+
+R03AK07 FORMOTEROL OG BUDESONID
+
+
+
+   Navn                   Lægemiddelform
+   Bufomix Easyhaler      inhalationspulver
+
+
+
+R03BA01 BECLOMETHASON
+
+
+
+   Navn                                       Lægemiddelform
+
+   Aerobec                                    inhalationsspray, opløsning
+
+   Aerobec Autohaler                          inhalationsspray, opløsning
+
+   AeroBec Autohaler                          inhalationsspray, opløsning
+
+   Beclometasondipropionat Carefarm           inhalationsspray, opløsning
+
+   Beclomet Easyhaler                         inhalationspulver
+
+
+
+R03BA02 BUDESONID
+
+
+
+   Navn                            Lægemiddelform
+
+   Budesonide "Stada"              inhalationsvæske til nebulisator, suspension
+
+   Budesonide "Teva Pharma"        inhalationsvæske til nebulisator, suspension
+   Budesonid "Paranova"            inhalationspulver
+   Giona Easyhaler                 inhalationspulver
+   Pulmicort Turbohaler            inhalationspulver
+
+   Pulmicort Turbuhaler            inhalationspulver
+
+   Spirocort Turbuhaler            inhalationspulver
+
+
+
+R03BA05 FLUTICASON
+
+
+
+   Navn                                       Lægemiddelform
+
+   Flixotide                                  inhalationspulver
+
+
+Sidste opdateringsdato: 28/09/26                                                  70
+   Navn                                     Lægemiddelform
+
+   Flixotide                                inhalationsspray, suspension
+   Flixotide Diskus                         inhalationspulver
+
+   Fluticasonpropionat "2care4"             inhalationspulver
+   Fluticasonpropionat "Nordic Prime"       inhalationsspray, suspension
+
+   Icsori                                   inhalationsspray, suspension
+
+
+
+R03BA07 MOMETASON
+
+
+
+   Navn                     Lægemiddelform
+
+   Asmanex Twisthaler       inhalationspulver
+
+
+
+R03BA08 CICLESONID
+
+
+
+   Navn                       Lægemiddelform
+   Alvesco                    inhalationsspray, opløsning
+
+   Ciclesonide "Orifarm"      inhalationsspray, opløsning
+
+   Ciclesonide "Sandoz"       inhalationsspray, opløsning
+
+
+
+R03BB04 TIOTROPIUMBROMID
+
+
+
+   Navn                    Lægemiddelform
+
+   Braltus                 inhalationspulver, hård kapsel
+
+   Spiriva                 inhalationspulver, hård kapsel
+   Spiriva Respimat        inhalationsvæske, opløsning
+   Tiogiva                 inhalationspulver, hård kapsel
+   Tiotropium "Stada"      inhalationspulver, hård kapsel
+
+
+
+R03BB05 ACLIDINIUMBROMID
+
+
+
+   Navn                 Lægemiddelform
+   Bretaris Genuair     inhalationspulver
+
+   Eklira Genuair       inhalationspulver
+
+
+
+R03BB06 GLYCOPYRRONIUMBROMID
+
+
+
+Sidste opdateringsdato: 28/09/26                                           71
+   Navn                                  Lægemiddelform
+
+   Glycopyrronium "Medical Valley"       inhalationspulver, hård kapsel
+   Seebri Breezhaler                     inhalationspulver, hård kapsel
+
+   Tovanor Breezhaler                    inhalationspulver, hård kapsel
+
+
+
+R03BB07 UMECLIDINIUMBROMID
+
+
+
+   Navn              Lægemiddelform
+
+   Incruse Ellipta   inhalationspulver, afdelt
+
+
+
+R03DC03 MONTELUKAST
+
+
+
+   Navn                                  Lægemiddelform
+
+   Montegran                             granulat
+
+   Montelukast "Abacus Medicine"         granulat
+
+   Montelukast "Accord Healthcare"       filmovertrukne tabletter
+
+   Montelukast "Carefarm"                granulat
+
+   Montelukast "Ebb Medical"             granulat
+
+   Montelukast "Krka"                    filmovertrukne tabletter
+
+   Montelukast "Krka"                    tyggetabletter
+
+   Montelukast "Paranova"                granulat
+
+   Montelukast "Sandoz"                  filmovertrukne tabletter
+
+   Montelukast "Sandoz"                  tyggetabletter
+   Montelukast "Stada"                   filmovertrukne tabletter
+   Montelukast "Stada"                   tyggetabletter
+
+   Montelukast "Teva"                    filmovertrukne tabletter
+
+   Montelukast "Teva"                    granulat
+   Montelukast "Teva"                    tyggetabletter
+   Singulair                             filmovertrukne tabletter
+
+   Singulair                             tyggetabletter
+
+
+
+R06AE09 LEVOCETIRIZIN
+
+
+
+   Navn                         Lægemiddelform
+
+   Cereza                       filmovertrukne tabletter
+   Levocetirizin "Glenmark"     filmovertrukne tabletter
+
+
+Sidste opdateringsdato: 28/09/26                                          72
+   Navn                         Lægemiddelform
+
+   Levocetirizin "Krka"         filmovertrukne tabletter
+
+
+
+R06AX26 FEXOFENADIN
+
+
+
+   Navn                       Lægemiddelform
+   Altifex                    filmovertrukne tabletter
+   Fexofenadin "Cipla"        filmovertrukne tabletter
+
+   Fexofenadine "Viatris"     filmovertrukne tabletter
+   Nefoxef                    filmovertrukne tabletter
+
+   Telfast                    filmovertrukne tabletter
+
+
+
+R06AX27 DESLORATADIN
+
+
+
+   Navn                        Lægemiddelform
+   Aerius                      filmovertrukne tabletter
+
+   Dasselta                    filmovertrukne tabletter
+
+   Desloratadine "Actavis"     filmovertrukne tabletter
+
+
+
+R06AX28 RUPATADIN
+
+
+
+   Navn                          Lægemiddelform
+
+   Rupatadin "Nordic Prime"      tabletter
+
+
+
+R06AX29 BILASTIN
+
+
+
+   Navn                       Lægemiddelform
+   Bilaska                    tabletter
+
+   Bilastin "2care4"          tabletter
+
+   Bilastin "Nordic Prime"    tabletter
+
+
+
+S01AD03 ACICLOVIR
+
+
+
+   Navn      Lægemiddelform
+
+   Xorox     øjensalve
+
+
+Sidste opdateringsdato: 28/09/26                           73
+S01BA01 DEXAMETHASON
+
+
+
+   Navn            Lægemiddelform
+
+   Axiumopto       øjendråber, opløsning, enkeltdosisbeholder
+   Dexafree        øjendråber, opløsning, enkeltdosisbeholder
+   Maxidex         øjendråber, suspension
+
+   Monopex         øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01BA02 HYDROCORTISON
+
+
+
+   Navn         Lægemiddelform
+   Softacort    øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01BA04 PREDNISOLON
+
+
+
+   Navn              Lægemiddelform
+
+   Ultracortenol     øjensalve
+
+
+
+S01BC03 DICLOFENAC
+
+
+
+   Navn         Lægemiddelform
+   Voltabak     øjendråber, opløsning
+   Voltaren     øjendråber, opløsning
+
+
+
+S01BC05 KETOROLAC
+
+
+
+   Navn       Lægemiddelform
+
+   Acular     øjendråber, opløsning
+
+
+
+S01BC10 NEPAFENAC
+
+
+
+   Navn         Lægemiddelform
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                74
+   Navn           Lægemiddelform
+
+   Nevanac        øjendråber, suspension
+
+
+
+S01CA01 DEXAMETHASON OG ANTIINFEKTIVA
+
+
+
+   Navn            Lægemiddelform
+   Dexamcol        øjendråber, opløsning
+   Oridecin        øjendråber, suspension
+
+   Tobradex        øjendråber, suspension
+
+
+
+S01EA05 BRIMONIDIN
+
+
+
+   Navn                              Lægemiddelform
+
+   Alphagan                          øjendråber, opløsning
+
+   Brimonidintartrat "2care4"        øjendråber, opløsning
+   Brimonidintartrat "Paranova"      øjendråber, opløsning
+
+   Glaudin                           øjendråber, opløsning
+
+
+
+S01EB51 PILOCARPIN, KOMBINATIONER
+
+
+
+   Navn            Lægemiddelform
+
+   Fotil Forte     øjendråber, opløsning
+
+
+
+S01EC01 ACETAZOLAMID
+
+
+
+   Navn          Lægemiddelform
+   Diamox        tabletter
+
+
+
+S01EC03 DORZOLAMID
+
+
+
+   Navn                         Lægemiddelform
+   Dorzolamid "STADA"           øjendråber, opløsning
+
+   Dorzostill                   øjendråber, opløsning
+   Trusopt                      øjendråber, opløsning
+
+   Trusopt-S Ukonserveret       øjendråber, opløsning, enkeltdosisbeholder
+
+
+Sidste opdateringsdato: 28/09/26                                             75
+   Navn                        Lægemiddelform
+
+   Trusopt Ukonserveret        øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01EC04 BRINZOLAMID
+
+
+
+   Navn                        Lægemiddelform
+   Azopt                       øjendråber, suspension
+   Brinzolamide "Sandoz"       øjendråber, suspension
+
+   Brinzolamid "Stada"         øjendråber, suspension
+
+
+
+S01EC54 BRINZOLAMID, KOMBINATIONER
+
+
+
+   Navn                                          Lægemiddelform
+
+   Brilamox                                      øjendråber, suspension
+
+   Brinzolamid/Brimonidin "Medical Valley"       øjendråber, suspension
+   Brinzolamid/Brimonidintartrat "2care4"        øjendråber, suspension
+
+   Brinzolamid/Brimonidintartrat Ebb Medical     øjendråber, suspension
+
+   Brinzolamide/Brimonidine "Stada"              øjendråber, suspension
+
+   Simbrinza                                     øjendråber, suspension
+
+
+
+S01ED01 TIMOLOL
+
+
+
+   Navn              Lægemiddelform
+
+   Optimol           øjendråber, opløsning
+   Timogel           øjengel, enkeltdosisbeholder
+   Timosan Depot     øjengel
+   Timosan Depot     øjengel, enkeltdosisbeholder
+
+
+
+S01ED02 BETAXOLOL
+
+
+
+   Navn         Lægemiddelform
+   Betoptic S   øjendråber, suspension
+
+
+
+S01ED51 TIMOLOL, KOMBINATIONER
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                            76
+   Navn                                   Lægemiddelform
+
+   Azarga                                 øjendråber, suspension
+   Bimatoprost/Timolol "Stada"            øjendråber, opløsning
+
+   Bimatoprost/Timolol "Stada"            øjendråber, opløsning, enkeltdosisbeholder
+   Bimatoprost/Timolol "Zentiva"          øjendråber, opløsning
+
+   Bimatoprost/Timolol Zentiva            øjendråber, opløsning
+   Bimtim                                 øjendråber, opløsning, enkeltdosisbeholder
+
+   Brintox                                øjendråber, suspension
+   Brinzolamide/Timolol "Zentiva"         øjendråber, suspension
+
+   Brinzolamid/Timolol "Medical Valley"   øjendråber, suspension
+   Combigan                               øjendråber, opløsning
+
+   Cosopt iMulti Ukonserveret             øjendråber, opløsning
+   Cosopt Multi Ukonserveret              øjendråber, opløsning
+
+   Cosopt Ukonserveret                    øjendråber, opløsning, enkeltdosisbeholder
+   Costad                                 øjendråber, opløsning
+
+   Dorlatim                               øjendråber, opløsning
+
+   Dorzolamide/Timolol "Stada"            øjendråber, opløsning, enkeltdosisbeholder
+   Dorzolamid/Timolol "Medical Valley"    øjendråber, opløsning
+
+   Duokopt                                øjendråber, opløsning
+
+   DuoTrav                                øjendråber, opløsning
+
+   Fixaprost                              øjendråber, opløsning, enkeltdosisbeholder
+
+   Fixopost                               øjendråber, opløsning, enkeltdosisbeholder
+
+   Ganfort                                øjendråber, opløsning
+
+   Ganfort                                øjendråber, opløsning, enkeltdosisbeholder
+
+   Latacomp                               øjendråber, opløsning
+
+   Latanoprost/Timolol "Nordic Prime"     øjendråber, opløsning
+
+   Latanostad comp                        øjendråber, opløsning
+   Oculokom                               øjendråber, opløsning
+   Taptiqom                               øjendråber, opløsning, enkeltdosisbeholder
+
+   Taptiqom sine                          øjendråber, opløsning
+   Taptiqom Sine                          øjendråber, opløsning
+
+   Travoprost/Timolol "Medical Valley"    øjendråber, opløsning
+   Travoprost/Timolol "Stada"             øjendråber, opløsning
+
+   Xalcom                                 øjendråber, opløsning
+
+
+
+S01EE01 LATANOPROST
+
+
+
+   Navn                   Lægemiddelform
+
+   Catiolanze             øjendråber, emulsion
+
+
+Sidste opdateringsdato: 28/09/26                                                       77
+   Navn                     Lægemiddelform
+
+   Latanoprost "Stada"      øjendråber, opløsning
+   Latanoprost "Viatris"    øjendråber, opløsning
+
+   Monoprost                øjendråber, opløsning, enkeltdosisbeholder
+   Xalatan                  øjendråber, opløsning
+
+
+
+S01EE03 BIMATOPROST
+
+
+
+   Navn                     Lægemiddelform
+   Bimatoprost "Stada"      øjendråber, opløsning
+
+   Lumigan                  øjendråber, opløsning
+   Lumigan                  øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01EE04 TRAVOPROST
+
+
+
+   Navn                    Lægemiddelform
+
+   Travatan                øjendråber, opløsning
+
+   Travoprost "Stada"      øjendråber, opløsning
+
+   Travoprost "Teva"       øjendråber, opløsning
+
+
+
+S01EE05 TAFLUPROST
+
+
+
+   Navn                      Lægemiddelform
+
+   Saflutan                  øjendråber, opløsning, enkeltdosisbeholder
+   Taflotan                  øjendråber, opløsning, enkeltdosisbeholder
+   Taflotan Sine             øjendråber, opløsning
+   Tafluprost "Paranova"     øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01EE51 LATANOPROST OG NETARSUDIL
+
+
+
+   Navn        Lægemiddelform
+   Roclanda    øjendråber, opløsning
+
+
+
+S01FA01 ATROPIN
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                          78
+   Navn       Lægemiddelform
+
+   Ryjunea    øjendråber, opløsning
+
+
+
+S01GX06 EMEDASTIN
+
+
+
+   Navn       Lægemiddelform
+   Emadine    øjendråber, opløsning
+   Emadine    øjendråber, opløsning, enkeltdosisbeholder
+
+
+
+S01GX09 OLOPATADIN
+
+
+
+   Navn                    Lægemiddelform
+
+   Olopatadin "Epione"     øjendråber, opløsning
+
+   Olopatadin "Orifarm"    øjendråber, opløsning
+
+   Opatanol                øjendråber, opløsning
+   Toredin                 øjendråber, opløsning
+
+
+
+S01LA01 VERTEPORFIN
+
+
+
+   Navn        Lægemiddelform
+
+   Visudyne    pulver til infusionsvæske, opløsning
+
+
+
+S02AA15 CIPROFLOXACIN
+
+
+
+   Navn       Lægemiddelform
+   Cetraxal   øredråber, opløsning i enkeltdosisbeholder
+   Ciloxan    øredråber, opløsning
+
+
+
+S02BA08 FLUOCINOLONACETONID
+
+
+
+   Navn       Lægemiddelform
+   Otazem     øredråber, opløsning i enkeltdosisbeholder
+
+
+
+S02CA03 HYDROCORTISON OG ANTIINFEKTIVA
+
+
+
+Sidste opdateringsdato: 28/09/26                           79
+   Navn     Lægemiddelform
+   Ciflox   øredråber, suspension
+
+
+
+S02CA05 FLUOCINOLONACETONID OG ANTIINFEKTIVA
+
+
+
+   Navn                 Lægemiddelform
+   Cetraxal Comp        øredråber, opløsning
+
+
+
+S03CA04 HYDROCORTISON OG ANTIINFEKTIVA
+
+
+
+   Navn                                            Lægemiddelform
+
+   Hydrocortison m.terramycin+polymyxin-B          øjen- og øredråber, suspension
+
+
+
+V01AA07 INSEKTER
+
+
+
+   Navn                      Lægemiddelform
+
+   Alk (801) Bigift          injektionsvæske, suspension
+
+   Alk (801) Bigift          pulver og solvens til injektionsvæske, opløsning
+
+   Alk (802) Hvepsegift      injektionsvæske, suspension
+
+   Alk (802) Hvepsegift      pulver og solvens til injektionsvæske, opløsning
+
+
+
+V01AA11 DYR
+
+
+
+   Navn                     Lægemiddelform
+
+   Alk (553) Hundehår       injektionsvæske, suspension
+   Alk (555) Kattehår       injektionsvæske, Alutard-sq
+
+
+
+V07AB       OPLØSNINGS-OG FORTYNDINGSMIDLER, INCL. SKYLLEVÆSKER
+
+
+
+   Navn          Lægemiddelform
+   Alk-diluent   solvens
+
+
+
+
+Sidste opdateringsdato: 28/09/26                                                    80
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Extract from fest251.xml (FEST 2.5.1, file dated 2026-09-29), downloaded 2026-10-02 from https://www.dmp.no/globalassets/documents/om-oss/distribusjon-av-legemiddeldata/fest/festfiler/fest251.zip -->
+<Extract>
+<OppfVilkar>
+      <Id>ID_9A5D42AE-1054-47E4-ABE6-523437DD158F</Id>
+      <Tidspunkt>2014-12-06T01:16:07</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Vilkar>
+        <Id>ID_5CCBD334-ACC3-4A77-B84B-9DDAEC5BF4BD</Id>
+        <VilkarNr>181</VilkarNr>
+        <Gruppe V="3" S="2.16.578.1.12.4.1.1.7437" DN="Refusjon" />
+        <GjelderFor V="1" DN="Rekvirent" />
+        <Tekst>Behandling skal kun startes av spesialist i indremedisin, barnesykdommer eller ved sykehusavdeling med tilsvarende spesialitet</Tekst>
+        <GyldigFraDato>2009-12-11</GyldigFraDato>
+      </Vilkar>
+    </OppfVilkar>
+<OppfVilkar>
+      <Id>ID_DCBDFAB7-61D4-45BF-8229-F60053F9D589</Id>
+      <Tidspunkt>2016-09-21T01:09:46</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Vilkar>
+        <Id>ID_224CC590-BB62-404A-9746-A06FC258AA7C</Id>
+        <VilkarNr>225</VilkarNr>
+        <Gruppe V="3" S="2.16.578.1.12.4.1.1.7437" DN="Refusjon" />
+        <GjelderFor V="1" DN="Rekvirent" />
+        <Tekst>Refusjon ytes kun til pasienter som ikke oppnår tilstrekkelig sykdomskontroll på høyeste tolererte dose metformin</Tekst>
+        <GyldigFraDato>2016-09-19</GyldigFraDato>
+      </Vilkar>
+    </OppfVilkar>
+<OppfVilkar>
+      <Id>ID_FB742668-168B-4CC2-AC78-636898A26FCF</Id>
+      <Tidspunkt>2014-12-06T01:16:07</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Vilkar>
+        <Id>ID_B208E86F-B9F4-4600-B088-68728A74EDEA</Id>
+        <VilkarNr>180</VilkarNr>
+        <Gruppe V="3" S="2.16.578.1.12.4.1.1.7437" DN="Refusjon" />
+        <GjelderFor V="1" DN="Rekvirent" />
+        <Tekst>Refusjon ytes kun til pasienter som ikke oppnår behandlingsmålene til tross for optimal behandling med middels langtidsvirkende NPH-insulin på grunn av:
+- hyppige eller alvorlige nattlige følinger som skyldes insulinbruken
+- store blodsukkersvingninger som ikke gjør det mulig å oppnå akseptabel blodsukkerkontroll</Tekst>
+        <GyldigFraDato>2009-12-11</GyldigFraDato>
+      </Vilkar>
+    </OppfVilkar>
+<OppfVilkar>
+      <Id>ID_B2EC0BE6-CE95-4BC2-86CB-5C71D4A03F1D</Id>
+      <Tidspunkt>2019-07-20T00:50:54</Tidspunkt>
+      <Status V="A" DN="Aktiv oppføring" />
+      <Vilkar>
+        <Id>ID_8404EAEA-BE46-412C-A887-B3ED3991A8E4</Id>
+        <VilkarNr>244</VilkarNr>
+        <Gruppe V="3" S="2.16.578.1.12.4.1.1.7437" DN="Refusjon" />
+        <GjelderFor V="1" DN="Rekvirent" />
+        <Tekst>Refusjon ytes kun til pasienter som til tross for optimal behandling med to daglige doser middels langtidsvirkende NPH-insulin har vedvarende utfordringer med hypoglykemier.</Tekst>
+        <GyldigFraDato>2019-07-04</GyldigFraDato>
+      </Vilkar>
+    </OppfVilkar></Extract>

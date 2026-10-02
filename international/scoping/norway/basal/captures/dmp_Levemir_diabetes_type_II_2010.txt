@@ -1,0 +1,833 @@
+Refusjonsrapport – insulin detemir (Levemir) til behandling av diabetes type 2
+hos pasienter med gjentatte hypoglykemier
+1
+
+OPPSUMMERING
+
+Formål: Å vurdere forhåndsgodkjent refusjon for insulin detemir (Levemir) etter
+forskrift av 28. juni 2007 nr. 814 om stønad til dekning av utgifter til viktige legemidler
+mv. (blåreseptforskriften) § 2.
+Medisinsk godkjent indikasjon: Behandling av diabetes mellitus hos voksne og
+ungdom og barn i alderen 6 - 17 år.
+Refusjon er søkt med følgende informasjon: Novo Nordisk søker om refusjon for
+pasienter med diabetes type 2 med gjentatt hypoglykemier ved behandling med NPHinsulin.
+Bakgrunn: Novo Nordisk har tidligere søkt om refusjon for pasienter med diabetes
+type 2 i 2008. Denne søknaden ble avslått av Legemiddelverket i juni 2009.
+Resultat: Novo Nordisk gjør en enkel analyse av merkostnadene ved bruk av insulin
+detemir sammenliknet med mereffektene i form av redusert frekvens av hypoglykemier.
+Redusert frekvens av hypoglykemier omgjøres til QALY vunnet slik at vi får en kostnad
+per QALY analyse. En grunnleggende forutsetning for Novo Nordisk analyse er at
+insulin detemir og NPH-insulin har lik effekt på alle andre parametre enn milde
+hypoglykemier. Legemiddelverket har i sin vurdering lagt avgjørende vekt på denne
+forutsetningen.
+Etter en gjennomgang av forliggende dokumentasjon finner Legemiddelverket det ikke
+rimelig å forutsette at insulin detemir og NPH-insulin har lik effekt på alle andre
+parametre enn milde hypoglykemier og ikke modellere de forskjeller som er funnet i
+studiene. Forutsetningen om lik effekt er usikker og Novo Nordisk analyse muliggjør
+ikke en vurdering av betydningen av denne usikkerheten for resultatene av analysen.
+Det er heller ikke dokumentert at mulige forskjeller bla. i Hba1c ikke kan ha avgjørende
+betydning for legemidlet kostnadseffektivitet. Videre er det heller ikke lagt fram ny
+dokumentasjon, særlig knyttet til kostnadseffektivitet i subgrupper, som gir grunnlag for
+å endre konklusjonen i Legemiddelverkets vurdering av den første søknaden om
+refusjon for pasienter med diabetes type 2.
+
+Brev stiles til Statens legemiddelverk. Vennligst oppgi vår referanse.
+Statens legemiddelverk
+Sven Oftedals vei 8, 0950 Oslo
+
+Telefon 22 89 77 00
+Telefaks 22 89 77 99
+
+www.legemiddelverket.no
+post@legemiddelverket.no
+
+Kto. 7694 05 00903
+Org.nr. NO 974 761 122
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+2/15
+
+Vedtak: Med hjemmel i legemiddelforskriftens § 14-21 er følgende vedtak fattet:
+Insulin detemir (Levemir) innvilges ikke generell refusjon etter folketrygdlovens § 5-14
+for pasienter med diabetes type 2. Vedtaket gjelder alle preparatets varenumre.
+Vedtaket er betinget i den forstand at det kan revurderes og endres dersom nye forhold
+som kan endre grunnlaget eller premissene for refusjonsvedtaket tilkommer.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+3/15
+
+INNHOLDSFORTEGNELSE
+1
+
+OPPSUMMERING....................................................................................................................................... 1
+
+2
+
+SØKNADSLOGG ......................................................................................................................................... 4
+
+3
+
+INTRODUKSJON/BAKGRUNN ................................................................................................................ 4
+3.1
+3.2
+
+BESKRIVELSE AV DET UNDERLIGGENDE HELSEPROBLEM ........................................................................ 4
+EKSISTERENDE BEHANDLINGSMULIGHETER............................................................................................ 4
+
+4
+
+BEHANDLING MED INSULIN DETEMIR (LEVEMIR)....................................................................... 4
+
+5
+
+EN LEGEMIDDELØKONOMISK ANALYSE AV INSULIN DETEMIR (LEVEMIR) ...................... 5
+5.1
+REFUSJONSSØKNADENS MODELL- OG METODEAPPARAT ......................................................................... 5
+5.2
+HELSEEFFEKTER, HELSEGEVINST VED ULIKE BEHANDLINGSALTERNATIV ............................................... 5
+5.2.1 Risiko for hypoglykemi ...................................................................................................................... 6
+5.2.2 Reduksjon i hypoglykemi med insulin detemir ................................................................................... 6
+5.2.3 Livskvalitetstap ved hypoglykemier ................................................................................................... 7
+5.3
+KOSTNADER ........................................................................................................................................... 8
+5.3.1 Legemiddelets kostnadseffektivitet ..................................................................................................... 9
+5.4
+SENSITIVITETSANALYSER. ...................................................................................................................... 9
+
+6
+
+DISKUSJON ............................................................................................................................................... 11
+6.1
+EN TOTALVURDERING (OG DRØFTING AV SØKNADENS BEGRENSNINGER OG METODESVAKHETER) ....... 11
+6.1.1 Er det rimelig å anta lik effekt på alle andre parametre enn milde hypoglykemier? ....................... 11
+6.1.2 Håndtering av usikkerhet. ................................................................................................................ 12
+6.1.3 Betydningen av eventuelle forskjeller for resultatene ...................................................................... 12
+6.1.4 Konsistens med tidligere refusjonsvurdering og mangel på ny dokumentasjon .............................. 13
+
+7
+
+KONKLUSJON .......................................................................................................................................... 13
+
+8
+
+REFERANSER ........................................................................................................................................... 15
+
+2010-09779-4
+
+2
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+SØKNADSLOGG
+
+Refusjonssøker:
+
+Novo Nordisk Scandinavia AS
+
+Preparat:
+Virkestoff:
+
+Levemir
+Insulin detemir
+Behandling av diabetes mellitus hos voksne og ungdom og barn i
+alderen 6 - 17 år.
+
+Indikasjon:
+
+ATC-nr:
+Søknadsprosess:
+
+3
+
+side
+4/15
+
+A10AE05
+Søknad mottatt Statens legemiddelverk:
+Saksbehandling startet:
+Opphold i saksbehandlingen:
+Vedtak fattet:
+Saksbehandlingstid:
+
+16-04-2007
+23-04-2007
+0 dager
+17-09-2010
+152 dager
+
+INTRODUKSJON/BAKGRUNN
+
+Novnordisk søker om refusjon for pasienter med diabetes type 2 med gjentatt hypoglykemier
+mens de bruker NPH-insulin.
+Novo Nordisk har tidligere søkt om refusjon for pasienter med diabetes type 2 i 2008. Denne
+søknaden ble avslått av Legemiddelverket i juni 2009.
+3.1
+
+Beskrivelse av det underliggende helseproblem
+
+Det vises til refusjonsrapporten for den første søknaden.
+3.2
+
+Eksisterende behandlingsmuligheter
+
+Det vises til refusjonsrapporten for den første søknaden.
+
+4
+
+BEHANDLING MED INSULIN DETEMIR (LEVEMIR)
+
+Det vises til refusjonsrapporten for den første søknaden.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+5
+
+EN LEGEMIDDELØKONOMISK ANALYSE AV INSULIN DETEMIR (LEVEMIR)
+
+5.1
+
+Refusjonssøknadens modell- og metodeapparat
+
+side
+5/15
+
+Problemstillingen i søknaden er om reduksjonen i hypoglykemier som insulin detemir gir
+sammenliknet med NPH-insulin kan forsvare de økte legemiddelkostnadene.
+Det finnes flere helseøkonomiske analyser av insulin detemir basert på komplekse langsiktige
+helseøkonomiske modeller – hvorav også noen for diabetes type 2. Søknaden er imidlertid
+ikke basert på disse modellene, men på en mer kortvarig enkel analyse. Begrunnelsen for
+dette er at hypoglykemi ikke var fokus for disse langsiktige modellene og at modellene ofte er
+veldig komplekse og vanskelige å forstå.
+Novo Nordisk gjør en enkel analyse av merkostnadene ved bruk av insulin detemir
+sammenliknet med mereffektene i form av redusert frekvens av hypoglykemier. Redusert
+frekvens av hypoglykemier omgjøres til QALY vunnet slik at vi får en kostnad per QALY
+analyse.
+Analysen har 4 trinn:
+1. Risiko for hypoglykemier hos pasienter med diabetes type 2 og som behandles med
+NPH-insulin.
+2. Reduksjonen i hypoglykemier ved behandling med insulin detemir sammenliknet med
+NPH-insulin.
+3. Livskvalitetstapet ved hypoglykemier.
+4. Behandlingskostnader.
+Insulin detemir kan brukes i kombinasjon med perorale antidiabetika eller som basal insulin
+alene eller sammen med hurtigvirkende insulin tatt ved måltidene. Refusjonssøknaden gjelder
+pasienter som har problemer med gjentatte hypoglykemier under behandling med NPHinsulin (brev fra Novo Nordisk). Den aktuelle problemstillingen gjelder altså bytte fra NPHinsulin.
+5.2
+
+Helseeffekter, helsegevinst ved ulike behandlingsalternativ
+
+Legemiddelverkets vurdering legger stor vekt på at Novo Nordisk analyse ikke tar hensyn til
+effekt på andre parametre enn milde hypoglykemier. Dette vil bli diskutert i kapitel 6. Her vil
+vi kort omtale noen andre sentrale punkter i Novo Nordisk analyse.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+6/15
+
+5.2.1 Risiko for hypoglykemi
+Rate av hypoglykemier hos pasienter med diabetes type 2 som behandles med NPH-insulin
+ble hentet fra en observasjonsstudie i Storbritannia (United Kingdom Hypoglycemia Study
+Group) som varte i 9 – 12 måneder (1). Deltakerne ble rekruttert fra 6 spesialistsentre og
+deltakere med diabetes type 2 ble delt inn i tre grupper: de som ble behandlet med
+sulfonylurea, de som hadde fått behandling med insulin under 2 år og det som hadde fått
+behandling med insulin i mer enn 5 år. Studien fokuserte ikke spesielt på pasientgruppen det
+er søkt refusjon for: pasienter med problemer med hypoglykemier ved behandling med
+insulin. Resultatene fra studien er gjengitt i tabell 1.
+Tabell 1. Hendelser per personår. Milde hypoglykemier.
+Gjennomsnitt
+Over 5 år insulinbehandling
+10,2
+Under 2 års
+4,08
+insulinbehandling
+
+Median
+2,7
+1
+
+Raten på 10,2 milde hypoglykemier per år per pasient brukes i analysens hovedalternativ.
+Dette antallet gjelder for pasienter som har stått på insulinbehandling i mer enn 5 år. For
+pasienter som har stått på insulin under 2 år fant studien ingen signifikant forskjell fra
+pasienter kun behandlet med sulfonylurea. Om raten som er brukt er representativ for
+pasientene det er søkt refusjon for er usikkert. Det er to faktorer som kan trekke i hver sin
+retning:
+1. Pasientene det er søkt refusjon for kan ha stått på insulinbehandling i ulik tid, men en
+del vil antagelig ha brukt insulin under 5 år noe som gjør at hypoglykemiraten
+antagelig er overdrevet.
+2. På den annen side er dataene hentet fra en studie på alle pasienter, ikke bare de som
+har særlige problemer med hypoglykemier. Dette kan tendere til å undervurdere raten
+hypoglykemier.
+Hvordan disse to forholdene slår ut samlet er usikkert.
+
+5.2.2 Reduksjon i hypoglykemifrekvens med insulin detemir
+Novo Nordisk har brukt en relativ risiko for milde hypoglykemier på 0,475 i sin analyse.
+Dette er oppgitt å være et enkelt gjennomsnitt av studiene til Hermansen (2) og PhilisTsimikas (3). Hermansen oppgir en relativ risiko på 53 % for enhver hypoglykemi og justert
+for Hba1c i baseline på 56 %. Philis-Tsimikas oppgir en relativ risiko på 47 % hos pasientene
+som fikk insulin detemir om kvelden. Gjennomsnittet skal dermed være 50 % og ikke 47,5 %
+som Novo Nordisk bruker. Tallet fra Philis Tisimikas er for bekreftede hypoglykemier mens
+Hermansens også inkluderer symptombaserte hypoglykemier.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+7/15
+
+Det kan stilles spørsmål ved dette valget av studier i og med at fokus i søknaden er pasienter
+som står på behandling med NPH-insulin, men har problemer med hypoglykemier. De to
+studiene til Philis-Tsimikas og Hermansen er gjort på pasienter som tidligere ikke har brukt
+insulin. Det viktige ved meta-analyser er å inkludere like studier og ekskludere de som ikke er
+sammenliknbare. Dette kan måles ved heterogenitet. Novo Nordisk har ikke gjort noen
+vurdering av dette. Vi vet dermed ikke om de to studiene er like nok til å slås sammen.
+Samtidig er det usikkert om det er andre studier som burde vært inkludert. En meta-analyse
+gjort for NICE (4) av effekten av detemir vs. NPH-insulin hos pasienter med diabetes type 2
+inkluderte 4 studier. To av studiene var studiene til Hermansen og Philis-Tsimikas nevnt over.
+De to andre studiene ble gjort på pasienter som tidligere hadde stått på insulinbehandling og
+hvor langtidsvirkende insulin ble gitt i tillegg til korttidsvirkende måltidsinsulin. I den ene
+studien (5) ble langtidsvirkende insulin gitt en eller to ganger om dagen og i den andre (6) en
+gang om dagen. Når det gjaldt alvorlig hypoglykemi var det ingen signifikant forskjell
+mellom detemir og NPH, men det var få hendelser og vidt konfidensintervall. Det var ingen
+heterogenitet mellom studiene. Når det gjaldt alle hypoglykemier (alvorlige, bekreftede milde
+og symptomatiske milde) var det signifikant redusert risiko for insulin detemir (RR 0,68 95 %
+KI 0,54 – 0,86). Det var imidlertid heterogenitet mellom studiene. Den relative risikoen er
+høyere enn den Novo Nordisk har brukt i sin analyse. Det ser dermed ut til at det er fare for at
+Novo Nordisk analyse ikke inkluderer alle relevante studier og at risikoreduksjonen for milde
+hypoglykemier dermed overdrives.
+
+5.2.3 Livskvalitetstap ved hypoglykemier
+Hypoglykemier kan påvirke livskvaliteten til pasientene kortvarig så lenge de varer men
+påvirker antagelig særlig livskvaliteten gjennom frykt for hypoglykemier (7). Novo Nordisk
+analyse benytter nyttetapet knyttet til en hendelse (dvs. at det varige nyttetapet i form av frykt
+er fordelt på hver enkelt hendelse). Dette er basert på en studie av nyttetapet ved milde
+symptomatiske hypoglykemier gjort på personer med og uten diabetes i Canada og
+Storbritannia (8).
+Studien ble gjort på 51 personer med diabetes i Canada og 153 personer uten diabetes i
+Canada og Storbritannia. Nytte ble målt ved direkte måling av time-trade-off (TTO) i
+personlige intervjuer. Personene verdsatte 4 helsetilstander: diabetes uten hypoglykemier,
+sjelden hypoglykemi (en gang i kvartalet), regelmessig (hver måned) og ofte (hver uke). I
+beskrivelsen av hypoglykemitilstandene lå ikke bare frekvens men også kortsiktige
+symptomer (svimmelhet, hodepine osv) og langvarige konsekvenser (frykt og
+forsiktighetstiltak som preger hverdagen).
+Nyttetapet ved hypoglykemier ble målt ved hjelp av regresjonsanalyser (vanlig minste
+kvadraters metode og FLogit) der man kontrollerte for alder, kjønn, utdannelse, type diabetes,
+Hba1c og insulindosering. Hos personer i Canada med diabetes fant man et nyttetap per
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+8/15
+
+hypoglykemi på 0,0033 og det er dette tallet som er brukt i analysen til Novo Nordisk.
+Studien målte nyttetapet ved milde symptomatiske hypoglykemier. Risikoreduksjonen for
+hypoglykemier ved bruk av insulin detemir er imidlertid basert på milde bekreftede
+hypoglykemier.
+Oppdelingen av frekvens av hypoglykemier i livskvalitetsstudien er ikke på intervallskala,
+men beskrevet som ukentlig, månedlig og kvartalsvis. Denne inndelingen er antagelig ikke
+egnet til å beregne nyttetapet ved en hypoglykemi til på en nøyaktig måte. Regresjonsmetoden
+som er brukt forutsetter at nyttetapet er lineært, dvs. at det er like stort uavhengig av om
+pasienten har få eller mange hypoglykemier i utgangspunktet. Dokumentasjonen for dette er
+svak. Man kunne f. eks tenke seg at nyttegevinsten ved å redusere antallet hypoglykemier
+varierte med antall hypoglykemier pasientene har i utgangspunktet. Dataene om nyttetap ved
+hypoglykemier synes derfor usikre.
+5.3
+
+Kostnader
+
+Analysen har et helsetjenesteperspektiv. Analysen ser kun på legemiddelkostnader og antar at
+alle andre kostnader er like. Det er ikke antatt noen kostnader ved milde hypoglykemier.
+Tabell 2. Legemiddelkostnader
+Kostnad per
+pakke eks
+mva
+
+Kostnad per
+IE
+
+Kostnad
+per dag 40
+IE
+
+Kostnad
+per dag 20
+IE
+
+Kostnader
+per dag 60 IE
+
+Insulatard FlexPen 3x5 ml
+
+293,2
+
+0,20
+
+7,82
+
+3,91
+
+11,73
+
+Insulatard pris per aug 2010
+
+274,72
+
+0,18
+
+7,33
+
+3,66
+
+10,99
+
+Levemir FlexPen 3x5 ml
+
+489,84
+
+0,33
+
+13,06
+
+6,53
+
+19,59
+
+Levemir pris per aug 2010
+
+459,28
+
+0,31
+
+12,25
+
+6,12
+
+18,37
+
+Tabellen viser legemiddelkostnader eks. mva. som Novo Nordisk har brukt i sin analyse.
+Prisen på begge legemidler har sunket siden Novo Nordisk sendte inn sin søknad og den nye
+prisen er også vist i tabellen. Prisfallet har ført til at merkostnaden ved bruk av insulin levemir
+har sunket litt. Med prisen Novo Nordisk har brukt kostet insulin detemir 5,24 kroner mer per
+dag ved 40 IE, mens merkostnaden nå er 4,92 kroner.
+Det er antatt at det brukes lik dose av detemir og insulin detemir. Om dette er tilfelle i klinisk
+praksis er usikkert. I studien til Philis-Tsimikas var gjennomsnittlig dose 33 IE i gruppen som
+fikk NPH om kvelden og 37 IE i gruppen som fikk insulin detemir om kvelden (3).
+Forskjellen var ikke signifikant. Både NPH og insulin detemir kan imidlertid tas om
+morgenen eller 2 ganger om dagen hvilket kan gi en annen dosering. I studien til PhilisTsimikas var doseringen i gruppen som fikk insulin detemir om morgenen 43 IE. I studien til
+Hermansen var dosering av NPH insulin 45 IE per dag mot 65,6 IE for insulin detemir (2).
+Begge legemidler ble gitt to ganger om dagen. Også i studien til Rosenstock der insulin
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+9/15
+
+detemir ble sammenliknet med insulin glargin brukte pasienter som tok detemir 2 ganger om
+dagen flere IE enn pasienter som tok detemir 1 gang om dagen (1,0 IE per kg vs. 0,52 IE per
+kg) (9). CEDAC skriver at i de fleste studiene på type 2 diabetes var detemirdosen høyere enn
+NPH-dosen selv om forskjellen ikke alltid var signifikant (10). Det er derfor fare for at Novo
+Nordisk analyse undervurderer doseringsforskjellen og dermed kostnadsforskjellen mellom
+insulin detemir og NPH-insulin.
+5.3.1 Legemiddelets kostnadseffektivitet
+Tabell 3. Mereffekt, merkostnader og kostnadseffektivitet ved insulin detemir
+Rate
+hypoglykemier
+NPH
+Effekt
+
+RR Levemir
+10
+
+Pris per enhet
+NPH
+Kostnad
+Kostnad per
+QALY
+
+Rate
+hypoglykemier
+Detemir
+
+0,475
+
+4,75
+
+Pris per enhet
+detemir
+IE per dag
+
+0,20
+
+0,33
+
+Forskjell i
+antall hypoglykemier
+5,25
+Årlig kostnad
+NPH
+
+40
+
+2854
+
+Nyttetap per
+hypoglykemi Nytte gevinst
+0,0033
+0,017325
+Årlig
+kostnad
+detemir
+Merkostnad
+4768
+
+1914
+110474
+
+Kilde: refusjonssøknaden.
+Resultatene av Novo Nordisk analyse er gjengitt i tabell 3. Bruk av insulin detemir gir en årlig
+gevinst på litt over 5 hypoglykemier beregnet til en nyttegevinst på 0,017. Merkostnaden per
+år er 1 914 kroner hvilket gir en kostnad per QALY vunnet på ca 110 000 kroner.
+Med dagens priser synker merkostnaden per år til litt under 1800 kroner noe som gir en
+kostnad per QALY vunnet på ca 104 000 kroner.
+5.4
+
+Sensitivitetsanalyser.
+
+Sensitivitetsanalysene er basert på de opprinnelige prisene.
+Beregningen av mereffekt bygger på relativ risiko samtidig som nyttetapet beregnes per
+hypoglykemi. Dette betyr at kostnadseffektiviteten er avhengig av raten hypoglykemier i
+utgangspunktet (i NPH-gruppen). Dette er vist i tabell 4.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+10/15
+
+Tabell 4. Kostnad per QALY ved ulike antall hypoglykemier per år.
+Antall
+hypoglykemier
+
+Kostnad per
+QALY
+2
+
+552 000
+
+4
+
+276 000
+
+6
+
+184 000
+
+8
+
+138 000
+
+12
+
+92 000
+
+20
+
+55 000
+
+Kostnadseffektiviteten er også avhengig av den relative risikoen for hypoglykemier ved
+behandling med insulin detemir. Ved bruk av laveste, henholdsvis høyeste del av
+konfidensintervallet (0,35 og 0,65) i studien til Hermansen blir kostnadseffektiviteten
+henholdsvis 89 000 kroner og 165 000 kroner per QALY vunnet.
+Analysens resultater er også følsomme for nyttetapet ved hypoglykemier. Ved 50 % lavere
+nyttetap øker kostnaden per QALY vunnet til 221 000 kroner mens den synker til 74 000
+kroer ved 50 % høyere nyttetap.
+Videre er analysens resultater også følsomme for insulindose per dag. Ved insulindose på 20
+IE per dag blir kostnad per QALY vunnet 55 000 kroner mens den blir 165 000 kroner ved 60
+IE per dag.
+Novo Nordisk gjør også to flerveis sensitivitetsanalyser. Den ene er et worst case scenario
+med 60 IE insulin per dag, hypoglykemirate på 4,08, relativ risiko på 0,65 og 50 % lavere
+nyttetap per hypoglykemi. Dette gir en kostnad per QALY vunnet på 1,218 mill. kroner. Den
+andre er et best case scenario med 20 IE insulin per dag, hypoglykemirate på 10, relativ risiko
+på 0,35 og nyttetap per hypoglykemi på 0,0052. Dette gir en kostnad per QALY vunnet på
+28 000 kroner.
+Probabilistiske sensitivitetsanalyser er ikke utført.
+Samlet sett har analysen svakheter knyttet til inkonsistens i pasientpopulasjonene de ulike
+dataene er hentet fra og usikkerhet knyttet til utvalg av studier. Det er fare for at rate
+hypoglykemier i NPH-gruppen og risiko reduksjonen ved bruk av insulin detemir er
+overvurdert. Livskvalitetstapet knyttet til hypoglykemier er beheftet med stor usikkerhet.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+6
+
+DISKUSJON
+
+6.1
+
+En totalvurdering (og drøfting av søknadens begrensninger og
+metodesvakheter)
+
+21-09-2010
+
+side
+11/15
+
+En grunnleggende forutsetning for Novo Nordisk analyse er at insulin detemir og NPHinsulin har lik effekt på alle andre parametre enn milde hypoglykemier. Denne forutsetningen
+reiser flere spørsmål som vil bli diskutert under.
+
+6.1.1 Er det rimelig å anta lik effekt på alle andre parametre enn milde
+hypoglykemier?
+Novo Nordisk forutsetter lik effekt på parametre som blodsukkerkontroll (Hba1c), vekt,
+dosering og alvorlige hypoglykemier. Er dette rimelig antagelser?
+La oss først se på dokumentasjonen for effekt på Hba1c. Den relative risikoen for
+hypoglykemier i analysen hentes fra de to studiene av Hermansen (2) og Philis-Tsimikas (3).
+Ser vi på effekt på Hba1c i disse studiene var forskjellen i Hba1c ved studieslutt, justert for
+forskjellene i baseline, 0,1 % i favør av NPH-insulin i studien til Philis-Tsimikas og 0,13 % i
+favør av NPH-insulin i studien til Hermansen. Ingen av forskjellene var signifikante.
+Som vi har sett over kan det stilles spørsmål ved utvalget av studier. En meta-analyse gjort for
+NICE (4) av effekten av detemir vs. NPH hos pasienter med diabetes type 2 inkluderte 4
+studier. Når det gjaldt Hba1c viste meta-analysen 0,07 % lavere Hba1c i NPH-gruppen, men
+forskjellen var ikke signifikant. Det var ingen heterogenitet mellom studiene. Forskjellen i
+Hba1c ble brukt i den helseøkonomiske modellen.
+Canadian Expert Drug Advisory Committee (CEDAC) har anbefalt at insulin detemir ikke
+refunderes for pasienter med diabetes type 2, bla. basert på en rapport fra Common Drug
+Review. I denne rapporten gjøres en meta-analyse basert på 7 studier, hvorav ikke alle er
+publisert, der man fant at insulin detemir gir statistisk signifikant dårligere effekt på Hba1c
+enn NPH-insulin (10).
+Kunnskapsoppsummering gjort for NICE finner at det ikke var signifikant forskjell i andel
+pasienter med alvorlig hypoglykemi mellom insulin detemir og NPH-insulin (4). Det var
+ingen heterogenitet mellom studiene. Når det gjaldt effekt på vekt fant den samme
+kunnskapsoppsummeringen at de 4 studiene viste at pasienter som brukte insulin detemir la
+på seg mindre enn pasienter som brukte NPH-insulin – i gjennomsnitt 1,2 kg. Man kunne
+imidlertid ikke utføre en formell meta-analyse pga for mange manglende standardavvik. I tre
+av studiene (2, 3, 6) ga insulin detemir signifikant lavere vektøkning.
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+12/15
+
+Som vi så over var det en tendens til at det ble brukt høyere dose insulin detemir enn NPHinsulin i studiene.
+Når det gjelder Hba1c, alvorlige hypoglykemier og dosering er det i beste fall usikkert om
+insulin detemir har samme effekt som NPH-insulin. Når det gjelder vekt synes insulin detemir
+å gi signifikant lavere vektøkning selv om forskjelle er liten. Det synes dermed ikke rimelig å
+konkludere med at insulin detemir og NPH-insulin har lik effekt på alle andre parametre enn
+milde hypoglykemier.
+
+6.1.2 Håndtering av usikkerhet.
+Som vist i punkt 6.1.1 er effekten av insulin detemir sammenliknet med NPH-insulin på
+Hba1c, alvorlige hypoglykemier og dosering usikker. Novo Nordisk analyse tar ikke hensyn
+til denne usikkerheten og vi får dermed ikke gjort noen vurdering av dens betydning for
+insulin detemirs kostnadseffektivitet. Vurdering av usikkerheten og begrensninger i
+dokumentasjonen er nødvendig for å vurdere et legemiddels kostnadseffektivitet og vurdere
+konsekvensene av en usikker beslutning (11). Risikoreduksjonen for hypoglykemier i
+studiene er oppnådd med mindre forskjeller i reduksjon og sluttverdi i Hba1c. Hvordan
+effekten på hypoglykemier ville vært hvis effekten på Hba1c hadde vært eksakt lik er
+usikkert. Novo Nordisk analyse fanger ikke opp korrelasjonen mellom disse to parametrene.
+CEDAC skriver følgende i sin anbefaling om ikke å refundere insulin detemir for pasienter
+med diabetes type 2 i Canada: Hba1c og hypoglykemiske episoder bør sees i sammenheng
+fordi høyere Hba1c nivåer kan føre til lavere insidens av hypoglykemier
+
+6.1.3 Betydningen av eventuelle forskjeller for resultatene
+Det gjenstår imidlertid et spørsmål om betydningen av eventuelle forskjeller.
+Kostnadsminimeringsanalyser bør kun gjennomføres når det er rimelig sikkert at legemidlene
+er så like at det er lite sannsynlig at eventuelle mindre forskjeller vil påvirke
+kostnadseffektiviteten i betydelig grad.
+Her er det to momenter av betydning.
+1. Design av studiene. Novo Nordisk har fremholdt at studiene er designet for å gi
+omtrent lik effekt i Hba1c, i og med at dosering av insulin titreres mot et
+behandlingsmål om å komme under et visst nivå i Hba1c. Det er imidlertid viktig å
+huske på at selv om det er en målsetning i studiene å komme under enn viss Hba1c
+grense er det ikke gitt at alle greier det f. eks pga hypoglykemier. Dermed kan det
+oppstå forskjeller i Hba1c mellom legemidlene selv om målsetningen er å få
+pasientene under en viss grense. Om pasient og lege velger å utnytte den mulige
+fordelen insulin detemir kan gi ved å presse Hba1c lavest mulig ned eller å blir stående
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+13/15
+
+på en noe høyere Hba1c, men med mindre hypoglykemier vil være individuelt. Selv
+om studiene er designet slik at det er et behandlingsmål å komme under en viss grense
+er det dermed ikke gitt at pasientene i klinisk praksis vil få lik Hba1c med de to
+legemidlene.
+2. Den tidligere søknaden om refusjon av insulin detemir for pasienter med diabetes type
+2 viser at kostnadseffektiviteten er følsom for små justeringer i Hba1c. Den tidligere
+søknaden gjorde en full modellering av kostnadseffektiviteten til insulin detemir ved
+hjelp av CORE-modellen. Sensitivitetsanalyser viste at modellens resultater var meget
+følsomme for små justering i effekten på Hba1c.
+Designet i studiene tilsier dermed ikke at det ikke vil oppstå forskjeller i Hba1c og resultater
+fra CORE-modellen viser at det er sannsynlig at slike små forskjeller i betydelig grad vil
+kunne påvirke legemidlets kostnadseffektivitet.
+
+6.1.4 Konsistens med tidligere refusjonsvurdering og mangel på ny
+dokumentasjon
+I den forrige vurderingen av insulin detemir ble det lagt vekt på at Legemiddelverket som
+regel aksepterer og oppfordrer til bruk av statistisk ikke-signifikante effektforskjeller i
+kostnadseffektivitetsanalysene når data kommer fra gode, relevante kontrollerte studier.
+Videre skrev Legemiddelverket at det synes inkonsistent å bruke studieverdier for den ene
+parameteren (hypoglykemier), men endre på den andre effektvariablen (Hba1c). Det er i den
+nye søknaden ikke lagt fra dokumentasjon som tilsier at Legemiddelverket bør avvike fra
+dette prinsippet.
+Legemiddelverket i den forrige vurderingen gjorde også betraktninger om
+kostnadseffektiviteten i subgruppen som ikke oppnådde behandlingsmålet pga
+hypoglykemier. Det ble imidlertid konkludert med at man ikke ville gi refusjon for en slik
+subgruppe fordi det var usikkert om insulin detemir var kostnadseffektivt i denne gruppen og
+pga usikkerheten knyttet til etterlevelse, avgrensning og kontroll av refusjonsvilkår. Det har i
+den nye søknaden ikke tilkommet ny dokumentasjon som tilsier å endre denne konklusjonen.
+
+7
+
+KONKLUSJON
+
+En grunnleggende forutsetning for Novo Nordisk analyse er at insulin detemir og NPHinsulin har lik effekt på alle andre parametre enn milde hypoglykemier. Denne forutsetningen
+er imidlertid usikker og Novo Nordisk analyse muliggjør ikke en vurdering av betydningen av
+denne usikkerheten for resultatene av analysen. Det er heller ikke dokumentert at disse mulige
+forskjellene bla i Hba1c ikke kan ha avgjørende betydning for legemidlet kostnadseffektivitet.
+Videre er det heller ikke lagt fram ny dokumentasjon, særlig knyttet til kostnadseffektivitet i
+
+2010-09779-4
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+14/15
+
+subgrupper, som gir grunnlag for å endre konklusjonen i Legemiddelverkets vurdering av den
+første søknaden om refusjon for pasienter med diabetes type 2.
+Med hjemmel i legemiddelforskriftens § 14-21 er følgende vedtak fattet:
+Insulin detemir (Levemir) innvilges ikke generell refusjon etter folketrygdlovens § 5-14 for
+pasienter med diabetes type 2. Vedtaket gjelder alle preparatets varenumre.
+Vedtaket er betinget i den forstand at det kan revurderes og endres dersom nye forhold som
+kan endre grunnlaget eller premissene for refusjonsvedtaket tilkommer.
+Individuell refusjon
+Det kan søkes om individuell refusjon etter blåreseptforskriftens § 3 a for enkeltpasienter.
+Det er utarbeidet særlige retningslinjer for saksbehandlingen av slike søknader, vedlegg 1 til §
+5-14 for insulin detemir.
+
+Statens legemiddelverk, 21-09-2010
+
+Kristin Svanqvist (e.f.)
+seksjonssjef
+Lars Granum
+seniorrådgiver
+
+Pilar Martin
+forsker
+
+2010-09779-4
+
+8
+
+LØ/LR/Lars
+Granum
+
+21-09-2010
+
+side
+15/15
+
+REFERANSER
+
+1.
+UKHSG. Risk of hypoglycaemia in types 1 and 2 diabetes: effects of treatment modalities and
+their duration. Diabetologia. 2007 Jun;50(6):1140-7.
+2.
+Hermansen K, Davies M, Derezinski T, Martinez Ravn G, Clauson P, Home P. A 26-week,
+randomized, parallel, treat-to-target trial comparing insulin detemir with NPH insulin as add-on
+therapy to oral glucose-lowering drugs in insulin-naive people with type 2 diabetes. Diabetes Care.
+2006 Jun;29(6):1269-74.
+3.
+Philis-Tsimikas A, Charpentier G, Clauson P, Ravn GM, Roberts VL, Thorsteinsson B.
+Comparison of once-daily insulin detemir with NPH insulin added to a regimen of oral antidiabetic
+drugs in poorly controlled type 2 diabetes. Clin Ther. 2006 Oct;28(10):1569-81.
+4.
+Waugh N, Cummins E, Royle P, Clar C, Marien M, Richter B, et al. Newer agents for blood
+glucose control in type 2 diabetes: systematic review and economic evaluation. Health Technol
+Assess. Jul;14(36):1-248.
+5.
+Haak T, Tiengo A, Draeger E, Suntum M, Waldhausl W. Lower within-subject variability of
+fasting blood glucose and reduced weight gain with insulin detemir compared to NPH insulin in
+patients with type 2 diabetes. Diabetes Obes Metab. 2005 Jan;7(1):56-64.
+6.
+Fajardo Montanana C, Hernandez Herrero C, Rivas Fernandez M. Less weight gain and
+hypoglycaemia with once-daily insulin detemir than NPH insulin in intensification of insulin therapy
+in overweight Type 2 diabetes patients: the PREDICTIVE BMI clinical trial. Diabet Med. 2008
+Aug;25(8):916-23.
+7.
+NICE. Technology Appraisal Guidance No. 53: Guidance on the use of long acting insulin
+analogues for the treatment of diabetes - insulin glargine. 2002.
+8.
+Levy AR, Christensen TL, Johnson JA. Utility values for symptomatic non-severe
+hypoglycaemia elicited from persons with and without diabetes in Canada and the United Kingdom.
+Health Qual Life Outcomes. 2008;6:73.
+9.
+Rosenstock J, Davies M, Home PD, Larsen J, Koenen C, Schernthaner G. A randomised, 52week, treat-to-target trial comparing insulin detemir with insulin glargine when administered as addon to glucose-lowering drugs in insulin-naive people with type 2 diabetes. Diabetologia. 2008
+Mar;51(3):408-16.
+10.
+CADTH. CEDAC final recommendation: Insulin Detemir Resubmission #2. 2009.
+11.
+NICE. Updated guide to the methods of technology appraisal - June 2008. 2008.
+
+

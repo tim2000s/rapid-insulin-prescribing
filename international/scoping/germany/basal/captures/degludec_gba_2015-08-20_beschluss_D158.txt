@@ -1,0 +1,842 @@
+BAnz AT 28.10.2015 B1
+
+
+
+
+Beschluss
+des Gemeinsamen Bundesausschusses
+über eine Änderung der Arzneimittel-Richtlinie
+(AM-RL): Anlage XII - Beschlüsse über die
+Nutzenbewertung von Arzneimitteln mit neuen
+Wirkstoffen nach § 35a SGB V –
+Insulin degludec (neues Anwendungsgebiet)
+
+
+Vom 20. August 2015
+Der Gemeinsame Bundesausschuss (G-BA) hat in seiner Sitzung am 20. August 2015
+beschlossen, die Richtlinie über die Verordnung von Arzneimitteln in der vertragsärztlichen
+Versorgung (Arzneimittel-Richtlinie) in der Fassung vom 18. Dezember 2008 /
+22. Januar 2009 (BAnz. Nr. 49a vom 31. März 2009), zuletzt geändert am 6. August 2015
+(BAnz AT 12.10.2015 B2), wie folgt zu ändern:
+
+I.   In Anlage XII werden den Angaben zur Nutzenbewertung von Insulin degludec in
+     dem Anwendungsgebiet „Insulin degludec (Tresiba®) ist angezeigt zur
+     Behandlung des Diabetes mellitus bei Erwachsenen“ gemäß dem Beschluss vom
+     16. April 2014 sowie den Angaben zur Nutzenbewertung von Insulin degludec in
+     dem Anwendungsgebiet „Insulin degludec (Tresiba®) ist angezeigt zur
+     Behandlung des Diabetes mellitus bei Erwachsenen (Kombination von Insulin
+     degludec mit GLP-1-Rezeptor-Agonisten zur Behandlung des Diabetes mellitus
+     Typ 2 bei Erwachsenen)“ vom 04.12.2014 nach Nummer 4 folgende Angaben
+     angefügt:
+BAnz AT 28.10.2015 B1
+
+
+
+
+Insulin degludec
+
+Beschluss vom:        20. August 2015
+In Kraft getreten am: 20. August 2015
+BAnz AT TT. MM JJJJ Bx
+
+Zugelassenes Anwendungsgebiet:
+Behandlung des Diabetes mellitus bei Erwachsenen, Jugendlichen und Kindern ab dem Alter
+von 1 Jahr.
+
+Der vorliegende Beschluss bezieht sich ausschließlich auf das neu zugelassene
+Anwendungsgebiet vom 30. Januar 2015 (größere Änderung des Typs 2 nach Anhang 2
+Nummer 2 Buchstabe a der Verordnung (EG) Nr. 1234/2008 der Kommission vom 24.
+November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und
+Tierarzneimitteln), d. h. auf die Behandlung des Diabetes mellitus bei Jugendlichen und
+Kindern ab dem Alter von 1 Jahr.
+
+
+
+1.     Zusatznutzen des Arzneimittels im Verhältnis zur zweckmäßigen Vergleichs-
+      therapie
+
+
+a)        Behandlung des Diabetes mellitus Typ 1 bei Jugendlichen und Kindern ab 1 Jahr:
+          Zweckmäßige Vergleichstherapie: Humaninsulin
+
+
+          Ausmaß und Wahrscheinlichkeit des Zusatznutzens gegenüber Humaninsulin 1:
+          Ein Zusatznutzen ist nicht belegt.
+
+
+b)        Behandlung des Diabetes mellitus Typ 2 bei Jugendlichen und Kindern ab 1 Jahr in
+          der Monotherapie:
+          Zweckmäßige Vergleichstherapie: Humaninsulin
+
+
+          Ausmaß und Wahrscheinlichkeit des Zusatznutzens gegenüber Humaninsulin:
+          Ein Zusatznutzen ist nicht belegt.
+
+c)        Behandlung des Diabetes mellitus Typ 2 bei Jugendlichen und Kindern ab 1 Jahr in
+          Kombination mit anderen Antidiabetika:
+          Zweckmäßige Vergleichstherapie: Humaninsulin plus Metformin
+          (Hinweis: Wenn Metformin gemäß Fachinformation                 nicht   geeignet   ist,   ist
+          Humaninsulin als Therapieoption einzusetzen)
+
+
+
+
+1
+    Die vergleichende Bewertung erfolgt auf der Grundlage eines direkten Vergleichs von Insulin
+    degludec in Kombination mit einem kurzwirksamen Insulin-Analogon (Insulin aspart) gegenüber der
+    Kombination aus einem langwirksamen Insulin-Analogon (Insulin detemir) mit einem kurzwirksamen
+    Insulin-Analogon (Insulin aspart).
+
+2
+BAnz AT 28.10.2015 B1
+
+
+
+
+        Ausmaß und Wahrscheinlichkeit des Zusatznutzens gegenüber Humaninsulin
+        (plus Metformin):
+        Ein Zusatznutzen ist nicht belegt.
+
+
+
+
+Studienergebnisse nach Endpunkten:
+
+a)      Behandlung des Diabetes mellitus Typ 1 bei Jugendlichen und Kindern ab 1 Jahr
+
+        Studie NN1250-3561
+
+                                   Intervention                 Kontrolle          Intervention vs.
+                                Insulin degludec +          Insulin detemir +          Kontrolle
+                                  Insulin aspart              Insulin aspart      (Insulin degludec
+                                                                                   + Insulin aspart
+                                                                                      vs. Insulin
+Endpunktkategorie
+                                        Patienten mit                             detemir + Insulin
+                                                                  Patienten mit         aspart)
+Endpunkt                            N   Ereignissen        N
+                                                                Ereignissen n (%)          RR
+                                            n (%)
+                                                                                       [95 %-KI]
+                                                                                         p-Wert
+Mortalität
+Gesamtmortalität
+                                                                                          n.b.
+26 Wochen                       174         0 (0)        175           0 (0)
+                                                                                        > 0,999
+                                                                                          n.b.
+52 Wochen                       174         0 (0)        175           0 (0)
+                                                                                        > 0,999
+Morbidität
+                                                                                   Intervention vs.
+                                                                                       Kontrolle
+                    Intervention                        Kontrolle               (Insulin degludec +
+             Insulin degludec + Insulin         Insulin detemir + Insulin            Insulin aspart
+                       aspart                            aspart                            vs.
+                                                                                  Insulin detemir +
+                                                                                    Insulin aspart)
+                                  Werte                  Werte
+                         Werte                                       Werte             MWD
+                                 Studien-               Studien-
+                        Studien-                                    Studien-
+               N                  ende          N        beginn                      [95 %-KI]
+                         beginn                                      ende
+                                  MW a                    MW                           p-Wert
+                        MW (SD)                           (SD)      MW a (SD)
+                                   (SD)
+Veränderung des HbA1c-Wertes
+26                                                                               0,15 [-0,03; 0,32]b
+             174        8,2 (1,1)   8,0 (1,1)   176     8,0 (1,1)   7,7 (1,0)
+Wochen                                                                                  k.A.
+
+52                                                                              -0,01 [-0,20; 0,19]b
+             174        8,2 (1,1)   7,9 (1,1)   176     8,0 (1,1)   7,8 (1,1)
+Wochen                                                                                  k.A.
+
+
+                                                                                                       3
+BAnz AT 28.10.2015 B1
+
+
+
+
+                                                                                  Intervention vs.
+                                                                                      Kontrolle
+                     Intervention                         Kontrolle            (Insulin degludec +
+              Insulin degludec + Insulin          Insulin detemir + Insulin         Insulin aspart
+                        aspart                             aspart                         vs.
+                                                                                 Insulin detemir +
+                                                                                   Insulin aspart)
+                                      Änderung                     Änderung
+                          Werte                         Werte
+                                        zum                           zum             MWD
+                         Studien-                       Studien-
+            N                         Studien- N                    Studien-        [95 %-KI]
+                          beginn                        beginn
+                                        ende                         ende            p-Wertc
+                        MW (SD)                         MW (SD)
+                                     MW a (SD)                     MW a (SD)
+BMI
+26                                                                              0,30 [0,08; 0,52]
+             174        18,7 (3,6)    0,4 (1,1)   175 18,5 (3,5)   0,1 (1,0)
+Wochen                                                                               0,008c
+52                                                                              0,60 [0,34; 0,86]
+             174        18,7 (3,6)    0,7 (1,3)   175 18,5 (3,5)   0,1 (1,2)
+Wochen                                                                              < 0,001c
+Gesundheitsbezogene Lebensqualität
+Es wurden keine Daten zur Lebensqualität in der Studie NN1250-3561 erhoben.
+                                Intervention            Kontrolle
+                                                                        Intervention vs. Kontrolle
+                             Insulin degludec +     Insulin detemir +       (Insulin degludec +
+Endpunkt-                      Insulin aspart         Insulin aspart     Insulin aspart vs. Insulin
+kategorie
+                                 Patienten mit            Patienten mit detemir + Insulin aspart)
+                         N       Ereignissen      N       Ereignissen                RR
+Endpunkt
+                                 n (%)                    n (%)               [95 %-KI] p-Wert
+
+Nebenwirkungen
+
+UE
+
+26 Wochen                174         145 (83,3)   175      142 (81,1)
+
+52 Wochen                174         161 (92,5)   175      157 (89,7)
+
+SUE
+
+26 Wochen                174          12 (6,9)    175       11 (6,3)     1,10 [0,50; 2,42] 0,877d
+
+52 Wochen                174         18 (10,3)    175       16 (9,1)     1,13 [0,60; 2,15] 0,762d
+
+Abbruch wegen UE
+
+26 Wochen                174           0 (0)      175        2 (1,1)     0,20 [0,01; 4,16]e,f 0,170d
+
+52 Wochen                174           0 (0)      175        3 (1,7)     0,14 [0,01; 2,76]e,f 0,087d
+
+schwere Hypoglykämien
+
+26 Wochen                174         24 (13,8)     175      17 (9,7)     1,38 [0,77; 2,49]g 0,246d
+
+52 Wochen                174         31 (17,8)     175      24 (13,7)    1,22 [0,75; 1,98]g 0,301d
+
+
+
+4
+BAnz AT 28.10.2015 B1
+
+
+
+
+                               Intervention           Kontrolle
+                            Insulin degludec +    Insulin detemir + Intervention vs. Kontrolle
+                              Insulin aspart        Insulin aspart      (Insulin degludec +
+Endpunkt-
+                                                                     Insulin aspart vs. Insulin
+kategorie                                               Patienten
+                                Patienten mit                        detemir + Insulin aspart)
+                                                        mit                      RR
+Endpunkt                N       Ereignissen      N
+                                                        Ereignissen       [95 %-KI] p-Wert
+                                n (%)
+                                                        n (%)
+
+Nebenwirkungen
+
+symptomatische Hypoglykämien
+
+symptomatische Hypoglykämien (Plasmaglukose < 56 mg/dl)
+
+                        174
+26 Wochen                          156 (89,7)    175     152 (86,9)     1,03 [0,96; 1,11] 0,497d
+
+
+52 Wochen               174        163 (93,7)    175     160 (91,4)     1,02 [0,97; 1,09] 0,497d
+
+symptomatische Hypoglykämien (Plasmaglukose ≤ 70 mg/dl)
+
+26 Wochen               174        161 (92,5)    175     159 (90,9)     1,02 [0,96; 1,08]e 0,669d
+
+52 Wochen               174        166 (95,4)    175     163 (93,1)     1,02 [0,97; 1,08]e 0,461d
+
+symptomatische Hyperglykämienh
+
+                                                                      1,00 [0,86; 1,16]e; >0,999d;
+26 Wochen               174        116 (66,7)    175     117 (66,9)
+                                                                      Rate Ratio [95%-KI]:
+                                                                      0,79 [0,52; 1,21]
+                                                                      1,03 [0,91; 1,16]e; 0,683d;
+52 Wochen               174        132 (100)     175     129 (100)
+                                                                      Rate Ratio [95%-KI]:
+                                                                      0,78 [0,52; 1,18]
+symptomatische Hyperglykämien mit Ketosen
+
+26 Wochen
+                        Es liegen keine verwertbaren Daten vor.
+52 Wochen
+
+Ketoazidosen (PT-Auswertung)
+
+26 Wochen               174          0 (0)       175       0 (0)              n.b; > 0,999
+
+
+52 Wochen               174         2 (1,1)      175       0 (0)      5,03 [0,24; 103,99]e,f 0,169d
+
+
+
+                                                                                                    5
+BAnz AT 28.10.2015 B1
+
+
+
+
+Häufige Nebenwirkungen (im SOC)
+                                     Intervention                   Kontrolle
+                              Insulin degludec + Insulin    Insulin detemir + Insulin
+                                        aspart                       aspart
+SOC (und im PT≥ 5%)
+                                          Patienten mit                 Patienten mit
+                              N = 174    mind. 1 Ereignis   N = 175    mind. 1 Ereignis
+                                              n (%)                         n (%)
+26 Wochen
+Infektionen und parasitäre              107 (62)                      105 (60)
+Erkrankungen
+Erkrankungen des Gastro-                57 (33)                       49 (28)
+intestinaltrakts
+Erkrankungen des Nerven-                45 (26)                       49 (28)
+systems
+Erkrankungen der Atemwege,
+des Brustraums und                      47 (27)                       49 (28)
+Mediastinums
+Allgemeine Erkrankungen und
+Beschwerden am                          44 (25)                       30 (17)
+Verabreichungsort
+Stoffwechsel- und                       27 (16)                        16 (9)
+Ernährungsstörungen
+52 Wochen
+
+Infektionen und parasitäre              133 (76)                      123 (70)
+Erkrankungen
+
+Erkrankungen des Gastro-                76 (44)                       71 (44)
+intestinaltrakts
+
+Erkrankungen des                        55 (32)                       58 (33)
+Nervensystems
+Erkrankungen der Atemwege,
+des Brustraums und                      70 (40)                       69 (39)
+Mediastinums
+Allgemeine Erkrankungen und
+Beschwerden am                          56 (32)                       43 (25)
+Verabreichungsort
+Stoffwechsel- und                       37 (21)                       47 (27)
+Ernährungsstörungen
+Skelettmuskulatur-,
+Bindegewebs- und                        29 (17)                        15 (9)
+Knochenerkrankungen
+Verletzung, Vergiftung und
+durch Eingriffe bedingte                44 (25)                       45 (26)
+Komplikationen
+Erkrankungen des Ohrs und                12 (7)                        5 (3)
+des Labyrinths
+
+
+6
+BAnz AT 28.10.2015 B1
+
+
+
+
+a: LOCF-Auswertung der ITT-Population
+b: ANOVA-Modell, adjustiert nach Behandlung, Geschlecht, Region,
+   Altersgruppe und Ausgangswert
+c: Berechnung des IQWiG; t-Test
+d: Berechnung des IQWiG, unbedingter exakter Test
+e: Berechnung des IQWiG, asymptotisch.
+f: Korrekturfaktor 0,5.
+g: logistisches Regressionsmodell (Log-Link-Funktion), adjustiert nach Behandlung, Geschlecht,
+   geografische Region und Altersgruppe
+h: aus dem Addendum des IQWiG (A15-26)
+Abkürzungen: ANOVA: Analysis Of VAriance; BMI: Body-Mass-Index; HbA1c: Hämoglobin A1c; ITT:
+Intention to treat; KI: Konfidenzintervall; MW: Mittelwert; N: Anzahl ausgewerteter Patienten; n: Anzahl
+Patienten mit Ereignis; n. b.: nicht berechenbar; PT: Preferred Term; RCT: randomisierte kontrollierte
+Studie; RR: relatives Risiko; SD: Standardabweichung; SOC: System Organ Class
+(Systemorganklasse); SUE: schwerwiegendes unerwünschtes Ereignis; UE: unerwünschtes Ereignis;
+vs.: versus
+
+
+
+
+2. Anzahl der Patienten bzw. Abgrenzung der für die Behandlung infrage kommenden
+   Patientengruppen
+
+
+a)      Behandlung des Diabetes mellitus Typ 1 bei Kindern ab 1 Jahr und Jugendlichen:
+
+        ca. 20 000 Patienten
+
+
+b) und c) Behandlung des Diabetes mellitus Typ 2 bei Kindern ab 1 Jahr und Jugendlichen
+        ca. 200 Patienten
+
+
+
+3. Anforderungen an eine qualitätsgesicherte Anwendung
+
+
+Die Vorgaben der Fachinformation sind zu berücksichtigen. Die europäische Zulassungs-
+behörde European Medicines Agency (EMA) stellt die Inhalte der Fachinformation zu
+Tresiba® (Wirkstoff: Insulin degludec) unter folgendem Link frei zugänglich zur Verfügung
+(letzter Zugriff: 4. Juni 2015):
+http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-
+_Product_Information/human/002498/WC500138940.pdf
+
+
+
+
+                                                                                                      7
+BAnz AT 28.10.2015 B1
+
+
+
+
+4. Therapiekosten
+
+
+a) Behandlung des Diabetes mellitus Typ 1 bei Jugendlichen und Kindern ab 1 Jahr:
+
+
+Behandlungsdauer:
+
+
+    Bezeichnung          Behandlungs-            Anzahl              Behandlungs-     Behandlungs-
+    der Therapie         modus                   Behandlungen        dauer je         tage pro
+                                                 pro Patient pro     Behandlung       Patient pro
+                                                 Jahr                (Tage)           Jahr
+    Zu bewertendes Arzneimittel (Insulin degludec)
+    Insulin degludec kontinuierlich,             kontinuierlich      365              365
+                         1 x täglich
+    Humaninsulin         kontinuierlich,         kontinuierlich      365              365
+    (Bolusinsulin) 2,3
+                         3 x täglich 4
+    Zweckmäßige Therapie (Humaninsulin)
+    Humaninsulin         kontinuierlich,         kontinuierlich      365              365
+    (NPH-Insulin)        1 - 2 x täglich
+
+    Humaninsulin         kontinuierlich,         kontinuierlich      365              365
+    (Bolusinsulin)3      3 x täglich4
+
+
+
+
+Verbrauch:
+
+
+    Bezeichnung          Wirkstärke        Dosis/Tag              Menge pro   Jahresdurchschnitts-
+    der Therapie                                                  Packung 5   verbrauch
+    Zu bewertendes Arzneimittel (Insulin degludec)
+Insulin degludec         100 I.E. 6 / ml   5,99 - 68,08 I.E. 7,8 3 000 I.E.   2186,35 - 24 849,2 I.E.
+    Humaninsulin         100 I.E. / ml     5,99 - 68,08 I.E.7,8   3000 I.E.   2186,35 - 24 849,2 I.E.
+    (Bolusinsulin)3
+    Zweckmäßige Therapie (Humaninsulin)
+    Humaninsulin         100 I.E. / ml     5,99 - 68,08 I.E.7,8   3000 I.E.   2186,35 - 24 849,2 I.E.
+    (NPH-Insulin)
+
+
+2
+  Gemäß Fachinformation muss Insulin degludec zur Behandlung des Diabetes mellitus Typ 1 mit
+  schnell wirkendem Insulin kombiniert werden (Fachinformation Tresiba; Stand: Januar 2015).
+3
+  schnell wirkendes Humaninsulin
+4
+  zu den Hauptmahlzeiten
+5
+  jeweils größte Packung
+6
+  1 Einheit (E) Insulin degludec entspricht 1 I.E. Humaninsulin.
+7
+  40 - 60% des Insulin-Tagesbedarfs werden in der Regel über Basalinsulin gedeckt;
+  durchschnittlicher Insulinbedarf: 0,7 - 2 I.E. / kg KG / Tag.
+8
+  Bezug: 21,4 - 56,73 kg KG („Mikrozensus 2013“; gewichtetes Durchschnittskörpergewicht der
+  Altersklassen für Mädchen und Jungen im Alter von 1 - 18 Jahren)
+
+8
+BAnz AT 28.10.2015 B1
+
+
+
+
+    Bezeichnung          Wirkstärke        Dosis/Tag                  Menge pro     Jahresdurchschnitts-
+    der Therapie                                                      Packung 5     verbrauch
+    Zu bewertendes Arzneimittel (Insulin degludec)
+    Humaninsulin         100 I.E. / ml     5,99 - 68,08 I.E.7,8       3000 I.E.     2186,35 - 24 849,2 I.E.
+    (Bolusinsulin)3
+
+
+Kosten:
+
+
+Kosten der Arzneimittel:
+    Bezeichnung der          Kosten                               Kosten nach Abzug gesetzlich
+    Therapie                 (Apothekenabgabepreis)               vorgeschriebener Rabatte
+    Zu bewertendes Arzneimittel (Insulin degludec)
+    Insulin degludec         243,66 €                             229,01 €
+                                                                  [1,77 € 9; 12,88 € 10]
+    Humaninsulin             89,64 €                              81,65 €
+    (Bolusinsulin)3,11                                            [1,77 € 9; 6,22 € 10]
+    Zweckmäßige Therapie (Humaninsulin)
+    Humaninsulin (NPH-       89,64 €                              81,65 €
+    Insulin)11                                                    [1,77 € 9; 6,22 € 10]
+    Humaninsulin             89,64 €                              81,65 €
+    (Bolusinsulin)3,11                                            [1,77 € 9; 6,22 € 10]
+Stand Lauer-Taxe: 1. Juli 2015
+
+
+
+Kosten für zusätzlich notwendige GKV-Leistungen 12:
+
+
+    Bezeichnung der              Bezeichnung     Kosten/          Anzahl/     Verbrauch/      Kosten/Jahr
+    Therapie                                     Packung 13       Tag         Jahr
+
+    Zweckmäßige                  Einmal-         22,80 €          1           365             83,22 €
+    Vergleichstherapie -
+                                 nadeln
+    Humaninsulin NPH-
+    Insulin)
+
+
+
+
+Jahrestherapiekosten:
+
+
+9
+   Rabatt nach §130 SGB V
+10
+   Rabatt nach § 130a SGB V
+11
+   Festbetrag
+12
+   Zusätzlich notwendige GKV-Leistungen fallen nur im Falle einer 2-mal täglichen Gabe von
+   Humaninsulin gegenüber der 1-mal täglichen Gabe von Insulin degludec an.
+13
+   Anzahl Einmalnadeln/Packung = 100 St.; Darstellung der preisgünstigsten Packung gemäß Lauer-
+   Taxe, Stand: 1. Juli 2015
+
+                                                                                                            9
+BAnz AT 28.10.2015 B1
+
+
+
+
+Bezeichnung der Therapie                                Jahrestherapiekosten pro Patient
+Zu bewertendes Arzneimittel (Insulin degludec)
+Insulin degludec + Bolusinsulin3                        256,21 - 2347,71 €
+Zweckmäßige Therapie (Humaninsulin)
+Humaninsulin (NPH-Insulin) + Bolusinsulin3              148,81 - 1127,12 €
+                                               12
+Zusätzlich notwendige GKV-Leistungen                    83,22 €
+(Einmalnadeln)
+
+
+
+
+b) Behandlung des Diabetes mellitus Typ 2 bei Jugendlichen und Kindern ab 1 Jahr in der
+   Monotherapie:
+
+
+Behandlungsdauer:
+
+
+ Bezeichnung             Behandlungs-               Anzahl               Behandlungs-    Behandlungs-
+ der Therapie            modus                      Behandlungen         dauer je        tage pro
+                                                    pro Patient pro      Behandlung      Patient pro
+                                                    Jahr                 (Tage)          Jahr
+ Zu bewertendes Arzneimittel (Insulin degludec)
+ Insulin degludec kontinuierlich,                   kontinuierlich       365             365
+                         1 x täglich
+ Zweckmäßige Therapie (Humaninsulin)
+ Humaninsulin            kontinuierlich,            kontinuierlich       365             365
+                         1 - 2 x täglich
+
+
+
+
+Verbrauch:
+
+
+ Bezeichnung            Wirkstärke         Dosis/Tag                 Menge pro    Jahresdurchschnitts-
+ der Therapie                                                        Packung5     verbrauch
+ Zu bewertendes Arzneimittel (Insulin degludec)
+ Insulin                100 I.E.6 / ml     14,98 - 113,46 I.E.8      3 000 I.E.   5467,7 - 41 412,9 I.E.
+ degludec
+ Zweckmäßige Therapie (Humaninsulin)
+ Humaninsulin           100 I.E. / ml      14,98 - 113,46 I.E.8      3000 I.E.    5467,7 - 41 412,9 I.E.
+
+
+
+
+Kosten:
+
+10
+BAnz AT 28.10.2015 B1
+
+
+
+
+Kosten der Arzneimittel:
+
+
+ Bezeichnung der            Kosten                            Kosten nach Abzug gesetzlich
+ Therapie                   (Apothekenabgabepreis)            vorgeschriebener Rabatte
+ Zu bewertendes Arzneimittel (Insulin degludec)
+ Insulin degludec           243,66 €                          229,01 €
+                                                              [1,77 € 9; 12,88 € 10]
+ Zweckmäßige Therapie (Humaninsulin)
+ Humaninsulin11             89,64 €                           81,65 €
+                                                              [1,77 € 9; 6,22 € 10]
+Stand Lauer-Taxe: 1. Juli 2015
+
+
+
+Kosten für zusätzlich notwendige GKV-Leistungen 14:
+
+
+ Bezeichnung der                 Bezeichnung    Kosten/       Anzahl/     Verbrauch/   Kosten/Jahr
+ Therapie                                       Packung 15    Tag         Jahr
+
+ Zweckmäßige                     Einmal-        22,80 €       1           365          83,22 €
+ Vergleichstherapie -
+                                 nadeln
+ Humaninsulin NPH-
+ Insulin)
+
+
+Jahrestherapiekosten:
+
+
+ Bezeichnung der Therapie                           Jahrestherapiekosten pro Patient
+ Zu bewertendes Arzneimittel (Insulin degludec)
+ Insulin degludec                                   417,39 - 3161,32 €
+ Zweckmäßige Therapie (Humaninsulin)
+ Humaninsulin                                       148,81 - 1127,12 €
+                                               14
+ Zusätzlich notwendige GKV-Leistungen
+ (Einmalnadeln)                                     83,22 €
+
+
+
+
+c) Behandlung des Diabetes mellitus Typ 2 bei Jugendlichen und Kindern ab 1 Jahr in
+   Kombination mit anderen Antidiabetika16:
+
+
+14
+   Zusätzlich notwendige GKV-Leistungen fallen nur im Falle einer 2-mal täglichen Gabe von
+   Humaninsulin gegenüber der 1-mal täglichen Gabe von Insulin degludec an.
+15
+   Anzahl Einmalnadeln/Packung = 100 St.; Darstellung der preisgünstigsten Packung gemäß Lauer-
+   Taxe, Stand: 1. Juli 2015
+
+                                                                                                 11
+BAnz AT 28.10.2015 B1
+
+
+
+
+Behandlungsdauer:
+
+
+ Bezeichnung            Behandlungs-              Anzahl              Behandlungs-      Behandlungs-
+ der Therapie           modus                     Behandlungen        dauer je          tage pro
+                                                  pro Patient pro     Behandlung        Patient pro
+                                                  Jahr                (Tage)            Jahr
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika 16)
+
+ Insulin degludec kontinuierlich,                 kontinuierlich      365               365
+                        1 x täglich
+ Metformin              kontinuierlich,           kontinuierlich      365               365
+                        1 - 3 x täglich
+ Zweckmäßige Vergleichstherapie (Humaninsulin plus Metformin, ggf. Therapie nur mit
+ Humaninsulin, wenn Metformin gemäß Fachinformation nicht geeignet ist)
+
+ Humaninsulin           kontinuierlich,           kontinuierlich      365               365
+                        1 - 2 x täglich
+ Metformin              kontinuierlich,           kontinuierlich      365               365
+                        1 - 3 x täglich
+ Ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht
+ geeignet ist
+
+ Konventionelle         kontinuierlich,           kontinuierlich      365               365
+ Insulintherapie
+                        1 - 2 x täglich
+ (Mischinsulin)
+
+
+Verbrauch:
+
+
+ Bezeichnung            Wirkstärke        Dosis/Tag                 Menge pro Jahresdurchschnitts-
+ der Therapie                                                       Packung5  verbrauch
+
+
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika16)
+
+ Insulin degludec       100 I.E.6/ml      35,92 - 113,46 I.E. 17    3 000 I.E.   13 109,7 - 41 412,9 I.E.
+
+
+
+
+16
+    Als Beispiel für die Kombination mit anderen Antidiabetika ist exemplarisch die Kombination von
+   Insulin degludec mit Metformin genannt. Hierbei werden entsprechend der Zulassung von Metformin
+   Kinder ab 10 Jahren berücksichtigt; auf die Darstellung einer Kombination mit Bolusinsulin
+   wurde verzichtet, da es in der praktischen Anwendung in dieser Patientengruppe/Altersgruppe nur
+   eine untergeordnete Bedeutung hat.
+17
+    Bezug: 51,31 - 56,73 kg KG („Mikrozensus 2013“; gewichtetes Durchschnittskörpergewicht der
+    Altersklassen für Mädchen und Jungen im Alter von 10 - 18 Jahren); durchschnittlicher Insulinbedarf
+   in dieser Altersklasse: 0,7 - 2 I.E. / kg KG / Tag
+
+12
+BAnz AT 28.10.2015 B1
+
+
+
+
+ Bezeichnung            Wirkstärke      Dosis/Tag                  Menge pro Jahresdurchschnitts-
+ der Therapie                                                      Packung5  verbrauch
+
+
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika16)
+
+ Metformin              1000 mg 18      500 - 2000 mg              180             182,5 - 730 Tabletten
+                                                                   Tabletten
+ Zweckmäßige Therapie (Humaninsulin plus Metformin, ggf. Therapie nur mit Humaninsulin,
+ wenn Metformin gemäß Fachinformation nicht geeignet ist )
+ Humaninsulin           100 I.E. / ml   35,92 - 113,46 I.E.17      3000 I.E.       13 109,7 - 41 412,9 I.E.
+
+ Metformin              1000 mg18       500 - 2000 mg              180             182,5 - 730 Tabletten
+                                                                   Tabletten
+
+ Ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht geeignet
+ ist
+ Konventionelle         100 I.E. / ml   35,92 - 113,46 I.E.17      3000 I.E.       13 109,7 - 41 412,9 I.E.
+ Insulintherapie
+ (Mischinsulin)
+
+
+Kosten:
+
+
+Kosten der Arzneimittel:
+
+
+ Bezeichnung der             Kosten                             Kosten nach Abzug gesetzlich
+ Therapie                    (Apothekenabgabepreis)             vorgeschriebener Rabatte
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika16)
+ Insulin degludec            243,66 €                           229,01 €
+                                                                [1,77 € 9; 12,88 € 10]
+ Metformin11                 18,78 €                            16,39 €
+                                                                [1,77 €9; 0,62 €10]
+ Zweckmäßige Therapie (Humaninsulin plus Metformin, ggf. Therapie nur mit Humaninsulin,
+ wenn Metformin gemäß Fachinformation nicht geeignet ist)
+ Humaninsulin11              89,64 €                            81,65 €
+                                                                [1,77 € 9; 6,22 € 10]
+ Metformin11                 18,78 €                            16,39 €
+                                                                [1,77 €9; 0,62 €10]
+ Ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht
+ geeignet ist
+ Konventionelle              89,64 €                            81,65 €
+ Insulintherapie                                                [1,77 € 9; 6,22 € 10]
+
+18
+     Für die Berechnung wird eine Wirkstärke von 1000 mg zugrunde gelegt. Dosis nach
+     Fachinformation bei Kindern ab 10 Jahren und Jugendlichen 500 - 2000 mg, aufgeteilt in 2 - 3
+     Einzeldosen
+
+                                                                                                      13
+BAnz AT 28.10.2015 B1
+
+
+
+
+ Bezeichnung der            Kosten                           Kosten nach Abzug gesetzlich
+ Therapie                   (Apothekenabgabepreis)           vorgeschriebener Rabatte
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika16)
+ (Mischinsulin)11
+Stand Lauer-Taxe: 1. Juli 2015
+
+
+
+
+Kosten für zusätzlich notwendige GKV-Leistungen 19:
+
+
+Bezeichnung der                  Bezeichnung   Kosten/       Anzahl/   Verbrauch/    Kosten/Jahr
+Therapie                                       Packung 20    Tag       Jahr
+
+Zweckmäßige                      Einmal-       22,80 €       1         365           83,22 €
+Vergleichstherapie -
+                                 nadeln
+Humaninsulin
+
+
+Jahrestherapiekosten:
+
+
+ Bezeichnung der Therapie                                Jahrestherapiekosten pro Patient
+ Zu bewertendes Arzneimittel (Insulin degludec in Kombination mit anderen Antidiabetika16)
+ Insulin degludec + Metformin                            1017,37 - 3227,79 €
+ Zweckmäßige Vergleichstherapie (Metformin + Humaninsulin; ggf. Therapie nur mit
+ Humaninsulin, wenn Metformin gemäß Fachinformation nicht geeignet ist)
+ Humaninsulin (NPH-Insulin) + Metformin                  373,42 - 1193,59 €
+ Ggf. Therapie nur mit Humaninsulin, wenn Metformin gemäß Fachinformation nicht geeignet
+ ist
+ Konventionelle Insulintherapie (Mischinsulin)           356,80 - 1127,12 €
+ Zusätzlich notwendige GKV-Leistungen19
+ (Einmalnadeln)                                          83,22 €
+
+
+
+
+19
+   Zusätzlich notwendige GKV-Leistungen fallen nur im Falle einer 2-mal täglichen Gabe von
+   Humaninsulin gegenüber der 1-mal täglichen Gabe von Insulin degludec an.
+20
+   Anzahl Einmalnadeln/Packung = 100 St.; Darstellung der preisgünstigsten Packung gemäß Lauer-
+  Taxe, Stand: 1. Juli 2015
+
+14
+BAnz AT 28.10.2015 B1
+
+
+
+
+II. Der Beschluss tritt mit Wirkung vom Tag seiner Veröffentlichung im Internet auf
+    den Internetseiten des Gemeinsamen Bundesausschusses am 20. August 2015 in
+    Kraft.
+
+
+Die Tragenden Gründe zu diesem Beschluss werden auf den Internetseiten des
+Gemeinsamen Bundesausschusses unter www.g-ba.de veröffentlicht.
+
+
+Berlin, den 20. August 2015
+
+                              Gemeinsamer Bundesausschuss
+                                   gemäß § 91 SGB V
+                                    Der Vorsitzende
+
+
+
+                                      Prof. Hecken
+
+
+
+
+                                                                                15
+
