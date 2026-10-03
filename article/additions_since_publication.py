@@ -63,8 +63,11 @@ def main():
         new = b[j1:j2]
         before, after = b[j1 - 1], (b[j2] if j2 < len(b) else None)
         if op == "replace":
-            where = (f"Replace {first(a[i1])}... with the text below. It comes straight after {last(before)}.")
-            title = "Replacement paragraph"
+            heads = [x[4:] for x in new if x.startswith("### ")]
+            where = (f"Replace {first(a[i1])}... with the text below. It comes straight after {last(before)}." +
+                     (f" The text below also includes the new subsection \"{heads[0]}\", which follows that paragraph."
+                      if heads else ""))
+            title = "Replacement paragraph" + (f" and new subsection: \"{heads[0]}\"" if heads else "")
         else:
             where = f"Insert after {last(before)}" + (f" and before {first(after)}." if after else ".")
             title = ("New subsection" if new[0].startswith("#") else

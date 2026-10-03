@@ -99,7 +99,10 @@ def england():
     d = d.drop(columns=["icb", "icb_name", "pco_name"]).join(last, on="pco")
     # Sub-ICB locations only (codes like 26A00); trusts, federations and other prescriber bodies are
     # small and are left out of the area analysis but kept in their ICB.
-    d["sub_icb"] = d.pco.str.fullmatch(r"\d\d[A-Z]00|[A-Z0-9]{3}00") & d.pco_name.str.contains(" - ", na=False)
+    # Sub-ICB locations are named "NHS <ICB> ICB - <code>"; their codes are either the old CCG form
+    # (26A00) or five characters (W2U3Z, A3A8R). An earlier version matched only codes ending 00 and
+    # dropped the second kind, North West London among them.
+    d["sub_icb"] = d.pco_name.str.contains(r" ICB - ", na=False)
     return d
 
 

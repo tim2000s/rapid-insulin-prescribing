@@ -315,6 +315,39 @@ asks primary care networks to make biosimilar aspart at least half of all aspart
 ultra-rapid insulin becomes a second step, and the trial evidence gives that step little to stand on.
 Trurapi reached 7.5% of units within five years. Lyumjev, after six, is at 3.7%.
 
+### Where the savings should come from
+
+The biosimilar effort has been pointed at the wrong insulin. In the year to July 2026, at list price
+and device for device, Fiasp cost English primary care exactly what NovoRapid cost, and Lyumjev exactly
+what Humalog cost. Moving someone from either older insulin to its faster version costs nothing. The
+only money at stake is the saving given up by not moving them to Trurapi, which is £0.47 per 100 units
+cheaper than Fiasp. Lispro has no cheaper alternative left to protect, since Sanofi is withdrawing
+Admelog.
+
+Long-acting insulin is where a switch asks nobody to give anything up. Semglee, the cheapest glargine,
+lists at £2.00 per 100 units against £2.32 for Lantus and £2.35 for Abasaglar, the older biosimilar,
+and it is the same molecule with the same profile of action. Yet it is 4.8% of the glargine 100
+dispensed in England. Moving 80% of Lantus and Abasaglar pens to it would save about £5.5 million a
+year. That is enough to pay for 14.5% of all the rapid-acting insulin dispensed in England to be Fiasp
+in place of Trurapi, and close to the £5.8 million, at most, that bringing England up to Wales's
+ultra-rapid share would forgo
+([figures](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/output/biosimilar/SUMMARY.md)).
+
+North West London shows the blunt version. Its formulary says "All new initiations should be the lower
+cost biosimilar, Trurapi, instead of NovoRapid". It leaves Fiasp off and makes Lyumjev a second-line
+choice for specialists to start. For long-acting insulin it lists Lantus, Abasaglar and Semglee side by
+side, with no preference for the cheapest. Its ultra-rapid share is 10.1%, the 12th lowest of 106
+areas in England. Even the biosimilar push has gone slowly there: Trurapi is 9.2% of its standard
+aspart and Semglee 5.1% of its glargine.
+Moving 80% of its glargine pens to Semglee would save about £300,000 a year, more than the £270,000 it
+would give up in reaching Wales's ultra-rapid share. A more granular policy, pressing the biosimilar
+where speed is not at stake and leaving the faster mealtime insulins open to anyone who wants them,
+would have saved money and widened choice at the same time.
+
+These are list prices, which leave out confidential discounts, and they keep everyone on the same
+kind of device. Semglee is sold only as a pen, so the 230 million units of Lantus and Abasaglar in
+cartridges are left out.
+
 ### Lilly's part
 
 Lilly is part of this too. On the public record, it did the formal work each country required, and I
