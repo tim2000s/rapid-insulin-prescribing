@@ -3,8 +3,8 @@
 The changes to "Losing Lyumjev" since the version published on Diabettech, as one document for
 editing the live post: where each change sits, the text, and the WordPress block HTML to paste.
 
-The published version is the article at commit b6d7a42 with the author's two edits to the stand
-paragraph, which are already live. Each change is found by matching blocks of the master article
+The published version is the live post body saved in published/ (LIVE below), read back into
+markdown with html_to_md.py; its sources list matches the first LIVE_SOURCES entries of SOURCES.md. Each change is found by matching blocks of the master article
 against that version, so the document cannot drift from the master; the instructions for where each
 block goes are written here and checked against the master's neighbouring blocks.
 
@@ -12,7 +12,6 @@ block goes are written here and checked against the master's neighbouring blocks
 """
 import difflib
 import re
-import subprocess
 from pathlib import Path
 
 from md_to_wordpress import convert
@@ -25,9 +24,8 @@ from docx.shared import Pt, RGBColor
 
 HERE = Path(__file__).parent
 OUT = HERE / "additions"
-PUBLISHED = "b6d7a42"
-STAND_EDITS = (("I should say where I stand. I have used", "I have used"),
-               ("That is one person using experimental software.", "This is a major reason for my concern."))
+LIVE = HERE / "published" / "live_2026-10-03_body.html"
+LIVE_SOURCES = 60
 
 
 def blocks(text):
@@ -45,12 +43,9 @@ def plain(b):
 
 
 def main():
-    pub = subprocess.run(["git", "show", f"{PUBLISHED}:article/diabettech-ultra-rapid-article.md"], cwd=HERE,
-                         capture_output=True, text=True, check=True).stdout
-    pub = " ".join(pub.split(" "))
-    for old, new in STAND_EDITS:
-        pub = re.sub(r"\s+".join(map(re.escape, old.split())), new, pub)
-    a, b = blocks(pub), blocks((HERE / "diabettech-ultra-rapid-article.md").read_text())
+    from html_to_md import convert as h2m
+    a = [x.strip() for x in re.split(r"\n\s*\n", h2m(LIVE.read_text())) if x.strip()]
+    b = blocks((HERE / "diabettech-ultra-rapid-article.md").read_text())
     ops = [o for o in difflib.SequenceMatcher(None, [norm(x) for x in a], [norm(x) for x in b]).get_opcodes()
            if o[0] != "equal"]
     kind = lambda s: "the heading" if s.startswith("#") else "the paragraph"
@@ -64,19 +59,27 @@ def main():
         before, after = b[j1 - 1], (b[j2] if j2 < len(b) else None)
         if op == "replace":
             heads = [x[4:] for x in new if x.startswith("### ")]
-            where = (f"Replace {first(a[i1])}... with the text below. It comes straight after {last(before)}." +
+            span = (f"{first(a[i1])}..." if i2 - i1 == 1 else
+                    f"the {i2 - i1} paragraphs from {first(a[i1])}... to {first(a[i2 - 1])}...")
+            where = (f"Replace {span} with the text below. It comes straight after {last(before)}." +
                      (f" The text below also includes the new subsection \"{heads[0]}\", which follows that paragraph."
                       if heads else ""))
-            title = "Replacement paragraph" + (f" and new subsection: \"{heads[0]}\"" if heads else "")
+            title = ("Replacement paragraphs" if i2 - i1 > 1 else "Replacement paragraph") + \
+                (f" and new subsection: \"{heads[0]}\"" if heads else "")
         else:
             where = f"Insert after {last(before)}" + (f" and before {first(after)}." if after else ".")
+            nfig = sum(x.startswith("![") for x in new)
             title = ("New subsection" if new[0].startswith("#") else
-                     "New paragraphs" if len(new) > 1 else "New paragraph")
+                     "New figure" if nfig == len(new) else
+                     "New paragraphs" if len(new) - nfig > 1 else "New paragraph") + \
+                    (" with figure" if nfig and nfig < len(new) and not new[0].startswith("#") else "")
         changes.append(dict(title=title, where=where, md=new))
     srcs = (HERE / "SOURCES.md").read_text().split("\n", 2)[2].strip()
-    changes.append(dict(title="New: sources at the foot", where="Add at the very end of the post, after the closing "
-                        f"paragraph \"...The sources follow.\": a heading \"Sources\" and the numbered list ({sum(1 for ln in srcs.splitlines() if re.match(r'[0-9]+[.] ', ln))} entries).",
-                        md=["## Sources", srcs]))
+    added = [ln for ln in srcs.splitlines() if re.match(r"[0-9]+[.] ", ln) and int(ln.split(".")[0]) > LIVE_SOURCES]
+    if added:
+        changes.append(dict(title=f"New sources {LIVE_SOURCES + 1} to {LIVE_SOURCES + len(added)}",
+                            where=f"Add at the end of the numbered Sources list, after entry {LIVE_SOURCES}.",
+                            md=["\n".join(added)]))
 
     heads = {"Replacement paragraph": "", "New paragraph": "", "New subsection": ""}
     L = ["# Losing Lyumjev: changes since publication", "",
@@ -85,15 +88,16 @@ def main():
          "changes_since_publication_wordpress.html; paste a block into the code editor (Options, Code editor) at "
          "the place given. The full regenerated post is "
          "diabettech-ultra-rapid-article-wordpress.html in the same folder, if replacing the whole body is easier. "
-         "Generated by additions_since_publication.py from the master article; the published version is commit "
-         f"{PUBLISHED} with the two edits to the stand paragraph already made in WordPress.", ""]
+         "Generated by additions_since_publication.py from the master article, compared with the live post as "
+         f"saved on {LIVE.stem.split('_')[1]}. New figures are marked as placeholders; the image files are in the "
+         "Drive folder Diabettech article/figures.", ""]
     H = []
     for n, c in enumerate(changes, 1):
         label = c["title"]
         if c["md"][0].startswith("### "):
             label += f": \"{c['md'][0][4:]}\""
         L += [f"## {n}. {label}", "", f"Where: {c['where']}", "", "Text:", ""]
-        quoted = [x if re.match(r"\d+\. ", x) else "> " + norm(x) for x in c["md"]]
+        quoted = [x if re.match(r"\d+\. ", x) else "> " + figtext(norm(x)) for x in c["md"]]
         L += ["\n>\n".join(q for q in quoted if q.startswith(">"))] + [q for q in quoted if not q.startswith(">")]
         L += [""]
         html = "\n\n".join(convert("\n\n".join(c["md"])))
@@ -103,6 +107,12 @@ def main():
     (OUT / "changes_since_publication_wordpress.html").write_text("\n".join(H) + "\n")
     write_docx(changes, OUT / "Losing Lyumjev - updates since publication.docx")
     print("\n".join(f"{n}. {c['title']} | {c['where']}" for n, c in enumerate(changes, 1)))
+
+
+def figtext(b):
+    m = re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)
+    return (f"[FIGURE PLACEHOLDER: upload {m.group(2)} from the Drive folder Diabettech article/figures. "
+            f"Caption: {m.group(1)}]") if m else b
 
 
 def add_link(par, text, url):
@@ -160,6 +170,10 @@ def write_docx(changes, path):
             elif re.match(r"\d+\. ", b):
                 for item in re.split(r"\n(?=\d+\. )", b):
                     add_text(d.add_paragraph(style="List Number"), norm(re.sub(r"^\d+\. ", "", item)))
+            elif b.startswith("!["):
+                fp = d.add_paragraph()
+                r = fp.add_run(figtext(norm(b)))
+                r.font.highlight_color = WD_COLOR_INDEX.TURQUOISE
             else:
                 add_text(d.add_paragraph(), norm(b))
     d.save(path)

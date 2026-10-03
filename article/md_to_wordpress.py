@@ -37,7 +37,11 @@ def convert(text):
         elif b == "---":
             parts.append('<!-- wp:separator -->\n<hr class="wp-block-separator has-alpha-channel-opacity"/>\n<!-- /wp:separator -->')
         elif (m := re.fullmatch(r"!\[(.*)\]\((.*)\)", b, flags=re.S)):
-            cap, img = inline(m.group(1)), MEDIA.get(m.group(2), m.group(2))
+            cap, img = inline(m.group(1)), MEDIA.get(m.group(2))
+            if img is None:                              # not yet uploaded: leave a visible placeholder
+                parts.append(f"<!-- PLACEHOLDER: upload {m.group(2)} from Drive (Diabettech article/figures) and "
+                             f"replace the src below with its media URL -->")
+                img = f"PLACEHOLDER-{m.group(2)}"
             parts.append(f'<!-- wp:image {{"sizeSlug":"large"}} -->\n<figure class="wp-block-image size-large"><img src="{img}" alt="{html.escape(" ".join(m.group(1).split()))}"/><figcaption class="wp-element-caption">{cap}</figcaption></figure>\n<!-- /wp:image -->')
         elif re.match(r"\d+\. ", b):
             items = re.split(r"\n(?=\d+\. )", b)
