@@ -451,8 +451,14 @@ exactly why Wales is different, and it is the question I would most like answere
 has Lyumjev.
 
 What I want to see now is the diabetes charities and patient organisations of Europe standing up and
-being counted, and so far they have barely made a sound. I found nothing from Diabetes UK about
-Lyumjev; its page on insulin supply deals with the Humulin vials. Norway's diabetes association
+being counted, and so far they have barely made a sound. Diabetes UK's page on insulin supply lists
+ten discontinuations and shortages and does not mention Lyumjev or the withdrawals across Europe, and
+Breakthrough T1D UK's site mentions Lyumjev only in its guide to connected pens. In France, which has
+already lost the cartridges, the last thing I can find on Lyumjev from the national federation of
+people with diabetes is a 2023 note about a temporary shortage. Germany's diabetesDE has nothing on
+it, and the German Diabetes Society's statement was practical advice on pump cartridge shortages
+([search record](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/withdrawals_eu/charities/SEARCH_LOG.md)).
+Norway's diabetes association
 reported the withdrawals and quoted a professor reassuring readers that there were good alternatives
 to every insulin going. diabetesschweiz complained to Lilly, then passed on Lilly's explanation that
 hardly anyone used it. Reporting a withdrawal and relaying the manufacturer's reasons is the least an
