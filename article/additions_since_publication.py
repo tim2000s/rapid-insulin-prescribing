@@ -73,6 +73,9 @@ def main():
                      "New figure" if nfig == len(new) else
                      "New paragraphs" if len(new) - nfig > 1 else "New paragraph") + \
                     (" with figure" if nfig and nfig < len(new) and not new[0].startswith("#") else "")
+            sub = [x[4:] for x in new[1:] if x.startswith("### ")]
+            if sub and not new[0].startswith("#"):
+                title += f", then new subsection \"{sub[0]}\""
         changes.append(dict(title=title, where=where, md=new))
     srcs = (HERE / "SOURCES.md").read_text().split("\n", 2)[2].strip()
     added = [ln for ln in srcs.splitlines() if re.match(r"[0-9]+[.] ", ln) and int(ln.split(".")[0]) > LIVE_SOURCES]

@@ -44,7 +44,7 @@ Text:
 
 > For much of the period, the price of the insulin offers little explanation. Lyumjev has cost English primary care the same per unit as Humalog in every year since it arrived. Its list price per box is the same as Humalog's. Fiasp was the same against NovoRapid. For the 52 months between Fiasp's arrival in February 2017 and the first biosimilar, Trurapi, in June 2021, English primary care paid £1.68 per 100 units of Fiasp against £1.76 for NovoRapid. There was little or no acquisition-cost premium for choosing the faster formulation. That is not the same as no cost to the system: switching takes clinic time and training, and pumps and pens have to be compatible. Those costs are not measured here.
 
-## 6. New paragraphs with figure
+## 6. New paragraphs with figure, then new subsection "Where the savings should come from"
 
 Where: Insert after the paragraph ending "Lyumjev, after six, is at 3.7%." and before the heading "Lilly's part".
 
