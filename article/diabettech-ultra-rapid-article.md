@@ -72,7 +72,7 @@ email reply that the recipient later posted publicly, passed on what it had been
 careful to call unofficial: that very few people in Switzerland had stayed on Lyumjev long term,
 partly because of pain or burning at injection, and that specialist prescribing had been very low.
 
-The UK has had not seen any announcement. The NHS medicines dictionary marks only the Lyumjev Tempo
+The UK has not seen any announcement. The NHS medicines dictionary marks only the Lyumjev Tempo
 Pen as discontinued, and Lilly's March notice covers the EU and EEA. The UK's share of Lyumjev is
 the same as France's, which has already lost the cartridges, and Lilly has not said what it plans
 here.
@@ -133,8 +133,7 @@ similar) so it would have required a major marketing push to get Lyumjev in fron
 the year to July 2026, Lyumjev was 3.7% of the rapid-acting analogue insulin units dispensed in
 English primary care, six years after it arrived. Its share of lispro has grown every year, to 24%
 in 2026. Fiasp adds 13.9%, so the two ultra-rapid insulins together are 17.5% of units. It's notable
-that Fiasp is still a larger share than Humalog. I wonder how similar this is to other European
-markets? The other 82.5%, or 2.74 million prescription items a year, is one of the older products.
+that Fiasp is still a larger share than Humalog. Other European markets split differently. In France in 2025 Humalog was 27.3% of rapid-acting analogue units and Fiasp 11.1%; in Denmark, Novo Nordisk's home market, Fiasp was 11.0% and Humalog 1.1%. The other 82.5%, or 2.74 million prescription items a year, is one of the older products.
 
 ![Share of rapid-acting analogue units dispensed in English primary care by product, three-month rolling, January 2014 to July 2026. The black line is the combined ultra-rapid share.](fig1_share_by_product.png)
 
@@ -286,8 +285,7 @@ not managed on another rapid insulin.
 
 For much of the period, the price of the insulin offers little explanation. Lyumjev has cost English
 primary care the same per unit as Humalog in every year since it arrived. Its list price per box is
-the same as Humalog's. Fiasp was the same against NovoRapid. There was little or no acquisition-cost
-premium for choosing the faster formulation. That is not the same as no cost to the system:
+the same as Humalog's. Fiasp was the same against NovoRapid. For the 52 months between Fiasp's arrival in February 2017 and the first biosimilar, Trurapi, in June 2021, English primary care paid £1.68 per 100 units of Fiasp against £1.76 for NovoRapid. There was little or no acquisition-cost premium for choosing the faster formulation. That is not the same as no cost to the system:
 switching takes clinic time and training, and pumps and pens have to be compatible. Those costs are
 not measured here.
 
@@ -410,7 +408,7 @@ Lilly has described the presentations it is withdrawing as little used.
 
 ## What "commercial reasons" means in money
 
-These are what payers spent at list or reimbursement prices, and gives a sense of scale. In England,
+These are what payers spent at list or reimbursement prices, and they give a sense of scale. In England,
 primary care spent £5.6 million on Lyumjev in the year to July 2026, against £18.3 million on
 Humalog. In France it was €6.4 million against €49.3 million. In the US Medicare drug programme
 Lyumjev took $90 million in 2024, against $664 million for Humalog. Lyumjev is between a tenth and a
