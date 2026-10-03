@@ -1,0 +1,76 @@
+country,year,biosimilar_pct,ultra_pct,basis,originator_unbranded_pct
+Denmark,2015,0.0,0.0,units (DDD x 40),
+Denmark,2016,0.0,0.0,units (DDD x 40),
+Denmark,2017,0.0,2.33,units (DDD x 40),
+Denmark,2018,0.0,7.24,units (DDD x 40),
+Denmark,2019,0.0,10.01,units (DDD x 40),
+Denmark,2020,0.03,11.32,units (DDD x 40),
+Denmark,2021,0.69,11.96,units (DDD x 40),
+Denmark,2022,2.7,11.51,units (DDD x 40),
+Denmark,2023,5.05,11.37,units (DDD x 40),
+Denmark,2024,5.37,11.4,units (DDD x 40),
+Denmark,2025,5.46,11.02,units (DDD x 40),
+England,2014,0.0,0.0,units,
+England,2015,0.0,0.0,units,
+England,2016,0.0,0.0,units,
+England,2017,0.0,0.25,units,
+England,2018,0.0,1.33,units,
+England,2019,0.02,2.64,units,
+England,2020,0.08,4.38,units,
+England,2021,0.12,6.44,units,
+England,2022,0.33,9.48,units,
+England,2023,1.33,12.89,units,
+England,2024,3.5,15.07,units,
+England,2025,6.03,16.58,units,
+France,2017,0.0,0.0,units,
+France,2018,0.0,4.35,units,
+France,2019,0.0,8.78,units,
+France,2020,0.0,10.32,units,
+France,2021,0.01,11.99,units,
+France,2022,0.33,13.41,units,
+France,2023,1.66,14.18,units,
+France,2024,2.04,14.95,units,
+France,2025,2.87,14.58,units,
+Germany,2020,2.51,9.11,units (DDD x 40); ultra-rapid is Fiasp only,
+Germany,2021,3.14,9.76,units (DDD x 40); ultra-rapid is Fiasp only,
+Germany,2022,3.47,10.3,units (DDD x 40); ultra-rapid is Fiasp only,
+Germany,2023,3.91,11.1,units (DDD x 40); ultra-rapid is Fiasp only,
+Germany,2024,4.32,11.49,units (DDD x 40); ultra-rapid is Fiasp only,
+Germany,2025,5.25,12.11,units (DDD x 40); ultra-rapid is Fiasp only,
+Northern Ireland,2014,0.0,0.0,units,
+Northern Ireland,2015,0.0,0.0,units,
+Northern Ireland,2016,0.0,0.0,units,
+Northern Ireland,2017,0.0,0.73,units,
+Northern Ireland,2018,0.0,3.37,units,
+Northern Ireland,2019,0.0,6.07,units,
+Northern Ireland,2020,0.0,9.13,units,
+Northern Ireland,2021,0.0,12.26,units,
+Northern Ireland,2022,0.0,15.66,units,
+Northern Ireland,2023,0.0,18.37,units,
+Northern Ireland,2024,0.0,18.91,units,
+Northern Ireland,2025,0.0,23.89,units,
+Scotland,2016,0.0,0.0,units,
+Scotland,2017,0.0,0.63,units,
+Scotland,2018,0.02,2.91,units,
+Scotland,2019,0.05,4.67,units,
+Scotland,2020,0.05,5.95,units,
+Scotland,2021,0.05,7.38,units,
+Scotland,2022,0.04,9.53,units,
+Scotland,2023,0.45,11.96,units,
+Scotland,2024,0.1,13.62,units,
+Scotland,2025,0.39,14.05,units,
+US Medicaid,2017,0.0,0.0,units,0.0
+US Medicaid,2018,7.28,0.09,units,0.0
+US Medicaid,2019,32.51,0.24,units,1.17
+US Medicaid,2020,27.16,0.36,units,14.77
+US Medicaid,2021,20.26,0.55,units,22.85
+US Medicaid,2022,17.91,0.85,units,32.73
+US Medicaid,2023,13.18,1.18,units,38.0
+US Medicaid,2024,6.85,1.49,units,47.59
+US Medicaid,2025,4.29,1.89,units,61.76
+US Medicare Part D,2020,0.38,0.8,units,10.37
+US Medicare Part D,2021,0.37,1.41,units,14.06
+US Medicare Part D,2022,0.34,2.37,units,13.88
+US Medicare Part D,2023,0.29,3.55,units,13.56
+US Medicare Part D,2024,2.48,8.97,units,19.0
+Wales,2025,2.12,30.92,units,
