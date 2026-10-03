@@ -339,6 +339,19 @@ switch, but once Trurapi is first choice an ultra-rapid insulin becomes a second
 evidence gives that step little to stand on. Trurapi reached 7.5% of units within five years.
 Lyumjev, after six, is at 3.7%.
 
+Outside England, biosimilars don't explain the low use of the faster insulins. In Denmark and
+Germany they were about 5% of rapid-acting analogue insulin in 2025, and in France 2.9%. The
+discount on NovoRapid in France and Denmark is only 4 to 5%, and in each country the faster insulins
+held at 11% to 15%. In the US Medicare drug programme Admelog costs the same as Humalog. England is
+where that could change. Trurapi lists at 21% less than NovoRapid overall and 30% less for pens. Its
+share of rapid-acting units rose from 0.3% in 2022 to 6.0% in 2025, pushed by incentive schemes such
+as Dorset's and by formularies such as North West London's that send every new start to it. Within
+the UK, the two nations with the most ultra-rapid use, Wales at 30.9% and Northern Ireland at 23.9%,
+dispensed almost no biosimilar: 2.1% in Wales and none at all in Northern Ireland. The concern is
+that once England makes the cheaper standard-speed insulin the default for new starters, the people
+who might have done better on a faster insulin are never offered one, and the gap with Wales grows
+([figures](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/international/output/RAPID_BIOSIMILAR_INTL.md)).
+
 ### Where the savings should come from
 
 The biosimilar effort has been pointed at the wrong insulin. In the year to July 2026, at list price

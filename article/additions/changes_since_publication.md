@@ -44,12 +44,14 @@ Text:
 
 > For much of the period, the price of the insulin offers little explanation. Lyumjev has cost English primary care the same per unit as Humalog in every year since it arrived. Its list price per box is the same as Humalog's. Fiasp was the same against NovoRapid. For the 52 months between Fiasp's arrival in February 2017 and the first biosimilar, Trurapi, in June 2021, English primary care paid £1.68 per 100 units of Fiasp against £1.76 for NovoRapid. There was little or no acquisition-cost premium for choosing the faster formulation. That is not the same as no cost to the system: switching takes clinic time and training, and pumps and pens have to be compatible. Those costs are not measured here.
 
-## 6. New subsection: "Where the savings should come from"
+## 6. New paragraphs with figure
 
 Where: Insert after the paragraph ending "Lyumjev, after six, is at 3.7%." and before the heading "Lilly's part".
 
 Text:
 
+> Outside England, biosimilars don't explain the low use of the faster insulins. In Denmark and Germany they were about 5% of rapid-acting analogue insulin in 2025, and in France 2.9%. The discount on NovoRapid in France and Denmark is only 4 to 5%, and in each country the faster insulins held at 11% to 15%. In the US Medicare drug programme Admelog costs the same as Humalog. England is where that could change. Trurapi lists at 21% less than NovoRapid overall and 30% less for pens. Its share of rapid-acting units rose from 0.3% in 2022 to 6.0% in 2025, pushed by incentive schemes such as Dorset's and by formularies such as North West London's that send every new start to it. Within the UK, the two nations with the most ultra-rapid use, Wales at 30.9% and Northern Ireland at 23.9%, dispensed almost no biosimilar: 2.1% in Wales and none at all in Northern Ireland. The concern is that once England makes the cheaper standard-speed insulin the default for new starters, the people who might have done better on a faster insulin are never offered one, and the gap with Wales grows ([figures](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/international/output/RAPID_BIOSIMILAR_INTL.md)).
+>
 > ### Where the savings should come from
 >
 > The biosimilar effort has been pointed at the wrong insulin. In the year to July 2026, at list price and device for device, Fiasp cost English primary care exactly what NovoRapid cost, and Lyumjev exactly what Humalog cost. Moving someone from either older insulin to its faster version costs nothing. The only money at stake is the saving given up by not moving them to Trurapi, which is £0.47 per 100 units cheaper than Fiasp. Lispro has no cheaper alternative left to protect, since Sanofi is withdrawing Admelog.
@@ -80,7 +82,7 @@ Text:
 >
 > Is this a failure of the system? Yes, at every level, and nobody escapes the blame. The licensing trials were built to show the new insulins were no worse on HbA1c, and that was read as showing they were no better. NICE left its mealtime insulin advice as it stood in 2015, looked at it again in January 2026 and left it there. The Scottish and Welsh appraisal bodies wrote rules that left Lyumjev without a decision in either country, and Northern Ireland, which depends on them, inherited the gap. Formulary committees left it off or put it behind the insulin people were already using, while finding a written place for Tresiba, which costs a third more than Lantus. Consultants told people who asked for a faster insulin that they were too well controlled to need one. Lilly priced Lyumjev the same as Humalog and then, as far as the public record shows, did almost nothing to make the case for it in the UK, and did not even tell the Swiss patient organisation that it was going. The charities, whose whole purpose is to make noise about exactly this, have barely raised their voices. The cost of all of it falls on the people with diabetes who were never offered the choice.
 
-## 9. New sources 61 to 69
+## 9. New sources 61 to 70
 
 Where: Add at the end of the numbered Sources list, after entry 60.
 
@@ -96,4 +98,5 @@ Text:
 67. Diabetes UK. What you need to know about insulin supply issues in the UK, updated 14 November 2025, read 3 October 2026 (including the Medicine Supply Notification of 18 September 2025 for the discontinuation of Admelog); and the searches of Breakthrough T1D UK, Fédération Française des Diabétiques, diabetesDE, diabetesschweiz and the Belgian associations recorded at https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/withdrawals_eu/charities/SEARCH_LOG.md
 68. North West London Integrated Formulary, version 64, last updated 3 September 2026, section 6.1.1 (insulins). Captured in https://github.com/tim2000s/rapid-insulin-prescribing/tree/master/formulary_basal/raw (nwl_integrated_formulary)
 69. List prices by device and the biosimilar scenarios for England and North West London, August 2025 to July 2026: https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/output/biosimilar/SUMMARY.md
+70. Biosimilar rapid-acting insulin by country and year, with prices against the originator: https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/international/output/RAPID_BIOSIMILAR_INTL.md
 
