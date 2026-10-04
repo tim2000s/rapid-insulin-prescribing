@@ -30,7 +30,7 @@ uncomfortable question: did health systems help create the low-demand market tha
 is now retreating from? I think the answer is largely yes, and the rest of this article sets out
 why, and where the evidence stops.
 
-Personally, I have used the fastest subcutaneous mealtime insulin available since each one reached
+Personally, I have [used](https://www.diabettech.com/lyumjev-what-next-another-n1-experiment/) the fastest subcutaneous mealtime insulin available since each one reached
 the UK, some of the time on private prescription, because I read the pharmacology and the trials and
 decided that an insulin which starts working sooner was worth having. I have talked about it openly
 on this website. I built Boost, the open-source automated insulin delivery algorithm I develop,
@@ -124,8 +124,7 @@ Lyumjev suits some people and hurts others.
 The figures that follow are shares of insulin units dispensed in the community, from England's [open
 prescribing data](https://opendata.nhsbsa.net) and the equivalents for Scotland, Wales and Northern
 Ireland. They count insulin supplied. They do not count people, and they cannot show who was offered
-what. I suspect that far fewer people have ever been offered Lyumjev because I suspect that many
-clinicians don't know enough about it.
+what. I suspect that far fewer people have ever been offered Lyumjev because I suspect that many clinicians don't know enough about it. I have taken the data for the UK as an example because it is freely available and extremely detailed, where other countries are less so. I suspect the same arguments apply across national boundaries.
 
 The UK was always going to struggle with this, as by far the most frequently prescribed rapid acting
 insulin comes from Novo (even though pricing for Novo and Lilly products has historically been
@@ -133,7 +132,7 @@ similar) so it would have required a major marketing push to get Lyumjev in fron
 the year to July 2026, Lyumjev was 3.7% of the rapid-acting analogue insulin units dispensed in
 English primary care, six years after it arrived. Its share of lispro has grown every year, to 24%
 in 2026. Fiasp adds 13.9%, so the two ultra-rapid insulins together are 17.5% of units. It's notable
-that Fiasp is still a larger share than Humalog. Other European markets split differently. In France in 2025 Humalog was 27.3% of rapid-acting analogue units and Fiasp 11.1%; in Denmark, Novo Nordisk's home market, Fiasp was 11.0% and Humalog 1.1%. The other 82.5%, or 2.74 million prescription items a year, is one of the older products.
+that Fiasp is still a larger share than Humalog. Other European markets split differently. In France in 2025 Humalog was 27.3% of rapid-acting analogue units and Fiasp 11.1%; in Denmark, Novo Nordisk's home market, Fiasp was 11.0% and Humalog 1.1%. The other 82.5% in the UK, or 2.74 million prescription items a year, is one of the older products.
 
 ![Share of rapid-acting analogue units dispensed in English primary care by product, three-month rolling, January 2014 to July 2026. The black line is the combined ultra-rapid share.](fig1_share_by_product.png)
 
@@ -554,8 +553,9 @@ finding a written place for Tresiba, which costs a third more than Lantus. Consu
 asked for a faster insulin that they were too well controlled to need one. Lilly priced Lyumjev the
 same as Humalog and then, as far as the public record shows, did almost nothing to make the case for
 it in the UK, and did not even tell the Swiss patient organisation that it was going. The charities,
-whose whole purpose is to make noise about exactly this, have barely raised their voices. The cost of
-all of it falls on the people with diabetes who were never offered the choice.
+whose whole purpose is to make noise about exactly this, have barely raised their voices.
+
+The cost of it all falls on the people with diabetes who were never offered the choice.
 
 ---
 

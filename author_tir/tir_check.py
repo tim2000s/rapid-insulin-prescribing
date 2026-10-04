@@ -2,7 +2,8 @@
 """Check the author's time in range for the article's statement: sensor glucose entries from the
 author's Nightscout, 1 April to 31 August 2026 (UK time), in 7-day chunks with retries. Reports time
 in range 3.9 to 10.0 mmol/L as the share of readings, with readings deduplicated by timestamp. The
-Nightscout address and token are read from environment variables so they are not committed."""
+Nightscout address and token are read from environment variables so they are not committed. The
+result of the run used in the article is recorded in RESULT.md beside this script."""
 import os, time
 import pandas as pd, requests
 NS, TOKEN = os.environ["NS_URL"], os.environ["NS_TOKEN"]

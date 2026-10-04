@@ -24,8 +24,8 @@ from docx.shared import Pt, RGBColor
 
 HERE = Path(__file__).parent
 OUT = HERE / "additions"
-LIVE = HERE / "published" / "live_2026-10-03_body.html"
-LIVE_SOURCES = 60
+LIVE = HERE / "published" / "live_2026-10-04_body.html"
+LIVE_SOURCES = 69
 
 
 def blocks(text):
