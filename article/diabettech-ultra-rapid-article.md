@@ -9,7 +9,7 @@ and the sources are listed at the end.*
 
 As MiniMed, Insulet, Tandem and CamDiab work to bring fully closed loop, a system that needs no meal
 boluses at all, into wider use, the system that decides which insulins people are offered has
-conspired to take away a key part of that equation: the fastest subcutaneous insulin available. This
+conspired to take away a key part of that equation: the fastest-absorbed subcutaneous mealtime insulin available. This
 is a story of inertia, ineptitude and indifference.
 
 In March 2026 a pump user in Switzerland went to order more Lyumjev and was told it could not be
@@ -17,12 +17,12 @@ ordered. "There's no press release, pharmacy just says they can't order it anymo
 discontinued," they wrote on Reddit. Lilly had told Swiss specialists the previous autumn. It had
 not told the national patient organisation, which found out from a copy passed to it unofficially.
 
-Switzerland was the first. In March 2026 Lilly announced that it would stop selling selected
+Norway lost two Lyumjev pens in October 2025, but Switzerland was the first country to lose its vial, cartridges and standard pen together. In March 2026 Lilly announced that it would stop selling selected
 presentations of its insulins in selected European countries before 2027, and Lyumjev, its ultra
 rapid insulin lispro, is on the list. The formal reason is "commercial". Closer to the ground, the
 reason given is that not many people used it.
 
-So Europe is losing presentations of its fastest subcutaneous insulin after years of surprisingly
+So Europe is losing presentations of its fastest-absorbed subcutaneous insulin after years of surprisingly
 low and uneven use. The UK dispensing and formulary data in this article show that access policy is
 strongly associated with that use, and that for most of the period the price of the insulin explains
 very little of it. It cannot prove what drove Lilly's commercial decisions. But it raises an
@@ -34,8 +34,7 @@ Personally, I have [used](https://www.diabettech.com/lyumjev-what-next-another-n
 the UK, some of the time on private prescription, because I read the pharmacology and the trials and
 decided that an insulin which starts working sooner was worth having. I have talked about it openly
 on this website. I built Boost, the open-source automated insulin delivery algorithm I develop,
-around the pharmacology of Lyumjev, and with it my own time in range (3.9 to 10 mmol/L) was about
-83% between 1 April and 31 August 2026, without announcing meals or bolusing for them. This is a
+around the pharmacology of Lyumjev, and with it my own time in range (3.9 to 10 mmol/L) was about 83% between 1 April and 31 August 2026, without announcing meals or bolusing for them ([calculation](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/author_tir/RESULT.md); the personal CGM data behind it are not published). This is a
 major reason for my concern.
 
 ## What is being lost
@@ -83,21 +82,16 @@ Every injected rapid-acting insulin has the same problem. Food starts raising gl
 minutes, and an injected insulin takes a good deal longer to get going. That is why we are told to
 inject 15 to 20 minutes before eating and many choose to do so considerably earlier than that. In
 practice many people do not wait. A [Spanish study](https://doi.org/10.3390/biomedicines12071600)
-using connected pen caps recorded 775 evenings from 49 people, and in 52.6% of them the dinner
-insulin went in during the 45 minutes after the glucose rise from the meal had already started.
+using connected pen caps recorded 775 evenings from 49 people, and in 52.6% of them (408 evenings) the dinner insulin went in up to 45 minutes after the start of the meal, as detected from the glucose trace.
 
 The ultra-rapid insulins change the first half hour. Fiasp [appears in the
 blood](https://doi.org/10.1007/s40262-017-0514-8) about five minutes earlier than NovoRapid. Lyumjev
 adds citrate and treprostinil to lispro, which open up the local blood vessels, and has [several
 times](https://doi.org/10.1007/s40262-021-01030-0) Humalog's exposure in the first quarter of an
-hour and is typically faster still than Fiasp. In the trials' meal tests, the rise in glucose an
-hour after eating was about 0.9 to 1.6 mmol/L lower than with the older insulins, and a
-[meta-analysis](https://doi.org/10.1111/dom.14461) found better post-meal glucose with little
-difference in HbA1c.
+hour and is typically faster still than Fiasp. In the meal test of [PRONTO-T1D](https://doi.org/10.1111/dom.14100), the rise in glucose an hour after eating was 1.55 mmol/L lower with Lyumjev than with Humalog, and a [meta-analysis](https://doi.org/10.1111/dom.14461) pooled reductions of 0.94 mmol/L in type 1 diabetes and 0.56 mmol/L in type 2, with little difference in HbA1c.
 
 Lyumjev is the faster of the two. In a [crossover study of all four
-insulins](https://doi.org/10.1111/dom.14094), it reached half its early peak concentration six
-minutes before Fiasp. In closed-loop systems the gains from both are modest and depend on the
+insulins](https://doi.org/10.1111/dom.14094), it reached half its early peak concentration six minutes before Fiasp, though its lower glucose after the meal against Fiasp, about 0.4 mmol/L at two hours, was numerical and not statistically significant. In closed-loop systems the gains from both are modest and depend on the
 algorithm. In the Cambridge CamAPS FX system, Fiasp [added no time in
 range](https://doi.org/10.1111/dom.14355) over standard aspart (though it reduced time below range),
 while Lyumjev [added 2.5 percentage points](https://doi.org/10.1089/dia.2023.0262) over standard
@@ -114,8 +108,7 @@ It noticeably improved post-meal spikes compared with standard lispro."
 
 It does not suit everyone. Site pain is a common complaint, especially on pumps. In the Lyumjev
 [pump trial](https://doi.org/10.1111/dom.14368), infusion-site reactions occurred in 19.1% of people
-against 6.9% on Humalog, and of 29 people whose earlier public accounts I collected, nine described
-pain or site reactions, seven of them with Lyumjev. "Burning, painful infusion sites that left lumps
+against 6.9% on Humalog, and of 29 people whose earlier public accounts I collected to illustrate experience, not to measure it, nine described pain or site reactions, seven of them with Lyumjev. "Burning, painful infusion sites that left lumps
 several days after," one t:slim user wrote in March 2026. That is a reason to offer a choice:
 Lyumjev suits some people and hurts others.
 
@@ -132,7 +125,7 @@ similar) so it would have required a major marketing push to get Lyumjev in fron
 the year to July 2026, Lyumjev was 3.7% of the rapid-acting analogue insulin units dispensed in
 English primary care, six years after it arrived. Its share of lispro has grown every year, to 24%
 in 2026. Fiasp adds 13.9%, so the two ultra-rapid insulins together are 17.5% of units. It's notable
-that Fiasp is still a larger share than Humalog. Other European markets split differently. In France in 2025 Humalog was 27.3% of rapid-acting analogue units and Fiasp 11.1%; in Denmark, Novo Nordisk's home market, Fiasp was 11.0% and Humalog 1.1%. The other 82.5% in the UK, or 2.74 million prescription items a year, is one of the older products.
+that Fiasp is still a larger share than Humalog. Other European markets split differently. In France in 2025 Humalog was 27.3% of rapid-acting analogue units and Fiasp 11.1%; in Denmark, Novo Nordisk's home market, Fiasp was 11.0% and Humalog 1.1%. Standard-speed products make up the other 82.5% of units in English primary care, about 2.74 million prescription items a year.
 
 ![Share of rapid-acting analogue units dispensed in English primary care by product, three-month rolling, January 2014 to July 2026. The black line is the combined ultra-rapid share.](fig1_share_by_product.png)
 
@@ -187,8 +180,7 @@ The [All Wales Medicines Strategy
 Group](https://awttc.nhs.wales/accessing-medicines/medicine-recommendations/insulin-lispro-liumjev/)
 excluded Lyumjev from appraisal on the same grounds, as it had Fiasp. [Northern
 Ireland](https://niformulary.hscni.net/managed-entry/policy-context/) adopts NICE decisions first,
-then the Scottish Consortium's, then the Welsh group's, and none of them had made one, so Lyumjev
-had no route onto the Northern Irish formulary. A rule meant to spare same-priced medicines
+then the Scottish Consortium's, then the Welsh group's, and none of them had made one, so there was no recommendation for Northern Ireland to adopt through its usual sequence. Clinicians there can still prescribe outside the formulary or ask for an addition. A rule meant to spare same-priced medicines
 unnecessary paperwork left one with no decision anywhere, and no public record shows anyone, Lilly
 included, trying to close the gap.
 
@@ -199,15 +191,15 @@ restricted to pregnancy or not listed, it was 9.5%. Birmingham and Solihull, the
 pregnancy](https://www.birminghamandsurroundsformulary.nhs.uk/docs/ESCA/BSSE%20APC%20ESCA%20Fiasp%20FINAL.pdf)
 "after other insulins have been tried and failed" and does not list Lyumjev. Scotland shows the same
 direction: the two boards using the Highland Formulary, which lists both products without
-restriction, are at 26.2% and 23.5%, while the rest have a median of 5.2%.
+restriction, are at 26.2% and 23.5%, while the rest have a median of 5.2%. Across the 16 English integrated care boards, the rank correlation between how restrictive the formulary is and ultra-rapid use was -0.72 (95% interval -0.91 to -0.35; permutation p = 0.002), and across Scotland's 13 boards -0.51.
+
+Taken on its own, Lyumjev tells a narrower story. Setting its formulary position against its share of lispro, the rank correlation is -0.56 in England (-0.87 to -0.04) and -0.63 across 37 UK areas ([figures](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/output/formulary/LYUMJEV_SUMMARY.md)). Almost all of that comes from being left off. Where Lyumjev is not listed, its median share of lispro is 5.2% in England and 2.9% in Scotland; wherever English formularies list it, under any restriction, the median is 27% to 31%, with no clear gradient between the restrictions. Leaving it off the formulary goes with very low use. Putting it behind Humalog does not show up in these numbers.
 
 This is an association between areas, and it does not demonstrate cause, but it is highly
 coincidental. The open group in England is only two integrated care boards; I classified the
 formularies myself after seeing the uptake figures; many formulary pages carry no date, so current
 wording is being compared with past prescribing; and none of it is adjusted for how many people use
-pumps, the reach of specialist centres, the local population or past habit. Wales shows the limit:
-uptake there is high under every kind of formulary entry, and Northern Ireland dispenses Lyumjev at
-1.6 times the English rate without listing it. Local specialist practice clearly matters as well.
+pumps, the reach of specialist centres, the local population or past habit. Wales goes the other way: its boards that require a specialist have higher uptake than its open ones (rank correlation +0.63), so formulary position explains part of the pattern in England and Scotland and plainly not in Wales. Northern Ireland dispenses Lyumjev at 1.6 times the English rate without listing it. Local specialist practice clearly matters as well.
 But a formulary that leaves an insulin off, or puts it behind the one most people are already on,
 makes it harder to prescribe.
 
@@ -316,9 +308,7 @@ on novel insulins because they can’t easily transition them to biosimilars.
 
 These data cannot show how often anyone was offered a faster insulin and declined it, perhaps
 because of site pain. As I've already mentioned, I'm reasonably sure that large swathes of the
-population simply weren't offered it. Hospital diabetes teams prescribe the ultra-rapid insulins at
-about twice the GP rate, yet most of the rapid-acting insulin they prescribe is still
-standard-speed. What the data do show is that, through the years when the faster insulins carried
+population simply weren't offered it. Among the small number of hospital prescriptions dispensed in the community, 0.13% of rapid-acting units, the ultra-rapid share is about twice the GP figure (35.6% against 17.6% on the same six-brand basis), yet most of it is still standard-speed. The much larger supply issued inside hospitals cannot be split by brand. What the data do show is that, through the years when the faster insulins carried
 little or no price premium, they stayed at under 6% of the rapid-acting insulin dispensed in
 England.
 
@@ -355,12 +345,12 @@ who might have done better on a faster insulin are never offered one, and the ga
 
 The biosimilar effort has been pointed at the wrong insulin. In the year to July 2026, at list price
 and device for device, Fiasp cost English primary care exactly what NovoRapid cost, and Lyumjev exactly
-what Humalog cost. Moving someone from either older insulin to its faster version costs nothing. The
+what Humalog cost. Moving someone from either older insulin to its faster version adds no acquisition cost at published list prices for the same device; the clinic time a switch takes is a separate cost. The
 only money at stake is the saving given up by not moving them to Trurapi, which is £0.47 per 100 units
 cheaper than Fiasp. Lispro has no cheaper alternative left to protect, since Sanofi is withdrawing
 Admelog.
 
-Long-acting insulin is where a switch asks nobody to give anything up. Semglee, the cheapest glargine,
+Long-acting insulin is where a switch does not mean accepting a slower insulin, though it is still a shared decision and a new pen to learn. Semglee, the cheapest glargine,
 lists at £2.00 per 100 units against £2.32 for Lantus and £2.35 for Abasaglar, the older biosimilar,
 and it is the same molecule with the same profile of action. Yet it is 4.8% of the glargine 100
 dispensed in England. Moving 80% of Lantus and Abasaglar pens to it would save about £5.5 million a
@@ -391,11 +381,7 @@ cartridges are left out.
 Lilly's role in this needs to be questioned too. On the public record, it did the formal work each
 country required, and I found little public evidence of a sustained campaign in the UK beyond it.
 
-In France, Lilly applied for reimbursement and asked the [assessment
-committee](https://www.has-sante.fr/upload/docs/application/pdf/2020-07/lyumjev_03062020_transcription_ct18474.pdf)
-for the French rating that denotes no improvement over Humalog (ASMR V), presenting the trials'
-comparable HbA1c and better post-meal glucose. The committee judged that Lyumjev offered no
-improvement over Humalog, noting no demonstrated advantage in efficacy, tolerance or quality of
+In France, Lilly applied for reimbursement and, according to the [assessment committee's transcript](https://www.has-sante.fr/upload/docs/application/pdf/2020-07/lyumjev_03062020_transcription_ct18474.pdf), claimed no added benefit over Humalog ("pas d'ASMR"), presenting the trials' comparable HbA1c and better post-meal glucose. The committee rated Lyumjev ASMR V, no improvement over Humalog, noting no demonstrated advantage in efficacy, tolerance or quality of
 life. In Germany Lilly agreed [rebate
 contracts](https://www.g-ba.de/downloads/40-268-12140/2025-12-04_AM-RL_Paragraf-40-c_Austausch-Biologika-Apotheke_ZD.pdf)
 covering Humalog, Lyumjev and Abasaglar for "nearly all" people with statutory insurance.
@@ -447,10 +433,9 @@ a line Lyumjev is in each European market.
 
 ## What the community is saying
 
-I collected 31 public posts from people with diabetes across Europe, and 11 statements from
-companies, regulators and patient groups, from 2025 and 2026.
+I collected 31 public posts from people with diabetes across Europe, and 11 statements from companies, regulators and patient groups, from 2025 and 2026. The posts were gathered to show the range of reactions. They are not a sample, so they say nothing about how common any view is.
 
-The sharpest reaction is from Switzerland, where Lyumjev went first. "Not cool that the best insulin
+The sharpest reaction is from Switzerland, where Lyumjev's main presentations went first. "Not cool that the best insulin
 for tslim gets discontinued by the manufacturer - also without any sort of proper announcement"
 (Reddit, Switzerland, March 2026). "Why was my favorite insulin (Lyumjev) pulled from the Swiss
 market?" (Reddit, Switzerland, April 2026). "I am from Switzerland and currently use my very last
@@ -491,18 +476,13 @@ Fully closed loop works with the insulins already available. Cambridge's CamAPS 
 Fiasp in [adults with type 2 diabetes](https://doi.org/10.1038/s41591-022-02144-z) and in
 [adolescents with type 1 diabetes](https://doi.org/10.1089/dia.2025.0062), and with Lyumjev in
 [adults with type 1 diabetes](https://doi.org/10.1089/dia.2023.0394). The one trial comparing
-Lyumjev with standard lispro in fully closed loop with unannounced meals found time in range of
-49.3% against 39.9% in 17 people, a difference that did not reach statistical significance ([p =
+Lyumjev with standard lispro in fully closed loop with unannounced meals found time in range of 49.3% against 39.9% in 17 people, over 8-hour inpatient sessions with one unannounced meal, a difference that did not reach statistical significance ([p =
 0.072](https://doi.org/10.1111/dme.70122)). Its authors concluded that "Further advancements in
 faster-acting insulins are needed to alleviate the burden of pre-meal bolusing and enhance fully
 closed-loop performance in the future." As one person put it in September 2026: "every minute counts
 with a system working on a time offset."
 
-So fully closed loop does not depend on Lyumjev, but the relative difference between the published
-results appears significant to the end user, even if the statistical power doesn't say so. But
-insulin speed is one of the few ways of reducing the delay these systems have to work around, and in
-Europe the fastest subcutaneous insulin is being withdrawn country by country, with low use given as
-the reason in Norway and Switzerland. Pump users can still fill reservoirs from Fiasp vials, as the
+So fully closed loop does not depend on Lyumjev. The 9.4-point difference in that trial would matter to someone living with it, but it came from a small, short study and was too imprecisely estimated to reach statistical significance. Insulin speed is still one of the few ways of reducing the delay these systems have to work around, and in Europe the fastest-absorbed subcutaneous insulin is being withdrawn country by country, with low use given as the reason by Lilly in Norway and, in the patient organisation's unofficial account, in Switzerland. Pump users can still fill reservoirs from Fiasp vials, as the
 German Diabetes Society has pointed out, but the options are narrowing as the systems that would
 benefit most arrive. The UK still has every Lyumjev presentation except the Tempo Pen.
 
@@ -510,8 +490,7 @@ benefit most arrive. The UK still has every Lyumjev presentation except the Temp
 
 None of the reasons Lyumjev was so little used rests on evidence that the older insulins are better.
 They have, by default, been left in place: licensing trials built around equivalence on the measure
-everyone watches, guidance that names no product, formularies that left Lyumjev off or put it behind
-the insulin already in use, cost programmes that made a cheaper standard-speed insulin first choice
+everyone watches, guidance that names no product, formularies that left Lyumjev off altogether in a third of the UK areas I read, cost programmes that made a cheaper standard-speed insulin first choice
 once there was one, and a manufacturer that made little visible case for it.
 
 The part I find hardest to accept is the years before biosimilars. The faster insulins carried
@@ -534,8 +513,7 @@ it, and the German Diabetes Society's statement was practical advice on pump car
 ([search record](https://github.com/tim2000s/rapid-insulin-prescribing/blob/master/withdrawals_eu/charities/SEARCH_LOG.md)).
 Norway's diabetes association
 reported the withdrawals and quoted a professor reassuring readers that there were good alternatives
-to every insulin going. diabetesschweiz complained to Lilly, then passed on Lilly's explanation that
-hardly anyone used it. Reporting a withdrawal and relaying the manufacturer's reasons is the least an
+to every insulin going. diabetesschweiz complained to Lilly, then passed on its own unofficial account of what it had been told: that hardly anyone used it. Reporting a withdrawal and relaying the manufacturer's reasons is the least an
 organisation can do, and these organisations exist to speak for the people who use these insulins.
 They should be demanding that the faster insulins stay on the market, that they are part of the fully
 closed-loop systems now in trials, that formularies stop parking them behind the insulin people are
@@ -548,14 +526,14 @@ trials were built to show the new insulins were no worse on HbA1c, and that was 
 were no better. NICE left its mealtime insulin advice as it stood in 2015, looked at it again in
 January 2026 and left it there. The Scottish and Welsh appraisal bodies wrote rules that left Lyumjev
 without a decision in either country, and Northern Ireland, which depends on them, inherited the gap.
-Formulary committees left it off or put it behind the insulin people were already using, while
+Formulary committees left it off in 13 of 38 areas, which is where its use is lowest, while
 finding a written place for Tresiba, which costs a third more than Lantus. Consultants told people who
 asked for a faster insulin that they were too well controlled to need one. Lilly priced Lyumjev the
 same as Humalog and then, as far as the public record shows, did almost nothing to make the case for
 it in the UK, and did not even tell the Swiss patient organisation that it was going. The charities,
 whose whole purpose is to make noise about exactly this, have barely raised their voices.
 
-The cost of it all falls on the people with diabetes who were never offered the choice.
+The cost of it all falls on people with diabetes who had less chance to make that choice. These data cannot show who was offered what, but they make it very hard to believe the pattern arose because almost everyone preferred the older insulins.
 
 ---
 

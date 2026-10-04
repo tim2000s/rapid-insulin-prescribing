@@ -61,7 +61,8 @@ def main():
             heads = [x[4:] for x in new if x.startswith("### ")]
             span = (f"{first(a[i1])}..." if i2 - i1 == 1 else
                     f"the {i2 - i1} paragraphs from {first(a[i1])}... to {first(a[i2 - 1])}...")
-            where = (f"Replace {span} with the text below. It comes straight after {last(before)}." +
+            loc = "It is the opening of the post." if j1 == 0 else f"It comes straight after {last(before)}."
+            where = (f"Replace {span} with the text below. {loc}" +
                      (f" The text below also includes the new subsection \"{heads[0]}\", which follows that paragraph."
                       if heads else ""))
             title = ("Replacement paragraphs" if i2 - i1 > 1 else "Replacement paragraph") + \
